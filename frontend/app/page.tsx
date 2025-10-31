@@ -86,7 +86,44 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 flex items-center justify-center p-4 relative">
+      {/* Loading Overlay */}
+      {loading && (
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center">
+          <Card className="w-full max-w-md shadow-2xl border-2 border-blue-200 bg-white dark:bg-gray-800">
+            <CardContent className="pt-12 pb-8 px-8">
+              <div className="flex flex-col items-center space-y-6">
+                {/* Flying Plane Animation */}
+                <div className="relative w-32 h-32 flex items-center justify-center">
+                  <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full animate-pulse"></div>
+                  <div className="absolute inset-2 bg-gradient-to-tr from-blue-400 to-indigo-500 rounded-full"></div>
+                  <Plane className="absolute w-16 h-16 text-white" style={{ 
+                    animation: 'fly 2s ease-in-out infinite'
+                  }} />
+                </div>
+                {/* Loading Text */}
+                <div className="text-center space-y-2">
+                  <h3 className="text-2xl font-bold text-gray-900 dark:text-white">
+                    Searching for Airport Info...
+                  </h3>
+                  <p className="text-gray-600 dark:text-gray-400">
+                    Please wait while we fetch the data
+                  </p>
+                </div>
+                {/* Progress Bar */}
+                <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2 overflow-hidden">
+                  <div className="h-full bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-500 rounded-full animate-pulse" 
+                       style={{ 
+                         width: '100%',
+                         animation: 'progress 2s ease-in-out infinite'
+                       }}></div>
+                </div>
+              </div>
+            </CardContent>
+          </Card>
+        </div>
+      )}
+      
       <div className="w-full max-w-4xl space-y-6">
         {/* Header Card */}
         <Card className="shadow-lg border-0 bg-white/80 backdrop-blur-sm dark:bg-gray-800/80">

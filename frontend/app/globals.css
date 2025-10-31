@@ -120,3 +120,30 @@
     @apply bg-background text-foreground;
   }
 }
+
+@keyframes fly {
+  0%, 100% {
+    transform: translateX(-10px) translateY(0) rotate(0deg);
+  }
+  25% {
+    transform: translateX(10px) translateY(-10px) rotate(-5deg);
+  }
+  50% {
+    transform: translateX(10px) translateY(0) rotate(0deg);
+  }
+  75% {
+    transform: translateX(-10px) translateY(-5px) rotate(5deg);
+  }
+}
+
+@keyframes progress {
+  0% {
+    width: 0%;
+  }
+  50% {
+    width: 70%;
+  }
+  100% {
+    width: 100%;
+  }
+}
