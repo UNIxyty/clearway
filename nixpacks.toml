@@ -1,0 +1,19 @@
+# Nixpacks configuration for Railway
+# Auto-detects Python and installs dependencies
+
+[phases.setup]
+nixPkgs = ["python311", "pip"]
+
+[phases.install]
+cmds = [
+  "pip install --upgrade pip",
+  "pip install -r requirements.txt",
+  "playwright install chromium"
+]
+
+[phases.build]
+cmds = ["echo 'Build complete'"]
+
+[start]
+cmd = "python app.py"
+

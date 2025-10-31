@@ -6,6 +6,7 @@ Provides API endpoint and serves the frontend
 
 import json
 import logging
+import os
 from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 from scrapers.airport_scraper import AirportScraper
@@ -248,11 +249,14 @@ if __name__ == '__main__':
         logger.info("  GET  /api/health - Health check")
         logger.info("  GET  /api/airports/test - Test multiple airports")
         
+        # Get port from environment variable (for Railway, Fly.io, etc.)
+        port = int(os.environ.get('PORT', 8080))
+        
         # Run the Flask app
         app.run(
             host='0.0.0.0',
-            port=8080,
-            debug=True,
+            port=port,
+            debug=False,  # Disable debug in production
             threaded=True
         )
     except KeyboardInterrupt:

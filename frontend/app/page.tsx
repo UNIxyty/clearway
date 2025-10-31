@@ -51,7 +51,8 @@ export default function Home() {
     setAirportInfo(null)
 
     try {
-      const response = await fetch('http://localhost:8080/api/airport', {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080'
+      const response = await fetch(`${apiUrl}/api/airport`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
