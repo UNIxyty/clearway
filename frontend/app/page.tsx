@@ -341,9 +341,14 @@ export default function Home() {
         {/* Footer */}
         <Card className="bg-white/60 backdrop-blur-sm border-0">
           <CardContent className="pt-6 text-center">
-            <p className="text-sm text-muted-foreground">
-              Powered by Next.js + TypeScript + shadcn/ui • Real-time AIP data scraping
-            </p>
+            <div className="flex flex-col items-center gap-2">
+              <div className="flex items-center gap-2">
+                <img src="/verxyl-logo.svg" alt="Verxyl" className="h-8 w-auto opacity-80 hover:opacity-100 transition-opacity" />
+              </div>
+              <p className="text-sm text-muted-foreground">
+                Created by Verxyl
+              </p>
+            </div>
           </CardContent>
         </Card>
       </div>
