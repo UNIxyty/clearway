@@ -150,6 +150,30 @@ cd frontend && npm run dev
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## 🌐 Deployment to Production
+
+The application is configured for deployment to **Railway** (backend) and **Vercel** (frontend).
+
+### Quick Deploy
+
+**Backend (Railway):**
+1. Go to [railway.app](https://railway.app)
+2. New Project → Deploy from GitHub
+3. Select `UNIxyty/clearway`
+4. Railway auto-detects and deploys!
+
+**Frontend (Vercel):**
+1. Go to [vercel.com](https://vercel.com)
+2. Add New Project → Import from GitHub
+3. Select `UNIxyty/clearway`
+4. Set Root Directory: `frontend`
+5. Add Environment Variable: `NEXT_PUBLIC_API_URL` = your Railway URL
+6. Deploy!
+
+📚 **Detailed instructions:** See [DEPLOYMENT.md](DEPLOYMENT.md)
+
+✅ **Auto-deploy:** Both platforms auto-deploy on every push to `main` branch!
+
 ## 🔌 API Endpoints
 
 ### POST `/api/airport`
