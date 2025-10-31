@@ -1,3 +1,6 @@
+# Railway will auto-detect Dockerfile and use it
+# No railway.toml builder configuration needed
+
 [deploy]
 startCommand = "python app.py"
 healthcheckPath = "/api/health"
