@@ -51,11 +51,8 @@ export default function Home() {
     setAirportInfo(null)
 
     try {
-      // Use Railway URL for production, localhost for development
-      const apiUrl = process.env.NEXT_PUBLIC_API_URL || 
-                     (typeof window !== 'undefined' && window.location.hostname === 'localhost' 
-                       ? 'http://localhost:8080' 
-                       : 'https://web-production-e7af.up.railway.app')
+      // Hardcode Railway URL for production
+      const apiUrl = 'https://web-production-e7af.up.railway.app'
       const response = await fetch(`${apiUrl}/api/airport`, {
         method: 'POST',
         headers: {
