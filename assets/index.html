@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airport AIP Information Lookup</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: #333;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        .input-section {
+            margin-bottom: 30px;
+        }
+
+        .input-group {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .airport-input {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 1.2rem;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            outline: none;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .airport-input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .airport-input::placeholder {
+            color: #999;
+            text-transform: none;
+        }
+
+        .search-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .search-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .search-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .progress-container {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .progress-bar {
+            position: relative;
+            width: 100%;
+            height: 20px;
+            background: #e1e5e9;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-bottom: 15px;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            border-radius: 10px;
+            width: 0%;
+            transition: width 0.3s ease;
+            position: relative;
+        }
+
+        .airplane {
+            position: absolute;
+            top: 50%;
+            left: 0%;
+            transform: translateY(-50%);
+            font-size: 16px;
+            z-index: 10;
+            transition: left 0.3s ease;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+        }
+
+        .progress-text {
+            color: #666;
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+
+        .progress-percentage {
+            color: #667eea;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+
+        @keyframes fly {
+            0% { transform: translateY(-50%) rotate(0deg); }
+            25% { transform: translateY(-60%) rotate(5deg); }
+            50% { transform: translateY(-50%) rotate(0deg); }
+            75% { transform: translateY(-40%) rotate(-5deg); }
+            100% { transform: translateY(-50%) rotate(0deg); }
+        }
+
+        .airplane.flying {
+            animation: fly 0.8s ease-in-out infinite;
+        }
+
+        .results {
+            display: none;
+            margin-top: 30px;
+        }
+
+        .airport-info {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+        }
+
+        .airport-name {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .airport-code {
+            font-size: 1.2rem;
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .info-section {
+            margin-bottom: 25px;
+        }
+
+        .section-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e1e5e9;
+        }
+
+        .info-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #e1e5e9;
+        }
+
+        .info-item:last-child {
+            border-bottom: none;
+        }
+
+        .info-label {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .info-value {
+            color: #333;
+            text-align: right;
+            max-width: 60%;
+        }
+
+        .error {
+            display: none;
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            border-left: 4px solid #c33;
+        }
+
+        .no-data {
+            color: #999;
+            font-style: italic;
+        }
+
+        .contact-item {
+            margin-bottom: 10px;
+        }
+
+        .contact-type {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .contact-details {
+            color: #333;
+            margin-top: 5px;
+        }
+
+        .phone-link {
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        .phone-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🛩️ Airport AIP Lookup</h1>
+            <p>Enter an airport code to get operational hours and contact information</p>
+        </div>
+
+        <div class="input-section">
+            <div class="input-group">
+                <input 
+                    type="text" 
+                    id="airportCode" 
+                    class="airport-input" 
+                    placeholder="Enter airport code (e.g., KJFK, KLAX, KORD)"
+                    maxlength="4"
+                >
+            </div>
+            <button id="searchBtn" class="search-btn">Search Airport Information</button>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                    <div class="airplane" id="airplane">✈️</div>
+                </div>
+                <div class="progress-text" id="progressText">Initializing search...</div>
+                <div class="progress-percentage" id="progressPercentage">0%</div>
+            </div>
+        </div>
+
+        <div class="error" id="error">
+            <strong>Error:</strong> <span id="errorMessage"></span>
+        </div>
+
+        <div class="results" id="results">
+            <div class="airport-info">
+                <div class="airport-name" id="airportName"></div>
+                <div class="airport-code" id="airportCodeDisplay"></div>
+                
+                <div class="info-section">
+                    <div class="section-title">🕐 Operational Hours</div>
+                    <div id="towerHours"></div>
+                </div>
+
+                <div class="info-section">
+                    <div class="section-title">📞 Contacts</div>
+                    <div id="contacts"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const airportInput = document.getElementById('airportCode');
+        const searchBtn = document.getElementById('searchBtn');
+        const loading = document.getElementById('loading');
+        const results = document.getElementById('results');
+        const error = document.getElementById('error');
+        const errorMessage = document.getElementById('errorMessage');
+
+        // Auto-format input to uppercase
+        airportInput.addEventListener('input', function(e) {
+            e.target.value = e.target.value.toUpperCase();
+        });
+
+        // Handle Enter key press
+        airportInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchAirport();
+            }
+        });
+
+        // Handle search button click
+        searchBtn.addEventListener('click', searchAirport);
+
+        async function searchAirport() {
+            const airportCode = airportInput.value.trim();
+            
+            if (!airportCode) {
+                showError('Please enter an airport code');
+                return;
+            }
+
+            if (airportCode.length < 3) {
+                showError('Airport code must be at least 3 characters');
+                return;
+            }
+
+            // Show loading state
+            showLoading();
+            hideError();
+            hideResults();
+
+            try {
+                const response = await fetch('/api/airport', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ airportCode: airportCode })
+                });
+
+                const data = await response.json();
+
+                if (!response.ok) {
+                    throw new Error(data.error || 'Failed to fetch airport information');
+                }
+
+                displayResults(data);
+                
+            } catch (err) {
+                showError(err.message);
+            } finally {
+                hideLoading();
+            }
+        }
+
+        function showLoading() {
+            loading.style.display = 'block';
+            searchBtn.disabled = true;
+            searchBtn.textContent = 'Searching...';
+            
+            // Start progress animation
+            startProgressAnimation();
+        }
+
+        function hideLoading() {
+            loading.style.display = 'none';
+            searchBtn.disabled = false;
+            searchBtn.textContent = 'Search Airport Information';
+            
+            // Reset progress
+            resetProgress();
+        }
+
+        function startProgressAnimation() {
+            const progressFill = document.getElementById('progressFill');
+            const airplane = document.getElementById('airplane');
+            const progressText = document.getElementById('progressText');
+            const progressPercentage = document.getElementById('progressPercentage');
+            
+            // Add flying animation
+            airplane.classList.add('flying');
+            
+            // Progress steps with realistic timing
+            const steps = [
+                { progress: 10, text: 'Connecting to AIP server...', delay: 200 },
+                { progress: 25, text: 'Detecting country...', delay: 800 },
+                { progress: 40, text: 'Initializing scraper...', delay: 1200 },
+                { progress: 60, text: 'Navigating to airport page...', delay: 2000 },
+                { progress: 80, text: 'Extracting information...', delay: 3000 },
+                { progress: 95, text: 'Processing data...', delay: 4000 },
+                { progress: 100, text: 'Complete!', delay: 5000 }
+            ];
+            
+            let currentStep = 0;
+            
+            function updateProgress() {
+                if (currentStep < steps.length) {
+                    const step = steps[currentStep];
+                    progressFill.style.width = step.progress + '%';
+                    airplane.style.left = step.progress + '%';
+                    progressText.textContent = step.text;
+                    progressPercentage.textContent = step.progress + '%';
+                    currentStep++;
+                    
+                    if (currentStep < steps.length) {
+                        setTimeout(updateProgress, step.delay);
+                    }
+                }
+            }
+            
+            updateProgress();
+        }
+
+        function resetProgress() {
+            const progressFill = document.getElementById('progressFill');
+            const airplane = document.getElementById('airplane');
+            const progressText = document.getElementById('progressText');
+            const progressPercentage = document.getElementById('progressPercentage');
+            
+            progressFill.style.width = '0%';
+            airplane.style.left = '0%';
+            airplane.classList.remove('flying');
+            progressText.textContent = 'Initializing search...';
+            progressPercentage.textContent = '0%';
+        }
+
+        function showError(message) {
+            errorMessage.textContent = message;
+            error.style.display = 'block';
+        }
+
+        function hideError() {
+            error.style.display = 'none';
+        }
+
+        function showResults() {
+            results.style.display = 'block';
+        }
+
+        function hideResults() {
+            results.style.display = 'none';
+        }
+
+        function displayResults(data) {
+            document.getElementById('airportName').textContent = data.airportName || 'Unknown Airport';
+            document.getElementById('airportCodeDisplay').textContent = data.airportCode;
+            
+            // Display operational hours
+            const towerHoursDiv = document.getElementById('towerHours');
+            if (data.towerHours && data.towerHours.length > 0) {
+                towerHoursDiv.innerHTML = data.towerHours.map(hour => 
+                    `<div class="info-item">
+                        <span class="info-label">${hour.day || 'Unknown'}</span>
+                        <span class="info-value">${hour.hours || 'No data'}</span>
+                    </div>`
+                ).join('');
+            } else {
+                towerHoursDiv.innerHTML = '<div class="no-data">No operational hours information available</div>';
+            }
+
+            // Display contacts
+            const contactsDiv = document.getElementById('contacts');
+            if (data.contacts && data.contacts.length > 0) {
+                contactsDiv.innerHTML = data.contacts.map(contact => 
+                    `<div class="contact-item">
+                        <div class="contact-type">${contact.type || 'Contact'}</div>
+                        <div class="contact-details">
+                            ${contact.name ? `<strong>${contact.name}</strong><br>` : ''}
+                            ${contact.phone ? `<a href="tel:${contact.phone}" class="phone-link">${contact.phone}</a><br>` : ''}
+                            ${contact.email ? `<a href="mailto:${contact.email}">${contact.email}</a>` : ''}
+                        </div>
+                    </div>`
+                ).join('');
+            } else {
+                contactsDiv.innerHTML = '<div class="no-data">No contact information available</div>';
+            }
+
+            showResults();
+        }
+    </script>
+</body>
+</html>
+
