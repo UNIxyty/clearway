@@ -1,5 +1,6 @@
-# Railway will auto-detect Dockerfile and use it
-# No railway.toml builder configuration needed
+# Force Railway to use Dockerfile and disable Nixpacks
+[build]
+builder = "DOCKERFILE"
 
 [deploy]
 startCommand = "python app.py"
