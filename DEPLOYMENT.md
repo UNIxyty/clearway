@@ -68,6 +68,17 @@ Railway will automatically:
 
 **🎉 Note down your Railway URL!** (e.g., `https://your-app.up.railway.app`)
 
+**⚠️ For Playwright Support:**
+If deployment fails due to Playwright, add this build command in Railway UI:
+```bash
+playwright install chromium
+```
+
+Alternatively, add environment variable in Variables tab:
+```
+PLAYWRIGHT_BROWSERS_PATH=/app/.playwright
+```
+
 ---
 
 ## 🌐 Step 2: Deploy Frontend to Vercel
