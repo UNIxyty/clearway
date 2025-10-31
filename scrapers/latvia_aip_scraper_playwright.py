@@ -253,7 +253,7 @@ class LatviaAIPScraperPlaywright:
 			return airport_code.upper()
 
 	def _parse_operational_hours(self, text: str) -> List[Dict]:
-		"""Parse operational hours from text"""
+		"""Parse operational hours from text - only AD Operator, Customs and Immigration, ATS, Remarks"""
 		results: List[Dict] = []
 		upper = text.upper()
 		start_idx = upper.find('AD 2.3 OPERATIONAL HOURS')
@@ -305,18 +305,10 @@ class LatviaAIPScraperPlaywright:
 					"hours": f"{time_start}-{time_end}"
 				})
 			
-			# Extract H24 services
+			# ONLY extract the specified services
 			services = [
-				("Customs and immigration", r'Customs.*?(H24|NIL|May be requested)'),
-				("Health and sanitation", r'Health.*?(H24|NIL)'),
-				("AIS Briefing Office", r'AIS.*?(H24|NIL)'),
-				("ATS Reporting Office", r'ATS Reporting.*?(H24|NIL)'),
-				("MET Briefing Office", r'MET.*?(H24|NIL)'),
-				("ATS", r'(?<!Reporting )ATS(?![A-Z]).*?(H24|NIL)'),
-				("Fuelling", r'Fuelling.*?(H24|NIL)'),
-				("Handling", r'Handling.*?(H24|NIL)'),
-				("Security", r'Security.*?(H24|NIL)'),
-				("De-icing", r'De-icing.*?(H24|NIL)')
+				("Customs and Immigration", r'Customs.*?(H24|NIL|May be requested)'),
+				("ATS", r'(?<!Reporting )(?<!MET )ATS(?![A-Z]).*?(H24|NIL)'),
 			]
 			
 			for service_name, pattern in services:
@@ -401,6 +393,94 @@ class LatviaAIPScraperPlaywright:
 			})
 		
 		return contacts
+	
+	def _extract_fire_fighting_category(self, text: str) -> str:
+		"""Extract AD Category for fire fighting from AD 2.6 section"""
+		try:
+			upper = text.upper()
+			start_idx = upper.find('AD 2.6')
+			if start_idx == -1:
+				start_idx = upper.find('RESCUE AND FIRE FIGHTING')
+			
+			if start_idx != -1:
+				end_idx = upper.find('AD 2.7', start_idx)
+				if end_idx == -1:
+					end_idx = start_idx + 2000
+				
+				fire_section = text[start_idx:end_idx]
+				
+				# Look for AD Category
+				category_patterns = [
+					r'AD\s+CATEGORY[:\s]+([0-9])',
+					r'Category[:\s]+([0-9])',
+					r'Category\s+([0-9])[:\s]+for',
+				]
+				
+				for pattern in category_patterns:
+					match = re.search(pattern, fire_section, re.IGNORECASE)
+					if match:
+						return match.group(1)
+			
+			return "Not specified"
+		except Exception as e:
+			logger.warning(f"Error extracting fire fighting category: {e}")
+			return "Not specified"
+	
+	def _extract_remarks(self, text: str) -> str:
+		"""Extract Remarks from text"""
+		try:
+			upper = text.upper()
+			# Look for Remarks section
+			start_idx = upper.find('REMARKS')
+			
+			if start_idx != -1:
+				# Find end of remarks (next AD section or end of text)
+				end_idx = upper.find('AD 2.', start_idx + 50)
+				if end_idx == -1:
+					end_idx = start_idx + 500
+				
+				remarks_text = text[start_idx:end_idx]
+				# Clean up the text
+				remarks_text = re.sub(r'^REMARKS[:\s]*', '', remarks_text, flags=re.IGNORECASE)
+				remarks_text = re.sub(r'\s+', ' ', remarks_text.strip())
+				return remarks_text[:200]  # Limit length
+			
+			return ""
+		except Exception as e:
+			logger.warning(f"Error extracting remarks: {e}")
+			return ""
+	
+	def _extract_traffic_types(self, text: str) -> str:
+		"""Extract Types of traffic permitted from AD 2.2 section"""
+		try:
+			upper = text.upper()
+			start_idx = upper.find('AD 2.2')
+			if start_idx == -1:
+				start_idx = upper.find('AERODROME GEOGRAPHICAL')
+			
+			if start_idx != -1:
+				end_idx = upper.find('AD 2.3', start_idx)
+				if end_idx == -1:
+					end_idx = start_idx + 2000
+				
+				traffic_section = text[start_idx:end_idx]
+				
+				# Look for traffic type
+				traffic_patterns = [
+					r'Types?\s+of\s+traffic.*?(IFR[/, ]VFR|VFR[/, ]IFR|IFR|VFR)',
+					r'Traffic.*?(IFR[/, ]VFR|VFR[/, ]IFR|IFR|VFR)',
+					r'(IFR/VFR|VFR/IFR)',
+				]
+				
+				for pattern in traffic_patterns:
+					match = re.search(pattern, traffic_section, re.IGNORECASE)
+					if match:
+						return match.group(1)
+			
+			return "Not specified"
+		except Exception as e:
+			logger.warning(f"Error extracting traffic types: {e}")
+			return "Not specified"
 
 	def get_airport_info(self, airport_code: str) -> Dict:
 		"""Get airport information"""
@@ -413,7 +493,10 @@ class LatviaAIPScraperPlaywright:
 				"airportCode": airport_code.upper(),
 				"airportName": self._extract_airport_name(text, airport_code),
 				"towerHours": self._parse_operational_hours(text),
-				"contacts": self._parse_contacts(text)
+				"contacts": self._parse_contacts(text),
+				"fireFightingCategory": self._extract_fire_fighting_category(text),
+				"remarks": self._extract_remarks(text),
+				"trafficTypes": self._extract_traffic_types(text)
 			}
 			logger.info(f"Extracted data for {airport_code}")
 			return info

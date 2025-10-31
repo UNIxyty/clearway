@@ -310,102 +310,32 @@ class EstoniaAIPScraperPlaywright:
 			# Extract individual services that are actually present in the document
 			# Parse each service individually based on the actual document structure
 			
+			# ONLY extract: Customs and Immigration, ATS
 			# 2Customs and immigration - May be requested with PPR
 			customs_match = re.search(r'2Customs and immigration.*?(H24|NIL|May be requested)', operational_hours_line, re.IGNORECASE | re.DOTALL)
 			if customs_match:
 				hours_text = customs_match.group(1)
 				if 'May be requested' in hours_text:
 					results.append({
-						"day": "Customs and immigration",
+						"day": "Customs and Immigration",
 						"hours": "On request"
 					})
 				elif 'H24' in hours_text.upper():
 					results.append({
-						"day": "Customs and immigration",
+						"day": "Customs and Immigration",
 						"hours": "H24"
 					})
 				elif 'NIL' in hours_text.upper():
 					results.append({
-						"day": "Customs and immigration",
+						"day": "Customs and Immigration",
 						"hours": "NIL"
 					})
-			
-			# 3Health and sanitation - H24
-			health_match = re.search(r'3Health and sanitation.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if health_match and 'H24' in health_match.group(1).upper():
-				results.append({
-					"day": "Health and sanitation",
-					"hours": "H24"
-				})
-			
-			# 4AIS Briefing Office - H24 (MIL)
-			ais_match = re.search(r'4AIS Briefing Office.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if ais_match and 'H24' in ais_match.group(1).upper():
-				results.append({
-					"day": "AIS Briefing Office",
-					"hours": "H24"
-				})
-			
-			# 5ATS Reporting Office (ARO) - NIL
-			aro_match = re.search(r'5ATS Reporting Office \(ARO\).*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if aro_match:
-				hours_text = aro_match.group(1)
-				if 'NIL' in hours_text.upper():
-					results.append({
-						"day": "ATS Reporting Office (ARO)",
-						"hours": "NIL"
-					})
-				elif 'H24' in hours_text.upper():
-					results.append({
-						"day": "ATS Reporting Office (ARO)",
-						"hours": "H24"
-					})
-			
-			# 6MET Briefing Office - H24
-			met_match = re.search(r'6MET Briefing Office.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if met_match and 'H24' in met_match.group(1).upper():
-				results.append({
-					"day": "MET Briefing Office",
-					"hours": "H24"
-				})
 			
 			# 7ATS - H24
 			ats_match = re.search(r'7ATS.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
 			if ats_match and 'H24' in ats_match.group(1).upper():
 				results.append({
 					"day": "ATS",
-					"hours": "H24"
-				})
-			
-			# 8Fuelling - H24
-			fuelling_match = re.search(r'8Fuelling.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if fuelling_match and 'H24' in fuelling_match.group(1).upper():
-				results.append({
-					"day": "Fuelling",
-					"hours": "H24"
-				})
-			
-			# 9Handling - H24
-			handling_match = re.search(r'9Handling.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if handling_match and 'H24' in handling_match.group(1).upper():
-				results.append({
-					"day": "Handling",
-					"hours": "H24"
-				})
-			
-			# 10Security - H24
-			security_match = re.search(r'10Security.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if security_match and 'H24' in security_match.group(1).upper():
-				results.append({
-					"day": "Security",
-					"hours": "H24"
-				})
-			
-			# 11De-icing - H24
-			deicing_match = re.search(r'11De-icing.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if deicing_match and 'H24' in deicing_match.group(1).upper():
-				results.append({
-					"day": "De-icing",
 					"hours": "H24"
 				})
 		
@@ -550,6 +480,94 @@ class EstoniaAIPScraperPlaywright:
 			})
 		
 		return contacts
+	
+	def _extract_fire_fighting_category(self, text: str) -> str:
+		"""Extract AD Category for fire fighting from AD 2.6 section"""
+		try:
+			upper = text.upper()
+			start_idx = upper.find('AD 2.6')
+			if start_idx == -1:
+				start_idx = upper.find('RESCUE AND FIRE FIGHTING')
+			
+			if start_idx != -1:
+				end_idx = upper.find('AD 2.7', start_idx)
+				if end_idx == -1:
+					end_idx = start_idx + 2000
+				
+				fire_section = text[start_idx:end_idx]
+				
+				# Look for AD Category
+				category_patterns = [
+					r'AD\s+CATEGORY[:\s]+([0-9])',
+					r'Category[:\s]+([0-9])',
+					r'Category\s+([0-9])[:\s]+for',
+				]
+				
+				for pattern in category_patterns:
+					match = re.search(pattern, fire_section, re.IGNORECASE)
+					if match:
+						return match.group(1)
+			
+			return "Not specified"
+		except Exception as e:
+			logger.warning(f"Error extracting fire fighting category: {e}")
+			return "Not specified"
+	
+	def _extract_remarks(self, text: str) -> str:
+		"""Extract Remarks from text"""
+		try:
+			upper = text.upper()
+			# Look for Remarks section
+			start_idx = upper.find('REMARKS')
+			
+			if start_idx != -1:
+				# Find end of remarks (next AD section or end of text)
+				end_idx = upper.find('AD 2.', start_idx + 50)
+				if end_idx == -1:
+					end_idx = start_idx + 500
+				
+				remarks_text = text[start_idx:end_idx]
+				# Clean up the text
+				remarks_text = re.sub(r'^REMARKS[:\s]*', '', remarks_text, flags=re.IGNORECASE)
+				remarks_text = re.sub(r'\s+', ' ', remarks_text.strip())
+				return remarks_text[:200]  # Limit length
+			
+			return ""
+		except Exception as e:
+			logger.warning(f"Error extracting remarks: {e}")
+			return ""
+	
+	def _extract_traffic_types(self, text: str) -> str:
+		"""Extract Types of traffic permitted from AD 2.2 section"""
+		try:
+			upper = text.upper()
+			start_idx = upper.find('AD 2.2')
+			if start_idx == -1:
+				start_idx = upper.find('AERODROME GEOGRAPHICAL')
+			
+			if start_idx != -1:
+				end_idx = upper.find('AD 2.3', start_idx)
+				if end_idx == -1:
+					end_idx = start_idx + 2000
+				
+				traffic_section = text[start_idx:end_idx]
+				
+				# Look for traffic type
+				traffic_patterns = [
+					r'Types?\s+of\s+traffic.*?(IFR[/, ]VFR|VFR[/, ]IFR|IFR|VFR)',
+					r'Traffic.*?(IFR[/, ]VFR|VFR[/, ]IFR|IFR|VFR)',
+					r'(IFR/VFR|VFR/IFR)',
+				]
+				
+				for pattern in traffic_patterns:
+					match = re.search(pattern, traffic_section, re.IGNORECASE)
+					if match:
+						return match.group(1)
+			
+			return "Not specified"
+		except Exception as e:
+			logger.warning(f"Error extracting traffic types: {e}")
+			return "Not specified"
 
 	def get_airport_info(self, airport_code: str) -> Dict:
 		# Setup browser for this request to avoid threading issues
@@ -561,9 +579,12 @@ class EstoniaAIPScraperPlaywright:
 			text = self._extract_sections_text()
 			info = {
 				"airportCode": airport_code.upper(),
-					"airportName": self._extract_airport_name(text, airport_code),
+				"airportName": self._extract_airport_name(text, airport_code),
 				"towerHours": self._parse_operational_hours(text),
-				"contacts": self._parse_contacts(text)
+				"contacts": self._parse_contacts(text),
+				"fireFightingCategory": self._extract_fire_fighting_category(text),
+				"remarks": self._extract_remarks(text),
+				"trafficTypes": self._extract_traffic_types(text)
 			}
 			logger.info(f"Extracted data for {airport_code}")
 			return info
