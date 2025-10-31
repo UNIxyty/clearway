@@ -343,7 +343,7 @@ export default function Home() {
           <CardContent className="pt-6 text-center">
             <div className="flex flex-col items-center gap-2">
               <div className="flex items-center gap-2">
-                <img src="/verxyl-logo.svg" alt="Verxyl" className="h-8 w-auto opacity-80 hover:opacity-100 transition-opacity" />
+                <img src="/verxyl-logo.png" alt="Verxyl" className="h-10 w-auto opacity-80 hover:opacity-100 transition-opacity" />
               </div>
               <p className="text-sm text-muted-foreground">
                 Created by Verxyl
