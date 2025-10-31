@@ -32,6 +32,7 @@ interface AirportInfo {
 export default function Home() {
   const [airportCode, setAirportCode] = useState('')
   const [loading, setLoading] = useState(false)
+  const [progress, setProgress] = useState(0)
   const [airportInfo, setAirportInfo] = useState<AirportInfo | null>(null)
   const [error, setError] = useState<string | null>(null)
 
@@ -47,8 +48,17 @@ export default function Home() {
     }
 
     setLoading(true)
+    setProgress(0)
     setError(null)
     setAirportInfo(null)
+
+    // Simulate progress updates
+    const progressInterval = setInterval(() => {
+      setProgress((prev) => {
+        if (prev >= 90) return 90
+        return prev + 10
+      })
+    }, 200)
 
     try {
       // Hardcode Railway URL for production
@@ -63,14 +73,25 @@ export default function Home() {
 
       const data: AirportInfo = await response.json()
 
+      // Complete the progress bar
+      clearInterval(progressInterval)
+      setProgress(100)
+
       if (!response.ok) {
         throw new Error(data.error || 'Failed to fetch airport information')
       }
 
       setAirportInfo(data)
+      
+      // Small delay to show completion
+      setTimeout(() => {
+        setLoading(false)
+        setProgress(0)
+      }, 300)
     } catch (err) {
+      clearInterval(progressInterval)
+      setProgress(0)
       setError(err instanceof Error ? err.message : 'An unexpected error occurred')
-    } finally {
       setLoading(false)
     }
   }
@@ -111,12 +132,15 @@ export default function Home() {
                   </p>
                 </div>
                 {/* Progress Bar */}
-                <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2 overflow-hidden">
-                  <div className="h-full bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-500 rounded-full animate-pulse" 
-                       style={{ 
-                         width: '100%',
-                         animation: 'progress 2s ease-in-out infinite'
-                       }}></div>
+                <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-3 overflow-hidden">
+                  <div className="h-full bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-500 rounded-full transition-all duration-500 ease-out relative overflow-hidden"
+                       style={{ width: `${progress}%` }}>
+                    {/* Shimmer effect */}
+                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent animate-pulse"></div>
+                  </div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400 mt-2 text-center">
+                    {progress < 90 ? `${progress}%` : 'Almost there...'}
+                  </p>
                 </div>
               </div>
             </CardContent>
