@@ -7,7 +7,7 @@ import { Label } from '@/components/ui/label'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
-import { Plane, Search, Loader2, Clock, Phone, Mail, AlertCircle, CheckCircle2 } from 'lucide-react'
+import { Plane, Search, Loader2, Clock, Phone, Mail, AlertCircle, CheckCircle2, Fire, FileText, PlaneTakeoff } from 'lucide-react'
 
 interface TowerHour {
   day: string
@@ -26,6 +26,9 @@ interface AirportInfo {
   airportName: string
   towerHours: TowerHour[]
   contacts: Contact[]
+  fireFightingCategory?: string
+  remarks?: string
+  trafficTypes?: string
   error?: string
 }
 
@@ -334,6 +337,53 @@ export default function Home() {
                   <p className="text-muted-foreground italic">No contact information available</p>
                 )}
               </div>
+
+              <Separator />
+
+              {/* Fire Fighting Category */}
+              {airportInfo.fireFightingCategory && (
+                <div>
+                  <div className="flex items-center gap-2 mb-4">
+                    <Fire className="h-5 w-5 text-red-600" />
+                    <h3 className="text-xl font-semibold">Fire Fighting Category</h3>
+                  </div>
+                  <div className="flex items-center gap-2 p-3 bg-gradient-to-r from-red-50 to-orange-50 dark:from-red-950 dark:to-orange-950 rounded-lg border border-red-100 dark:border-red-900">
+                    <Badge variant="outline" className="font-mono font-semibold text-lg">
+                      Category {airportInfo.fireFightingCategory}
+                    </Badge>
+                  </div>
+                </div>
+              )}
+
+              {/* Traffic Types */}
+              {airportInfo.trafficTypes && (
+                <div>
+                  <div className="flex items-center gap-2 mb-4">
+                    <PlaneTakeoff className="h-5 w-5 text-indigo-600" />
+                    <h3 className="text-xl font-semibold">Traffic Types Permitted</h3>
+                  </div>
+                  <div className="flex items-center gap-2 p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                    <Badge variant="outline" className="font-mono font-semibold">
+                      {airportInfo.trafficTypes}
+                    </Badge>
+                  </div>
+                </div>
+              )}
+
+              {/* Remarks */}
+              {airportInfo.remarks && (
+                <div>
+                  <div className="flex items-center gap-2 mb-4">
+                    <FileText className="h-5 w-5 text-indigo-600" />
+                    <h3 className="text-xl font-semibold">Remarks</h3>
+                  </div>
+                  <div className="p-4 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                    <p className="text-sm text-gray-700 dark:text-gray-300 whitespace-pre-wrap">
+                      {airportInfo.remarks}
+                    </p>
+                  </div>
+                </div>
+              )}
             </CardContent>
           </Card>
         )}
