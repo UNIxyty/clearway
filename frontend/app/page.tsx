@@ -348,7 +348,7 @@ export default function Home() {
                     <h3 className="text-xl font-semibold">Fire Fighting Category</h3>
                   </div>
                   <div className="flex items-center gap-2 p-3 bg-gradient-to-r from-red-50 to-orange-50 dark:from-red-950 dark:to-orange-950 rounded-lg border border-red-100 dark:border-red-900">
-                    <Badge variant="outline" className="font-mono font-semibold text-lg">
+                    <Badge variant="outline" className="font-mono font-semibold">
                       Category {airportInfo.fireFightingCategory}
                     </Badge>
                   </div>

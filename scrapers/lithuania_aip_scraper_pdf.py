@@ -165,9 +165,13 @@ class LithuaniaAIPScraperPDF:
 		# Search in full segment for services (to handle line breaks)
 		segment_for_search = ' '.join(lines)
 		
+		# Track which fields we found
+		ad_operator_found = found_mon_thu or found_fri or found_mon_fri
+		customs_found = False
+		ats_found = False
+		
 		# Extract H24 services - look for specific service patterns
 		# Services are numbered in Lithuanian AIP: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
-		# ONLY extract: AD Operator, Customs and Immigration, ATS, Remarks
 		service_patterns = [
 			(r'2.*?Customs.*?(H24|NIL)', "Customs and Immigration"),
 			(r'7.*?ATS(?![A-Z]).*?(H24|NIL)', "ATS"),
@@ -187,25 +191,20 @@ class LithuaniaAIPScraperPDF:
 						"day": service_name,
 						"hours": "NIL"
 					})
+				if "Customs" in service_name:
+					customs_found = True
+				elif "ATS" in service_name:
+					ats_found = True
 		
-		# Fallback: look for H24
-		if not results:
-			if 'H24' in text or '24H' in text:
-				results.append({"day": "General", "hours": "H24"})
+		# Add NIL for missing fields
+		if not ad_operator_found:
+			results.append({"day": "AD Operator Hours", "hours": "NIL"})
+		if not customs_found:
+			results.append({"day": "Customs and Immigration", "hours": "NIL"})
+		if not ats_found:
+			results.append({"day": "ATS", "hours": "NIL"})
 		
-		if not results:
-			results.append({"day": "General", "hours": "Hours information not available"})
-		
-		# Deduplicate results while preserving order
-		unique_results = []
-		seen = set()
-		for r in results:
-			key = (r.get('day'), r.get('hours'))
-			if key not in seen:
-				seen.add(key)
-				unique_results.append(r)
-		
-		return unique_results
+		return results
 
 	def _parse_contacts(self, text: str) -> List[Dict]:
 		"""Parse contacts from text"""
@@ -311,15 +310,15 @@ class LithuaniaAIPScraperPDF:
 				remarks_text = re.sub(r'AIP\s+\w+\s+AIRAC.*$', '', remarks_text, flags=re.IGNORECASE | re.DOTALL)
 				remarks_text = re.sub(r'\d{2}\s+[A-Z]{3}\s+\d{4}.*$', '', remarks_text, flags=re.IGNORECASE)
 				remarks_text = re.sub(r'\s+', ' ', remarks_text.strip())
-				# If only whitespace or empty, return empty string
+				# If only whitespace or empty, return NIL
 				if not remarks_text or len(remarks_text.strip()) < 3:
-					return ""
+					return "NIL"
 				return remarks_text[:200]  # Limit length
 			
-			return ""
+			return "NIL"
 		except Exception as e:
 			logger.warning(f"Error extracting remarks: {e}")
-			return ""
+			return "NIL"
 	
 	def _extract_traffic_types(self, text: str) -> str:
 		"""Extract Types of traffic permitted from AD 2.2 section"""
