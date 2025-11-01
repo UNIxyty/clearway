@@ -234,196 +234,85 @@ class EstoniaAIPScraperPlaywright:
 			return airport_code.upper()
 
 	def _parse_operational_hours(self, text: str) -> List[Dict]:
+		"""Parse operational hours from AD 2.3 - return all fields"""
 		results: List[Dict] = []
-		# Look for the specific operational hours table structure
 		upper = text.upper()
 		start_idx = upper.find('AD 2.3 OPERATIONAL HOURS')
 		if start_idx == -1:
-			start_idx = upper.find('AD 2.2 OPERATIONAL HOURS')
-		if start_idx == -1:
 			start_idx = upper.find('OPERATIONAL HOURS')
+		
 		end_idx = upper.find('AD 2.4') if start_idx != -1 else -1
 		segment = text[start_idx:end_idx] if start_idx != -1 and end_idx != -1 else text
+		operational_hours_section = segment
 
-		# Parse the structured table format
-		lines = [ln.strip() for ln in segment.split('\n') if ln.strip()]
+		# Track found fields
+		ad_admin_found = False
+		ad_operator_found = False
+		customs_found = False
+		ats_found = False
 		
-		# Debug: Log the first few lines to understand the structure
-		# logger.info(f"Parsing operational hours from {len(lines)} lines")
-		# for i, line in enumerate(lines[:10]):
-		#     logger.info(f"Line {i}: {line[:100]}")
-		
-		# Look for the specific service patterns with their hours
-		service_patterns = [
-			(r'AD\s+operator[:\s]*', r'(MON|TUE|WED|THU|FRI|SAT|SUN)(?:[-–](MON|TUE|WED|THU|FRI|SAT|SUN))?\s*[:\-]?\s*(\d{2}[:.]?\d{2})\s*[-–]\s*(\d{2}[:.]?\d{2})'),
-			(r'AD\s+Operational\s+hours[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'Customs\s+and\s+immigration[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'Health\s+and\s+sanitation[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'AIS\s+Briefing\s+Office[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'ATS\s+Reporting\s+Office[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'MET\s+Briefing\s+Office[:\s]*', r'(H24|24H|24\s*HR|NIL)'),
-			(r'ATS[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'Fuelling[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'Handling[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'Security[:\s]*', r'(H24|24H|24\s*HR)'),
-			(r'De-icing[:\s]*', r'(H24|24H|24\s*HR)')
+		# Search for AD Administration
+		ad_admin_patterns = [
+			r'(?:^|\s)AD\s+Administration.*?(H24|NIL)',
 		]
-		
-		# First, look for the main operational hours line that contains all services
-		operational_hours_line = None
-		for line in lines:
-			if 'OPERATIONAL HOURS' in line.upper() and ('AD OPERATOR' in line.upper() or 'MON-THU' in line.upper() or 'FRI:' in line.upper() or 'MON-FRI' in line.upper()):
-				operational_hours_line = line
+		for pattern in ad_admin_patterns:
+			match = re.search(pattern, operational_hours_section, re.IGNORECASE | re.DOTALL)
+			if match:
+				hours = "H24" if "H24" in match.group(1).upper() else "NIL"
+				results.append({"day": "AD Administration", "hours": hours})
+				ad_admin_found = True
 				break
 		
-		if operational_hours_line:
-			# Extract MON-FRI hours (single range like EETN)
-			mon_fri_match = re.search(r'MON-FRI\s*:\s*(\d{2}[:.]?\d{2})\s*[-–]\s*(\d{2}[:.]?\d{2})', operational_hours_line, re.IGNORECASE)
-			if mon_fri_match:
-				time_start = mon_fri_match.group(1).replace('.', ':')
-				time_end = mon_fri_match.group(2).replace('.', ':')
-				results.append({
-					"day": "AD Operator Hours (MON-FRI)",
-					"hours": f"{time_start}-{time_end}"
-				})
-			
-			# Extract MON-THU hours (separate range like EEEI)
-			mon_thu_match = re.search(r'MON-THU:\s*(\d{2}[:.]?\d{2})\s*[-–]\s*(\d{2}[:.]?\d{2})', operational_hours_line, re.IGNORECASE)
-			if mon_thu_match:
-				time_start = mon_thu_match.group(1).replace('.', ':')
-				time_end = mon_thu_match.group(2).replace('.', ':')
-				results.append({
-					"day": "AD Operator Hours (MON-THU)",
-					"hours": f"{time_start}-{time_end}"
-				})
-			
-			# Extract FRI hours (separate range like EEEI)
-			fri_match = re.search(r'FRI:\s*(\d{2}[:.]?\d{2})\s*[-–]\s*(\d{2}[:.]?\d{2})', operational_hours_line, re.IGNORECASE)
-			if fri_match:
-				time_start = fri_match.group(1).replace('.', ':')
-				time_end = fri_match.group(2).replace('.', ':')
-				results.append({
-					"day": "AD Operator Hours (FRI)",
-					"hours": f"{time_start}-{time_end}"
-				})
-			
-			# Extract individual services that are actually present in the document
-			# Parse each service individually based on the actual document structure
-			
-			# ONLY extract: Customs and Immigration, ATS
-			# 2Customs and immigration - May be requested with PPR
-			customs_match = re.search(r'2Customs and immigration.*?(H24|NIL|May be requested)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if customs_match:
-				hours_text = customs_match.group(1)
-				if 'May be requested' in hours_text:
-					results.append({
-						"day": "Customs and Immigration",
-						"hours": "On request"
-					})
-				elif 'H24' in hours_text.upper():
-					results.append({
-						"day": "Customs and Immigration",
-						"hours": "H24"
-					})
-				elif 'NIL' in hours_text.upper():
-					results.append({
-						"day": "Customs and Immigration",
-						"hours": "NIL"
-					})
-			
-			# 7ATS - H24
-			ats_match = re.search(r'7ATS.*?(H24|NIL)', operational_hours_line, re.IGNORECASE | re.DOTALL)
-			if ats_match and 'H24' in ats_match.group(1).upper():
-				results.append({
-					"day": "ATS",
-					"hours": "H24"
-				})
+		# Search for AD Operator (can have time ranges or H24)
+		ad_operator_patterns = [
+			r'MON-FRI\s*[:\-]\s*(\d{2}[:.]?\d{2})\s*[–\-]\s*(\d{2}[:.]?\d{2})',
+			r'(?:^|\s)AD\s+Operator.*?(H24|NIL)',
+		]
+		for pattern in ad_operator_patterns:
+			match = re.search(pattern, operational_hours_section, re.IGNORECASE | re.DOTALL)
+			if match:
+				if len(match.groups()) >= 2 and match.group(1).isdigit():
+					# Time range
+					time_start = match.group(1).replace('.', ':')
+					time_end = match.group(2).replace('.', ':')
+					results.append({"day": "AD Operator", "hours": f"{time_start}-{time_end}"})
+				else:
+					hours = "H24" if "H24" in match.group(0).upper() else "NIL"
+					results.append({"day": "AD Operator", "hours": hours})
+				ad_operator_found = True
+				break
 		
-		# Fallback: parse line by line if no structured line found
-		if not results:
-			for line in lines:
-				line_upper = line.upper()
-				
-				# Check each service pattern
-				for service_regex, hours_regex in service_patterns:
-					service_match = re.search(service_regex, line_upper)
-					if service_match:
-						# Extract the service name
-						service_name = service_match.group(0).strip().rstrip(':').strip()
-						
-						# Look for hours pattern after the service name
-						hours_match = re.search(hours_regex, line, re.IGNORECASE)
-						if hours_match:
-							if 'H24' in hours_match.group(1).upper() or '24H' in hours_match.group(1).upper():
-								results.append({
-									"day": service_name,
-									"hours": "H24"
-								})
-							elif 'NIL' in hours_match.group(1).upper():
-								results.append({
-									"day": service_name,
-									"hours": "NIL"
-								})
-							elif len(hours_match.groups()) >= 4:  # Day range with times
-								day_start = hours_match.group(1).upper()
-								day_end = hours_match.group(2)
-								time_start = hours_match.group(3).replace('.', ':')
-								time_end = hours_match.group(4).replace('.', ':')
-								
-								if day_end:
-									day_range = f"{day_start}-{day_end.upper()}"
-								else:
-									day_range = day_start
-								
-								results.append({
-									"day": f"{service_name} ({day_range})",
-									"hours": f"{time_start}-{time_end}"
-								})
-						break  # Found a match, move to next line
+		# Search for Customs and Immigration
+		customs_pattern = r'Customs.*?immigration.*?(H24|NIL|May be requested)'
+		customs_match = re.search(customs_pattern, operational_hours_section, re.IGNORECASE | re.DOTALL)
+		if customs_match:
+			hours_text = customs_match.group(1)
+			if 'May be requested' in hours_text:
+				results.append({"day": "Customs and immigration", "hours": "On request"})
+			else:
+				hours = "H24" if "H24" in hours_text.upper() else "NIL"
+				results.append({"day": "Customs and immigration", "hours": hours})
+			customs_found = True
 		
-		# If no structured data found, fallback to simple patterns
-		if not results:
-			# Look for any day ranges with times
-			day_time_pattern = r'(MON|TUE|WED|THU|FRI|SAT|SUN)(?:[-–](MON|TUE|WED|THU|FRI|SAT|SUN))?\s*[:\-]?\s*(\d{2}[:.]?\d{2})\s*[-–]\s*(\d{2}[:.]?\d{2})'
-			for line in lines:
-				match = re.search(day_time_pattern, line, re.IGNORECASE)
-				if match:
-					day_start = match.group(1).upper()
-					day_end = match.group(2)
-					time_start = match.group(3).replace('.', ':')
-					time_end = match.group(4).replace('.', ':')
-					
-					if day_end:
-						day_range = f"{day_start}-{day_end.upper()}"
-					else:
-						day_range = day_start
-					
-					results.append({
-						"day": day_range,
-						"hours": f"{time_start}-{time_end}"
-					})
-			
-			# Look for H24 patterns
-			if not results:
-				h24_pattern = r'\b(H24|24H|24\s*HR)\b'
-				for line in lines:
-					if re.search(h24_pattern, line, re.IGNORECASE):
-						results.append({"day": "H24", "hours": "H24"})
-						break
+		# Search for ATS
+		ats_pattern = r'(?<!Reporting )(?<!MET\s)ATS(?![A-Z]).*?(H24|NIL)'
+		ats_match = re.search(ats_pattern, operational_hours_section, re.IGNORECASE | re.DOTALL)
+		if ats_match:
+			hours = "H24" if "H24" in ats_match.group(1).upper() else "NIL"
+			results.append({"day": "ATS", "hours": hours})
+			ats_found = True
 		
-		# Deduplicate while preserving order
-		unique: List[Dict] = []
-		seen = set()
-		for r in results:
-			key = (r.get('day'), r.get('hours'))
-			if key not in seen:
-				seen.add(key)
-				unique.append(r)
+		# Add NIL for missing fields
+		if not ad_admin_found:
+			results.append({"day": "AD Administration", "hours": "NIL"})
+		if not ad_operator_found:
+			results.append({"day": "AD Operator", "hours": "NIL"})
+		if not customs_found:
+			results.append({"day": "Customs and immigration", "hours": "NIL"})
+		if not ats_found:
+			results.append({"day": "ATS", "hours": "NIL"})
 		
-		if not unique:
-			unique.append({"day": "General", "hours": "Hours information not available"})
-		
-		return unique
+		return results
 
 	def _parse_contacts(self, text: str) -> List[Dict]:
 		contacts: List[Dict] = []
@@ -514,28 +403,31 @@ class EstoniaAIPScraperPlaywright:
 			return "Not specified"
 	
 	def _extract_remarks(self, text: str) -> str:
-		"""Extract Remarks from text"""
+		"""Extract Remarks from text - must be in AD 2.3 section before OPERATIONAL HOURS"""
 		try:
 			upper = text.upper()
-			# Look for Remarks section
-			start_idx = upper.find('REMARKS')
+			# Look for AD 2. section that has "Remarks:"
+			ad23_idx = upper.find('AD 2.3')
 			
-			if start_idx != -1:
-				# Find end of remarks (next AD section or end of text)
-				end_idx = upper.find('AD 2.', start_idx + 50)
-				if end_idx == -1:
-					end_idx = start_idx + 500
-				
-				remarks_text = text[start_idx:end_idx]
-				# Clean up the text
-				remarks_text = re.sub(r'^REMARKS[:\s]*', '', remarks_text, flags=re.IGNORECASE)
-				remarks_text = re.sub(r'\s+', ' ', remarks_text.strip())
-				return remarks_text[:200]  # Limit length
+			if ad23_idx != -1:
+				# Look BEFORE AD 2.3 for remarks in AD 2.2 or early in AD 2.3
+				ad22_idx = upper.rfind('AD 2.2', 0, ad23_idx)
+				if ad22_idx != -1:
+					# Search in AD 2.2 section
+					remarks_idx = upper.find('REMARKS', ad22_idx, ad23_idx)
+					if remarks_idx != -1:
+						end_idx = min(ad23_idx, remarks_idx + 500)
+						remarks_text = text[remarks_idx:end_idx]
+						remarks_text = re.sub(r'^REMARKS[:\s]*', '', remarks_text, flags=re.IGNORECASE)
+						remarks_text = re.sub(r'AD\s+2\.3.*$', '', remarks_text, flags=re.IGNORECASE | re.DOTALL)
+						remarks_text = re.sub(r'\s+', ' ', remarks_text.strip())
+						if len(remarks_text) > 5:  # Not just "NIL" or empty
+							return remarks_text[:200]
 			
-			return ""
+			return "NIL"
 		except Exception as e:
 			logger.warning(f"Error extracting remarks: {e}")
-			return ""
+			return "NIL"
 	
 	def _extract_traffic_types(self, text: str) -> str:
 		"""Extract Types of traffic permitted from AD 2.2 section"""
@@ -577,20 +469,70 @@ class EstoniaAIPScraperPlaywright:
 			self._go_to_part3_ad2()
 			self._open_airport(airport_code)
 			text = self._extract_sections_text()
+			
+			# Extract operational hours from AD 2.3
+			operational_hours = self._parse_operational_hours(text)
+			
+			# Build fixed structure
 			info = {
 				"airportCode": airport_code.upper(),
 				"airportName": self._extract_airport_name(text, airport_code),
-				"towerHours": self._parse_operational_hours(text),
 				"contacts": self._parse_contacts(text),
+				# AD 2.3 OPERATIONAL HOURS section
+				"adAdministration": self._get_field_value(operational_hours, "AD Administration"),
+				"adOperator": self._get_field_value(operational_hours, "AD Operator"),
+				"customsAndImmigration": self._get_field_value(operational_hours, "Customs and immigration"),
+				"ats": self._get_field_value(operational_hours, "ATS"),
+				"operationalRemarks": self._extract_remarks(text),
+				# AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+				"trafficTypes": self._extract_traffic_types(text),
+				"administrativeRemarks": self._extract_administrative_remarks(text),
+				# AD 2.6 RESCUE AND FIREFIGHTING SERVICES
 				"fireFightingCategory": self._extract_fire_fighting_category(text),
-				"remarks": self._extract_remarks(text),
-				"trafficTypes": self._extract_traffic_types(text)
 			}
 			logger.info(f"Extracted data for {airport_code}")
 			return info
 		finally:
 			# Clean up browser after each request
 			self.close()
+	
+	def _get_field_value(self, operational_hours: List[Dict], field_name: str) -> str:
+		"""Get value for a specific field from operational hours"""
+		for hour in operational_hours:
+			day = hour.get("day", "")
+			if day == field_name or field_name in day:
+				return hour.get("hours", "NIL")
+		return "NIL"
+	
+	def _extract_administrative_remarks(self, text: str) -> str:
+		"""Extract Remarks from AD 2.2 section"""
+		try:
+			upper = text.upper()
+			ad22_start = upper.find('AD 2.2')
+			if ad22_start == -1:
+				return "NIL"
+			
+			ad23_start = upper.find('AD 2.3', ad22_start)
+			if ad23_start == -1:
+				ad23_start = ad22_start + 3000
+			
+			remarks_idx = upper.find('REMARKS', ad22_start, ad23_start)
+			if remarks_idx != -1:
+				remarks_text = text[remarks_idx:min(ad23_start, remarks_idx + 1000)]
+				remarks_text = re.sub(r'^REMARKS[:\s]*', '', remarks_text, flags=re.IGNORECASE)
+				# Stop at next AD 2.X section
+				next_ad = re.search(r'\w+\s+AD\s+2\.\d+', remarks_text, re.IGNORECASE)
+				if next_ad:
+					remarks_text = remarks_text[:next_ad.start()]
+				remarks_text = re.sub(r'©.*$', '', remarks_text, flags=re.DOTALL)
+				remarks_text = re.sub(r'AIP\s+\w+\s+AIRAC.*$', '', remarks_text, flags=re.IGNORECASE | re.DOTALL)
+				remarks_text = re.sub(r'\s+', ' ', remarks_text.strip())
+				if len(remarks_text) > 5:
+					return remarks_text[:200]
+			return "NIL"
+		except Exception as e:
+			logger.warning(f"Error extracting administrative remarks: {e}")
+			return "NIL"
 
 	def close(self):
 		if self.browser:

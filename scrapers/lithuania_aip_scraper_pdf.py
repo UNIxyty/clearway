@@ -166,14 +166,16 @@ class LithuaniaAIPScraperPDF:
 		segment_for_search = ' '.join(lines)
 		
 		# Track which fields we found
+		ad_admin_found = False
 		ad_operator_found = found_mon_thu or found_fri or found_mon_fri
 		customs_found = False
 		ats_found = False
 		
 		# Extract H24 services - look for specific service patterns
-		# Services are numbered in Lithuanian AIP: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+		# Services are numbered in Lithuanian AIP: 1AD, 2Customs, 3Health, 4AIS, 5ARO, 6MET, 7ATS
 		service_patterns = [
-			(r'2.*?Customs.*?(H24|NIL)', "Customs and Immigration"),
+			(r'1AD.*?(H24|NIL)', "AD Administration"),
+			(r'2.*?Customs.*?(H24|NIL)', "Customs and immigration"),
 			(r'7.*?ATS(?![A-Z]).*?(H24|NIL)', "ATS"),
 		]
 		
@@ -181,26 +183,22 @@ class LithuaniaAIPScraperPDF:
 			match = re.search(pattern, segment_for_search, re.IGNORECASE | re.DOTALL)
 			if match:
 				hours_text = match.group(1)
-				if 'H24' in hours_text.upper():
-					results.append({
-						"day": service_name,
-						"hours": "H24"
-					})
-				elif 'NIL' in hours_text.upper():
-					results.append({
-						"day": service_name,
-						"hours": "NIL"
-					})
-				if "Customs" in service_name:
+				hours = "H24" if 'H24' in hours_text.upper() else "NIL"
+				results.append({"day": service_name, "hours": hours})
+				if "AD Administration" in service_name:
+					ad_admin_found = True
+				elif "Customs" in service_name:
 					customs_found = True
 				elif "ATS" in service_name:
 					ats_found = True
 		
 		# Add NIL for missing fields
+		if not ad_admin_found:
+			results.append({"day": "AD Administration", "hours": "NIL"})
 		if not ad_operator_found:
-			results.append({"day": "AD Operator Hours", "hours": "NIL"})
+			results.append({"day": "AD Operator", "hours": "NIL"})
 		if not customs_found:
-			results.append({"day": "Customs and Immigration", "hours": "NIL"})
+			results.append({"day": "Customs and immigration", "hours": "NIL"})
 		if not ats_found:
 			results.append({"day": "ATS", "hours": "NIL"})
 		
@@ -254,6 +252,51 @@ class LithuaniaAIPScraperPDF:
 			})
 		
 		return contacts
+	
+	def _get_field_value(self, operational_hours: List[Dict], field_name: str) -> str:
+		"""Get value for a specific field from operational hours"""
+		for hour in operational_hours:
+			day = hour.get("day", "")
+			# Match exact or field name contained in day (for Lithuania's MON-THU, FRI patterns)
+			if day == field_name or field_name in day:
+				return hour.get("hours", "NIL")
+		return "NIL"
+	
+	def _extract_operational_remarks(self, text: str) -> str:
+		"""Extract Remarks from AD 2.3 OPERATIONAL HOURS section"""
+		return self._extract_remarks(text)
+	
+	def _extract_administrative_remarks(self, text: str) -> str:
+		"""Extract Remarks from AD 2.2 section"""
+		try:
+			upper = text.upper()
+			ad22_start = upper.find('AD 2.2')
+			if ad22_start == -1:
+				return "NIL"
+			
+			ad23_start = upper.find('AD 2.3', ad22_start)
+			if ad23_start == -1:
+				ad23_start = ad22_start + 3000
+			
+			ad22_section = text[ad22_start:ad23_start]
+			remarks_idx = upper.find('REMARKS', ad22_start, ad23_start)
+			
+			if remarks_idx != -1:
+				remarks_text = text[remarks_idx:min(ad23_start, remarks_idx + 500)]
+				remarks_text = re.sub(r'^REMARKS[:\s]*', '', remarks_text, flags=re.IGNORECASE)
+				# Remove common footer patterns
+				remarks_text = re.sub(r'NĖRA.*$', '', remarks_text, flags=re.IGNORECASE | re.DOTALL)
+				remarks_text = re.sub(r'©.*$', '', remarks_text, flags=re.DOTALL)
+				remarks_text = re.sub(r'AIP\s+\w+\s+AIRAC.*$', '', remarks_text, flags=re.IGNORECASE | re.DOTALL)
+				remarks_text = re.sub(r'\d{2}\s+[A-Z]{3}\s+\d{4}.*$', '', remarks_text, flags=re.IGNORECASE)
+				remarks_text = re.sub(r'\s+', ' ', remarks_text.strip())
+				if len(remarks_text) > 5:
+					return remarks_text[:200]
+			
+			return "NIL"
+		except Exception as e:
+			logger.warning(f"Error extracting administrative remarks: {e}")
+			return "NIL"
 	
 	def _extract_fire_fighting_category(self, text: str) -> str:
 		"""Extract AD Category for fire fighting from AD 2.6 section"""
@@ -373,14 +416,22 @@ class LithuaniaAIPScraperPDF:
 		logger.info(f"Extracted {len(text)} characters from PDF")
 		
 		# Parse airport information
+		operational_hours = self._parse_operational_hours(text)
 		info = {
 			"airportCode": airport_code,
 			"airportName": self._extract_airport_name(text, airport_code),
-			"towerHours": self._parse_operational_hours(text),
 			"contacts": self._parse_contacts(text),
+			# AD 2.3 OPERATIONAL HOURS section
+			"adAdministration": self._get_field_value(operational_hours, "AD Administration"),
+			"adOperator": self._get_field_value(operational_hours, "AD Operator"),
+			"customsAndImmigration": self._get_field_value(operational_hours, "Customs and immigration"),
+			"ats": self._get_field_value(operational_hours, "ATS"),
+			"operationalRemarks": self._extract_operational_remarks(text),
+			# AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+			"trafficTypes": self._extract_traffic_types(text),
+			"administrativeRemarks": self._extract_administrative_remarks(text),
+			# AD 2.6 RESCUE AND FIREFIGHTING SERVICES
 			"fireFightingCategory": self._extract_fire_fighting_category(text),
-			"remarks": self._extract_remarks(text),
-			"trafficTypes": self._extract_traffic_types(text)
 		}
 		
 		logger.info(f"Extracted data for {airport_code}")

@@ -24,11 +24,18 @@ interface Contact {
 interface AirportInfo {
   airportCode: string
   airportName: string
-  towerHours: TowerHour[]
   contacts: Contact[]
-  fireFightingCategory?: string
-  remarks?: string
+  // AD 2.3 OPERATIONAL HOURS section
+  adAdministration?: string
+  adOperator?: string
+  customsAndImmigration?: string
+  ats?: string
+  operationalRemarks?: string
+  // AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
   trafficTypes?: string
+  administrativeRemarks?: string
+  // AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+  fireFightingCategory?: string
   error?: string
 }
 
@@ -256,31 +263,44 @@ export default function Home() {
             <Separator />
 
             <CardContent className="space-y-6 pt-6">
-              {/* Operational Hours */}
+              {/* AD 2.3 OPERATIONAL HOURS Section */}
               <div>
                 <div className="flex items-center gap-2 mb-4">
                   <Clock className="h-5 w-5 text-indigo-600" />
-                  <h3 className="text-xl font-semibold">Operational Hours</h3>
+                  <h3 className="text-xl font-semibold">AD 2.3 OPERATIONAL HOURS</h3>
                 </div>
-                {airportInfo.towerHours && airportInfo.towerHours.length > 0 ? (
-                  <div className="space-y-2">
-                    {airportInfo.towerHours.map((hour, idx) => (
-                      <div 
-                        key={idx}
-                        className="flex items-center justify-between p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900"
-                      >
-                        <span className="font-medium text-gray-900 dark:text-gray-100">
-                          {hour.day}
-                        </span>
-                        <Badge variant="outline" className="font-mono font-semibold">
-                          {hour.hours}
-                        </Badge>
-                      </div>
-                    ))}
+                <div className="space-y-2">
+                  <div className="flex items-center justify-between p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                    <span className="font-medium text-gray-900 dark:text-gray-100">AD Administration</span>
+                    <Badge variant="outline" className="font-mono font-semibold">
+                      {airportInfo.adAdministration || 'NIL'}
+                    </Badge>
                   </div>
-                ) : (
-                  <p className="text-muted-foreground italic">No operational hours available</p>
-                )}
+                  <div className="flex items-center justify-between p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                    <span className="font-medium text-gray-900 dark:text-gray-100">AD Operator</span>
+                    <Badge variant="outline" className="font-mono font-semibold">
+                      {airportInfo.adOperator || 'NIL'}
+                    </Badge>
+                  </div>
+                  <div className="flex items-center justify-between p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                    <span className="font-medium text-gray-900 dark:text-gray-100">Customs and Immigration</span>
+                    <Badge variant="outline" className="font-mono font-semibold">
+                      {airportInfo.customsAndImmigration || 'NIL'}
+                    </Badge>
+                  </div>
+                  <div className="flex items-center justify-between p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                    <span className="font-medium text-gray-900 dark:text-gray-100">ATS</span>
+                    <Badge variant="outline" className="font-mono font-semibold">
+                      {airportInfo.ats || 'NIL'}
+                    </Badge>
+                  </div>
+                  {airportInfo.operationalRemarks && airportInfo.operationalRemarks !== 'NIL' && (
+                    <div className="p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                      <span className="font-medium text-gray-900 dark:text-gray-100">Remarks: </span>
+                      <span className="text-sm text-gray-700 dark:text-gray-300">{airportInfo.operationalRemarks}</span>
+                    </div>
+                  )}
+                </div>
               </div>
 
               <Separator />
@@ -340,50 +360,43 @@ export default function Home() {
 
               <Separator />
 
-              {/* Fire Fighting Category */}
-              {airportInfo.fireFightingCategory && (
-                <div>
-                  <div className="flex items-center gap-2 mb-4">
-                    <Flame className="h-5 w-5 text-red-600" />
-                    <h3 className="text-xl font-semibold">Fire Fighting Category</h3>
-                  </div>
-                  <div className="flex items-center gap-2 p-3 bg-gradient-to-r from-red-50 to-orange-50 dark:from-red-950 dark:to-orange-950 rounded-lg border border-red-100 dark:border-red-900">
+              {/* AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA */}
+              <div>
+                <div className="flex items-center gap-2 mb-4">
+                  <PlaneTakeoff className="h-5 w-5 text-indigo-600" />
+                  <h3 className="text-xl font-semibold">AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA</h3>
+                </div>
+                <div className="space-y-2">
+                  <div className="flex items-center justify-between p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                    <span className="font-medium text-gray-900 dark:text-gray-100">Types of traffic permitted (IFR/VFR)</span>
                     <Badge variant="outline" className="font-mono font-semibold">
-                      Category {airportInfo.fireFightingCategory}
+                      {airportInfo.trafficTypes || 'Not specified'}
                     </Badge>
                   </div>
+                  {airportInfo.administrativeRemarks && airportInfo.administrativeRemarks !== 'NIL' && (
+                    <div className="p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
+                      <span className="font-medium text-gray-900 dark:text-gray-100">Remarks: </span>
+                      <span className="text-sm text-gray-700 dark:text-gray-300">{airportInfo.administrativeRemarks}</span>
+                    </div>
+                  )}
                 </div>
-              )}
+              </div>
 
-              {/* Traffic Types */}
-              {airportInfo.trafficTypes && (
-                <div>
-                  <div className="flex items-center gap-2 mb-4">
-                    <PlaneTakeoff className="h-5 w-5 text-indigo-600" />
-                    <h3 className="text-xl font-semibold">Traffic Types Permitted</h3>
-                  </div>
-                  <div className="flex items-center gap-2 p-3 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
-                    <Badge variant="outline" className="font-mono font-semibold">
-                      {airportInfo.trafficTypes}
-                    </Badge>
-                  </div>
-                </div>
-              )}
+              <Separator />
 
-              {/* Remarks */}
-              {airportInfo.remarks && (
-                <div>
-                  <div className="flex items-center gap-2 mb-4">
-                    <FileText className="h-5 w-5 text-indigo-600" />
-                    <h3 className="text-xl font-semibold">Remarks</h3>
-                  </div>
-                  <div className="p-4 bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-950 dark:to-blue-950 rounded-lg border border-indigo-100 dark:border-indigo-900">
-                    <p className="text-sm text-gray-700 dark:text-gray-300 whitespace-pre-wrap">
-                      {airportInfo.remarks}
-                    </p>
-                  </div>
+              {/* AD 2.6 RESCUE AND FIREFIGHTING SERVICES */}
+              <div>
+                <div className="flex items-center gap-2 mb-4">
+                  <Flame className="h-5 w-5 text-red-600" />
+                  <h3 className="text-xl font-semibold">AD 2.6 RESCUE AND FIRE FIGHTING SERVICES</h3>
                 </div>
-              )}
+                <div className="flex items-center gap-2 p-3 bg-gradient-to-r from-red-50 to-orange-50 dark:from-red-950 dark:to-orange-950 rounded-lg border border-red-100 dark:border-red-900">
+                  <span className="font-medium text-gray-900 dark:text-gray-100">AD category for fire fighting: </span>
+                  <Badge variant="outline" className="font-mono font-semibold">
+                    {airportInfo.fireFightingCategory || 'Not specified'}
+                  </Badge>
+                </div>
+              </div>
             </CardContent>
           </Card>
         )}
