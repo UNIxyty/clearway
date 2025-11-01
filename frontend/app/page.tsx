@@ -7,7 +7,7 @@ import { Label } from '@/components/ui/label'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
-import { Plane, Search, Loader2, Clock, Phone, Mail, AlertCircle, CheckCircle2, Fire, FileText, PlaneTakeoff } from 'lucide-react'
+import { Plane, Search, Loader2, Clock, Phone, Mail, AlertCircle, CheckCircle2, Flame, FileText, PlaneTakeoff } from 'lucide-react'
 
 interface TowerHour {
   day: string
@@ -344,7 +344,7 @@ export default function Home() {
               {airportInfo.fireFightingCategory && (
                 <div>
                   <div className="flex items-center gap-2 mb-4">
-                    <Fire className="h-5 w-5 text-red-600" />
+                    <Flame className="h-5 w-5 text-red-600" />
                     <h3 className="text-xl font-semibold">Fire Fighting Category</h3>
                   </div>
                   <div className="flex items-center gap-2 p-3 bg-gradient-to-r from-red-50 to-orange-50 dark:from-red-950 dark:to-orange-950 rounded-lg border border-red-100 dark:border-red-900">
