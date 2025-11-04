@@ -123,18 +123,47 @@ def get_all_countries():
     """API endpoint to get all available countries with prefixes and flags"""
     try:
         from country_detector import ICAO_PREFIXES, COUNTRY_FLAGS, load_countries_data
+        import json
+        from pathlib import Path
         
         countries_data = load_countries_data()
-        countries_list = []
+        countries_dict = {}  # Use dict to avoid duplicates by prefix
         
-        # Build a mapping of country -> prefix
+        # First, load countries from airport_codes.json (extracted from PDFs)
+        airport_codes_path = Path('assets') / 'airport_codes.json'
+        if airport_codes_path.exists():
+            try:
+                with open(airport_codes_path, 'r', encoding='utf-8') as f:
+                    airport_codes_data = json.load(f)
+                    codes = airport_codes_data.get('codes', {})
+                    
+                    for prefix, country_data in codes.items():
+                        country_name = country_data.get('country', '')
+                        if country_name:
+                            # Get flag from COUNTRY_FLAGS
+                            flag = COUNTRY_FLAGS.get(country_name, '🏳️')
+                            if flag == '🏳️':
+                                # Try normalized match
+                                country_normalized = country_name.replace('\u2019', "'").replace('\u2018', "'")
+                                flag = COUNTRY_FLAGS.get(country_normalized, '🏳️')
+                            
+                            countries_dict[prefix] = {
+                                'country': country_name,
+                                'prefix': prefix,
+                                'flag': flag,
+                                'region': country_data.get('region', 'UNKNOWN'),
+                                'airport_count': len(country_data.get('airports', []))
+                            }
+            except Exception as e:
+                logger.warning(f"Error loading airport_codes.json: {e}")
+        
+        # Also add countries from aip_countries_full.json (if not already in dict)
         prefix_to_country = {}
         for prefix, country in ICAO_PREFIXES.items():
             if country not in prefix_to_country:
                 prefix_to_country[country] = []
             prefix_to_country[country].append(prefix)
         
-        # Get all unique countries from JSON
         seen_countries = set()
         for country_data in countries_data:
             country_name = country_data.get('country', '').strip()
@@ -146,14 +175,12 @@ def get_all_countries():
                 if not prefixes:
                     continue
                 
-                # Get flag - try exact match, then normalized
+                # Get flag
                 flag = COUNTRY_FLAGS.get(country_name, '🏳️')
                 if flag == '🏳️':
-                    # Normalize apostrophes (handle different Unicode apostrophes)
                     country_normalized = country_name.replace('\u2019', "'").replace('\u2018', "'")
                     flag = COUNTRY_FLAGS.get(country_normalized, '🏳️')
                 if flag == '🏳️':
-                    # Try case-insensitive and partial match
                     country_upper = country_name.upper()
                     for key, value in COUNTRY_FLAGS.items():
                         key_normalized = key.replace('\u2019', "'").replace('\u2018', "'")
@@ -164,17 +191,21 @@ def get_all_countries():
                             flag = value
                             break
                 
-                # Use the most common/representative prefix (usually the shorter one)
+                # Use the most common/representative prefix
                 main_prefix = min(prefixes, key=len) if prefixes else ''
                 
-                countries_list.append({
-                    'country': country_name,
-                    'prefix': main_prefix,
-                    'flag': flag,
-                    'region': country_data.get('region', 'UNKNOWN')
-                })
+                # Only add if not already in dict (airport_codes.json takes precedence)
+                if main_prefix not in countries_dict:
+                    countries_dict[main_prefix] = {
+                        'country': country_name,
+                        'prefix': main_prefix,
+                        'flag': flag,
+                        'region': country_data.get('region', 'UNKNOWN'),
+                        'airport_count': 0
+                    }
         
-        # Sort by country name
+        # Convert to list and sort by country name
+        countries_list = list(countries_dict.values())
         countries_list.sort(key=lambda x: x['country'])
         
         return jsonify({
