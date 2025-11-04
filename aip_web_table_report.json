@@ -1,0 +1,428 @@
+[
+  {
+    "country": "Armenia",
+    "link": "https://armats.am/storage/attachments/173511043402-25(20FEB2025)/index.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Bahrain",
+    "link": "https://aim.mtt.gov.bh/eaip",
+    "indexUrl": "https://aim.mtt.gov.bh/eAIP/2025-09-04-AIRAC/html/index-en-BH.html",
+    "baseUrl": "https://aim.mtt.gov.bh/eAIP/2025-09-04-AIRAC/html"
+  },
+  {
+    "country": "Georgia",
+    "link": "https://airnav.ge/eaip/history-en-GB.html",
+    "indexUrl": "https://airnav.ge/eaip/2025-10-30-000000/html/index-en-GB.html",
+    "baseUrl": "https://airnav.ge/eaip/2025-10-30-000000/html"
+  },
+  {
+    "country": "Hong Kong",
+    "link": "https://www.ais.gov.hk/",
+    "indexUrl": "https://www.ais.gov.hk/eaip_20251030/2025-10-30-000000/html/index-en-US.html",
+    "baseUrl": "https://www.ais.gov.hk/eaip_20251030/2025-10-30-000000/html"
+  },
+  {
+    "country": "India",
+    "link": "https://aim-india.aai.aero/aip-supplements?page=1",
+    "indexUrl": "https://aim-india.aai.aero/eaip/eaip-v2-05-2025/index-en-GB.html",
+    "baseUrl": "https://aim-india.aai.aero/eaip/eaip-v2-05-2025"
+  },
+  {
+    "country": "Israel",
+    "link": "https://e-aip.azurefd.net/",
+    "indexUrl": "https://e-aip.azurefd.net/2025-10-02-AIRAC/html/index.html",
+    "baseUrl": "https://e-aip.azurefd.net/2025-10-02-AIRAC/html"
+  },
+  {
+    "country": "Kazakhstan",
+    "link": "https://www.ans.kz/en/ais/eaip",
+    "indexUrl": "https://www.ans.kz/AIP/eAIP/2025-10-30-AIRAC/html/index-en-GB.html",
+    "baseUrl": "https://www.ans.kz/AIP/eAIP/2025-10-30-AIRAC/html"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "link": "http://kan.kg/ais/eaip/2025-06-12-AIRAC/html/history-en-GB.html",
+    "indexUrl": "http://kan.kg/ais/eaip/2025-10-30-AIRAC/html/index_commands.html",
+    "baseUrl": "http://kan.kg/ais/eaip/2025-10-30-AIRAC/html"
+  },
+  {
+    "country": "Malaysia",
+    "link": "https://aip.caam.gov.my/aip/eAIP/history-en-MS.html",
+    "indexUrl": "https://aip.caam.gov.my/aip/eAIP/2025-09-09/html/index-en-MS.html",
+    "baseUrl": "https://aip.caam.gov.my/aip/eAIP/2025-09-09/html"
+  },
+  {
+    "country": "Mongolia",
+    "link": "https://ais.mn/files/aip/eAIP/",
+    "indexUrl": "https://ais.mn/files/aip/eAIP/2025-10-30-AIRAC/html/index-en-MN.html",
+    "baseUrl": "https://ais.mn/files/aip/eAIP/2025-10-30-AIRAC/html"
+  },
+  {
+    "country": "Myanmar (Burma)",
+    "link": "https://www.ais.gov.mm/eAIP/2018-02-15/html/index-en-GB.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Oman",
+    "link": "https://aim.caa.gov.om/AIRAC_eAIPOman-3-25/history-en-GB.html",
+    "indexUrl": "https://aim.caa.gov.om/AIRAC_eAIPOman-3-25/#",
+    "baseUrl": "https://aim.caa.gov.om/AIRAC_eAIPOman-3-25/#"
+  },
+  {
+    "country": "Pakistan",
+    "link": "https://paa.gov.pk/aeronautical-information/electronic-aeronautical-information-publication",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Qatar",
+    "link": "https://www.caa.gov.qa/en/aeronautical-information-management",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Saudi Arabia",
+    "link": "https://aimss.sans.com.sa/assets/FileManagerFiles/e65727c9-8414-49dc-9c6a-0b30c956ed33.html",
+    "indexUrl": "https://aimss.sans.com.sa/assets/FileManagerFiles/AIRAC AIP AMDT 05_24_2024_05_16/index.html",
+    "baseUrl": "https://aimss.sans.com.sa/assets/FileManagerFiles/AIRAC AIP AMDT 05_24_2024_05_16"
+  },
+  {
+    "country": "Singapore",
+    "link": "https://www.caas.gov.sg/legislation-regulations/guidelines-advisory/air-navigation-services/aeronautical-information-publication-amendments",
+    "indexUrl": "https://aim-sg.caas.gov.sg/aim-content/uploads/aip/02-OCT-2025/AIP-2/2025-10-02-000000/pdf/SG-AIP.pdf?s=248D1A35B654129A22988D502DA75B236FA1C90A",
+    "baseUrl": "https://aim-sg.caas.gov.sg/aim-content/uploads/aip/02-OCT-2025/AIP-2/2025-10-02-000000/pdf/SG-AIP.pdf?s=248D1A35B654129A22988D502DA75B236FA1C90A"
+  },
+  {
+    "country": "South Korea",
+    "link": "https://aim.koca.go.kr/eaipPub/Package/history-en-GB.html",
+    "indexUrl": "https://aim.koca.go.kr/eaipPub/Package/2025-10-29-AIRAC/html/index-en-GB.html",
+    "baseUrl": "https://aim.koca.go.kr/eaipPub/Package/2025-10-29-AIRAC/html"
+  },
+  {
+    "country": "Sri Lanka",
+    "link": "https://airport.lk/aasl/AIM/AIP/Eurocontrol/SRI%20LANKA/2025-04-17-DOUBLE%20AIRAC/html/index-en-EN.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Taiwan",
+    "link": "https://ais.caa.gov.tw/eaip/",
+    "indexUrl": "https://ais.caa.gov.tw/eaip/AIRAC AIP AMDT 05-25_2025_09_04\\index.html",
+    "baseUrl": "https://ais.caa.gov.tw/eaip"
+  },
+  {
+    "country": "Tajikistan",
+    "link": "http://www.caica.ru/aiptjk/?lang=en",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Thailand",
+    "link": "https://aip.caat.or.th/",
+    "indexUrl": "https://aip.caat.or.th/2025-10-30-AIRAC/html/index-en-GB.html",
+    "baseUrl": "https://aip.caat.or.th/2025-10-30-AIRAC/html"
+  },
+  {
+    "country": "Turkmenistan",
+    "link": "http://www.caica.ru/aiptkm/?lang=en",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "United Arab Emirates",
+    "link": "https://www.gcaa.gov.ae/en/ais/Pages/default.aspx",
+    "indexUrl": "https://www.gcaa.gov.ae/en/ais",
+    "baseUrl": "https://www.gcaa.gov.ae/en/ais"
+  },
+  {
+    "country": "Benin",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Burkina Faso",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Cabo Verde",
+    "link": "https://eaip.asa.cv/",
+    "indexUrl": "https://eaip.asa.cv/2024-04-18-AIRAC/html/index-en-GB.html",
+    "baseUrl": "https://eaip.asa.cv/2024-04-18-AIRAC/html"
+  },
+  {
+    "country": "Cameroon",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Central African Republic",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Chad",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Comoros",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Congo",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Equatorial Guinea",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Gabon",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Guinea-Bissau",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Ivory Coast (Côte d’Ivoire)",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Madagascar",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Mali",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Mauritania",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Niger",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Rwanda",
+    "link": "https://aim.asecna.aero/eAIP_Rwanda/default.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Somalia",
+    "link": "https://aip.scaa.gov.so/index-en-GB.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Togo",
+    "link": "https://aim.asecna.aero/html/index-fr-FR.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Albania",
+    "link": "https://www.albcontrol.al/aip/",
+    "indexUrl": "https://www.albcontrol.al/al/aip/AIRAC%20AMDT%20004_2025/30-OCT-2025-A/2025-10-30-AIRAC/html%20",
+    "baseUrl": "https://www.albcontrol.al/al/aip/AIRAC%20AMDT%20004_2025/30-OCT-2025-A/2025-10-30-AIRAC/html%20"
+  },
+  {
+    "country": "Belarus",
+    "link": "https://www.ban.by/AIP/Belarus251002/html/index.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Belgium",
+    "link": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/html/index-en-GB.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "link": "https://eaip.bhansa.gov.ba/",
+    "indexUrl": "https://eaip.bhansa.gov.ba/../../2025-10-30-AIRAC/html/index.html",
+    "baseUrl": "https://eaip.bhansa.gov.ba/../../2025-10-30-AIRAC/html"
+  },
+  {
+    "country": "Croatia",
+    "link": "https://www.crocontrol.hr/UserDocsImages/AIS%20produkti/eAIP/start.html",
+    "indexUrl": "https://www.crocontrol.hr/UserDocsImages/AIS%20produkti/eAIP/2025-10-30-AIRAC\\html\\index-en-HR.html",
+    "baseUrl": "https://www.crocontrol.hr/UserDocsImages/AIS%20produkti/eAIP"
+  },
+  {
+    "country": "Estonia",
+    "link": "https://eaip.eans.ee/2025-10-02/html/index-en-GB.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Finland",
+    "link": "https://www.ais.fi/eaip/",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "France",
+    "link": "https://aip.aero/fr/en/",
+    "indexUrl": "https://aip.aero/fr/en/",
+    "baseUrl": "https://aip.aero/fr/en"
+  },
+  {
+    "country": "Hungary",
+    "link": "https://ais-en.hungarocontrol.hu/aip/",
+    "indexUrl": "https://ais-en.hungarocontrol.hu/aip",
+    "baseUrl": "https://ais-en.hungarocontrol.hu/aip"
+  },
+  {
+    "country": "Iceland",
+    "link": "https://eaip.isavia.is/",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Kosovo",
+    "link": "https://www.ashna-ks.org/eAIP/default.html",
+    "indexUrl": "https://www.ashna-ks.org/eAIP/AIRAC AMDT 01-2025_2025_10_30\\index.html",
+    "baseUrl": "https://www.ashna-ks.org/eAIP"
+  },
+  {
+    "country": "Latvia",
+    "link": "https://ais.lgs.lv/eAIPfiles/2025_006_04-SEP-2025/data/2025-09-04/html/index.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Luxembourg",
+    "link": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/html/index-en-GB.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Netherlands",
+    "link": "https://eaip.lvnl.nl/web/eaip/default.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "North Macedonia",
+    "link": "https://ais.m-nav.info/eAIP/current/en/index.htm",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Norway",
+    "link": "https://partner.avinor.no/en/ais/homepage/",
+    "indexUrl": "https://aim-prod.avinor.no/no/AIP/",
+    "baseUrl": "https://aim-prod.avinor.no/no/AIP"
+  },
+  {
+    "country": "Poland",
+    "link": "https://www.ais.pansa.pl/en/publications/aip-poland/",
+    "indexUrl": "https://www.ais.pansa.pl/en/publications/aip-poland/",
+    "baseUrl": "https://www.ais.pansa.pl/en/publications/aip-poland"
+  },
+  {
+    "country": "Portugal",
+    "link": "https://ais.nav.pt/online-eaip-en/",
+    "indexUrl": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/html/index.html",
+    "baseUrl": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/html"
+  },
+  {
+    "country": "Slovenia",
+    "link": "https://www.sloveniacontrol.si/acrobat/aip/Operations/history-en-GB.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  },
+  {
+    "country": "Sweden",
+    "link": "https://aro.lfv.se/content/eaip/default_offline.html",
+    "indexUrl": "https://aro.lfv.se/content/eaip/AIRAC AIP AMDT 6-2025_2025_10_30\\index-v2.html",
+    "baseUrl": "https://aro.lfv.se/content/eaip"
+  },
+  {
+    "country": "Ukraine",
+    "link": "https://aip.rossiya-airlines.com/ukraine/bilingual_aip/index_en.html",
+    "indexUrl": "https://aip.rossiya-airlines.com/ukraine/bilingual_aip/vol_1/gen_0/GEN_0.2.pdf",
+    "baseUrl": "https://aip.rossiya-airlines.com/ukraine/bilingual_aip/vol_1/gen_0/GEN_0.2.pdf"
+  },
+  {
+    "country": "United Kingdom",
+    "link": "https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/",
+    "indexUrl": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2025-10-30-AIRAC/html/index-en-GB.html",
+    "baseUrl": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2025-10-30-AIRAC/html"
+  },
+  {
+    "country": "Costa Rica",
+    "link": "https://www.cocesna.org/aipca/AIPMR/inicio.html",
+    "indexUrl": "https://www.cocesna.org/aipca/AIPMR/AIP_2504/Eurocontrol/COSTA RICA/2025-10-30-DOUBLE AIRAC/html/index-es-ES.html",
+    "baseUrl": "https://www.cocesna.org/aipca/AIPMR/AIP_2504/Eurocontrol/COSTA RICA/2025-10-30-DOUBLE AIRAC/html"
+  },
+  {
+    "country": "El Salvador",
+    "link": "https://www.cocesna.org/aipca/AIPMS/history.html",
+    "indexUrl": "https://www.cocesna.org/aipca/AIPMS/AIP_2512/Eurocontrol/EL SALVADOR/2025-09-04-NON AIRAC/html/index-es-ES.html",
+    "baseUrl": "https://www.cocesna.org/aipca/AIPMS/AIP_2512/Eurocontrol/EL SALVADOR/2025-09-04-NON AIRAC/html"
+  },
+  {
+    "country": "Guatemala",
+    "link": "https://www.dgac.gob.gt/home/aip_e/",
+    "indexUrl": "https://www.dgac.gob.gt/home/aip_e/AIP_2508/Eurocontrol/GUATEMALA/2025-05-15-DOUBLE AIRAC/html/index-es-ES.html",
+    "baseUrl": "https://www.dgac.gob.gt/home/aip_e/AIP_2508/Eurocontrol/GUATEMALA/2025-05-15-DOUBLE AIRAC/html"
+  },
+  {
+    "country": "Honduras",
+    "link": "https://www.ahac.gob.hn/eAIP1/inicio.html",
+    "indexUrl": "https://www.ahac.gob.hn/eAIP1/AIP_2528\\Eurocontrol\\HONDURAS\\2025-08-07-AIRAC\\html/index-es-ES.html",
+    "baseUrl": "https://www.ahac.gob.hn/eAIP1/AIP_2528\\Eurocontrol\\HONDURAS\\2025-08-07-AIRAC\\html"
+  },
+  {
+    "country": "Chile",
+    "link": "https://aipchile.dgac.gob.cl/aip/vol1",
+    "indexUrl": "https://aipchile.dgac.gob.cl/aip/vol1/seccion/airac",
+    "baseUrl": "https://aipchile.dgac.gob.cl/aip/vol1/seccion/airac"
+  },
+  {
+    "country": "Ecuador",
+    "link": "https://www.ais.aviacioncivil.gob.ec/ifis3/",
+    "indexUrl": "https://www.ais.aviacioncivil.gob.ec/ifis3/",
+    "baseUrl": "https://www.ais.aviacioncivil.gob.ec/ifis3"
+  },
+  {
+    "country": "Venezuela",
+    "link": "https://www.inac.gob.ve/eaip/history-en-GB.html",
+    "indexUrl": "",
+    "baseUrl": ""
+  }
+]

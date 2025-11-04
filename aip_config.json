@@ -1,0 +1,83 @@
+{
+  "countries": {
+    "USA": {
+      "name": "United States",
+      "aip_url": "https://www.faa.gov/air_traffic/flight_info/aeronav/aero_data/NASR_Subscription/",
+      "button_selectors": {
+        "download_button": "#download-button",
+        "accept_terms": ".accept-terms-btn",
+        "proceed_button": "button[data-action='proceed']"
+      },
+      "wait_elements": [".loading", "#processing"],
+      "additional_actions": [
+        {
+          "type": "click",
+          "selector": ".cookie-accept",
+          "required": false
+        }
+      ]
+    },
+    "UK": {
+      "name": "United Kingdom",
+      "aip_url": "https://www.nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/",
+      "button_selectors": {
+        "download_button": ".download-link",
+        "accept_terms": "#terms-checkbox",
+        "proceed_button": ".btn-primary"
+      },
+      "wait_elements": [".spinner", ".loading-indicator"],
+      "additional_actions": [
+        {
+          "type": "wait",
+          "selector": ".content-loaded",
+          "timeout": 5000
+        }
+      ]
+    },
+    "Germany": {
+      "name": "Germany",
+      "aip_url": "https://www.dfs.de/dfs_homepage/en/Aviation/Publications/AIP/",
+      "button_selectors": {
+        "download_button": "a[href*='download']",
+        "accept_terms": "#agb-checkbox",
+        "proceed_button": "input[type='submit']"
+      },
+      "wait_elements": [".loading", "#wait"],
+      "additional_actions": [
+        {
+          "type": "select",
+          "selector": "#language-select",
+          "value": "en"
+        }
+      ]
+    },
+    "France": {
+      "name": "France",
+      "aip_url": "https://www.sia.aviation-civile.gouv.fr/",
+      "button_selectors": {
+        "download_button": ".telecharger",
+        "accept_terms": "#accept-conditions",
+        "proceed_button": ".valider"
+      },
+      "wait_elements": [".chargement"],
+      "additional_actions": []
+    },
+    "Canada": {
+      "name": "Canada",
+      "aip_url": "https://www.navcanada.ca/en/aip/",
+      "button_selectors": {
+        "download_button": "#download-aip",
+        "accept_terms": ".terms-checkbox",
+        "proceed_button": ".continue-btn"
+      },
+      "wait_elements": [".loading-spinner"],
+      "additional_actions": [
+        {
+          "type": "click",
+          "selector": ".language-toggle",
+          "required": false
+        }
+      ]
+    }
+  }
+}

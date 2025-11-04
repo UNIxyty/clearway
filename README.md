@@ -1,287 +1,165 @@
-# Clearway - Airport AIP Lookup System
+# Airport Information Scraper
 
-A comprehensive Aeronautical Information Publication (AIP) lookup system for airports worldwide. Built with a Python Flask backend and a modern Next.js TypeScript frontend using shadcn/ui.
+A web-based application for fetching airport operational hours and contact information from aviation AIP (Aeronautical Information Publication) websites.
 
-## 🚀 Features
+## Current Status
 
-- **Multi-Country Support**: Scrape AIP data from 6 countries
-- **Modern Frontend**: Professional UI built with Next.js, TypeScript, and shadcn/ui
-- **Real-time Data**: Live web scraping with Playwright
-- **PDF Parsing**: Efficient PDF-based data extraction for Lithuania
-- **Smart Caching**: Supabase-powered caching system
-- **Responsive Design**: Works on all devices
-- **Type-Safe**: Full TypeScript support
+✅ **USA Airports**: Fully working - Supports all USA airports (codes starting with 'K')  
+🚧 **France Airports**: Not yet available - Coming soon
 
-## 📊 Supported Countries
+## Features
 
-| Country | Code Prefix | Scraper Type | Airports |
-|---------|-------------|--------------|----------|
-| 🇺🇸 USA | K* | Web | KJFK, KLAX, KORD, KDFW, KATL, etc. |
-| 🇫🇷 France | LF* | Web | LFPG, LFBO, etc. |
-| 🇪🇪 Estonia | EE* | Web (Playwright) | EETN, etc. |
-| 🇫🇮 Finland | EF* | Web (Playwright) | EFHK, EFJV, etc. |
-| 🇱🇹 Lithuania | EY* | PDF | EYVI, EYSA, EYKA, EYPA |
-| 🇱🇻 Latvia | EV* | Web (Playwright) | EVRA, EVLA, EVLI, EVCA, EVGA, EVPA, EVRS, EVVA |
+- Automatic country detection based on airport code
+- Headless web scraping for fast performance  
+- Real-time data extraction from official aviation sources
+- Clean web interface for easy lookup
 
-## 🏗️ Architecture
+## Supported Airports
 
-### Backend (Python Flask)
-- **Framework**: Flask
-- **Scrapers**: Selenium, Playwright, PyPDF2
-- **Database**: Supabase (caching)
-- **Port**: 8080
+### USA (FAA)
+- **Coverage**: All USA airports
+- **Airport Code Format**: Codes starting with 'K' (e.g., KJFK, KLAX, KMIA)
+- **Data Extracted**:
+  - Airport name
+  - Tower operational hours
+  - Owner and manager contact information (phone numbers, names)
 
-### Frontend (Next.js)
-- **Framework**: Next.js 16
-- **Language**: TypeScript
-- **UI**: shadcn/ui + Tailwind CSS
-- **Icons**: Lucide React
-- **Port**: 3000
+### France (Coming Soon)
+- **Status**: Not yet available
+- **Airport Code Format**: Codes starting with 'LF' (e.g., LFBA, LFPG, LFML)
+- **Note**: France eAIP integration is in development
 
-## 📁 Project Structure
-
-```
-Clearway/
-├── app.py                          # Flask API server
-├── database.py                     # Cache management
-├── requirements.txt                # Python dependencies
-├── start.sh                        # Quick start script
-├── .gitignore
-├── README.md
-│
-├── scrapers/                       # Python scrapers
-│   ├── __init__.py
-│   ├── airport_scraper.py         # USA scraper
-│   ├── france_aip_scraper.py      # France scraper
-│   ├── estonia_aip_scraper_playwright.py
-│   ├── finland_aip_scraper_playwright.py
-│   ├── lithuania_aip_scraper_pdf.py  # PDF-based
-│   └── latvia_aip_scraper_playwright.py
-│
-├── assets/                         # Resources
-│   ├── index.html                  # Old frontend (legacy)
-│   ├── EY-AD-2-EYVI.pdf
-│   ├── EY-AD-2-EYSA.pdf
-│   ├── EY-AD-2-EYKA.pdf
-│   └── EY-AD-2-EYPA.pdf
-│
-├── frontend/                       # Next.js app
-│   ├── app/
-│   │   ├── layout.tsx
-│   │   ├── page.tsx               # Main UI
-│   │   └── globals.css
-│   ├── components/
-│   │   └── ui/                    # shadcn components
-│   │       ├── button.tsx
-│   │       ├── card.tsx
-│   │       ├── input.tsx
-│   │       ├── label.tsx
-│   │       ├── badge.tsx
-│   │       └── separator.tsx
-│   ├── lib/
-│   │   └── utils.ts
-│   ├── package.json
-│   └── README.md
-│
-└── others/                         # Config & docs
-    ├── aip_config.json
-    ├── README.md
-    └── ...
-```
-
-## 🚀 Getting Started
+## Quick Start
 
 ### Prerequisites
-
-- **Python 3.8+**
-- **Node.js 18+**
-- **Playwright** (installed automatically)
-- **Supabase** credentials (optional, for caching)
+- Python 3.7+
+- Chrome browser
+- ChromeDriver (automatically installed)
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/UNIxyty/clearway.git
-   cd clearway
-   ```
-
-2. **Install Python dependencies**
-   ```bash
-   pip3 install -r requirements.txt
-   ```
-
-3. **Install Playwright browsers**
-   ```bash
-   playwright install chromium
-   ```
-
-4. **Install frontend dependencies**
-   ```bash
-   cd frontend
-   npm install
-   cd ..
-   ```
-
-5. **Setup environment variables**
-   ```bash
-   cp .env.example .env
-   # Edit .env with your Supabase credentials (optional)
-   ```
-
-### Running the Application
-
-#### Quick Start
+1. Clone the repository:
 ```bash
-./start.sh
+git clone <repository-url>
+cd Clearway
 ```
 
-#### Manual Start
-
-**Terminal 1 - Backend:**
+2. Install dependencies:
 ```bash
-python3 app.py
+pip install -r requirements.txt
 ```
 
-**Terminal 2 - Frontend:**
+3. Run the application:
 ```bash
-cd frontend && npm run dev
+python run.py
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open your browser and navigate to:
+```
+http://localhost:8080
+```
 
-## 🌐 Deployment to Production
+### Usage
 
-The application is configured for deployment to **Railway** (backend) and **Vercel** (frontend).
+1. Enter an airport code (e.g., `KJFK` for John F. Kennedy International Airport)
+2. Press Enter or click Submit
+3. View the extracted airport information including:
+   - Airport name
+   - Operational hours
+   - Contact phone numbers
 
-### Quick Deploy
+### API Usage
 
-**Backend (Railway):**
-1. Go to [railway.app](https://railway.app)
-2. New Project → Deploy from GitHub
-3. Select `UNIxyty/clearway`
-4. Railway auto-detects and deploys!
+You can also use the API directly:
 
-**Frontend (Vercel):**
-1. Go to [vercel.com](https://vercel.com)
-2. Add New Project → Import from GitHub
-3. Select `UNIxyty/clearway`
-4. Set Root Directory: `frontend`
-5. Add Environment Variable: `NEXT_PUBLIC_API_URL` = your Railway URL
-6. Deploy!
+```bash
+curl -X POST http://localhost:8080/api/airport \
+  -H "Content-Type: application/json" \
+  -d '{"airportCode": "KJFK"}'
+```
 
-📚 **Detailed instructions:** See [DEPLOYMENT.md](DEPLOYMENT.md)
-
-✅ **Auto-deploy:** Both platforms auto-deploy on every push to `main` branch!
-
-## 🔌 API Endpoints
-
-### POST `/api/airport`
-Get airport information by ICAO code.
-
-**Request:**
+Example response:
 ```json
 {
-  "airportCode": "EVRA"
-}
-```
-
-**Response:**
-```json
-{
-  "airportCode": "EVRA",
-  "airportName": "EVRA — RIGA",
+  "airportCode": "KJFK",
+  "airportName": "John F Kennedy International Airport",
   "towerHours": [
     {
-      "day": "General",
-      "hours": "H24"
+      "day": "Tower",
+      "hours": "24 Hours"
     }
   ],
   "contacts": [
     {
-      "type": "AD Operator Contact 1",
-      "phone": "+371 67207135",
-      "email": "office@riga-airport.com"
+      "type": "OWNER",
+      "phone": "+1 718-244-4444",
+      "name": "Port Authority of New York and New Jersey",
+      "email": "",
+      "notes": ""
     }
   ]
 }
 ```
 
-### GET `/api/health`
-Health check endpoint.
+## Project Structure
 
-### GET `/api/airports/test`
-Test multiple airports.
-
-## 🧪 Development
-
-### Backend Development
-```bash
-# Run with debug mode
-python3 app.py
-
-# Run tests
-pytest
+```
+Clearway/
+├── app.py                  # Flask web application
+├── airport_scraper.py      # USA airport scraper
+├── france_aip_scraper.py   # France airport scraper (in development)
+├── unified_scraper.py      # Unified scraper routing
+├── index.html             # Web interface
+├── requirements.txt       # Python dependencies
+├── run.py                # Startup script
+└── README.md             # This file
 ```
 
-### Frontend Development
+## Troubleshooting
+
+### Port Already in Use
+If port 8080 is already in use:
 ```bash
-cd frontend
+# Find the process
+lsof -i :8080
 
-# Development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Start production server
-npm start
-
-# Lint
-npm run lint
+# Kill the process
+kill -9 <PID>
 ```
 
-## 📦 Dependencies
+### ChromeDriver Issues
+If you encounter ChromeDriver errors:
+```bash
+# The run.py script automatically installs ChromeDriver
+# If issues persist, update Chrome to the latest version
+```
 
-### Backend
-- Flask 2.3+
-- Playwright 1.40+
-- PyPDF2 3.0+
-- Selenium 4.15+
-- Supabase 2.0+
-- BeautifulSoup4 4.12+
+## Development Status
 
-### Frontend
-- Next.js 16
-- React 19
-- TypeScript 5
-- Tailwind CSS 4
-- shadcn/ui components
-- Lucide React
+### Completed
+- ✅ USA AIP integration (FAA)
+- ✅ Automatic country detection
+- ✅ Headless scraping
+- ✅ Web interface
+- ✅ API endpoints
 
-## 🤝 Contributing
+### In Progress
+- 🚧 France eAIP integration
+- 🚧 Additional countries
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+### Planned
+- 📋 Support for more countries (Canada, UK, Germany, etc.)
+- 📋 Caching for improved performance
+- 📋 Batch airport lookups
 
-## 📄 License
+## License
 
-MIT License - See LICENSE file for details
+This project is for informational purposes only. Please respect the terms of service of the source websites.
 
-## 👥 Authors
+## Contributing
 
-- UNIxyty
+Contributions welcome! Please see the issue tracker for areas needing help.
 
-## 🙏 Acknowledgments
+## Support
 
-- AIP data sources from various national aviation authorities
-- shadcn/ui for beautiful components
-- Next.js team for the amazing framework
-
-## 📞 Support
-
-For issues or questions, please open an issue on GitHub.
-
----
-
-Made with ❤️ for the aviation community
-
+For issues or questions, please open an issue on the GitHub repository.

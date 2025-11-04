@@ -1,0 +1,263 @@
+Country Region (e.g. Asia) Official AIM Page Page type Notes Effective Date Button Div Airport Code Div Visualization Type Div Done?
+Algeria Africa Algeria Web Based <button class="tablinks" onclick="openCity(event, 'ad')"><h3 class="text-strong text-size-14 text-line-height-1 margin-bottom-0 margin-top-5">Part 3&nbsp;&nbsp;AERODROMES&nbsp;&nbsp;AD</h3></button> <div class="panel">
+  
+<table style="width: 100%">
+<tbody>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/DAUA.pdf" target="_blank">Text data</a></td>
+</tr>
+<tr>
+<td><b>Charts related to aerodrome</b></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/AD.pdf" target="_blank">Aerodrome/Heliport Chart — ICAO</a></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/AOC1.pdf" target="_blank">Aerodrome Obstacle Chart — ICAO Type A RWY 04/22</a></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/IAC1.pdf" target="_blank">Instrument Approach Chart — ICAO VOR/DME RWY 04 CAT C/D</a></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/IAC2.pdf" target="_blank">Instrument Approach Chart — ICAO VOR/DME RWY 04 CAT A/B</a></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/IAC3.pdf" target="_blank">Instrument Approach Chart — ICAO VOR RWY 04 CAT C/D</a></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/IAC4.pdf" target="_blank">Instrument Approach Chart — ICAO VOR RWY 04 CAT A/B</a></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/IAC5.pdf" target="_blank">Instrument Approach Chart — ICAO ILS or LOC RWY 04 CAT A/B/C/D</a></td>
+</tr>
+<tr>
+<td><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/VAC1.pdf" target="_blank">Visual Approach Chart — ICAO</a></td>
+</tr>
+</tbody>
+</table>
+  
+</div><a class="text-more-info text-primary" href="PDF/AIP/AD/AD2/DAUA/DAUA.pdf" target="_blank">Text data</a>
+Angola Africa Angola PDF Based 235-309 pages
+Benin Africa Benin Web Table Based
+Burkina Faso Africa Burkina Faso Web Table Based
+Cabo Verde Africa Cabo Verde Web Table Based <td class="date"><a href="2024-04-18-AIRAC/html/index-en-GB.html">18 APR 2024</a></td>
+Cameroon Africa Cameroon Web Table Based
+Central African Republic Africa Central African Republic Web Table Based
+Chad Africa Chad Web Table Based
+Comoros Africa Comoros Web Table Based
+Congo Africa Congo Web Table Based
+Djibouti Africa Djibouti PDF Based
+Egypt Africa - Unable to Access unable to find
+Equatorial Guinea Africa Equatorial Guinea Web Table Based
+Eritrea Africa - Unable to Access
+Eswatini Africa Eswatini Unable to Access
+Ethiopia Africa Ethiopia PDF Based
+Gabon Africa Gabon Web Table Based
+Gambia Africa Gambia Unable to Access
+Ghana Africa Ghana Unable to Access
+Guinea Africa Guinea Login Required Unable to create because login is requiered
+Guinea-Bissau Africa Guinea-Bissau Web Table Based
+Ivory Coast (Côte d’Ivoire) Africa Ivory Coast (Côte d’Ivoire) Web Table Based
+Kenya Africa Login Required Unable to create because login is requiered
+Lesotho Africa Lesotho Unable to Access
+Liberia Africa Liberia Unable to Access
+Libya Africa Libya PDF Based
+Madagascar Africa Madagascar Web Table Based
+Malawi Africa Unable to Access
+Mali Africa https://aim.asecna.aero/html/index-fr-FR.html Web Table Based
+Mauritania Africa https://aim.asecna.aero/html/index-fr-FR.html Web Table Based
+Mauritius Africa Mauritius Unable to Access
+Morocco Africa Unable to Access
+Mozambique Africa Unable to Access
+Namibia Africa Namibia Login Required Unable to create because login is requiered
+Niger Africa https://aim.asecna.aero/html/index-fr-FR.html Web Table Based
+Nigeria Africa Nigeria Unable to Access
+Rwanda Africa https://aim.asecna.aero/eAIP_Rwanda/default.html Web Table Based
+São Tomé and Príncipe Africa https://www.afcac.org/spotlight20_saotome/ Unable to Access
+Seychelles Africa https://www.scaa.sc/files/AIP%20Seychelles.pdf PDF Based 157-223
+Sierra Leone Africa https://www.robertsfir.org/aip.html Login Required Unable to create because login is requiered
+Somalia Africa https://aip.scaa.gov.so/index-en-GB.html Web Table Based
+South Africa Africa https://www.caa.co.za/industry-information/aip-sup/ PDF Based
+South Sudan Africa https://sscaa.gov.ss/publications/aip/ PDF Based
+Sudan Africa Sudan PDF Based
+Tanzania Africa Tanzania Unable to Access
+Togo Africa https://aim.asecna.aero/html/index-fr-FR.html Web Table Based
+Tunisia Africa Unable to Access
+Uganda Africa Unable to Access
+Zambia Africa Unable to Access
+Zimbabwe Africa Unable to Access
+Afghanistan ASIA https://www.afgais.com/ PDF Based
+Armenia ASIA https://armats.
+am/storage/attachments/173511043402-25%
+2820FEB2025%29/html/index-en-GB.htmlWeb Table Based
+Azerbaijan ASIA Azerbaijan PDF Based
+Bahrain ASIA https://aim.mtt.gov.bh/eaip Web Table Based <div class="clearfix text-formatted field field--name-field-description field--type-text-with-summary field--label-hidden field__item"><ul><li><a href="https://aim.mtt.gov.bh/eAIP/2025-09-04-AIRAC/html/index-en-BH.html"><strong style="color:grey;">AIRAC 02/25&nbsp;EFF DATE 04&nbsp;SEP&nbsp;2025&nbsp;Publication date 07&nbsp;AUG&nbsp;2025</strong></a></li></ul></div>
+Bangladesh ASIA http://www.caab.gov.bd/aip/# PDF Based
+Bhutan ASIA https://www.doat.gov.bt/aip/ PDF Based
+Brunei ASIA Brunei PDF Based
+Cambodia ASIA Cambodia Login Required Unable to create because login is requiered
+China ASIA https://www.eaipchina.cn/#/ Login Required
+Cyprus ASIA Cyprus Login Required
+East Timor (Timor-Leste) ASIA East Timor (Timor-Leste) PDF Based
+Georgia ASIA https://airnav.ge/eaip/history-en-GB.html Web Table Based <td class="date"><a href="2025-10-30-000000/html/index-en-GB.html">30 OCT 2025</a></td>
+India ASIA https://aim-india.aai.aero/aip-supplements?page=1 Web Table Based <li class="leaf new" id="new"><a href="https://aim-india.aai.aero/eaip/eaip-v2-05-2025/index-en-GB.html" id="new" class="new">eAIP India AMDT 05/2025 (Effective Date 02 OCT 2025)</a></li>
+
+--- PAGE BREAK ---
+
+Country Region (e.g. Asia) Official AIM Page Page type Notes Effective Date Button Div Airport Code Div Visualization Type Div Done?
+Indonesia ASIA Unable to Access
+Iran ASIA https://ais.airport.ir/ PDF Based
+Iraq ASIA https://icaa.gov.iq/ Unable to Access
+Israel ASIA https://e-aip.azurefd.net/ Web Table Based <td class="green"><a href="2025-10-02-AIRAC/html/index.html">02 OCT 2025</a></td>
+Japan ASIA https://nagodede.github.io/aip/japan/ PDF Based
+Jordan ASIA https://carc.gov.jo/en/aip-supplement Unable to Access
+Kazakhstan ASIA https://www.ans.kz/en/ais/eaip Web Table Based <td><a href="https://www.ans.kz/AIP/eAIP/2025-10-30-AIRAC/html/index-en-GB.html" target="_blank">eAIP Kazakhstan effective on 30 OCT 2025 (AIRAC AMDT 010/2025) </a></td>
+Kuwait ASIA https://dgca.gov.kw/AIP Login Required
+Kyrgyzstan ASIA Kyrgyzstan Web Table Based <td><a href="http://kan.kg/ais/eaip/2025-10-30-AIRAC/html/index_commands.html" title="View document" target="_top">30 OCT 2025</a></td>
+Laos ASIA Unable to Access
+Lebanon ASIA Unable to Access
+Malaysia ASIA https://aip.caam.gov.my/aip/eAIP/history-en-MS.html Web Table Based <td align="center" valign="middle" class="date"><a href="2025-09-09/html/index-en-MS.html">09 SEP 2025</a></td>
+Maldives ASIA Maldives PDF Based
+Mongolia ASIA https://ais.mn/files/aip/eAIP/ Web Table Based <div id="table_title">
+            <p><a href="2025-10-30-AIRAC/html/index-en-MN.html" target="_blank">30 Oct 2025</a></p>
+          </div>Myanmar (Burma) ASIA Myanmar (Burma) Web Table Based
+Nepal ASIA https://e-aip.caanepal.gov.np/welcome/listall/1 PDF Based
+Oman ASIA Oman Web Table Based <td class="date"><a href="#" style="text-decoration:none">16 OCT 2025</a></td>
+Pakistan ASIA https://paawebadmin.paa.gov.pk/media/eaip/03-
+25/eAIP/index.htmWeb Table Based
+Philippines ASIA Unable to Access
+Qatar ASIA https://www.aim.gov.qa/eaip/2025-09-04-
+AIRAC/html/index-en-GB.htmlWeb Table Based
+Saudi Arabia ASIA Saudi Arabia Web Table Based <td class="date">
+            <a target="_blank" rel="noopener noreferrer" href="AIRAC AIP AMDT 05_24_2024_05_16/index.html">16 MAY 2024</a>
+            </td>Singapore ASIA Singapore Web Table Based <td data-title="Subject"><a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/02-OCT-2025/AIP-2/2025-10-02-000000/pdf/SG-AIP.pdf?s=248D1A35B654129A22988D502DA75B236FA1C90A">AIP Singapore - 2 OCT 2025</a>&nbsp;(PDF, 104.8MB)</td>
+South Korea ASIA South Korea Web Table Based <td class="efdate"><a href="2025-10-29-AIRAC/html/index-en-GB.html">29 OCT 2025</a></td>
+Sri Lanka ASIA Sri Lanka Web Table Based
+Syria ASIA Syria Unable to Access
+Taiwan ASIA https://ais.caa.gov.tw/eaip/ Web Table Based <td style="background-color:#ADFF2F;text-transform:uppercase;"><a href="AIRAC AIP AMDT 05-25_2025_09_04\index.html">04 Sep 2025</a></td>
+Tajikistan ASIA http://www.caica.ru/aiptjk/validaip/html/eng.htm Web Table Based
+Thailand ASIA https://aip.caat.or.th/ Web Table Based <td class="date"><a href="2025-10-30-AIRAC/html/index-en-GB.html">30 OCT 2025</a></td>
+Turkey ASIA https://dhmi.gov.tr/Sayfalar/aipturkey.aspx Login Required
+Turkmenistan ASIA http://www.caica.ru/aiptkm/validaip/html/eng.htm Web Table Based
+United Arab Emirates ASIA https://www.gcaa.gov.
+ae/en/ais/AIPHtmlFiles/AIP/Current/AIP.aspxWeb Table Based <td align="center" class="date" valign="top"><a href="AIRACs/2025-P18/html/index-en-GB.html">16 OCT 2025</a></td>
+Uzbekistan ASIA Uzbekistan Unable to Access
+Vietnam ASIA Unable to Access
+Yemen ASIA https://www.cama.gov.ye/en/services Unable to Access
+Hong Kong ASIA https://www.ais.gov.hk/eaip_20251030/2025-10-30-
+000000/html/index-en-US.htmlWeb Table Based
+Macau ASIA Macau PDF Based
+Albania EUROPE https://www.albcontrol.al/aip/ Web Table Based <a href="https://www.albcontrol.al/al/aip/AIRAC%20AMDT%20004_2025/30-OCT-2025-A/2025-10-30-AIRAC/html%20"><p style="justify-content: center;align-items: center;text-align: center;color: blue;height: 2vh;padding-top: 0px">Current version</p></a>
+Andorra EUROPE Andorra PDF Based
+Austria EUROPE Austria PDF Based
+Belarus EUROPE Belarus Web Table Based
+Belgium EUROPE Belgium Web Table Based
+Bosnia and Herzegovina EUROPE https://eaip.bhansa.gov.ba/ Web Table Based <td class="green"><a href="../../2025-10-30-AIRAC/html/index.html">30 OCT 2025</a></td>
+Bulgaria EUROPE https://aip.rossiya-airlines.com/Bulgaria/start.htm PDF Based
+Croatia EUROPE Croatia Web Table Based <td class="date" align="center">
+                                    <a href="2025-10-30-AIRAC\html\index-en-HR.html">30 OCT 2025</a></td>Czech Republic EUROPE Czech Republic PDF Based
+Denmark EUROPE https://aim.naviair.dk/en PDF Based
+France EUROPE https://www.sia.aviation-civile.gouv.
+fr/documents/htmlshow?
+f=dvd/eAIP_30_OCT_2025/FRANCE/home.htmlWeb Table Based <td class="green dateUpper"><a id="dateVig" href="AIRAC-2025-10-02/html/index-fr-FR.html" target="_blank">02 OCT 2025</a></td>
+Germany EUROPE https://aip.dfs.de/basicAIP/  
+Greece EUROPE Greece PDF Based
+Hungary EUROPE https://ais-en.hungarocontrol.hu/aip/2025-07-10/ Web Table Based
+Iceland EUROPE https://eaip.isavia.is/ Web Table Based <td class="green" style="text-align: center;"><a href="https://eaip.isavia.is/A_09-2025_2025_10_30/">30 OCT 2025</a></td>
+Ireland EUROPE Ireland PDF Based
+Italy EUROPE Italy PDF Based
+Kosovo EUROPE https://www.ashna-ks.org/eAIP/default.html Web Table Based <td style="background-color:#ADFF2F;text-transform:uppercase;"><a href="AIRAC AMDT 01-2025_2025_10_30\index.html">30 Oct 2025</a></td>
+Latvia EUROPE Latvia Web Table Based <td style="width:95%">
+                                                            <a class="btn btn-custom btn-stripes" href="eAIPfiles/2025_007_30-OCT-2025/data/2025-10-30/html/index.html ">
+                                    <span>AIRAC AMDT 007/2025 30-OCT-2025</span>
+                                </a>
+                                                    </td>Liechtenstein EUROPE Unable to Access
+Luxembourg EUROPE Luxembourg Web Table Based
+Malta EUROPE Malta PDF Based
+Moldova EUROPE Moldova Unable to Access
+Monaco EUROPE Monaco Unable to Access
+Montenegro EUROPE Montenegro Unable to Access
+Netherlands EUROPE https://eaip.lvnl.nl/web/eaip/default.html Web Table Based <td style="background-color:#ADFF2F;text-transform:uppercase;"><a href="AIRAC AMDT 11-2025_2025_10_30\index.html">30 Oct 2025</a></td>
+North Macedonia EUROPE https://ais.m-nav.info/eAIP/current/en/index.htm Web Table Based
+
+--- PAGE BREAK ---
+
+Country Region (e.g. Asia) Official AIM Page Page type Notes Effective Date Button Div Airport Code Div Visualization Type Div Done?
+Norway EUROPE https://aim-prod.avinor.
+no/no/AIP/View/Index/142/history-no-NO.htmlWeb Table Based <td class="td-right-top-0-0 date"><a href="2025-09-04-AIRAC/html/index-no-NO.html">04 SEP 2025</a></td>
+Poland EUROPE https://docs.pansa.pl/ais/eaipifr/default_offline_2025-
+10-30.htmlWeb Table Based <td style="background-color:#ADFF2F;text-transform:uppercase;"><a href="AIRAC AMDT 11-25_2025_10_30\index-v2.html">30 OCT 2025</a><a href="AIRAC AMDT 08-25_2025_08_07\index-v2.html"></a></td>
+Portugal EUROPE https://ais.nav.pt/online-eaip-en/ Web Table Based
+Romania EUROPE https://www.aisro.ro Unable to Access
+San Marino EUROPE Unable to Access
+Serbia EUROPE Serbia Unable to Access
+Slovakia EUROPE Slovakia Unable to Access
+Slovenia EUROPE https://aim.sloveniacontrol.
+si/aim/eAIP/Operations/history-en-GB.htmlWeb Table Based <td class="green"><a href="../Operations/2025-10-30-AIRAC/html/index.html">30 OCT 2025</a></td>
+Spain EUROPE https://aip.enaire.es/aip/aip-en.html ...
+Sweden EUROPE https://aro.lfv.se/content/eaip/default_offline.html Web Table Based <td style="background-color:#ADFF2F;text-transform:uppercase;"><a href="AIRAC AIP AMDT 6-2025_2025_10_30\index-v2.html">30 Oct 2025</a></td>
+Switzerland EUROPE https://www.skybriefing.com/en/home Unable to Access
+Ukraine EUROPE Ukraine Web Table Based
+United Kingdom EUROPE United Kingdom Web Table Based <a href="https://www.aurora.nats.co.uk/htmlAIP/Publications/2025-10-30-AIRAC/html/index-en-GB.html">Online Version</a>
+Vatican City EUROPE Unable to Access
+Russia EUROPE http://www.caiga.ru/products/?lang=en Unable to Access
+Antigua and Barbuda NORTH AMERICA Antigua and Barbuda PDF Based
+Bahamas NORTH AMERICA https://caabahamas.com/documents/ Unable to Access
+Barbados NORTH AMERICA Unable to Access
+Belize NORTH AMERICA Belize Unable to Access
+Canada NORTH AMERICA Canada PDF Based
+Costa Rica NORTH AMERICA https://www.cocesna.org/aipca/AIPMR/inicio.html Web Table Based <td class="date">
+    <a href="AIP_2504/Eurocontrol/COSTA RICA/2025-10-30-DOUBLE AIRAC/html/index-es-ES.html">30 OCT 25</a>
+    </td>Cuba NORTH AMERICA https://aismet.avianet.cu/html/aip.html PDF Based HALF
+Dominica NORTH AMERICA Dominica ...
+Dominican Republic NORTH AMERICA Unable to Access
+El Salvador NORTH AMERICA https://www.cocesna.org/aipca/AIPMS/history.html Web Table Based <td class="date">
+    <a href="AIP_2512/Eurocontrol/EL SALVADOR/2025-09-04-NON AIRAC/html/index-es-ES.html">04 SEP 2025</a>
+    </td>Grenada NORTH AMERICA Unable to Access
+Guatemala NORTH AMERICA https://www.dgac.gob.gt/home/aip_e/ Web Table Based <td class="date">
+<a href="AIP_2508/Eurocontrol/GUATEMALA/2025-05-15-DOUBLE AIRAC/html/index-es-ES.html">15 MAY 2025</a>
+</td>Haiti NORTH AMERICA Haiti PDF Based
+Honduras NORTH AMERICA https://www.ahac.gob.hn/eAIP1/inicio.html Web Table Based <td class="date">
+<a href="AIP_2528\Eurocontrol\HONDURAS\2025-08-07-AIRAC\html/index-es-ES.html">07 AUG 25</a>
+</td>Jamaica NORTH AMERICA https://www.jcaa.gov.jm/aip-supplements/ Unable to Access
+Mexico NORTH AMERICA Unable to Access
+Nicaragua NORTH AMERICA https://www.inac.gob.ni/ Unable to Access
+Panama NORTH AMERICA https://www.aeronautica.gob.pa/ais-aip/ Web Based
+Saint Kitts and Nevis NORTH AMERICA Unable to Access
+Saint Lucia NORTH AMERICA Saint Lucia Unable to Access
+Saint Vincent and the Grenadines NORTH AMERICA Saint Vincent and the Grenadines PDF Based
+Trinidad and Tobago NORTH AMERICA Trinidad and Tobago PDF Based
+United States of America NORTH AMERICA United States of America Web Based
+Argentina SOUTH AMERICA https://ais.anac.gob.ar/aip Web Based
+Bolivia SOUTH AMERICA Unable to Access
+Brazil SOUTH AMERICA Unable to Access
+Chile SOUTH AMERICA https://aipchile.dgac.gob.cl/aip/vol1 Web Table Based
+Colombia SOUTH AMERICA Unable to Access
+Ecuador SOUTH AMERICA https://www.ais.aviacioncivil.gob.ec/ifis3/ Web Table Based
+Guyana SOUTH AMERICA Unable to Access
+Paraguay SOUTH AMERICA Unable to Access
+Peru SOUTH AMERICA Unable to Access
+Suriname SOUTH AMERICA Unable to Access
+Uruguay SOUTH AMERICA Unable to Access
+Venezuela SOUTH AMERICA https://www.inac.gob.ve/eaip/history-en-GB.html Web Table Based <td class="date" align="center">
+<a href="2020-07-16/html/index-en-GB.html" target="_top">AMDT AIRAC NR 6</a></td>Australia AUSTRALIA AND OCEANIA Unable to Access
+Fiji AUSTRALIA AND OCEANIA Unable to Access
+Kiribati AUSTRALIA AND OCEANIA Unable to Access
+Marshall Islands AUSTRALIA AND OCEANIA Unable to Access
+Micronesia AUSTRALIA AND OCEANIA Unable to Access
+Nauru AUSTRALIA AND OCEANIA Unable to Access
+New Zealand AUSTRALIA AND OCEANIA Unable to Access
+Palau AUSTRALIA AND OCEANIA Unable to Access
+Papua New Guinea AUSTRALIA AND OCEANIA ...
+Samoa AUSTRALIA AND OCEANIA Unable to Access
+Solomon Islands AUSTRALIA AND OCEANIA Unable to Access
+Tonga AUSTRALIA AND OCEANIA Unable to Access
+Tuvalu AUSTRALIA AND OCEANIA Unable to Access
+
+--- PAGE BREAK ---
+
+Country Region (e.g. Asia) Official AIM Page Page type Notes Effective Date Button Div Airport Code Div Visualization Type Div Done?
+Vanuatu AUSTRALIA AND OCEANIA Unable to Access
+Estonia EUROPE Estonia Web Table Based
+Finland EUROPE https://www.ais.fi/eaip/ Web Table Based
+Lithuania EUROPE Lithuania PDF Based Not dynamically updated. Next issue 25.12.2025
