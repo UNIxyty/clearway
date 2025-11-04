@@ -96,6 +96,7 @@ ICAO_PREFIXES = {
     'EI': 'Ireland',
     'LL': 'Israel',
     'LI': 'Italy',
+    'DI': 'Ivory Coast (Côte d’Ivoire)',
     'MK': 'Jamaica',
     'RJ': 'Japan',
     'OJ': 'Jordan',
@@ -292,6 +293,7 @@ COUNTRY_FLAGS = {
     'Ireland': '🇮🇪',
     'Israel': '🇮🇱',
     'Italy': '🇮🇹',
+    'Ivory Coast (Côte d’Ivoire)': '🏳️',
     'Jamaica': '🇯🇲',
     'Japan': '🇯🇵',
     'Jordan': '🇯🇴',
@@ -447,17 +449,9 @@ def get_country_from_code(airport_code: str) -> Optional[Dict[str, str]]:
                 
                 # Try to find this country in the JSON file for more details
                 countries_data = load_countries_data()
-                flag_emoji = COUNTRY_FLAGS.get(country_name, '🏳️')
-                
-                # If flag not found, try case-insensitive match
-                if flag_emoji == '🏳️':
-                    for key, value in COUNTRY_FLAGS.items():
-                        if key.upper() == country_name.upper():
-                            flag_emoji = value
-                            break
-                
                 for country_data in countries_data:
                     if country_data.get('country', '').strip() == country_name:
+                        flag_emoji = COUNTRY_FLAGS.get(country_name, '🏳️')
                         return {
                             'country': country_data.get('country', country_name),
                             'region': country_data.get('region', 'UNKNOWN'),
@@ -468,6 +462,7 @@ def get_country_from_code(airport_code: str) -> Optional[Dict[str, str]]:
                         }
                 
                 # If not found in JSON, return basic info with flag
+                flag_emoji = COUNTRY_FLAGS.get(country_name, '🏳️')
                 return {
                     'country': country_name,
                     'region': 'UNKNOWN',

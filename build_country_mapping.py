@@ -443,17 +443,33 @@ def build_complete_mapping():
         aip_type = country_data.get('type', 'Unknown')
         link = country_data.get('link', '')
         
-        # Get ICAO prefix - try exact match first, then case-insensitive
+        # Get ICAO prefix - try exact match first, then normalized match
         icao_prefix = ICAO_PREFIX_MAPPING.get(country_name)
+        if not icao_prefix:
+            # Try normalized match (handle special characters)
+            country_normalized = country_name.replace('’', "'").replace('–', '-').replace('—', '-')
+            icao_prefix = ICAO_PREFIX_MAPPING.get(country_normalized)
         if not icao_prefix:
             # Try case-insensitive match
             for key, value in ICAO_PREFIX_MAPPING.items():
-                if key.upper() == country_name.upper():
+                key_normalized = key.replace('’', "'").replace('–', '-').replace('—', '-')
+                if key_normalized.upper() == country_name.upper() or key.upper() == country_name.upper():
+                    icao_prefix = value
+                    break
+        if not icao_prefix:
+            # Try partial match (e.g., "Ivory Coast" matches "Ivory Coast (Côte d'Ivoire)")
+            country_upper = country_name.upper()
+            for key, value in ICAO_PREFIX_MAPPING.items():
+                key_upper = key.upper()
+                if country_upper in key_upper or key_upper in country_upper:
                     icao_prefix = value
                     break
         
         if not icao_prefix:
+            # Try to find prefix by checking if country name matches any key
+            # (for countries that might have different name variations)
             missing_prefixes.append(country_name)
+            # Continue to next country instead of skipping
             continue
         
         # Get flag emoji - try exact match first, then case-insensitive
