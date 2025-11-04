@@ -10,13 +10,13 @@ from playwright.sync_api import sync_playwright
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-class IsraelAIPScraperPlaywright:
-	def __init__(self, base_url: str = "https://e-aip.azurefd.net/"):
+class ArmeniaAIPScraperPlaywright:
+	def __init__(self, base_url: str = "https://armats.am/storage/attachments/173511043402-25(20FEB2025)/index.html"):
 		self.base_url = base_url
 		self.playwright = None
 		self.browser = None
 		self.page = None
-		self.current_aip_url = None
+		self.current_aip_url = base_url  # Direct link, no date selection needed
 
 	def _setup_browser(self):
 		"""Setup Playwright browser in headless mode."""
@@ -25,59 +25,18 @@ class IsraelAIPScraperPlaywright:
 			self.browser = self.playwright.chromium.launch(headless=True, args=['--window-size=1600,1000'])
 			self.page = self.browser.new_page()
 			self.page.set_default_timeout(30000)
-			logger.info("Playwright browser initialized for Israel AIP (headless)")
+			logger.info("Playwright browser initialized for Armenia AIP (headless)")
 		except Exception as e:
 			logger.error(f"Failed to initialize Playwright browser: {e}")
 			raise
 
 	def _navigate_to_current_aip(self):
-		"""Navigate to current AIP version using Effective Date Button Div pattern."""
-		logger.info(f"Navigating to Israel AIP: {self.base_url}")
+		"""Navigate directly to AIP (no date selection needed)."""
+		logger.info(f"Navigating directly to Armenia AIP: {self.base_url}")
 		self.page.goto(self.base_url)
 		self.page.wait_for_load_state("networkidle")
 		time.sleep(2)
-		
-		# Pattern from JSON: <td class="green"><a href="2025-10-02-AIRAC/html/index.html">02 OCT 2025</a></td>
-		try:
-			# Find the green date cell
-			date_link = self.page.locator("td.green > a").first
-			if date_link.count() > 0:
-				href = date_link.get_attribute('href')
-				date_text = date_link.text_content()
-				logger.info(f"Found current AIP date: {date_text}, href: {href}")
-				
-				if href:
-					if href.startswith('http'):
-						self.current_aip_url = href
-					else:
-						base = urlparse(self.base_url)
-						self.current_aip_url = urljoin(f"{base.scheme}://{base.netloc}", href)
-					
-					logger.info(f"Navigating to current AIP: {self.current_aip_url}")
-					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
-					time.sleep(2)
-					return
-			
-			# Fallback: try any link with AIRAC pattern
-			all_links = self.page.locator("a[href*='AIRAC'][href*='html/index']")
-			if all_links.count() > 0:
-				href = all_links.first.get_attribute('href')
-				if href:
-					if href.startswith('http'):
-						self.current_aip_url = href
-					else:
-						base = urlparse(self.base_url)
-						self.current_aip_url = urljoin(f"{base.scheme}://{base.netloc}", href)
-					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
-					logger.info(f"Used fallback navigation to: {self.current_aip_url}")
-					return
-			
-			raise Exception("Could not find current AIP link")
-		except Exception as e:
-			logger.error(f"Failed to navigate to current AIP: {e}")
-			raise
+		self.current_aip_url = self.base_url
 
 	def _navigate_to_ad2_section(self):
 		"""Navigate to Part 3 Aerodromes → AD 2."""
@@ -113,7 +72,7 @@ class IsraelAIPScraperPlaywright:
 					links = nav_frame.locator("//*[contains(text(), 'AERODROMES')]")
 					if links.count() > 0:
 						links.first.click()
-			time.sleep(1)
+						time.sleep(1)
 		except Exception as e:
 			logger.warning(f"Frameset navigation failed: {e}")
 
@@ -126,9 +85,9 @@ class IsraelAIPScraperPlaywright:
 		base_parsed = urlparse(base_url)
 		base_path = base_parsed.path.rsplit('/', 1)[0] if '/' in base_parsed.path else ''
 		
-		# Israel AIP patterns: LL-AD-2.XXXX-en-GB.html or AD-2.XXXX-en-GB.html
+		# Armenia AIP patterns: UD-AD-2.XXXX-en-GB.html or AD-2.XXXX-en-GB.html
 		patterns = [
-			f"{base_parsed.scheme}://{base_parsed.netloc}{base_path}/eAIP/LL-AD-2.{airport_code}-en-GB.html",
+			f"{base_parsed.scheme}://{base_parsed.netloc}{base_path}/eAIP/UD-AD-2.{airport_code}-en-GB.html",
 			f"{base_parsed.scheme}://{base_parsed.netloc}{base_path}/eAIP/AD-2.{airport_code}-en-GB.html",
 			f"{base_parsed.scheme}://{base_parsed.netloc}{base_path}/AD-2.{airport_code}-en-GB.html",
 		]
@@ -282,8 +241,8 @@ class IsraelAIPScraperPlaywright:
 			
 			contact_section = text[start_idx:end_idx]
 			
-			# Phone numbers (Israel: +972)
-			phone_regex = r'(\+972[0-9\s\-]+|\+?[0-9\s\-]{8,})'
+			# Phone numbers (Armenia: +374)
+			phone_regex = r'(\+374[0-9\s\-]+|\+?[0-9\s\-]{8,})'
 			phones = re.findall(phone_regex, contact_section)
 			phones = [re.sub(r'\s+', ' ', p.strip()) for p in phones if len(p.strip()) >= 7 and len(p.strip()) <= 20]
 			
@@ -468,10 +427,10 @@ class IsraelAIPScraperPlaywright:
 
 
 def main():
-	scraper = IsraelAIPScraperPlaywright()
+	scraper = ArmeniaAIPScraperPlaywright()
 	try:
-		# Example: Ben Gurion Airport (LLBG)
-		result = scraper.get_airport_info("LLBG")
+		# Example: Zvartnots Airport (UDYZ)
+		result = scraper.get_airport_info("UDYZ")
 		import json
 		print("\n=== RESULTS ===")
 		print(json.dumps(result, indent=2))
@@ -482,3 +441,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+

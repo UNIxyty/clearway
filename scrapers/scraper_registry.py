@@ -33,6 +33,9 @@ AIRPORT_CODE_PREFIXES = {
     # Albania
     'LA': ('ALBANIA', 'albania_aip_scraper_playwright', 'AlbaniaAIPScraperPlaywright'),
     
+    # Armenia
+    'UD': ('ARMENIA', 'armenia_aip_scraper_playwright', 'ArmeniaAIPScraperPlaywright'),
+    
     # Bahrain
     'OB': ('BAHRAIN', 'bahrain_aip_scraper_playwright', 'BahrainAIPScraperPlaywright'),
     

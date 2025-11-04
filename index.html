@@ -369,7 +369,7 @@
 
         <div class="loading" id="loading">
             <div class="spinner"></div>
-            <div class="loading-text">Searching FAA database...</div>
+            <div class="loading-text" id="loadingText">Searching airport database...</div>
         </div>
 
         <div class="error" id="error">
@@ -382,8 +382,18 @@
                 <div class="airport-code" id="airportCodeDisplay"></div>
                 
                 <div class="info-section">
-                    <div class="section-title">🕐 Tower Hours</div>
-                    <div id="towerHours"></div>
+                    <div class="section-title">📋 AD 2.3 OPERATIONAL HOURS</div>
+                    <div id="operationalHours"></div>
+                </div>
+
+                <div class="info-section">
+                    <div class="section-title">🌍 AD 2.2 GEOGRAPHICAL DATA</div>
+                    <div id="geographicalData"></div>
+                </div>
+
+                <div class="info-section">
+                    <div class="section-title">🔥 AD 2.6 FIRE FIGHTING</div>
+                    <div id="fireFighting"></div>
                 </div>
 
                 <div class="info-section">
@@ -525,6 +535,34 @@
             loading.style.display = 'block';
             searchBtn.disabled = true;
             searchBtn.textContent = 'Searching...';
+            
+            // Update loading text based on detected country
+            const airportCode = airportInput.value.trim();
+            if (airportCode.length >= 2) {
+                const prefix = airportCode.substring(0, 2);
+                const loadingText = document.getElementById('loadingText');
+                if (prefix === 'K') {
+                    loadingText.textContent = 'Searching FAA database...';
+                } else if (prefix === 'LF') {
+                    loadingText.textContent = 'Searching French AIP...';
+                } else if (prefix === 'EV') {
+                    loadingText.textContent = 'Searching Latvian AIP...';
+                } else if (prefix === 'EE') {
+                    loadingText.textContent = 'Searching Estonian AIP...';
+                } else if (prefix === 'UG') {
+                    loadingText.textContent = 'Searching Georgian AIP...';
+                } else if (prefix === 'VI') {
+                    loadingText.textContent = 'Searching Indian AIP...';
+                } else if (prefix === 'LL') {
+                    loadingText.textContent = 'Searching Israeli AIP...';
+                } else if (prefix === 'UA') {
+                    loadingText.textContent = 'Searching Kazakhstani AIP...';
+                } else if (prefix === 'UD') {
+                    loadingText.textContent = 'Searching Armenian AIP...';
+                } else {
+                    loadingText.textContent = 'Searching airport database...';
+                }
+            }
         }
 
         function hideLoading() {
@@ -592,18 +630,54 @@
             }
             codeDisplay.innerHTML = codeText;
             
-            // Display tower hours
-            const towerHoursDiv = document.getElementById('towerHours');
-            if (data.towerHours && data.towerHours.length > 0) {
-                towerHoursDiv.innerHTML = data.towerHours.map(hour => 
-                    `<div class="info-item">
-                        <span class="info-label">${hour.day || 'Unknown'}</span>
-                        <span class="info-value">${hour.hours || 'No data'}</span>
-                    </div>`
-                ).join('');
-            } else {
-                towerHoursDiv.innerHTML = '<div class="no-data">No tower hours information available</div>';
-            }
+            // Display AD 2.3 OPERATIONAL HOURS
+            const operationalHoursDiv = document.getElementById('operationalHours');
+            operationalHoursDiv.innerHTML = `
+                <div class="info-item">
+                    <span class="info-label">AD Administration</span>
+                    <span class="info-value">${data.adAdministration || 'NIL'}</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">AD Operator</span>
+                    <span class="info-value">${data.adOperator || 'NIL'}</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">Customs and Immigration</span>
+                    <span class="info-value">${data.customsAndImmigration || 'NIL'}</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">ATS (Air Traffic Services)</span>
+                    <span class="info-value">${data.ats || 'NIL'}</span>
+                </div>
+                ${data.operationalRemarks && data.operationalRemarks !== 'NIL' ? 
+                    `<div class="info-item" style="margin-top: 10px; padding-top: 10px; border-top: 2px solid #e1e5e9;">
+                        <span class="info-label">Operational Remarks</span>
+                        <span class="info-value" style="font-style: italic; color: #666;">${data.operationalRemarks}</span>
+                    </div>` : ''}
+            `;
+
+            // Display AD 2.2 GEOGRAPHICAL DATA
+            const geographicalDataDiv = document.getElementById('geographicalData');
+            geographicalDataDiv.innerHTML = `
+                <div class="info-item">
+                    <span class="info-label">Traffic Types</span>
+                    <span class="info-value">${data.trafficTypes || 'Not specified'}</span>
+                </div>
+                ${data.administrativeRemarks && data.administrativeRemarks !== 'NIL' ? 
+                    `<div class="info-item" style="margin-top: 10px; padding-top: 10px; border-top: 2px solid #e1e5e9;">
+                        <span class="info-label">Administrative Remarks</span>
+                        <span class="info-value" style="font-style: italic; color: #666;">${data.administrativeRemarks}</span>
+                    </div>` : ''}
+            `;
+
+            // Display AD 2.6 FIRE FIGHTING
+            const fireFightingDiv = document.getElementById('fireFighting');
+            fireFightingDiv.innerHTML = `
+                <div class="info-item">
+                    <span class="info-label">Fire Fighting Category</span>
+                    <span class="info-value">${data.fireFightingCategory || 'Not specified'}</span>
+                </div>
+            `;
 
             // Display contacts
             const contactsDiv = document.getElementById('contacts');
@@ -613,8 +687,9 @@
                         <div class="contact-type">${contact.type || 'Contact'}</div>
                         <div class="contact-details">
                             ${contact.name ? `<strong>${contact.name}</strong><br>` : ''}
-                            ${contact.phone ? `<a href="tel:${contact.phone}" class="phone-link">${contact.phone}</a><br>` : ''}
+                            ${contact.phone ? `<a href="tel:${contact.phone.replace(/\s/g, '')}" class="phone-link">${contact.phone}</a><br>` : ''}
                             ${contact.email ? `<a href="mailto:${contact.email}">${contact.email}</a>` : ''}
+                            ${contact.notes ? `<div style="margin-top: 5px; font-size: 0.9rem; color: #666; font-style: italic;">${contact.notes}</div>` : ''}
                         </div>
                     </div>`
                 ).join('');
