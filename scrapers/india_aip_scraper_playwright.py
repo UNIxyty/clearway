@@ -24,7 +24,7 @@ class IndiaAIPScraperPlaywright:
 			self.playwright = sync_playwright().start()
 			self.browser = self.playwright.chromium.launch(headless=True, args=['--window-size=1600,1000'])
 			self.page = self.browser.new_page()
-			self.page.set_default_timeout(30000)
+			self.page.set_default_timeout(45000)
 			logger.info("Playwright browser initialized for India AIP (headless)")
 		except Exception as e:
 			logger.error(f"Failed to initialize Playwright browser: {e}")
@@ -33,9 +33,8 @@ class IndiaAIPScraperPlaywright:
 	def _navigate_to_current_aip(self):
 		"""Navigate to current AIP version using Effective Date Button Div pattern."""
 		logger.info(f"Navigating to India AIP supplements page: {self.base_url}")
-		self.page.goto(self.base_url)
-		self.page.wait_for_load_state("networkidle")
-		time.sleep(3)
+		self.page.goto(self.base_url, wait_until="domcontentloaded", timeout=45000)
+		time.sleep(2)
 		
 		# Pattern from JSON: <li class="leaf new" id="new"><a href="https://aim-india.aai.aero/eaip/eaip-v2-05-2025/index-en-GB.html" id="new" class="new">eAIP India AMDT 05/2025 (Effective Date 02 OCT 2025)</a></li>
 		try:
@@ -54,9 +53,8 @@ class IndiaAIPScraperPlaywright:
 						self.current_aip_url = urljoin(f"{base.scheme}://{base.netloc}", href)
 					
 					logger.info(f"Navigating to current AIP: {self.current_aip_url}")
-					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
-					time.sleep(3)
+					self.page.goto(self.current_aip_url, wait_until="domcontentloaded", timeout=45000)
+					time.sleep(2)
 					return
 			
 			# Fallback: look for links containing "eaip" and "index-en-GB" specifically
@@ -69,8 +67,8 @@ class IndiaAIPScraperPlaywright:
 					else:
 						base = urlparse(self.base_url)
 						self.current_aip_url = urljoin(f"{base.scheme}://{base.netloc}", href)
-					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
+					self.page.goto(self.current_aip_url, wait_until="domcontentloaded", timeout=45000)
+					time.sleep(2)
 					logger.info(f"Used fallback navigation to: {self.current_aip_url}")
 					return
 			
@@ -146,7 +144,7 @@ class IndiaAIPScraperPlaywright:
 								link.click();
 							}}
 						""")
-						time.sleep(3)  # Wait for content frame to update
+						time.sleep(2)  # Wait for content frame to update
 						logger.info(f"Clicked airport link for {airport_code} via JavaScript")
 						
 						# Verify content frame has updated
@@ -167,9 +165,8 @@ class IndiaAIPScraperPlaywright:
 								base_path = base_parsed.path.rsplit('/', 1)[0]
 								airport_url = f"{base_parsed.scheme}://{base_parsed.netloc}{base_path}/eAIP/{href_clean}"
 								logger.info(f"Trying constructed URL: {airport_url}")
-								self.page.goto(airport_url)
-								self.page.wait_for_load_state("networkidle")
-								time.sleep(2)
+								self.page.goto(airport_url, wait_until="domcontentloaded", timeout=45000)
+								time.sleep(1)
 								text = self._extract_sections_text()
 								if airport_code in text.upper() or len(text) > 500:
 									return
@@ -471,17 +468,19 @@ class IndiaAIPScraperPlaywright:
 			
 			operational_hours = self._parse_operational_hours(text)
 			
+			# Only required fields according to specifications
 			info = {
 				"airportCode": airport_code.upper(),
 				"airportName": self._extract_airport_name(text, airport_code),
-				"contacts": self._parse_contacts(text),
-				"adAdministration": operational_hours.get("adAdministration", "NIL"),
+				# AD 2.3 OPERATIONAL HOURS - Required fields only
 				"adOperator": operational_hours.get("adOperator", "NIL"),
 				"customsAndImmigration": operational_hours.get("customsAndImmigration", "NIL"),
 				"ats": operational_hours.get("ats", "NIL"),
 				"operationalRemarks": self._extract_operational_remarks(text),
+				# AD 2.2 GEOGRAPHICAL DATA - Required fields only
 				"trafficTypes": self._extract_traffic_types(text),
 				"administrativeRemarks": self._extract_administrative_remarks(text),
+				# AD 2.6 FIRE FIGHTING - Required field only
 				"fireFightingCategory": self._extract_fire_fighting_category(text),
 			}
 			

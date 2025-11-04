@@ -33,9 +33,8 @@ class KazakhstanAIPScraperPlaywright:
 	def _navigate_to_current_aip(self):
 		"""Navigate to current AIP version using Effective Date Button Div pattern."""
 		logger.info(f"Navigating to Kazakhstan AIP: {self.base_url}")
-		self.page.goto(self.base_url)
-		self.page.wait_for_load_state("networkidle")
-		time.sleep(3)
+		self.page.goto(self.base_url, wait_until="domcontentloaded", timeout=45000)
+		time.sleep(2)
 		
 		# Pattern from JSON: <td><a href="https://www.ans.kz/AIP/eAIP/2025-10-30-AIRAC/html/index-en-GB.html" target="_blank">eAIP Kazakhstan effective on 30 OCT 2025 (AIRAC AMDT 010/2025) </a></td>
 		try:
@@ -54,9 +53,8 @@ class KazakhstanAIPScraperPlaywright:
 						self.current_aip_url = urljoin(f"{base.scheme}://{base.netloc}", href)
 					
 					logger.info(f"Navigating to current AIP: {self.current_aip_url}")
-					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
-					time.sleep(2)
+					self.page.goto(self.current_aip_url, wait_until="domcontentloaded", timeout=45000)
+					time.sleep(1)
 					return
 			
 			# Fallback: look for any link with AIRAC and index-en-GB
@@ -433,17 +431,19 @@ class KazakhstanAIPScraperPlaywright:
 			
 			operational_hours = self._parse_operational_hours(text)
 			
+			# Only required fields according to specifications
 			info = {
 				"airportCode": airport_code.upper(),
 				"airportName": self._extract_airport_name(text, airport_code),
-				"contacts": self._parse_contacts(text),
-				"adAdministration": operational_hours.get("adAdministration", "NIL"),
+				# AD 2.3 OPERATIONAL HOURS - Required fields only
 				"adOperator": operational_hours.get("adOperator", "NIL"),
 				"customsAndImmigration": operational_hours.get("customsAndImmigration", "NIL"),
 				"ats": operational_hours.get("ats", "NIL"),
 				"operationalRemarks": self._extract_operational_remarks(text),
+				# AD 2.2 GEOGRAPHICAL DATA - Required fields only
 				"trafficTypes": self._extract_traffic_types(text),
 				"administrativeRemarks": self._extract_administrative_remarks(text),
+				# AD 2.6 FIRE FIGHTING - Required field only
 				"fireFightingCategory": self._extract_fire_fighting_category(text),
 			}
 			

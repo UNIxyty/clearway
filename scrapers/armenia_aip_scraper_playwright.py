@@ -33,9 +33,8 @@ class ArmeniaAIPScraperPlaywright:
 	def _navigate_to_current_aip(self):
 		"""Navigate directly to AIP (no date selection needed)."""
 		logger.info(f"Navigating directly to Armenia AIP: {self.base_url}")
-		self.page.goto(self.base_url)
-		self.page.wait_for_load_state("networkidle")
-		time.sleep(2)
+		self.page.goto(self.base_url, wait_until="domcontentloaded", timeout=45000)
+		time.sleep(1)
 		self.current_aip_url = self.base_url
 
 	def _navigate_to_ad2_section(self):
@@ -47,9 +46,8 @@ class ArmeniaAIPScraperPlaywright:
 			base_parsed = urlparse(base_url)
 			frameset_url = f"{base_parsed.scheme}://{base_parsed.netloc}{base_parsed.path.rsplit('/', 1)[0]}/toc-frameset-en-GB.html"
 			logger.info(f"Trying frameset: {frameset_url}")
-			self.page.goto(frameset_url)
-			self.page.wait_for_load_state("networkidle")
-			time.sleep(2)
+			self.page.goto(frameset_url, wait_until="domcontentloaded", timeout=45000)
+			time.sleep(1)
 			
 			frames = self.page.frames
 			nav_frame = None
@@ -94,8 +92,7 @@ class ArmeniaAIPScraperPlaywright:
 		
 		for pattern_url in patterns:
 			try:
-				self.page.goto(pattern_url)
-				self.page.wait_for_load_state("networkidle")
+				self.page.goto(pattern_url, wait_until="domcontentloaded", timeout=45000)
 				time.sleep(1)
 				text = self.page.text_content('body')
 				if airport_code in text.upper() or 'AD 2.' in text:
@@ -392,17 +389,19 @@ class ArmeniaAIPScraperPlaywright:
 			
 			operational_hours = self._parse_operational_hours(text)
 			
+			# Only required fields according to specifications
 			info = {
 				"airportCode": airport_code.upper(),
 				"airportName": self._extract_airport_name(text, airport_code),
-				"contacts": self._parse_contacts(text),
-				"adAdministration": operational_hours.get("adAdministration", "NIL"),
+				# AD 2.3 OPERATIONAL HOURS - Required fields only
 				"adOperator": operational_hours.get("adOperator", "NIL"),
 				"customsAndImmigration": operational_hours.get("customsAndImmigration", "NIL"),
 				"ats": operational_hours.get("ats", "NIL"),
 				"operationalRemarks": self._extract_operational_remarks(text),
+				# AD 2.2 GEOGRAPHICAL DATA - Required fields only
 				"trafficTypes": self._extract_traffic_types(text),
 				"administrativeRemarks": self._extract_administrative_remarks(text),
+				# AD 2.6 FIRE FIGHTING - Required field only
 				"fireFightingCategory": self._extract_fire_fighting_category(text),
 			}
 			

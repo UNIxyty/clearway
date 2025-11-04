@@ -33,8 +33,8 @@ class GeorgiaAIPScraperPlaywright:
 		"""Navigate to current AIP version using Effective Date Button Div pattern."""
 		logger.info(f"Navigating to Georgia AIP history: {self.base_url}")
 		self.page.goto(self.base_url)
-		self.page.wait_for_load_state("networkidle")
-		time.sleep(2)
+		self.page.wait_for_load_state("domcontentloaded")
+		time.sleep(1)
 		
 		# Pattern from JSON: <td class="date"><a href="2025-10-30-000000/html/index-en-GB.html">30 OCT 2025</a></td>
 		try:
@@ -53,8 +53,8 @@ class GeorgiaAIPScraperPlaywright:
 					
 					logger.info(f"Navigating to current AIP: {self.current_aip_url}")
 					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
-					time.sleep(2)
+					self.page.wait_for_load_state("domcontentloaded")
+					time.sleep(1)
 					return
 			
 			# Fallback: try to find any link with date pattern
@@ -91,7 +91,7 @@ class GeorgiaAIPScraperPlaywright:
 				aerodromes_link = nav_frame.locator("//a[contains(text(), 'AERODROMES') or contains(text(), 'Part 3')]").first
 				if aerodromes_link.count() > 0:
 					aerodromes_link.click()
-					time.sleep(2)
+					time.sleep(1)
 					logger.info("Opened AERODROMES section")
 			except Exception as e:
 				logger.warning(f"Could not click AERODROMES: {e}")
@@ -141,9 +141,8 @@ class GeorgiaAIPScraperPlaywright:
 								base_path = self.current_aip_url.rsplit('/', 1)[0]
 								airport_url = f"{base_path}/eAIP/{href_clean}"
 								logger.info(f"Navigating directly to: {airport_url}")
-								self.page.goto(airport_url)
-								self.page.wait_for_load_state("networkidle")
-								time.sleep(2)
+								self.page.goto(airport_url, wait_until="domcontentloaded")
+								time.sleep(1)
 								return
 			except Exception as e:
 				logger.warning(f"Error accessing airport link: {e}")
@@ -154,9 +153,8 @@ class GeorgiaAIPScraperPlaywright:
 			prefix = airport_code[:2]
 			airport_url = f"{base_path}/eAIP/{prefix}-AD-2-{airport_code}-en-GB.html"
 			logger.info(f"Trying fallback URL: {airport_url}")
-			self.page.goto(airport_url)
-			self.page.wait_for_load_state("networkidle")
-			time.sleep(2)
+			self.page.goto(airport_url, wait_until="domcontentloaded")
+			time.sleep(1)
 			
 			text = self._extract_sections_text()
 			if airport_code in text.upper() or len(text) > 500:
@@ -433,17 +431,19 @@ class GeorgiaAIPScraperPlaywright:
 			
 			operational_hours = self._parse_operational_hours(text)
 			
+			# Only required fields according to specifications
 			info = {
 				"airportCode": airport_code.upper(),
 				"airportName": self._extract_airport_name(text, airport_code),
-				"contacts": self._parse_contacts(text),
-				"adAdministration": operational_hours.get("adAdministration", "NIL"),
+				# AD 2.3 OPERATIONAL HOURS - Required fields only
 				"adOperator": operational_hours.get("adOperator", "NIL"),
 				"customsAndImmigration": operational_hours.get("customsAndImmigration", "NIL"),
 				"ats": operational_hours.get("ats", "NIL"),
 				"operationalRemarks": self._extract_operational_remarks(text),
+				# AD 2.2 GEOGRAPHICAL DATA - Required fields only
 				"trafficTypes": self._extract_traffic_types(text),
 				"administrativeRemarks": self._extract_administrative_remarks(text),
+				# AD 2.6 FIRE FIGHTING - Required field only
 				"fireFightingCategory": self._extract_fire_fighting_category(text),
 			}
 			

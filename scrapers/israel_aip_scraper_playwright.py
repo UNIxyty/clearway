@@ -34,8 +34,8 @@ class IsraelAIPScraperPlaywright:
 		"""Navigate to current AIP version using Effective Date Button Div pattern."""
 		logger.info(f"Navigating to Israel AIP: {self.base_url}")
 		self.page.goto(self.base_url)
-		self.page.wait_for_load_state("networkidle")
-		time.sleep(2)
+		self.page.wait_for_load_state("domcontentloaded")
+		time.sleep(1)
 		
 		# Pattern from JSON: <td class="green"><a href="2025-10-02-AIRAC/html/index.html">02 OCT 2025</a></td>
 		try:
@@ -55,8 +55,8 @@ class IsraelAIPScraperPlaywright:
 					
 					logger.info(f"Navigating to current AIP: {self.current_aip_url}")
 					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
-					time.sleep(2)
+					self.page.wait_for_load_state("domcontentloaded")
+					time.sleep(1)
 					return
 			
 			# Fallback: try any link with AIRAC pattern
@@ -70,7 +70,7 @@ class IsraelAIPScraperPlaywright:
 						base = urlparse(self.base_url)
 						self.current_aip_url = urljoin(f"{base.scheme}://{base.netloc}", href)
 					self.page.goto(self.current_aip_url)
-					self.page.wait_for_load_state("networkidle")
+					self.page.wait_for_load_state("domcontentloaded")
 					logger.info(f"Used fallback navigation to: {self.current_aip_url}")
 					return
 			
@@ -160,7 +160,7 @@ class IsraelAIPScraperPlaywright:
 				airport_link = nav_frame.locator(f"//a[contains(., '{airport_code}')]").first
 				if airport_link.count() > 0:
 					airport_link.click()
-					time.sleep(2)
+					time.sleep(1)
 					logger.info(f"Clicked airport link for {airport_code}")
 					return
 		except Exception as e:
@@ -433,17 +433,19 @@ class IsraelAIPScraperPlaywright:
 			
 			operational_hours = self._parse_operational_hours(text)
 			
+			# Only required fields according to specifications
 			info = {
 				"airportCode": airport_code.upper(),
 				"airportName": self._extract_airport_name(text, airport_code),
-				"contacts": self._parse_contacts(text),
-				"adAdministration": operational_hours.get("adAdministration", "NIL"),
+				# AD 2.3 OPERATIONAL HOURS - Required fields only
 				"adOperator": operational_hours.get("adOperator", "NIL"),
 				"customsAndImmigration": operational_hours.get("customsAndImmigration", "NIL"),
 				"ats": operational_hours.get("ats", "NIL"),
 				"operationalRemarks": self._extract_operational_remarks(text),
+				# AD 2.2 GEOGRAPHICAL DATA - Required fields only
 				"trafficTypes": self._extract_traffic_types(text),
 				"administrativeRemarks": self._extract_administrative_remarks(text),
+				# AD 2.6 FIRE FIGHTING - Required field only
 				"fireFightingCategory": self._extract_fire_fighting_category(text),
 			}
 			

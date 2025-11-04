@@ -165,6 +165,15 @@
         .loading-text {
             color: #666;
             font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+        
+        .loading-process {
+            color: #667eea;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-top: 10px;
+            min-height: 20px;
         }
 
         .results {
@@ -370,6 +379,7 @@
         <div class="loading" id="loading">
             <div class="spinner"></div>
             <div class="loading-text" id="loadingText">Searching airport database...</div>
+            <div class="loading-process" id="loadingProcess"></div>
         </div>
 
         <div class="error" id="error">
@@ -392,13 +402,8 @@
                 </div>
 
                 <div class="info-section">
-                    <div class="section-title">🔥 AD 2.6 FIRE FIGHTING</div>
+                    <div class="section-title">🔥 AD 2.6 RESCUE AND FIRE FIGHTING SERVICES</div>
                     <div id="fireFighting"></div>
-                </div>
-
-                <div class="info-section">
-                    <div class="section-title">📞 Contacts</div>
-                    <div id="contacts"></div>
                 </div>
             </div>
         </div>
@@ -506,8 +511,19 @@
             showLoading();
             hideError();
             hideResults();
+            
+            // Update loading process messages
+            updateLoadingProcess('Initializing scraper...');
 
             try {
+                updateLoadingProcess('Detecting country...');
+                await new Promise(resolve => setTimeout(resolve, 300));
+                
+                updateLoadingProcess('Connecting to AIP database...');
+                await new Promise(resolve => setTimeout(resolve, 300));
+                
+                updateLoadingProcess('Navigating to airport page...');
+                
                 const response = await fetch('/api/airport', {
                     method: 'POST',
                     headers: {
@@ -516,18 +532,29 @@
                     body: JSON.stringify({ airportCode: airportCode })
                 });
 
+                updateLoadingProcess('Extracting airport data...');
                 const data = await response.json();
 
                 if (!response.ok) {
                     throw new Error(data.error || 'Failed to fetch airport information');
                 }
 
+                updateLoadingProcess('Processing data...');
+                await new Promise(resolve => setTimeout(resolve, 200));
+                
                 displayResults(data);
                 
             } catch (err) {
                 showError(err.message);
             } finally {
                 hideLoading();
+            }
+        }
+        
+        function updateLoadingProcess(message) {
+            const processDiv = document.getElementById('loadingProcess');
+            if (processDiv) {
+                processDiv.textContent = message;
             }
         }
 
@@ -630,13 +657,9 @@
             }
             codeDisplay.innerHTML = codeText;
             
-            // Display AD 2.3 OPERATIONAL HOURS
+            // Display AD 2.3 OPERATIONAL HOURS - ALWAYS show required fields
             const operationalHoursDiv = document.getElementById('operationalHours');
             operationalHoursDiv.innerHTML = `
-                <div class="info-item">
-                    <span class="info-label">AD Administration</span>
-                    <span class="info-value">${data.adAdministration || 'NIL'}</span>
-                </div>
                 <div class="info-item">
                     <span class="info-label">AD Operator</span>
                     <span class="info-value">${data.adOperator || 'NIL'}</span>
@@ -649,53 +672,33 @@
                     <span class="info-label">ATS (Air Traffic Services)</span>
                     <span class="info-value">${data.ats || 'NIL'}</span>
                 </div>
-                ${data.operationalRemarks && data.operationalRemarks !== 'NIL' ? 
-                    `<div class="info-item" style="margin-top: 10px; padding-top: 10px; border-top: 2px solid #e1e5e9;">
-                        <span class="info-label">Operational Remarks</span>
-                        <span class="info-value" style="font-style: italic; color: #666;">${data.operationalRemarks}</span>
-                    </div>` : ''}
+                <div class="info-item">
+                    <span class="info-label">Remarks</span>
+                    <span class="info-value" style="font-style: italic; color: #666;">${data.operationalRemarks && data.operationalRemarks !== 'NIL' ? data.operationalRemarks : 'NIL'}</span>
+                </div>
             `;
 
-            // Display AD 2.2 GEOGRAPHICAL DATA
+            // Display AD 2.2 GEOGRAPHICAL DATA - ALWAYS show required fields
             const geographicalDataDiv = document.getElementById('geographicalData');
             geographicalDataDiv.innerHTML = `
                 <div class="info-item">
-                    <span class="info-label">Traffic Types</span>
+                    <span class="info-label">Types of traffic permitted (IFR/VFR)</span>
                     <span class="info-value">${data.trafficTypes || 'Not specified'}</span>
                 </div>
-                ${data.administrativeRemarks && data.administrativeRemarks !== 'NIL' ? 
-                    `<div class="info-item" style="margin-top: 10px; padding-top: 10px; border-top: 2px solid #e1e5e9;">
-                        <span class="info-label">Administrative Remarks</span>
-                        <span class="info-value" style="font-style: italic; color: #666;">${data.administrativeRemarks}</span>
-                    </div>` : ''}
+                <div class="info-item">
+                    <span class="info-label">Remarks</span>
+                    <span class="info-value" style="font-style: italic; color: #666;">${data.administrativeRemarks && data.administrativeRemarks !== 'NIL' ? data.administrativeRemarks : 'NIL'}</span>
+                </div>
             `;
 
-            // Display AD 2.6 FIRE FIGHTING
+            // Display AD 2.6 FIRE FIGHTING - ALWAYS show required field
             const fireFightingDiv = document.getElementById('fireFighting');
             fireFightingDiv.innerHTML = `
                 <div class="info-item">
-                    <span class="info-label">Fire Fighting Category</span>
+                    <span class="info-label">AD category for fire fighting</span>
                     <span class="info-value">${data.fireFightingCategory || 'Not specified'}</span>
                 </div>
             `;
-
-            // Display contacts
-            const contactsDiv = document.getElementById('contacts');
-            if (data.contacts && data.contacts.length > 0) {
-                contactsDiv.innerHTML = data.contacts.map(contact => 
-                    `<div class="contact-item">
-                        <div class="contact-type">${contact.type || 'Contact'}</div>
-                        <div class="contact-details">
-                            ${contact.name ? `<strong>${contact.name}</strong><br>` : ''}
-                            ${contact.phone ? `<a href="tel:${contact.phone.replace(/\s/g, '')}" class="phone-link">${contact.phone}</a><br>` : ''}
-                            ${contact.email ? `<a href="mailto:${contact.email}">${contact.email}</a>` : ''}
-                            ${contact.notes ? `<div style="margin-top: 5px; font-size: 0.9rem; color: #666; font-style: italic;">${contact.notes}</div>` : ''}
-                        </div>
-                    </div>`
-                ).join('');
-            } else {
-                contactsDiv.innerHTML = '<div class="no-data">No contact information available</div>';
-            }
 
             showResults();
         }
