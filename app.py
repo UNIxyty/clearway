@@ -118,6 +118,60 @@ def health_check():
         'countries': available_countries
     })
 
+@app.route('/api/countries', methods=['GET'])
+def get_all_countries():
+    """API endpoint to get all available countries with prefixes and flags"""
+    try:
+        from country_detector import ICAO_PREFIXES, COUNTRY_FLAGS, load_countries_data
+        
+        countries_data = load_countries_data()
+        countries_list = []
+        
+        # Build a mapping of country -> prefix
+        prefix_to_country = {}
+        for prefix, country in ICAO_PREFIXES.items():
+            if country not in prefix_to_country:
+                prefix_to_country[country] = []
+            prefix_to_country[country].append(prefix)
+        
+        # Get all unique countries from JSON
+        seen_countries = set()
+        for country_data in countries_data:
+            country_name = country_data.get('country', '').strip()
+            if country_name and country_name not in seen_countries:
+                seen_countries.add(country_name)
+                
+                # Get prefixes for this country
+                prefixes = prefix_to_country.get(country_name, [])
+                if not prefixes:
+                    continue
+                
+                # Get flag
+                flag = COUNTRY_FLAGS.get(country_name, '🏳️')
+                
+                # Use the most common/representative prefix (usually the shorter one)
+                main_prefix = min(prefixes, key=len) if prefixes else ''
+                
+                countries_list.append({
+                    'country': country_name,
+                    'prefix': main_prefix,
+                    'flag': flag,
+                    'region': country_data.get('region', 'UNKNOWN')
+                })
+        
+        # Sort by country name
+        countries_list.sort(key=lambda x: x['country'])
+        
+        return jsonify({
+            'success': True,
+            'count': len(countries_list),
+            'countries': countries_list
+        })
+        
+    except Exception as e:
+        logger.error(f"Error getting countries list: {e}")
+        return jsonify({'error': str(e)}), 500
+
 @app.route('/api/country', methods=['POST'])
 def detect_country_info():
     """API endpoint to detect country from airport code"""

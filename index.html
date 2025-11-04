@@ -266,13 +266,84 @@
         .phone-link:hover {
             text-decoration: underline;
         }
+
+        .countries-list {
+            margin: 20px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .countries-list-title {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 12px;
+            text-align: center;
+        }
+
+        .country-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            justify-content: center;
+        }
+
+        .country-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            background: white;
+            border: 1px solid #e1e5e9;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: #333;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .country-tag:hover {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(102, 126, 234, 0.2);
+        }
+
+        .country-tag-flag {
+            font-size: 1rem;
+        }
+
+        .country-tag-prefix {
+            font-weight: 600;
+            color: #667eea;
+        }
+
+        .country-tag:hover .country-tag-prefix {
+            color: white;
+        }
+
+        .country-tag-name {
+            font-size: 0.85rem;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
             <h1>🛩️ Airport AIP Lookup</h1>
-            <p>Enter an airport code to get operational hours and contact information</p>
+            <p>Enter an ICAO airport code to get operational hours and contact information</p>
+        </div>
+
+        <div class="countries-list" id="countriesList">
+            <div class="countries-list-title">Available Countries</div>
+            <div class="country-tags" id="countryTags">
+                <div style="text-align: center; color: #999; padding: 20px;">Loading countries...</div>
+            </div>
         </div>
 
         <div class="input-section">
@@ -338,6 +409,43 @@
         const countryRegion = document.getElementById('countryRegion');
 
         let countryDetectionTimeout = null;
+
+        // Load and display available countries
+        async function loadCountries() {
+            try {
+                const response = await fetch('/api/countries');
+                const data = await response.json();
+                
+                if (data.success && data.countries) {
+                    const tagsContainer = document.getElementById('countryTags');
+                    tagsContainer.innerHTML = '';
+                    
+                    data.countries.forEach(country => {
+                        const tag = document.createElement('div');
+                        tag.className = 'country-tag';
+                        tag.innerHTML = `
+                            <span class="country-tag-flag">${country.flag || '🏳️'}</span>
+                            <span class="country-tag-prefix">${country.prefix}*</span>
+                            <span class="country-tag-name">- ${country.country}</span>
+                        `;
+                        
+                        // Click to fill input
+                        tag.addEventListener('click', () => {
+                            airportInput.value = country.prefix;
+                            airportInput.focus();
+                            detectCountry(country.prefix);
+                        });
+                        
+                        tagsContainer.appendChild(tag);
+                    });
+                }
+            } catch (err) {
+                console.error('Failed to load countries:', err);
+            }
+        }
+
+        // Load countries on page load
+        loadCountries();
 
         // Auto-format input to uppercase and detect country
         airportInput.addEventListener('input', function(e) {
