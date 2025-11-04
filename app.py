@@ -140,7 +140,8 @@ def detect_country_info():
                 'country': country_info.get('country'),
                 'region': country_info.get('region'),
                 'code': country_info.get('code'),
-                'type': country_info.get('type', 'Unknown')
+                'type': country_info.get('type', 'Unknown'),
+                'flag': country_info.get('flag', '🏳️')
             })
         else:
             return jsonify({

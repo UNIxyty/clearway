@@ -90,6 +90,12 @@
             margin-left: 8px;
         }
 
+        .country-flag {
+            font-size: 1.3rem;
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+
         .airport-input {
             width: 100%;
             padding: 15px 20px;
@@ -280,6 +286,7 @@
                 >
                 <div class="country-detector" id="countryDetector">
                     <div class="country-name">
+                        <span id="countryFlag" class="country-flag"></span>
                         <span id="countryName"></span>
                         <span class="country-code" id="countryCode"></span>
                     </div>
@@ -325,6 +332,7 @@
         const errorMessage = document.getElementById('errorMessage');
 
         const countryDetector = document.getElementById('countryDetector');
+        const countryFlag = document.getElementById('countryFlag');
         const countryName = document.getElementById('countryName');
         const countryCode = document.getElementById('countryCode');
         const countryRegion = document.getElementById('countryRegion');
@@ -452,6 +460,7 @@
                 const data = await response.json();
 
                 if (data.success && data.country) {
+                    countryFlag.textContent = data.flag || '';
                     countryName.textContent = data.country;
                     countryCode.textContent = data.code || '';
                     countryRegion.textContent = data.region ? `Region: ${data.region}` : '';
@@ -470,9 +479,10 @@
             const codeDisplay = document.getElementById('airportCodeDisplay');
             let codeText = data.airportCode;
             if (data.country) {
-                codeText += ` (${data.country})`;
+                const flag = data.flag ? `${data.flag} ` : '';
+                codeText = `${flag}${codeText} (${data.country})`;
             }
-            codeDisplay.textContent = codeText;
+            codeDisplay.innerHTML = codeText;
             
             // Display tower hours
             const towerHoursDiv = document.getElementById('towerHours');
