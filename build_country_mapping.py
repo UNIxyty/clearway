@@ -472,16 +472,30 @@ def build_complete_mapping():
             # Continue to next country instead of skipping
             continue
         
-        # Get flag emoji - try exact match first, then case-insensitive
+        # Get flag emoji - try exact match first, then normalized, then case-insensitive
         flag_emoji = FLAG_EMOJIS.get(country_name, '🏳️')
         if flag_emoji == '🏳️':
+            # Try normalized match (handle special characters)
+            country_normalized = country_name.replace(''','"'').replace('–', '-').replace('—', '-')
+            flag_emoji = FLAG_EMOJIS.get(country_normalized, '🏳️')
+        if flag_emoji == '🏳️':
             # Try case-insensitive match
+            country_upper = country_name.upper()
             for key, value in FLAG_EMOJIS.items():
-                if key.upper() == country_name.upper():
+                key_normalized = key.replace(''','"'').replace('–', '-').replace('—', '-')
+                if key_normalized.upper() == country_upper or key.upper() == country_upper:
                     flag_emoji = value
                     break
-            if flag_emoji == '🏳️':
-                missing_flags.append(country_name)
+        if flag_emoji == '🏳️':
+            # Try partial match
+            country_upper = country_name.upper()
+            for key, value in FLAG_EMOJIS.items():
+                key_upper = key.upper()
+                if country_upper in key_upper or key_upper in country_upper:
+                    flag_emoji = value
+                    break
+        if flag_emoji == '🏳️':
+            missing_flags.append(country_name)
         
         mapping[country_name] = {
             'prefix': icao_prefix,

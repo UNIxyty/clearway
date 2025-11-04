@@ -293,7 +293,7 @@ COUNTRY_FLAGS = {
     'Ireland': '🇮🇪',
     'Israel': '🇮🇱',
     'Italy': '🇮🇹',
-    'Ivory Coast (Côte d’Ivoire)': '🏳️',
+    "Ivory Coast (Côte d'Ivoire)": '🇨🇮',
     'Jamaica': '🇯🇲',
     'Japan': '🇯🇵',
     'Jordan': '🇯🇴',
@@ -449,11 +449,31 @@ def get_country_from_code(airport_code: str) -> Optional[Dict[str, str]]:
                 
                 # Try to find this country in the JSON file for more details
                 countries_data = load_countries_data()
+                
+                # Get flag - try exact match, then normalized, then case-insensitive
+                flag_emoji = COUNTRY_FLAGS.get(country_name, '🏳️')
+                if flag_emoji == '🏳️':
+                    # Normalize apostrophes (handle different Unicode apostrophes)
+                    country_normalized = country_name.replace('\u2019', "'").replace('\u2018', "'")
+                    flag_emoji = COUNTRY_FLAGS.get(country_normalized, '🏳️')
+                if flag_emoji == '🏳️':
+                    # Try case-insensitive and partial match
+                    country_upper = country_name.upper()
+                    for key, value in COUNTRY_FLAGS.items():
+                        key_normalized = key.replace('\u2019', "'").replace('\u2018', "'")
+                        if key_normalized.upper() == country_upper or key.upper() == country_upper:
+                            flag_emoji = value
+                            break
+                        # Partial match
+                        if country_upper in key.upper() or key.upper() in country_upper:
+                            flag_emoji = value
+                            break
+                
                 for country_data in countries_data:
-                    if country_data.get('country', '').strip() == country_name:
-                        flag_emoji = COUNTRY_FLAGS.get(country_name, '🏳️')
+                    json_country = country_data.get('country', '').strip()
+                    if json_country == country_name:
                         return {
-                            'country': country_data.get('country', country_name),
+                            'country': json_country,
                             'region': country_data.get('region', 'UNKNOWN'),
                             'code': prefix,
                             'type': country_data.get('type', 'Unknown'),
@@ -462,7 +482,6 @@ def get_country_from_code(airport_code: str) -> Optional[Dict[str, str]]:
                         }
                 
                 # If not found in JSON, return basic info with flag
-                flag_emoji = COUNTRY_FLAGS.get(country_name, '🏳️')
                 return {
                     'country': country_name,
                     'region': 'UNKNOWN',
