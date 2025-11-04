@@ -146,8 +146,23 @@ def get_all_countries():
                 if not prefixes:
                     continue
                 
-                # Get flag
+                # Get flag - try exact match, then normalized
                 flag = COUNTRY_FLAGS.get(country_name, '🏳️')
+                if flag == '🏳️':
+                    # Normalize apostrophes (handle different Unicode apostrophes)
+                    country_normalized = country_name.replace('\u2019', "'").replace('\u2018', "'")
+                    flag = COUNTRY_FLAGS.get(country_normalized, '🏳️')
+                if flag == '🏳️':
+                    # Try case-insensitive and partial match
+                    country_upper = country_name.upper()
+                    for key, value in COUNTRY_FLAGS.items():
+                        key_normalized = key.replace('\u2019', "'").replace('\u2018', "'")
+                        if key_normalized.upper() == country_upper or key.upper() == country_upper:
+                            flag = value
+                            break
+                        if country_upper in key.upper() or key.upper() in country_upper:
+                            flag = value
+                            break
                 
                 # Use the most common/representative prefix (usually the shorter one)
                 main_prefix = min(prefixes, key=len) if prefixes else ''
