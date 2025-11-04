@@ -6,6 +6,7 @@ Provides API endpoint and serves the frontend
 
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 from flask import Flask, request, jsonify, send_from_directory
@@ -183,11 +184,15 @@ if __name__ == '__main__':
         logger.info(f"Supported countries: {len(available_countries)}")
         logger.info(f"Countries: {', '.join(sorted(available_countries))}")
         
+        # Get port from environment variable (for Railway/Vercel) or default to 8080
+        port = int(os.environ.get('PORT', 8080))
+        debug = os.environ.get('FLASK_DEBUG', 'False').lower() == 'true'
+        
         # Run the Flask app
         app.run(
             host='0.0.0.0',
-            port=8080,
-            debug=True,
+            port=port,
+            debug=debug,
             threaded=True
         )
     except KeyboardInterrupt:
