@@ -18,10 +18,11 @@ import time
 sys.path.insert(0, str(Path(__file__).parent))
 
 from scrapers.scraper_registry import (
-    get_country_from_code,
+    get_country_from_code as get_scraper_country,
     get_scraper_instance,
     get_available_countries
 )
+from country_detector import get_country_from_code
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -52,7 +53,7 @@ def get_scraper(country='USA'):
 
 def detect_country(airport_code):
     """Detect country from airport code using registry"""
-    country = get_country_from_code(airport_code)
+    country = get_scraper_country(airport_code)
     if country is None:
         logger.warning(f"Could not detect country for {airport_code}, defaulting to USA")
         return 'USA'
@@ -94,6 +95,12 @@ def get_airport_info():
         
         logger.info(f"Scraped airport info for {airport_code} in {end_time - start_time:.2f} seconds")
         
+        # Add country information to response
+        country_info = get_country_from_code(airport_code)
+        if country_info:
+            airport_info['country'] = country_info.get('country')
+            airport_info['region'] = country_info.get('region')
+        
         return jsonify(airport_info)
         
     except Exception as e:
@@ -110,6 +117,41 @@ def health_check():
         'supported_countries': len(available_countries),
         'countries': available_countries
     })
+
+@app.route('/api/country', methods=['POST'])
+def detect_country_info():
+    """API endpoint to detect country from airport code"""
+    try:
+        data = request.get_json()
+        if not data or 'airportCode' not in data:
+            return jsonify({'error': 'Airport code is required'}), 400
+        
+        airport_code = data['airportCode'].strip().upper()
+        
+        if not airport_code or len(airport_code) < 3:
+            return jsonify({'error': 'Invalid airport code'}), 400
+        
+        country_info = get_country_from_code(airport_code)
+        
+        if country_info:
+            return jsonify({
+                'success': True,
+                'airportCode': airport_code,
+                'country': country_info.get('country'),
+                'region': country_info.get('region'),
+                'code': country_info.get('code'),
+                'type': country_info.get('type', 'Unknown')
+            })
+        else:
+            return jsonify({
+                'success': False,
+                'airportCode': airport_code,
+                'message': 'Country not found for this airport code'
+            })
+            
+    except Exception as e:
+        logger.error(f"Error detecting country: {e}")
+        return jsonify({'error': str(e)}), 500
 
 @app.route('/api/airports/test', methods=['GET'])
 def test_airports():

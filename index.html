@@ -55,6 +55,41 @@
             margin-bottom: 20px;
         }
 
+        .country-detector {
+            margin-top: 10px;
+            padding: 12px 15px;
+            background: #f0f4ff;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            display: none;
+        }
+
+        .country-detector.active {
+            display: block;
+        }
+
+        .country-name {
+            font-weight: 600;
+            color: #333;
+            font-size: 1.1rem;
+        }
+
+        .country-region {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 5px;
+        }
+
+        .country-code {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            margin-left: 8px;
+        }
+
         .airport-input {
             width: 100%;
             padding: 15px 20px;
@@ -243,6 +278,13 @@
                     placeholder="Enter airport code (e.g., KJFK, KLAX, KORD)"
                     maxlength="4"
                 >
+                <div class="country-detector" id="countryDetector">
+                    <div class="country-name">
+                        <span id="countryName"></span>
+                        <span class="country-code" id="countryCode"></span>
+                    </div>
+                    <div class="country-region" id="countryRegion"></div>
+                </div>
             </div>
             <button id="searchBtn" class="search-btn">Search Airport Information</button>
         </div>
@@ -282,9 +324,33 @@
         const error = document.getElementById('error');
         const errorMessage = document.getElementById('errorMessage');
 
-        // Auto-format input to uppercase
+        const countryDetector = document.getElementById('countryDetector');
+        const countryName = document.getElementById('countryName');
+        const countryCode = document.getElementById('countryCode');
+        const countryRegion = document.getElementById('countryRegion');
+
+        let countryDetectionTimeout = null;
+
+        // Auto-format input to uppercase and detect country
         airportInput.addEventListener('input', function(e) {
             e.target.value = e.target.value.toUpperCase();
+            const code = e.target.value.trim();
+            
+            // Clear previous timeout
+            if (countryDetectionTimeout) {
+                clearTimeout(countryDetectionTimeout);
+            }
+            
+            // Hide country detector if input is too short
+            if (code.length < 3) {
+                countryDetector.classList.remove('active');
+                return;
+            }
+            
+            // Debounce country detection
+            countryDetectionTimeout = setTimeout(() => {
+                detectCountry(code);
+            }, 300);
         });
 
         // Handle Enter key press
@@ -368,9 +434,45 @@
             results.style.display = 'none';
         }
 
+        async function detectCountry(airportCode) {
+            if (airportCode.length < 3) {
+                countryDetector.classList.remove('active');
+                return;
+            }
+
+            try {
+                const response = await fetch('/api/country', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ airportCode: airportCode })
+                });
+
+                const data = await response.json();
+
+                if (data.success && data.country) {
+                    countryName.textContent = data.country;
+                    countryCode.textContent = data.code || '';
+                    countryRegion.textContent = data.region ? `Region: ${data.region}` : '';
+                    countryDetector.classList.add('active');
+                } else {
+                    countryDetector.classList.remove('active');
+                }
+            } catch (err) {
+                // Silently fail - don't show errors for country detection
+                countryDetector.classList.remove('active');
+            }
+        }
+
         function displayResults(data) {
             document.getElementById('airportName').textContent = data.airportName || 'Unknown Airport';
-            document.getElementById('airportCodeDisplay').textContent = data.airportCode;
+            const codeDisplay = document.getElementById('airportCodeDisplay');
+            let codeText = data.airportCode;
+            if (data.country) {
+                codeText += ` (${data.country})`;
+            }
+            codeDisplay.textContent = codeText;
             
             // Display tower hours
             const towerHoursDiv = document.getElementById('towerHours');
