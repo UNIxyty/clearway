@@ -29,16 +29,28 @@ AIRPORT_CODE_PREFIXES = {
     
     # Latvia
     'EV': ('LATVIA', 'latvia_aip_scraper_playwright', 'LatviaAIPScraperPlaywright'),
-    
+
+    # Malta (PDF-based)
+    'LM': ('MALTA', 'malta_aip_scraper_pdf', 'MaltaAIPScraperPDF'),
+
+    # Greece (PDF-based)
+    'LG': ('GREECE', 'greece_aip_scraper_pdf', 'GreeceAIPScraperPDF'),
+
     # Albania
     'LA': ('ALBANIA', 'albania_aip_scraper_playwright', 'AlbaniaAIPScraperPlaywright'),
     
     # Armenia
     'UD': ('ARMENIA', 'armenia_aip_scraper_playwright', 'ArmeniaAIPScraperPlaywright'),
     
+    # Afghanistan (PDF-based)
+    'OA': ('AFGHANISTAN', 'afghanistan_aip_scraper_pdf', 'AfghanistanAIPScraperPDF'),
+
     # Bahrain
     'OB': ('BAHRAIN', 'bahrain_aip_scraper_playwright', 'BahrainAIPScraperPlaywright'),
-    
+
+    # Ethiopia (PDF-based)
+    'HA': ('ETHIOPIA', 'ethiopia_aip_scraper_pdf', 'EthiopiaAIPScraperPDF'),
+
     # Bosnia and Herzegovina
     'LQ': ('BOSNIA_AND_HERZEGOVINA', 'bosnia_and_herzegovina_aip_scraper_playwright', 'BosniaAndHerzegovinaAIPScraperPlaywright'),
     

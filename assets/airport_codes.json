@@ -489,6 +489,10 @@
       "country": "Afghanistan",
       "region": "ASIA",
       "airports": [
+        "AERO",
+        "LITR",
+        "MAAS",
+        "NOTE",
         "OAAK",
         "OABN",
         "OABT",
@@ -536,13 +540,21 @@
         "OAYL",
         "OAYQ",
         "OAYW",
-        "OAZI"
+        "OAZI",
+        "RPCC",
+        "TAKE",
+        "area",
+        "must",
+        "side"
       ]
     },
     "FS": {
       "country": "Seychelles",
       "region": "AFRICA",
       "airports": [
+        "AERO",
+        "ELEV",
+        "FEET",
         "FSAL",
         "FSAS",
         "FSDA",
@@ -557,13 +569,30 @@
         "FSSD",
         "FSSF",
         "FSSR",
-        "FSSS"
+        "FSSS",
+        "GNSS",
+        "OBST",
+        "PANS",
+        "PLAN",
+        "TAKE",
+        "must",
+        "only",
+        "open",
+        "will",
+        "word"
       ]
     },
     "FA": {
       "country": "South Africa",
       "region": "AFRICA",
       "airports": [
+        "ACFT",
+        "APRX",
+        "ASPH",
+        "ATIS",
+        "Area",
+        "Bram",
+        "ELEV",
         "FAAB",
         "FAAG",
         "FABB",
@@ -637,7 +666,18 @@
         "FAWI",
         "FAWK",
         "FAWN",
-        "FAYP"
+        "FAYP",
+        "Fire",
+        "INFO",
+        "LOCA",
+        "PATC",
+        "RNAV",
+        "area",
+        "does",
+        "must",
+        "only",
+        "will",
+        "with"
       ]
     },
     "HS": {
@@ -646,9 +686,11 @@
       "airports": [
         "ACAS",
         "ACFT",
+        "ADAR",
         "ADIZ",
         "ADSU",
         "ADVS",
+        "AERO",
         "AFIL",
         "AFIS",
         "AFTN",
@@ -753,6 +795,7 @@
         "JTST",
         "JUBA",
         "JUNE",
+        "Juba",
         "KANN",
         "KIAS",
         "LAND",
@@ -802,6 +845,7 @@
         "RTHL",
         "RTZL",
         "RVSM",
+        "Raga",
         "SAFE",
         "SBAS",
         "SDBY",
@@ -843,35 +887,64 @@
         "WITH",
         "WRNG",
         "XBAR",
-        "ZONE"
+        "ZONE",
+        "data",
+        "only",
+        "will",
+        "word"
       ]
     },
     "HD": {
       "country": "Djibouti",
       "region": "AFRICA",
       "airports": [
+        "AERO",
+        "AMSL",
+        "EAIP",
+        "GNSS",
         "HDAM",
         "HDAS",
         "HDCH",
         "HDLG",
         "HDMA",
         "HDOB",
-        "HDTJ"
+        "HDTJ",
+        "NAME",
+        "OACI",
+        "PANS",
+        "RVSM",
+        "STAR",
+        "TEXT",
+        "VILL",
+        "data",
+        "elec",
+        "must",
+        "open",
+        "used",
+        "will",
+        "word"
       ]
     },
     "LE": {
       "country": "Andorra",
       "region": "EUROPE",
       "airports": [
+        "AERO",
+        "AFIS",
+        "AMSL",
+        "BACK",
         "LEAM",
         "LESU",
-        "LEVA"
+        "LEVA",
+        "must"
       ]
     },
     "FN": {
       "country": "Angola",
       "region": "AFRICA",
       "airports": [
+        "AIDS",
+        "APCH",
         "FNAN",
         "FNBG",
         "FNCA",
@@ -883,7 +956,21 @@
         "FNSA",
         "FNUB",
         "FNUE",
-        "FNUG"
+        "FNUG",
+        "IATA",
+        "NAME",
+        "PANS",
+        "RERA",
+        "SADC",
+        "VILL",
+        "VSAT",
+        "cell",
+        "name",
+        "open",
+        "will",
+        "wind",
+        "with",
+        "word"
       ]
     },
     "C": {
@@ -937,6 +1024,20 @@
       "country": "Ethiopia",
       "region": "AFRICA",
       "airports": [
+        "ACAS",
+        "ADDN",
+        "AERO",
+        "AIDS",
+        "APCH",
+        "AREA",
+        "BARO",
+        "ECAA",
+        "EDDF",
+        "ELBA",
+        "ELEV",
+        "FSIA",
+        "Fire",
+        "GORE",
         "HAAA",
         "HAAB",
         "HAAD",
@@ -1004,13 +1105,39 @@
         "HATO",
         "HATP",
         "HAWC",
-        "HAWR"
+        "HAWR",
+        "LITY",
+        "MAJI",
+        "MODE",
+        "NAME",
+        "NEJO",
+        "Name",
+        "PANS",
+        "RNAV",
+        "TIME",
+        "VILL",
+        "ZERO",
+        "even",
+        "fire",
+        "high",
+        "name",
+        "only",
+        "open",
+        "over",
+        "used",
+        "will",
+        "word"
       ]
     },
     "LG": {
       "country": "Greece",
       "region": "EUROPE",
       "airports": [
+        "AIDS",
+        "APCH",
+        "APDC",
+        "Call",
+        "IATA",
         "LGAD",
         "LGAL",
         "LGAV",
@@ -1066,13 +1193,25 @@
         "LGTS",
         "LGTT",
         "LGXX",
-        "LGZA"
+        "LGZA",
+        "NAME",
+        "Oper",
+        "PATC",
+        "SIDs",
+        "STAR",
+        "TAKE",
+        "TORA",
+        "name"
       ]
     },
     "MT": {
       "country": "Haiti",
       "region": "NORTH_AMERICA",
       "airports": [
+        "ADAC",
+        "AERO",
+        "AIDS",
+        "APCH",
         "MTCA",
         "MTCH",
         "MTEG",
@@ -1080,23 +1219,55 @@
         "MTJE",
         "MTOW",
         "MTPP",
-        "MTPX"
+        "MTPX",
+        "Main",
+        "NAME",
+        "OACI",
+        "PANS",
+        "PORT",
+        "Type",
+        "VILL",
+        "must",
+        "open",
+        "will",
+        "with",
+        "word"
       ]
     },
     "VM": {
       "country": "Macao",
       "region": "ASIA",
       "airports": [
+        "AERO",
+        "ENTS",
+        "LITY",
+        "Name",
+        "PAPA",
+        "Page",
+        "RUPA",
         "VMMC",
-        "VMMH"
+        "VMMH",
+        "when"
       ]
     },
     "LM": {
       "country": "Malta",
       "region": "EUROPE",
       "airports": [
+        "AGMC",
+        "APDC",
+        "ARSA",
+        "Cell",
+        "Duty",
+        "LEAP",
+        "LEFT",
         "LMML",
-        "LMMM"
+        "LMMM",
+        "Luqa",
+        "MISC",
+        "PANS",
+        "SMAC",
+        "slot"
       ]
     },
     "HSS": {
@@ -1344,6 +1515,8 @@
       "country": "Timor",
       "region": "ASIA",
       "airports": [
+        "AERO",
+        "WMPB",
         "WPDB",
         "WPDL",
         "WPEC"

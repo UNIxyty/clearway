@@ -116,10 +116,14 @@ export default function Home() {
   const detectCountry = (code: string): string => {
     if (code.startsWith('K')) return 'USA 🇺🇸'
     if (code.startsWith('LF')) return 'France 🇫🇷'
+    if (code.startsWith('LM')) return 'Malta 🇲🇹'
+    if (code.startsWith('LG')) return 'Greece 🇬🇷'
     if (code.startsWith('EE')) return 'Estonia 🇪🇪'
     if (code.startsWith('EF')) return 'Finland 🇫🇮'
     if (code.startsWith('EY')) return 'Lithuania 🇱🇹'
     if (code.startsWith('EV')) return 'Latvia 🇱🇻'
+    if (code.startsWith('OA')) return 'Afghanistan 🇦🇫'
+    if (code.startsWith('HA')) return 'Ethiopia 🇪🇹'
     return 'Unknown'
   }
 
@@ -191,10 +195,14 @@ export default function Home() {
             <div className="flex flex-wrap justify-center gap-2 mt-4">
               <Badge variant="outline" className="text-xs">K* - USA</Badge>
               <Badge variant="outline" className="text-xs">LF* - France</Badge>
+              <Badge variant="outline" className="text-xs">LM* - Malta</Badge>
+              <Badge variant="outline" className="text-xs">LG* - Greece</Badge>
               <Badge variant="outline" className="text-xs">EE* - Estonia</Badge>
               <Badge variant="outline" className="text-xs">EF* - Finland</Badge>
               <Badge variant="outline" className="text-xs">EY* - Lithuania</Badge>
               <Badge variant="outline" className="text-xs">EV* - Latvia</Badge>
+              <Badge variant="outline" className="text-xs">OA* - Afghanistan</Badge>
+              <Badge variant="outline" className="text-xs">HA* - Ethiopia</Badge>
             </div>
           </CardHeader>
 
