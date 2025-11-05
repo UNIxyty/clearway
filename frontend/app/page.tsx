@@ -8,6 +8,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
 import { Plane, Search, Loader2, Clock, Phone, Mail, AlertCircle, CheckCircle2, Flame, FileText, PlaneTakeoff } from 'lucide-react'
+import { WorldMapSelector } from '@/components/world-map-selector'
 
 interface TowerHour {
   day: string
@@ -46,13 +47,14 @@ export default function Home() {
   const [airportInfo, setAirportInfo] = useState<AirportInfo | null>(null)
   const [error, setError] = useState<string | null>(null)
 
-  const searchAirport = async () => {
-    if (!airportCode.trim()) {
+  const searchAirport = async (code?: string) => {
+    const codeToSearch = code || airportCode
+    if (!codeToSearch.trim()) {
       setError('Please enter an airport code')
       return
     }
 
-    if (airportCode.length < 3) {
+    if (codeToSearch.length < 3) {
       setError('Airport code must be at least 3 characters')
       return
     }
@@ -61,6 +63,11 @@ export default function Home() {
     setProgress(0)
     setError(null)
     setAirportInfo(null)
+    
+    // Update airportCode state if code was provided
+    if (code) {
+      setAirportCode(code)
+    }
 
     // Simulate progress updates
     const progressInterval = setInterval(() => {
@@ -78,7 +85,7 @@ export default function Home() {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ airportCode: airportCode.toUpperCase() })
+        body: JSON.stringify({ airportCode: codeToSearch.toUpperCase() })
       })
 
       const data: AirportInfo = await response.json()
@@ -173,6 +180,14 @@ export default function Home() {
             <CardDescription className="text-lg">
               Enter an ICAO airport code to get operational hours and contact information
             </CardDescription>
+            <div className="flex flex-wrap justify-center gap-2 mt-4">
+              <WorldMapSelector onAirportSelect={(code) => {
+                setAirportCode(code)
+                setError(null)
+                // Auto-search with the selected code
+                searchAirport(code)
+              }} />
+            </div>
             <div className="flex flex-wrap justify-center gap-2 mt-4">
               <Badge variant="outline" className="text-xs">K* - USA</Badge>
               <Badge variant="outline" className="text-xs">LF* - France</Badge>
