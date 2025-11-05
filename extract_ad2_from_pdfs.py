@@ -25,6 +25,18 @@ except ImportError:
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+# Country to prefix mapping
+COUNTRY_TO_PREFIX = {
+    'Afghanistan': 'OA', 'Andorra': 'LE', 'Angola': 'FN', 'Austria': 'LO',
+    'Azerbaijan': 'UB', 'Bhutan': 'VQ', 'Bulgaria': 'LZ', 'Canada': 'C',
+    'Cuba': 'MU', 'Czech Republic': 'LK', 'Denmark': 'EK', 'Djibouti': 'HD',
+    'Ethiopia': 'HA', 'Greece': 'LG', 'Haiti': 'MT', 'Iran': 'OI',
+    'Ireland': 'EI', 'Italy': 'LI', 'Libya': 'HL', 'Macao': 'VM',
+    'Malta': 'LM', 'Maldives': 'VR', 'Nepal': 'VN', 'Seychelles': 'FS',
+    'South Africa': 'FA', 'Sudan': 'HS', 'South Sudan': 'HSS', 'Timor': 'WP',
+    'Timor-Leste': 'WP', 'Trinidad and Tobago': 'TT',
+}
+
 # AD2 section patterns
 AD2_SECTIONS = {
     'AD_2_1': r'AD\s*2\.1|AD\s*2-1|AERODROME\s*LOCATION\s*INDICATOR',
@@ -274,17 +286,6 @@ def normalize_country_name(filename: str) -> Optional[str]:
         return 'Azerbaijan'
     if 'Lybia' in name:
         return 'Libya'
-    
-    COUNTRY_TO_PREFIX = {
-        'Afghanistan': 'OA', 'Andorra': 'LE', 'Angola': 'FN', 'Austria': 'LO',
-        'Azerbaijan': 'UB', 'Bhutan': 'VQ', 'Bulgaria': 'LZ', 'Canada': 'C',
-        'Cuba': 'MU', 'Czech Republic': 'LK', 'Denmark': 'EK', 'Djibouti': 'HD',
-        'Ethiopia': 'HA', 'Greece': 'LG', 'Haiti': 'MT', 'Iran': 'OI',
-        'Ireland': 'EI', 'Italy': 'LI', 'Libya': 'HL', 'Macao': 'VM',
-        'Malta': 'LM', 'Maldives': 'VR', 'Nepal': 'VN', 'Seychelles': 'FS',
-        'South Africa': 'FA', 'Sudan': 'HS', 'South Sudan': 'HSS', 'Timor': 'WP',
-        'Trinidad and Tobago': 'TT',
-    }
     
     if name in COUNTRY_TO_PREFIX:
         return name
