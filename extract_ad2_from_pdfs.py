@@ -48,12 +48,36 @@ AD2_SECTIONS = {
     'AD_2_24': r'AD\s*2\.24|AD\s*2-24|CONTACT\s*INFORMATION',
 }
 
-def find_ad2_sections(pdf_path: Path) -> Dict[str, Dict[str, List[int]]]:
+def find_ad2_sections(pdf_path: Path, country_prefix: Optional[str] = None) -> Dict[str, Dict[str, List[int]]]:
     """
     Find AD2 sections in PDF and return page numbers for each airport
     Returns: {airport_code: {section: [page_numbers]}}
     """
     ad2_data = defaultdict(lambda: defaultdict(list))
+    
+    # Extended false positive list
+    FALSE_POSITIVES = {
+        'PAGE', 'DATE', 'TIME', 'NOTE', 'LIST', 'PART', 'SECT', 'TEXT', 'CONT', 'COPY', 
+        'ICAO', 'INFO', 'DOC', 'ZOLL', 'FROM', 'SITA', 'AMDT', 'AERO', 'AFIS', 'AFTN',
+        'AIDS', 'ALTN', 'AMSL', 'ANCE', 'APCH', 'APPR', 'APRO', 'AREA', 'ASDA', 'ATIS',
+        'AVBL', 'BIRD', 'BLUE', 'BNAH', 'BOLO', 'CAMP', 'CARF', 'CDNM', 'CEIL', 'CFBN',
+        'CHAR', 'CITY', 'CLUB', 'COMM', 'CONV', 'DATA', 'DCAT', 'DDME', 'DECL', 'DESC',
+        'DIST', 'DMDA', 'DMEV', 'DMOR', 'DORI', 'DTHR', 'DVAR', 'DVLF', 'EAST', 'EDGE',
+        'EHDP', 'ELEV', 'ENAH', 'EQPT', 'EVOR', 'FATO', 'FEET', 'FIRE', 'FIVE', 'FLIG',
+        'FLIP', 'FMHO', 'FOUR', 'FPAP', 'GEAR', 'GIOR', 'GNSS', 'GUID', 'HAND', 'HAOR',
+        'HELI', 'HLDG', 'HOLD', 'HREE', 'HVWD', 'ICAL', 'IIGD', 'INST', 'INTL', 'ITEM',
+        'JCAB', 'JIMA', 'JKOR', 'JSDF', 'KIAS', 'KROG', 'KROR', 'KUME', 'LEFT', 'LGTD',
+        'LHOX', 'LINE', 'LJKW', 'LNAV', 'LOCA', 'LPXP', 'MAHF', 'MAIL', 'MATF', 'MCAS',
+        'MEAN', 'MEHT', 'METE', 'MOON', 'MSAS', 'NAHA', 'NAME', 'NAVI', 'NOIS', 'NYOR',
+        'OBST', 'OHIW', 'OLPE', 'ONAL', 'ONLY', 'OPER', 'OTHE', 'OVHD', 'OWER', 'PALS',
+        'PAPI', 'PARL', 'PASS', 'PATH', 'PDWK', 'PLUS', 'POLE', 'PREF', 'PROC', 'PSWE',
+        'PSWF', 'PSWG', 'PSWI', 'PSWM', 'PTER', 'QDPH', 'QJOH', 'RADI', 'RATS', 'RCLL',
+        'REDL', 'RENL', 'RESA', 'RESC', 'SPOT', 'SROR', 'STAR', 'STOP', 'SURF', 'SYST',
+        'TAKE', 'TAPS', 'THIS', 'THRU', 'TION', 'TKOF', 'TLOF', 'TODA', 'TORA', 'TREE',
+        'TROR', 'TRUE', 'TTWY', 'TURE', 'TURN', 'TWDI', 'TWYB', 'TYPE', 'URVV', 'USAF',
+        'VANL', 'VANR', 'VANV', 'VIGE', 'VLGH', 'VNAV', 'VORV', 'VTOL', 'WAYS', 'WBAR',
+        'WBRG', 'WEST', 'WIND', 'WING', 'WRNP', 'WXUQ', 'YMOR', 'YORO', 'YROR', 'ZLWK', 'ZONE'
+    }
     
     try:
         reader = PdfReader(str(pdf_path))
@@ -72,33 +96,61 @@ def find_ad2_sections(pdf_path: Path) -> Dict[str, Dict[str, List[int]]]:
                 
                 text_upper = text.upper()
                 
+                # First, try to find airport code in AD 2.1 context (most reliable)
+                # Pattern: "AD 2.1 CODE" or "CODE AD 2.1" or just the code near AD 2.1
+                ad21_match = re.search(r'AD\s*2\.1[^\n]*\b([A-Z]{4})\b|\b([A-Z]{4})\b[^\n]*AD\s*2\.1', text, re.IGNORECASE)
+                if ad21_match:
+                    code = (ad21_match.group(1) or ad21_match.group(2)).upper()
+                    # Filter by country prefix if provided
+                    if country_prefix and not code.startswith(country_prefix):
+                        # Try next match
+                        continue
+                    if code not in FALSE_POSITIVES:
+                        current_airport = code
+                
                 # Check for AD 2 sections
                 found_ad2 = False
                 for section_name, pattern in AD2_SECTIONS.items():
                     if re.search(pattern, text_upper, re.IGNORECASE):
                         found_ad2 = True
                         
-                        # Try to find airport code on this page
+                        # If we have a current airport from AD 2.1, use it
+                        if current_airport:
+                            if page_num + 1 not in ad2_data[current_airport][section_name]:
+                                ad2_data[current_airport][section_name].append(page_num + 1)
+                            continue
+                        
+                        # Try to find airport code in context (e.g., "AD 2.X CODE")
+                        code_in_context = re.search(rf'AD\s*2\.\d+\s+([A-Z]{{4}})\b|\b([A-Z]{{4}})\b\s+AD\s*2\.\d+', text, re.IGNORECASE)
+                        if code_in_context:
+                            code = (code_in_context.group(1) or code_in_context.group(2)).upper()
+                            # Filter by country prefix if provided
+                            if country_prefix and not code.startswith(country_prefix):
+                                continue
+                            if code not in FALSE_POSITIVES:
+                                if page_num + 1 not in ad2_data[code][section_name]:
+                                    ad2_data[code][section_name].append(page_num + 1)
+                                current_airport = code
+                                continue
+                        
+                        # Last resort: find codes on page, but filter by prefix
                         codes = set()
                         for match in airport_code_pattern.finditer(text):
                             code = match.group(1)
-                            # Filter false positives
-                            if code not in ['PAGE', 'DATE', 'TIME', 'NOTE', 'LIST', 'PART', 'SECT', 'TEXT', 'CONT', 'COPY', 'ICAO', 'INFO', 'DOC']:
-                                codes.add(code)
+                            if code in FALSE_POSITIVES:
+                                continue
+                            # If country prefix provided, only accept codes starting with it
+                            if country_prefix and not code.startswith(country_prefix):
+                                continue
+                            codes.add(code)
                         
-                        # If we found codes, associate them with this section
+                        # Associate codes with section
                         if codes:
                             for code in codes:
-                                if code not in ad2_data[code][section_name] or (page_num + 1) not in ad2_data[code][section_name]:
+                                if page_num + 1 not in ad2_data[code][section_name]:
                                     ad2_data[code][section_name].append(page_num + 1)
-                        
-                        # Also try to find airport code in context (e.g., "AD 2.1 CODE")
-                        code_in_context = re.search(r'AD\s*2\.\d+\s*([A-Z]{4})', text, re.IGNORECASE)
-                        if code_in_context:
-                            code = code_in_context.group(1).upper()
-                            if code not in ad2_data[code][section_name] or (page_num + 1) not in ad2_data[code][section_name]:
-                                ad2_data[code][section_name].append(page_num + 1)
-                                current_airport = code
+                                if not current_airport:
+                                    current_airport = code
                 
                 # If we found AD2 but no specific code, try to use current airport context
                 if found_ad2 and current_airport:
@@ -111,8 +163,17 @@ def find_ad2_sections(pdf_path: Path) -> Dict[str, Dict[str, List[int]]]:
                 logger.warning(f"Error processing page {page_num + 1}: {e}")
                 continue
         
-        # Clean up - remove airports with no sections
-        return {code: dict(sections) for code, sections in ad2_data.items() if sections}
+        # Clean up - remove airports with no sections and filter by prefix
+        result = {}
+        for code, sections in ad2_data.items():
+            if sections:
+                # Final filter by country prefix
+                if country_prefix and not code.startswith(country_prefix):
+                    continue
+                if code not in FALSE_POSITIVES:
+                    result[code] = dict(sections)
+        
+        return result
     
     except Exception as e:
         logger.error(f"Error reading PDF {pdf_path}: {e}")
@@ -152,10 +213,20 @@ def extract_airport_info_from_ad2(pdf_path: Path, airport_code: str, page_number
                 # Extract AD 2.1 - Location Indicator / Airport Name
                 if re.search(AD2_SECTIONS['AD_2_1'], text_upper, re.IGNORECASE):
                     # Try to find airport name pattern: "CODE - NAME" or "CODE NAME"
-                    name_pattern = re.search(rf'{airport_code}\s*[-–]\s*([^\n]+)', text, re.IGNORECASE)
-                    if name_pattern:
-                        airport_info['airportName'] = name_pattern.group(1).strip()
-                    airport_info['ad2_1'] = text[:500]  # First 500 chars
+                    # Look for patterns like "LOWW - Wien-Schwechat" or "LOWW Wien"
+                    name_patterns = [
+                        re.search(rf'{airport_code}\s*[-–]\s*([^\n]+)', text, re.IGNORECASE),
+                        re.search(rf'{airport_code}\s+([A-Z][^\n]{3,})', text),
+                    ]
+                    for pattern in name_patterns:
+                        if pattern:
+                            name = pattern.group(1).strip()
+                            # Clean up name (remove common suffixes)
+                            name = re.sub(r'\s*(AD\s*2\.\d+|AERODROME|LOCATION).*', '', name, flags=re.IGNORECASE)
+                            if len(name) > 3:  # Valid name
+                                airport_info['airportName'] = name
+                                break
+                    airport_info['ad2_1'] = text[:1000]  # First 1000 chars
                 
                 # Extract AD 2.3 - Operational Hours
                 if re.search(AD2_SECTIONS['AD_2_3'], text_upper, re.IGNORECASE):
@@ -214,8 +285,13 @@ def process_pdf_for_ad2(pdf_path: Path, country: Optional[str] = None) -> Dict:
     """
     logger.info(f"Processing {pdf_path.name} for AD2 sections")
     
+    # Get country prefix for filtering
+    country_prefix = None
+    if country and country in COUNTRY_TO_PREFIX:
+        country_prefix = COUNTRY_TO_PREFIX[country]
+    
     # Find AD2 sections and page numbers
-    ad2_sections = find_ad2_sections(pdf_path)
+    ad2_sections = find_ad2_sections(pdf_path, country_prefix)
     
     # Extract airport information for each airport found
     airport_data = {}

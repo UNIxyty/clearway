@@ -1,0 +1,538 @@
+
+================================================================================
+PAGE 1
+================================================================================
+AIP
+SPAINAD 2-LESU-1
+30-OCT-25
+AIS-ESPAÑA AMDT 399/25LESU AD 2 AERODROME DATA
+LESU AD 2.1 AERODROME LOCATION INDICATOR – NAME
+LESU – ANDORRA – LA SEU D’URGELL
+LESU AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1ARP 422046N 0012453E. See AD 2-LESU ADC.
+2Distance and direction from the city 3.8 km SW.
+3Elevation 802 m / 2630 ft.
+4Geoid undulation 53.03 + 0.05 m. (1)
+5Reference temperature 30º C.
+6Low average temperature 3º C.
+7Magnetic variation 1º E (2020).
+8Annual change 7.8’E.
+9AD administration Aeroports de Catalunya.
+10Address Aeródromo Andorra-La Seu d'Urgell – 25711, Montferrer (Lleida).
+11TEL +34-973 355 324
+12FAX +34-973 360 934
+13E-mail operacions@lesu.cat
+14AFTN LESU
+15Approved traffic VFR, VFRN (2) and IFR.
+16Remarks (1) For all AD points.
+(2) See item 20.
+LESU AD 2.3 OPERATIONAL HOURS
+1Airport HR AD (Restricted use): V: MON–SUN 0630–CCV; I: MON–SUN 0730 -
+CVV.
+HR AD (Public and VFRN use): PPR 24 HR. (1)
+2Custom and Immigration No.
+3Health and Sanitation No.
+4AIS/ARO Yes (2)
+5MET briefing V: MON–SUN 0800–1600.
+I: MON–SUN 0800–1600.
+Other hours under PPR.
+6ATS PPR 24 HR. (3)
+
+================================================================================
+PAGE 2
+================================================================================
+AIP
+SPAINAD 2-LESU-2
+30-OCT-25
+AIS-ESPAÑA AMDT 399/257Fuelling 30 MIN after AD opening time until 30 MIN before AD closing time. (4)
+8Handling Yes, PPR 24 HR to HandlingLESU@lesu.cat
+Air staber unit not available for aircraft with an inoperative APU.
+9Security Yes, PPR 24 HR to operacions@lesu.cat
+10De-icing No.
+11Remarks (1) See item 20.
+(2) Operations Centre at Andorra-La Seu d'Urgell AD
+TEL: +34-973 355 324
+(3) See items 18 and 20. For information on public use HR, consult
+NOTAM in force. NOTAM will be issued with a minimum of 18 HR before
+the activation of public use.
+(4) Fuelling available during public and restricted use by gravity. By
+pressure PPR 24 HR.
+LESU AD 2.4 HANDLING SERVICES AND FACILITIES
+1Cargo facilities No.
+2Fuel types AVGAS 100LL, JET A-1.
+3Oil types No.
+4Refuelling capacity AVGAS 100LL: 5000 L, 6.6 L/s.
+JET A-1: 15000 L, 6.67 L/s.
+5De-Icing facilities No.
+6Hangar space No.
+7Repair facilities No.
+8Remarks None.
+Ramp agents:
+SERVITEC MANTENIMIENTO AERONÁUTICO S.A
+E-mail: HandlingLESU@lesu.cat
+TEL:+34-902 090 726 ; +34-682 155 891
+SITA: LEUADXH
+Ramp agents may attend both commercial and general aviation and
+business.
+General and Business Aviation Managers (FBO).
+For passengers and crew who opt to access through the General and
+Business Aviation terminal, the General and Business Aviation Managers
+(FBO) authorised by the airport are:
+ANDORRA AVIATION GROUP FBO
+Passengers and crews opting to access via the General and
+Business Aviation (FBO) terminal cleared by the airport must engage
+handling services through email at:
+E-mail: handlinglaseu@andorraaviationgroup.com ;
+manager.lesu@andorraaviationgroup.com
+TEL: +34-873 450 495 ; +34-747 422 510
+SITA: No
+LESU AD 2.5 PASSENGER FACILITIES
+
+================================================================================
+PAGE 3
+================================================================================
+AIP
+SPAINAD 2-LESU-3
+30-OCT-25
+AIS-ESPAÑA AMDT 399/251Hotels No.
+2Restaurant Yes. See schedules on www.aeroportandorralaseu.cat
+3Transportation No. Taxi O/R to the AD manager.
+4Medical facilities First-aid kit.
+5Bank/Post Office No.
+6Tourist information No.
+7Remarks All services above are available at La Seu d’Urgell, 3.8 km SW.
+LEAM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1Fire category HR AD restricted use: own means.
+HR AD public use: Category 1 to 4 PPR 24 HR. (1) (2)
+2Rescue equipment According to the fire category published.
+3Removal of disabled aircraft: Service provided by external companies with a maximum response time
+of 5 HR. Cranes and support equipment with a capacity up to 23 TM.
+Maximum aircraft served: AT72.
+4Remarks (1) See item 20.
+Operational hours: From 15 minutes before the activation of the public use
+infrastructure until 15 minutes after it is deactivated.
+Service hours: From one hour before the operational hours until 15
+minutes after the deactivation of public use hours.
+(2) Operational objective of response time up to RWY 03/21 end, less than
+3 MIN.
+LESU AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING AND
+SNOW PLAN
+1Types of clearing equipment Not applicable.
+2Clearance priorities Not applicable.
+3Use of material for movement area surface
+treatmentNot applicable.
+4Specially prepared winter runways Not applicable.
+5Remarks Runway surface condition assessme nt and reporting in accordance with
+the Global Reporting Format (GRF) methodology described in AD 1.2.2.
+Aerodrome in service during all seasons of the year.
+LESU AD 2.8 MOVEMENT AREA DETAILS
+1Apron Surface: Asphalt.
+Strength: PCN 74/F/D/W/T.
+
+================================================================================
+PAGE 4
+================================================================================
+AIP
+SPAINAD 2-LESU-4
+30-OCT-25
+AIS-ESPAÑA AMDT 399/252Taxiways Width: 15 m.
+Surface: Asphalt.
+Strength:PCN 18/F/A/W/T.
+3Check locations Altimeter: Runway-holding position, head of
+RWY 03: 802 m / 2628 ft.
+VOR: No.
+INS: See AD 2-LESU PDC.
+4Remarks None.
+LESU AD 2.9 TAXIING GUIDANCE SYSTEM AND MARKINGS
+1Taxiing guidance system Runway-holding positions, indication signs to stands, NO ENTRY signs.
+2RWY markings Threshold, designators, centre line, side stripe
+3TWY markings Side stripe and centre line, spotlight markers on TWY edge.
+4Remarks None.
+LESU AD 2.10 AERODROME OBSTACLES
+1Obstacles which penetrate Approach, Take-Off
+Climb, Conical, Inner Horizontal, Transitional, Inner
+Transitional and Balked Landing Surfaces
+established in ICAO Annex 14; and the areas 2A
+and 3 established in ICAO Annex 15. Those
+penetrating these surfaces are identified in the
+CSV file as "Relevante_Relevant = Si/Yes":See Item 10 and Digital Data section.
+2Remarks See AD 2-LESU AOC.
+LESU AD 2.11 METEOROLOGICAL SERVICE PROVIDED
+1MET office Andorra-La Seu d'Urgell EMAe.
+2HR See item 3.
+3METAR Half-hourly.
+4TAF 24 HR.
+5TREND No.
+6Briefing In person and by telephone.
+7Flight documentation/Language Charts and plain language/Spanish.
+8Charts Significant forecasted maps, and wind and temperature in altitude.
+9Supplementary equipmet No.
+10ATS unit served AFIS.
+
+================================================================================
+PAGE 5
+================================================================================
+AIP
+SPAINAD 2-LESU-5
+30-OCT-25
+AIS-ESPAÑA AMDT 399/2511Additional information Valencia OMAe (LEVA): H24;
+TEL: +34-963 690 750
+Andorra-La Seu d'Urgell EMAe: HR: see item 3;
+TEL: +34-973 350 582
+12Remarks Aerodrome warnings available.
+LESU AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RWY Direction DIM (m)THR PSN THR ELEV TDZ
+ELEVSWY (m)CWY (m)Strip (m) OFZ RESA (m)RWY/SWY SFC PCN
+03 031.01° GEO 030°
+MAG1267 x 28422010.17N
+0012424.04ETHR: 802 m /
+2628 ft   TDZ: NoNo 60 x 150 1387 x 80No No RWY: ASPH
+PCN 17/F/A/W/T
+SWY: No
+21 211.01° GEO 210°
+MAG1267 x 28422045.37N
+0012452.56ETHR: 802 m /
+2628 ft   TDZ: NoNo 60 x 150 1387 x 80No No RWY: ASPH
+PCN 17/F/A/W/T
+SWY: No
+Remarks: None.
+ 
+12.1 Profile:
+LESU AD 2.13 DECLARED DISTANCES
+RWY TORA (m) TODA (m) ASDA (m) LDA (m)
+03 1267 1327 1267 1267
+21 1267 1327 1267 1267
+Remarks: None.
+LESU AD 2.14 APPROACH AND RUNWAY LIGHTING
+1Runway 03
+2Approach Threshold identification lights.
+3PAPI (MEHT) (1) 3.05º (7.64 m / 25 ft) (2)
+4.4º (8.99 m / 29 ft) (3)
+4Threshold Green
+5Touchdown zone No.
+
+================================================================================
+PAGE 6
+================================================================================
+AIP
+SPAINAD 2-LESU-6
+30-OCT-25
+AIS-ESPAÑA AMDT 399/256Runway centre line No.
+7Runway edge 1267 m white. (4)
+Distance between lights: 48.73 m
+8Runway end Red
+9Stopway No.
+10Remarks (1) Possible unexpected information on PAPI RWY 03 during restricted use
+hours, 10 minutes before the activation of public use hours.
+(2) To notify incidents or request a higher intensity, contact the AFIS Unit
+at Andorra-La Seu d'Urgell AD: 122.205 C.
+TEL: +34-973 355 926
+(3) Exclusive use of PAPI 4.4º for instrument RNP approach. Single
+approach. When the extended FIZ is activated without instrument
+operations, PAPI 3.05º will be activated.
+(4) Adjustable intensity and omnidirectional lights.
+1Runway 21
+2Approach Threshold identification lights.
+3PAPI (MEHT) 2.99° (9.6 m / 32 ft). (1) (2)
+4Threshold Green
+5Touchdown zone No.
+6Runway centre line No.
+7Runway edge 1267 m white. (3)
+Distance between lights: 48.73 m
+8Runway end Red
+9Stopway No.
+10Remarks (1) To give notification of occurrences or request a higher intensity, contact
+the AFIS Unit at Andorra-La Seu d’Urgell AD: 122.205 C.
+TEL: +34-973 355 926
+(2) Only usable between 2 NM and the threshold.
+(3) Adjustable intensity and omnidirectional lights.
+LESU AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1ABN/IBN Yes.
+2WDI 1 near THR 03 LGTD, 1 near THR 21, 1 near middle of RWY, no LGTD.
+3TWY lighting Centre line: TWY B, C, D and GATE B.
+4Apron lighting Floodlighting poles.
+5Secondary power supply Engine generators that provide a maximum switch-over time (light) of 15
+SEC for THR identification lights, THR, edge and RWY end, PAPI, TWY
+centre line, APN, TWR, SEI and power building.
+
+================================================================================
+PAGE 7
+================================================================================
+AIP
+SPAINAD 2-LESU-7
+30-OCT-25
+AIS-ESPAÑA AMDT 399/256Remarks (1) 11 lattice towers on Montículo de Ensiula, Type C and Type B obstacle
+lights on the megatower closest to the runway and WDI.
+LESU AD 2.16 HELICOPTER LANDING AREA
+1Position: Use of runway for landing.
+ FATO: RWY 03/21. See item 12.
+Ground-taxiing: TLOF coincides with RWY 03/21. ARP coordinates, see
+item 2.
+Air-taxiing: TLOF coincides with PRKG 21, 22, 31, 32, 40, 41, 42, 44.
+2Elevation
+ FATO: RWY 03/21. THR 03 and THR 21 elevation, see item 12.
+Air-taxiing: TLOF coincides with PRKG 21, 22, 31, 32, 40, 41, 42, 44.
+Apron elevation, see item 8.
+Ground-taxiing: TLOF coincides with RWY 03/21.
+3Dimensions, surface, maximum weight, marking
+ FATO: RWY 03/21. See items 9 and 12.
+Ground-taxiing: TLOF coincides with RWY 03/21. See items 9 and 12.
+Air-taxiing: TLOF coincides with PRKG 21, 22, 31, 32, 40, 41, 42, 44. See
+items 8 and 9.
+Taxiways. See items 8 and 9.
+4Direction FATO: RWY 03/21. See item 12.
+5Declared distances FATO: RWY 03/21. See item 13.
+6Lighting
+ FATO: RWY 03/21. See item 14.
+Air-taxiing: TLOF coincides with PRKG 21, 22, 31, 32, 40, 41, 42, 44. See
+item 15.
+Ground-taxiing: TLOF coincides with RWY 03/21. See item 14.
+Taxiways. See items 8 and 9.
+7Remarks None
+LESU AD 2.17 ATS AIRSPACE
+Designation and lateral limits Vertical
+limitsAirspace
+classUnit Language Transition
+altitude
+FIZ REDUCIDA ANDORRA-LA SEU D’URGELL (RMZ)
+(FPMZ) (1)
+422452N 0012248E; 422409N 0012951E, from this point
+following an arc of 5 NM centred on the ARP, clockwise
+up to 421736N 0011939E; 422452N 0012248E.SFC-5000 ft
+AMSLG LA SEU AFIS (2)
+ES/EN2438 m / 8000 ft
+FIZ AMPLIADA ANDORRA-LA SEU D’URGELL (RMZ)
+422538N 0012034E; 422438N 0013025E; 422208N
+0013328E; 421835N 0013401E; 421117N 0012737E; from
+this point following an arc of 10 NM centered on the ARP;
+clockwise up to 421359N 0011532E; 422538N 0012034E.SFC-7500 ft
+AMSLG LA SEU AFIS (2)
+ES/EN
+Remarks AD located to the NW of TMA BARCELONA and on the VFR traffic
+sector with vertical limits: 1000 ft AGL/AMSL-MAX ALT VFR SECTOR
+(FL080) (see ENR 2.1).
+The FIZ will only be active during ATS hours.
+(1) Flight plan submission mandatory zone within AFIS HR.
+(2) Call sign: La Seu Información. HR ATS: see item 3.
+LESU AD 2.18 ATS COMMUNICATION FACILITIES
+
+================================================================================
+PAGE 8
+================================================================================
+AIP
+SPAINAD 2-LESU-8
+30-OCT-25
+AIS-ESPAÑA AMDT 399/25Service Call sign FREQ HR Remarks
+Service Call sign FREQ HR Remarks
+AFIS La Seu
+Información122.205 C H24 (1) (1) Outside ATS operation hours, this frequency shall be used for A/A
+communications.
+131.605 C HR ATS
+(2)BACK-UP. (2) Outside ATS operation hours, this frequency shall be used for
+G/A communications.
+121.500
+MHzHR ATS EMERG
+LESU AD 2.19 RADIO NAVIGATION & LANDING FACILITIES
+Facility (VAR) ID FREQ HR Coordinates ELEV
+DMERemarks
+No.
+LESU AD 2.20 LOCAL REGULATIONS
+Maximum aircraft allowed on the infrastructure, ATR42. Maximum helicopter allowed, A139.
+Aircraft with a wingspan higher than 17 m may only taxi via the taxiway on apron N, accessing PRKG 21-23 by GATE B. TWY W
+and G are limited to C550 and PC24 maximum aircraft respectively.
+Helicopters may accomplish both air and ground-taxiing on the aerodrome taxiways. Helicopters with a rotor blade diameter
+larger than 13 m may only accomplish air-taxiing via apron taxiways E and N. On N air-taxiing may only take place to access
+PRKG 21 and 22. Helicopters with a rotor blade diameter larger than 12.46 m cannot accomplish air-taxiing via TWY W and G.
+TWY I is exclusive for helicopter use and is limited to H146.
+Helicopters accessing PRKG 21 and 22 must taxi by TWY N, accessing through GATE B.
+Helicopter air-taxiing to access PRKG 31-32, 40-42 and 44 must be accomplished via TWY M, being access prohibited from
+TWY N.
+To access the fuelling area, hangar D1 and PRKG 44, visual reference points are available on TWY N and W where aircraft
+accessing this area will have to stop. See more details on subparagraphs Public Use Operations or Restricted Use Operations,
+as applicable.
+With aircraft PC24 leaving the fuelling area, no taxiing of helicopters from/to PRKG 44 can take place. However, no impact
+exists to exit the fuelling area for aircraft parked on the C172 area. With aircraft in the refueling area, aircraft bound to or from
+hangar D1 cannot circulate via TWY G.
+Aircraft on ground-taxiing accessing this area may do so via any of the two points. However, helicopters on air-taxiing may only
+access from the point located on W.
+Gravity fuelling in the fuelling area for maximum aircraft PC24. Aircraft up to size C172 will park on the marked position parallel
+to the fuel tanks. Aircraft over that size, up to PC24, will park on the marked position perpendicular to the fuel tanks.
+Helicopters (skids) with a rotor blade up to 12.46 m will park on the PC24 spot.
+Helicopters with a rotor blade diameter higher than 13 m, which need to access the hangar zone and are lacking wheels for
+ground taxi, shall be towed through apron taxiway S up to the corresponding hangar.
+20.1 OPERATIONAL MINIMA
+At the AD, VFR flight operations will be conducted under VMC.
+At the AD, RNAV1 instrument departure operations will be conducted with visibility 1300 m from the threshold.
+At the AD, RNP approach instrument operations will be conducted with visibility 7.8 km and cloud ceiling 2200 ft.
+Operating with snow, slush, frost or ice on the runway is prohibited.
+
+================================================================================
+PAGE 9
+================================================================================
+AIP
+SPAINAD 2-LESU-9
+30-OCT-25
+AIS-ESPAÑA AMDT 399/25Take extreme care with winds of more than 20 kt.
+ULM with crosswinds greater than 20 kt operations are prohibited
+Specific approval of the operator is required for flying instrument manoeuvres.
+20.2 ACCEPTANCE OF AIRLINES
+Air carriers seeking to operate commercially in the infrastructure must request the airport manager’s approval according to
+the internal procedure by sending an email to: operacions@lesu.cat
+20.3 RESTRICTED USE OPERATION
+Radio equipment is required to operate on the AD.
+The provisions specified in SERA.4001, item b), point 3, shall apply with regard to the submission of flight plans.
+Aircraft using the AD are obliged to have adequate equipment in order to monitor frequency 122.205 C for self-control. On
+that same frequency they shall transmit their intentions and their evolution through the different phases of the flight, in order
+to provide other aerodrome traffic with information that shall aid in keeping own separation if required.
+The Operations Centre of Andorra-La Seu d’Urgell AD may offer orientation on apron occupancy, provide refuelling services
+and further information of interest. Contact on frequency 131.605 C after runway is vacated.
+No aeronautical station shall provide any type of aerodrome information on frequency 122.205 C.
+On TWY N the visual reference point is the identification horizontal marking to access PRKG I, and on TWY W the EPL
+(equipment parking area marking) perpendicular to TWY W which limits PRKG K. In case of air-taxiing, the DGPEIS group will
+access from TWY W. Contact with 122.205 C must take place to inform about intentions.
+20.4 PUBLIC USE OPERATION VFRN
+AFIS provision hours shall be published by NOTAM. Consult NOTAM and SNOWTAM in force before operating on the
+infrastructure. NOTAM will be published with minimum advance notice of 18 HR. In any case contact with TWR will be
+established before entry on FIZ.
+The night-time use of the LESU airport is only for commercial operation during public use and is incompatible with the night-
+time use of the H24 heliport. Both infrastructures cannot be operational at the same time. The coordination between both
+infrastructures shall be carried out via the email address:operacions@lesu.cat At night-time, only the following may be used:
+GATE B, taxiways C and B to enter and exit the runway, and it shall be compulsory to use a radio altimeter and the
+commercial operator has previous experience operating during daytime use.
+The following radio altimeter notification points are established in the VFRN: 421957.62N and 0012606.38E; 422106.78N and
+0012720.15E.
+To operate in the FIZ, when activated, it is compulsory to file a flight plan and to carry radio equipment on board.
+The movement of persons or vehicles, including aircraft being towed within the movement area, is subject to advance
+clearance from the AFIS personnel on duty at the AFIS unit.
+Pilots wishing to accomplish taxi service or passenger commercial transport flights must request the activation of public use
+aerodrome at least 24 HR in advance of the estimated hour of operation, by means of an electronic mail to
+operacions@lesu.cat and telephonic acknowledgement to:
+TEL: +34-973 355 324.
+The request to carry out commercial operations must be submitted within the airport's published operating hours so that
+operations may receive and accept it. The request must contain the following information:
+Flight number.
+Flight class.
+Ground handling service contracted.
+Aircraft type.
+Scheduled dates and times.
+
+================================================================================
+PAGE 10
+================================================================================
+AIP
+SPAINAD 2-LESU-10
+30-OCT-25
+AIS-ESPAÑA AMDT 399/25Level of RFFS protection required.
+Operations will make the necessary communications to confirm the provision of necessary services for the operation in
+public use and issue the corresponding NOTAM. Once this has been done, they will notify the applicant of the authorisation
+by the same means by which the request was received. The operation will not be considered authorised if not expressly
+confirmed by airport operations. The hiring of ground handling services authorised by the airport is mandatory for commercial
+operations.
+The movement of persons or vehicles, including aircraft being towed within the movement area, is subject to advance
+clearance from the AFIS personnel on duty at the AFIS unit.
+ULM operating during public use must satisfy the following requirements:
+Operate with radio which guarantees bidirectional communications.
+Submit FPL.
+Know how to use the radio equipment.
+Know and understand aeronautical phraseology.
+During public use operation PRKG 11 to 17, 21 to 23 are reserved for the parking of passenger commercial transport and air
+taxi aircraft.
+On TWY N the visual reference point is the identification horizontal marking to access PRKG I, and on TWY W the EPL
+(equipment parking area marking) perpendicular to TWY W which limits PRKG K. In case of air-taxiing, the DGPEIS group will
+access from TWY W. Contact with AFIS must take place on these points.
+Access to PRKG H, I and K by general aviation on the apron, shall only take place through TWY M. Traffic of aircraft via TWY
+M is not allowed during autonomous exit from PRKG 21 to 23. While helicopters are turning in PRKG 21 and 22, aircraft may
+not circulate via TWY M.
+20.5 OPERATIONAL SAFETY REPORTS
+On the specific instance of safety reports related with the aeronautical information service provider AFIS, these may be sent
+to the e-mail address: safety@skyway-ans.com
+20.6 RNP RWY 03 APPROACH
+For instrument operations, contact the airport manager at: operacions@lesu.cat
+Instrument approach is only permitted for commercial operations and requires airport validation.
+The validation is obtained by accrediting training in at least the following items:.
+The training must consist of an overall theoretical instruction of the procedure and at least one real execution (or in a
+simulator certified for this) under VMC throughout the approach from the IAF to landing.
+Explanation of stabilised approach criteria.
+Familiarisation of pilots with the manoeuvre.
+Explanation of the difference between RNAV (GNSS) procedures with minima lines LNAV, LNAV/VNAV, LPV.
+Explanation of the final approach segment, in particular in relation to the position of the MAPt and the flight height on
+passing over this point.
+The position of the controlling obstacles in each segment.
+It must be remembered to add 50 ft to the minima of the approach chart to descend using the CDFA technique.
+Explanation of the operational concept, transfer from Barcelona approach to AFIS-SEU.
+RAIM function pre-flight verification of the availability of this function.
+Verification of the RAIM function 30 NM from the ARP, and of the GNSS navigation capacity at the IAF and before
+reaching the FAF.
+Situation in the event of loss of GNSS navigation capacity.
+Rejected landing manoeuvre RWY 03. Indicate the gradients required as determined by the starting point of the
+manoeuvre.
+Circling visual flight manoeuvre for landing on RWY 21.
+If the installation of any new system is required in the aircraft, the corresponding instruction for the same must be
+included.
+Recommendation not to use the PAPI system in the last mile before the threshold.
+
+================================================================================
+PAGE 11
+================================================================================
+AIP
+SPAINAD 2-LESU-11
+30-OCT-25
+AIS-ESPAÑA AMDT 399/25Wind limitations for operation at the airport.
+In the approach briefing, the singular points of this RNP APCH instrument procedure shall be recalled.
+20.7 FIZ REDUC IDA OPERATION
+Only for VFR flights.
+Segregation of commercial VFR traffic with respect to ULM.
+ULM wishing to operate during the public use hours published, must send a request 1 hour ahead of the estimated time of
+flight by means of an e-mail to the address: operacions@lesu.cat and by telephonic confirmation TEL: +34-973 355 324 in
+order to determine the possibility of accomplishing the flight and, if so, fix flight times.
+20.8 FIZ AMPLIADA OPERATION
+Only one simultaneous IFR operation shall be permitted within the FIZ. There cannot be two IFR flights simultaneously
+within the FIZ.
+Segregation of commercial IFR traffic with respect to VFR traffic.
+VFR traffic wishing to operate during the public use hours published, must send a request 1:30 hours ahead of the estimated
+time of flight by means of an e-mail to the address: operacions@lesu.cat and by telephonic confirmation TEL: +34-973 355
+324 in order to determine the possibility of accomplishing the flight and, if so, fix flight times.
+LESU AD 2.21 NOISE ABATEMENT PROCEDURES
+No.
+
+================================================================================
+PAGE 12
+================================================================================
+AIP
+SPAINAD 2-LESU-12
+30-OCT-25
+AIS-ESPAÑA AMDT 399/25LESU AD 2.22 FLIGHT PROCEDURES
+Helicopters shall use the same reporting points on the aerodrome traffic circuit as the rest of aircraft, and shall land on and
+take-off from the runway.
+22.1 LOW VISIBILITY PROCEDUR ES (LVP)
+Low visibility procedures are not available at Andorra-La Seu d’Urgell airport.
+ 
+22.2 AD TRAFFIC CIRCUIT
+LESU AD 2.23 ADDITIONAL INFORMATION
+Windshear on final, especially RWY 21.
+Mound on the vicinity of RWY 21.
+Take-off or landing of any traffic not considered ULM, helicopters or aircraft will not be cleared at LESU. The activity of
+paragliders, paramotors and the like is prohibited with FIZ AMPLIADA or FIZ REDUCIDA activated.
+Paraglider activity on approach to RWY 03 (in the vicinity of the VFR reporting point “S” of the FIZ REDUCIDA) and take-off
+from RWY 21 and model aircraft activity at the coordinates 422000N 0012735E.
+Where necessary, IFR or VFR traffic may contact TWR on: TEL: +34-973 354 810
+
+================================================================================
+PAGE 13
+================================================================================
+AIP
+SPAINAD 2-LESU-13
+30-OCT-25
+AIS-ESPAÑA AMDT 399/25A single type of FIZ will be activated each day.
+In case of emergency landing by gliders, their departure via TWY A is prohibited.
+To conduct special activities in the vicinity of the airport, please contact: operacions@lesu.cat
+Andorra-La Seu D'Urgell airport has the appropriate means and local procedures for the treatment of the ATR72 as a higher
+code letter aircraft.
+23.1 CONCENTRATION AND FLOWS OF BIRDS
+Frequent presence of griffon vultures and red kites in the surrounding areas of the airport, especially concentrated on RWY
+03 departures and RWY 21 arrivals
+LESU AD 2.24 CHARTS RELATED TO THE AERODROME
+The list of charts related to the aerodrome can be found on the link below:
+https://aip.enaire.es/AIP/#LESU
+LESU AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+Not applicable.
