@@ -248,7 +248,7 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
       </Button>
 
       <Dialog open={open} onOpenChange={setOpen}>
-        <DialogContent className="max-w-7xl max-h-[95vh] overflow-y-auto w-[95vw]">
+        <DialogContent className={`max-w-7xl w-[95vw] ${selectedRegion ? 'h-[90vh] flex flex-col' : 'max-h-[95vh] overflow-y-auto'}`}>
           <DialogHeader>
             <DialogTitle className="flex items-center gap-2 text-2xl">
               <MapPin className="h-6 w-6" />
@@ -267,7 +267,7 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
               </div>
             </div>
           ) : selectedRegion ? (
-            <div>
+            <div className="flex flex-col flex-1 min-h-0">
               <Button
                 variant="ghost"
                 onClick={() => setSelectedRegion(null)}
@@ -275,7 +275,7 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
               >
                 ← Back to Regions
               </Button>
-              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 overflow-y-auto flex-1">
                 {getCountriesByRegion(selectedRegion).map((country) => (
                   <div
                     key={country.prefix}
@@ -327,28 +327,47 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
                 const countries = getCountriesByRegion(region)
                 if (countries.length === 0) return null
 
+                // Get continent map SVG - using better silhouette paths
+                const getContinentIcon = () => {
+                  return (
+                    <div className="w-28 h-28 mx-auto mb-3 flex items-center justify-center">
+                      <svg viewBox="0 0 200 150" className="w-full h-full fill-black dark:fill-white">
+                        {region === 'EUROPE' && (
+                          <path d="M20,80 L30,70 L40,75 L50,65 L60,70 L70,60 L80,65 L90,55 L100,60 L110,70 L120,65 L130,75 L140,70 L150,80 L145,95 L140,105 L130,100 L120,110 L110,105 L100,115 L90,110 L80,120 L70,115 L60,125 L50,120 L40,130 L30,125 L25,115 L22,95 Z"/>
+                        )}
+                        {region === 'ASIA' && (
+                          <path d="M10,50 L25,45 L40,40 L55,42 L70,38 L85,40 L100,45 L115,42 L130,48 L140,50 L145,65 L140,80 L135,90 L130,95 L125,92 L115,98 L105,95 L95,100 L85,98 L75,102 L65,98 L55,100 L45,95 L35,90 L30,75 L25,60 L15,55 Z"/>
+                        )}
+                        {region === 'AFRICA' && (
+                          <path d="M50,5 L60,3 L70,5 L75,20 L78,35 L80,50 L78,65 L75,80 L72,95 L70,105 L65,110 L60,108 L55,100 L52,85 L50,70 L48,55 L47,40 L48,25 L49,15 Z"/>
+                        )}
+                        {region === 'NORTH_AMERICA' && (
+                          <path d="M15,30 L25,28 L35,30 L45,32 L55,35 L65,38 L75,42 L85,45 L90,55 L88,65 L85,75 L82,85 L78,92 L72,95 L65,92 L55,88 L45,85 L35,82 L28,78 L22,70 L18,60 L15,50 L14,40 Z"/>
+                        )}
+                        {region === 'SOUTH_AMERICA' && (
+                          <path d="M60,5 L70,8 L75,20 L78,35 L80,50 L78,65 L75,80 L72,95 L70,105 L68,112 L65,115 L62,110 L60,100 L58,85 L57,70 L56,55 L57,40 L58,25 L59,15 Z"/>
+                        )}
+                        {region === 'OCEANIA' && (
+                          <path d="M30,80 L50,75 L70,80 L90,85 L110,82 L130,85 L140,90 L135,100 L125,105 L110,100 L95,98 L80,95 L65,92 L50,88 L40,90 Z M40,60 L55,58 L65,62 L70,68 L65,72 L55,70 L45,68 Z M90,70 L105,68 L115,72 L120,78 L115,82 L105,80 L95,78 Z"/>
+                        )}
+                      </svg>
+                    </div>
+                  )
+                }
+
                 return (
                   <button
                     key={region}
                     onClick={() => setSelectedRegion(region)}
-                    className="group relative p-6 border-2 rounded-xl hover:border-blue-500 hover:shadow-xl transition-all bg-gradient-to-br from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
+                    className="group relative p-6 border-2 rounded-xl hover:border-blue-500 hover:shadow-xl transition-all bg-gradient-to-br from-white to-gray-50 dark:from-gray-800 dark:to-gray-900 flex flex-col items-center"
                   >
-                    <div className="text-center">
-                      <div className="text-4xl mb-2">
-                        {region === 'EUROPE' && '🇪🇺'}
-                        {region === 'ASIA' && '🌏'}
-                        {region === 'AFRICA' && '🌍'}
-                        {region === 'NORTH_AMERICA' && '🌎'}
-                        {region === 'SOUTH_AMERICA' && '🌎'}
-                        {region === 'OCEANIA' && '🌏'}
-                      </div>
-                      <div className="text-xl font-bold mb-1">{REGION_NAMES[region] || region}</div>
-                      <div className="text-sm text-muted-foreground">
-                        {countries.length} countr{countries.length !== 1 ? 'ies' : 'y'}
-                      </div>
-                      <div className="text-xs text-muted-foreground mt-2">
-                        {countries.reduce((sum, c) => sum + c.airports.length, 0)} airports
-                      </div>
+                    {getContinentIcon()}
+                    <div className="text-xl font-bold mb-1">{REGION_NAMES[region] || region}</div>
+                    <div className="text-sm text-muted-foreground">
+                      {countries.length} countr{countries.length !== 1 ? 'ies' : 'y'}
+                    </div>
+                    <div className="text-xs text-muted-foreground mt-2">
+                      {countries.reduce((sum, c) => sum + c.airports.length, 0)} airports
                     </div>
                     <div className="absolute inset-0 bg-blue-500/0 group-hover:bg-blue-500/5 rounded-xl transition-colors"></div>
                   </button>
