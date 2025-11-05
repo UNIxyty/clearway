@@ -39,7 +39,7 @@ scraper_lock = threading.Lock()
 def get_scraper(country='USA'):
     """Get or create appropriate scraper instance based on country (thread-safe)"""
     global scraper_instances
-    
+
     with scraper_lock:
         if country not in scraper_instances:
             scraper = get_scraper_instance(country)
@@ -48,8 +48,16 @@ def get_scraper(country='USA'):
                 country = 'USA'
                 if country not in scraper_instances:
                     scraper = get_scraper_instance(country)
-            scraper_instances[country] = scraper
-        return scraper_instances.get(country)
+                    if scraper is not None:
+                        scraper_instances[country] = scraper
+            else:
+                scraper_instances[country] = scraper
+
+        result = scraper_instances.get(country)
+        if result is None:
+            logger.error(f"Failed to load scraper for {country}")
+            raise Exception(f"Scraper not available for {country}")
+        return result
 
 def detect_country(airport_code):
     """Detect country from airport code using registry"""
