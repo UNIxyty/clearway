@@ -216,7 +216,7 @@ export default function Home() {
                   disabled={loading}
                 />
                 <Button 
-                  onClick={searchAirport} 
+                  onClick={() => searchAirport()} 
                   disabled={loading || !airportCode.trim()}
                   size="lg"
                   className="px-8"
