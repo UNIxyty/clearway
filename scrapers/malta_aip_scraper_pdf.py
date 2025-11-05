@@ -56,29 +56,24 @@ class MaltaAIPScraperPDF:
         if airport_code not in self.airport_codes:
             return {"error": f"Airport code {airport_code} not found in Malta AIP"}
 
+        # Use the entire PDF text for extraction (Malta AIP typically covers one main airport)
         text = self._extract_text()
 
-        # Find the section for this airport
-        pattern = rf'{airport_code}[\s\S]*?(?=\n[A-Z]{{4}}\s|$)'
-        match = re.search(pattern, text)
-
-        if not match:
-            return {"error": f"Could not find data for {airport_code}"}
-
-        section_text = match.group(0)
+        if not text:
+            return {"error": f"Could not extract text from Malta AIP PDF"}
 
         return {
             'airportCode': airport_code,
-            'airportName': self._extract_airport_name(section_text, airport_code),
-            'contacts': self._extract_contacts(section_text),
-            'adAdministration': self._extract_ad_administration(section_text),
-            'adOperator': self._extract_ad_operator(section_text),
-            'customsAndImmigration': self._extract_customs(section_text),
-            'ats': self._extract_ats(section_text),
-            'operationalRemarks': self._extract_operational_remarks(section_text),
-            'trafficTypes': self._extract_traffic_types(section_text),
-            'administrativeRemarks': self._extract_admin_remarks(section_text),
-            'fireFightingCategory': self._extract_fire_category(section_text)
+            'airportName': self._extract_airport_name(text, airport_code),
+            'contacts': self._extract_contacts(text),
+            'adAdministration': self._extract_ad_administration(text),
+            'adOperator': self._extract_ad_operator(text),
+            'customsAndImmigration': self._extract_customs(text),
+            'ats': self._extract_ats(text),
+            'operationalRemarks': self._extract_operational_remarks(text),
+            'trafficTypes': self._extract_traffic_types(text),
+            'administrativeRemarks': self._extract_admin_remarks(text),
+            'fireFightingCategory': self._extract_fire_category(text)
         }
 
     def _extract_airport_name(self, text: str, code: str) -> str:
@@ -131,33 +126,32 @@ class MaltaAIPScraperPDF:
 
     def _extract_ad_administration(self, text: str) -> str:
         """Extract AD Administration operational hours"""
-        # Look in operational hours section
+        # Malta format: "1 AD Administration Malta International Airport\nMON – FRI: 0800 LT – 1700 LT"
         patterns = [
-            r'AD\s*Administration[:\s]+Malta\s*International\s*Airport\s*([^\n]+)',
-            r'AD\s*Administration[:\s]+(H24|NIL|[\d:]+\s*[-–]\s*[\d:]+)',
+            r'1\s+AD\s*Administration[^\n]*\n([^\n]+)',
+            r'AD\s*Administration[:\s]+([^\n]+)',
         ]
 
         for pattern in patterns:
             match = re.search(pattern, text, re.IGNORECASE | re.MULTILINE)
             if match:
                 hours = match.group(1).strip()
-                # Check if it contains time range or H24
                 if 'H24' in hours:
                     return 'H24'
-                elif any(day in hours for day in ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN']):
+                elif 'MON' in hours or 'TUE' in hours or 'FRI' in hours:
                     return hours
-                elif 'NIL' in hours:
+                elif 'NIL' in hours.upper():
                     return 'NIL'
-                # Check for specific time format in next lines
                 return hours
 
         return 'NIL'
 
     def _extract_ad_operator(self, text: str) -> str:
         """Extract AD Operator operational hours"""
+        # Malta format: "Aerodrome Duty Officer: H24" or "Operations Duty Officer: H24"
         patterns = [
-            r'Aerodrome\s*Duty\s*Officer[:\s]+(H24|[\d:]+)',
-            r'Operations\s*Duty\s*Officer[:\s]+(H24|[\d:]+)',
+            r'Aerodrome\s+Duty\s+Officer:\s*(H24|[\d:]+[^\n]*)',
+            r'Operations\s+Duty\s+Officer:\s*(H24|[\d:]+[^\n]*)',
             r'AD\s*Operator[:\s]+(H24|NIL)',
         ]
 
@@ -170,18 +164,25 @@ class MaltaAIPScraperPDF:
 
     def _extract_customs(self, text: str) -> str:
         """Extract Customs and Immigration hours"""
-        pattern = r'Customs\s*and\s*Immigration[:\s]+(H24|NIL|On\s*request|[\d:]+)'
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            return match.group(1).strip()
+        # Malta format: "2 Customs and Immigration H24"
+        patterns = [
+            r'2\s+Customs\s+and\s+Immigration\s+(H24|NIL|On\s*request|[\d:]+[^\n]*)',
+            r'Customs\s+and\s+Immigration\s+(H24|NIL|On\s*request|[\d:]+[^\n]*)',
+        ]
+        for pattern in patterns:
+            match = re.search(pattern, text, re.IGNORECASE)
+            if match:
+                return match.group(1).strip()
         return 'NIL'
 
     def _extract_ats(self, text: str) -> str:
         """Extract ATS operational hours"""
-        # Look for ATS in operational hours table
+        # Malta format: "5 ATS Reporting Office (ARO) H24" or "7ATS H24"
         patterns = [
-            r'(?:^|\n)\s*\d+\s+ATS[:\s]+(H24|NIL)',
-            r'ATS\s*Reporting\s*Office.*?[:\s]+(H24|NIL)',
+            r'[57]\s*ATS\s+Reporting\s+Office[^\n]*(H24|NIL)',
+            r'7\s*A\s*T\s*S\s+(H24|NIL)',
+            r'ATS\s+Reporting\s+Office[^\n]*(H24|NIL)',
+            r'[57]A\s*T\s*S\s+(H24|NIL)',
         ]
 
         for pattern in patterns:
@@ -193,10 +194,10 @@ class MaltaAIPScraperPDF:
 
     def _extract_operational_remarks(self, text: str) -> str:
         """Extract operational remarks"""
-        # Look for remarks in operational hours section
+        # Malta format: "11 Remarks Nil" in AD 2.3 section
         patterns = [
-            r'(?:Operational\s*)?Remarks[:\s]+((?:(?!AD\s*2\.\d).)+)',
-            r'\d+\s+Remarks[:\s]+(Nil|NIL|[^\n]+)',
+            r'11\s+Remarks\s+(Nil|NIL|[^\n]+?)(?=\n\d+\s+[A-Z]|\nLMML|\n[A-Z]{4}\s+AD|$)',
+            r'AD\s*2\.3[^\n]*\n.*?Remarks[:\s]+(Nil|NIL|[^\n]+)',
         ]
 
         for pattern in patterns:
@@ -204,37 +205,39 @@ class MaltaAIPScraperPDF:
             if match:
                 remarks = match.group(1).strip()
                 if remarks and remarks.lower() not in ['nil', 'none']:
-                    # Clean up remarks
-                    remarks = re.sub(r'\s+', ' ', remarks)
                     return remarks[:200]
 
         return 'NIL'
 
     def _extract_traffic_types(self, text: str) -> str:
         """Extract types of traffic permitted"""
-        pattern = r'Types?\s*of\s*traffic\s*permitted.*?[:\s]+([A-Z/]+)'
-        match = re.search(pattern, text, re.IGNORECASE | re.DOTALL)
-        if match:
-            traffic = match.group(1).strip()
-            # Normalize format
-            if 'IFR' in traffic and 'VFR' in traffic:
-                return 'IFR/VFR'
-            return traffic
+        # Malta format: "6 Types of traffic perm itted (IFR/VFR) IFR/VFR"
+        patterns = [
+            r'6\s+Types?\s*of\s*traffic\s*perm[^\n]*\)\s*(IFR/VFR|VFR/IFR|IFR|VFR)',
+            r'Types?\s*of\s*traffic\s*permitted[^\n]*\)\s*(IFR/VFR|VFR/IFR|IFR|VFR)',
+            r'Types?\s*of\s*traffic\s*permitted[^\n]*(IFR/VFR|VFR/IFR)',
+        ]
+        for pattern in patterns:
+            match = re.search(pattern, text, re.IGNORECASE)
+            if match:
+                return match.group(1).strip()
         return 'Not specified'
 
     def _extract_admin_remarks(self, text: str) -> str:
         """Extract administrative remarks"""
-        # Look for remarks after geographical data section
-        pattern = r'Remarks[:\s]+((?:(?!AD\s*2\.\d).)+)'
-        matches = re.findall(pattern, text, re.IGNORECASE | re.DOTALL)
+        # Malta format: "7 Remarks Airport Operator Website: www.maltairport.com"
+        patterns = [
+            r'7\s+Remarks\s+([^\n]+?)(?=\n[A-Z]{4}\s+AD|12\s+JUN|\d{2}\s+[A-Z]{3}|$)',
+            r'AD\s*2\.2[^\n]*\n.*?Remarks[:\s]+([^\n]+)',
+        ]
 
-        for match in matches:
-            remarks = match.strip()
-            if remarks and remarks.lower() not in ['nil', 'none']:
-                # Clean up
+        for pattern in patterns:
+            match = re.search(pattern, text, re.IGNORECASE | re.DOTALL)
+            if match:
+                remarks = match.group(1).strip()
                 remarks = re.sub(r'\s+', ' ', remarks)
-                # Get first sentence or 200 chars
-                return remarks[:200]
+                if remarks and remarks.lower() not in ['nil', 'none']:
+                    return remarks[:200]
 
         return 'NIL'
 
