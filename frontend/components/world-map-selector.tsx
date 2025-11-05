@@ -248,8 +248,8 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
       </Button>
 
       <Dialog open={open} onOpenChange={setOpen}>
-        <DialogContent className={`max-w-7xl w-[95vw] ${selectedRegion ? 'h-[90vh] flex flex-col' : 'max-h-[95vh] overflow-y-auto'}`}>
-          <DialogHeader>
+        <DialogContent className={`max-w-7xl w-[95vw] ${selectedRegion ? 'h-[90vh]' : 'max-h-[95vh]'} flex flex-col`}>
+          <DialogHeader className="flex-shrink-0">
             <DialogTitle className="flex items-center gap-2 text-2xl">
               <MapPin className="h-6 w-6" />
               Browse Airports by Region
@@ -259,23 +259,24 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
             </DialogDescription>
           </DialogHeader>
 
-          {loading ? (
-            <div className="flex items-center justify-center py-12">
-              <div className="text-center">
-                <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-                <p className="text-muted-foreground">Loading airport data...</p>
+          <div className="flex-1 min-h-0 overflow-hidden flex flex-col">
+            {loading ? (
+              <div className="flex items-center justify-center py-12">
+                <div className="text-center">
+                  <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+                  <p className="text-muted-foreground">Loading airport data...</p>
+                </div>
               </div>
-            </div>
-          ) : selectedRegion ? (
-            <div className="flex flex-col flex-1 min-h-0">
-              <Button
-                variant="ghost"
-                onClick={() => setSelectedRegion(null)}
-                className="mb-4"
-              >
-                ← Back to Regions
-              </Button>
-              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 overflow-y-auto flex-1">
+            ) : selectedRegion ? (
+              <div className="flex flex-col flex-1 min-h-0">
+                <Button
+                  variant="ghost"
+                  onClick={() => setSelectedRegion(null)}
+                  className="mb-4 flex-shrink-0"
+                >
+                  ← Back to Regions
+                </Button>
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 overflow-y-auto flex-1 pb-4">
                 {getCountriesByRegion(selectedRegion).map((country) => (
                   <div
                     key={country.prefix}
@@ -319,10 +320,10 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
                     </div>
                   </div>
                 ))}
+                </div>
               </div>
-            </div>
-          ) : (
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-6 py-4">
+            ) : (
+              <div className="grid grid-cols-2 md:grid-cols-3 gap-6 py-4 overflow-y-auto">
               {regions.map((region) => {
                 const countries = getCountriesByRegion(region)
                 if (countries.length === 0) return null
@@ -354,8 +355,9 @@ export function WorldMapSelector({ onAirportSelect }: WorldMapSelectorProps) {
                   </button>
                 )
               })}
-            </div>
-          )}
+              </div>
+            )}
+          </div>
         </DialogContent>
       </Dialog>
     </>
