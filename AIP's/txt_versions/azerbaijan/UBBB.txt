@@ -1,0 +1,1402 @@
+=== Page 1 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 1
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+AD 2 UBBB
+UBBB AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+UBBB - HEYDAR ALIYEV INTERNATIONAL AIRPORT
+UBBB AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 ARP coordinates and site at AD 402811N 0500305E
+1200 M abeam center line RWY 16/34 to East from point 1300 M northern
+THR 34
+2 Direction and distance from (city) 20.0 KM (10.8 NM) NE of Baku
+3 Elevation/Reference temperature Elev: 11 FT (3 M) / T: 13.5° C
+4 Geoid undulation at AD ELEV PSN -60 FT (-18 M)
+5 MAG VAR/Annual change 6° E ( 2025)/0.06° increasing
+6 AD Administration, address, telephone,
+telefax, telex, AFS
+Heydar Aliyev International Airport AZ 1044 Baku Azerbaijan
+Tel: (99412) 4972765, 4972625
+Fax: (99412) 4972604
+7 Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Remarks NIL
+UBBB AD 2.3 OPERATIONAL HOURS
+1 AD Administration MON-FRI 0500-1400 UTC SAT 0600-1100 UTC HOL 0600-1100 UTC
+SUN 0600-1100 UTC
+2 Customs and immigration H24
+3 Health and sanitation H24
+4 AIS Briefing Office H24
+5 ATS Reporting Office (ARO) H24
+6 MET Briefing Office H24
+7 ATS H24
+8 Fuelling H24
+9 Handling H24
+10 Security H24
+11 De-icing H24
+12 Remarks NIL
+UBBB AD 2.4 HANDLING SERVICES ANDFACILITIES
+1 Cargo-handling facilities Modern facilities handling weights up to 2,5 tonnes
+2 Fuel/oil types Fuel : TS1 (equivalent Jet A-1)
+Oil : MP-8, SN-45, TN-321
+3 Fuelling facilities/capacity Available without limitation
+4 De-icing facilities De-icing unit with aircraft chemical
+5 Hangar space for visiting aircraft NIL
+6 Repair facilities for visiting aircraft Major and minor repairs at aircraft repair base
+7 Remarks NIL
+UBBB AD 2.5 PASSENGER FACILITIES
+1 Hotels Near AD and in the city.
+2 Restaurants At AD and in the city.
+3 Transportation Taxies H24. Route taxies, buses.
+4 Medical facilities First aid at AD. Hospitals in the city.
+5 Bank and Post Office At AD and in the city.
+6 Tourist Office In the city.
+7 Remarks NIL
+
+=== Page 2 ===
+AD 2 UBBB - 2
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+UBBB AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 AD category for fire fighting CAT 9
+2 Rescue equipment 5 Fire fighting trucks,
+1 Quick response vehicle,
+3 Water tanker truck 30 t
+3 Capability for removal of disabled aircraft Disabled aircarft removal facilitation is available for 4F category aircraft
+4 Remarks Responsible coordinator for removal of disabled aircraft:
+Tel: (99412) 4972889
+E-mail: director@airport.az
+UBBB AD 2.7 SEASONAL AVAILABILITY
+1 Types of clearing equipment  Snow Blower;  Snow Ploughs.
+2 Clearance priorities
+1. RWY 17/35 and associated TWY to Apron
+2. RWY 16/34 and TWY to Apron
+3. Other TWY and ACFT stands
+3 Remarks NIL
+UBBB AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface Strength
+Concrete PCN 150/F/A/W/T
+2 Taxiway width, surface and strength TWY ID Width (M) Surface Strength
+TWY D 23 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY E 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY E1 23 M Concrete and
+asphalt
+PCN 75/R/B/X/T
+TWY E2 15 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY G 23 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY H 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY H1 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY H2 23 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY H3 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY H4 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY J 25 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY J1 23 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY K 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY K1 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY K2 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+
+=== Page 3 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 3
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+TWY ID Width (M) Surface Strength
+TWY L 25 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY M 25 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY M1 23 M Concrete and
+asphalt
+PCN 75/R/B/X/T
+TWY M2 23 M Concrete and
+asphalt
+PCN 75/R/B/X/T
+TWY N 23 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY N1 23 M Concrete and
+asphalt
+PCN 75/R/B/X/T
+TWY N2 15 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY P 23 M Concrete and
+asphalt
+PCN 50/R/B/X/T
+TWY R 25 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+TWY S 23 M Concrete and
+asphalt
+PCN 75/F/B/W/T
+TWY S1 15 M Concrete and
+asphalt
+PCN 75/F/B/W/T
+TWY S2 15 M Concrete and
+asphalt
+PCN 75/F/B/W/T
+TWY S3 15 M Concrete and
+asphalt
+PCN 75/F/B/W/T
+TWY S4 15 M Concrete and
+asphalt
+PCN 75/F/B/W/T
+TWY S5 15 M Concrete and
+asphalt
+PCN 75/F/B/W/T
+TWY T 23 M Concrete and
+asphalt
+PCN 150/F/B/W/T
+3 Altimeter checkpoint location and elevation Nil
+4 VOR/INS checkpoints VOR: Nil
+INS: Nil
+5 Remarks NIL
+UBBB AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs, TWY guide
+lines and visual docking/parking guidance
+system of aircraft stands
+Sign boards during taxing at all intersections with TWY and at all holding
+PSN.
+Guide lines at Apron.
+Nose-in guidance at aircraft stands.
+See UBBB AD 2.24.3-1
+2 RWY and TWY markings and LGT RWYs: Designation, ID, THR, TDZ, RCL, Side strips, Aiming point,
+RWY edge, RWY end marked and lighted.
+TWYs: Centre line, Holding PSN, Edge marked and lighted (See UBBB
+AD 2.15)
+3 Stop bars See UBBB AD 2.24.1-1
+4 Remarks NIL
+UBBB AD 2.10 AERODROME OBSTACLES
+
+=== Page 4 ===
+AD 2 UBBB - 4
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+In approach/TKOF areas
+RWY NR/Area affected Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c d
+34/APCH Power Line
+Elev: 79 FT (24 M)
+402615.8N
+0500251.5E
+Nil
+34/APCH Power Line
+Elev: 79 FT (24 M)
+402617.7N
+0500247.4E
+Nil
+34/APCH Power Line
+Elev: 118 FT (36 M)
+402539.4N
+0500245.1E
+Nil
+34/APCH Power Line
+Elev: 43 FT (13 M)
+402617.8N
+0500245.5E
+Nil
+34/APCH Power Line
+Elev: 79 FT (24 M)
+402617.3N
+0500254.9E
+Nil
+34/APCH Power Line
+Elev: 66 FT (20 M)
+402616.6N
+0500254.0E
+Nil
+34/APCH Power Line
+Elev: 120 FT (36.5 M)
+402604.0N
+0500240.2E
+Nil
+34/APCH Power Line
+Elev: 82 FT (25 M)
+402614.7N
+0500251.0E
+Nil
+34/APCH Power Line
+Elev: 49 FT (15 M)
+402619.8N
+0500242.5E
+Nil
+34/APCH Power Line
+Elev: 46 FT (14 M)
+402616.3N
+0500239.2E
+Nil
+17/APCH LLZ Antenna
+Elev: 23 FT (7 M) 
+Lighted
+LGT
+402925.1N
+0500345.8E
+Nil
+35/APCH Antenna
+Elev: 16 FT (5 M)
+402715.2N
+0500347.8E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402706.8N
+0500342.7E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402707.4N
+0500343.7E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402708.0N
+0500344.8E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402708.5N
+0500345.8E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402709.1N
+0500346.9E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402709.6N
+0500347.9E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402710.1N
+0500348.7E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402710.7N
+0500349.8E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402711.3N
+0500350.8E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402711.8N
+0500351.9E
+Nil
+35/APCH Lantern
+Elev: 30 FT (9 M)
+402712.4N
+0500353.0E
+Nil
+34/APCH Lantern 402638.1N Nil
+
+=== Page 5 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 5
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+In approach/TKOF areas
+RWY NR/Area affected Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c d
+Elev: 36 FT (11 M) 0500249.7E
+34/APCH Lantern
+Elev: 36 FT (11 M)
+402637.5N
+0500248.5E
+Nil
+34/APCH Lantern
+Elev: 36 FT (11 M)
+402636.9N
+0500247.3E
+Nil
+34/APCH Lantern
+Elev: 36 FT (11 M)
+402636.2N
+0500246.0E
+Nil
+34/APCH Lantern
+Elev: 36 FT (11 M)
+402635.5N
+0500244.8E
+Nil
+34/APCH Lantern
+Elev: 36 FT (11 M)
+402634.9N
+0500243.6E
+Nil
+34/APCH Lantern
+Elev: 36 FT (11 M)
+402634.2N
+0500242.4E
+Nil
+34/APCH Lantern
+Elev: 36 FT (11 M)
+402633.6N
+0500241.2E
+Nil
+34/APCH Power Line
+Elev: 79 FT (24 M)
+402619.9N
+0500242.4E
+Nil
+34/APCH Power Line
+Elev: 69 FT (21 M)
+402612.9N
+0500249.5E
+Nil
+16/TKOF Power Line
+Elev: 79 FT (24 M)
+402615.8N
+0500251.5E
+Nil
+16/TKOF Power Line
+Elev: 69 FT (21 M)
+402612.9N
+0500249.5E
+Nil
+16/TKOF Power Line
+Elev: 118 FT (36 M)
+402539.4N
+0500245.1E
+Nil
+16/TKOF Power Line
+Elev: 43 FT (13 M)
+402617.8N
+0500245.5E
+Nil
+16/TKOF Power Line
+Elev: 79 FT (24 M)
+402617.3N
+0500254.9E
+Nil
+16/TKOF Power Line
+Elev: 66 FT (20 M)
+402616.6N
+0500254.0E
+Nil
+16/TKOF Power Line
+Elev: 120 FT (36.5 M)
+402604.0N
+0500240.2E
+Nil
+16/TKOF Power Line
+Elev: 82 FT (25 M)
+402614.7N
+0500251.0E
+Nil
+16/TKOF Power Line
+Elev: 49 FT (15 M)
+402619.8N
+0500242.5E
+Nil
+16/TKOF Power Line
+Elev: 46 FT (14 M)
+402616.3N
+0500239.2E
+Nil
+35/TKOF LLZ Antenna
+Elev: 23 FT (7 M) 
+Lighted
+LGT
+402925.1N
+0500345.8E
+Nil
+17/TKOF Antenna
+Elev: 16 FT (5 M)
+402715.2N
+0500347.8E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402706.8N
+0500342.7E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402707.4N
+0500343.7E
+Nil
+
+=== Page 6 ===
+AD 2 UBBB - 6
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+In approach/TKOF areas
+RWY NR/Area affected Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c d
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402708.0N
+0500344.8E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402708.5N
+0500345.8E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402709.1N
+0500346.9E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402709.6N
+0500347.9E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402710.1N
+0500348.7E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402710.7N
+0500349.8E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402711.3N
+0500350.8E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402711.8N
+0500351.9E
+Nil
+17/TKOF Lantern
+Elev: 30 FT (9 M)
+402712.4N
+0500353.0E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402638.1N
+0500249.7E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402637.5N
+0500248.5E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402636.9N
+0500247.3E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402636.2N
+0500246.0E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402635.5N
+0500244.8E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402634.9N
+0500243.6E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402634.2N
+0500242.4E
+Nil
+16/TKOF Lantern
+Elev: 36 FT (11 M)
+402633.6N
+0500241.2E
+Nil
+16/TKOF Power Line
+Elev: 79 FT (24 M)
+402619.9N
+0500242.4E
+Nil
+16/TKOF Power Line
+Elev: 79 FT (24 M)
+402617.7N
+0500247.4E
+Nil
+In circling area and at AD
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c
+Chimney
+Elev: 329 FT (100.4 M) 
+Lighted
+LGTD
+402220.4N
+0495521.2E
+Nil
+Chimney
+Elev: 571 FT (174.1 M) 
+402320.0N
+0495843.0E
+Nil
+
+=== Page 7 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 7
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+In circling area and at AD
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c
+Lighted
+LGTD
+Power Line
+Elev: 171 FT (52.2 M)
+403014.5N
+0500609.3E
+Nil
+Tower
+Elev: 1514 FT (461.6 M) 
+Lighted
+LGTD
+402105.2N
+0494924.2E
+Nil
+Mast
+Elev: 701 FT (213.8 M) 
+Lighted
+402348.3N
+0495053.1E
+Nil
+Building
+Elev: 627 FT (191.1 M)
+402311.9N
+0495909.4E
+Nil
+Mosque
+Elev: 122 FT (37.3 M) 
+Lighted
+402733.1N
+0500313.2E
+Nil
+Radar Tower
+Elev: 74 FT (22.5 M)
+402825.0N
+0500314.0E
+Nil
+Terminal
+Elev: 171 FT (52 M) 
+Lighted
+402745.3N
+0500259.2E
+Nil
+Tower
+Elev: 183 FT (55.8 M)
+403001.1N
+0500441.5E
+Nil
+Tower
+Elev: 246 FT (74.9 M)
+402718.9N
+0495936.6E
+Nil
+Tower
+Elev: 282 FT (85.9 M)
+402603.1N
+0500110.4E
+Nil
+Tower
+Elev: 345 FT (105.1 M)
+402436.1N
+0500132.1E
+Nil
+Tower
+Elev: 354 FT (108 M)
+402515.9N
+0500135.1E
+Nil
+Tower
+Elev: 375 FT (114.4 M)
+402613.2N
+0500040.3E
+Nil
+NOTE: Pilots are advised to consult latest NOTAM and AIP SUP on any other impending obstacle. 
+UBBB AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office Baku
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Period of validity
+Baku
+24 HR
+4 Tred forecast
+Interval of issuance
+TR
+0.5 HR
+5 Briefing/consultation provided Personal consultation. Packet of documents.
+6 Flight documentation
+Language(s) used
+Charts, OPMET
+Eng, Aze, Rus
+7 Charts and other information available for
+briefing or consultation
+S, U 85, U 70, U 50, U 30, U 20, P 85, P 70, P 50, P 40, P 30, P 20, SWH, SWM, T.
+MET SAT
+
+=== Page 8 ===
+AD 2 UBBB - 8
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+8 Supplementary equipment available for
+providing information
+SADIS FTP, AWOS, Weather Radar, TECHNA VIA Satellite system,
+AMHS, D-ATIS, D-VOLMET, AFTN
+9 ATS units provided with information Baku TWR, Baku APP, Baku ACC, Baku Briefing
+10 Additional information (limitation of ser-
+vice, etc.)
+Area forecasts for low-level flights: GAMET and AIRMET (UBTT Zabrat
+Met office is responsible for preparation and distribution of GAMET and
+AIRMET)
+UBBB AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY
+NR
+TRUE BRG Dimension
+of RWY (M)
+Strength (PCN)
+and surface of RWY
+THR coordinates
+RWY end co-
+ordinates
+THR GUND
+THR elevation and
+highest elevation
+of TDZ of preci-
+sion APP RWY
+1 2 3 4 5 6
+16 166.5 4000 x 60
+PCN 150/F/B/W/T
+Concrete and asphalt
+402927.55N
+0500149.49E
+402721.28N
+0500229.16E
+-
+THR 3 FT (1 M)
+TDZ 4 FT (1 M)
+34 346.51 4000 x 60
+PCN 150/F/B/W/T
+Concrete and asphalt
+402721.28N
+0500229.16E
+402927.55N
+0500149.49E
+-
+THR -16 FT (-5 M)
+TDZ -15 FT (-5 M)
+17 179.34 3200 x 45
+PCN 150/F/B/W/T
+Concrete and asphalt
+402907.05N
+0500346.11E
+402723.28N
+0500347.67E
+-61 FT (-18.6 M)
+THR 11 FT (3 M)
+TDZ 11 FT (3 M)
+35 359.34 3200 x 45
+PCN 150/F/B/W/T
+Concrete and asphalt
+402727.66N
+0500347.61E
+402907.05N
+0500346.11E
+-61 FT (-18.6 M)
+THR -13 FT (-4 M)
+TDZ -11 FT (-3 M)
+Slope OF 
+RWY and SWY
+SWY
+dimensions (M)
+CWY
+dimensions (M)
+Strip
+dimensions (M)
+RESA dimen-
+sions (M) OBST free zone
+7 8 9 10 11 12
+For Rwy
+16: -0.17% 90 x 75 600 x 160 4300 x 300 120 x 120 As specified
+in Annex 14.
+For Rwy
+34: +0.17% 90 x 75 600 x 160 4300 x 300 120 x 120 As specified
+in Annex 14.
+For Rwy
+17: -0.23% Nil Nil 3395 x 300 120 x 90 As specified
+in Annex 14.
+For Rwy
+35: +0.23% 75 x 60 400 x 160 3395 x 300 120 x 90 As specified
+in Annex 14.
+UBBB AD 2.13 DECLARED DISTANCES
+RWY Designator TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+16 4000 4600 4090 4000 Nil
+34 4000 4600 4090 4000 Nil
+17 3200 3200 3200 3200 Nil
+35 3200 3600 3275 3065 Nil
+16 2400 3000 2490 NU Take-off from inter-
+section with TWY L
+
+=== Page 9 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 9
+31 OCT 2024
+State Civil Aviation Agency AIRAC AMDT 03/24
+16 1350 1950 1440 NU Take-off from inter-
+section with TWY J
+34 1600 2200 1690 NU Take-off from inter-
+section with TWY L
+34 2650 3250 2740 NU Take-off from inter-
+section with TWY J
+17 2140 2140 2140 NU Take-off from inter-
+section with TWY H1
+35 2140 2540 2215 NU Take-off from inter-
+section with TWY H2
+35 2540 2940 2615 NU Take-off from inter-
+section with TWY H3
+35 2960 3360 3035 NU Take-off from inter-
+section with TWY H4
+35 2700 3100 2775 NU Take-off from inter-
+section with TWY T
+UBBB AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+P API
+TDZ,
+LGT
+LEN
+RWY Cen-
+tre Line
+LGT Length,
+spacing,
+colour,
+INTST
+RWY edge
+LGT LEN,
+spacing
+colour
+INTST
+RWY End
+LGT colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+REMARKS
+1 2 3 4 5 6 7 8 9 10
+16 CAT III
+900 M
+LIH
+Green PAPI
+3°
+70 FT
+White
+900 M
+4000 M,
+15 M
+White
+From 3100
+M to 3700 M
+- red/white
+From 3700
+M to 4000
+M - red
+LIH
+4000 M
+spacing 60
+M white,
+last 600
+M yellow
+LIH
+Red Red
+90
+Nil
+34 CAT III
+900 M
+LIH
+Green PAPI
+3°
+66 FT
+White
+900 M
+4000 M,
+15 M
+White
+From 3100
+M to 3700 M
+- red/white
+From 3700
+M to 4000
+M - red
+LIH
+4000 M
+spacing 60
+M white,
+last 600
+M yellow
+LIH
+Red Red
+90
+Nil
+
+=== Page 10 ===
+AD 2 UBBB - 10
+31 OCT 2024
+AIP
+AZERBAIJAN
+AIRAC AMDT 03/24 State Civil Aviation Agency
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+P API
+TDZ,
+LGT
+LEN
+RWY Cen-
+tre Line
+LGT Length,
+spacing,
+colour,
+INTST
+RWY edge
+LGT LEN,
+spacing
+colour
+INTST
+RWY End
+LGT colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+REMARKS
+1 2 3 4 5 6 7 8 9 10
+17 CAT III
+900 M
+LIH
+Green PAPI
+3°
+73 FT
+White
+915 M
+3200 M,
+15 M
+White
+From 2300
+M to 2900 M
+- red/white
+From 2900
+M to 3200
+M - red
+LIH
+3200 M
+spacing 60
+M white,
+last 638
+M yellow
+LIH
+Red Nil Nil
+35 CAT III
+900 M
+LIH
+Green PAPI
+3°
+66 FT
+White
+915 M
+3200 M,
+15 M
+White
+From 2300
+M to 2900 M
+- red/white
+From 2900
+M to 3200
+M - red
+LIH
+3200 M
+spacing 60
+M white,
+last 645
+M yellow
+LIH
+Red Red
+75
+Nil
+UBBB AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 ABN/IBN location, characteristics and
+hours of operation
+Nil
+2 LDI location and LGT
+Anamometer location and LGT
+LDI: NIL
+Anemometer: NIL
+3 TWY adge and centre line lighting Taxiway Edge: TWY H4
+Taxiway Edge: TWY H3
+Taxiway Edge: TWY K1
+Taxiway Edge: TWY K2
+Taxiway Edge: TWY H2
+Taxiway Edge: TWY H1
+Taxiway Edge: TWY H
+Taxiway Edge: TWY D
+Taxiway Edge: TWY E
+Taxiway Edge: TWY G
+Taxiway Edge: TWY J
+Taxiway Edge: TWY L
+Taxiway Edge: TWY M
+Taxiway Edge: TWY N
+Taxiway Edge: TWY P
+
+=== Page 11 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 11
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+Taxiway Edge: TWY S
+Taxiway Edge: TWY T
+Taxiway Edge: TWY N2
+Taxiway Edge: TWY K
+Taxiway centre line: TWY H4
+Taxiway centre line: TWY H3
+Taxiway centre line: TWY K1
+Taxiway centre line: TWY K2
+Taxiway centre line: TWY H2
+Taxiway centre line: TWY H1
+Taxiway centre line: TWY H
+Taxiway centre line: TWY G
+Taxiway centre line: TWY D
+Taxiway centre line: TWY S
+Taxiway centre line: TWY P
+Taxiway centre line: TWY N
+Taxiway centre line: TWY M
+Taxiway centre line: TWY L
+Taxiway centre line: TWY J
+Taxiway centre line: TWY E
+4 Secondary power supply/switch-over time Secondary power supply to all lighting at AD.
+Switch-over time: 1 SEC
+5 Remarks NIL
+UBBB AD 2.16 HELICOPTER LANDING AREA
+1 Coordinates TLOF or THR of F ATO
+Geoid undulation
+Nil
+2 TLOF and/or F ATO elevation M/FT Nil
+3 TLOF and F ATO area dimensions, surface,
+strength, marking
+Nil
+4 True BRG of F ATO NIL
+5 Declared distance available Nil
+6 APP and F ATO lighting Nil
+7 Remarks Take off and landing of helicopters is cleared in any part of RWY 16/34
+and RWY 17/35
+UBBB AD 2.17 ATS AIRSPACE
+1 Designation and lateral limits Baku CTR
+Area bounded by lines joining points 403230N/0495630E;
+403616N/0495942E; 403607N/0500346E; 403430N/0500656E;
+402100N/0500656E; 402032N/0500433E; 402027N/0500348E;
+402100N/0500056E; 402500N/0500030E to point of origin.
+2 Vertical limits GND to 2000 FT AMSL
+3 Airspace classification Class C
+4 ATS unit call sign
+Language(s)
+Baku Tower, English
+5 Transition altitude 9000 FT (2743 M) MSL
+6 Hours of abblicability Nil
+7 Remarks Nil
+UBBB AD 2.18 ATS COMMUNICATION FACILITIES
+Taxiway centre line: TWY N2
+
+=== Page 12 ===
+AD 2 UBBB - 12
+04 SEP 2025
+AIP
+AZERBAIJANAIRAC AMD
+T 02/25 State Civil Aviation Agency
+Service
+designation Call sign Frequency Hours of operation Remarks
+1 2 3 4 5
+APP Baku Arr/Dep 129.300 MHZ
+120.800 MHZ H24 ENG
+ATIS Baku ATIS 126.800 MHZ H24 ENG
+GND Baku Ground 135.100 MHZ
+121.700 MHZ
+H24 ENG
+DLV Baku Delivery 135.700 MHZ
+127.900 MHZ H24 ENG
+TWR Baku Tower 118.100 MHZ
+119.200 MHZ H24 ENG
+UBBB AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+MAG VAR
+CAT of ILS/MLS
+ID Frequency Hours of
+operation
+Site of transmitting
+antenna coordinates
+Elevation of
+DME transmit-
+ting antenna
+Remarks
+1 2 3 4 5 6 7
+DVOR/DME
+(06° E/2020)
+BAK 115.00 MHZ
+CH 97X
+H24 402514.8N
+0500350.3E
+100 FT (30 M) Coverage 200 NM
+LLZ
+ ILS RWY 35
+IBA 109.30 MHZ H24 402925.1N
+0500345.8E
+- 353° MAG, 558
+M from THR 17
+GP 332.00 MHZ H24 - 3˚, RDH 50 FT
+DME IBA CH 30X H24 402738.0N
+0500342.2E
+100 FT (30 M) Coverage 25 NM
+LLZ
+ ILS RWY 16
+IBI 109.50 MHZ H24 402703.8N
+0500234.7E
+- 161˚ MAG, 557
+M from THR 34
+GP 332.60 MHZ H24 402915.0N
+0500146.9E
+- 3˚, RDH 55 FT
+DME IBI CH 32X H24 402915.0N
+0500146.9E
+- Coverage 25 NM
+LLZ
+ ILS RWY 34
+IBN 111.70 MHZ H24 402944.9N
+0500144.0E
+- 341˚ MAG, 554
+M from THR 16
+GP 333.50 MHZ H24 402730.9N
+0500219.6E
+- 3˚, RDH 55 FT
+DME IBN CH 54X H24 402730.9N
+0500219.6E
+- Coverage 25 NM
+LLZ
+ ILS RWY 17
+IBU 110.50 MHZ H24 - 173˚ MAG, 382
+M from THR 35
+GP 329.60 MHZ H24 - 3˚, RDH 50 FT
+DME IBU CH 42X H24 402855.7N
+0500341.6E
+100 FT (30 M) Coverage 25 NM
+UBBB AD 2.20 LOCAL TRAFFIC REGULATIONS
+1 RUN-UP PROCEDURE
+1.1 10 MIN before start up engines contact “Baku-Delivery” on FREQ 135.700 MHz
+1.2 Run-up and full engine thrust are only permitted on a few numbers of stands or at specially assigned places.
+1.3 Permission for engine run-up shall be requested from “Baku Ground” on FREQ 121.700 MHz. Stand number and intended engine power
+thrust should be indicated.
+2 PUSH BACK AND TOW PROCEDURES
+2.1 Clearance for push back or tow may only be requested if airplane is ready to carry out the maneuver.
+402738.5N
+0500342.8E402715.5N
+0500347.8E402856.3N
+0500341.6E
+
+=== Page 13 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 13
+31 OCT 2024
+State Civil Aviation Agency AIRAC AMDT 03/24
+2.2 The clearance for push back or tow shall be requested from “Baku Ground” on FREQ 121.700 MHz.
+2.3 Engines can be started before, during or after push back or tow as specified in instructions of “Baku Ground”. The interphone or hand signal
+system shall be used for communication between signalman and crew.
+3 START – UP PROCEDURE
+3.1 All types of flights shall reguest clearance for engine start-up from “Baku Ground” on FREQ 121.700 MHz.
+3.2 The parking position, QNH value and designator of latest received ATIS broadcast shall be reported in the initial call.
+4 TAXI PROCEDURES
+4.1 Unless otherwise instructed by "Baku Ground", the taxi routes published on chart AD UBBB AD 2.24.3-1 shall be followed.
+4.2 While taxiing, the crew shall observe the area in front of them and take measures to avoid collisions with aircraft, motor vehicles and other
+obstacles.
+4.3 Movement of aircraft on the apron is subject to prior permission from “Baku Ground”. However, “Baku Ground” only provides necessary
+information to maintain an orderly flow of traffic.
+4.4 “Follow me” car is always available by request.
+4.5 The aircraft shall not enter or cross the runway without clearance from the “Baku Tower”.
+4.6 Taxiing from the holding position to line-up and take-off shall be performed only after clearance given by “Baku Tower”.
+5 PARKING POSITION FOR HELICOPTERS
+Helicopters parking position consists of one marked position (H). Helicopters are always directed to the parking positions by signalman.
+6 APRON, TAXIING IN WINTER CONDITIONS
+Taxiways in apron area are not equipped with lights indicating median strip. The taxiing lines may be invisible because of snow. The help of
+«FOLLOW ME» car may be requested from the body managing ground traffic.
+7 HELICOPTER FLIGHTS RESTRICTIONS
+Irregular public air transportation by helicopters is allowed only after obtainment of preliminary permission from International Airport/Heydar
+Aliyev airport administration.
+8 LOW VISIBILITY PROCEDURES
+8.1 Descriptions of facilities
+8.1.1 Runways 17/35 and 16/34 are equipped with ILS suitable for CAT II and CAT III operations and for LVTO.
+8.2 Criteria for the initiation and termination of LVP
+8.2.1 The preparation phase will be implemented when visibility falls below 1000M and/or ceiling is at or below 300FT and CAT II/III operations
+are expected.
+8.2.2 The operation phase will be commenced when the RVR falls to 600M or the ceiling is at or below 200FT.
+8.2.3 LVP will be terminated when RVR is greater than 600M and the ceiling is greater than 200FT and a progressing improvement in these
+conditions is anticipated.
+8.3 Details of runway exits
+8.3.1 Runway exits for RWY17 and RWY35 are equipped with green/yellow coded taxiway centerline lights. On TWYs which are not equipped
+with taxiway centerline lights aircraft will be led by “FOLLOW ME” car.
+8.4 Details of holding pointes to be used
+8.4.1 Departing aircraft are required to use the following CAT II and CAT III holding points:
+• RWY 17 – on TWY H (north), TWY H1 (CAT II/III)
+• RWY 35 – on TWY H (south), TWY H2, TWY H3 or TWY H4 (CAT II/III)
+• RWY 16 – on TWY L (CAT II/III)
+• RWY 34 – on TWY E, TWY J (CAT II/III)
+8.4.2 Intersection take-offs are not permitted.
+8.5 Ground movement restrictions
+
+=== Page 14 ===
+AD 2 UBBB - 14
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+8.5.1 Taxing is restricted to taxiways H, H1, H2, H3 and H4 equipped with centerline lights as indicated on aerodrome chart. On receiving taxi
+clearance aircraft must only proceed when a green centerline path is illuminated.
+8.5.2 Taxing is normally restricted to one aircraft movement at a time while a LVTO is conducted in order to ensure protection of the runway.
+8.5.3 Operation of vehicles on the manoeuvring area is not permitted when LVTO is in progress.
+8.5.4 Persons and vehicles operating on an apron shall be restricted to the essential minimum.
+8.6 Description of LVP
+8.6.1 CAT II/III Approach and Landing:
+a. Pilots will be informed by ATIS or ATC when LVP are in operation.
+b. Aircraft will be vectored to intercept ILS at least 10NM from touchdown.
+c. The localizer 
+sensitive area will be protected when a landing aircraft is within 5NM from touchdown and when aircraft is conducting take
+off. ATC will provide suitable spacing between aircraft on final approach to achieve this objective.
+8.6.2 Low Visibility Take-Off:
+a. Pilots wishing 
+to conduct a guided take off must inform ATC on start up in order to ensure that protection of the localizer sensitive area
+is provided.
+b. Aircraft movements on the apron must only be carried out with the direction of a marshaller.
+8.7 Hot Spot areas
+For hot spot areas see UBBB AD 2.24.1-1, UBBB AD 2.24.3-1, UBBB AD 2.24.3-3.
+8.7.1 Hot Spot 1 (HS1):
+Moving aircraft along the RWY 34 is not in sight by aircraft which is hold on stopbar of TWY L.
+8.7.2 Hot Spot 2 (HS2):
+Intersection of taxiway J and L highly congested area. Remain vigilant to direct signage and pavement markings in the area.
+8.7.3 Hot Spot 3 (HS3):
+There is 
+a vehicle service road at the intersection of E and E1 taxiways. Vehicle traffic is allowed to cross at there location without positive
+ATC control which has led to confusion by pilots in this area as to whether they are allowed to cross or have to stop at these markings.
+8.7.4 Hot Spot 4 (HS4):
+There is 
+a vehicle service road on the taxiway N1. Vehicle traffic is allowed to cross at these location without positive ATC control which has
+led to confusion by pilots in this area as to whether they are allowed to cross or have to stop at these markings.
+8.7.5 Hot Spot 5 and 6 (HS5xHS6):
+There is 
+a vehicle service road at the intersection of taxiway J1. Vehicle traffic is allowed to cross at these location without ATC authorization.
+8.7.6 Hot Spot 7 (HS7):
+An aircraft 
+moving north on TWY H is not in sight of an aircraft moving on TWY J at the intersection with TWY H. Intersection of TWY H
+and TWY J is not visually visible from tower. Intersection of TWY H and TWY J not visible from tower.
+8.7.7 Hot Spot 8 (HS8):
+Intersection of 
+taxiway S and vehicle service road designated as Non-Movement Areas. Vehicle traffic is allowed to cross at these location
+without positive ATC control which has led to confusion by pilots in this area as to whether they are allowed to cross or have to stop at these
+markings.
+9 GROUND SURVEILLANCE - USE OF TRANSPONDERS
+UBBB is equipped with an advanced ground surveillance system A-SMGCS. Operators intending to use the airport ensure that transponders
+are able to operate when their aircraft are on the ground.
+Pilots shall 
+select XPDR or the equivalent according to specific installation, AUTO if available, not OFF or STBY, and the assigned Mode
+A code:
+a. From the request for push back or taxi, whichever is earlier;
+b. After landing, continuously until the aircraft is fully parked on stand. When parked, Mode A code 2000 shall be set before selecting OFF
+or STBY.
+Whenever possible, the aircraft identification (i.e call sign used in flight) shall be entered as from the request for push back or taxi, whichever
+is earlier (through the FMS or the transponder control panel). Pilots shall use the ICAO format for aircraft identification, as entered in item
+7 of the flight plan form.
+8.7.8 Hot Spot 9 (HS9):
+There is 
+a vehicle service road running parallel to taxiway E. Vehicle traffic is allowed to use this road without ATC authorization, and high 
+intensity of vehicle movement may pose a potential hazard to aircraft taxiing on TWY E.
+
+=== Page 15 ===
+AIP
+AZERBAIJAN
+AD 2 UBBB - 15
+31 OCT 2024
+State Civil Aviation Agency AIRAC AMDT 03/24
+To ensure that the performance of systems based on SSR frequencies (incl. airborne ACAS units and SSR radars) is not compromised, ACAS
+shall not be selected before receiving clearance to line up. It should be deselected after vacating the runway.
+Aircraft taxiing without flight plan, shall select Mode A code 2000.
+10 RESTRICTIONS ON TRAFFIC FLOW
+Not applicable
+11 OTHER INFORMATION
+Isolated aircraft parking positions located on TWY L as published on chart UBBB  AD 2.24.1-1.
+UBBB AD 2.21 NOISE ABATEMENT PROCEDURES
+Aircraft types ANTONOV 24, ANTONOV 26 and TUPOLEV 134 are not allowed to land and take off at Heydar Aliyev International Airport
+due to noise abatement, except for ambulance, humanitar, emergency, search and rescue flights.
+Noise abatement procedures are applied by crew of an aircraft with turbo jet engines, if there is no other instructions from air traffic control
+or if is within interests of flight safety.
+After landing between 22:00-06:00 local time on runway 17/35 reverse thrust may be used only in case of idle-running if it is within the interests
+of flight safety.
+Aircraft flights of all types over Baku are prohibited.
+For RWYs 16/34 and 17/35
+Execute Noise Abatement Procedure (NADP-1).
+At or above 800 FT AGL (NADP 1) select VNAV. Verify that climb thrust is set and 
+continue climbing at V2 + 10 to 20 KT until 3000 FT AGL.
+At 3000 FT AGL accelerate and retract SLAT/FLAP on schedule.
+UBBB AD 2.22 FLIGHT PROCEDURES
+1 Procedures for IFR flights within Baku TMA
+1.1 Inbound traffic
+Inbound traffic for Baku shall be flight planed via applicable TMA entry points, such as: - NOBVA, ROPKA, AMOKU, ABROL, MOSUM,
+KUPAT, INSAN, ERLEV.
+1.1.1 Descend planning: Pilots of an aircraft shall plan descent into Baku TMA in accordance with STAR descriptions as published on charts
+UBBB AD 2.24.9-1 through UBBB AD 2.24.9-15, taking into consideration the vertical constrains described on STARs. Actual descent clear-
+ance will be issued by ATS unit.
+1.1.2 Radar vectoring: Radar vectoring is applicable for sequencing and also could be requested by pilot-in-command.
+1.1.3 Speed control: Radar controller may, in order to facilitate radar control or reduce the need for radar vectoring, request an aircraft under
+radar control to adjust their speed in a specified manner. Aircraft may be requested to maintain maximum speed, minimum speed, minimum
+approach speed or specific speed. Specific speed should normally be expressed in multiples of 20 KMH (10 KT) based on indicated air speed
+(IAS) or in multiples of 0,01 Mach when the Mach number technique is used.
+1.1.4 Holdings: Holding patterns are established as published on charts UBBB AD 2.24.9-3, UBBB AD 2. 24.9-7, UBBB AD 2. 24.9-11, UBBB
+AD 2. 24.9-15.
+1.1.5 Point Merge for RWY 34/35 is a linear holding pattern applicable for certain complex air traffic situations. Fuel trip calculation should
+be made according to the revelant national regulations.
+1.2 Outbound traffic
+Outbound traffic from Baku shall be flight planned via applicable SIDs as published on charts UBBB AD 2.24.7-1 through UBBB AD 2.24.7-15
+to significant TMA exit point specified bellow: - EKRAM, BETEK, NAMAS, BAMAK, GILAB, AGDAM, RASAM. Actual climb clearance
+will be issued by ATS unit.
+1.2.1 Unless otherwise instructed aircraft shall establish two-way radio communication with BAKU DEPARTURE on assigned frequency as
+soon as practicable after take-off.
+1.2.2 ATC clearance shall be obtained from “BAKU DELIVERY”.
+1.3 Communication failure
+Aircraft shall adhere to the procedure specified in Annex 2 and DOC 7030.
+
+=== Page 16 ===
+AD 2 UBBB - 16
+31 OCT 2024
+AIP
+AZERBAIJAN
+AIRAC AMDT 03/24 State Civil Aviation Agency
+UBBB AD 2.23 ADDITIONAL INFORMATION
+NIL
+UBBB AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome Chart ICAO UBBB AD 2.24-1-1
+Marking and Lighting AIDS RWY and exit TWY Chart ICAO UBBB AD 2.24-1-3
+Aerodrome Ground Movement
+And Aircraft Parking Chart ICAO UBBB AD 2.24-3-1
+Aerodrome Ground Movement
+And Aircraft Parking Chart ICAO UBBB AD 2.24-3-3
+Aerodrome Obstacle Chart ICAO RWY 16/34 UBBB AD 2.24-4-1
+Aerodrome Obstacle Chart ICAO RWY 17/35 UBBB AD 2.24-4-3
+Precision Approach Terrain Chart ICAO RWY 17/35 UBBB AD 2.24-5-1
+Precision Approach Terrain Chart ICAO RWY 16/34 UBBB AD 2.24-5-3
+RNAV Standard Departure Chart Instrument (SID) RWY 16 UBBB AD 2.24-7-3
+RNAV Standard Departure Chart Instrument (SID) RWY 34 UBBB AD 2.24-7-7
+RNAV Standard Departure Chart Instrument (SID) RWY 17 UBBB AD 2.24-7-11
+RNAV Standard Departure Chart Instrument (SID) RWY 35 UBBB AD 2.24-7-15
+RNAV Standard Arrival Chart Instrument (STAR) RWY 16 UBBB AD 2.24-9-3
+RNAV Standard Arrival Chart Instrument (STAR) RWY 34 UBBB AD 2.24-9-7
+RNAV Standard Arrival Chart Instrument (STAR) RWY 17 UBBB AD 2.24-9-11
+RNAV Standard Arrival Chart Instrument (STAR) RWY 35 UBBB AD 2.24-9-15
+Instrument Approach Chart (ILS) RWY 16 UBBB AD 2.24-10-1
+Instrument Approach Chart (ILS) RWY 34 UBBB AD 2.24-10-3
+Instrument Approach Chart (ILS) RWY 17 UBBB AD 2.24-10-5
+Instrument Approach Chart (ILS) RWY 35 UBBB AD 2.24-10-9
+Instrument Approach Chart (VOR/DME) RWY 17 UBBB AD 2.24-10-13
+Instrument Approach Chart (VOR/DME) RWY 35 UBBB AD 2.24-10-15
+Instrument Approach Chart RNP RWY 16 UBBB AD 2.24-10-19
+Instrument Approach Chart RNP RWY 34 UBBB AD 2.24-10-23
+Instrument Approach Chart RNP RWY 17 UBBB AD 2.24-10-27
+Instrument Approach Chart RNP RWY 35 UBBB AD 2.24-10-31

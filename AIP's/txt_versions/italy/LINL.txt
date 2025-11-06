@@ -1,0 +1,844 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LINL 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LINL AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LINL AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LINL - LECCE/Lepore
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LINL AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LINL AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+40°21'21''N 018°17'51''E
+2 Direzione e distanza dalla città 5.9 NM Lecce
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+61 FT / 31° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+4° E (2018.3) / 6'E
+5 Autorità amministrativa aeroportuale ENAC - DT Puglia-Basilicata
+Aeroporto "Karol Wojtyla"
+Viale Enzo Ferrari, 1
+70128 Bari-Palese
+ Tel: +39 080 5361400  Fax: +39 080 5361417
+ E-mail: pugliabasilicata.apt@enac.gov.it
+Ufficio di Brindisi
+tel: +39 0831 416511  Fax: +39 0831 416516
+ e-mail: aero.brindisi@enac.gov.it
+ Aerodrome administration authority ENAC - DT Puglia-Basilicata
+Aeroporto "Karol Wojtyla"
+Viale Enzo Ferrari, 1
+70128 Bari-Palese
+ Tel: +39 080 5361400  Fax: +39 080 5361417
+ E-mail: pugliabasilicata.apti@enac.gov.it
+Brindisi Office
+tel: +39 0831 416511  Fax: +39 0831 416516
+ e-mail: aero.brindisi@enac.gov.it
+ Gestore aeroportuale Fly Mediterraneo S.r.l.
+Gestione Servizi Aeroportuali
+Aeroporto Lecce Lepore (San Cataldo)
+Ufficio Rampa
+Tel/Fax:+39 0832 650448
+Cell: +39 337 1471719
+e-mail: flymediterraneo@gmail.com
+ Aerodrome operator Fly Mediterraneo S.r.l.
+Airport Handling Agent
+Lecce Lepore Airport (San Cataldo)
+Ramp Office
+Tel/Fax:+39 0832 650448
+Cell: +39 337 1471719
+e-mail: flymediterraneo@gmail.com
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR) VFR
+
+=== Page 2 ===
+AD 2 LINL 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+ Types of traffic permitted (IFR/VFR)
+7 Note Aeroporto aperto alla seguente attività di volo, nazionale e intra-UE Schengen:
+aviazione generale non commerciale, scuola di volo e lavoro aereo con limitazione di
+5700Kg MTOW e numero di passeggeri inferiore a 10.
+Codice di riferimento Annesso 14 ICAO per RWY 18/36 e TWYs: 1A.
+ Remarks Aerodrome open to following flying activity, domestic and intra-UE Schengen: non
+commercial general aviation, flying school and aerial work with limitation of 5700Kg
+MTOW and less than 10 passengers.
+Annex 14 ICAO Reference Code for RWY 18/36 and TWYs: 1A.
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LINL 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LINL AD 2.3 ORARIO DEI SERVIZI
+LINL AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale Aperto HJ   da  SAT  a  SUN con obbligo di preavviso confermato di 48 ore dall'orario
+stimato di arrivo,  seguito da  conferma  dell'esercente
+Chiuso da MON a FRI: operazioni  di volo possibili  solo con preavviso confermato di
+48 ore dall'orario stimato di arrivo,  seguito da  conferma  dell'esercente.
+ Aerodrome Administration Open   from  SAT to SUN HJ: it is mandatory to call the Aerodrome operator at least
+48 hours before Estimated Time of Arrival,  Aerodrome operator  will confirm current
+operations.
+Closed  from MON to FRI: flight operations are possible only  after calling Aerodrome
+operator at least  48 hours before Estimated Time of Arrival; Aerodrome operator will
+confirm current operations.
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario O/R: servizio sanitario assicurato dal servizio medico regionale 118 su chiamata
+telefonica dell'esercente
+ Health and sanitation O/R; Health Service assured by 118 medical regional service assistance by
+Aerodrome operator's telephone call
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento NIL
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+2. Gli operatori di Aviazione Generale devono inviare via fax all’esercente copia del
+Piano di Volo prima dell’inizio del volo.
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+2. General Aviation operators must send copy of Flight Plan to the Aerodrome
+operator by fax before the beginning of the flight.
+LINL AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LINL AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio NIL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+
+=== Page 4 ===
+AD 2 LINL 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note 1. Barra di traino
+ Remarks 1. Tow-bar
+LINL AD 2.5 SERVIZI PER I PASSEGGERI
+LINL AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti In città
+ Restaurants In town
+3 Trasporti Taxi O/R
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale In città
+ Bank and Post office In town
+6 Ufficio turistico In città
+ Tourist office In town
+7 Note NIL
+ Remarks  
+LINL AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LINL AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso Veicolo antincendio: agenti estinguenti per presidio antincendio
+ Rescue equipment Fire-fighting vehicle: extinguishing agents for fire fighting support
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Personale e mezzi forniti dall’esercente
+ Remarks 1. Equipment and staff provided by the Aerodrome operator
+LINL AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LINL AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità Pista, via di rullaggio, apron
+ Clearance priorities Runway, taxiway, apron
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LINL 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LINL AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LINL AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron ASPH 8750 sqm PCN 10/F/C/X/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 15.0 M ASPH PCN 10/F/C/X/T
+B 15.0 M ASPH PCN 10/F/C/X/T
+C 15.0 M ASPH PCN 10/F/C/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LINL AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LINL AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Seguire le indicazioni del personale dell'esercente e la segnaletica orizzontale
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+Follow Aerodrome operator staff instructions and markings
+2 Illuminazione e segnaletica per RWY e TWY Vedi segnaletica orizzontale nella carta AD in vigore.
+Illuminazione non disponibile.
+ RWY and TWY markings and lights See markings in AD chart in force.
+Lights not available.
+3 Barre d'arresto Vedi carta AD in vigore
+ Stop bars See AD chart in force
+4 Note NIL
+ Remarks  
+
+=== Page 6 ===
+AD 2 LINL 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LINL AD 2.10 OSTACOLI AEROPORTUALI
+LINL AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+RWY 18
+Superficie di salita
+al decollo/ Take-
+off climb surface
+Ostacolo mobile su
+strada campestre
+privo di segnaletica
+e luce ostacolo/
+Mobile obstacle on
+service road without
+markings and lights
+15 FT AGL/76
+FT AMSL
+1FT penetrazione/
+penetration
+ 
+40°21’17’’.2N
+018°17’49’’.9E
+Antenna in area di
+circuitazione priva
+di segnaletica e luce
+ostacolo/ Pole in
+circling area without
+markings and lights
+99FT AGL/206
+FT AMSL
+40°20’00’’.9N
+018°17’26’’.5E
+NIL
+RWY 36
+Superficie di
+avvicinamento/
+Approach surface
+Ostacolo mobile su
+strada campestre
+privo di segnaletica
+e luce ostacolo/
+Mobile obstacle on
+service road without
+markings and light
+15 FT AGL/76
+FT AMSL
+1FT penetrazione/
+penetration
+40°21’17’’.2N
+018°17’49’’.9E
+Antenna in area di
+circuitazione priva
+di segnaletica e luce
+ostacolo/ Pole in
+circling area without
+markings and lights
+99FT AGL/206
+FT AMSL
+40°20’00’’.9N
+018°17’26’’.5E
+NIL
+LINL AD 2.11 INFORMAZIONI METEOROLOGICHE
+LINL AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LINL 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LINL AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LINL AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+18 NIL 614 x 30
+PCN 10/F/C/X/T
+ASPH
+40°21'42.15''N
+018°17'54.55''E
+50.5 FT / NIL
+36 NIL 614 x 30
+PCN 10/F/C/X/T
+ASPH
+40°21'22.43''N
+018°17'50.89''E
+60.2 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+18 4.8/1000 NIL 30 x 60 674 x 60 98 x 60
+36 4.8/1000 NIL 30 x 60 674 x 60 90 x 60
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+18 NIL NIL
+36 NIL NIL
+
+=== Page 8 ===
+AD 2 LINL 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LINL AD 2.13 DISTANZE DICHIARATE
+LINL AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+18 614 644 614 614
+36 614 644 614 614
+NOTE
+REMARKS
+RWY 18: 80m oltre il fine pista 36 disponibili per i decolli da pista 18/80m beyond RWY 36 end available for take-
+off from RWY 18
+RWY 36: 50m oltre il fine pista 18 disponibili per i decolli da pista 36/50m beyond RWY 18 end available for take-
+off from RWY 36
+LINL AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LINL AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+18 NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LINL 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LINL AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LINL AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers: NIL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LINL AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LINL AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 10 ===
+AD 2 LINL 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LINL AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LINL AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Lecce ATZ
+40°19'47"N 018°16'38"E;
+40°23'20"N 018°16'45"E
+then arc of circle in
+clockwise direction
+radius 2.0 NM centred on
+40°21'32"N 018°17'53"E
+till point of origin.
+1000
+FT AGL
+G NIL NIL
+1) WI Brindisi FIR
+LINL AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LINL AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+LINL AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LINL AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LINL AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LINL AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+Stands sul lato Nord 4, 5, 6, 7 idonei per aeromobili con max apertura
+alare 12.0m.
+Stands sul lato Sud, 1 e 2, idonei per aeromobili aventi max apertura
+alare inferiore a 15m e stand 3 idoneo per aeromobili aventi max
+apertura alare 13.5m.
+Parcheggio aeromobili: in auto-manovra
+North-side stands 4, 5, 6, 7 available for aircraft with max 12.0m wing-
+span.
+South-side stands 1 and 2 available for aircraft with max wingspan less
+than 15m and stand 3 available for aircraft with max 13.5m wing-span.
+Aircraft parking: self-manoeuvring operation
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+a. Divieto di accesso alla pista 18/36 da TWY C.
+b. A causa dei raggi di curvatura delle TWYs, le operazioni di rullaggio
+devono essere condotte alla velocità max di 11KT sulle vie di
+rullaggio e alla velocità massima di 7KT sulla via di rullaggio nel
+piazzale aeromobili.
+a. No entry from TWY C to RWY18/36.
+b. Due to TWY turn-radii, taxiing must be performed at max speed of
+11KT on taxiways and at max speed of 7KT on apron-taxiway.
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LINL 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+In caso di pioggia intensa le velocità sopra indicate devono essere
+ridotte del 50% sulle superfici bagnate
+The speeds above must be reduced of 50% on wet surfaces in event
+of heavy rain.
+4 Procedure speciali applicabili agli aeromobili in condizioni di
+bassa visibilità
+4 Aircraft special procedures in low visibility conditions
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+Le entrate e le uscite per/dal’ATZ sono vietate in direzione Ovest Westbound traffic to/from ATZ are not allowed
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+Le operazioni di volo devono essere condotte in conformità alle norme
+ENAC in vigore.
+Flight operations must be performed in compliance with ENAC rules
+in force.
+LINL AD 2.21 PROCEDURE ANTIRUMORE
+LINL AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LINL AD 2.22 PROCEDURE DI VOLO
+LINL AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure Radar 3 Radar Procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+Operazioni di atterraggio, decollo e sorvolo non consentite con
+condizioni di vento in coda o in presenza di raffiche, wind-shear o
+turbolenza
+Landing, take-off and overflying are not allowed in wind-tail condition
+or in presence of gust, wind-shear or turbolence.
+4.1 Informazioni generali 4.1 General information
+a. Gli aeromobili in volo sul lato ovest in ingresso ed uscita dall’ATZ di
+Lecce Lepore, devono fare attenzione a causa della vicinanza dell’
+Aviosuperficie Fondone avente coordinate 40°21’20”N 018°14’06”E:
+mantenere idonea separazione da altro traffico.
+a. All aircraft flying westbound in and out from Lecce Lepore ATZ,
+must pay pay attention due to the vicinity of Fondone airfield with
+coordinates 40°21’20N 018°14’06”E: keep adeguate separation
+from all other traffic.
+b. Attenzione alla zona ristretta R85 (Poligono di tiro militare). Buffer
+value 0.3NM; consultare le pubblicazioni AIS in vigore.
+b. Warning to the restricted no-fly area R85 (military firing area).
+Buffer value 0.3NM; check AIS information in force.
+c. E’ obbligatorio il riporto dei punti di ingresso/uscita VFR previsti nel
+CTR di Brindisi TREPUZZI (BRSE1) e nel CTR di Lecce VERNOLE
+(BNE1).
+c. Reporting entry/exit VFR points provided in Brindisi CTR TREPUZZI
+(BRSE1) and LECCE CTR VERNOLE (BNE1) is mandatory.
+d. Contattare il personale dell’esercente “LEPORE INFORMAZIONI”
+prima dell’arrivo stimato.
+d. Contact Aerodrome Operator staff “LEPORE INFORMATION” before
+the estimated time of arrival.
+4.2 Attività di circuito 4.2 Circuit activity
+Circuito di traffico a 800FT AMSL ad EST della pista 18/36. Traffic circuit at 800FT AMSL East of RWY18/36.
+
+=== Page 12 ===
+AD 2 LINL 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+a. Circuito RWY36 a destra
+b. Circuito RWY18 a sinistra
+Riferimenti visivi la Punta di San Cataldo a Nord e l’insediamento di
+Acaia a Sud.
+a. Circuit RWY36 right
+b. Circuit RWY18 left
+Visual reference points the headland of San Cataldo northward and
+Acaia settlement southward.
+4.3 Arrivi 4.3 Arrivals
+Porre particolare attenzione ad antenna ostacolo di 206FT AMSL/99FT
+AGL a SSW di RWY 18/36 ubicata 1.39NM prima di RWY 36 at 0.15NM
+a sinistra del prolungamento asse pista.
+(Vedi tabella 10 precedente).
+Caution due to antenna obstacle 206FT AMSL/99FT AGL at SSW
+ofRWY 18/36, position 1.39NM before RWY36 at 0.15NM left-side from
+Runway Center-Line  extension.
+(See table 10 above).
+4.4 Partenze 4.4 Departures
+Porre particolare attenzione ad antenna ostacolo di 206FT AMSL/99FT
+AGL ad SSW di pista 18/36, posizione 1.72NM da pista 18 a 0.15NM
+a destra del prolungamento asse pista.
+Vedi tabella 10 precedente.
+Caution due to antenna obstacle 206FT AMSL/99FT AGL at SSW
+of RWY18/36, located 1.72NM from RWY18 at 0.15NM right-side of
+Runway Center-Line extension.
+See table 10 above.
+4.5 Sorvoli 4.5 Overflying
+Conformarsi alle norme RAIT vigenti. Comply with RAIT rules in force.
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+Voli in VFR notturno non consentiti. VFR night flights are not allowed.
+4.8 Attività addestrativa 4.8 Training activity
+Attività addestrativa consentita solo se presenti condizioni meteo ed
+operative idonee.
+Training activity allowed only with suitable meteo and operational
+conditions.
+LINL AD 2.23 INFORMAZIONI AGGIUNTIVE
+LINL AD 2.23 ADDITIONAL INFORMATION
+Manica a vento priva di illuminazione. Wind-Cone without lighting signal.
+LINL AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LINL AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LINL 2 - 1
+LINL AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LINL AD 2.25 Visual segment surface (VSS) penetration

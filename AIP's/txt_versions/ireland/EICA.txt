@@ -1,0 +1,317 @@
+=== Page 1 ===
+EICA AD 2 - 1AIP IRELAND
+Irish Aviation Authority
+Note: The following sections in this chapter are intentionally left blank: AD-2.7, AD-2.14, AD-2.15, AD-2.16, AD-2.17, 
+AD-2.19, AD-2.21, AD-2.24
+EICA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+EICA - CONNEMARA
+EICA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+EICA AD 2.3 OPERATIONAL HOURS
+1 ARP and its site 531350N 0092806W
+Mid point RWY 05/23
+2 Direction and distance from (city) 15 NM WEST OF GALWAY CITY
+3 AD Elevation, Reference Temperature & Mean 
+Low Temperature
+41 ft/18.8°C (Max Temp) 1.1°C (MNM Temp) 
+4 Geoid undulation at AD ELEV PSN 190ft
+5 MAG VAR/Annual Change 5° W(2014)/11° decreasing
+6 AD Operator, address, telephone, telefax, 
+email, AFS, Website
+Post: GALWAY AVIATION SERVICES LTD
+CAISLEAN
+INVERIN
+CO. GALWAY
+Phone:+353 91 593034
+Email: info@aerarannislands.ie
+URL: http://www.aerarannislands.ie
+7 Types of traffic permitted (IFR/VFR) VFR
+8 Remarks Nil
+1 AD Operator 0900-1700 MAR-SEP (Local Time)
+0900-1500 OCT-FEB (Local Time)
+2 Customs and immigration On request
+3 Health and sanitation 0900-1700 MAR-SEP (Local Time)
+0900-1500 OCT-FEB (Local Time)
+4 AIS Briefing Office See remarks
+5 ATS Reporting Office (ARO) See remarks
+6 MET Briefing Office See remarks
+7 ATS Nil
+8 Fuelling Contact AD ADMIN
+9 Handling 0900-1700 MAR-SEP (Local Time)
+0900-1500 OCT-FEB (Local Time)
+10 Security 0900-1700 MAR-SEP (Local Time)
+0900-1500 OCT-FEB (Local Time)
+11 De-icing Nil
+21 APR 2022
+AIRAC Amdt 004/22
+21 APR 2022        
+
+=== Page 2 ===
+EICA AD 2 - 2 AIP IRELAND
+Irish Aviation Authority
+EICA AD 2.4 HANDLING SERVICES AND FACILITIES
+EICA AD 2.5 PASSENGER FACILITIES
+EICA AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+EICA AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING AND 
+SNOW PLAN
+NIL
+12 Remarks PPR Minimum 3 hours with restrictions - Contact Ad 
+administration via telephone or email.
+PIB AVBL from AIS, Shannon, 
+See Section GEN 3.1.5,
+ARO service is AVBL H24 from AIS Shannon See Section 
+GEN 3.1.5
+Met briefing AVBL from Central Aviation Office, Shannon 
+Airport, 
+See Section GEN 3.5.4
+1 Cargo-handling facilities Nil
+2 Fuel/oil types AVGAS-100LL
+3 Fuelling facilities/capacity AVGAS-100LL 800/1600
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotel(s) at or in the vicinity of AD AVBL Locally
+2 Restaurant(s) at or in the vicinity of AD AVBL Locally
+3 Transportation possibilities Transport AVBL on request
+4 Medical facilities AVBL Locally
+5 Bank and Post Office at or in the vicinity of AD AVBL Locally
+6 Tourist Office Galway City
+7 Remarks Nil
+1 AD category for fire fighting CAT 2
+2 Rescue equipment Appropriate to CAT 2
+3 Capability for removal of disabled aircraft By arrangement
+4 Remarks Nil
+21 APR 2022
+21 APR 2022        
+AIRAC Amdt 004/22
+
+=== Page 3 ===
+EICA AD 2 - 3AIP IRELAND
+Irish Aviation Authority
+EICA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+EICA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND 
+MARKINGS
+EICA AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface: Tarmac
+Strength:
+2 Taxiway width, surface and strength TAXIWAY WIDTH (M) SURFACE STRENGTH
+A 13 Asphalt -
+3 Altimeter checkpoint location and 
+elevation
+Location: Mid-point RWY 05/23
+Elevation: 41ft AMSL
+4 VOR checkpoint Nil
+5 INS checkpoint Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs, TWY 
+guide lines and visual docking/
+parking guidance system at aircraft 
+stands
+TWY Guidelines
+2 RWY and TWY markings and LGT RWY 05/23
+Nil Lighting
+3 Stop bars and RWY Guard Lights Nil
+4 Other RWY Protection measures Nil
+5 Remarks Nil
+In approach/TKOF areas In circling area and at AD Remarks
+12 3
+RWY/Area 
+affected
+Obstacle type 
+Elevation 
+Markings/LGT
+Coordinates Obstacle type 
+Elevation 
+Markings/LGT
+Coordinates
+abcab
+05 TKOF
+23 APCH
+Wire fence with 
+timber posts
+14.6m/48ft
+Nil
+531358.3N
+0092754.5W
+TV Mast
+50M/164ft AMSL
+Nil
+531412.9N
+0092943.3W
+Electric Pole on hill
+59.0m/194ft
+Nil
+531441.2N
+0092809.1W
+Garda Mast
+59M/194ft AMSL
+Nil
+531426.3N
+0092546.2W
+23 TKOF
+05 APCH
+Nil Nil
+21 APR 2022
+21 APR 2022        
+AIRAC Amdt 004/22
+
+=== Page 4 ===
+EICA AD 2 - 4 AIP IRELAND
+Irish Aviation Authority
+EICA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+EICA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office See Section GEN 3.5 for Information
+2 Hours of service H24
+3 Office responsible for TAF 
+preparation 
+Periods of validity 
+Interval of issuance
+MET Eireann Central Aviation Office, Shannon
+24 HR
+6 HR
+4 Type of landing forecast
+Interval of issuance
+Nil
+5 Briefing/consultation provided Computer-based self-briefing facility
+Personal briefing by telephone from Central Aviation Office, Shannon
+6 Flight documentation
+Language(s) used
+Charts and tabular
+English
+7 Charts and other information 
+available for briefing or consultation
+See Section GEN 3.5 for Information
+8 Supplementary equipment available 
+for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information (limitation of 
+service, etc.)
+Nil
+Designations
+RWY
+NR
+TRUE BRG Dimensions of
+RWY (M)
+Strength (PCN) 
+and surface of 
+RWY and SWY
+THR coordinates 
+RWY end 
+coordinates THR 
+geoid undulation
+THR elevation 
+and highest 
+elevation of TDZ 
+of precision APP 
+RWY
+1 2345 6
+05 043.08° 600 X 18 Asphalt 531342.84N
+0092817.35W
+531357.05N
+0092755.16W
+190ft
+9m/30ft
+23 223.08° 600 X 18 Asphalt 531357.05N
+0092755.16W
+531342.84N
+0092817.35W
+190ft
+14m/46ft
+Slope of 
+RWY-SWY
+SWY 
+dimensions 
+(M)
+CWY 
+dimensions 
+(M)
+Strip 
+dimensions 
+(M)
+RWY End 
+Safety Area 
+dimensions
+Location and 
+description 
+of Arresting 
+System
+OFZ Remarks
+7 8 9 10 11 12 13 14
+Slope of 
+0.81% up on 
+RWY 05
+Nil Nil 660 x 60 Nil Nil Nil Nil
+Slope of 
+0.81% down 
+on RWY 23
+Nil Nil 660 x 60 Nil Nil Nil Nil
+21 APR 2022
+21 APR 2022        
+AIRAC Amdt 004/22
+
+=== Page 5 ===
+EICA AD 2 - 5AIP IRELAND
+Irish Aviation Authority
+EICA AD 2.13 DECLARED DISTANCES
+EICA AD 2.14 APPROACH AND RUNWAY LIGHTING
+NIL
+EICA AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+NIL
+EICA AD 2.16 HELICOPTER LANDING AREA
+NIL
+EICA AD 2.17 ATS AIRSPACE
+NIL
+EICA AD 2.18 ATS COMMUNICATION FACILITIES
+EICA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+NIL
+EICA AD 2.20 LOCAL TRAFFIC REGULATIONS
+Pilots may only land and take off during opening hours and when two-way radio contact has been established with 
+the aerodrome.
+Be aware of the intense commercial operations serving the island.
+EICA AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+RWY 
+Designator
+TORA TODA ASDA LDA Remarks
+12345 6
+23 600 600 600 600 Nil
+05 600 600 600 600 Nil
+Service 
+Designation
+Call sign Channel SATVOICE 
+No.
+Logon 
+Address
+Hours of 
+Operation
+Remarks
+1234567
+Aerodrome 
+Information
+Connemara 123.000MHz - - 0900-1700 
+MAR-SEP 
+(Local Time)
+Nil
+0900-1500 
+OCT-FEB 
+(Local Time)
+21 APR 2022
+21 APR 2022        
+AIRAC Amdt 004/22
+
+=== Page 6 ===
+EICA AD 2 - 6 AIP IRELAND
+Irish Aviation Authority
+EICA AD 2.22 FLIGHT PROCEDURES
+Circuits right hand RWY05
+Circuits left hand RWY23
+EICA AD 2.23 ADDITIONAL INFORMATION
+3HR Prior Permission Required. Contact AD administration via telephone or email. Refer to EICA AD 2.2
+Intense commercial operations serving the island
+Exercise caution when landing, due undulating runway surface.
+EICA AD 2.24 CHARTS RELATED TO AN AERODROME
+NIL
+21 APR 2022
+21 APR 2022 
+AIRAC Amdt 004/22

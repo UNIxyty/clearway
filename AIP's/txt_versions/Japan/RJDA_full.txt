@@ -1,0 +1,1870 @@
+=== Page 1 ===
+AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD2-1
+AD 2 AERODROMES
+RJDA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJDA - AMAKUSA
+RJDA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJDA AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 322856N/1300932E
+310° /0.5km FM RWY31 THR 
+2 Direction and distance from (city) 2.3NM NW FM AMAKUSA
+3 Elevation/ Reference temperature 340FT /33°C (2018-2022)
+4 Geoid undulation at AD ELEV 
+PSN 106FT
+5 MAG VAR/ Annual change 7° W(2015) / 4’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS, 
+e-mail and/or Web-site addresses
+Amakusa Airport Administration Office
+1-2080-5,Jyogawara Ituwamachi, Amakusa city, Kumamoto Prefecture 
+Tel:0969-57-6111,Fax:0969-57-6112
+E-mail:amakuukanji@pref.kumamoto.lg.jp
+Web:http://www.pref.kumamoto.jp/soshiki/113/1369.html
+ 
+7 Types of traffic permitted
+(IFR/VFR)
+IFR/VFR
+8 Remarks PPR for Use(TEL:0969-57-6111)
+1 AD Administration 2240 - 1130
+2 Customs and immigration On request
+Customs: 0965-37-1603
+Immigration: 096-362-1721
+3 Health and sanitation Quaranti ne(human): On request(096-232-3661)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office 2210-1130 Amakus a Airport Administration Office
+7 ATS ATS:2240 - 1130   Amakusa FLT Service
+8 Fuelling Nil
+9 Handling Nil
+10 Security 2240-1130
+11 De-icing Nil
+12 Remarks Nil
+(EFF:20 APR 2023) 20/4/23
+
+
+=== Page 2 ===
+RJDA AD2-2 AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD 2.4 HANDLING SERVICES AND FACILITIES
+RJDA AD 2.5 PASSENGER FACILITIES
+RJDA AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJDA AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Nil
+3 Fuelling facilities/ capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Busses and Taxis
+4 Medical facilities Hospital  in Amakusa city 4km
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 4
+2 Rescue equipment Chemical fire fighting truck x 2
+3 Capability for removal of disabled 
+aircraft Ask AD Administration
+4 Remarks Nil
+1 Types of clearing equipment Snow removed equipment : motor graders x 2
+2 Clearance priorities (1) RWY13/31
+(2) APRON
+3 Remarks Seasonal avai lability:All seasons
+Snow removal will be commenced, if the RWY are covered with a depth of 3cm 
+snow or more.
+(EFF:15 OCT 2015) 17/9/15
+
+
+=== Page 3 ===
+AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD2-3
+RJDA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJDA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJDA AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface:Asphalt Concrete Strength:PCR 180/F/C/X/T
+2 Taxiway width, surface and
+strength
+Width:18m,
+Surface: Asphalt Concrete, Strength:PCR 180/F/C/X/T
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints (Spot NR)
+1: 322900.41N,1300918.96E
+2: 322859.51N,1300920.50E
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY13/31
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point, 
+                Aiming point, TDZ, RWY side stripe
+(LGT) REDL, RTHL, RENL
+TWY:
+(Marking) TWY side stripe, TWY CL, RWY HLDG PSN, Mandatory instruction
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT)  Apron flood LGT
+In Area2 Nil
+In Area3 To be developed
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJDA AD2-4 AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJDA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJDA AD 2.13 DECLARED DISTANCES
+1 Associated MET Office Kumamoto prefecture
+Amakusa Airport Administration Office
+2 Hours of service
+MET Office outside hours
+(1) 2210-1130
+(2) Nil
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available 
+for briefing or consultation
+Nil
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information A PP(Kumamoto RAG), Amakusa FLT Service
+10 Additional information(limitation of 
+service, etc.)
+Nil
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+     13
+     31
+124.55°
+304.55°
+1000×30
+1000×30
+PCR 180/F/C/X/T
+Asphalt Concrete
+322906.21N/1300916.15E
+Nil
+322847.80N/1300947.70E
+Nil
+THR ELEV : 330FT
+THR ELEV : 330FT
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See AD2.24 AD CHART 1120×120
+1120×120
+90 × (MNM:60 MAX:122)*
+90 × (MNM:60 MAX:122)*
+*For detail, ask airport administrator
+RWY Grooving:1000m X 20m
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+     13
+     31
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+Nil
+Nil
+(EFF:28 NOV 2024) 28/11/24
+
+
+=== Page 5 ===
+AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD2-5
+RJDA AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJDA AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJDA AD 2.16 HELICOPTER LANDING AREA
+RJDA AD 2.17 ATS AIRSPACE
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+13 Nil Green PAPI
+3.0° /LEFT
+133.2m
+24ft
+Nil Nil 1.000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+31 Nil Green PAPI
+3.0° /LEFT
+133.2m
+24ft
+Nil Nil 1.000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+Remarks
+10
+Overrun area edge LGT(LEN:60m Color:Red)(*1) 
+RWY THR ID LGT for RWY 13/31 THR (Color: White)
+1 ABN/IBN location, characteristics and 
+hours of operation ABN:322859N/1300908E,White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:Nil
+Anemometor:360m from RWY 13 THR, LGTD
+3 TWY edge and centerline lighting TWY edge LGT: Blue
+4 Secondary power supply/    switch-
+over time
+Within 20 sec: REDL, RTHL, RENL, Overrun area edge LGT, PAPI, RWY
+THR ID LGT, TWY edge LGT, ABN, WDI LGT
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+Nil 
+(EFF:25 MAY 2017) 25/5/17
+
+
+=== Page 6 ===
+RJDA AD2-6 AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD 2.18 ATS COMMUNICATION FACILITIES
+RJDA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJDA AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+A/G Amakusa Flight
+Service
+130.775MHz 2240 - 1130 For AD INFO only
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(7°W/2016)
+AKE 113.45MHz 2240 - 1130 322848.85N/
+1300939.48E
+VOR Unusable:
+180°-200° beyond 20nm BLW 4,000ft. 
+DME AKE 1042MHz
+(CH-81Y)
+2240 - 1130 322848.85N/
+1300939.48E
+351ft DME Unusable:
+180°-300° beyond 20nm BLW 4,000ft.
+MSAS 1575.42MHz H24 Transmitting antennas are sate llite 
+based.
+Nil
+Nil
+Nil
+Nil
+(EFF:4 JAN 2018) 7/12/17
+
+
+=== Page 7 ===
+AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD2-7
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJDA AD 2.21 NOISE ABATEMENT PROCEDURES
+RJDA AD 2.22 FLIGHT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL or
+RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine ACFT with
+TKOF ALTN AP FILED
+13 A,B - - - 400m - 500m
+31 A,B - - - 400m - 500m
+OTHER
+13 A,B
+AVBL LDG MINIMA
+31 A,B
+ 2. Lost Communication Procedures for Arrival Aircraft under Radar navigational guidance
+If radio communications with Kumamoto Approach/Radar are lost for 30 seconds,squawk Mode A/3 Code 7,600 and ;
+I 1) Attempt to contact Kumamoto Approach/Radar on all frequencies.
+2) If unable,proceed in accordance with visual flight rules
+3) If unable,proceed to Amakusa VOR at last assigned altitude and execute instrument approach.
+II Procedures other than above will  be issued when situation required.
+(EFF:4 JAN 2018) 7/12/17
+→
+
+
+=== Page 8 ===
+RJDA AD2-8 AIP Japan
+AMAKUSA
+Civil Aviation Bureau,Japan
+RJDA AD 2.23 ADDITIONAL INFORMATION
+RJDA AD 2.24 CHARTS RELATED TO AN AERODROME
+3. 天草飛行場における計器飛行方式の運用方法  3. IFR Operational Procedures at Amakusa Aerodrome
+I. 出発機
+1) 管制承認は、 （主） 126.5MHz （熊本ディパー
+チャー）、 （副） 127.0MHz （熊本アプローチ） で
+要求し、 以後は熊本ディパーチャーの指示に従
+う こと。 （管制機関は天草フライ トサービスへ
+の周波数の切り替えを指示しない。）
+2) 離陸に係る飛行場情報の提供は、 天草フライ ト
+サービス （130.775MHz） により行われる。
+3) 離陸時刻を管制機関に通報すること。
+I. Departure
+1) Pilot shall request ATC clearance to Kumamoto Depar-
+ture on 126.5MHz(or Kumamoto Approach on 
+127.0MHz), thereafter, follow the instructions from 
+ATC. (ATC does not instruct frequency change to 
+Amakusa Flight Service.)
+2) Amakusa Flight Service provides the aerodrome infor-
+mation on 130.775MHz.
+3) Pilot shall report the airborne time to ATC.
+II. 到着機
+1) 管制機関の周波数を常時聴守し、 その指示に従
+う こと。 （管制機関は天草フライ トサービスへ
+の周波数の切り替えを指示しない。）
+2) 着陸に係る飛行場情報の提供は、 天草フライ ト
+サービス （130.775MHz） により行われる。
+3) 着陸時刻を管制機関に通報すること。
+II. Arrival
+1) Pilot shall monitor ATC frequency at all times.(ATC 
+does not instruct frequency change to Amakusa Flight 
+Service.)
+2) Amakusa Flight Service provides the aerodrome infor-
+mation on 130.775MHz.
+3) Pilot shall report the landing time to ATC
+III. 無線通信機
+天草飛行場において計器飛行方式により飛行す
+る航空機は、 常時 2 局以上と交信可能な無線機
+器の搭載が必要である。
+III. Radio Communication Equipment
+ Aircraft intended to fly in accordance with IFR at 
+Amakusa aerodrome shall be equipped with two sets or 
+more of radio communication equipment.
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (AMAKUSA REVERSAL)
+Standard Departure Chart - Instrument (HABOH - RNAV)
+Standard Arrival Chart - Instrument (IRUKA, TSUJI - RNAV)
+Instrument Approach Chart (VOR RWY31)
+Instrument Approach Chart (RNP Z RWY13)
+Instrument Approach Chart (RNP X RWY13 (LP ONLY))
+Instrument Approach Chart (RNP Z RWY31)
+Instrument Approach Chart (RNP X RWY31 (LP ONLY))
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:23 FEB 2023) 23/2/23
+
+
+=== Page 9 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+31
+13
+TRAHC  DAASUKAMA / ADJR
+PAPI  Angle 3.0˚
+MEHT  7.36m (24ft)
+PAPI  Angle 3.0˚
+MEHT  7.36m (24ft)
+REMARKS :
+R m0001GNIVOORG  YAWNU ×  20m
+R PCR F/C/X/THTGNERTS  YAWNU
+WIDTH & STRENGTH  OF  TAXIWAY 18m    PCR 180/F/C/X/T
+DIMENSION & STRENGTH  OF  APRON
+90m ×  40m PCR 180/F/C/X/T
+WDI
+ABN
+RWY13
+330.0 ft
+(100.60m)
+0m
+RWY31
+330.0 ft
+(100.60m)
+1000m
+339.9 ft
+(103.60m)
+500m
+338.3 ft
+(103.12m)
+640m
+338.3 ft
+(103.12m)
+360m
+%7.0%3.0%3.0%7.0
+RUNWAY  THRESHOLD  LIGHTS
+OVERRUN AREA EDGE LIGHTS
+TAXIWAY  EDGE  LIGHTS
+APRON  FLOOD  LIGHTS
+RUNWAY  EDGE  LIGHTS
+RUNWAY  THRESHOLD
+IDENTIFICATION  LIGHTS
+TRUE  NORTH
+133.2m
+AMAKUSA  AIRPORT
+LONGITUDINAL  PROFILE  OF  RUNWAY
+133.2m
+CHANGE : Description of strength of pavement.
+(EFF:28 NOV 2024) 3/10/24
+RJDA AD2.24-ADC-1
+AMAKUSA
+
+
+=== Page 10 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJDA / AMAKUSA SID
+R096 096˚
+1100
+800
+HDG141˚
+HDG051˚
+HDG322˚ 4000
+VOR/DME
+113.45
+CH–81Y
+ÛÝ1ÛÝ(
+AKE
+AMAKUSA
+400FT
+AMAKUSA REVERSAL THREE DEPARTURE
+RWY13 :   Climb RWY HDG to 800FT, turn left HDG051˚...
+RWY31 :   Climb on HDG322˚ to 1100FT, turn right HDG141˚...
+... to intercept and proceed via AKE R096 to 4000FT, turn right, direct to AKE 
+VOR/DME.
+Note  RWY13 : 5.0% climb gradient required up to 1200FT.
+OBST ALT 1994FT located at 9.0NM 098˚ FM end of RWY13.
+         RWY31 : 6.0% climb gradient required up to 1100FT.
+OBST ALT 591FT located at 0.8NM 294˚ FM end of RWY31.
+CHANGE : Description of PROC name. 
+(EFF:13 JUN 2024) 16/5/24
+RJDA AD2.24-SID-1
+AMAKUSA
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+3432
+5705
+2239
+4460
+2250 5225
+5528
+4034
+5862
+5399
+3530
+800
+132°
+003°/5.0
+312
+°
+14.2333°
+10.3
+061°
+7.5
+066°
+24.3003°
+1400
+HONOK
+MISMI
+OMUTA
+8000
+FUGEN        
+6000
+HABOH
+OSTEP
+䢳䢵䢳䤑䢲䢩䣇䢳䢵䢲䤑䢶䢲䢩䣇䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇
+䢵䢵䤑䢴䢲䢩䣐
+䢵䢵䤑䢲䢩䣐
+䢵䢴䤑䢶䢲䢩䣐
+VAR 8°W
+CHANGE : PROC renamed(HABOH FOUR DEPARTURE). PROC course(NORTH TRANSITION). ALT restriction at HABOH.
+RJDA / AMAKUSA RNAV SID and TRANSITION
+HABOH FOUR DEPARTURE
+RNP1NORTH TRANSITION
+EAST TRANSITION
+     Note GNSS required.
+HABOH FOUR DEPARTURE
+  RWY13 : Climb on HDG132˚ at or above 800FT, tu rn left direct to HABOH at or below 6000FT,
+                 to FUGEN.
+  RWY31 : Climb on HDG312˚ at or above 1400FT, turn right direct to HABOH at or below 6000FT,
+                 to FUGEN.
+  Note   RWY13 : 3.5% climb gradient required up to 800FT.
+                            OBST ALT 919FT located at 4.2NM 126˚ FM end of RWY13.
+             RWY31 : 6.1% climb gradient required up to 1400FT.
+                            OBST ALT 591FT located at 0.8NM 293˚ FM end of RWY31.
+ Contour 
+Intervals
+ AD elev.340
+4000
+3000
+2000
+1000
+202468 1 0 1 2
+NM
+5 0 5 10 15 20
+KM
+䣊䣑䣄䣑䣊䢢䣈䣑䣗䣔䢢䣆䣇䣒䣃䣔䣖䣗䣔䣇
+䣐䣑䣔䣖䣊䢢䣖䣔䣃䣐䣕䣋䣖䣋䣑䣐
+䣇䣃䣕䣖䢢䣖䣔䣃䣐䣕䣋䣖䣋䣑䣐
+NORTH TRANSITION
+    From FUGEN, to OMUTA at or above 8000FT, to OSTEP , to HONOK.
+EAST TRANSITION
+    From FUGEN, to MISMI.
+(EFF:20 MAR 2025) 20/2/25
+RJDA AD2.24-SID-2
+AMAKUSA
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJDA AD2.24-SID-3
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY13
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 132
+(124.7) -7.7 - - +800 - - RNP1
+002 DF HABOH - - -7.7 - L -6000 - - RNP1
+003 TF FUGEN -
+066
+(058.0) -7.7 7.5 - - - - RNP1
+RWY31
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 312
+(304.7) -7.7 - - +1400 - - RNP1
+002 DF HABOH - - -7.7 - R -6000 - - RNP1
+003 TF FUGEN -
+066
+(058.0) -7.7 7.5 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF FUGEN - - -7.7 - - - - - RNP1
+002 TF OMUTA - 003
+(355.2) -7.7 24.3 - +8000 - - RNP1
+003 TF OSTEP - 003
+(355.3) -7.7 5.0 - - - - RNP1
+004 TF HONOK - 333
+(324.9) -7.7 14.2 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF FUGEN - - -7.7 - - - - - RNP1
+002 TF MISMI - 061
+(053.7) -7.7 10.3 - - - - RNP1
+323919.5N / 1302925.5E OSTEP 330831.8N / 1302632.1E
+MISMI 324524.1N / 1303916.7E HONOK 332006.3N / 1301647.8E
+RJDA / AMAKUSA RNAV SID and TRANSITION
+HABOH FOUR DEPARTURE
+ CHANGE : PROC renamed. ALT restriction at HABOH. PROC course(OSTEP, HONOK). Waypoint Coodinates added.
+NORTH TRANSITION
+EAST TRANSITION
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+HABOH 323521.5N / 1302152.9E OMUTA 330332.2N / 1302701.4E
+FUGEN
+AMAKUSA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+RJDA / AMAKUSA
+VOR/DME
+113.45
+CH–81Y
+AKE
+AMAKUSA
+400FT
+RNAV STAR
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+– 
+– 
+–
+– 
+– 
+–
+– 
+– 
+–
+– 
+– 
+–
+–
++4000
++2400
+–
+9.0
+10.7
+FUGEN
+SETME
+TSUJI
+(260.2)
+(260.1)
+268
+268
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.7
+-7.7
+-7.7
+–
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+– 
+–
+– 
+–
+– 
+–
+– 
+–
+–
++4000
+–
+11.9
+FUGEN
+IRUKA (188.9)
+197
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.7
+-7.7
+–
+TSUJI ARRIVAL
+IRUKA ARRIVAL
+From FUGEN, to SETME at or above 4000FT, to TSUJI between 3000FT and 2400FT.
+From FUGEN, to IRUKA at or above 4000FT.
+IRUKA ARRIVAL
+TSUJI ARRIVAL RNP1
+Note GNSS required.
+VAR 8˚W 
+IRUKA ARRIVAL
+TSUJI ARRIVAL
+FUGEN
+SETME
+IRUKA
+TSUJI
+D24.0 AKE
+MHA 4000
+MAX 170KIAS
+D19.7 AKE
+065˚
+245˚
+268˚
+9.0
+197˚11.9
+R065
+268˚
+10.7
+4000
+4000
+-3000
+CHANGE : Course FM FUGEN to IRUKA. VAR. 
+2400
+3000
+ÛÝ1ÛÝ(
+1
+(
+1
+(
+1
+(
+1
+(
+(EFF:13 JUN 2024) 16/5/24
+RJDA AD2.24-STAR-1
+AMAKUSA
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+102˚
+282˚
+180˚
+360˚
+270˚
+10NM
+R102 102˚
+EQPT REQUIRED
+DME
+090˚ 270˚
+360˚
+180˚
+60004600
+49003000
+MSA 25NM
+AKE
+13YWR ROVASUKAMA / ADJR
+KUMAMOTO  APP
+127.0 – 126.5
+134.0 – 258.9
+–113.45     AKE
+CH–81Y
+ÛÝ1ÛÝ(
+NO  RADAR
+AMAKUSA  VOR/DME
+307˚
+307˚
+NM to AKE
+ALT (3.0˚ APCH Path)
+FAF
+2826
+5
+1928
+6
+2246
+7
+2565
+4
+1610
+3
+1291
+2
+973
+MAPt
+–
+MISSED APPROACH
+Turn right, via AKE R102 to 7.0DME, 
+turn right, direct to AKE VOR/DME 
+and hold at 4000FT.
+Contact KUMAMOTO APP.
+Timing not authorized for defining the MAPt.
+No turn before MAPt.
+AKE
+MAPt
+DME to AKE
+NM to THR
+0.1
+0
+0.9
+0.8
+1.7
+1.6
+2.9
+2.8
+5.1
+5.0
+7.8
+7.7
+SDF SDF
+3400
+
+
+
+SUMOT
+(FAF)
+2800
+(2470)1940
+(1610)MDA 1140
+(810)
+VDP
+D7.0 AKE
+MAPt
+D0.9 AKE
+Turn initiation within D11.0 AKE
+Turn initiation within D11.0 AKE
+MAX Turning speed 140KIAS
+MHA 4000
+MAX 170KIAS
+D7.8 AKE
+SUMOT(FAF)
+SUMOT(FAF) : 1(
+307˚
+307˚
+114˚
+114˚
+3.0˚
+ 
+MINIMA 
+CAT MDA(H)
+1600
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 330 AD elev. 340
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to NORTH side of RWY only.
+Missed APCH climb gradient MNM 5.0%
+830 (500)
+–– – –
+1020 (680)
+960 (620)
+1500
+956
+615
+5401248
+1991
+1528
+1624
+2239
+VAR 8˚W 
+CHANGE : VAR. 
+(EFF:13 JUN 2024) 16/5/24
+RJDA AD2.24-IAC-1
+AMAKUSA
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+090°
+16491766
+2239
+1345
+860
+1603
+4866
+1937
+956
+16241991
+10NM
+3.0
+286°
+(278.0°T)3.0
+208°
+(2
+00.1°T
+)
+3.3
+132°(12
+4.6°T)
+4.5132°(124
+.6°T)
+ITUWA
+MAX 165KIAS
+MIZKA
+(FAF)
+SAKIZ
+(IF)
+TSUJI
+(IAF)
+RW13
+(MAPt)
+䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢳䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇
+䢵䢴䤑䢶䢲䢩䣐
+䢵䢴䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.340
+2300
+1800
+1300
+800
+VAR 8°W
+RNP Z RWY13RJDA / AMAKUSACHANGE : PROC course. MINIMA. ALT(3.0°APCH Path). ALT restriction at ITUWA. BRG for FUGEN HLDG pattern. ITUWA, SAKIZ added. TOHMI abolished. VAR.
+ARP
+322856N / 1300932E
+A
+ARP:
+6000
+MSA 25NM
+1012345
+NM
+10123456789 1 0
+KM
+KUMAMOTO APP
+127.0 - 126.5
+134.0 - 258.9
+RNP APCH 䢯 NO RADAR
+Baro-VNAV not authorized
+RNAV HLDG Using NAVAID
+AKE
+VOR/DME
+AMAKUSA
+113.45  AKE
+CH-81Y
+32䜪28’49”N/130䜪09’39”E
+MHA 4000
+MAX 170KIAS
+MHA 4000
+MAX 170KIAS
+FUGEN
+D19.7 AKE
+FUGEN
+D24.0 AKENOT TO SCALE NOT TO SCALE
+1MIN
+TSUJI 323556.06N
+(IAF) 1300624.98E
+ITUWA 323621.01N
+1300253.89E
+SAKIZ 323331.67N
+(IF) 1300140.41E
+MIZKA 323139.29N
+(FAF)  1300453.52E
+RW13 322906.21N
+(MAPt)  1300916.15E
+FUGEN  323919.48N
+(MAHF)  1302925.48E
+NM to Next Fix FAF 4 3 MAPt
+ALT(3.0°APCH Path) 1800 1644 1325 -
+DA(H) CMV MDA(H) CMV MDA(H) VIS
+A
+B
+C
+D -
+1240(910) 1500 1240(900)
+Circling to NORTH side of RWY only.
+-----
+1600
+ MINIMA             THR elev. 330           AD elev. 340
+LNAVLNAV/VNAVCAT
+Not applicable
+CIRCLING
+FUGEN
+(MAHF)
+NOT TO SCALE
+Þ
+4.5 NM to THR
+2400
+MISSED APPROACH
+Turn left direct to FUGEN and hold at 
+4000FT . 
+Contact KUMAMOTO APP.
+TSUJI
+(IAF)
+2.9 0
+1800
+7.8
+1800
+(1470) MDA
+ITUWA SAKIZ
+(IF) MIZKA
+(FAF)
+VDP RW13
+(MAPt)3000
+1800
+2000
+(EFF:13 JUN 2024) 16/5/24
+RJDA AD2.24-IAC-2
+AMAKUSA
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+090°
+1660
+1603
+860
+1937
+1248
+1766 16492239
+956
+4866
+1624
+1345
+1991
+10NM
+3.0
+ 
+208°
+(2
+00.1°
+T)
+3.3 
+132°(124.6°T
+)
+4.5 
+132°(124.6°T
+)
+3.0 
+286°
+(278.0°T)
+MIZKA
+(FAF)
+TSUJI
+(IAF)ITUWA
+MAX 165KIAS
+SAKIZ
+(IF)
+RW13
+(MAPt)
+DZ350
+(MATF)
+䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢳䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇
+䢵䢴䤑䢶䢲䢩䣐
+䢵䢴䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.340
+2300
+1800
+1300
+800
+VAR 8°W
+RNP X RWY13(LP only)RJDA / AMAKUSACHANGE : Course FM TSUJI to ITUWA. ALT restriction at ITUWA. OCA( H) FM SAKIZ to MIZKA. ALT(3.0°APCH Path). BRG for FUGEN HLDG p attern. VAR.
+ARP
+322856N / 1300932E
+A
+ARP:
+6000
+MSA 25NM
+1012345
+NM
+10123456789 1 0
+KM
+KUMAMOTO APP
+127.0 - 126.5
+134.0 - 258.9
+RNP APCH
+MSAS CH 98544
+M13B
+䢯 NO RADAR
+RNAV HLDG Using NAVAID
+AKE
+VOR/DME
+AMAKUSA
+113.45  AKE
+CH-81Y
+32䜪28’49”N/130䜪09’39”E
+MHA 4000
+MAX 170KIAS
+MHA 4000
+MAX 170KIAS
+FUGEN
+D19.7 AKE
+FUGEN
+D24.0 AKENOT TO SCALE NOT TO SCALE
+1MIN
+NM to Next Fix FAF 4 3 MAPt
+ALT(3.0°APCH Path) 1800 1644 1325 -
+FUGEN
+(MAHF)
+NOT TO SCALE
+TSUJI 323556.06N
+(IAF) 1300624.98E
+ITUWA 323621.01N
+1300253.89E
+SAKIZ 323331.67N
+(IF) 1300140.41E
+MIZKA 323139.29N
+(FAF)  1300453.52E
+RW13 322906.21N
+(MAPt)  1300916.15E
+DZ350 322723.88N
+(MATF) 1301211.42E
+FUGEN  323919.48N
+(MAHF)  1302925.48E
+Þ
+4.5 NM to THR
+2400
+MISSED APPROACH
+Climb direct to DZ350, turn left direct 
+to FUGEN and hold at 4000FT . 
+Contact KUMAMOTO APP.
+TSUJI
+(IAF)
+2.9 0
+1800
+7.8
+1800
+(1470) MDA
+ITUWA SAKIZ
+(IF) MIZKA
+(FAF)
+VDP RW13
+(MAPt)3000
+1800
+2000
+Missed APCH climb gradient MNM 4.0%
+MDA(H) CMV MDA(H) VIS
+A
+B
+C
+D
+1600
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to NORTH side of RWY only.
+ MINIMA             THR elev. 330           AD elev. 340
+LPCAT
+---
+CIRCLING
+-
+1240(910) 1500 1240(900)
+(EFF:13 JUN 2024) 16/5/24
+RJDA AD2.24-IAC-3
+AMAKUSA
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJDA AD2.24-IAC-4
+INSTRUMENT APPROACH CHART 
+RJDA / AMAKUSA
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +01335
+SBAS service provider identifier 2 FPAP latitude 322834.9695N
+Airport identifier RJDA FPAP longitude 1301009.6325E
+Runway 13 Threshold crossing height 00012.2
+Approach performance designator 0 TCH units selector 1
+Route indicator X Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M13B ԥlength offset 0696
+LTP/FTP latitude 322906.1830N HAL 40.0
+LTP/FTP longitude 1300916.1515E VAL 0.0
+CRC remainder
+Required additional data
+LTP/FTP orthometric height 100.8
+RNP X RWY13(LP only)
+CHANGE : Description of PROC name.
+F4E11814
+AMAKUSA
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+1290
+2239
+1451
+1649
+1624
+860
+1603 1302
+1660
+1345
+1937
+1766
+1991
+10NM
+3.0 
+312°(304.7°
+T)
+7.8 
+241°
+(233.3°T)
+3.3 
+312°(304.8°
+T)
+3.6 
+312°(304.7°T)
+DZ151
+(MAPt)
+DZ150
+GOSKI
+(FAF)
+IRUKA
+(IAF/MAHF)
+DATEK
+(IF)
+䢳䢵䢲䤑䢵䢲䢩䣇䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢳䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇
+䢵䢴䤑䢵䢲䢩䣐
+䢵䢴䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.340
+2300
+1800
+1300
+800
+VAR 8°W
+RNP Z RWY31RJDA / AMAKUSACHANGE : VAR.
+ARP
+322856N / 1300932E
+A
+ARP:
+6000
+MSA 25NM
+1012345
+NM
+10123456789 1 0
+KM
+KUMAMOTO APP
+127.0 - 126.5
+134.0 - 258.9
+RNP APCH
+䢯 NO RADAR
+Baro-VNAV not authorized below -10°C
+IRUKA 322736.48N
+(IAF/MAHF) 1302715.00E
+DATEK 322256.04N
+(IF) 1301949.13E
+GOSKI 322448.78N
+(FAF) 1301636.64E
+DZ150 322653.19N
+ 1301303.94E
+DZ151  322835.54N
+(MAPt)  1301008.71E
+N M  t o  N e x t  F i x M A P t 123456 F A F
+ALT(3.0°APCH Path) - 802 1121 1439 1758 2076 2395 2600
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV MDA(H) CMV MDA(H) VIS
+A 960(620)
+B 1020(680)
+C
+D
+ MINIMA             THR elev. 330           AD elev. 340
+LNAVLNAV/VNAVCAT CIRCLING
+-
+750(420) 1500
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to NORTH side of RWY only.
+-----
+1600750(420) 1500
+RNAV HLDG Using NAVAID
+AKE
+VOR/DME
+AMAKUSA
+113.45  AKE
+CH-81Y
+32䜪28’49”N/130䜪09’39”E
+MHA 4000
+MAX 170KIAS
+MHA 4000
+MAX 170KIAS
+IRUKA
+D19.0 AKE
+NOT TO SCALE NOT TO SCALE
+1MIN
+IRUKA
+D14.9 AKE
+MDA
+1210
+(880)
+2600
+(2270)
+Þ
+RDH 40
+NM to THR
+VDP
+(LNAV)
+4000
+MISSED APPROACH
+Turn right direct to IRUKA and hold at 
+4000FT .
+Contact KUMAMOTO APP.
+IRUKA
+(IAF)
+DZ151
+(MAPt)
+3.4
+DZ150
+(LNAV) 2900
+7.00.4
+GOSKI
+(FAF)
+1439
+2600
+DATEK
+(IF)
+10.3
+1.0NM to MAPt
+VDP
+(EFF:13 JUN 2024) 16/5/24
+RJDA AD2.24-IAC-5
+AMAKUSA
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+860
+1345
+956
+1624
+1937
+1649
+1603
+1766
+1660
+2239
+1991
+10NM
+7.8 
+241°
+(233.3°T)
+3.6 
+312°(304.
+7°T
+)
+3.3 
+312°(304.8°
+T)
+2.5 
+312°(304.7°
+T)
+GOSKI
+(FAF)
+DZ150
+DATEK
+(IF)
+DZ152
+(MAPt)
+DZ153
+(MATF)
+IRUKA
+(IAF/MAHF)
+䢳䢵䢲䤑䢵䢲䢩䣇䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢳䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇
+䢵䢴䤑䢵䢲䢩䣐
+䢵䢴䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.340
+2300
+1800
+1300
+800
+VAR 8°W
+RNP X RWY31(LP only)RJDA / AMAKUSACHANGE : VAR.
+ARP
+322856N / 1300932E
+A
+ARP:
+6000
+MSA 25NM
+1012345
+NM
+10123456789 1 0
+KM
+KUMAMOTO APP
+127.0 - 126.5
+134.0 - 258.9
+RNP APCH
+MSAS CH 90608
+M31B
+䢯 NO RADAR
+Missed APCH climb gradient MNM 5.0%
+MDA(H) CMV MDA(H) VIS
+A 960(620)
+B 1020(680)
+C
+D
+ MINIMA             THR elev. 330           AD elev. 340
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to NORTH side of RWY only.
+LPCAT
+---
+CIRCLING
+-
+700(370) 1500
+1600
+N M  t o  N e x t  F i x M A P t 123456 F A F
+ALT(3.0°APCH Path) - 975 1294 1612 1930 2249 2567 2600
+RNAV HLDG Using NAVAID
+AKE
+VOR/DME
+AMAKUSA
+113.45  AKE
+CH-81Y
+32䜪28’49”N/130䜪09’39”E
+MHA 4000
+MAX 170KIAS
+MHA 4000
+MAX 170KIAS
+IRUKA
+D19.0 AKE
+NOT TO SCALE NOT TO SCALE
+1MIN
+IRUKA
+D14.9 AKE
+IRUKA 322736.48N
+(IAF/MAHF) 1302715.00E
+DATEK 322256.04N
+(IF) 1301949.13E
+GOSKI 322448.78N
+(FAF) 1301636.64E
+DZ150 322653.19N
+1301303.94E
+DZ152 322817.10N
+(MAPt) 1301040.29E
+DZ153 323106.88N
+(MATF) 1300549.18E
+MDA
+1360
+(1030)
+2600
+(2270)
+Þ
+NM to THR
+VDP
+4000
+MISSED APPROACH
+Climb direct to DZ153, turn right
+direct to IRUKA and hold at 4000FT .
+Contact KUMAMOTO APP.
+IRUKA
+(IAF)
+DZ152
+(MAPt)
+3.4
+DZ150
+3100
+7.00.9
+GOSKI
+(FAF)
+1439
+2600
+DATEK
+(IF)
+10.3
+0.3NM to MAPt
+VDP
+(EFF:13 JUN 2024) 16/5/24
+RJDA AD2.24-IAC-6
+AMAKUSA
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJDA AD2.24-IAC-7
+INSTRUMENT APPROACH CHART 
+RJDA / AMAKUSA
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +01335
+SBAS service provider identifier 2 FPAP latitude 322918.9855N
+Airport identifier RJDA FPAP longitude 1300854.2095E
+Runway 31 Threshold crossing height 00012.2
+Approach performance designator 0 TCH units selector 1
+Route indicator X Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M31B ԥlength offset 0696
+LTP/FTP latitude 322847.7745N HAL 40.0
+LTP/FTP longitude 1300947.6955E VAL 0.0
+CRC remainder
+Required additional data
+LTP/FTP orthometric height 100.8
+RNP X RWY31(LP only)
+CHANGE : Description of PROC name.
+1980097D
+AMAKUSA
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJDA / AMAKUSA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ཱྀஅὠ  
+Kuchinotsu Port
+䚷‮ᓥ ᓥ
+Yushima Island
+㏻モᓥ ᓥ
+Tsujishima Island
+ᐩᒸ ᓁ
+Tomioka Cape
+ᓥᏊ ⁺ 
+Shimago Port
+ᶓᓥ ᓥ
+Yokoshima Island
+/
+094°T / 4.9NM
+/7 . 6 N M150°T
+294°T / 7.6NM
+CHANGE : Map updated. BRG/DIST from ARP.
+013°T 7.7NM/
+331°T / 4.7NM
+11.6NM051°T
+Call sign BRG / DIST from ARP Remarks
+YUSHIMA KUCHINOTSU 
+AMAKUSA FLIGHT SERVICE
+130.775
+VAR 7W(2015) / ƍ:
+TOMIOKA 
+SHIMAGO 
+YOKOSHIMA 
+TSUJISHIMA 
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+(EFF:29 DEC 2022) 29/12/22
+RJDA AD2.24-OTHER-1
+AMAKUSA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+660660
+660660
+660660
+809809
+703703
+31
+13
+ABNABN
+WDIWDIWDI
+3280
+ʷ100 ft
+RWYTIL
+PAPI  ANGLE 3˚
+MEHT 7.36m(24ft)
+133.2m fm THR
+ELEVATIONS  AND
+HEIGHTS  IN  FEET
+MEAN  SEA  LEVEL
+PAPI  ANGLE 3˚
+MEHT 7.36m(24ft)
+133.2m fm THR
+VOR / DME
+ELEV  340ft
+AMAKUSA
+32˚28´49˝N/130˚09´39˝E
+113.45
+CH–81Y
+AKE
+12481248
+660660
+990990
+VAR 7˚W
+30´
+31´
+29´
+2828´28´
+3232˚27´32˚27´
+130˚08´ 09´ 10´10´ 11´
+1000 1000
+SCALE
+1000m500500 0
+0 2000 3000ft
+RJDA / AMAKUSA LDG  CHART
+(EFF:1 FEB 2018) 1/2/18
+RJDA AD2.24-OTHER-2
+AMAKUSA
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+002°
+041°
+091°
+141°
+160°
+195°
+205°
+218°
+234°
+254°
+258°
+281°
+301°
+316°
+341°
+20000
+15000
+10000
+6500
+6000
+4000
+8000
+10000 15000
+7000
+15000
+4000
+12000
+10000
+6500
+6000
+5100
+6000
+3400
+3400
+2600
+4000
+2000
+3000
+3400
+5000
+5300
+20NM
+35NM
+50NM
+60NM
+35NM 23NM
+7NM
+9NM
+9NM
+10NM
+10NM
+5NM
+3NM
+3NM
+30NM
+16NM
+14NM
+TRAHC edutitlA gnirotceV muminiMRJDA / AMAKUSACHANGE : Update.
+CENTER凬 325011N1305203E  (RJFT RADAR SITE)
+V$5Û:
+(EFF:2 OCT 2025) 4/9/25
+RJDA AD2.24-OTHER-3
+AMAKUSA
+

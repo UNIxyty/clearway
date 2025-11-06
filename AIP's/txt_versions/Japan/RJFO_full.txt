@@ -1,0 +1,4187 @@
+=== Page 1 ===
+AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD2-1
+AD 2 AERODROMES
+RJFO AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJFO - OITA
+RJFO AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJFO AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 332846N/1314414E
+007 Degrees /1.5KM FM RWY 01 THR
+2 Direction and distance from (city) 16NM NE FM OITA City
+3 Elevation/ Reference temperature 17FT / 30°C
+4 Geoid undulation at AD ELEV PSN 104FT
+5 MAG VAR/ Annual change 7 °W(2009) / 2’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JCAB
+Aza Omida, Itoharu, Musashi-machi, Kunisaki-shi, Oita Pref.
+873-0421 JAPAN.
+Tel:0978(67)3771, 0978(67)3773
+Fax:0978(67)3780, 0978(67)3781(AIS)
+AFS:RJFOYFYX
+7
+Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Remarks Nil
+1 AD Administration 2230 - 1330
+2 Customs and immigration Customs:2330-0815
+Immigration:INTL SKED FLT hours only
+3 Health and sanitation INTL SKED FLT hours only
+4 AIS Briefing Office 2230 - 1330
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (FUKUOKA)
+7 ATS 2230 - 1330
+8 Fuelling 2230 - 1330
+9 Handling 2230 - 1330
+10 Security 2230 - 1330
+11 De-icing Nil
+12 Remarks Nil
+(EFF:8 SEP 2022) 8/9/22
+
+
+=== Page 2 ===
+RJFO AD2-2 AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD 2.4 HANDLING SERVICES AND FACILITIES
+RJFO AD 2.5 PASSENGER FACILITIES
+RJFO AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJFO AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the modern institutions that  with the weight thing to Boeing 747 type freighter.
+2 Fuel/ oil types JET A-1
+3 Fuelling facilities/ capacity Fuel Truck / Not Limitation
+4 De-icing facilities Nil
+5
+Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Near FM Airport
+2 Restaurants At Airport
+3 Transportation Buses and Taxis
+4 Medical facilities Hospital in Aki-town 3km
+5 Bank and Post Office BANK ATM at Airport
+6 Tourist Office At Airport
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3
+Water-supply truck
+Lighting power supply truck
+Emergency medical equipments conveyance truck
+3
+Capability for removal of disabled 
+aircraft
+Ask AD Administration
+4 Remarks Nil
+1 Types of clearing equipment Clearing equipments: Sweeper x 1
+Snow removal equipments: NIL(commission)
+2 Clearance priorities
+(1) RWY, TWY T0 T6 P, Spot 7-9
+(2) TWY T1 T5, Spot 5-6
+(3) TWY T2 T3 T4, Spot 1-3 10 11 
+3 Remarks Snow removal will be commenced when the RWY and TWY are covered with 
+snow its depth 3cm or more(Ask AD administration for details)
+(EFF:18 JUL 2019) 18/7/19
+
+
+=== Page 3 ===
+AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD2-3
+RJFO AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface: Asphalt-concrete and Cement-concrete
+Strength : 
+Spot NR1A, 1B, 2, 3 : PCR 640/F/D/X/T
+Spot NR5, 6 : PCR 797/R/B/W/T
+Spot NR7, 8, 9, 10 : PCR 925/R/B/W/T
+Spot NR11 : PCR 1132/R/B/W/T
+2 Taxiway width, surface and 
+strength
+Surface: Asphalt-concrete and Cement-concrete 
+Strength : 
+TWY T0, T1, T2, T3, T4, T5, T6: PCR 1041/F/C/X/T
+TWY P0, P1, P3, P4, P5: PCR 1041/F/C/X/T
+TWY P2: PCR 1132/R/B/W/T
+Width: 
+TWY T1, T2, T3, T4, T5: 34m
+TWY T0, T6: 28.5m
+TWY P0, P1, P2, P3, P4, P5: 23m
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints (Spot NR)
+2: 332844.43N,1314403.07E
+3: 332842.98N,1314403.05E
+5: 332841.51N,1314403.02E
+6: 332840.05N,1314403.01E
+7: 332837.39N,1314359.83E
+8: 332835.12N,1314359.81E
+9: 332832.85N,1314359.79E
+10 : 332830.58N,1314359.77E
+11 : 332828.47N,1314359.71E
+6 Remarks Nil
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJFO AD2-4 AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJFO AD 2.10 AERODROME OBSTACLES
+1 Use of aircraft stand ID signs, TWY 
+guide lines and Visual docking/ 
+parking guidance system of 
+aircraft stands
+ACFT stand ID signs: Spot 1-11
+2 RWY and TWY markings and 
+LGT
+RWY:RWY01/19(SEE RJFO AD2.24)
+(Marking)  RWY designation, RWY CL, RWY THR, RWY middle point,
+                 Aiming point, TDZ, RWY side stripe 
+(LGT)  RCLL, REDL, RTHL, RENL, RTZL(RWY01), WBAR(RWY01)
+TWY:ALL TWY
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe 
+(LGT) TWY edge LGT, TWY CL LGT, RWY guard LGT, Taxiing guidance sign
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT) Apron flood LGT
+In Area2 See Obstacle data
+In Area3 To be developed
+(EFF:25 JAN 2024) 25/1/24
+
+
+=== Page 5 ===
+AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD2-5
+RJFO AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office FUKUOKA
+2 Hours of service
+MET Office outside hours
+H24 (FUKUOKA)
+3 Office responsible for TAF preparation
+Periods of validity
+FUKUOKA
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing  is available upon inquiry at FUKUOKA
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available for 
+briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, 
+PSWI, PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, APP, ATIS
+10 Additional information( limitation of service, 
+etc.)
+Nil
+(EFF:1 APR 2014) 6/3/14
+
+
+=== Page 6 ===
+RJFO AD2-6 AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJFO AD 2.13 DECLARED DISTANCES
+RJFO AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR
+TRUE BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+01
+19
+000°
+180°
+3000×45
+3000×45
+PCR 1041/F/C/X/T
+Asphalt-Concrete
+PCR 1041/F/C/X/T
+Asphalt-Concrete
+    332757.53N
+    1314413.22E
+       104FT
+    332934.89N
+    1314414.08E
+       104FT
+       THR ELEV:19FT
+       TDZ ELEV:19FT
+       THR ELEV:17FT
+Slope of RWY
+Strip
+Dimensions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+See AD CHART 3120×300
+3120×300
+190×(MNM:152 MAX:300)*
+40×300
+*For detail, ask airport administrator
+RWY Grooving  3000m × 30m
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+01
+19
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+01 PALS
+(CAT I)
+900M
+LIH
+Green
+Green
+PAPI
+3.0°/LEFT
+413M
+66FT
+900M 3000M
+30M
+Coded color
+(White/Red)
+LIH
+3000M
+60M
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+19 SALS
+(*1)
+420M
+LIH
+Green
+-
+PAPI
+3.0°/LEFT
+457M
+74FT
+Nil 3000M
+30M
+Coded color
+(White/Red)
+LIH
+3000M
+60M
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+Remarks
+10
+SALS with APCH LGT beacon(600m and 900m FM RWY THR)(*1)
+Overrun area edge LGT(LEN:60m Color:Red)(*2)
+CGL for RWY 19
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 7 ===
+AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD2-7
+RJFO AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJFO AD 2.16 HELICOPTER LANDING AREA
+RJFO AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 332833N/1314353E, White/Green EV4.3sec, HO
+Operating in night, IMC, and when requested  
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:Nil
+Anemometer: RWY01: 355m from RWY 01 THR, LGTD
+RWY19: 300m from RWY 19 THR, LGTD
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply /    
+switch-over time
+Within  1 sec : REDL, RENL, RTHL, WBAR, RCLL, Overrun area edge LGT
+Within 15 sec : Other LGT
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+OITA CTR Area within a radius of 5nm of OITA ARP 3000 or below D  OITA TOWER
+OITA ACA SEE RJFO ATTACHED CHART
+(EFF:28 JAN 2021) 31/12/20
+
+
+=== Page 8 ===
+RJFO AD2-8 AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+኱ศ㐍ධ⟶ไ༊
+㻻㼕㼠㼍㻌㻭㼜㼜㼞㼛㼍㼏㼔㻌㻯㼛㼚㼠㼞㼛㼘㻌㻭㼞㼑㼍
+Point list
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+334923N1315428E
+333820N1313835E
+333112N1313754E
+331835N1313643E
+331513N1312903E
+330719N1312355E
+325619N1311408E
+332346N1321425E
+332258N1320939E
+333116N1320253E
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+334410N1320642E
+340827N1321357E
+331313N1314212E
+335858N1315956E
+334822N1320757E
+335336N1321117E
+TFE
+(1)
+(6)
+(5)
+(4)
+(3)
+(2)
+(7)
+(12)
+(11)
+(10)
+(9)
+(8)
+(13)
+(16)
+(15)
+(14) 15NM
+25NM
+25NM
+29NM 12000
+10000
+12000
+7000
+(EXC10000)
+(EFF:5 NOV 2020) 8/10/20
+
+
+=== Page 9 ===
+AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD2-9
+RJFO AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 34 5
+APP Oita Approach 120.6MHz(1)
+127.7MHz
+119.05MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330 (1)Primary
+ASR Oita Radar 119.05MHz
+120.6MHz
+127.7MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330
+DEP Oita Departure 127.7MHz
+120.6MHz
+119.05MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330
+TWR Oita Tower 118.8MHz(1)
+126.2MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330
+GND Oita Ground 121.6MHz 2230 - 1330
+ATIS Oita Airport 127.8MHz 2230 - 1330
+(EFF:4 NOV 2021) 7/10/21
+
+
+=== Page 10 ===
+RJFO AD2-10 AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting 
+antenna
+Remarks
+12 3 4 5 67
+ILS-LOC 01 ITF 111.5MHz 2230 - 1330 332942.19N/
+1314414.15E
+LOC:225m(738ft) away FM  
+ RWY19 THR,
+ BRG(MAG)007°.
+Unusable beyond 16nm.
+ILS-GP 01 - 332.9MHz 2230 - 1330 332807.70N/
+1314417.95E
+GP:315m (1034ft) inside FM  
+ RWY 01 THR,120m(394ft) E 
+ of RCL.
+HGT of ILS Ref datum16.5m
+ (54ft)
+GP angle 3.0°.
+ILS-DME 01 ITF 1013MHz
+(CH-52X)
+2230 - 1330 332808.01N/
+1314418.31E
+37ft DME: 325m(1066ft) inside 
+ FM  RWY 01 THR,
+ 130m(427ft) E of RCL.
+VOR
+(7°W/2016)
+TFE 117.7MHz H24 332922.97N/
+1314343.52E
+VOR Unusable:
+210°-220°  beyond 35NM 
+below 8,000FT.
+240°-260°  beyond 35NM 
+below 8,000FT.
+270°-330°  beyond 30NM 
+below 6,000FT.
+DME TFE 1211MHz
+(CH-124X)
+H24 332922.97N/
+1314343.52E
+100ft DME Unusable:
+260°-270°  beyond 35NM 
+below 8,000FT.
+270°-290°  beyond 15NM 
+below 6,000FT.
+290°-330°  beyond 30NM 
+below 6,000FT.
+330°-340°  beyond 30NM 
+below 5,000FT.
+MSAS 1575.42MHz H24 Transmitting antennas are
+satellite based.
+(EFF:2 MAR 2017) 2/3/17
+
+
+=== Page 11 ===
+AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD2-11
+19
+01
+10˚
+35˚
+35˚
+10˚
+18NM 16NM
+16NM
+10NM
+10NM8NM
+LOC COURSE
+LOC UNUSABLE : BEYOND  16NM.
+LOC ANTENNA
+RJFO / OITA ILS
+ILS
+RWY
+120m
+130m
+225m
+315m 10m
+3000m
+ILS-LOC
+ANTENNA
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+REMARKS  : 1. LOC beam BRG(MAG) 007 °
+2. HGT of ILS REF datum 16.5m(54ft)
+3. GP angle 3.0 °
+4. ELEV of ILS-DME 11.2m(37ft)
+(EFF:10 DEC 2015) 12/11/15
+
+
+=== Page 12 ===
+RJFO AD2-12 AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJFO AD 2.21 NOISE ABATEMENT PROCEDURES
+ On use of this airport by transient ACFT, the operator is required to obtain the prior permission of the airport administrator in 
+order to adjust of parking area, except scheduled flight and ACFT in an emergency.
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 13 ===
+AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD2-13
+RJFO AD 2.22 FLIGHT PROCEDURES
+RJFO AD 2.23 ADDITIONAL INFORMATION
+1. TAKE OFF MINIMA
+ RWY ACFT
+CAT
+REDL & RCLL
+REDL or RCLL or 
+RCL
+marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine
+ACFT with
+TKOF ALTN
+AP Filed
+01 A,B,C,D 400 400 400 400 - 500
+19 A,B,C,D - 400 - 400 - 500
+OTHER
+01 A,B,C,D
+AVBL LDG MINIMA
+19 A,B,C,D
+2. Lost Communication Procedures for Arrival Aircraft under radar navigational guidance
+If radio Communications with Oita Approach/Radar are lost for 30 seconds,
+squawk Mode A/3 Code 7600 and;
+I 1. Contact  Oita Tower.
+2. If unable, proceed in accordance with Visual Flight Rules.
+3. If unable, proceed to Musashi VOR/DME at last assigned altitude or 3500
+feet whichever is higher and execute Instrument Approach.
+II Procedures other than above will be issued when situation required.
+3. Trajectorized Airport Traffic Data Processing System (TAPS)
+Aircraft flying in Oita approach control area under its control will be instructed to reply with discrete code on Mode A/3 and
+Mode C.
+If an aircraft has no capability of replying with discrete code, the pilot shall report ATC if so instructed.
+大分アプローチの指示のもとに、 当該進入管制区を飛行する航空機は、 モード A/3 の二次レーダー個別コード及びモード C
+による応答を指示される。
+二次レーダー個別コードを搭載していない航空機が当該コードによる応答を指示された場合は、 管制機関に対しその旨通報
+すること。
+Nil
+(EFF:26 MAR 2020) 26/3/20
+
+
+=== Page 14 ===
+RJFO AD2-14 AIP Japan
+OITA
+Civil Aviation Bureau,Japan
+RJFO AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome Chart
+Aerodrome Obstacle Chart-ICAO type A (RWY01/19)
+Aerodrome Obstacle Chart-ICAO type B
+Standard Departure Chart-Instrument (MUSASHI) 
+Standard Departure Chart-Instrument (EBOSHI-RNAV)
+Standard Departure Chart-Instrument (TOYO-RNAV)
+Standard Departure Chart-Instrument (FUSHA-RNAV)
+Standard Departure Chart-Instrument (TRANSITION-RNAV)
+Standard Arrival Chart-Instrument (JEWEL)
+Standard Arrival Chart-Instrument (KAGEX, BAIEN, NOLEL, TANSO, OOITA-RNAV)
+Instrument Approach Chart (ILS Z RWY01)
+Instrument Approach Chart (ILS Y or LOC RWY01)
+Instrument Approach Chart (ILS X RWY01)
+Instrument Approach Chart (VOR RWY01)
+Instrument Approach Chart (VOR A)
+Instrument Approach Chart (RNP Z RWY19)
+Instrument Approach Chart (RNP RWY01(AR))
+Instrument Approach Chart (RNP Y RWY19(AR))
+Other Chart (Visual REP)
+Other Chart (MVA CHART)
+(EFF:15 MAY 2025) 17/4/25
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC DAATIO / OFJR
+T–0T–1T–2T–3
+TWR
+T–4T–5 4–P5–P P–2
+6 789 1 0 1 15321
+P–3
+OITA AP
+PAPI Angle 3.0˚
+MEHT 22.5m(74ft)
+PAPI Angle 3.0˚
+MEHT 20.0m(66ft)
+RWY
+GUARD LGT
+(T -0~T -6)
+TAXIING GUIDANCE SIGNS
+NORTH HELIPAD
+SEE DETAIL-A
+SOUTH HELIPAD
+APRON FLOOD LGT
+APCH LGT BCN
+LONGITUDINAL PROFILE OF RWY
+ALS
+SEQUENCED FLASHING LGT (SFL-V)
+SALS
+CGL TDZ LGT (900m)
+P–1
+413m
+900m
+457m
+300m
+RWY 19 RWY 01
+DETAIL-A
+A
+B
+11
+180m
+900m420m
+P–0
+T–6 WDI
+RVR
+TRUE NORTH
+WDI
+01
+19
+19
+01
+ABN
+REMARKS :  
+RWY GROOVING 3000m×30m
+STRENGTH OF RWY PCR   1041/F/C/X/T
+WIDTH AND STRENGTH OF TWY
+  T0,T6  28.5m PCR 1041/F/C/X/T
+  T1,T2,T3,T4,T5    34m   PCR 1041/F/C/X/T
+  P0,P1,P3,P4,P5  23m   PCR 1041/F/C/X/T
+  P2   23m   PCR 1132/R/B/W/T
+19ft
+(5.78)
+19ft
+(5.82)
+19ft
+(5.83)
+19ft
+(5.86)18ft
+(5.53)17ft
+(5.26)17ft
+(5.24)
+17ft
+(5.22)
+17ft
+(5.21)
+17ft
+(5.16)
+17ft
+(5.16)
+17ft
+(5.20)
+17ft
+(5.21)
+17ft
+(5.16)
+17ft
+(5.15)
+LEVELLEVEL LEVEL
+ft
+m
+-0.02%
+-0.02%
+0.17%
+0.14%
+0.01%
+0.03%
+0.06%
+-0.05%
+0.06%
+0.01%
+-0.01%
+3000m2810268025302330214019901460 19101380115010702701900m
+H
+H
+RWY GUARD LGT
+(FLASHING YELLOW)
+RWY GUARD LGT
+(FLASHING YELLOW)TWY
+COMMON WAYS OF ITS MARKING AND LGT
+RWY SIDERWY -HLDG PSN MARKINGS
+and RWY GUARD LGT
+RWY HLDG PSN markings
+are located TWY
+T -0 THRU T -6
+RWY guard LGT are located on
+T -0 THRU T -6
+: their locations are 75m off the 
+RWY CL.
+Example for Mandatory
+instruction marking
+19-0119-01
+Mandatory instruction markings are located
+on TWY T -0 THRU T -6.
+WIND SPEED METER
+WIND SPEED METER
+CEILO METER
+CHANGE : Description of strength of pavement.
+(EFF:28 NOV 2024) 3/10/24
+RJFO AD2.24-ADC-1
+OITA
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+ARP
+ASPHALT -CONCRETE 3000m X 45m
+19
+ˡ187˃
+01
+007˃ˠ
+HORIZONTAL SCALE
+1000
+300
+0
+0
+1000 2000 3000 4000 5000 6000 7000 8000ft
+500 1000 1500 2000 2500m
+500
+FEET
+METRES
+300
+00
+100
+75
+50
+25
+50
+100
+150
+200
+250
+VERTICAL
+SCALE
+FT M
+AERODROME OBSTACLE CHART-ICAO
+TYPE A (OPERATING LIMITATIONS)DIMENSIONS AND ELEVATIONS IN FEET   BEARINGS ARE MAGNETIC
+MAGNETIC VARIATION 7°17' W-APR 2016
+TRIANGULATION POINT
+POLE,ɹTOWER,ɹSPIRE,ɹANTENNA,ɹETC
+TREE
+RAILROAD
+TRANSMISSION LINE OR OVERHEAD CABLE
+RIVER
+LEVEE
+LEGEND
+AERONAUTICAL GROUND LIGHT
+IDENTIFICATIONɹNUMBER1
+AMENDMENTɹRECORD
+Nr DATE ENTERED ɹBY
+RWY : 01/19
+DECLARED DISTANCES
+RWY 01 RWY 19
+TAKE OFF RUN AVAILABLE
+TAKE OFF DISTANCE AVAILABLE
+ACCELERATE STOP DISTANCE AVAILABLE
+LANDING DISTANCE AVAILABLE
+OITA AIRPORT
+3000m
+3000m
+3000m
+3000m
+3000m
+3000m
+3000m
+3000m
+21
+3
+24
+223
+23
+100
+200
+300
+9842
+0ˠ
+11000120001300014000150001600017000
+SLOPE 1.2
+100
+200
+300
+9842
+ˡ0
+11000 12000 13000 14000 15000 16000 17000 18000 19000 20000 21000 22000 23000 24000 25000 26000 27000
+SLOPE 1.2
+19 17
+3
+21
+(EFF:3 JAN 2019) 6/12/18
+→ RJFO AD2.24-AOC-1
+OITA
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+Ñ( Ñ(
+Ñ(
+Ñ(
+H
+H
+H
+H
+H
+H
+H
+H
+23
+40
+37
+72
+223
+33
+24
+38
+l!
+l!
+l!
+l!
+l!
+l!
+l!Hl!
+l!
+l!
+H
+H
+H
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+H
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+H
+l!
+l!
+l!
+l!
+l!l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+l!
+H
+l!
+l!
+H
+l!
+H
+H
+l!
+l!
+H
+H
+H
+l!
+H
+H
+233
+264
+401
+473
+277
+350
+286676
+441
+870
+487
+260
+263
+238
+271
+396
+383
+336
+223
+416
+418
+469
+319
+359
+576
+349425
+590
+380
+295
+362
+295
+266
+483
+669
+383
+666
+751
+854
+480395
+475
+452
+490
+444
+368
+487
+376
+334
+329
+369
+417
+532
+357
+783
+721
+246
+293
+518
+810
+310
+217
+231
+299
+418
+424
+MUSASHI HARBOR
+TAKE-OFF FLIGHT PATH
+SLOPE 1.2%
+TRANSITIONAL SURFACE
+SLOPE 1:7
+HORIZONTAL SURFACE
+ASPHALT CONCRETE
+ARP
+3000m×45m
+TRANSITIONAL SURFACE
+SLOPE 1:7
+TAKE-OFF FLIGHT PATH
+SLOPE 1.2%
+NATIONAL ROUTE 213
+MUSASHI BYPASSMUSASHI RIVER
+AKI RIVER
+OITA AIRPORT ROAD
+KUNISAKI CITY
+ARP
+01
+19
+008°→
+←188°
+IYO NADA
+APPROACH SURFACE
+SLOPE 1:50
+APPROACH SURFACE
+SLOPE 1:50
+䢳䢵䢳䤑䢶䢺䢩䣇
+䢳䢵䢳䤑䢶䢺䢩䣇
+䢳䢵䢳䤑䢶䢹䢩䣇
+䢳䢵䢳䤑䢶䢹䢩䣇
+䢳䢵䢳䤑䢶䢸䢩䣇
+䢳䢵䢳䤑䢶䢸䢩䣇
+䢳䢵䢳䤑䢶䢷䢩䣇
+䢳䢵䢳䤑䢶䢷䢩䣇
+䢳䢵䢳䤑䢶䢶䢩䣇
+䢳䢵䢳䤑䢶䢶䢩䣇
+䢳䢵䢳䤑䢶䢵䢩䣇
+䢳䢵䢳䤑䢶䢵䢩䣇
+䢳䢵䢳䤑䢶䢴䢩䣇
+䢳䢵䢳䤑䢶䢴䢩䣇
+䢳䢵䢳䤑䢶䢳䢩䣇
+䢳䢵䢳䤑䢶䢳䢩䣇
+䢳䢵䢳䤑䢶䢲䢩䣇
+䢳䢵䢳䤑䢶䢲䢩䣇
+䢵䢵䤑䢵䢵䢩䣐
+䢵䢵䤑䢵䢵䢩䣐
+䢵䢵䤑䢵䢴䢩䣐
+䢵䢵䤑䢵䢴䢩䣐
+䢵䢵䤑䢵䢳䢩䣐
+䢵䢵䤑䢵䢳䢩䣐
+䢵䢵䤑䢵䢲䢩䣐
+䢵䢵䤑䢵䢲䢩䣐
+䢵䢵䤑䢴䢻䢩䣐
+䢵䢵䤑䢴䢻䢩䣐
+䢵䢵䤑䢴䢺䢩䣐
+䢵䢵䤑䢴䢺䢩䣐
+䢵䢵䤑䢴䢹䢩䣐
+䢵䢵䤑䢴䢹䢩䣐
+䢵䢵䤑䢴䢸䢩䣐
+䢵䢵䤑䢴䢸䢩䣐
+䢵䢵䤑䢴䢷䢩䣐
+䢵䢵䤑䢴䢷䢩䣐
+䢵䢵䤑䢴䢶䢩䣐
+䢵䢵䤑䢴䢶䢩䣐
+AERODROME OBSTACLE CHART-ICAO
+TYPE B
+DIMENSIONS AND ELEVATIONS IN FEET BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+500 0 500 1000 1500 2000 2500 3000 m
+ 㔞ἲ僑ᇶ僋債ᅜᅵᆅ⌮㝔㛗ᢎㄆ䢪౑⏝䢫䢢䣔䢢䢷䣌䣊䣵䢢䢴䢴䢵䢢傍ᅜᅵᩘ್᝟ሗ傍凚Ἑᕝ傎⥭ᛴ㍺㏦㐨㊰傎㔜せ≀ὶ㐨㊰凛
+HORIZONTAL SCALE
+FEET
+METRE
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+AERODROME ELEVATION 17ft ARP
+㻝㻤㻜
+㻜
+㻝㻤㻜
+㻜
+㻞㻣㻜
+㻥㻜
+㻞㻣㻜
+㻥㻜
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+LEGEND
+AERODROME REFERENCE POINT
+33㼻28 ‘46 “N 131䤑44 ‘14 "E
+POLE, TOWER, SPIRE, ANTENNA, ETC
+AERONAUTICAL GROUND LIGHT
+OBSTRUCTION LIGHT
+BUILDING OR LARGE STRUCTURE
+RAILROAD                     TRIANGULATION POINT
+TREE                              RIVER
+LAKE                               CONTOURS(ft)
+&+$1*(8SGDWH
+(EFF:25 JAN 2024) 25/1/24
+RJFO AD2.24-AOC-2
+OITA
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+MUSASHI REVERSAL TWO DEPARTURE
+RWY01 :  Climb RWY HDG to 500FT, turn right HDG177˚ to intercept and proceed via 
+TFE R132 to TFE 10.0DME,...
+RWY19 :  Turn left, climb via TFE R132 to TFE 10.0DME,...
+...turn right, direct to TFE VOR/DME.
+Cross TFE VOR/DME at or above 4000FT.
+Note  RWY01 :  5.0% climb gradient required up to 500FT.
+    OBST ALT 321FT located at 2.5NM 352˚ FM end of RWY01.
+RJFO / OITA SID
+HDG177˚
+VOR/DME
+MUSASHI
+117.7     TFE
+CH-124X
+100FT
+ÛÝ1ÛÝ(
+500
+D10.0 TFE
+TFE
+R1324000
+132˚
+CHANGE : OBST.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-SID-1
+OITA
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+188˚
+500
+500
+008˚
+RJFO / OITA RNAV SID
+RWY01 : Climb on HDG008˚ at or above 500FT, turn right direct to YANAI.
+YANAI
+EBOSHI THREE DEPARTURE RNAV1
+Note 
+䯲The aircraft equipped with only DME/DME/IRU
+          must be able to update its position without delay
+          at the starting point of take-off roll.
+1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+–EMD lacitirC
+DME GAP
+Inappropriate Navaids
+Note  RWY01 : 5.0% climb gradient required up to 500FT.
+          OBST ALT 321FT located at 2.5NM 352˚ FM end of RWY01.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RWY19 : Climb on HDG188˚ at or above 500FT, turn left direct to YANAI.
+RWY01 : DER 到 19NM to YANAI
+RWY19 : DER 到 26NM to YANAI
+VOR/DME
+100FT
+MUSASHI
+117.7 TFE
+CH-124X
+Û´Ý1Û´ÝE
+VAR 8˚W 
+CHANGE : PROC renamed. VAR. PROC course. OBST.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-SID-2
+OITA
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFO AD2.24-SID-3
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFO / OITA RNAV SID
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+R
+凟䢢
+凟䢢
+ 
+凟䢢
++500
+凟䢢
+凟
+凟䢢
+凟䢢
+YANAI
+(000.4)
+008
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+L
+凟䢢
+凟䢢
+ 
+凟䢢
++500
+凟䢢
+凟
+凟䢢
+凟䢢
+YANAI
+(180.4)
+188
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+EBOSHI THREE DEPARTURE
+RWY01
+RWY19
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+YANAI 334622.9N / 1315917.1E
+CHANGE : PROC renamed. PROC course. Waypoint Coordinates added.
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART- INSTRUMENT
+VOR/DME
+100FT
+MUSASHI
+117.7 TFE
+CH-124X
+ÛÝ1ÛÝ(
+VAR 8˚W 
+RJFO / OITA RNAV SID
+13.8216˚
+9.8198˚
+188˚
+4000
+OOITA
+AKNIS
+008˚
+500
+500
+FO901
+1VANR
+Note 
+䯲The aircraft equipped with only DME/DME/IRU
+          must be able to update its position without delay
+          at the starting point of take-off roll.
+1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Critical DME
+DME GAP
+Inappropriate Navaids
+Note  RWY01 : 5.0% climb gradient required up to 500FT.
+                         OBST ALT 321FT located at 2.5NM 352˚ FM end of RWY01.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RWY01 : Climb on HDG008˚ at or above 500FT, turn right direct to AKNIS,...
+RWY19 : Climb on HDG188˚ at or above 500FT, direct to FO901,...
+...to OOITA at or above 4000FT.
+RWY01 : DER 到 9NM to AKNIS
+RWY19 : DER 到 3NM to FO901
+–
+TOYO FOUR DEPARTURE
+CHANGE : PROC renamed. AKNIS established. TACHI abolished. VAR. PROC course. OBST.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-SID-4
+OITA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OITA
+STANDARD DEPARTURE CHART- INSTRUMENT
+RJFO / OITA RNAV SID
+VA
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+R
+–
+–
+–
+–
++500
+–
++4000
+–
+–
+13.8
+–
+AKNIS
+OOITA
+(000.4)
+(208.1)
+008
+216
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+–
+VA
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++500
+–
++4000
+–
+–
+9.8
+–
+FO901
+OOITA
+(180.4)
+(189.8)
+188
+198
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+–
+TOYO FOUR DEPARTURE
+RWY01
+RWY19
+FO901
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+OOITA
+AKNIS
+332251.1N / 1314410.5E
+331313.2N / 1314211.7E
+332524.3N / 1314958.2E
+CHANGE : AKNIS established. TACHI abolished. PROC course. Waypoint Coordinates added.
+RJFO AD2.24-SID-5
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFO / OITA RNAV SID
+FUSHA
+500
+500
+008˚
+188˚
+RWY01 : Climb on HDG008˚ at or above 500FT, turn right direct to FUSHA.
+1VANRERUTRAPED TWO AHSUF
+Note 
+䯲The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Critical DME
+DME GAP
+Inappropriate Navaids
+Note  RWY01 : 5.0% climb gradient required up to 500FT.
+                         OBST ALT 321FT located at 2.5NM 352˚ FM end of RWY01.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RWY19 : Climb on HDG188˚ at or above 500FT, turn left direct to FUSHA.
+RWY01 : DER 到 25NM to FUSHA
+RWY19 : DER 到 23NM to FUSHA
+RWY01 : MYE 25NM to FUSHA 到 24NM to FUSHA
+VOR/DME
+100FT
+MUSASHI
+117.7 TFE
+CH-124X
+Û´Ý1Û´ÝE
+VAR 8˚W 
+CHANGE : PROC renamed. VAR. PROC course. OBST.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-SID-6
+OITA
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFO AD2.24-SID-7
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFO / OITA RNAV SID
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+R
+凟䢢
+凟䢢
+ 
+凟䢢
++500
+凟䢢
+凟
+凟䢢
+凟䢢
+FUSHA
+(000.4)
+008
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+L
+凟䢢
+凟䢢
+ 
+凟䢢
++500
+凟䢢
+凟
+凟䢢
+凟䢢
+FUSHA
+(180.4)
+188
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+FUSHA TWO DEPARTURE
+RWY01
+RWY19
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+FUSHA 331737.7N / 1320814.6E
+CHANGE : PROC renamed. PROC course. VAR. Waypoint Coordinates added.
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+VAR 8˚W 
+RJFO / OITA RNAV TRANSITION
+37.3044˚
+30.6028˚
+11.8044˚
+30.1
+062˚
+17.8
+087˚
+54.0
+135˚
+FIATO TRANSITION
+DOUGO TRANSITION
+DONAR TRANSITION
+ASHIZURI TRANSITION
+SPIDE TRANSITION
+SALTY TRANSITION
+DONAR TRANSITION / DOUGO TRANSITION / FIATO TRANSITION
+SALTY TRANSITION / SPIDE TRANSITION / ASHIZURI TRANSITION RNAV1
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+FL160
+–
+From FUSHA, to SUC.
+ASHIZURI TRANSITION
+From FUSHA, to DONAR at or above FL160, to SPIDE.
+SPIDE TRANSITION
+From FUSHA, to DONAR at or above FL160, to SALTY .
+SALTY TRANSITION
+From FUSHA, to DONAR at or above FL160, to SALTY , to FIATO.
+FIATO TRANSITION
+From FUSHA, to DONAR at or above FL160, to MYE.
+DOUGO TRANSITION
+From FUSHA, to DONAR at or above FL160.
+DONAR TRANSITION
+DONAR
+FUSHA
+MATSUYAMA(MYE)
+SPIDE
+SHIMIZU(SUC)
+SALTY
+FIATO
+VORTAC
+1500FT
+SHIMIZU
+115.2 SUC
+CH-99X
+ÛÝ1ÛÝ(
+VOR/DME
+0FT
+MATSUYAMA
+110.65     MYE
+CH-43Y
+ÛÝ1ÛÝ(
+–
+CHANGE : VAR. PROC course.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-SID-8
+OITA
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFO AD2.24-SID-9
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFO / NOITISNART VANRATIO
+DONAR TRANSITION
+DOUGO TRANSITION
+FIATO TRANSITION
+SALTY TRANSITION
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
++FL160
+–
+17.8
+FUSHA
+DONAR (078.7)
+087
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+–
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++FL160
+–
+–
+17.8
+30.6
+FUSHA
+DONAR
+MYE
+(078.7)
+(019.8)
+087
+028
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+–
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++FL160
+–
+–
+17.8
+37.3
+FUSHA
+DONAR
+SALTY
+(078.7)
+(036.1)
+087
+044
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+–
+IF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++FL160
+–
+–
+–
+17.8
+37.3
+11.8
+FUSHA
+DONAR
+SALTY
+FIATO
+(078.7)
+(036.1)
+(036.3)
+087
+044
+044
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+-8.0
+–
+CHANGE : PROC course. VAR.
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OITA
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFO / NOITISNART VANRATIO
+SPIDE TRANSITION
+ASHIZURI TRANSITION
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+54.0
+FUSHA
+SUC (126.5)
+135
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+–
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++FL160
+–
+–
+17.8
+30.1
+FUSHA
+DONAR
+SPIDE
+(078.7)
+(054.1)
+087
+062
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+–
+DONAR
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+FUSHA
+MYE
+FIATO
+SALTY
+SPIDE
+331737.7N / 1320814.6E
+332105.1N / 1322904.7E
+334948.4N / 1324132.0E
+340037.4N / 1330354.6E
+335109.7N / 1325530.8E
+333840.2N / 1325818.0E
+SUC 324521.5N / 1325947.9E
+CHANGE : PROC course. VAR. Waypoint Coordinates added. 
+RJFO AD2.24-SID-10
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART- INSTRUMENT
+TFE R038
+STARRJFO / OITA
++&8&-
+
+
+R038/D11.0 TFE
+%0/,0
+R038/D21.2 TFE
+VOR/DME
+100FT
+MUSASHI
+117.7 TFE
+CH-124X
+33˚29´23˝N/131˚43´44˝E
+JEWEL  ARRIVAL
+JEWEL ARRIVAL
+From over DONKO, via TFE R038 to JEWEL.
+Cross DONKO at or above 5000FT, cross JEWEL at or above 3000FT.
+218˚
+(EFF:3 JAN 2019) 6/12/18
+→ RJFO AD2.24-STAR-1
+OITA
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFO AD2.24-STAR-2
+STANDARD ARRIVAL CHART- INSTRUMENT
+ 
+RNAV STARRJFO / OITA
+278˚
+3.1
+339˚2.6
+KAGEX  ARRIVAL
+BAIEN  ARRIVAL
+TANSO  ARRIVAL
+NOLEL  ARRIVAL
+VAR 8˚W
+VOR/DME
+100FT
+MUSASHI
+117.7 TFE
+CH-124X
+Û´Ý1Û´ÝE
+KAGEX  ARRIVAL / BAIEN  ARRIVAL 
+NOLEL  ARRIVAL / TANSO  ARRIVAL RNAV1
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+NOLEL
+1800
+SELEN
+MAX 220KIAS
+METAL
+MAX 220KIAS
+KAGEX
+FO161FO162
+YANAI
+3000
+30003000
+5000
+BAIEN
+3000
+TANSO
+2400
+204˚/21.9207˚/12.2
+204˚/7.4
+244˚
+9.0
+225˚
+11.4
+207˚/7.2
+CHANGE : KAGEX ARRIVAL, NOLEL ARRIVAL established. KABOS ARRIVAL, HOVER ARRIVAL abolished. PROC course. VAR.
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OITA
+STANDARD ARRIVAL CHART - INSTRUMENT
+RATS VANRATIO / OFJR
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++5000
++3000
+–
+9.0
+YANAI
+KAGEX (236.2)
+244
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+–
+KAGEX ARRIVAL
+From YANAI at or above 5000FT, to KAGEX at or above 3000FT.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+–
+Inappropriate Navaids
+DME GAP
+Critical DME
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++5000
++3000
+–
+11.4
+YANAI
+BAIEN (217.4)
+225
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+–
+BAIEN ARRIVAL
+From YANAI at or above 5000FT, to BAIEN at or above 3000FT.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+–
+Inappropriate Navaids
+DME GAP
+Critical DME
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++5000
++3000
++2400
+–
+7.2
+12.2
+YANAI
+FO162
+TANSO
+(199.4)
+(199.4)
+207
+207
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+–
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+–
+Inappropriate Navaids
+DME GAP
+Critical DME
+TANSO ARRIVAL
+From YANAI at or above 5000FT, to FO162 at or above 3000FT, to TANSO at or above 
+2400FT.
+CHANGE : KAGEX ARRIVAL established. PROC course. VAR.
+RJFO AD2.24-STAR-3
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFO AD2.24-STAR-4
+STANDARD ARRIVAL CHART - INSTRUMENT
+RATS VANRATIO / OFJR
+IF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+-220
+-220
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++5000
++3000
+–
+–
++1800
+–
+7.4
+21.9
+3.1
+2.6
+YANAI
+FO161
+SELEN
+METAL
+NOLEL
+(196.4)
+(196.4)
+(270.5)
+(330.5)
+204
+204
+278
+339
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+-8.0
+-8.0
+–
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+–
+Inappropriate Navaids
+DME GAP
+Critical DME
+NOLEL ARRIVAL
+From YANAI at or above 5000FT, to FO161 at or above 3000FT, to SELEN, to METAL,
+to NOLEL at or above 1800FT.
+KAGEX
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+YANAI
+BAIEN
+TANSO
+FO162
+FO161
+334622.9N / 1315917.1E
+334121.2N / 1315016.7E
+333720.4N / 1315059.8E
+332806.6N / 1315133.7E
+333936.2N / 1315624.8E
+333918.2N / 1315646.6E
+SELEN 331818.8N / 1314923.1E
+METAL 331820.3N / 1314541.2E
+NOLEL 332036.2N / 1314409.4E
+CHANGE : NOLEL ARRIVAL established. Waypoint Coordinates added. .
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFO AD2.24-STAR-5
+STANDARD ARRIVAL CHART - INSTRUMENT
+RNAV STAR RWY01RJFO / OITA
+028˚
+4.7
+VAR 8˚W
+VOR/DME
+100FT
+MUSASHI
+117.7 TFE
+CH-124X
+Û´Ý1ÛÝE
+1VANRLAVIRRA  OOITA
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+LUISU
+OOITA
+2900
+4000
+1MIN
+LUISU
+MHA 3000
+MAX 210KIAS
+˚900
+˚981
+NOT TO SCALE
+CHANGE : New PROC. 
+NOLEL
+1800
+009° / 3.0
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFO AD2.24-STAR-6
+STANDARD ARRIVAL CHART - INSTRUMENT
+RNAV STARRJFO / OITA
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++4000
++2900
+–
+4.7
+OOITA
+LUISU (020.2)
+028
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+–
+OOITA ARRIVAL
+From OOITA at or above 4000FT, to LUISU at or above 2900FT, to NOLEL at or above
+1800FT.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+–
+Inappropriate Navaids
+DME GAP
+Critical DME
+TF RNAV1–––– +18003.0NOLEL (000.5)
+009003 -8.0
+Path Waypoint
+Identifier
+Minimum
+Altitude
+(FT)
+Navigation
+Specification
+Hold LUISU 3000 RNAV1-210(-14000)
+Speed
+(KIAS)
+Maximum
+Altitude
+(FT)
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Turn
+Direction
+009
+(000.5) -8.0 1.0(-14000) R FL140
+LUISU
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+OOITA
+NOLEL
+331313.2N / 1314211.7E
+331735.8N / 1314407.5E
+332036.2N / 1314409.4E
+CHANGE : New PROC. 
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+007˚
+225˚
+045˚MHA 3000
+HDG136˚
+MAX 220KIAS
+5.5
+5.4
+7.5
+7.4 NM to THR
+DME to ITF0.2
+0
+090˚
+360˚
+270˚
+˚700
+ILS Z  RWY01
+OITA  APP
+120.6
+ILS-LOC
+111.5     ITF
+ILS–GP      332.9
+ILS–DME   
+CH–52X 118.8 – 126.2
+RADAR  AVBL
+ATIS  127.8
+OITA  TOWER
+RJFO / OITA
+VOR/DME
+MUSASHI
+117.7      TFE
+CH-124X
+Û´Ý1Û´ÝE
+091˚
+R091
+2044
+2146
+2365
+1926
+1946
+1841
+1781
+840
+833
+768722
+794
+732
+2062
+4511
+VAR 8˚W 
+090˚ 270˚
+360˚
+180˚
+TFE
+3000
+MSA 25NM
+3600
+35006300
+EQPT REQUIRED
+DME
+VOR
+SONIC(FAF)
+10NM
+D5.5 ITF
+NOLEL(IF)
+D7.5 ITF
+NOLEL
+(IF)
+D2.0 TFE
+HDG007˚
+SONIC(FAF) : 1(
+TFE
+RDH 54
+SONIC
+(FAF)
+GP 3.0
+°
+1800
+
+MISSED APPROACH
+Climb on HDG007˚ to TFE
+2.0DME, turn right HDG136˚ 
+to intercept and proceed via 
+TFE R091 to 3000FT, 
+turn left, direct to TFE 
+VOR/DME and hold.
+Contact OITA APP .
+007˚
+007˚
+ 
+MINIMA 
+Missed APCH climb gradient MNM 4.0%.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+CAT
+CAT䢢䱶䢢
+DA(H)
+219 (200)
+430 (413)
+470 (453)
+660 (643)
+760 (743)
+550
+1600
+2400
+3200
+RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 19 AD elev. 17
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+CHANGE : VAR. NOLEL established. HOVER abolished. MINIMA for CIRCLING CAT C.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-IAC-1
+OITA
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Û
+R091
+Û700
+Û700
+Û
+Û
+Û
+Û
+0.6 0.2
+0.5
+0.9
+0.7
+5.5
+5.4 NM to THR
+DME to ITF
+0
+RJFO / OITA ILS Y or LOC R WY01
+OITA  APP
+120.6
+ILS-LOC
+111.5        ITF
+ILS-GP      332.9
+ILS-DME     CH-52X
+118.8 - 126.2
+RADAR  AVBL
+ATIS  127.8
+OITA  TOWER
+VOR/DME
+MUSASHI
+117.7     TFE
+CH-124X
+ÛÝ1ÛÝ(
+Û
+Û
+Û
+D2.0 TFE
++'*Û
+D5.5 ITF
+MAPt(LOC)
+D0.6 ITF
+Timing not authorized for defining the MAPt.
+MHA 3000
+MAX 220KIAS
+SONIC(FAF)
+Turn initiation within D10.0 TFE
+MAX Turning speed 200KIAS
+Turn initiation within 
+D10.0 TFE
+1936
+2044
+2146
+1873
+1407
+2365
+1988
+1926
+1946
+1841
+1257
+1781
+840
+833
+965
+810
+538
+4183
+10NM
+TFE
+RDH 54
+MAPt(LOC)
+VDP(LOC)
+SONIC
+(FAF)
+GP 3.0
+Û
+1900 Û
+1200
+(1183)
+
+(LOC)
+MDA
+3000 MISSED APPROACH
+MAPt
+–
+5
+1604
+4
+1286
+3
+968
+2
+649
+1
+330
+FAF
+1770
+NM to ITF
+AL7Û$3&+Path)
+Û Û
+Û
+Û
+TFE
+3000
+MSA 25NM
+3600
+35006300
++'*Û
+SONIC(FAF) : 1(
+&OLPERQ+'*ÛWR TFE
+2.0DME, turn rLJKW+'*Û
+to intercept and proceed via 
+TFE R091 to 3000FT, 
+turn left, direct to TFE 
+VOR/DME and hold.
+Contact OITA APP .
+Û
+MINIMA 
+Missed APCH climb gradient MNM 4.0%.
+CHANGE : PROC renamed. 
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+CAT
+CAT 䱶
+DA(H)
+219 (200) 300 (283)
+430 (413)
+470 (453)
+660 (643)
+760 (743)
+550 800 1600
+2400
+32001200
+MDA(H) RVR/
+CMVRVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 19 AD elev. 17
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+V$5Û: EQPT REQUIRED
+DME
+VOR
+(EFF:15 MAY 2025) 17/4/25
+RJFO AD2.24-IAC-2
+OITA
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+3.8
+4.0
+5.3
+5.5
+NM to THR
+DME to ITF0.2
+0
+ILS X RWY01
+OITA  APP
+120.6
+ILS - LOC
+111.5        ITF
+ILS-GP      332.9
+ILS-DME     CH-52X
+118.8 - 126.2
+RADAR  AVBL
+ATIS  127.8
+OITA  TOWER
+IKOKU(FAF) : 332408.45N/1314411.21E 
+ARP : 332846N/1314414E
+RJFO / OITA
+VAR 8˚W 
+EQPT REQUIRED
+DME
+RDH 54
+IKOKU
+(FAF)
+NINEN
+GP 3.0˚
+007˚
+1300
+2400
+MISSED APPROACH
+Direct to MINIR,turn right 
+direct to BAIEN and hold 
+at 3000FT.
+Contact OITA APP .
+6300
+MSA 25NM
+MINIMA 
+Missed APCH climb gradient MNM 5.0%.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+CAT
+CAT 䱶
+DA(H)
+219 (200)
+430 (413)
+470 (453)
+660 (643)
+760 (743)
+550
+1600
+2400
+3200
+RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 19 AD elev. 17
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+CHANGE : PROC renamed. MINIR, FO153 established. RNAV HLDG established. PROC course. Missed APCH course.
+                   DME to ITF. NM to THR. Missed APCH climb gradient MNM. MINIMA for CIRCLING CAT C.
+ARP
+RNP1
+RF required.
+FO153
+(IF)
+TANSO
+(IAF)
+1300 1300
+200˚
+007˚
+270˚
+180˚
+090˚
+BAIEN(MAHF)
+10NM
+ MINIR
+(MATF)
+ TANSO
+    (IAF)
+ FO153
+    (IF)
+ IKOKU(FAF)
+   D4.0 ITF
+     NINEN
+   D5.5 ITF
+MAX 200KIAS
+007˚
+200˚6.1
+007˚
+7.4
+NOT TO SCALE
+MHA 3000
+MAX 210KIAS
+BAIEN
+243˚
+063˚
+RNAV HLDG
+1MIN
+NOT TO SCALE
+MHA 2400
+MAX 210KIAS
+TANSO
+RNAV HLDG
+1MIN198˚
+018˚
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-IAC-3
+OITA
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFO AD2.24-IAC-4
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+001 IF - -8.0 - - RNP1
+002 TF - -8.0 - -200 - RNP1
+003
+RF
+Center:
+FORF3
+r=2.50NM
+- -8.0 R - - RNP1
+001 DF Y -8.0 - - RNP1
+002 DF - -8.0 R - - RNP1
+Waypoint Coordinates
+332806.56N / 1315133.74E
+332206.75N / 1315004.78E
+BAIEN 333720.39N / 1315059.77E
+MINIR
+Coordinates
+332237.18N / 1314709.46E
+Waypoint Identifier Coordinates
+TANSO - - +2400
+FO153 200
+(191.7) 6.1 +1300
+NINEN - 7.4 1300
+MINIR
+RJFO / OITA ILS X RWY01
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+CHANGE : PROC renamed. MINIR, FO153 established. HLDG pattern. Waypoint Coordinates added. 
+RF Arc Center Identifier
+FORF3TANSO
+FO153
+NINEN 332238.32N / 1314410.42E
+333001.00N / 1314414.31E
+- 3000
+- -
+-
+Vertical
+Angle
+Navigation
+Specification
+-
+Path Waypoint
+Identifier
+Minimum
+Altitude
+(FT)
+Navigation
+Specification
+Hold TANSO 2400 RNP1-210(-14000)
+Speed
+(KIAS)
+FL140
+Maximum
+Altitude
+(FT)
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Turn
+Direction
+198
+(190.0) -8.0 1.0(-14000) L
+Hold BAIEN 3000 RNP1-210(-14000)FL140243
+(234.9) -8.0 1.0(-14000) L
+BAIEN
+-
+-
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180
+°
+360
+°
+090°
+Turn initiation within D10.0 TFE
+MAX Turning speed 200KIAS
+Turn initiation within 
+D10.0 TFE
+1.0
+2.5 1.5
+1.4
+2.9
+6.0
+7.5
+NM to THR
+DME to TFE
+0
+PATRO(FAF) : 332159.79N/1314522.27E
+VOR  RWY01
+OITA  APP
+120.6
+MUSASHI  VOR/DME
+117.7     TFE
+118.8 – 126.2
+RADAR  AVBL
+ATIS  127.8
+OITA  TOWER
+357˚
+357˚
+195˚
+MAPt
+D2.5 TFE
+D7.5 TFE
+PATRO(FAF)
+2044
+3428
+2146
+1873
+1407
+2365
+1660
+1926
+1946
+1841
+1257
+840
+833
+965
+810
+538
+4183
+10NM
+RJFO / OITA
+Û´Ý1Û´4ÝE
+225˚
+045˚
+091˚
+R091
+MHA 3000
+MAX 220KIAS
+VAR 8˚W EQPT REQUIRED
+DME
+MAPt
+–
+7
+1825
+6
+1507
+5
+1189
+4
+871
+3
+552
+FAF
+1986
+NM to TFE
+ALT (3.0˚ APCH Path)
+Timing not authorized for defining the MAPt.
+TFE
+MAPt
+VDP
+PATRO
+(FAF)
+1900
+3000
+1000
+(983)
+3.0˚
+1986
+MDA
+MISSED APPROACH
+Turn right, climb to 3000FT via 
+TFE R091, turn left, direct to 
+TFE VOR/DME and hold.
+Contact OITA APP .
+357˚
+195˚
+090˚ 270˚
+360˚
+180˚
+TFE
+3000
+MSA 25NM
+3600
+35006300
+357˚
+CH–124X
+Circling to EAST side of RWY only.
+ 
+MINIMA 
+CAT
+500 (483)
+500 (483)
+660 (643)
+760 (743)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 19 AD elev. 17
+A
+B
+C
+D
+CHANGE : PATRO established. MONKY abolished. MINIMA for CIRCLING CAT C.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-IAC-5
+OITA
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180
+°
+360
+°
+090°
+091˚
+1.7 6.0 11.0DME to TFE
+VOR A
+OITA  APP
+120.6
+MUSASHI  VOR/DME
+117.7     TFE
+118.8 – 126.2
+RADAR  AVBL
+ATIS  127.8
+OITA  TOWER
+038˚
+218˚
+218˚
+218˚
+218˚
+R047
+1936
+2044
+3428
+2146
+1873
+1407
+2365
+1660
+1926
+1946
+1841
+JEWEL
+(IF)
+IGMAN(FAF)
+D6.0 TFE
+JEWEL(IF)
+D11.0 TFE
+MAPt
+D1.7 TFE
+R218/D1.1 TFE
+1257
+840
+833
+965
+810
+538
+MHA 3000
+MAX 200KIAS
+4183
+10NM
+D13.0 TFE ARC
+Û´Ý1Û´ÝE
+RJFO / OITA
+EQPT REQUIRED
+DME
+Timing not authorized for defining the MAPt.
+TFE
+MAPt
+IGMAN
+(FAF)
+218˚
+218˚
+700
+(683)
+3000
+MDA
+MISSED APPROACH
+Climb to 3000FT via TFE R218 to TFE 1.1DME, 
+turn left HDG046˚ to intercept and 
+proceed via TFE R091 to TFE 13.0DME, 
+turn left, via TFE 13.0DME 
+counterclockwise ARC to intercept 
+and proceed via TFE R038 to 
+JEWEL and hold.
+Contact OITA APP .
+090˚ 270˚
+360˚
+180˚
+TFE
+3000
+MSA 25NM
+3600
+35006300
+D16.0 TFE
+IGMAN(FAF) : 1(
+CH–124X
+HDG046˚
+Circling to EAST side of RWY only.
+VAR 8˚W 
+ 
+MINIMA 
+Missed APCH climb gradient MNM 5.0%.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+CAT
+440 (423)
+480 (463)
+660 (643)
+760 (743)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 17
+A
+B
+C
+D
+CHANGE : IGMAN established. MELDY abolished. VAR.
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-IAC-6
+OITA
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RNP APCH
+MUSASHI(TFE)
+       (MAHF)
+270˚
+180˚
+360˚
+090˚
+8.44.81.50NM to THR
+RDH 50
+RW19
+(MAPt)
+FO950
+(MATF)
+AKILU
+(FAF)
+KAREI
+(IF)
+KAGEX
+(IAF) MSA 25NM
+6300
+ARP
+ARP:332846N/1314414E
+Climb direct to FO950, turn left 
+direct to TFE and hold at 
+3000FT.
+Contact OITA APP .
+RW19
+(MAPt)
+KAREI
+(IF)AKILU
+(FAF)VDP
+(LNAV)
+KAGEX
+(IAF)
+OITA  APP
+120.6 118.8 – 126.2
+RADAR  AVBL
+ATIS  127.8
+OITA  TOWER
+2146
+1873
+1407
+2365
+1660
+1926
+1946
+1841
+1257
+840
+965
+810
+538
+10NM
+RJFO / OITA
+188˚
+3000
+800
+(783)
+16003.00˚
+MDA
+MISSED APPROACH
+RNP Z RWY19
+MAPt
+–
+2
+703
+3
+1021
+4
+1340
+FAF
+1600
+NM to Next Fix
+ALT (3.0˚ APCH Path)
+1600
+VAR 8˚W 
+Baro-VNAV not authorized below -10˚C
+MINIMA 
+CAT LNAV/VNAV
+Circling to EAST side of RWY only.
+DA(H)
+550 (533)
+550 (533)
+760 (743)
+660 (643)
+1600
+2400
+3200
+1100
+1000
+1500
+1400
+1400
+1600
+1600
+1800
+MDA(H) CMVCMV MDA(H) VIS
+LNAV CIRCLING
+THR elev. 17 AD elev. 17
+A
+B
+C
+D
+8.4
+6.3
+)T˚4.081(
+RW19
+(MAPt)
+332934.89N
+1314414.08E
+FO950
+(MATF)
+332634.63N
+1314412.49E
+MUSASHI(TFE)
+(MAHF)
+332922.97N
+1314343.52E
+AKILU
+(FAF)
+333424.42N
+1314416.64E
+KAREI
+(IF)
+333800.48N
+1314418.57E
+KAGEX
+(IAF)
+334121.16N
+1315016.71E ˚881
+)T˚4.081(
+˚881
+6.0
+(236.1˚T)
+244˚
+244˚
+188˚
+Missed APCH climb gradient MNM 3.5%.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+311 (294)
+334 (317)
+CHANGE : KAGEX, AKILU established. KABOS, KUROZ abolished. PROC course. VAR. HLDG pattern at TFE. ALT restriction at KAREI.
+                   NM to THR. Missed APCH climb gradient MNM. MINIMA.
+MUSASHI 
+(TFE)
+MHA 3000
+MAX 210KIAS
+222˚
+042˚
+NOT TO SCALE 
+1MIN
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-IAC-7
+OITA
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+966
+810835
+1244
+2363
+840
+769
+164
+10NM
+500----
+5.7
+008°䢱1.6   3.6222°
+008°
+FO151
+(FAF)
+MAX 165 KIAS
+TANSO
+(IF)
+MAX 220KIAS
+RW01
+FO152
+BAIEN
+(MAHF)
+䢳䢵䢴䤑䢲䢩䣇䢳䢵䢳䤑䢷䢲䢩䣇䢳䢵䢳䤑䢶䢲䢩䣇
+䢵䢵䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.17
+2000
+1500
+1000
+500
+OITA   APP
+120.6
+RNP  AR
+RF  required.
+OITA   TOWER
+118.8 - 126.2
+RADAR  AVBL
+ATIS   127.8
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 45°C
+VAR 8°W
+RNP RWY01(AR)RJFO / OITACHANGE : VAR. MSA(BTN 090° and 180°). PROC course. HLDG pattern.
+FO151(FAF) :332506.40N/1314907.12E
+10123456789 1 0
+KM
+1012345
+NM090°
+360°
+270°
+180°
+l
+30004200
+6300 3500
+MSA  RW01  25 NM
+Missed APCH climb gradient MNM 5.0%
+DA(H) RVR/CMV
+A
+B
+C1 0 0 0
+D1 4 0 0
+MINIMA       THR elev. 19         AD elev. 17
+Authorization Required
+326(307)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+-
+CAT RNP 0.30
+-
+BAIEN
+NOT TO SCALE
+MHA 3000
+MAX 210KIAS
+1MIN
+NOT TO SCALE
+1MIN
+TANSO
+MHA 2400
+MAX 210KIAS
+Þ
+1.6
+RDH 54
+NM to THR
+FO152
+TANSO
+(IF)
+2400
+MISSED APPROACH
+From RW01 on track 008, 
+at or above 500FT turn right, 
+direct to BAIEN and hold at 
+3000FT . 
+Contact OITA APP.
+570
+10.9
+RW01
+7.30
+FO151
+(FAF)
+2400
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-IAC-8
+OITA
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFO AD2.24-IAC-9
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+RNP
+Value
+001 IF - -8.0 - -220 -
+002 TF - -8.0 - -165 1.0
+003
+RF
+Center:
+FORF1
+r=2.25NM
+- -8.0 R - 0.3
+004 TF Y -8.0 - - 0.3
+005 FA - -8.0 - - 1.0
+006 DF - -8.0 R - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Hold TANSO L FL140 -210(-14000)
+Hold BAIEN L FL140 -210(-14000)
+RF Arc Center Identifier
+FORF1
+Coordinates
+332622.64N / 1314653.79E
+243
+(234.9) -8.0 1.0 (-14000) 3000 1.0
+RNP Value
+198
+(190.0) 1.0 (-14000) 1.0
+VPA/
+RDH
+(°/FT)
+-
+-
+-3.00
+-3.00/54
+-
+-
+332506.40N / 1314907.12E
+332623.67N / 1314412.39E
+332757.53N / 1314413.22E
+333720.39N / 1315059.77E
+1.6 73
++500
+3000
+Minimum
+Altitude
+(FT)
+BAIEN -
+Magnetic
+Variation
+2400
+Inbound
+Course
+°M(°T)
+Outbound
+Time
+(MIN)
+CHANGE : PROC course. VAR. HLDG pattern added.
+TANSO
+FO151
+FO152
+-
+-
+-8.0
+RJFO / OITA RNP RWY01(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+TANSO - - +2400
+- 008
+(000.4)
+FO151 222
+(214.2) 3.6 2400
+FO152 - 5.7 570
+RW01 008
+(000.4)
+Waypoint Coordinates
+BAIEN
+RW01
+Waypoint Identifier Coordinates
+332806.56N / 1315133.74E
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1244
+769
+978
+835
+2363
+810
+966
+840
+172
+10NM
+500----
+1.6
+188°
+188°䢱1.6
+  1.9
+235°
+  5.0
+235°
+FO952
+MAX 165KIAS
+RW19
+FO953
+FO951
+(FAF)
+BAIEN
+(IF/MAHF)
+MAX 210KIAS
+䢳䢵䢳䤑䢷䢲䢩䣇䢳䢵䢳䤑䢶䢲䢩䣇
+䢵䢵䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.17
+2000
+1500
+1000
+500
+OITA   APP
+120.6
+RNP  AR
+RF  required.
+OITA   TOWER
+118.8 - 126.2
+RADAR  AVBL
+ATIS   127.8
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 45°C
+VAR 8°W
+RNP Y RWY19(AR)RJFO / OITACHANGE : VAR. PROC course. HLDG pattern.
+FO951(FAF) :333356.67N/1314639.45E
+10123456789 1 0
+KM
+1012345
+NM
+090°
+36
+0°
+270°
+180
+°
+l
+30003600
+6300 3500
+MSA  RW19  25 NM
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV
+A
+B
+C 1400
+D 1600
+MINIMA       THR elev. 17         AD elev. 17
+Authorization Required
+334(317)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+-
+CAT RNP 0.30
+-
+BAIEN
+NOT TO SCALE
+MHA 3000
+MAX 210KIAS
+1MIN
+Þ
+1.6
+RDH 50
+NM to THR
+FO953
+BAIEN
+(IF)
+3000
+MISSED APPROACH
+From RW19 on track 188, 
+at or above 500FT turn left, 
+direct to BAIEN and hold at 
+3000FT . 
+Contact OITA APP.
+578
+10.1
+RW19
+3.2
+FO952
+5.10
+FO951
+(FAF)
+1700
+1101
+(EFF:20 MAR 2025) 20/2/25
+RJFO AD2.24-IAC-10
+OITA
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFO AD2.24-IAC-11
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+RNP
+Value
+001 IF - -8.0 - -210 -
+002 TF - -8.0 - - 1.0
+003 TF - -8.0 - -165 0.3
+004
+RF
+Center:
+FORF2
+r=2.02NM
+- -8.0 L - 0.3
+005 TF Y -8.0 - - 0.3
+006 FA - -8.0 - - 1.0
+007 DF - -8.0 L - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Hold BAIEN L FL140 -210(-14000)
++500
+3000
+Minimum
+Altitude
+(FT)
+CHANGE : PROC course. VAR. HLDG pattern added.
+BAIEN
+FO951
+FO952
+Magnetic
+Variation
+RW19 188
+(180.4)
+235
+(226.8)
+RJFO / OITA RNP Y RWY19(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+VPA/
+RDH
+(°/FT)
+-
+-
+Waypoint Identifier
+Waypoint Coordinates
+BAIEN - - +3000
+- 188
+(180.4)
+FO951 235
+(226.8) 5.0 1700
+FO953 - 1.6
+FO952 1.9 1101
+578
+3000
+RNP Value
+1.0
+-3.00
+-3.00
+-3.00/50
+--
+-
+1.6 67
+RW19
+FO953 333111.58N / 1314414.94E
+-
+Inbound
+Course
+°M(°T)
+Outbound
+Time
+(MIN)
+243
+(234.9) -8.0 1.0 (-14000)
+BAIEN -
+332934.89N / 1314414.08E
+RF Arc Center Identifier Coordinates
+333110.65N / 1314640.11EFORF2
+Coordinates
+333720.39N / 1315059.77E
+333356.67N / 1314639.45E
+333239.42N / 1314500.88E
+OITA
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFO / OITA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ጲᓥ ᓥ
+Himeshima Island
+䚷䝂䝹䝣䝁䞊䝇 䝂䝹䝣ሙ
+Golf course Golf course
+⾜ධ䝎䝮 䝎䝮
+Gyonyu dam Dam
+䜲䞊䝇䝖䝫䜲䞁䝖 ᾏୖ
+East point Over the sea
+ᯂ⠏ ඵᆏᕝἙཱྀ
+Kitsuki River mouth (The Yasaka)
+బ㈡㛵 ⢭㘐ᡤ↮✺
+Saganoseki Chimney
+Call sign Remarks
+°T / 10.0NM
+°T 15.3NM/
+°T /7 . 0 N M
+/°T
+/
+9.7NM
+15.0NM
+CHANGE : Map updated. BRG/DIST from ARP.
+/
+232
+152
+BRG / DIST from ARP
+346
+345
+321
+090
+°T
+°T
+6.7NM
+OITA CONTROL ZONE
+At or below 3000FT
+OITA TOWER
+118.8 - 126.2
+VAR 7W(2009) / ƍ:
+SAGANOSEKI
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+GYONYU DAM
+EAST POINT
+KITSUKI
+HIMESHIMA
+GOLF COURSE
+(EFF:14 JUL 2022) 14/7/22
+RJFO AD2.24-OTHER-1
+OITA
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFO / OITA Minimum Vectoring Altitude CHART
+VAR 7˚W (2008)
+30NM
+30NM
+20NM 15NM
+5NM
+3NM
+2NM
+12NM
+20NM
+40NM
+40NM
+50NM
+50NM
+60NM
+60NM
+CENTERɿ332842N/1314351E ( RADAR SITE)
+15000 10000
+3500
+12000
+8000
+6000
+5000
+3000
+030˚
+145˚
+180˚
+220˚
+240˚
+195˚
+290˚
+2800
+4000
+700012000 30009NM
+15NM
+5000
+1500
+5000
+355˚
+8000 3700
+2000
+1800
+(EFF:3 JAN 2019) 6/12/18
+RJFO AD2.24-OHTER-2
+OITA
+←
+

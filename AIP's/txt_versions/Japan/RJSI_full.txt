@@ -1,0 +1,3508 @@
+=== Page 1 ===
+AIP Japan
+HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD2-1
+AD 2 AERODROMES
+RJSI AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJSI - HANAMAKI
+RJSI AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJSI AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 392543N 1410807E 
+010°/1.25km FM RWY 02 THR
+2 Direction and distance from (city) 6km NNE FM Hanamaki City
+3 Elevation/ Reference temperature 294ft / 30°C(2016-2020)
+4 Geoid undulation at AD ELEV 
+PSN
+126ft
+5 MAG VAR/ Annual change 9° W(2021) / 3’34”W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Hanamaki Airport office (Iwate prefectual government)
+3-183-1 Kuzu Hanamaki-shi Iwate 025-0004 Japan
+Tel: 0198-26-2016  Fax: 0198-26-4588
+e-mail: CF0003@pref.iwate.jp
+URL: http://www.pref.iwate.jp
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Hanamaki Airport Branch(Civil Aviation Bureau)
+3-183-1 Kuzu Hanamaki-shi Iwate 025-0004 Japan
+Tel: 0198-26-2015  Fax: 0198-26-4804
+1 AD Administration 2300 - 1030
+2 Customs and immigration Customs: On request (0193-22-3010)
+Immigration: INTL SKED FLT hours only
+3 Health and sanitation Quarantine (human): 2330-0815
+Quarantine (animal, plant): INTL SKED FLT hours only
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (TOKYO)
+7 ATS 2300 - 1030
+8 Fuelling 2300 - 1030
+9 Handling 2300 - 1030
+10 Security 2330 - 1030
+11 De-icing Nil
+12 Remarks Nil
+(EFF:13 JUN 2024) 13/6/24
+
+
+=== Page 2 ===
+RJSI AD2-2                         AIP Japan
+                        HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD 2.4 HANDLING SERVICES AND FACILITIES
+RJSI AD 2.5 PASSENGER FACILITIES
+RJSI AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJSI AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the moder n institutions that deal with the weight thing to a Boeing 747 type 
+freighter.
+2 Fuel/ oil types AVGAS 100LL JET A-1
+3 Fuelling facilities/ capacity AVGAS 100LL : Fuel truck / Ask AD administration
+JET A-1 : Fuel truck / 200KL x 2tank
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Ask AD Administration
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels At Hanamaki City
+2 Restaurants At Airport
+3 Transportation Buses and Taxi
+4 Medical facilities Hospital  in Hanamaki city 5km
+5 Bank and Post Office Post Office/Pos tage stamp shop and mailbox at airport
+6 Tourist Office At Airport
+7 Remarks Nil
+1 AD category for fire fighting CAT 8
+2 Rescue equipment Chemical fire fighting truck x 3 ,
+Emergency medical equipments conveyance truck
+3 Capability for removal of disabled 
+aircraft Ask AD Administration
+4 Remarks Nil
+1 Types of clearing equipment
+Snow Removal Equipments:
+snow plough x 7 , snow sweeper x 4 ,
+rotary snow plough x 3 , anti-freezing-agent spreader x 3
+2 Clearance priorities 1.RWY , TWY
+2.Apron
+3 Remarks Seasonal avail ability:All seasons.
+Snow removal will be commenced,if the RWY is covered with a depth of 3cm 
+snow or more.
+(EFF:15 JUL 2021) 15/7/21
+
+
+=== Page 3 ===
+AIP Japan
+HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD2-3
+RJSI AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJSI AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Apron surface and strength Spot NR 1-5
+Surface:concrete, Strength:PCR 1132/R/B/W/T
+W-Apron
+Surface:concrete, Strength:PCR 785/R/B/W/T
+Small Aircraft Apron
+Surface: asphalt, Strength:AUW 5700kg/0.28MPa
+2 Taxiway width, surface and
+strength
+TWY T1, T4
+Width: 28.5m, Surface:asphalt, Strength: PCR 873/F/B/X/T
+TWY T2, T3
+Width: 34m, Surface:asphalt, Strength: PCR 703/F/B/X/T
+TWY T5
+Width: 30m, Surface:asphalt, Strength: PCR 929/F/D/X/T
+TWY P1-P3
+Width: 23m, Surface:asphalt, Strength: PCR 873/F/B/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+1:  392521.80N 1410817.13E 
+2:  392520.04N 1410815.81E 
+3:  392518.26N 1410816.15E 
+4: 392516.16N 1410815.68E  
+5:  392514.55N 1410815.36E 
+6 Remarks Nil
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+ACFT stand ID signs : Nil
+ACFT stand taxi lane : See AD2.24 AD chart
+Visual docking guidance system : Nil
+2 RWY and TWY markings and 
+LGT
+RWY: 02/20
+(Marking) RWY designation, RWY CL, RWY THR, TDZ, Aiming point, 
+          RWY side stripe
+(LGT) RCLL, REDL, RTHL, RENL, RTZL(RWY20), WBAR(RWY20), 
+          RWY DIST marker LGT
+TWY T1 THRU T5:
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe 
+(LGT) TWY edge LGT, TWY CL LGT, Taxiing guidance sign,  RWY guard LGT
+TWY P1 THRU P3:
+(Marking) TWY CL, TWY side stripe 
+(LGT) TWY edge LGT, TWY CL LGT
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area, Apron TWY CL
+(LGT)  Apron flood LGT
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJSI AD2-4                         AIP Japan
+                        HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD 2.10 AERODROME OBSTACLES
+RJSI AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJSI AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office  TOKYO
+2 Hours of service
+MET Office outside hours
+ H24 (TOKYO)
+3 Office responsible for TAF preparation
+Periods of validity
+ TOKYO
+ 30 Hours
+4 Trend forecast
+Interval of issuance
+ Nil
+5 Briefing/ consultation provided  Brie fing is available upon inquiry at TOKYO
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+ S6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI,
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+ Nil
+9 ATS units provided with information  RADIO
+10 Additional information
+(limitation of service, etc.)
+ Nil
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+02 010 .73° 2500×45 PCR 873/F/B/X/T
+Asphalt Concrete
+392503.58N
+1410757.62E
+135ft
+THR ELEV: 283ft 
+20 190 .73° 2500×45 PCR 873/F/B/X/T
+Asphalt Concrete
+392623.24N
+1410817.11E
+135.5ft
+THR ELEV: 297.5ft
+TDZ ELEV: 297.5ft 
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+SEE AD2.24 AD chart 2620×300 40 × 300 RWY grooving:2500×45m
+2620×300 193 × (MNM:166 MAX:300)*
+*For detail, ask airport administrator
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 5 ===
+AIP Japan
+HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD2-5
+RJSI AD 2.13 DECLARED DISTANCES
+RJSI AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJSI AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+02
+20
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+02 SALS
+(*1)
+420m
+LIH
+Green
+-
+PAPI
+3.0°/Left
+452.4m
+74ft
+- 2500m
+30m
+Coded color
+(White/Red)
+LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil (*2)
+20 PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+ 429.0m
+65.6ft
+900m 2500m
+30m
+Coded color
+(White/Red)
+LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil (*2)
+Remarks
+10
+SALS with APCH LGT beacon (596m and 930m FM RWY THR)(*1)
+Overrun area edge LGT(LEN:60m, color:Red) (*2)
+1 ABN/IBN location, characteristics 
+and hours of operation
+ABN: 392547N/1410755E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: Nil
+Anemometer: 
+RWY02: 350m from RWY02 THR, LGTD
+RWY20: 200m from RWY20 THR, LGTD 
+3 TWY edge and center line lighting TWY edge and c enter line lights installed, see AD2.9
+4 Secondary power supply/    
+switch-over time
+Within 1sec : REDL, RTHL, WBAR, RENL, RCLL, Overrun area edge LGT
+Within 15sec : Other LGT
+5 Remarks WDI LGT
+(EFF:25 FEB 2021) 28/1/21
+
+
+=== Page 6 ===
+RJSI AD2-6                         AIP Japan
+                        HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD 2.16 HELICOPTER LANDING AREA
+RJSI AD 2.17 ATS AIRSPACE
+RJSI AD 2.18 ATS COMMUNICATION FACILITIES
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+Hanamaki
+Information
+Zone
+Area within a radius of 5nm(9km) of Hanamaki 
+ARP
+3,000 E Hanamaki 
+Radio
+En
+Shirakami
+ACA
+See RJSK attached chart E Shirakami APP
+En
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP Shirakami Approach 119.25MHz
+315.3MHz
+120.65MHz
+2200 - 1300
+AFIS Hanamaki Radio 118.2MHz(1)
+126.2MHz
+2300 - 1030 (1)Primary
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 7 ===
+AIP Japan
+HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD2-7
+RJSI AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR declination) ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(9°W/2023)
+HPE 112.8MHZ H24 392600.09N
+1410800.60E
+VOR Unusable :
+070°-080° beyond 35nm BLW 9000ft.
+250°-270° beyond 35nm BLW 7000ft.
+270°-290° beyond 30nm BLW 7000ft.
+310°-320° beyond 35nm BLW 9000ft.
+DME HPE 1162MHz
+(CH-75X)
+H24 392600.09N
+1410800.60E
+341ft DME Unusable :
+050°-070°beyond 35nm BLW 9000ft.
+070°-080°beyond 30nm BLW 9000ft.
+080°-090°beyond 35nm BLW 9000ft.
+090°-100°beyond 25nm BLW 7000ft.
+100°-120°beyond 35nm BLW 7000ft.
+220°-240°beyond 35nm BLW 8000ft.
+250°-270°beyond 30nm BLW 7000ft.
+270°-280°beyond 25nm BLW 7000ft.
+280°-290°beyond 20nm BLW 7000ft.
+290°-310°beyond 35nm BLW 9000ft.
+310°-320°beyond 25nm BLW 9000ft.
+320°-330°beyond 30nm BLW 9000ft.
+330°-340°beyond 35nm BLW 9000ft.
+340°-350°beyond 30nm BLW 9000ft.
+350°-360°beyond 35nm BLW 9000ft.
+ILS-LOC 20 IHP 109.3MHz 2300 - 1030 392456.26N
+1410755.86E
+LOC : 230m (755ft) away 
+FM RWY  02 THR, 
+BRG (MAG)199°
+ILS-GP 20 - 332.0MHz 2300 - 1030 392613.90N
+1410809.72E
+GP : 316m (1037ft) inside FM   RWY 20 
+THR, 120m (394ft) W 
+of RCL.
+Angle 3.0°
+HGT of ILS Ref datum16.5m (54ft).
+ILS-DME 20 IHP 991MHz
+(CH-30X)
+2300 - 1030 392613.93N
+1410809.29E
+314ft DME:316m (1037ft) inside FM RWY 20 
+THR, 130m W of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are sate llite 
+based.
+(EFF:26 DEC 2024) 26/12/24
+
+
+=== Page 8 ===
+RJSI AD2-8                         AIP Japan
+                        HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+1. Aircraft operations other than scheduled flights or in an emergency
+On use of this airport, aircraft operator is required to obtain the permission of the airport authority.
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+ILS for RWY20
+HANAMAKI AP
+ILS-LOC
+ANTENNA
+02
+20
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+230m 2500m
+316m
+120m130m
+REMARKS : 1.LOC beam BRG(MAG) 199 °
+2.HGT of ILS REF datum 16.4m(54ft)
+3.GP Angle 3.0˚
+4.ELEV of ILS-DME 95.6m(314ft)
+RWY
+(EFF:26 DEC 2024) 26/12/24
+←
+
+
+=== Page 9 ===
+AIP Japan
+HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD2-9
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJSI AD 2.21 NOISE ABATEMENT PROCEDURES
+RJSI AD 2.22 FLIGHT PROCEDURES
+RJSI AD 2.23 ADDITIONAL INFORMATION
+Nil
+Nil
+Nil
+1.TAKE OFF MINIMA
+RWY ACFT CAT
+REDL & RCLL REDL or RCLL or RCL 
+Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine
+ACFT with 
+TKOF
+ALTN AP Filed
+02 A, B, C, D - 400m - 400m - 500m
+20 A, B, C, D 400m 400m 400m 400m - 500m
+OTHER
+02
+A, B, C, D AVBL LDG MINIMA
+20
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Shirakami Approach are lost for 1 minute, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact Hanamaki Radio.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to HANAMAKI VOR/DME at last assigned altitude or 4,500 feet whichever is higher, and execute
+instrument approach.
+(II) Procedures other than above will be issued when situation requires.
+3.OTHER
+For VFR aircraft intending to land at or fly around the AP, es pecially south and north of the AP , it is recommended to make
+initial contact with Hanamaki RADIO from at least further than 15nm from the AP to obtain traffic information.
+当空港に着陸または空港周辺、 特に空港の南及び北側を飛行し よ う とする VFR の航空機については、 交通情報の入手のた
+め、 少な く と も 15NM 以遠からの花巻 RADIO との通信設定が推奨される。
+Nil
+(EFF:26 DEC 2024) 26/12/24
+→
+
+
+=== Page 10 ===
+RJSI AD2-10                         AIP Japan
+                        HANAMAKI
+Civil Aviation Bureau,Japan
+RJSI AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (OHSHU)
+Standard Departure Chart - Instrument (NIIGATA)
+Standard Departure Chart - Instrument (HANAMAKI)
+Standard Departure Chart - Instrument (SAMBO-RNAV)
+Standard Departure Chart - Instrument (HANKA-RNAV)
+Standard Arrival Chart - Instrument (REMEN-RNAV)
+Standard Arrival Chart - Instrument (WANKO-RNAV)
+Standard Arrival Chart - Instrument (SIOMO-RNAV)
+Standard Arrival Chart - Instrument (SUIHO-RNAV)
+Standard Arrival Chart - Instrument (REMEN WEST-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY20)
+Instrument Approach Chart (ILS Y or LOC Y RWY20)
+Instrument Approach Chart (VOR RWY20)
+Instrument Approach Chart (VOR RWY02)
+Instrument Approach Chart (RNP Z RWY02)
+Instrument Approach Chart (RNP Y RWY02(AR))
+Instrument Approach Chart (RNP Z RWY20(AR))
+Instrument Approach Chart (RNP Y RWY20(AR))
+Other Chart (Visual REP) 
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:18 APR 2024) 21/3/24
+←
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC  DAIKAMANAH / ISJR
+HANAMAKI  AP
+PAPI  Angle  3.0°
+MEHT 65.6ft
+OVERRUN AREA EDGE LGT
+RTHL
+WIND SPEED METER
+RVR
+GP 332.0
+PAPI  Angle  3.0°
+MEHT  74ft
+TERMINAL BUILDING
+DETAIL-A
+APCH  LGT  BEACONS
+SALS
+334m 420m
+596m 900m
+(SFL-V)
+ALS
+SEQUENCED  FLASHING  LGT
+RWY GUARD LGT
+ABCDE
+O
+N L
+M
+I
+J
+K
+F
+G
+H
+R
+S
+Q
+P
+17 4435 53 62
+17 26 35 44 62
+WDI
+RTZL
+APRON FOR
+SMALL ACFT
+SEE DETAIL-A
+ABNW-APRON
+FIRE STATION
+T5
+HANAMAKI RADIO
+118.2 - 126.2
+APRON FLOOD LGT
+TAXIING GUIDANCE SIGN
+12345
+T3
+26
+WDI
+WIND SPEED METER
+392623.24N 1410817.11E
+ARP 
+294ft
+VOR/DME
+112.8 HPE
+CH-75X
+LOC
+109.3 IHP
+ILS
+17
+17
+452.4m
+429.0m
+392543N 1410807E
+392503.58N 1410757.62E
+VAR 9˚W
+(2021)
+Annual change 3
+`34
+zW
+T1T2
+P3 P2 P1
+T4
+553
+TAXIING GUIDANCE SIGN
+tf4.382tf4.382 285.4ft tf3.392tf9.492 297.5ft 297.5ft
+%6.0
+%6.0
+%2.0
+%2.0
+%3.0 LEVEL
+0m 160m 650m 1310m 2210m1732m 2500m
+RWY 02 RWY 20
+T1, T2, T3, T4, T5-TWY
+RWY SIDE
+RWY HLDG PSN markings
+LONGITUDINAL PROFILE OF RWY
+G
+H
+F
+J
+K
+I
+ED C B A
+ REMARK:
+TWY width and strength
+34m PCR 703/F/B/X/T
+30m PCR 929/F/D/X/T
+23m PCR 873/F/B/X/T
+W-Apron strength
+(AUW5700kg/0.28MPa)
+ Dimentions of RWY
+Designations RWY NR
+18˚/198˚
+PCR 873/F/B/X/T    Asphalt
+02/20
+2500m × 45m(RWY GROOVING 2500m × 45m)
+Strength and surface of RWY
+Magnetic BRG
+PCR 785/R/B/W/T
+(APRON FOR SMALL ACFT)
+T1, T4
+T2, T3
+T5
+P1-P3
+28.5m PCR 873/F/B/X/T
+PCR 1132/R/B/W/TApron strength
+SEE DETAIL-B
+R
+S
+Q
+DETAIL-B
+CEILOMETER
+(EFF:28 NOV 2024) → 31/10/24
+RJSI AD2.24-ADC-1
+HANAMAKI
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJSI / HANAMAKI SID
+OHSHU TWO DEPARTURE
+    RWY 02 :  Climb RWY HDG to 900FT, turn left...
+    RWY 20 : Climb RWY HDG to 1300FT, turn left HDG 325˚...
+ ...to intercept and proceed via HPE R010 to OHSHU.
+1300
+900
+010˚
+HDG325˚
+OHSHU
+D60.2 HPE
+VOR/DME
+HANAMAKI
+112.8   HPE
+300FT
+CH–75X
+ÛÝ1ÛÝ(
+CHANGE : PROC course. PROC renamed.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-SID-1
+HANAMAKI
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJSI / HANAMAKI SID
+NIIGATA SIX DEPARTURE
+    RWY 02 :    Climb RWY HDG to HPE 3.5 DME, turn right...
+    RWY 20 :    Climb RWY HDG to HPE 3.5 DME, turn left... 
+                     ...proceed to HPE VOR/DME, via HPE R236 to HPE 50.0DME(GTC 79.6DME),
+                        Cross HPE VOR/DME at or above 2200 FT, cross HPE R236/50.0DME
+Note RWY02 : 4.5% climb gradient required up to 2400FT.
+OBST ALT 1641FT located at 4.1NM 091˚ FM end of RWY02.
+RWY20 : 3.9% climb gradient required up to 1100FT.
+OBST ALT 722FT located at 2.8NM 166˚ FM end of RWY20.
+2200
+236˚
+D3.5
+HPE
+D3.5
+HPE
+VORTAC
+NIIGATA
+115.5   GTC
+0FT
+CH–102X
+ÛÝ1ÛÝ(
+VOR/DME
+HANAMAKI
+112.8   HPE
+300FT
+CH–75X
+ÛÝ1ÛÝ(
+                        via GTC R055 to GTC.
+(GTC R055/79.6DME) at or above 12000 FT.
+235˚
+12000
+R236/D50.0 HPE
+R055/D79.6 GTC
+CHANGE : SID renamed.  ALT restriction at R236/D50.0 HPE, R055/D79.6 GTC.
+(EFF:26 DEC 2024) 26/12/24
+RJSI AD2.24-SID-2
+HANAMAKI
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+Note RWY02 : 5.0% climb gradient required up to 3200FT.
+OBST ALT 2691FT located at 9.1NM 058˚ FM end of RWY02.
+RJSI / HANAMAKI SID
+HANAMAKI REVERSAL THREE DEPARTURE
+    RWY 02 :   Climb RWY HDG to 700FT, via HPE R022 to 6.0 DME, turn right...
+    RWY 20 :   Climb RWY HDG to 700FT, via HPE R195 to 6.0 DME, turn left...
+    ...direct to HPE VOR/DME.
+                      Cross HPE VOR/DME at or above 6000FT.
+6000
+195˚
+022˚
+D6.0
+HPE
+D6.0
+HPE
+700
+700
+VOR/DME
+HANAMAKI
+112.8   HPE
+300FT
+CH–75X
+ÛÝ1ÛÝ(
+CHANGE : PROC renamed. PROC course.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-SID-3
+HANAMAKI
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RNAV SIDRJSI / HANAMAKI
+SAMBO ONE DEPARTURE RNP1
+Note GNSS required. 
+VAR 9˚W SAMBO
+401115.9N
+1405701.4E
+DASCO
+395109.2N
+1410826.4E
+AKARI
+394317.5N
+1410818.3E
+SI010
+392659.4N
+1410155.6E
+700
+345˚21.9
+009˚7.9
+025˚17.0
+019˚
+199˚
+1300
+RWY02凬Climb on HDG 019˚ at or above 700FT, direct to AKARI, to DASCO to SAMBO.
+RWY20凬Climb on HDG 199˚ at or above 1300FT, turn right direct to SI010, to AKARI, to DASCO to SAMBO .
+Note RWY02 : 4.0% climb gradient required up to 700FT.
+OBST ALT 318FT located at 0.2NM 061˚ FM end of RWY02. 
+RWY20 : 4.0% climb gradient required up to 2700FT.
+OBST ALT 3117FT located at 10.7NM 351˚ FM end of RWY20.
+RWY02
+Vertical
+Angle
+Navigation
+Specification
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+001
+002
+003
+004
+VA
+DF
+TF
+TF
+AKARI
+DASCO
+SAMBO
+(010.7)019
+(000.8)009
+(336.6)345
+-8.7
+-8.7
+-8.7
+-8.7
+7.9
+21.9
++700 RNP1
+RNP1
+RNP1
+RNP1
+RWY20
+Vertical
+Angle
+Navigation
+Specification
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+001
+002
+003
+004
+005
+VA
+DF
+TF
+TF
+TF
+AKARI
+DASCO
+SAMBO
+SI010
+(000.8)009
+(336.6)345
+(016.7)025
+(190.7)199 -8.7
+-8.7
+-8.7
+-8.7
+-8.7
+7.9
+21.9
+17.0
++1300
+R
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+CHANGE : Description of VOR/DME.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-SID-4
+HANAMAKI
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+1PNR ERUTRAPED ENO AKNAH
+Note GNSS required 
+VAR 9˚W 
+RNAV SIDRJSI / HANAMAKI
+RWY02 凬Climb on HDG 019˚ at or above 1600FT, turn left direct to HANKA, at or above 11000FT.
+RWY20 凬Climb on HDG 199˚ at or above 800FT, turn right direct to HANKA, at or above 11000FT.
+Note RWY02: 5.0% climb gradient required up to 3600FT.
+OBST ALT 1936FT located at 5.5NM 340˚ FM end of RWY02. 
+OBST ALT 3018FT located at 8.2NM 310˚ FM end of RWY02. 
+RWY20: 5.0% climb gradient required up to 5400FT.
+OBST ALT 4593FT located at 18.2NM 227˚ FM end of RWY20.
+OBST ALT 5151FT located at 20.8NM 232˚ FM end of RWY20.
+11000
+HANKA
+390106.0N
+1403340.8E
+800
+1600
+199˚
+019˚
+RWY20
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+–
+–
+–
+–
+– 
+R
+–
+–
++800
++11000
+–
+–
+–
+HANKA
+(190.7)
+199
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.7
+-8.7–
+RWY02
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+–
+–
+–
+–
+– 
+L
+–
+–
++1600
++11000
+–
+–
+–
+HANKA
+(010.7)
+019
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.7
+-8.7–
+CHANGE : Description of VOR/DME.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-SID-5
+HANAMAKI
+
+
+=== Page 17 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+From MORIO at or above 9000FT, to JAMEN at or above 7400FT, to REMEN at or above 4100FT. 
+1PNR LAVIRRA NEMER
+Note GNSS required 
+VAR 9˚W 
+RNAV STAR RWY02
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++9000
++7400
++4100
+–
+10.0
+15.7
+MORIO
+JAMEN
+REMEN
+(209.6)
+(209.5)
+218
+218
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.8
+-8.8
+-8.8
+–
+RJSI / HANAMAKI
+218˚
+15.7
+218˚
+10.0
+MORIO
+393645.2N
+1412818.2E
+7400
+9000
+JAMEN
+392803.1N
+1412154.4E
+REMEN
+391421.9N
+1411154.3E
+4100
+244˚
+064˚
+MHA 9000
+MAX 230KIAS
+MORIO
+NOT TO SCALE
+1MIN
+Path Waypoint
+Identifier Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+(MIN)
+Turn
+Direction Altitude
+(FT)
+Speed
+(KIAS)
+Navigation
+Specification
+Hold MORIO -8.8 9000 FL140  RNP1244
+(235.7) 1.0(-14000)
+Inbound
+Time
+R
+Minimum
+Altitude
+(FT)
+Maximum
+-230(-14000)
+CHANGE : Description of VOR/DME.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-STAR-1
+HANAMAKI
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+From SIOMO at or above 8000FT, to WANKO at or above 5800FT. 
+W1 PNRLAVIRRA OKNA
+Note GNSS required 
+VAR 9˚W 
+021˚20.6
+RNAV STAR RWY20
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
++8000
++5800
+–
+20.6
+SIOMO
+WANKO (012.6)
+021
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.8
+-8.8
+–
+RJSI / HANAMAKI
+WANKO
+392809.0N
+1410019.6E
+5800
+SIOMO
+390801.8N
+1405430.3E
+8000
+219˚039˚
+MHA 8000
+MAX 210KIAS
+SIOMO
+NOT TO SCALE
+1MIN
+Path Waypoint
+Identifier Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+(MIN)
+Turn
+Direction Altitude
+(FT)
+Speed
+(KIAS)
+Navigation
+Specification
+Hold SIOMO -8.8 8000 FL140  RNP1039
+(030.1) 1.0(-14000)
+Inbound
+Time
+R
+Minimum
+Altitude
+(FT)
+Maximum
+-210(-14000)
+CHANGE : Description of VOR/DME.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-STAR-2
+HANAMAKI
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+SIOMO ARRIVAL RNP1
+RNAV STAR RWY02RJSI / HANAMAKI
+Note GNSS required. 
+VAR 9˚W 
+From ENBIM at or above 9000FT, to NOPID at or above 8200FT, to ANOLA, to SIOMO at or above 8000FT. 
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++9000
++8200
+–
+7.9
+33.4
+ENBIM
+NOPID
+ANOLA
+(195.0)
+(194.9)
+204
+204
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.8
+-8.8
+-8.8
+–
+Navigation
+Specification
+RNP1-2309000 FL140LENBIM
+Path
+Hold
+Course
+˚M(˚T)
+Tur n
+Direction Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Time
+(MIN)
+-8.8
+OutboundInbound Minimum
+Altitude
+(FT)
+Maximum
+(186.5)
+195 1.0(-14000) (-14000)
+ENBIM
+MHA 9000
+MAX 230KIAS 1MIN
+195˚
+015˚
+NOT TO SCALE
+SIOMO
+390801.8N
+1405430.3E
+8000
+NOPID
+394742.1N
+1410723.8E
+ENBIM
+395519.3N
+1411002.8E
+8200
+9000
+199˚7.5
+204˚33.4
+204˚7.9
+TF RNP1–––– +80007.5SIOMO (190.6)
+199004 -8.8
+–
+ANOLA
+391524.7N
+1405616.9E
+CHANGE : Description of VOR/DME.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-STAR-3
+HANAMAKI
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+SUIHO ARRIVAL RNP1
+RNAV STAR RWY20RJSI / HANAMAKI
+Note GNSS required. 
+VAR 9˚W
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++9000
++4100
++3200
+–
+6.1
+12.4
+ENBIM
+OMKOS
+SUIHO
+(178.1)
+(178.1)
+187
+187
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.8
+-8.8
+-8.8
+–
+Navigation
+Specification
+RNP1-2309000 FL140LENBIM
+Path
+Hold
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Time
+(MIN)
+-8.8
+OutboundInbound Minimum
+Altitude
+(FT)
+Maximum
+(186.5)
+195 1.0(-14000) (-14000)
+From ENBIM at or above 9000FT, to OMKOS at or above 4100FT, to SUIHO at or above 3200FT.
+SUIHO
+393649.3N
+1411050.7E
+3200
+OMKOS
+394911.2N
+1411018.8E
+ENBIM
+395519.3N
+1411002.8E
+187˚12.4
+187˚6.1
+9000
+4100
+ENBIM
+MHA 9000
+MAX 230KIAS 1MIN
+195˚
+015˚
+NOT TO SCALE
+CHANGE : Description of VOR/DME.
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-STAR-4
+HANAMAKI
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+3041
+5077
+4503
+2855
+8000
+ 14.9
+䢢䢢䢢
+074° 6000
+  SIOMO
+䢢䢢390801.8N
+1405430.3E
+  REMEN
+䢢䢢391421.9N
+1411154.3E
+䢳䢶䢳䤑䢴䢲䢩䣇䢳䢶䢳䤑䢲䢩䣇
+䢵䢻䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.294
+4300
+3300
+2300
+1300
+VAR 9°W
+REMEN WEST ARRIVAL RNP1
+Note GNSS required.
+RNAV STAR RWY20RJSI / HANAMAKICHANGE : Description of VOR/DME.
+      From SIOMO at or above 8000FT, to REMEN at or above 6000FT.
+5 0 5 1 01 52 0
+KM
+202468 1 0 1 2
+NM
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF - -8.8 - - - RNP1
+002 TF - -8.8 - - - RNP1
+Path Waypoint
+Identif ier
+Minimum
+Altitude
+(FT)
+Navigation
+Specification
+Hold SIOMO 8000 RNP1
+074
+(064.7)
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM )
+Altitude
+(FT)
+REMEN 14.9 +6000
+SIOMO - - +8000
+Inbound
+Course
+°M(°T)
+039
+(030.1)
+Magnetic
+Variation
+Turn
+Direction
+R
+Speed
+(KIAS)
+-210(-14000)-8.8
+Outbound
+Time
+(MIN)
+1.0(-14000) FL140
+Maximum
+Altitude
+(FT)
+NOT TO SCALE
+1MIN
+MHA 8000
+MAX 210KIAS
+SIOMO
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-STAR-5
+HANAMAKI
+
+
+=== Page 23 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+006˚
+˚681
+HANAMAKI CITY
+HANAMAKI
+VOR/DME
+112.8    HPE
+CH-75X
+180
+°
+360°
+090°
+3086
+1854
+1674
+441
+3083
+2812
+2893
+DME to IHP
+NM to THR
+Timing not authorized for
+defining the MAPt.
+5.6
+5.4
+9.3
+9.1
+2.5
+2.3
+1.3
+1.2
+0.7
+0.5
+RDH54
+0
+0.2
+090˚
+270˚
+360˚
+7800
+74006200
+MSA 25NM
+HPE
+RJSI / HANAMAKI
+6290
+2746
+3045
+917 2577
+726
+700
+446
+442
+10NM
+MHA 4000
+MAX 230KIAS
+MAPt(LOC)
+HIZME(FAF)
+Turn initiation within D13.0 HPE
+MAX Turning speed 200KIAS
+D0.7 IHP
+D8.0 HPE
+D5.6 IHP
+ILS Z or LOC Z RWY20
+ɹSHIRAKAMI APP     
+119.25 - 315.3 - 120.65 
+ILS – LOC
+109.3  IHP
+ILS – GP  332.0
+HANAMAKI  RADIO
+118.2 – 126.2 RADAR AVBL
+ÛÝ1ÛÝE
+Climb via HPE R202 to 
+HPE 8.0DME, turn left, 
+direct to HPE VOR/DME 
+and hold at 4000FT.   
+Contact SHIRAKAMI APP.  
+4000
+770
+(476)MDA
+1500
+(1206)
+ 
+
+HIZME(FAF) : 1(
+2700
+(2406)
+MAPt
+(LOC)
+VDP
+(LOC)
+SDF
+(LOC)
+HIZME
+(FAF) SDF
+3600
+GP 3.0˚
+HPE
+199˚
+199˚
+199˚
+199˚
+006˚
+006˚
+460
+202˚
+MISSED APPROACH
+EQPT REQUIRED
+DME
+VOR
+ILS – DME CH-30X
+Turn initiation within D13.0 HPE
+NM to IHP
+ALT (3.0˚ APCH Path)
+FAF
+2072
+4
+1566
+5
+1884
+3
+1247
+2
+929
+MAPt
+–
+VAR 9˚W 
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+498 (200) 700 (406)
+1000 (706)
+760 (466)
+860 (566)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 298 AD elev. 294
+A
+B
+C
+D
+1176
+CHANGE : VAR. MSA(BTN 270° and 360°). DME to IHP. NM to THR. MDA(H) for LOC.
+(LOC) (LOC)
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-IAC-1
+HANAMAKI
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+006˚
+D5.6 IHP
+186˚
+D8.0 HPE 202˚
+270°
+064˚
+244˚
+HANAMAKI
+VOR/DME
+112.8    HPE
+CH-75X
+180°
+360°
+090°
+3086
+2995
+1674
+3083
+DME to IHP
+NM to THR
+10.8
+10.6
+5.6
+5.4
+9.3
+9.1
+1.3
+1.2
+2.5
+2.3
+0.7
+0.50
+0.2
+090˚
+270˚
+360˚
+7800
+74006200
+MSA 25NM
+HPE
+HIZME(FAF) : 393142.42N/1410935.33E
+NM to IHP
+ALT (3.0˚ APCH Path)
+FAF
+2072
+4
+1566
+5
+1884
+3
+1247
+2
+929
+MAPt
+–
+1088
+SDF
+(LOC)
+HIZME
+(FAF)
+SUIHO
+(IF)SDF
+199˚
+199˚
+MDA
+RJSI / HANAMAKI
+6290
+2746
+3045
+917 2577
+726
+700
+446
+442
+R064
+R054
+R034
+10NM
+MHA 9000
+9000
+MAPt(LOC)
+D0.7 IHP
+MORIO(IAF)
+D19.0 HPE
+D25.0HPE
+ILS Y or LOC Y RWY20
+ILS – LOC
+109.3  IHP
+ILS – GP  332.0
+HANAMAKI  RADIO
+118.2 – 126.2
+ÛÝ1ÛÝE
+Climb via HPE R202 to  
+HPE 8.0DME, turn left, 
+direct to HPE VOR/DME 
+and hold at 4000FT.   
+Contact SHIRAKAMI APP.   
+MAPt
+(LOC)
+VDP
+(LOC)
+3200GP 3.0˚
+HPE
+RDH54
+R027
+199˚
+199˚
+199˚
+460
+MISSED APPROACH
+EQPT REQUIRED
+DME
+VORD17.0 HPE ARC
+ILS – DME CH-30X
+MHA 4000
+MAX 230KIAS
+MAX 230KIAS
+2100
+2072
+Timing not authorized for
+defining the MAPt.
+HANAMAKI CITY
+NOTE : For Initial approach segment
+from over WANKO
+(1) RNP1
+(2) GNSS required
+441
+770
+(476)
+1500
+(1206)
+2700
+(2406)
+7200
+3400
+109˚(100.5˚T)/3.0
+109˚(100.5˚T)/3.0
+5000
+4000
+TAIHO
+SUIHO(IF)
+HIZME
+(FAF)
+393722.4N
+(
+5800
+WANKO(IAF)
+392809.0N
+(
+4200
+MAX 200KIAS
+RYUHO
+393755.0N
+1410310.5E
+3200
+1
+1411050.7E
+D16.8 IHP
+D10.8 IHP
+299˚
+119˚
+R299
+MHA 5800
+MAX 210KIASD12.0
+HPE
+WANKO
+HPE
+VOR/DME
+D6.3 HPE
+10.0
+(012.7˚T)
+022˚
+VAR 9˚W 
+ 
+MINIMA 
+CAT
+CAT 䱶 
+DA(H)
+498 (200) 700 (406)
+1000 (706)
+760 (466)
+860 (566)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 298 AD elev. 294
+A
+B
+C
+D
+Using NAVAID
+1854
+1176
+CHANGE : DME to IHP. NM to THR. MDA(H) for LOC. MSA(BTN 270° and 360°). 
+                   VAR. Course FM WANKO to RYUHO. HLDG pattern at MORIO. HLDG pattern for using NAVAID. 
+ɹSHIRAKAMI APP     
+119.25 - 315.3 - 120.65 RADAR AVBL
+(LOC)
+(LOC)
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-IAC-2
+HANAMAKI
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180°
+360
+°
+090°
+202˚
+202˚
+˚700
+202˚
+187˚
+˚700
+MHA 4000
+MAX 230KIAS
+MAPt
+MASAH(FAF)
+4000
+3500
+D8.0 HPE
+DME to HPE
+NM to THR
+10.0
+9.6
+5.0
+4.6
+1.60.4
+1.2
+2.5
+2.10
+090˚
+270˚
+360˚
+7800
+74006200
+MSA 25NM
+HPE
+D5.0 HPE
+Turn initiation within D12.0 HPE
+MAX Turning speed 200KIAS
+Turn initiation within D12.0 HPE
+1008 1805
+MDA
+820
+(526)
+1500
+(1206)
+2600
+(2306)Timing not authorized for defining the MAPt.
+10NM
+RJSI / HANAMAKI VOR RWY20
+HANAMAKI  VOR/DME
+  112.8           HPE 
+  
+CH–75X
+HANAMAKI  RADIO
+118.2 – 126.2
+6290
+3086
+1854
+3045
+16743083
+2812
+917 2577
+726
+700
+1049
+1176
+2746
+HANAMAKI
+CITY
+007˚
+202˚
+202˚
+HPE
+VDP 3.0˚
+SDF
+SDF
+MASAH
+(FAF)MAPt
+MISSED APPROACH
+Climb via HPE R202 to HPE 
+8.0DME, turn left, direct to 
+HPE VOR/DME and hold
+at 4000FT.
+Contact SHIRAKAMI APP.
+460
+ÛÝ1ÛÝE
+441
+446
+442
+EQPT REQUIRED
+DME
+MASAH(FAF) : 1(
+NM to HPE
+ALT (3.0˚ APCH Path)
+FAF
+1805
+4
+1486
+3
+1168
+2
+849
+MAPt
+–
+ 
+MINIMA 
+CAT
+700 (406)
+1000 (706)
+760 (466)
+860 (566)
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 298 AD elev. 294
+A
+B
+C
+D
+VAR 9˚W
+CHANGE : VAR. MSA(BTN 270° and 360°). DME to HPE. NM to THR. MINIMA for MDA(H).
+2893
+ɹSHIRAKAMI APP     
+119.25 - 315.3 - 120.65 RADAR AVBL
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-IAC-3
+HANAMAKI
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+DME to HPE
+NM to THR
+0.9
+0
+3.0˚
+2.0
+1.0
+2.5
+1.6
+5.9
+5.0
+270°
+180
+°
+360
+°
+090°
+015˚
+015˚
+015˚179˚
+179˚ 359˚
+MHA4500
+MAX 230KIAS
+10NM
+4500
+2300
+1925
+EQPT REQUIRED
+DMEVAR 9˚W 
+090˚
+270˚
+360˚
+7800
+74006200
+MSA 25NM
+HPE
+Turn initiation within D11.0 HPE
+MAX Turning speed 200KIAS
+Turn initiation within D11.0 HPE
+SHIHO(FAF) : 392005.53N/1410711.95E
+NM to HPE
+ALT (3.0˚ APCH Path)
+FAF
+1925
+5
+1626
+4
+1308
+3
+989
+2
+671
+MAPt
+–
+830
+RJSI / HANAMAKI VOR RWY02
+HANAMAKI  RADIO
+118.2 – 126.2
+62903086
+1854
+3045
+1674
+3083
+2812
+917
+2577
+726
+700
+1049
+2893 1176
+2746
+HANAMAKI
+CITY
+MAPt
+D0.9 HPE
+SHIHO
+(FAF)
+D5.9 HPE
+D6.0 HPE
+179˚
+015˚
+015˚
+HPE
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.6%
+MAPt
+VDP
+MDA
+SDF
+SHIHO
+(FAF)
+1500
+(1217) 800
+(517)
+MISSED APPROACH
+Climb via HPE R015 to HPE
+6.0DME, turn right, direct to HPE 
+VOR/DME and hold at 4500FT.
+Contact SHIRAKAMI APP.
+460
+HANAMAKI  VOR/DME
+  112.8           HPE 
+  
+CH–75X
+ÛÝ1ÛÝE
+441
+446
+442
+Timing not authorized for defining the MAPt.
+ 
+MINIMA 
+CAT
+670 (387)
+1000 (706)
+860 (566)
+760 (466)1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 283 AD elev. 294
+A
+B
+C
+D
+ɹSHIRAKAMI APP     
+119.25 - 315.3 - 120.65 RADAR AVBL
+CHANGE : VAR. MSA(BTN 270° and 360°). PROC course. Missed APCH course. HLDG pattern.
+                  OCA(H). DME to HPE. MINIMA for MDA(H).
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-IAC-4
+HANAMAKI
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ RNP Z RWY02IKAMANAH / ISJR
+8.7
+(010.7˚T)
+020˚
+THR elev.283 AD elev.294MINIMA
+Missed APCH climb gradient MNM 4 .0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+DA(H) CMV MDA(H) CMV MDA(H) VIS
+A 1200 760(466)
+B
+C
+860(566)
+2400
+D 1600
+1000(706)
+3200
+CIRCLING
+1600
+CAT
+1300
+VANLVANV/VANL
+650(367)
+NM to Next Fix FAF
+9691288ALT(3.0˚ APCH Path)
+432
+1900 651
+1 MAPt
+–6061
+MISSED APPROACH
+Climb direct to SI251, turn right direct to 
+HPE and hold at 4500FT. 
+Contact SHIRAKAMI APP.
+390801.78N
+1405430.28E
+390642.80N
+1410329.59E
+391421.92N
+1411154.27E
+391517.95N
+1410534.72E
+392013.09N
+1410646.65E
+392335.04N
+1410735.97E
+392503.58N
+1410757.62E
+393152.68N
+1410937.82E
+392600.09N
+1410800.60E
+SIOMO
+(IAF)
+RYUTA
+REMEN
+(IAF)
+NITBE
+(IF)
+INAZO
+(FAF)
+SI250
+RW02
+(MAPt)
+SI251
+(MATF)
+HPE
+(MAHF)
+RW02
+(MAPt)
+1400
+1200
+1600
+1300
+1400
+Baro-VNAV not authorized below -20˚C
+VAR 9˚W  
+ARP: 392543N/ 1410807E
+7800
+ARP
+SI251
+(MATF)
+SIOMO
+(IAF)
+NITBE
+(IF)
+INAZO
+(FAF)
+REMEN
+(IAF)
+RYUTA
+3900
+1500
+(1217)
+3.00˚
+INAZO
+(FAF)
+RW02
+(MAPt)
+04.9
+MDA
+1.5
+VDP
+(LNAV)
+SI250
+(LNAV)
+730
+(447)
+1900
+810
+NITBE
+(IF)
+9.9NM to THR
+RDH50
+2000
+630(347) 660(377)
+610(327)
+219˚039˚
+179˚ 359˚
+179˚ 359˚
+MHA 8000
+MAX 210KIAS
+SIOMO
+HPE
+VOR/DME
+MHA 4500
+MAX 230KIAS
+7.1
+110˚(100.6˚T)
+020˚(010.7˚T)/1.5
+020˚(010.7˚T)/3.4
+10NM
+SI250
+5.0
+(280.8˚T)
+290˚
+MSA 25NM
+5.0
+(010.7˚T)
+020˚
+020˚
+020˚
+VOR/DME
+HANAMAKI
+112.8   HPE
+CH–75X
+ÛÝ1ÛÝ(
+HANAMAKI  RADIO
+118.2 – 126.2
+Using NAVAID
+2926
+ɾ
+ɾ
+3174
+ɾ
+2926
+ɾ3098
+ɾ4503
+ɾ3714
+ɾ
+1773
+ɾ
+ɾ
+ɾ
+932
+1963
+1806
+NOT TO SCALE
+RNAV HLDG
+NOT TO SCALE
+MHA 4500
+MAX 230KIAS
+HANAMAKI
+     (HPE)
+1MIN
+RNAV HLDG
+NOT TO SCALE
+1MIN
+1MIN
+RNAV HLDG
+MHA 4100
+MAX 230KIAS
+REMEN
+NOT TO SCALE
+290°
+110°
+RNP APCH
+CHANGE: Course FM NITBE to SI250, in profile view. 
+ɹSHIRAKAMI APP     
+119.25 - 315.3 - 120.65 RADAR AVBL
+1.0
+(EFF:26 DEC 2024) 26/12/24
+RJSI AD2.24-IAC-5
+HANAMAKI
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2926
+6687
+1562
+1963
+3098
+6290
+5371
+3174
+3045
+3422
+1806
+2838
+2926
+3086
+1712
+2577
+10NM
+VOR/DME
+HPE
+HANAMAKI
+112.8  HPE
+CH-75X䢢䢢䢢䢢䢢䢢䢢
+39°26'00"N/141°08'01"E
+020°/1.6
+7.7
+5.0
+169°
+25.4189°
+169°/1.5
+SI253
+ISIDO
+(IF)
+SI252
+MAX 165KIAS
+KENDA
+(FAF)
+ENBIM
+(IAF)
+RW02
+SI251
+(MATF)
+䢳䢶䢳䤑䢶䢲䢩䣇䢳䢶䢳䤑䢵䢲䢩䣇䢳䢶䢳䤑䢴䢲䢩䣇䢳䢶䢳䤑䢳䢲䢩䣇䢳䢶䢳䤑䢲䢩䣇䢳䢶䢲䤑䢷䢲䢩䣇䢳䢶䢲䤑䢶䢲䢩䣇
+䢵䢻䤑䢷䢲䢩䣐
+䢵䢻䤑䢶䢲䢩䣐
+䢵䢻䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.294
+3800
+3300
+2800
+2300
+1800
+1300
+800
+KENDA(FAF) : 392513.70N/1411207.87E
+SHIRAKAMI   APP
+119.25 - 315.3 - 120.65
+RNP  AR
+RF  required.
+HANAMAKI RADIO
+118.2 - 126.2 RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -20°C / above 45°C
+VAR 9°W
+RNP Y RWY02(AR)RJSI / HANAMAKICHANGE : HLDG pattern for using NAVAID. RNAV HLDG at HANAMAKI.
+090°
+360°
+270°l
+7800
+6200 6500
+MSA  RW02  25 NM
+202468 1 0
+KM
+1012345
+NM
+Missed APCH climb gradient MNM 4.0%
+DA(H) CMV
+A
+B
+C 1400
+D 1600
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+595(312)
+Authorization Required-
+ MINIMA          THR elev. 283       AD elev. 294
+CAT RNP 0.30
+-
+NOT TO SCALE
+MHA 9000
+MAX 230KIAS 1MIN
+RNAV  HLDG
+ENBIM
+Þ
+1.6
+RDH 50
+NM to THR
+SI252
+ENBIM
+(IAF)
+9000
+MISSED APPROACH
+Climb to 4500FT , direct to 
+SI251, turn right direct to 
+HPE and hold.
+Contact SHIRAKAMI APP.
+3312
+41.3
+ISIDO
+(IF)
+015.9
+4000
+10.9 9.4
+KENDA
+(FAF)
+848
+SI2533800
+RW02
+NOT TO SCALE
+MHA 4500
+MAX 230KIAS
+HANAMAKI
+VOR/DME
+(HPE)
+Using NAVAID
+RNAV  HLDG
+NOT TO SCALE
+MHA 4500
+MAX 230KIAS
+1MIN
+HANAMAKI 
+(HPE)
+(EFF:28 NOV 2024) 31/10/24
+RJSI AD2.24-IAC-6
+HANAMAKI
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJSI AD2.24-IAC-7
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.8 - - - -
+002 TF - -8.8 - - - 1.0
+003 TF - -8.8 - - - 1.0
+004 TF - -8.8 - -165 -3.00 0.3
+005
+RF
+Center:
+SIRF1
+r=2.10NM
+- -8.8 R - -3.00 0.3
+006 TF Y -8.8 - - -3.00/50 0.3
+007 DF Y -8.8 - - - 1.0
+008 DF - -8.8 R - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold ENBIM L FL140 -230
+(-14000) 1.0
+Hold HPE L FL140 -230
+(-14000) 1.0
+CHANGE : HLDG at HPE. VAR.
+1.0 (-14000)
+195
+(186.5) -8.8 1.0 (-14000)
+KENDA
+395519.34N / 1411002.82E
+25.4
+KENDA 169
+(160.3) 5.0
+-
+1.5
+7.7
+1.6
+SI251
+9000
+4500
+Waypoint䚷Identifier Coordinates
+Waypoint Coordinates
+HPE --
+-8.9 4500179
+(169.7)
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+Coordinates
++4000
+3312
+848
+333
+-
+3800
++9000
+RJSI / HANAMAKI RNP Y RWY02(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+ENBIM -
+-
+SI252
+SI253
+RW02
+169
+(160.4)
+-
+020
+(010.7)
+392304.37N / 1411014.42E
+392347.07N / 1411247.89E
+392327.97N / 1410734.24E
+392503.58N / 1410757.62E
+RF Arc Center Identifier
+SIRF1
+392956.45N / 1410957.05E
+392513.70N / 1411207.87E
+HPE 392600.09N / 1410800.60E
+ENBIM
+ISIDO
+SI251 393152.68N / 1410937.82E
+ISIDO 189
+(180.2)
+SI252
+SI253
+RW02
+-
+HANAMAKI
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+4503
+3173
+3098
+2926
+2854
+1773
+932
+4395
+3714
+1963
+5077
+1805
+2925
+3422
+10NM
+17.1
+048°
+048°/1.3
+5.0
+048°
+7.6
+199°/1.6
+MOUSU
+(IF)
+RW20
+SIOMO
+(IAF)
+SI052
+(MATF)
+SI051
+GANSU
+(FAF)
+SI050
+MAX 165KIASVOR/DME
+HPE
+HANAMAKI
+112.8  HPE
+CH-75X䢢䢢䢢䢢䢢䢢䢢
+39°26'00"N/141°08'01"E
+䢳䢶䢳䤑䢴䢲䢩䣇䢳䢶䢳䤑䢳䢲䢩䣇䢳䢶䢳䤑䢲䢩䣇䢳䢶䢲䤑䢷䢲䢩䣇
+䢵䢻䤑䢵䢲䢩䣐
+䢵䢻䤑䢴䢲䢩䣐
+䢵䢻䤑䢳䢲䢩䣐
+Contour
+Intervals
+AD elev.294
+3800
+3300
+2800
+2300
+1800
+1300
+800
+GANSU(FAF) : 392512.44N/1411222.60E
+SHIRAKAMI   APP
+119.25 - 315.3 - 120.65
+RNP  AR
+RF  required.
+HANAMAKI RADIO
+118.2 - 126.2 RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -20°C / above 45°C
+VAR 9°W
+RNP Z RWY20(AR)RJSI / HANAMAKICHANGE : ATC call sign and FREQ. Description of RADAR Service. Missed APCH PROC.
+090°
+360
+°
+270°l
+7800
+6200 7400
+MSA  RW20  25 NM
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+1MIN
+RNAV  HLDG
+HANAMAKI 
+(HPE)
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+VOR/DME
+HANAMAKI 
+(HPE)
+Using NAVAID
+10123456789 1 0
+KM
+1012345
+NM
+NOT TO SCALE
+1MIN
+MHA 8000
+MAX 210KIAS
+SIOMO
+RNAV HLDG
+DA(H) RVR/CMV
+A
+B
+C 1000
+D 1400 607(309)
+Authorization Required-
+ MINIMA          THR elev. 298       AD elev. 294
+CAT RNP 0.30
+-
+Þ
+1.6
+RDH 54
+NM to THR
+SIOMO
+(IAF)MISSED APPROACH
+Climb to 4000FT , direct to 
+SI052, turn left direct to HPE 
+and hold.
+Contact SHIRAKAMI APP. 3285
+SI051
+32.6
+MOUSU
+(IF)
+8000
+0
+RW20
+15.510.59.2
+GANSU
+(FAF)
+853
+SI050
+3700
+4800
+(EFF:18 APR 2024) 21/3/24
+RJSI AD2.24-IAC-8
+HANAMAKI
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJSI AD2.24-IAC-9
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.8 - - - -
+002 TF - -8.8 - - - 1.0
+003 TF - -8.8 - - - 1.0
+004 TF - -8.8 - -165 -3.00 0.3
+005
+RF
+Center:
+SIRF2
+r=2.10NM
+- -8.8 L - -3.00 0.3
+006 TF Y -8.8 - - -3.00/54 0.3
+007 DF Y -8.8 - - - 1.0
+008 DF - -8.8 L - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold SIOMO R FL140 -210
+(-14000) 1.0
+Hold HPE R FL140 -230
+(-14000) 1.0
+CHANGE : PROC renamed.
+Waypoint Coordinates
+SI050
+SI051
+RW20
+SI052
+HPE
+390801.78N / 1405430.28E
+392119.11N / 1410818.81E
+392600.09N / 1410800.60E
+391806.42N / 1410615.76E
+RF Arc Center Identifier
+MOUSU
+392732.73N / 1411119.82E
+392756.30N / 1410839.89E
+4000HPE --
+Coordinates
+8000
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+-8.8 1.0 (-14000) 4000
+MOUSU 048
+(038.8) 17.1 +4800
+SI050 048
+(038.9) 1.3 3285
+GANSU 048
+(038.9) 5.0 3700
+853
+352
+-
+SIOMO - - +8000
+7.6
+1.6
+-
+SI051
+RW20
+SI052
+-
+199
+(190.7)
+-
+RJSI / HANAMAKI RNP Z RWY20(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+392623.24N / 1410817.11E
+039
+(030.1) -8.8 1.0 (-14000)
+GANSU 392512.44N / 1411222.60E
+392613.23N / 1411326.21E
+Waypoint Identifier Coordinates
+SIRF2SIOMO
+006
+(357.5)
+HANAMAKI
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+5396
+3174
+2926
+1963
+3422
+1806
+2855
+2926
+1410
+2577
+1773
+2899
+10NM
+VOR/DME
+HPE
+HANAMAKI
+112.8  HPE
+CH-75X䢢䢢䢢䢢䢢䢢䢢
+39°26'00"N/141°08'01"E
+199°/1.6
+5.0
+016°
+016°/2.5
+6.5
+5.5
+016°
+SI053
+           MAX165KIAS
+䣒䣃䣎䣒䣃
+(IF)
+RW20
+REMEN
+  (IAF) 
+䣐䣃䣍䣃䣐
+(FAF)
+SI052
+(MATF)
+SI051
+䢳䢶䢳䤑䢵䢲䢩䣇䢳䢶䢳䤑䢴䢲䢩䣇䢳䢶䢳䤑䢳䢲䢩䣇䢳䢶䢳䤑䢲䢩䣇
+䢵䢻䤑䢵䢲䢩䣐
+䢵䢻䤑䢴䢲䢩䣐
+Contour
+Intervals
+ AD elev.294
+3800
+3300
+2800
+2300
+1800
+1300
+ 800
+SHIRAKAMI   APP
+119.25 - 315.3 - 120.65
+RNP  AR
+RF  required.
+HANAMAKI RADIO
+118.2 - 126.2 RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -20°C / above 45°C
+VAR 9°W
+RNP Y RWY20(AR)RJSI / HANAMAKICHANGE : ATC call sign and FREQ. Description of RADAR Service. Missed APCH PROC.
+MSA  RW20  25 NM
+74006200
+7800
+l 270°
+360°
+090°
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+VOR/DME
+HANAMAKI 
+(HPE)
+Using NAVAID
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+1MIN
+RNAV  HLDG
+HANAMAKI 
+(HPE)
+NAKAN(FAF) : 392449.66N/1411337.11E
+NOT TO SCALE
+MHA 6000
+MAX 230KIAS REMEN
+RNAV  HLDG
+1MIN
+1012345
+NM
+10123456789 1 0
+KM
+DA(H) RVR/CMV
+A- -
+B- -
+C1 0 0 0
+D1 4 0 0
+ MINIMA          THR elev. 298       AD elev. 294
+CAT RNP 0.30
+607(309)
+Authorization Required
+Þ
+1.6
+RDH 54
+NM to THR
+REMEN
+(IAF)MISSED APPROACH
+Climb to 4000FT , direct to 
+SI052, turn left direct to HPE 
+and hold.
+Contact SHIRAKAMI APP. 2913
+SI051
+21.0
+PALPA
+(IF)
+6000
+0
+RW20
+15.510.58.0
+NAKAN
+(FAF)
+853
+SI053
+3700
+(EFF:18 APR 2024) 21/3/24
+RJSI AD2.24-IAC-10
+HANAMAKI
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJSI AD2.24-IAC-11
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.8 - - - -
+002 TF - -8.8 - - - 1.0
+003 TF - -8.8 - - - 1.0
+004 TF - -8.8 - -165 -3.00 0.3
+005
+RF
+Center:
+SIRF2
+r=2.10NM
+- -8.8 L - -3.00 0.3
+006 TF Y -8.8 - - -3.00/54 0.3
+007 DF Y -8.8 - - - 1.0
+008 DF - -8.8 L - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold REMEN R FL140 -230
+(-14000) 1.0
+Hold HPE R FL140 -230
+(-14000) 1.0006
+(357.5) -8.8 1.0 (-14000) 4000
+Coordinates
+392732.73N / 1411119.82E
+392756.30N / 1410839.89E
+392623.24N / 1410817.11E
+NAKAN 392449.66N / 1411337.11E
+392716.81N / 1411401.29E
+Waypoint Identifier Coordinates
+6.5
+1.6
+-
+HPE --
+SI051
+RW20
+SI052
+-
+199
+(190.7)
+-
+REMEN - - +6000
+RJSI / HANAMAKI RNP Y RWY20(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+4000
+PALPA 016
+(007.2) 5.5 -
+SI053 016
+(007.2) 2.5 2913
+NAKAN 016
+(007.2) 5.0 3700
+853
+352
+-
+CHANGE : PROC renamed.
+Waypoint Coordinates
+SI053
+SI051
+RW20
+SI052
+HPE
+391421.92N / 1411154.27E
+391951.68N / 1411248.23E
+392600.09N / 1410800.60E
+391806.42N / 1410615.76E
+RF Arc Center Identifier
+SIRF2REMEN
+PALPA
+-8.8 6000074
+(065.0)
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+1.0 (-14000)
+HANAMAKI
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJSI / HANAMAKI Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+┒ᒸ 㻶㻾㥐
+Morioka JR Station
+䚷ᇛᒣ ᇛ㊧
+Shiroyama The site of a castle
+㇏ἑ ㇏ἑ䝎䝮
+Toyosawa Dam
+⏣℩† ⏣℩䝎䝮
+Taseko Dam
+໭ୖ 㻶㻾㥐
+Kitakami JR Station
+Ỉἑ 㻶㻾㥐
+Mizusawa JR Station
+CHANGE : Map updated. BRG/DIST from ARP. Taseko established. Tsuchisawa abolished.
+Call sign BRG / DIST from ARP Remarks
+121°T / 10.0NM
+360°T 16.4NM/
+293°T / 8.1NM
+8.4NM012°T /
+178°T / 17.4NM
+184°T / 8.9NM
+SHIROYAMA
+SHSHSHIRIRIROYOYOYAMAMAMAAA
+HANAMAKI INFORMATION ZONE
+HAN
+At
+NAMAKI INFORMA
+HAN
+At
+At or below 3000FT
+MORIOKA
+MOMOMORIRIRIOKOKOKAAA
+HANAMAKI INFORM
+5NM from ARP
+HANAMAKI RADIO
+HANAMAK
+118.2
+MAK
+2
+2 -
+RADIO
+KI
+AK
+- 126.2
+VAR 9
+R 9
+9999999
+
+W(2021) /
+) / 3'34"W
+TASEKO
+TATASESES KOKOO
+KITAKAMI
+KIKIKITATATAKAKAKAMIMIMI
+TOYOSAWA
+TOTOTOYOYOYOSASASAWAWAAWAA
+MIZUSAWA
+MIMIMIZUZUZUSASASAWAWAWA
+㼃㼑㼎
+㼑㼎㼎㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+(EFF:20 MAY 2021) 22/4/21
+RJSI AD2.24-OTHER-1
+HANAMAKI
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC  GDLIKAMANAH / ISJR
+28´
+720
+660
+855
+660
+660
+VAR 9˚W
+(2021)
+26´
+24´
+06´
+500 500 1000 m
+3000   ft10001000
+SCALE
+0
+0
+10´
+855
+660
+39˚24´
+26´
+28´
+728
+141˚10´08´06´ ELEV  294ft
+654
+446
+441
+442
+700
+VOR/DME
+HANAMAKI
+112.8  HPE
+CH-75x          
+39˚26´00˝N/141˚08´01˝E
+8200X150ftAsph-Conc
+PAPI ANGLE 3.0˚
+MEHT 20.0m (66ft)
+429.0m FM THR
+PAPI ANGLE 3.0˚
+MEHT 22.5m (74ft)
+452.4m FM THRSALS
+ABN
+ALS
+02
+20
+ALB
+HANAMAKI RADIO
+118.2-126.2
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+300FT
+CHANGE : VAR.
+(EFF:22 APR 2021) 22/4/21
+RJSI AD2.24-OTHER-2
+HANAMAKI
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJSI / HANAMAKI Minimum Vectoring Altitude CHART
+VAR 9˚W (2024)
+CENTER 凬392600N/1410801E (HPE VOR/DME)
+5500
+7300
+UWE 20NM
+6000
+9000
+5200
+00070008
+9000
+395248N
+1405027E
+HPE
+263˚
+309˚
+009˚
+293˚
+091˚
+195˚
+5900
+3400
+1
+2
+394257N
+1403558E
+393839N
+1404114E
+029˚30NM
+20NM
+15NM
+393138N
+1403922E
+393213N
+1403620E
+392252N
+1402930E
+391136N
+1403405E
+1
+2
+129˚
+10NM
+8NM
+7000
+CHANGE: Update. 
+(EFF:18 APR 2024) 21/3/24
+RJSI AD2.24-OTHER-3
+HANAMAKI
+

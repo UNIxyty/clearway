@@ -1,0 +1,700 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIDR 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIDR AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIDR AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIDR - RAVENNA
+LIDR AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIDR AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+44°21'52''N 012°13'29''E *
+2 Direzione e distanza dalla città 3.78 NM Sud di Ravenna
+ Direction and distance from city 3.78 NM South of Ravenna
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+2 FT / 30.6° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+4° E (2021.0) / 7'E
+5 Autorità amministrativa aeroportuale ENAC - DT Emilia-Romagna
+Aeroporto "Guglielmo Marconi"
+Via del Triumvirato, 84
+40132 Bologna
+ Tel: +39 051 6479690
+ E-mail: emiliaromagna.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale DT Emilia-Romagna
+Tel: +39 051 6479690 E-mail: emiliaromagna.apt@enac.gov.it
+ Aerodrome operator  
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. AD aperto al traffico non commerciale
+ Remarks 1. AD open to non-commercial traffic
+LIDR AD 2.3 ORARIO DEI SERVIZI
+LIDR AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale CONALS: MON-SUN PPR 48 HJ -/+ 30
+ Aerodrome Administration  
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office NIL
+
+=== Page 2 ===
+AD 2 LIDR 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+   
+7 ATS NIL
+   
+8 Rifornimento Carburante disponibile solo per esigenze aero club locale
+ Fuelling Fuel available only for local aero club needs
+9 Handling Sì, vedi punto 1
+  Yes, see point 1
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO MILANO: vedi GEN 3.1
+ Remarks 1. ARO CBO MILANO: see GEN 3.1
+LIDR AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIDR AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio NIL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+LIDR AD 2.5 SERVIZI PER I PASSEGGERI
+LIDR AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi O/R, tel +39 0544 33888
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Bar tel +39 0544 497886 (aperto sabato, domenica e festivi)
+ Remarks 1. Bar tel +39 0544 497886 (open SAT, SUN and HOL)
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIDR 1 - 3
+AIRAC effective date 08 AUG 2024
+ENAV - Roma (A08/24)
+LIDR AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIDR AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Servizi antincendio assicurati da ‘Consorzio CONALS’ HR:
+• MON-SUN PPR 48 HR in anticipo via E-mail all'indirizzo: evamontori@icloud.com
+con clausola di conferma alla richiesta
+   
+ Remarks 1. Fire fighting services assured by ‘Consorzio CONALS’ HR:
+• MON-SUN PPR 48 HR in advance via E-mail at: evamontori@icloud.com and
+receiving confirmation by subsequent reply
+LIDR AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIDR AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIDR AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIDR AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron ASPH NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 19.5 M ASPH NIL
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+
+=== Page 4 ===
+AD 2 LIDR 1 - 4
+AIRAC effective date 08 AUG 2024 AIP - Italia
+(A08/24) ENAV - Roma
+LIDR AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIDR AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIDR AD 2.10 OSTACOLI AEROPORTUALI
+LIDR AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL Antenna radar
+42M (135FT) AMSL
+44°22’09’’ N
+012°13’58’’E
+NIL
+Cisterna/tank
+2.2M (7 FT) AMSL
+NIL
+44°21'56" N
+012°13'58" E
+Ostacolo in strip/
+Obstacle in the
+strip
+ruota
+panoramica/ferris
+wheel
+87.2M (286FT) AMSL
+Illuminata luce
+rossa/lighted
+red light
+44.20'21"N
+012°15'44"E
+Struttura parco
+divertimenti/
+Amusement parc
+structures
+montagne russe/
+roller coaster
+47.4M (156FT)
+Illuminato/lighted
+44°20'18"N
+012°15'57"E
+Struttura parco
+divertimenti/
+Amusement
+parc structures
+Vedi AOC in vigore - See AOC in force
+traliccio/lattice tower
+56.4M (185FT) AMSL
+Illuminata/lighted
+44°20'12" N
+012°15'56"E
+Struttura parco
+divertimenti/
+Amusement
+parc structures
+LIDR AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIDR AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIDR 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. Meteo Punta Marina Ravenna Aeronautica Militare tel+39 0544 437096
+ Climatological information and additional
+information
+1. Met Punta Marina Ravenna Italian Air Force tel+39 0544 437096
+LIDR AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIDR AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+08 NIL 1200 x 30
+SIWL 12500 KG
+ASPH
+44°21'48.54''N
+012°13'03.33''E
+2.0 FT / NIL
+26 NIL 1200 x 30
+SIWL 12500 KG
+ASPH
+44°21'54.65''N
+012°13'56.91''E
+2.0 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+08 NIL NIL NIL 1320 x 80 NIL
+26 NIL NIL NIL 1320 x 80 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+08 NIL
+1) A destra della pista 08 è presente una zona aeromodelli coordinate in WGS84
+ 44°21 54  N 012°13 09
+1) On the right side of RWY 08 there is an area dedicated to model aircraft coordinates
+44°21 54 N 012°13 09
+26 NIL NIL
+
+=== Page 6 ===
+AD 2 LIDR 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIDR AD 2.13 DISTANZE DICHIARATE
+LIDR AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+08 1200 1200 1200 1200
+26 1200 1200 1200 1200
+NOTE
+REMARKS
+NIL
+LIDR AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIDR AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+08 NIL NIL NIL NIL NIL NIL NIL NIL
+26 NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+08 NIL NIL NIL NIL NIL NIL NIL NIL
+26 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+08 NIL NIL NIL NIL NIL NIL
+26 NIL NIL NIL NIL NIL NIL
+LIDR AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIDR AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers: NIL
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIDR 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIDR AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIDR AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIDR AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIDR AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+NIL NIL G NIL NIL WI Milano FIR
+LIDR AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIDR AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+
+=== Page 8 ===
+AD 2 LIDR 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIDR AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIDR AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIDR AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIDR AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+NIL NIL
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIDR AD 2.21 PROCEDURE ANTIRUMORE
+LIDR AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIDR AD 2.22 PROCEDURE DI VOLO
+LIDR AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIDR 1 - 9
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+Circuito di traffico: standard Traffic circuit: standard
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIDR AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIDR AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIDR AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIDR AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIDR 2 - 1
+AERODROME OBSTACLE CHART  ICAO TYPE A - RWY 08/26  AD 2 LIDR 3 - 1
+LIDR AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIDR AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 10 ===
+AD 2 LIDR 1 - 10
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+

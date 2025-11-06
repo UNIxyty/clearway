@@ -1,0 +1,1572 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIMG 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIMG AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIMG AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIMG - ALBENGA/Riviera Airport
+LIMG AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIMG AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+44°02'45''N 008°07'32''E
+2 Direzione e distanza dalla città 3.24 NM W
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+149 FT / 28° C
+4 Ondulazione del geoide
+ Geoid undulation
+158.9 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2010.0) / 6'E
+6 Autorità amministrativa aeroportuale
+ ENAC - DT Nord-Ovest
+Aeroporto “Sandro Pertini”
+10072 – Caselle Torinese (TO)
+ Tel +39 0115678407/5678413/5676800
+ Fax +39 011 4704320
+ Pec: protocollo@pec.enac.gov.it
+ E-mail: nordovest.apt@enac.gov.it
+Ufficio Aeroportuale di Genova
+16154 - Genova Sestri Ponente
+Tel +39 010 6512309/729
+ Fax +39 010 6503258
+ Aerodrome administration authority  
+ Gestore aeroportuale RIVIERA-AIRPORT S.p.A. - Handling
+E-mail: info@riviera-airport.it, ops@riviera-airport.it
+Tel +39 0182 582033 fax +39 0182 582924
+ Aerodrome operator  
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Albenga
+Tel: +39 0182 5851201;
+ fax: +39 0182 5851214
+e-mail: ci-albenga@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note NIL
+ Remarks  
+LIMG AD 2.3 ORARIO DEI SERVIZI
+LIMG AD 2.3 OPERATIONAL HOURS
+                    
+1 Amministrazione aeroportuale 0730-1730 (0600-1800)
+ Aerodrome Administration  
+2 Dogana ed immigrazione 0730-1730 (0600-1800)
+ Customs and immigration  
+3 Servizio sanitario 0730-1730 (0600-1800)
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+
+=== Page 2 ===
+AD 2 LIMG 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS 0730-1730 (0600-1800)
+   
+8 Rifornimento 0730-1730 (0600-1800)
+ Fuelling  
+9 Handling 0730-1730 (0600-1800)
+ Handling  
+10 Servizi di sicurezza 0730-1730 (0600-1800)
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. I servizi non H24 so no disponibili in orari diversi almeno 12 HR PPR  ad AVA S.p.A.
+tel: +39 0182 582033
+2. ARO CBO MILANO: vedi GEN 3.1
+3. Servizio sanitario: assicurato dal locale 118 attivato dall’aeroporto di Albenga/
+Riviera Airport
+4. Il rifornimento con passeggeri a bordo non è disponibile per aeromobili ad ala
+fissa Il rifornimento è garantito solo per i voli di Aviazione Generale e per il servizio
+aerotaxi con peso massimo al decollo inferiore a 10 tonnellate e/o fino ad un
+massimo di capacità passeggeri di 19 posti
+ Remarks 1. All non H24 services are available in different HR PPR at least 12 HR in advance
+to handling AVA S.p.A. tel: +39 0182 582033
+2. ARO CBO MILANO: vedi GEN 3.1
+3. Health and sanitation: assured by regional 118 activated by Albenga/Riviera
+Airport aerodrome
+4. Refuelling with passengers on  board not available for fixed wing aircraft Refuelling
+is guaranteed only for General Aviation flights and airtaxi service with a maximum
+take-off weight less than 10 tons and/or up to 19 seats maximum passenger
+capacity
+LIMG AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIMG AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci 2 Trattori con carrelli
+ Cargo-handling facilities 2 Trolleys
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL, MOGAS / 100 (SAE50) - 80 (SAE40)
+ Fuel/Oil types  
+3 Capacità di rifornimento JET A1: 125000 litri
+AVGAS 100LL: 15000 litri
+MOGAS: 10000 litri
+ Fuelling capacity JET A1: 125000 litres
+AVGAS 100LL: 15000 litres
+MOGAS: 10000 litres
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito Hangar 39 x 36 x 6 m
+Hangar 20 x 25 x 6 m
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIMG 1 - 3
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIMG AD 2.5 SERVIZI PER I PASSEGGERI
+LIMG AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti 40 pasti
+ Restaurants 40 meals
+3 Trasporti Servizio Urbano - Taxi su richiesta
+ Transportation Bus Service - Taxi O/R
+4 Servizio medico Servizio medico di pronto soccorso assicurato dal locale 118 attivato dall'aeroporto di
+Albenga/Riviera Airport
+ Medical facilities First aid medical service assured by regional 118 activated by Albenga/Riviera Airport
+aerodrome
+5 Banca e ufficio postale Villanova di Albenga km 1
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIMG AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIMG AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 5 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso 2 Automezzi Idro Schiuma Polvere DRAGON 6800
+2 Automezzi Idro Schiuma POSEIDON
+1 Automezzo Schiuma Polvere ARI SIRMAC
+1 Automezzo ASA (Attrezzatura da taglio e divaricazione)
+1 Automezzo Idro KILOLITRICA
+1 Automezzo DEFENDER
+ Rescue equipment 2 Hydrofoams DRAGON 6800
+2 Hydrofoams POSEIDON
+1 Hydrofoam Powder ARI SIRMAC
+1 Truck ASA (Cutting and divarication tools)
+1 Truck Idro KILOLITRICA
+1 Truck DEFENDER
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Servizio antincendio disponibile HR 0730-1730 (0600-1800)
+ Remarks 1. Fire fighting service available HR 0730-1730 (0600-1800)
+LIMG AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIMG AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura 1 FOD BOSS
+ Types of clearing equipment  
+2 Priorità RWY - TWY - APRON
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+
+=== Page 4 ===
+AD 2 LIMG 1 - 4
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+5 Note NIL
+ Remarks  
+LIMG AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIMG AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron 1 ASPH 5000 m² PCN 47/F/C/X/T
+Apron 2 CONC 5000 m² PCN 120/R/B/X/T
+Apron 3 GRASS 5000 m² SIWL 5000 KG
+Apron 4 GRASS 9300 m² SIWL 5000 KG
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 20 M ASPH PCN 39/F/C/X/T
+B 18 M ASPH PCN 18/F/C/Y/T
+C 10 M ASPH PCN 11/F/C/Y/T
+3 Localizzazione/Elevazione ACL THR 09: 145 ft - THR 27: 105 ft
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. Apron1, Apron3 e Apron4 chiusi per le operazioni notturne
+2. TWY C: in uso solo per gli aeromobili militari e di Stato, per i servizi antincendio e
+di soccorso
+ Remarks 1. Apron1, Apron3 and Apron4 closed for night operations
+2. TWY C: for military and State aircraft, rescue and fire fighting services use only
+LIMG AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIMG AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi carta AD in vigore
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See AD chart in force
+ 
+2 Illuminazione e segnaletica per RWY e TWY RGL - Vedi carta AD in vigore
+ RWY and TWY markings and lights RGL - See AD chart in force
+3 Barre d'arresto Vedi carta AD in vigore
+ Stop bars See AD chart in force
+4 Note NIL
+ Remarks  
+LIMG AD 2.10 OSTACOLI AEROPORTUALI
+LIMG AD 2.10 AERODROME OBSTACLES
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIMG 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL
+1. Gli ostacoli
+dell'aeroporto sono
+provvisti di
+segnalazione diurna e
+notturna / Aerodrome
+obstacle provided with
+day and nught
+signalling
+Vedi AOC in vigore - See AOC in force
+LIMG AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIMG AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24HR
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato
+IT / EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts
+IT / EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Albenga AFIU, Genova APP
+
+=== Page 6 ===
+AD 2 LIMG 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1
+2. ITALY MFU:vedi GEN 3.5
+3. Aeroporto raramente interessato da fenomeni di wind shear orografico, in
+prevalenza associati a venti settentrionali che producono lungo il sentiero di
+avvicinamento turbolenza e vortici aventi grande variabilità spazio-temporale
+4. 2 WDI illuminati
+5. Nubi operativamente significative: sono ritenute operativamente significative le
+ nubi con altezza della base al di sotto di 11000ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Aerodrome rarely affected by terrain-induced wind-shear phenomena, mostly
+originated by northern winds producing turbolence and vortices, which  are highly
+variable both in space and time, along the approach path
+4. 2 WDI lighted
+5. Clouds of operational significance: clouds with base height below 11000ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIMG 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIMG AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIMG AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+09 NIL 1432 x 45
+PCN 52/F/C/X/T
+ASPH
+44°03'03.12''N
+008°07'10.45''E
+44°03'00.88''N
+008°08'10.86''E
+158.9  FT
+145.5  FT / NIL
+27 NIL 1432 x 45
+PCN 52/F/C/X/T
+ASPH
+44°03'00.88''N
+008°08'10.86''E
+44°03'03.26''N
+008°07'06.61''E
+158.5  FT
+104.9  FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+09
+Longitudinale: Vedi AOC
+Longitudinal: see AOC
+Trasversale / Trasversal: NIL
+NIL 60 x 80 1552 x 80 90 x 90
+27
+Longitudinale: Vedi AOC
+Longitudinal: see AOC
+Trasversale / Trasversal: NIL
+NIL 60 x 80 1552 x 80 90 x 90
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+09 NIL 1) DTHR 85 m
+27 NIL NIL
+LIMG AD 2.13 DISTANZE DICHIARATE
+LIMG AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+09 1432 1492 1432 1347
+27 1432 1492 1432 1432
+NOTE NIL
+REMARKS  
+
+=== Page 8 ===
+AD 2 LIMG 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIMG AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIMG AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+09 NIL NIL NIL THR
+ G
+NIL 4.49°
+wing bar
+lato sinistro
+left side
+13.4 NIL
+27 SALS 240 LIH THR
+ G
+NIL 3.5°
+wing bar
+lato sinistro
+left side
+13.4 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+09 NIL NIL NIL NIL 88
+741
+600
+60
+60
+60
+R
+W
+Y
+NIL
+NIL
+NIL
+27 NIL NIL NIL NIL 829
+600
+60
+60
+W
+Y
+NIL
+NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+09 R NIL NIL 2 NIL 1) PAPI RWY 09 asse del sistema
+spostato di 4° nord dalla RCL. Ampiezza
+azimutale del fascio di sistema ridotta
+a 5° sulla sinistra e a 4° sulla destra
+della RCL Superficie di protezione ostacoli:
+Non-Strumentale. PAPI utilizzabile solo a
+seguito di circuito aeroportuale a vista, con
+circuitazione limitata entro 4NM ALB DME
+e rotta di avvicinamento finale disassata di
+4° (RDL 278° VOR ALB). Non utilizzabile
+negli ultimi 500 metri prima della THR./
+PAPI RWY 09 system axis displaced 4°
+North of the RCL. Azimuth spread of the
+system reduced to 5° at the left side of the
+RCL and 4° at the right side RCL Obstacle
+protection surface: Non-Instrument./ PAPI
+usable only following aerodrome circling
+approach, limited within 4NM ALB DME
+and final approach route 4° displaced (RDL
+278° VOR ALB). Not usable in the last 500
+meters before THR.
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIMG 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+27 R NIL NIL 2 NIL 1) PAPI RWY 27 asse del sistema spostato
+di 4° nord dalla RCL, ampiezza azimutale
+del fascio di sistema ridotta a 5° sulla
+sinistra e a 4° sulla destra della RCL
+Superficie di protezione ostacoli: Non-
+Strumentale/
+PAPI RWY 27 system axis displaced 4°
+north of the RCL, azimuth spread of the
+system reduced to 5° at the left side and
+4° at the right side RCL Obstacle protection
+surface: Non-Instrumental
+LIMG AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIMG AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 44°02'43''N   008°07'22''E
+Caratteristiche: ABN rotante a luce bianca/verde alternata
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 44°02'43''N   008°07'22''E
+Characteristics: ABN revolving white/green alternating light
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 421 m dopo THR RWY 27, 139 m lato sinistro RCL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 421 m after THR RWY 27, 139 m left side RCL
+3 Illuminazione bordo e asse centrale TWY Solo bordo
+ TWY edge and center line lighting Edge only
+4 Alimentatore secondario/Tempo di 
+intervento
+GEIA/8 secondi
+ Secondary power supply/Switch over time GEIA/8 seconds
+5 Note 1. Lampada segnalazioni luminose
+ Remarks 1. Emergency signalling lamp
+LIMG AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIMG AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+
+=== Page 10 ===
+AD 2 LIMG 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIMG AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIMG AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Albenga/Riviera
+Airport ATZ
+Circular area centered on
+44°02'41"N 008°07'35"E
+within a 3.0 NM radius.
+2000
+FT AGL
+G
+Albenga
+Aerodrome INFO
+EN/IT
+7000 FT
+1) WI Milano FIR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+  (RMZ)
+LIMG AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIMG AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 0730-1730 (0600-1800)
+NIL
+APP Genova APP 119.600 H24 NIL
+APP Genova Radar 119.600 H24 NIL
+APP Genova Radar 119.850 Vedi note/See remarks
+1) Frequenza di riserva a discrezione di
+Genova radar/
+additional auxiliary frequency at
+Genova radar discrection
+AFIS Albenga Aerodrome INFO 123.850 0730-1730 (0600-1800) NIL
+LIMG AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIMG AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIMG 1 - 11
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Albenga
+Gonio
+Homer
+NIL
+0730-1730
+(0600-1800)
+44°02'55.5''N
+008°07'51.8''E
+NIL
+limitazioni a/limitations at 10
+NM
+090°/170° MRA 10000 FT
+limitazioni a/limitations at 20
+NM
+280°/050° MRA 10500 FT
+limitazioni a/limitations at 25
+NM
+170°/280° MRA 10500 FT
+limitazioni a/limitations at 30
+NM
+050°/090° MRA 2500 FT
+1) Disponibile su
+  richiesta su tutte le
+frequenze di AFIS ed
+emergenza /
+Available on request on
+all AFIS and emergency
+frequencies
+VOR/DME
+(1° E-2010.0)
+ALB
+116.95
+MHZ
+CH 116Y
+VOR H24
+DME H24
+VOR
+44°02'53.4''N
+008°07'39.4''E
+DME
+44°02'53.8''N
+008°07'39.4''E
+44 M
+AMSL
+40 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+000°/040° MRA 16000 FT
+040°/065° MRA 9000 FT
+065°/095° MRA 2000 FT
+095°/160° NU
+160°/220° MRA 15000 FT
+220°/340° MRA 18000 FT
+340°/360° MRA 16000 FT
+NIL
+VOR/DME
+(3° E-2020.0)
+GEN
+112.80
+MHZ
+CH 75X
+VOR H24
+DME H24
+VOR
+44°25'28.0''N
+009°04'56.4''E
+DME
+44°25'28.0''N
+009°04'57.2''E
+893 M
+AMSL
+60 NM/45000 FT
+limitazioni a/limitations at 40
+NM
+000°/090° MRA 11000 FT
+090°/145° MRA 8000 FT
+145°/240° MRA 5000 FT
+240°/360° MRA 8000 FT
+1) MAINT:
+Terzo THU di ogni mese /
+third THU each month:
+0930-1030 (0830-0930)
+ILS RWY 27 LOC
+CAT NOCAT
+(1° E-2010.0)
+LBN
+108.90
+MHZ
+H24
+44°02'56.9''N
+008°07'11.8''E
+NIL
+limitazioni oltre/limitations
+beyond 17 NM MRA 4000 FT
+1) Settore sinistro di
+avvicinamento
+utilizzabile entro 5°,
+settore destro di
+avvicinamento entro
+10° /
+Approach left sector
+usable WI 5°, approach
+right sector usable WI
+10°
+
+=== Page 12 ===
+AD 2 LIMG 1 - 12
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(1° E-2010.0)
+SES
+108.60
+MHZ
+CH 23X
+VOR H24
+DME H24
+VOR
+44°25'02.4''N
+008°49'25.1''E
+DME
+44°25'02.8''N
+008°49'25.0''E
+10 M
+AMSL
+40 NM/25000 FT
+VOR
+limitazioni a/limitations at 10
+NM
+330°/350° MRA 10000 FT
+limitazioni oltre/limitations
+beyond 10 NM
+330°/350° NU
+limitazioni oltre/limitations
+beyond 14 NM
+RDL 180 MRA 4000 FT
+limitazioni a/limitations at 25
+NM
+050°/100° MRA 12000 FT
+130°/230° MRA 3000 FT
+230°/330° MRA 10000 FT
+350°/050° MRA 17000 FT
+DME
+limitazioni a/limitations at 10
+NM
+330°/050° MRA 10000 FT
+limitazioni oltre/limitations
+beyond 10 NM
+330°/050° NU
+limitazioni a/limitations at 25
+NM
+050°/100° MRA 12000 FT
+130°/230° MRA 3000 FT
+230°/330° MRA 10000 FT
+1) Limitazioni VOR/
+DME settore 100°/130°
+utilizzabile solo per
+procedure pubblicate/
+Limitations VOR/DME
+sector 100°/130° usable
+for published procedures
+only
+LIMG AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIMG AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+Vedi Tabella 23 See Table 23
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+Il traffico da/per paesi non appartenenti all’Unione Europea e al
+Trattato di Schengen, è permesso tutti i giorni previa richiesta con 3
+ore di anticipo sul FPL
+Traffic from/to extra European Union countries and out of Schengen
+Treaty is allowed every day previous request 3 HR before FPL
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIMG 1 - 13
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+I movimenti da/per i piazzali sosta aeromobili debbono essere
+effettuati solo con l’ausilio del Marshall
+Movements from/to aprons must be conducted only with Marshall car
+assistance
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+NIL NIL
+LIMG AD 2.21 PROCEDURE ANTIRUMORE
+LIMG AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIMG AD 2.22 PROCEDURE DI VOLO
+LIMG AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+1.1. Nessun traffico VFR è consentito nell'ATZ di Albenga quando è in
+corso una partenza o un arrivo IFR
+1.1. No VFR traffic is allowed in Albenga ATZ when an IFR departure
+or arrival is in progress
+1.2. Circuito di traffico: sempre a Nord della pista 1.2. Traffic circuit: always North of the runway
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: vedi tabella 24 STAR description: see table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+NIL NIL
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+NIL NIL
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+
+=== Page 14 ===
+AD 2 LIMG 1 - 14
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Descrizione delle SID: vedere Tabella 24 SID description: see Table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+Allo scopo di agevolare le operazioni dei voli VFR da/per l’aeroporto di
+Albenga/Riviera Airport, sono istituiti i seguenti punti di riporto a vista
+esternamente all'ATZ:
+a. CERIALE (MGNE1) - quota suggerita per aeromobili in entrata: 1500
+ft AGL; quota suggerita per aeromobili in uscita: 1000 ft AGL
+b. ALASSIO (MGSE1) - quota suggerita per aeromobili in entrata: 1500
+ft AGL; quota suggerita per aeromobili in uscita: 1000 ft AGL
+In order to facilitate VFR flight operations from/to Albenga/Riviera
+airport aerodrome, outside the ATZ the following visual reporting
+points are established:
+a. CERIALE (MGNE1) - suggested altitude for entering aircraft: 1500
+ft AGL; suggested altitude for leaving aircraft: 1000 ft AGL
+b. ALASSIO (MGSE1) - suggested altitude for entering aircraft: 1500
+ft AGL; suggested altitude for leaving aircraft: 1000 ft AGL
+4.2 Attività di circuito 4.2 Circuit activity
+Vedere Tabella 22.1 See Table 22.1
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIMG 1 - 15
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+4.7 VFR notturno 4.7 VFR/N
+Non sono consentite operazioni di volo in VFR/N agli aeromobili civili.
+Traffico non soggetto al divieto: elicotteri ed altri aeromobili certificati
+da ENAC.
+VFR/N operations of civil aircraft are not allowed. Traffic not affected:
+helicopters and other aircraft certified by ENAC.
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+5 LVP 5 LVP
+NIL NIL
+LIMG AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIMG AD 2.23 ADDITIONAL INFORMATION
+1 CONDIZIONI OPERATIVE PER LE OPERAZIONI
+SULL’AEROPORTO DI ALBENGA/Riviera Airport
+1 OPERATIVE CONDITIONS FOR OPERATIONS ON ALBENGA/
+Riviera Airport AERODROME
+1.1 REGOLE GENERALI PER LE OPERAZIONI CON AEROMOBILI 1.1 GENERAL RULES FOR OPERATIONS WITH AIRCRAFT
+1.1.1 OPERAZIONI DI VOLO SULL'AEROPORTO DI ALBENGA/
+RIVIERA AIRPORT
+1.1.1 FLIGHT OPERATIONS ON ALBENGA/RIVIERA AIRPORT
+AERODROME
+Operazioni di volo consentite come segue:
+a. DI GIORNO
+• ATTERRAGGIO "A VISTA" a seguito di procedura BREAK CLOUDS in
+avvicinamento diretto per RWY 27 o a seguito di circuito aeroportuale
+per RWY 09
+• DECOLLO "A VISTA" per la RWY 09 e per la RWY 27 limitatamente
+agli aeromobili che abbiano prestazioni tali da superare in sicurezza
+gli ostacoli. Non essendo disponibile un'area di circuitazione per
+un rientro immediato, l'operatore dovrà pianificare un aeroporto
+alternato al decollo
+b. DI NOTTE
+• ATTERRAGGIO "A VISTA" a seguito di procedura BREAK CLOUDS,
+soltanto per RWY 27. Solo per piloti qualificati in accordo alle
+limitazioni riportate ai punti successivi
+• DECOLLO "A VISTA" per RWY 09 consentito ad aeromobili che
+rispettano le prestazioni riferite all’annesso V del Reg. UE n.
+965/2012
+Flight operations allowed as follows:
+a. DAY-TIME
+• VISUAL LANDING after a direct approach BREAK CLOUDS procedure
+for RWY 27 or after the aerodrome circuit for RWY 09
+• VISUAL TAKE-OFF for RWY 09 and for RWY 27 allowed only to ACFT
+having performances that can assure a safe obstacles clearance.
+Due to the unavailability of a circling area for immediate return, the
+operator shall plan in advance an alternate departure aerodrome
+b. NIGHT-TIME
+• VISUAL LANDING after a BREAK CLOUDS procedure for RWY 27 only,
+allowed only to qualified pilots in accordance with the restrictions
+reported in the points below
+• VISUAL TAKE-OFF for RWY 09 allowed only to ACFT having
+performances in respect of Reg. EU n. 965/2012 annex V
+NOTA: sono proibiti, di notte, l'atterraggio per RWY 09 e il
+decollo per RWY 27
+REMARK: landing on RWY 09 and take off from RWY 27 are
+forbidden at night
+1.1.2 LIMITAZIONI GENERALI 1.1.2 GENERAL RESTRICTIONS
+a. il decollo da RWY 27 è proibito di notte, per qualsiasi tipo di
+aeromobile e per qualsiasi condizione
+b. l'atterraggio per RWY 09 è consentito solo di giorno
+c. l'atterraggio per RWY 27 è consentito di giorno e, di notte, solo a
+condizione che siano disponibili e operative le luci ad alta intensità
+di direzione e le luci segnalazioni ostacoli interessanti le manovre di
+avvicinamento, atterraggio e mancato atterraggio
+d. per atterraggi diurni (RWY 09 e RWY 27) e notturni (RWY 27) di
+aeromobili a turbina deve essere disponibile il relativo impianto PAPI
+a. take off from RWY 27 is forbidden at night to any type of ACFT and
+in any condition
+b. landing on RWY 09 is allowed only day-time
+c. landing on RWY 27 is allowed by day and by night, provided that
+high-intensity direction lights and the lights of those obstacles
+affecting approach, landing and balked landing operations are
+available and operative
+d. for day landing (RWY 09 and RWY 27) and night landing (RWY 27)
+of turbine ACFT the relevant PAPI must be available
+NOTA: gli aiuti visivi luminosi sono riportati nella VISUAL AIDS
+CHART vedi AD2 LIMG 5-7
+REMARK: visual lighted aids are depicted on VISUAL AIDS
+CHART see AD2 LIMG 5-7
+1.1.3 MINIME METEOROLOGICHE PER L'AVVICINAMENTO 1.1.3 APPROACH METEOROLOGICAL MINIMA
+a. VISIBILITA’
+• di GIORNO (HJ) non inferiore a 5 km, fuori dalle nubi ed in vista
+del suolo
+• di NOTTE (HN) 6 km, fuori dalle nubi ed in vista del suolo
+a. VISIBILITY
+• DAY-TIME (HJ) 5 km clear of clouds and ground contact
+       
+• NIGHT-TIME (HN) 6 km clear of clouds and ground contact
+b. CEILING
+• di GIORNO (HJ) 2500 ft
+• di NOTTE (HN) 3000 ft
+b. CEILING
+• DAY-TIME (HJ) 2500 ft
+• NIGHT-TIME (HN) 3000 ft
+
+=== Page 16 ===
+AD 2 LIMG 1 - 16
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+WARNING: a causa del terreno montagnoso circostante
+l'aeroporto, possono presentarsi fenomeni di wind shear e/o
+turbolenza
+          
+WARNING: due to mountainous area surrounding the
+aerodrome, wind shear and/or turbulence phenomena may
+occur
+1.2 PROCEDURE 1.2 PROCEDURES
+1.2.1 ATTERRAGGI RWY 27 1.2.1 LANDING ON RWY 27
+Il pilota dell' aeromobile che effettua la procedura BREAK CLOUDS per
+un avvicinamento "a vista" per RWY 27, deve:
+a. avere l'aeromobile configurato per l'atterraggio e stabilizzato sul
+corretto sentiero di discesa prima di lasciare il MAPt ed iniziare il
+segmento finale per l'atterraggio su RWY 27
+b. raggiunto il MAPt e le minime VMC, deve riportare all’ATS di avere
+la pista in vista
+Pilot performing the BREAK CLOUDS procedure for “visual” approach
+on RWY 27 shall:
+a. have the ACFT in landing configuration and established on the
+correct descent path before leaving the MAPt and start the final
+segment to land on RWY 27
+b. report RWY in sight to ATS, once reached the MAPt and VMC minima
+c. procedere all'atterraggio solo dopo aver ricevuto conferma dall’ ATS
+che il segmento finale e la pista sono liberi da ogni traffico
+d. in considerazione delle particolari caratteristiche orografiche
+dell'aeroporto, il pilota comandante, raggiunto il punto identificato
+dalla centreline del LOC "LBN“ 108.90 kHz e dalla distanza di 1.1 NM
+dal DME ”ALB”, prima di proseguire all'atterraggio deve riportare di
+essere "stabilizzato in finale".
+Per “stabilizzato in finale” si intende:
+• aeromobile allineato con il prolungamento asse pista
+• aeromobile in configurazione di atterraggio
+• aeromobile stabilizzato in tutti i suoi parametri (pendenza di
+traiettoria, assetto, velocità, spinta, variometro)
+• nessun fenomeno destabilizzante in atto (wind shear, turbolenza
+superiore a leggera)
+c. proceed for landing only after ATS has confirmed that the final
+segment and the RWY are clear of any traffic
+d. due to the peculiarity of the orography surrounding the aerodrome,
+once reached the point identified by the “LBN” LOC centreline 108.90
+kHz and by the distance of 1.1 NM from “ALB” DME, the pilot in
+command shall report “established on final” before proceeding for
+landing
+By “established on final“ it is meant:
+• ACFT aligned on the extended RWY centerline
+• ACFT in landing configuration
+• ACFT established in all its parameters (glide slope, attitude, speed,
+thrust, variometer)
+• no disturbing phenomena occurring (wind shear, turbulence more
+than light)
+1.2.2 ATTERRAGGI RWY 09 1.2.2 LANDING ON RWY 09
+Gli atterraggi su RWY 09 sono consentiti solo di giorno con le seguenti
+condizioni:
+a. la manovra di atterraggio su RWY 09 deve essere eseguita a seguito
+del circuito di traffico aeroportuale a sinistra, a Nord della pista,
+mantenendo una altitudine non inferiore a 1850 ft AMSL
+b. il pilota deve mantenere il contatto visivo con la pista fino
+all'atterraggio; (in caso di perdita dei riferimenti visivi deve essere
+prevista una procedura di contingenza)
+c. l'impianto PAPI RWY 09 deve essere operativo per operazioni con
+aeromobili a turbina
+Landing on RWY 09 is allowed only during day-time under the following
+conditions:
+a. landing manoeuvre on RWY 09 shall be performed after a left hand
+AD traffic circuit, North of the RWY, maintaining an altitude not below
+1850 ft AMSL
+b. the pilot shall maintain RWY in sight until landing; (in the event of
+visual contact loss, a contingency procedure shall be ensured)
+      
+c. PAPI RWY 09 must be operative for turbine ACFT operations
+1.2.3 SAFETY ASSESSMENT - RACCOLTA DATI 1.2.3 SAFETY ASSESSMENT
+a. la società RIVIERA-AIRPORT S.p.A. deve effettuare verifica
+quotidiana delle luci ostacolo che interessano il sentiero di
+avvicinamento per RWY 27 e settimanale per le luci segnalazione
+ostacoli esistenti nell'area di circuitazione aeroportuale e riportate
+sulle mappe
+a. the handling company RIVIERA-AIRPORT S.p.A. shall carry out a
+daily check of the obstacle lights affecting RWY 27 glide path and
+a weekly check of obstacle lights standing in the Aerodrome circuit
+area and depicted in the charts
+1.3 QUALIFICAZIONE DEGLI EQUIPAGGI DI VOLO 1.3 FLIGHT CREW QUALIFICATION
+1.3.1 INFORMAZIONI GENERALI 1.3.1 GENERAL INFORMATION
+L’aeroporto di Albenga/Riviera Airport presenta caratteristiche
+orografiche, meteorologiche e operative che richiedono la
+qualificazione preventiva degli equipaggi.
+Gli operatori che intendono utililzzare l’aeroporto di Albenga/Riviera
+Airport devono qualificare il Pilota in Comando (PIC) in accordo
+ai requisiti di qualificazione contenuti nel Regolamento (UE) no.
+965/2012 e successive modifiche.
+In base alla suddetta normativa il programma di qualificazione si
+differenzia in funzione della criticità operativa secondo i seguenti
+criteri:
+Albenga/Riviera Airport airport presents specific orographical,
+meteorological and operational peculiarities requiring flight crews
+qualification.
+Operators who intend to operate in Albenga/Riviera Airport airport
+shall qualify the Pilot in Command (PIC) in accordance with the
+qualification requirements of Regulation (UE) no. 965/2012 and further
+amendments.
+On the basis of the above regulation the qualification programme
+differs depending on the operations criticality according to the
+following criteria
+• categoria B: il PIC dovrà essere istruito, anche in selfbriefing,
+mediante un programma di istruzione dedicato;
+• categoria C: il PIC dovrà effettuare un briefing ed un volo di
+ricognizione sull’aeroporto come osservatore e/ o effettuare un
+addestramento su un adeguato Dispositivo di Addestramento al Volo
+(FSTD).
+• category B: the PIC shall be briefed or self-briefed by means of
+programmed instruction;
+• category C: the PIC shall be briefed and visit the aerodrome as an
+observer and/or undertake instruction in a suitable Flight Simulation
+Training Device (FSTD).
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIMG 1 - 17
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+Dal punto di vista del pilotaggio, le principali peculiarità dell’aeroporto
+sono:
+From a piloting perspective, main peculiarities of the airport are:
+a. l’atterraggio per RWY 09 è consentito solo di giorno;
+b. venti provenienti dai quadranti Nord/Est potrebbero generare
+turbolenza e wind-shear di tipo orografico;
+c. la presenza di montagne nelle vicinanze delle traiettorie di decollo,
+atterraggio e mancato avvicinamento;
+d. la particolare conformazione del terreno circostante può generare
+illusioni ottiche nelle ore notturne;
+e. decollo e riattaccata e ‘balked landing’ per RWY 27 richiedono
+particolare attenzione a causa dell’orografia circostante.
+a. landing on RWY 09 is allowed day-time only;
+b. winds from North/East sectors could generate turbulence and
+orographic wind-shear;
+c. mountains in the vicinity of take-off, landing and go around flight
+paths;
+d. the peculiarity of terrain shape in the vicinity of the airport could
+generate visual illusions at night;
+e. take-off, go around and balked landing on RWY 27 require caution
+due to the sorrounding orography.
+NOTA: il decollo dalla RWY 27 è proibito di notte.
+In quessto quadro, in funzione della natura delle operazioni, sono
+autorizzati ad operare da/per l’aeroporto di Albenga/Riviera Airport gli
+Operatori che rispettano le condizioni di seguito riportate.
+REMARK: take-off from RWY 27 is forbidden at night
+Due to the above considerations, depending on the type of operations,
+Operators are authorized to operate from/to Albenga/Riviera Airport
+airport provided that the following conditions are satisfied.
+1.3.2 OPERAZIONI DI TRASPORTO PUBBLICO (CAT) 1.3.2 COMMERCIAL AIR TRANSPORT (CAT)
+Il livello di qualificazione richiesto per il PIC impegnato in operazioni
+CAT dipende dalla pista in uso.
+Il PIC deve avere un’esperienza di almeno 100 ore di volo e 10 tratte
+negli ultimi 120 giorni consecutivi o 150 ore di volo e 20 tratte (senza
+limiti di tempo) sullo stesso aeromobile utilizzato per le operazioni da/
+per l’aeroporto di Albenga/Riviera Airport..
+Sono autorizzati gli Operatori CAT che soddisfano i seguenti requisiti:
+Qualification level requested for PIC involved in CAT operations
+depends on the runway in use.
+PIC must have an experience of at least 100 flight hours and 10 sectors
+in within a period of 120 consecutive days or 150 flight hours and flown
+20 sectors (no time limit) achieved on the type of aircraft used for
+operation to/from Albenga/Riviera Airport.
+Only CAT Operators who fulfill following requirements are allowed to
+operate:
+a. abbiano classificato l’aeroporto come categoria ‘B’ o ‘C’, in accordo ai
+criteri definiti nella AMC 1 ORO.FC105(b)(2);(c) secondo la seguente
+tabella:
+a. have categorized Albenga airport as category ‘B’ or ‘C’ in accordance
+with AMC 1 ORO.FC105(b)(2);(c) using the following table:
+DAY OPS NIGHT OPSOperation
+RWY 09 RWY 27 RWY 09 RWY 27
+Landing At least
+Category B
+At least
+Category B
+Prohibited At least
+Category C
+Take-off At least
+Category B
+At least
+Category B
+At least
+Category B
+Prohibited
+b. abbiano stabilito un programma di istruzione specifico per la
+qualificazione del PIC che includa anche le procedure di contingenza,
+approvato/accettato dalla rispettiva Autorità Competente;
+b. have established a specific training programme for PIC including
+contingency procedures approved/accepted by relative Competent
+Authority;
+c. abbiano depositato presso il Gestore Aeroportuale (AVA), prima
+delle operazioni, il programma di istruzione e l’elenco dei PIC
+qualificati in accordo al successivo punto 6);
+d. su richiesta di ENAC, diano evidenza che il programma di istruzione,
+‘recency’ e le procedure di contingenza (rif. CAT.POL.A.210(c),
+CAT.POL.A.225 e  relativi AMC/GM) sono stati approvati/accettati
+dall’Autorità Competente dell’Operatore;
+c. before commencing operations, have deposited to the Aerodrome
+Operator (AVA) the training programme and the list of qualified PICs
+ in accordance with point 6) below;
+d. upon ENAC request, provide evidence that the training programme,
+recency and contingency procedures (rif. CAT.POL.A.210(c),
+CAT.POL.A.225 and following AMC/GM) have been approved/
+accepted by the Operator’s Competent Authority;
+1.3.3 OPERAZIONI NON DI TRASPORTO PUBBLICO CON
+AEROPLANI COMPLESSI (NCC)
+1.3.3 NON COMMERCIAL OPERATIONS WITH COMPLEX
+AIRPLANES (NCC)
+Sono autorizzati solo gli Operatori NCC che soddisfano le stesse
+condizioni sopra riportate per le operazioni CAT.
+In alternativa al programma di cui al punto 2.b) un programma
+di istruzione accettato da ENAC è disponibile sul sito internet del
+Gestore www.aeroportoalbenga.it, per ciascuna categorizzazione.
+Only NCC Operators who fulfill the above mentioned CAT
+operations requirements are allowed to operate.
+Alternatively to the programme  reported in the above 2.b) a training
+programme accepted by ENAC for each categorization is available on
+the Aerodrome Operator’s web site www.aeroportoalbenga.it
+1.3.4 OPERAZIONI CAT/NCC CON AEROPOLANI NON
+COMPLESSI (NCO)
+1.3.4 CAT/NCCOPERATIONS WITH NON COMPLEX AIRPLANES
+(NCO)
+Si raccomanda che, prima delle operazioni, il PIC effettui una
+familiarizzazione sulle procedure in uso e sulle caratteristiche delle
+infrastrutture, attraverso  un apposito briefing.
+Sul sito internet del Gestore Aeroportuale è disponibile un pacchetto
+informativo composto di filmati video e/o programmi applicativi
+per l’elaborazione del briefing.
+It is recommended that before commencing operations, the PIC will
+familiarize with the procedures in use and facilities features through
+a specific briefing.
+A familiarization/information  package useful for briefing preparation
+(videos, applicative software) is available on the Aerodrome Operator’s
+website.
+NOTA
+La definizione di ‘aeroplano complesso’ e ‘aeroplano non complesso’
+è stabilita nel Reg. (CE) 216/2008, art. 3 (j). Per completezza, si
+riporta qui di seguito la definizione di ‘aeroplano complesso’:
+a. con peso massimo al decollo certificato superiore a kg 5.700, o
+b. certificato per una configurazione massima di posti passeggeri
+superiore a 19, o
+REMARK
+Definition of ‘complex airplane’ and ‘non complex airplane’ in
+accordance with Reg. (CE) 216/2008, art. 3 (j). For completion,
+hereafter the definition of ‘complex airplane’:
+a. with a maximum certified take-off mass exceeding 5.700 kg, or
+b. certified for a maximum passenger seating configuration of more
+than 19, or
+
+=== Page 18 ===
+AD 2 LIMG 1 - 18
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+c. certificato per le operazioni con un equipaggio minimo di almeno
+due piloti, o
+d. equipaggiato con motore/i turbo jet o con più di un motore turboelica
+c. certified for operations with a maximum crew of at least two pilots,
+or
+d. equipped with turbojet  engine/s or more than one turboprop
+engine.
+1.3.5 MANTENIMENTO DELLA QUALIFICAZIONE 1.3.5 RENEWAL OF THE QUALIFICATION
+Ai fini del mantenimento della qualificazione ad operare
+sull’aeroporto di Albenga/Riviera Airport, il PIC impiegato in operazioni
+CAT o NCC, dovrà effettuare almeno un decollo, un avvicinamento ed
+un atterraggio per ogni qualifica conseguita entro un periodo di 12
+mesi (rif. ORO.FC.105 (c) e relative AMC)
+Il rinnovo delle qualifiche deve essere registrato seguendo
+quanto riportato al successivo punto 6).
+In order to maintain the qualification to operate on Albenga/Riviera
+Airport, the PIC involved in CAT or NCC operations must perform within
+a period of 12 months, at least a take-off, an approach and landing for
+each qualification achieved (rif. ORO.FC.105 (c) and following AMC).
+Renewal of the qualification must  be recorded in accordance with point
+6) below.
+1.3.6 REGISTRAZIONE DELLE QUALIFICAZIONI 1.3.6 REGISTRATION OF QUALIFICATIONS
+Le qualificazioni di cui al punto 2.c) e 5) sono registrate dal
+Gestore Aeroportuale.
+Le modalità di registrazione per ciascuna categorizzazione sono
+consultabili sul sito internet del Gestore.
+Qualifications reported in the above points 2.c) and 5) are registered
+by the Aerodome Operator.
+Registration method for each categorization are available on the
+Aerodrome operator’s website.
+1.3.7 VERIFICHE ENAC 1.3.7 ENAC VERIFICATIONS OF COMPLIANCE
+L’ENAC verificherà a campione l’adeguatezza e la veridicità dei
+dati forniti dagli operatori.
+NOTA
+I piloti già in possesso dell’abilitazione ai voli notturni
+rilasciata prima del 28 maggio 2015 dovranno comunque
+effettuare la registrazione in accordo al punto 6) precedente.
+ENAC will sample check suitability and truthfulness of
+information provided by operators.
+REMARK
+Pilots holding qualification for night-time operations issued
+before May 28, 2015 must anyhow complete the registration in
+accordance with point 6) above.
+1.4 VOLI DI STATO E AEROMOBILI IN SERVIZIO DI
+PROTEZIONE CIVILE
+1.4 STATE FLIGHTS AND CIVIL PROTECTION ACFT
+Ai voli di Stato e agli aeromobili della protezione civile è consentito
+decollare di giorno da RWY 09 con una visibilità ridotta, in ogni caso
+non inferiore a 3 km
+During day-time State flights and civil protection aircraft are allowed
+to take off from RWY 09 with reduced visibility, however never less
+than 3 km
+LIMG AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIMG AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIMG 2 - 1
+AIRCRAFT PARKING DOCKING CHART - ICAO  AD 2 LIMG 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 09/27  AD 2 LIMG 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIMG 3 - 3
+STAR VOR PARTIALLY OUTSIDE CONTROLLED AIRSPACE  AD 2 LIMG 4 - 1
+STAR VOR PARTIALLY OUTSIDE CONTROLLED AIRSPACE
+DESCRIPTION TABLES
+ AD 2 LIMG 4 - 3
+STAR RNAV1  AD 2 LIMG 4 - 5
+STAR RNAV1 DESCRIPTION TABLES  AD 2 LIMG 4 - 7
+ICAO VISUAL APPROACH CHART  AD 2 LIMG 5 - 1
+BREAK CLOUDS PER UN AVVICINAMENTO VFR LOC RWY 27
+CAT A-B-C
+ AD 2 LIMG 5 - 3
+BREACK CLOUDS PER UN AVVICINAMENTO VFR LOC RWY 27
+CAT A-B-C DESCRIPTION TABLES
+ AD 2 LIMG 5 - 5
+BREAK CLOUDS FOR VFR APPROACH LOC RWY 27 CAT A-B-C  AD 2 LIMG 5 - 7
+BREACK CLOUDS FOR VFR APPROACH LOC RWY 27 CAT A-B-C
+DESCRIPTION TABLES
+ AD 2 LIMG 5 - 9
+RNP Z RWY 27 BREAK CLOUDS PROCEDURE FOR VISUAL
+APPROACH CAT A/B/C
+ AD 2 LIMG 5 - 11
+RNP Z RWY 27 BREAK CLOUDS PROCEDURE FOR VISUAL
+APPROACH CAT A/B/C DESCRIPTION TABLES
+ AD 2 LIMG 5 - 13
+RNP Y RWY 27 BREAK CLOUDS PROCEDURE FOR VISUAL
+APPROACH CAT A/B/C
+ AD 2 LIMG 5 - 15
+RNP Y RWY 27 BREAK CLOUDS PROCEDURE FOR VISUAL
+APPROACH CAT A/B/C DESCRIPTION TABLES
+ AD 2 LIMG 5 - 17
+VISUAL AIDS CHART  AD 2 LIMG 5 - 19
+
+=== Page 19 ===
+AIP - Italia
+AD 2 LIMG 1 - 19
+AIRAC effective date 23 JAN 2025
+ENAV - Roma (A01/25)
+Carte - Charts Pagine - Pages
+OBSTACLES DETAIL FOR RNP APPROACH RWY 27  AD 2 LIMG 5 - 21
+SID RWY 09 SID PARTIALLY OUTSIDE CONTROLLED AIRSPACE  AD 2 LIMG 6 - 1
+SID RWY 09 SID PARTIALLY OUTSIDE CONTROLLED AIRSPACE
+DESCRIPTION TABLES
+ AD 2 LIMG 6 - 3
+Carte - Charts     Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIMG AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIMG AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 20 ===
+AD 2 LIMG 1 - 20
+AIRAC effective date 23 JAN 2025 AIP - Italia
+(A01/25) ENAV - Roma
+

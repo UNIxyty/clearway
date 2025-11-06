@@ -1,0 +1,875 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIAF 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIAF AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIAF AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIAF - FOLIGNO
+LIAF AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIAF AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+42°56'00''N 012°42'44''E *
+2 Direzione e distanza dalla città 1.08 NM SSE Foligno
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+730 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+2° E (2005.0) / 5'E
+5 Autorità amministrativa aeroportuale ENAC - DT Regioni Centro
+Aeroporto "Raffaello Sanzio"
+60015 Falconara Marittima (Ancona)
+ Tel +39 071 9156083 
+regionicentro.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale ENAC - DT Regioni Centro
+Aeroporto "Raffaello Sanzio"
+60015 Falconara Marittima (Ancona)
+Tel. +39 071 9156083
+regionicentro.apt@enac.gov.it
+ Aerodrome operator  
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aeroporto aperto al traffico di Aviazione Generale ed HEMS
+ Remarks 1. Airport open to General Aviation traffic and HEMS
+LIAF AD 2.3 ORARIO DEI SERVIZI
+LIAF AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale Aeroporto aperto H24 HEMS
+Aeroporto aperto al traffico di Aviazione Generale come segue:
+1. dal lunedì al venerdì previa richiesta scritta con preavviso di 24 ore all’indirizzo
+email ground.ops@avincis.com e studiolegalefoligno@gmail.com (cell. +39
+3711709336/+39 3357268212) e conferma del Consorzio Antincendio Foligno-
+Spoleto;
+2. sabato, domenica e festivi infrasettimanali con i seguenti orari:
+da aprile a settembre: 0930 – 1300 (0730 – 1100); 1400 – 1800 (1200 – 1600) 
+da ottobre a marzo: 0930 – 1300 (0830 – 1200); 1400 – 1700 (1300 – 1600)
+
+=== Page 2 ===
+AD 2 LIAF 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+ Aerodrome Administration AD open H24 to HEMS
+AD open to General Aviation traffic as follows:
+1. From MON to FRI by a written request with 24 hours PN at email 
+ground.ops@avincis.com  and studiolegalefoligno@gmail.com subject to the written
+approval of the Foligno-Spoleto Consortium;
+2. SAT, SUN and midweek holidays as follows: 
+April – September 0930 – 1300 (0730 – 1100); 1400 – 1800 (1200 – 1600) October
+– March 0930 – 1300 (0830 – 1200); 1400 – 1700 (1300 – 1600)
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento Si (self-service)
+ Fuelling Yes (self-service)
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+LIAF AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIAF AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL, OTHER / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento MAX 20000 L,MAX 20000 L,Green Petrol: MAX 20000 L
+ Fuelling capacity
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note Tipo e disponibilità carburante previa conferma al Consorzio Antincendio Foligno-
+Spoleto
+ Remarks Type and availability of fuel prior notification to Foligno-Spoleto Consortium
+LIAF AD 2.5 SERVIZI PER I PASSEGGERI
+LIAF AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIAF 1 - 3
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+ Hotels In town
+2 Ristoranti In città
+ Restaurants In town
+3 Trasporti Taxi O/R
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+
+=== Page 4 ===
+AD 2 LIAF 1 - 4
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+LIAF AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIAF AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note Consorzio Antincendio Foligno-Spoleto
+Tel 0742/670947
+Cell. +39 3711709336/+39 3357268212
+E-mail: ground.ops@avincis.com e studiolegalefoligno@gmail.com
+Come da regolamento “Disciplina generale della protezione antincendio per Aeroporti
+di aviazione generale e Aviosuperfici” ENAC.
+ Remarks Foligno-Spoleto Firefighting Consortium
+Tel: 0742/670947
+Mobile: +39 3711709336 / +39 3357268212
+E-mail: ground.ops@avincis.com and studiolegalefoligno@gmail.com
+According to regulation "Disciplina generale della protezione antincendio per
+Aeroporti di aviazione generale e Aviosuperfici" ENAC.
+LIAF AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIAF AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIAF AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIAF AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+NIL NIL NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 15.0 M ASPH PCN 36/A/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIAF AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIAF AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIAF 1 - 5
+AIRAC effective date 13 JUN 2024
+ENAV - Roma (A06/24)
+  
+  
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIAF AD 2.10 OSTACOLI AEROPORTUALI
+LIAF AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+LIAF AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIAF AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+
+=== Page 6 ===
+AD 2 LIAF 1 - 6
+AIRAC effective date 13 JUN 2024 AIP - Italia
+(A06/24) ENAV - Roma
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LIAF AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIAF AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+17 NIL 1400 x 30
+PCN 36/A/X/T
+ASPH
+42°56'22.00''N
+012°42'39.00''E
+730.0 FT / NIL
+35 NIL 1400 x 30
+PCN 36/A/X/T
+ASPH
+42°55'38.00''N
+012°42'48.00''E
+695.5 FT / NIL
+17GLD NIL 1100 x 30
+NIL
+Grass
+42°56'13.00''N
+012°42'44.00''E
+722.0 FT / NIL
+35GLD NIL 1100 x 30
+NIL
+Grass
+42°55'38.00''N
+012°42'50.00''E
+695.5 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+17 RWY 0.71-0.77% NIL 130 x 80 1520 x 80 90 x 60
+35 RWY 0.71-0.77% NIL 130 x 80 1520 x 80 90 x 60
+17GLD NIL NIL NIL NIL NIL
+35GLD NIL NIL NIL NIL NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+17 NIL NIL
+35 NIL NIL
+17GLD NIL
+Pista delimitata da cinesini
+RWY bounded by cones
+35GLD NIL
+Pista delimitata da cinesini
+RWY bounded by cones
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIAF 1 - 7
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIAF AD 2.13 DISTANZE DICHIARATE
+LIAF AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+17 1400 1530 1400 1400
+35 1400 1530 1400 1400
+17GLD 1100 1100 1100 1100
+35GLD 1100 1100 1100 1100
+NOTE
+REMARKS
+NIL
+LIAF AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIAF AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+17 NIL NIL NIL NIL NIL NIL NIL NIL
+35 NIL NIL NIL NIL NIL NIL NIL NIL
+17GLD NIL NIL NIL NIL NIL NIL NIL NIL
+35GLD NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+17 NIL NIL NIL NIL NIL NIL NIL NIL
+35 NIL NIL NIL NIL NIL NIL NIL NIL
+17GLD NIL NIL NIL NIL NIL NIL NIL NIL
+35GLD NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+17 NIL NIL NIL NIL NIL NIL
+35 NIL NIL NIL NIL NIL NIL
+17GLD NIL NIL NIL NIL NIL NIL
+35GLD NIL NIL NIL NIL NIL NIL
+
+=== Page 8 ===
+AD 2 LIAF 1 - 8
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+LIAF AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIAF AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: NIL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIAF AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIAF AD 2.16 HELICOPTER LANDING AREA
+1 Posizione 42°56’16”N 012°42’44”E
+ Position  
+2 Elevazione 719 ft
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+Dimensioni: 26 x 26 m
+Superficie: conglomerato bituminoso 
+Resistenza: NIL 
+Segnaletica: “H” illuminata
+ Dimensions, surface, strength, marking Dimensions: 26 x 26 m
+Surface: asphalt
+Strength: NIL
+Marking: “H” lighted
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci Luci bianche di bordo; H illuminata; manica a vento illuminata
+ Lighting White edge lights; H lighted; WDI lighted
+7 Note NIL
+ Remarks  
+LIAF AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIAF AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIAF 1 - 9
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Foligno ATZ
+Circular area centered on
+42°56'00"N 012°42'44"E
+within a 3.0 NM radius.
+2500 FT
+AMSL
+G NIL NIL
+1) Zona TIBA, informazioni
+di traffico trasmesse
+dall’aeromobile. Vedi ENR 2.2 /
+TIBA zone, traffic information
+broadcast by aircraft. See ENR
+2.2
+
+=== Page 10 ===
+AD 2 LIAF 1 - 10
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+LIAF AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIAF AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+LIAF AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIAF AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIAF AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIAF AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni ai voli locali 6 Local flight restrictions
+Le operazioni si svolgono secondo la procedura allegata all'ordinanza
+ENAC Direzione Territoriale Regioni Centro N.02/2025 pubblicata
+su https://www.enac.gov.it/la-normativa/normativa-enac/ordinanze/
+regioni-centro.
+Le operazioni degli aeromobili non di base sono consentite previo
+contatto con AVINCIS (ground.ops@avincis.com) almeno 48HR prima.
+Per chiusura FPL telefonare all'ARO CBO ROMA.
+Operations allowed according to the procedure attached to
+ordinance ENAC Territorial Department of Central Italy Regions
+N.02/2025 available on ENAC website https://www.enac.gov.it/la-
+normativa/normativa-enac/ordinanze/regioni-centro.
+Not based aircraft operations allowed with at least 48HR prior notice
+to AVINCIS (ground.ops@avincis.com).
+To close FPL call ARO CBO ROMA.
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIAF AD 2.21 PROCEDURE ANTIRUMORE
+LIAF AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIAF 1 - 11
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIAF AD 2.22 PROCEDURE DI VOLO
+LIAF AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+All’interno dell’ATZ di Foligno, classificata G e nella quale non
+sono forniti servizi di traffico aereo, è attiva la procedura
+“TIBA” (informazioni di traffico trasmesse dall’aeromobile). I piloti
+degli aeromobili che operano su e nelle vicinanze dell’aeroporto di
+Foligno devono mantenere l’ascolto radio continuo sulla FREQ 119.555
+MHz e trasmettere le informazioni di traffico secondo quanto segue:
+Whitin Foligno ATZ, classified G and where no air traffic service is
+provided, “TIBA” (Traffic broadcast by aircraft) operative procedure
+is active. Pilots of aircraft operating on and in the vicinity of Foligno
+airport, shall maintain continuos listening watch on FREQ 119.555 MHz
+and broadcast traffic information according to the following:
+1.1 Aeromobili in attraversamento: 1.1 Aircraft crossing the ATZ:
+a. prima di entrare nell’ATZ, comunicando nominativo, tipo aeromobile,
+rotta e livello
+b. lasciando l’ATZ.
+a. before entering the ATZ, indicating call sign, type of aircraft, route
+and level
+b. leaving the ATZ.
+1.2 Aeromobili in arrivo: 1.2 Arriving aircraft:
+a. prima di entrare nell’ATZ, comunicando nominativo, tipo aeromobile
+e livello
+b. entrando nel circuito di traffico aeroportuale, specificando la
+direzione di atterraggio e le intenzioni in finale (“finito”, “touch and
+go” o “basso passaggio”)
+c. iniziando la manovra relativa alle “intenzioni in finale” specificate
+oppure liberando la pista, in caso di atterraggio.
+a. before entering the ATZ, indicating call sign, type of aircraft, route
+and level
+b. entering the aerodrome traffic circuit indicating landing direction
+and “intentions on final” (“full stop”, “touch and go” or “low pass”)
+c. commencing the manoeuvre related to the indicated “intentions on
+final” or vacating the runway in case of fullstop landing.
+1.3 Aeromobili in partenza: 1.3 Departing aircraft:
+a. prima di iniziare il rullaggio, comunicando nominativo, tipo
+aeromobile, direzione di decollo e destinazione
+b. prima di entrare in pista
+c. lasciando l’ATZ
+a. before taxing, indicating call sign, type of aircraft, takeoff direction
+and destination
+b. before entering the runway
+c. leaving the ATZ
+1.4 Tutte le comunicazioni indicate ai punti precedenti
+dovranno iniziare con la frase: “a tutte le stazioni”
+1.4 All above listed radio communications shall be started
+with the phrase: “all stations”
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+L’accesso nell’area di movimento degli aeromobili è consentito soltanto
+ai piloti e agli operatori autorizzati con il divieto di avvicinarsi ad
+aeromobili con eliche o motori in moto.
+L’accesso nell’area di manovra è strettamente consentito ai piloti e
+agli operatori autorizzati, previo accurato accertamento di assenza di
+traffico aeromobili sia al suolo che in avvicinamento.
+Per la sosta e l’attraversamento dell’area di manovra bisogna essere
+muniti di apposito apparato radio ricetrasmittente sintonizzato sulla
+frequenza TIBA 119.555 MHz ed essere in contatto con l’Aeroclub di
+Foligno.
+L’attività HEMS ha la priorità su tutto l’altro traffico da/per l’aeroporto
+di Foligno.
+Ad integrazione di quanto riportato al punto 1 “Generalità”, per
+l’effettuazione dell’attività HEMS si applica la seguente procedura:
+- il pilota HEMS effettua una chiamata all’aria sulla frequenza di TIBA
+119.555 MHz informando dell’avvenuta attivazione per una missione di
+soccorso e dell’imminente decollo entro 5 min e dichiara la sua priorità
+a tutto il traffico in frequenza;
+- il traffico di Aeroclub e Utenti Aeroportuali, nonché ogni altro di
+Aviazione Generale che si trova in frequenza, concede la priorità al
+traffico HEMS e si adegua separandosi (in questa fattispecie rientra
+anche il velivolo traino degli alianti);
+Only authorized pilots and operators shall access to the movement
+area without approaching aircraft with propellers or engines in motion.
+Access to the manoeuvring area is strictly allowed to pilots and
+authorised operators, after verification of absence of aircraft traffic
+both on the ground and approaching.
+For the stop and the crossing of the maneuvering area aircraft must be
+equipped with a radio transmitter tuned to the TIBA frequency 119.555
+MHz and be in contact with the Aeroclub of Foligno.
+Traffic from/to the airport shall give priority to HEMS activity.
+In addition to point 1 “General information”, the following procedure
+shall apply for the HEMS activity:
+  
+ 
+       
+- the HEMS pilot broadcast on the TIBA frequency 119.555 MHz
+informing of the activation for a rescue mission and the imminent take-
+off within 5 min and declares its priority to all traffic on frequency;
+      
+- Aeroclubs and Airport Users traffic, as well as any other General
+Aviation traffic that is tuned on TIBA frequency, shall give priority to the
+HEMS traffic and adapts by separating (in this case also is included the
+towed glider aircraft);
+
+=== Page 12 ===
+AD 2 LIAF 1 - 12
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+- eventuale traffico alianti, già in “Prenotazione” ed inabile a
+mantenere, udita la attivazione HEMS, comunica all’aria sulla
+frequenza di TIBA 119.555 MHz che lascia la “Prenotazione” per
+l’atterraggio.
+Eventuale traffico alianti, non in “Prenotazione” e abile a mantenere
+fuori zona, si adegua comunicando la sua posizione rispetto al campo
+per consentire la separazione al traffico HEMS in decollo.
+- any glider traffic, already at "Booking" point and unable to maintain,
+heard the activation HEMS, makes a broadcast on the TIBA 119.555
+MHz leaving the "Booking" for landing.
+Any glider traffic, not at "Booking" point and able to keep out of the
+zone, is adjusted by communicating its position with respect to the
+field to allow separation to HEMS traffic on takeoff.
+4.2 Attività di circuito 4.2 Circuit activity
+Sull’aeroporto di Foligno vengono istituiti due circuiti di traffico, uno a
+Ovest per gli aeromobili a motore ed uno a Est per gli alianti.
+Gli alianti utilizzano il sottovento destro per RWY 35 o il sottovento
+sinistro per RWY 17 a seconda delle condizioni di vento.
+Per l’atterraggio è individuata una posizione denominata
+“Prenotazione”, situata sulla verticale della località di Sant’Eraclio a
+circa 1km a Est di LIAF ad una quota di 300mt AGL.
+L’aliante in rientro sul campo deve riportare il punto “Prenotazione”
+prima di lasciare per il sottovento.
+Il pilota di aliante proveniente dalla sua zona di operazioni e che si
+dirige a LIAF per l’atterraggio, deve riportare il punto “Prenotazione”
+e quando è pronto comunica all’aria sulla frequenza TIBA che
+“lascia il punto Prenotazione”, comunicando il sottovento che andrà a
+impegnare.
+On Foligno airport two traffic circuits are established, one in the West
+for motor aircraft and one in the East for gliders.
+Gliders fly the right downwind for RWY 35 or the left downwind for
+RWY 17 depending on wind conditions.
+For the landing a position called “Booking” is located on the vertical
+of the town of Sant’Eraclio about 1km east of LIAF at an altitude of
+300mt AGL.
+Glider returning to the field has to report “Booking” point before
+leaving for the downwind leg.
+The glider pilot leaving his area of operations and approaching LIAF
+for landing, has to report the “Booking” point and when ready he
+communicates to the air on the TIBA frequency that he leaves the
+“Booking” point declaring the downwind leg that he will engage.
+4.3 Arrivi 4.3 Arrivals
+In fase di avvicinamento all’aeroporto stabilire contatto radio sulla
+frequenza TIBA
+On approaching the airport establish radio contact on TIBA frequency
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+Operazioni consentite esclusivamente ai voli HEMS del 118 Umbria solo
+per atterraggi/decolli su area elicotteri.
+Operations allowed exclusively for HEMS flights of 118 Umbria only for
+landings/take-offs on the helicopters area.
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIAF AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIAF AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIAF AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIAF AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIAF 2 - 1
+LIAF AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIAF AD 2.25 Visual segment surface (VSS) penetration

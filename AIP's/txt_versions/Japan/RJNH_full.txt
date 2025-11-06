@@ -1,0 +1,1454 @@
+=== Page 1 ===
+AIP Japan
+HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD2-1
+AD 2 AERODROMES
+RJNH AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJNH - HAMAMATSU
+RJNH AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJNH AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 344501N/1374211E
+2 Direction and distance from (city) 3nm NW
+3 Elevation/ Reference temperature 150ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Japan Air Self Defense Force
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7A T S H 2 4
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 2 ===
+RJNH AD2-2                         AIP Japan
+                     HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD 2.4 HANDLING SERVICES AND FACILITIES
+RJNH AD 2.5 PASSENGER FACILITIES
+RJNH AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJNH AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1 PLUS
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:9 NOV 2017) 9/11/17
+
+
+=== Page 3 ===
+AIP Japan
+HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD2-3
+RJNH AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJNH AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJNH AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY09/27
+(LGT) RTHL, TKOF aiming LGT
+TWY:
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJNH AD2-4                         AIP Japan
+                     HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office HAMAMATSU
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Ja,En
+7 Charts and other information available 
+for briefing or consultation
+S,U
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information (limitation of 
+service, etc.)
+Nil
+27
+09
+Detection Area for Arriving Aircraft
+1NM 1NM 1NM 1NM
+Detection Area for Departing Aircraft
+RUNWAY
+1NM1NM
+1NM
+UPPER LIMIT: 1600ft above FIELD ELEV LEVEL
+LOWER LIMIT: FIELD ELEV LEVEL
+Airspace for the advisory service 
+concerning low level wind shear
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 5 ===
+AIP Japan
+HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD2-5
+RJNH AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJNH AD 2.13 DECLARED DISTANCES
+RJNH AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+09
+27
+To be 
+issued later
+2550×60
+2550×60
+SW37000kg
+(81000lbs)
+DW57000kg
+(125000lbs)
+STW97000kg
+(213000lbs)
+DTW181000kg
+(399000lbs)
+Concrete
+Nil
+Nil
+Nil
+Nil
+   Slope of RWY Strip
+ Dimensions(M) Remarks
+71 0 1 2
+to be developed 2926×300
+2926×300
+Nil
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+09
+27
+PAPI
+3.0°
+51ft
+PAPI
+3.0°
+54ft
+Remarks
+10
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 6 ===
+RJNH AD2-6                         AIP Japan
+                     HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJNH AD 2.16 HELICOPTER LANDING AREA
+RJNH AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics and 
+hours of operation ABN:344434N/1374158E, White/Green EV8.748sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : LGTD
+3 TWY edge and centerline lighting TWY edge LGT : AVBL
+4 Secondary power supply/    switch-
+over time Nil
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+HAMAMATSU
+CTR
+Area within a radius of 5NM of HAMAMATSU ARP
+(34°45’N/137°42'E).
+4,000 or 
+below D HAMAMATSU
+Tower
+HAMAMATSU 
+ACA
+SEE RJNH ATTACHED CHART
+HAMAMATSU 
+TCA
+SEE RJNH ATTACHED CHART
+(EFF:17 AUG 2017) 17/8/17
+
+
+=== Page 7 ===
+AIP Japan
+HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD2-7
+'-
+
+20NM
+30NM fm 
+351534N/1365459E
+33NM
+14NM
+40NM fm KCC
+30NM
+60NM
+KCC
+LHT
+CBE
+269˚ 05´T
+343035N
+1381435E
+340752N
+1375851E
+335349N
+1370426E
+342333N
+1370930E
+340616N
+1364656E
+343836N
+1372508E
+343846N
+1374614E
+345851N
+1373905E
+350353N
+1373514E
+351534N
+1365459E
+344920N
+1381722E
+094˚ 47´T
+۠
+Hamamatsu Approach Control Area
+(EFF:6 FEB 2014) 12/12/13
+
+
+=== Page 8 ===
+RJNH AD2-8                         AIP Japan
+                     HAMAMATSU
+Civil Aviation Bureau,Japan
+335
+˃
+300 ˃
+250
+˃
+115 ˃
+083 ˃
+071
+˃
+090 ˃
+065
+˃
+050
+˃
+010
+˃
+6000
+4500
+6000
+4000
+6000
+4000
+6000
+3000
+6000
+2000
+6000
+2000
+6000
+400110000
+1800
+6000
+1800
+10000
+2500
+4000
+2500
+6000
+3000
+6000
+2500
+4000
+6000
+7NM
+11NM
+16NM
+18NM
+13NM
+9NM
+13NM
+30NM fm 
+351534N/1365459E
+40NM fm KCC
+33N
+M fm
+ CBE
+20NM
+HAMAMATSU CTZ
+  OUT OF TCA
+඿দλʔϛ φϧίϯτϩʔϧΤϦΞ
+Hamamatsu Terminal Control Area
+345851N
+1373905E
+343836N
+1372508E
+94 ˃47´
+350353N
+1373514E
+343846N
+1374614E
+(EFF:3 MAY 2012) 5/4/12
+
+
+=== Page 9 ===
+AIP Japan
+HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD2-9
+RJNH AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP/ASR Hamamatsu Approach/
+Hamamatsu Radar
+261.2MHz
+120.1MHz
+250.4MHz
+243.0MHz(E)
+121.5MHz(E)
+H24 (1) For rescue only.
+(2) AVBL on request.
+TWR Hamamatsu Tower 236.8MHz
+126.2MHz
+304.5MHz
+138.05MHz(1)
+247.0MHz(1)(2)
+123.1MHz(1)(2)
+243.0MHz(E)
+121.5MHz(E)
+H24
+GND Hamamatsu Ground 275.8MHz
+126.2MHz
+H24
+DEP Hamamatsu 
+Deperture
+362.3MHz
+302.4MHz
+120.1MHz
+121.5MHz(E)
+243.0MHz(E)
+H24
+TCA Hamamatsu TCA 127.95MHz
+288.1MHz
+2300 - 1100
+SUN - THU
+(EXC HOL)
+GCA-ASR
+   -PAR
+Hamamatsu Radar 335.6MHz
+270.8MHz
+134.1MHz
+125.3MHz
+316.0MHz
+302.4MHz
+238.8MHz
+300.7MHz
+317.8MHz
+121.5MHz(E)
+243.0MHz(E)
+H24 ASR, PAR Rwy 09/27
+Glide path 3.0°.
+MET Hamamatsu Metro 344.6MHz 2030-1230 DLY
+EXC 
+2030 FRI-1230 SAT
+2030 SAT-1230 SUN
+ and HOL 
+Other time 
+on request
+Pilot forecaster service 
+(Military)
+(EFF:17 JUN 2021) 17/6/21
+
+
+=== Page 10 ===
+RJNH AD2-10                         AIP Japan
+                     HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJNH AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Type of aid
+(VOR declination) ID Frequency Hours of
+operation
+Position of
+transmitting antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN LHT 1181 MHz
+(CH-94X)
+H24 344450.47N/
+1374236.21E
+218ft Unusable:
+R150-170 beyond 18nm BLW 2000ft.
+R270-280 beyond 35nm BLW 3000ft.
+R280-290 beyond 32nm BLW 4000ft.
+R290-310 beyond 35nm BLW 5000ft.
+R310-320 beyond 30nm BLW 6000ft.
+R320-330 beyond 27nm BLW 6000ft.
+R330-340 beyond 37nm BLW 7000ft.
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:21 APR 2022) 24/3/22
+
+
+=== Page 11 ===
+AIP Japan
+HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD2-11
+RJNH AD 2.21 NOISE ABATEMENT PROCEDURES
+RJNH AD 2.22 FLIGHT PROCEDURES
+Nil
+1. TAKE OFF MINIMA
+RWY
+REDL AVBL REDL OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF ALTN 
+AP FILED
+09 300'-1600m 300'-1600m - 300'-1600m
+27 300'-1600m 300'-1600m - 300'-1600m
+OTHER
+09
+AVBL LDG MINIMA
+27
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 09
+ 
+PAR RWY 27
+MINIMA THR ELEV: 141          AD ELEV: 150 MINIMA THR ELEV: 148          AD ELEV: 150
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS DA(H) RVR/
+CMV MDA(H) VIS
+A
+450(309) 1200
+800(650) 1600
+A
+450(302) 1200
+800(650) 1600
+BB
+C
+850(700)
+2400 C
+850(700)
+2400
+D3 2 0 0 D3 2 0 0
+ASR RWY 09
+ 
+ASR RWY 27
+MINIMA THR ELEV: 141          AD ELEV: 150 MINIMA THR ELEV: 148          AD ELEV: 150
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+800(659)
+1500 800(650) 1600
+A
+800(650)
+1500 800(650) 1600
+BB
+C
+2000 850(700)
+2400 C
+2000 850(700)
+2400
+D3 2 0 0 D3 2 0 0
+3. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with HAMAMATSU Radar are lost for 1 minute in the pattern or 5 seconds(PAR)/ 15 seconds(ASR)
+on final approach, squawk Mode A/3 Code 7600 and ;
+(I) 1. Contact HAMAMATSU Radar/Tower.
+2. If unable, proceed in accordance with Visual Flight Rules.
+3. If unable, proceed to TACAN IAF at last assigned alti tude or 3,000ft whichever higher, and execute instrument
+approach
+(II) Procedures other than above will be issued when situation required.
+(EFF:13 JUL 2023) 13/7/23
+
+
+=== Page 12 ===
+RJNH AD2-12                         AIP Japan
+                     HAMAMATSU
+Civil Aviation Bureau,Japan
+RJNH AD 2.23 ADDITIONAL INFORMATION
+RJNH AD 2.24 CHARTS RELATED TO AN AERODROME
+4. Automated  Radar  Terminal  System (ARTS)
+Aircraft flying under control of Hamamatsu approach control in  the approach control area  will be instructed to reply with
+discrete code on Mode A/3 and Mode C.
+If an aircraft with non-discrete code capability be instructed to reply with such code, it shall report a controller accordingly.
+浜松進入管制所の指示のもとに、当該進入管制区を飛行する航空機は、 モード A/3 の二次レーダー個別コード及びモード C
+による応答を指示される。
+二次レーダー個別コードを搭載していない航空機が当該コードによる応答を指示された場合は、管制官に対しその旨を通報
+すること。
+ E portion of N TWY and N-1 TWY are not visible from TWR.
+Standard Departure Chart - Instrument (SAGRA, OSHIMA)
+Standard Departure Chart - Instrument (KOWA)
+Standard Departure Chart - Instrument (ATSUMI)
+Standard Departure Chart - Instrument (HAMAMATSU REVERSAL)
+Instrument Approach Chart (TACAN Z RWY 09)
+Instrument Approach Chart (TACAN Y RWY 09)
+Instrument Approach Chart (TACAN X RWY 09)
+Instrument Approach Chart (TACAN Z RWY 27)
+Instrument Approach Chart (TACAN Y RWY 27)
+Instrument Approach Chart (TACAN X RWY 27)
+(EFF:21 APR 2022) 24/3/22
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+SIDRJNH / HAMAMATSU
+SAGRA FIVE DEPARTURE
+RWY09 : Climb RWY HDG to LHT 3.4DME(3.0NM fm DER), turn right
+HDG205°...
+RWY27 : Climb RWY HDG to LHT 4.0DME(3.0NM fm DER), turn left
+HDG115°...
+...to intercept and proceed via LHT R160, via YZT R225, 
+then turn right to proceed via XAC R279 to SAGRA.
+Cross LHT R160/10.0DME at or below 6000FT
+cross YZT R225/20.0DME (LHT R133) at assigned altitude. 
+OSHIMA FOUR DEPARTURE
+RWY09 : Climb...
+RWY27 : Climb RWY HDG to LHT 4.0DME(3.0NM fm DER), turn left HDG054° to
+intercept and proceed...
+...via LHT R099 to SAGRA.
+Cross SAGRA at assigned altitude.
+OSHIMA  FOUR  DEPARTURE
+SAGRA  FIVE  DEPARTURE
+assigned Alt
+LHT  R099
+XAC
+R279
+SAGRA
+D20 YZT
+6000
+LHT R160
+LHT R133
+YZT R225
+045˚
+assigned Alt for OSHIMA
+FOUR DEPARTURE
+D10.0 LHT
+TACAN
+SHIZUHAMA
+990    YZT
+0FT
+CH–29X
+ÛÝ1ÛÝ(
+TACAN
+HAMAMATSU
+1181    LHT
+CH–94X
+ÛÝ1ÛÝ(
+054˚
+205˚
+115˚
+D4.0 LHT D3.4 LHT
+200FT
+CHANGE : PROC name, PROC course(SAGRA FIVE DEPARTURE, OSHIMA FOUR DEPARTURE). Note deleted(SAGRA FIVE 
+DEPARTURE, OSHIMA FOUR DEPARTURE).
+(EFF:21 APR 2022) 24/3/22
+RJNH AD2.24-SID-1
+HAMAMATSU
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+SIDRJNH / HAMAMATSU
+KOWA SIX DEPARTURE
+RWY09 : Climb RWY HDG to LHT 3.4DME(3.0NM fm DER), turn right
+               HDG265° to intercept and proceed...
+RWY27 : Climb RWY HDG to LHT 4.0DME(3.0NM fm DER), turn left
+               HDG175° to intercept and proceed...
+...via LHT R220 to LHT 39.0DME, then turn right to intercept and proceed via 
+XMT R168 to XMT TACAN.
+Cross LHT R220/10.0DME at or below 6000FT,
+cross XMT R168/27.0DME(LHT R233) at or above 13000FT.
+XMT R168
+D27 XMT
+LHT R220
+220˚
+348˚ LHT R233
+D4.0 LHT
+KOWA SIX DEPARTURE
+6000
+13000
+TACAN
+HAMAMATSU
+1181    LHT
+CH–94X
+ÛÝ1ÛÝ(
+TACAN
+KOWA
+1169    XMT
+CH–82X
+ÛÝ1ÛÝ(
+300FT
+CHANGE : PROC renamed. PROC course. Note deleted. 
+200FT
+D3.4 LHT
+265˚
+175˚
+D10.0 LHT
+D39.0 LHT
+(EFF:21 APR 2022) 24/3/22
+RJNH AD2.24-SID-2
+HAMAMATSU
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+SIDRJNH / HAMAMATSU
+ATSUMI FIVE DEPARTURE
+RWY09 : Climb RWY HDG to LHT 3.4DME(3.0NM fm DER), turn right HDG319°
+                to intercept and proceed...
+RWY27 : Climb ...
+...via LHT R274 to XMT TACAN.
+Cross XMT TACAN at assigned altitude.
+assigned  Alt
+TACAN
+HAMAMATSU
+1181    LHT
+CH–94X
+ÛÝ1ÛÝ(
+TACAN
+KOWA
+1169    XMT
+CH–82X
+ÛÝ1ÛÝ(
+300FT LHT R274274˚
+D3.4 LHT
+ATSUMI FIVE DEPARTURE
+200FT
+319˚
+CHANGE : PROC renamed. PROC course. Note deleted. 
+(EFF:21 APR 2022) 24/3/22
+RJNH AD2.24-SID-3
+HAMAMATSU
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+SIDRJNH / HAMAMATSU
+HAMAMATSU REVERSAL THREE DEPARTURE
+RWY09 : Climb RWY HDG to LHT 3.4DME(3.0NM fm DER), turn right
+               HDG265° to intercept and proceed...
+RWY27 : Climb RWY HDG to LHT 4.0DME(3.0NM fm DER), turn left
+               HDG175° to intercept and proceed...
+...via LHT R220, then turn left within LHT 48.0DME, reverse course to LHT 
+TACAN.
+Cross LHT R220/10.0DME outbound track at or below 6000FT.
+Cross LHT R220/14.0DME inbound track at assigned altitude.
+D10.0 LHT outbound track at or below 6000FT
+D14.0 LHT inbound track at assigned altitude
+D48.0 LHT
+LHT R220
+220˚
+040˚
+HAMAMATSU REVERSAL THREE DEPARTURE TACAN
+HAMAMATSU
+1181    LHT
+CH–94X
+ÛÝ1ÛÝ(
+200FTD4.0 LHT D3.4 LHT
+265˚
+175˚
+CHANGE : PROC renamed. PROC course. Note deleted. 
+(EFF:21 APR 2022) 24/3/22
+RJNH AD2.24-SID-4
+HAMAMATSU
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1847
+3333
+20NM
+3370
+2244
+303
+MAPt
+R090/D3.0 LHT
+503
+547
+270°
+180°
+360°
+090°
+TACAN Z RWY09RJNH / HAMAMATSU
+HAMAMATSU  APP
+120.1 - 261.2 - 250.4 
+HAMAMATSU  TACAN
+CH-94X  LHT
+HAMAMATSU  TOWER
+236.8 - 126.2 - 304.5
+EMERG SAFE ALT 100NM 14400
+MISSED APPROACH
+HAMNA 
+   (IAF)
+LHT
+FL230
+10000
+4000 3000 1500
+R151/
+D19.0 LHT
+R166 R240 R284
+D10.0 LHT
+FAF MAPt 090°
+151°
+346°
+151°346°
+D12.0 LHT ARC
+HAMNA (IAF) 
+R151/D14.0 LHT 
+Climb via LHT R090 to LHT R090/
+3.0DME, turn right to intercept and
+proceed via LHT R284 to LHT
+R284/8.0DME fix and hold at 3000FT.
+Contact HAMAMATSU APP .
+R284
+R240
+R166
+R151
+D19.0 LHT
+2589
+ÛÝ1ÛÝ(
+104˚
+104˚
+VAR 8˚W (2021)
+ 
+MINIMA 
+CAT
+640 (499)
+800 (650)1500 1600
+2400
+3200
+2000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 141 AD elev. 150
+A
+B
+C
+D
+RADAR  AVBL
+MHA 3000
+MAX 200KIASD12.0 LHT
+D8.0 LHT
+LHT
+R284
+284°
+104°
+7100
+2000
+5700
+270°090°
+180°
+MSA 25NM
+LHT
+1015
+D1.8 LHTFAF
+D6.0 LHT
+D10.0
+LHT
+LHT LHT
+D12.0 LHT ARC
+2100 1400 MDA
+11.0 9.0 5.0 0.7 NM to THR
+850 (700)
+CHANGE : MDA(H) for circling. OBST(HGT 503, 547).
+(EFF:13 JUL 2023) 13/7/23
+RJNH AD2.24-IAC-1
+HAMAMATSU
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1847
+3333
+20NM
+2244
+MISSED APPROACH
+Climb via LHT R090 to LHT R090/
+3.0DME, turn right to intercept and
+proceed via LHT R284 to LHT R284
+/8.0DME fix and hold at 3000FT.
+Contact HAMAMATSU APP .
+EMERG SAFE ALT
+100NM 14400
+3370
+TACAN YRWY09RJNH / HAMAMATSU
+HAMAMATSU  APP
+120.1 - 261.2 - 250.4 
+HAMAMATSU  TACAN
+CH-94X  LHT
+HAMAMATSU  TOWER
+236.8 - 126.2 - 304.5
+104°
+R284
+DAIOH (IAF)
+R216/D33.0 LHTD43.0 LHT
+036°
+104°
+090°
+4000
+3000
+1500
+DAIOH
+  (IAF)
+R216
+R240
+R284 D10.0
+FAF
+MAPt
+LHT
+ÛÝ1ÛÝ(
+VAR 8˚W (2021)
+ 
+MINIMA 
+CAT
+640 (499)
+800 (650)1500 1600
+2400
+3200
+2000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 141 AD elev. 150
+A
+B
+C
+D
+RADAR  AVBL
+R240
+R216
+216˚
+036˚
+270°
+180°
+360°
+090°
+2589
+MHA 3000
+MAX 200KIASD12.0 LHT
+D8.0 LHT
+LHT
+R284
+284°
+104°
+303
+1015
+MAPt
+R090/D3.0 LHT
+D12.0 LHT ARC
+D1.8 LHT
+FAF
+D6.0 LHT
+D10.0
+LHT
+7100
+2000
+5700
+270°090°
+180°
+MSA 25NM
+LHT
+10000
+FL140
+LHT
+LHT
+LHT
+2100 1400 MDA
+D12.0 LHT ARC
+11.0 9.0 5.0 0.7NM to THR
+850 (700)
+503
+547
+CHANGE : MDA(H) for circling. OBST(HGT 503, 547).
+(EFF:13 JUL 2023) 13/7/23
+RJNH AD2.24-IAC-2
+HAMAMATSU
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+360°
+090°
+V$5Û:
+ 
+MINIMA 
+CAT
+
+ 
+2400
+3200
+2000
+0'$+ RVR/
+CMV 0'$+ VIS
+CIRCLING
+7+5HOHY $'HOHY
+A
+B
+C
+D
+&OLPEYLD/+75WR/+75
+'0(WXrn rLJKWWRLQWHUFHSWDQG
+SURFHHGYLD/+75WR/+7
+5'0(IL[DQGKROGDW)T
+&RQWDFW+$0$0ATSU APP
+0,66('$33ROA&+
+090°
+
+3000
+
+04°
+KOSAI 
+,$)
+'/+7
+)$)
+0$3W
+/+7
++$0$0ATSU
+CITY
+303
+866
+4°
+(0(5*6$)( AL7104400
+K26$,,$)TOY2+$6+,
+CITY
+R284
+04°
+284°
+
+
+
+
+
+ 2730
+TACAN X R:<
+RADAR  AVBL
++$0$0ATSU TO:(5
+
++$0$0ATSU  TACAN
+&+;/+7
+5-1++$0$0$768
++$0$0$768$33
+
+ 0NM
+
+ÛÝ1ÛÝ(
+
+
+2000
+
+270°090°
+
+06$10
+/+7
+0$3W
+5'/+7'/+7
+)$)
+'/+7
+'
+/+7 '/+7
+'
+/+7
+'/+7
+R284/
+
+ MDA
+    10WR7+5
+
+
+
+&+$NG(: M'$+fRr FLrFOLQJ2%67+GT 3
+(EFF:13 JUL 2023) 13/7/23
+RJNH AD2.24-IAC-3
+HAMAMATSU
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+151°
+270°
+° MAPt
+FAF
+R090
+1847
+3333
+20NM
+2244
+2589
+3370
+TACAN Z RWY27RJNH / HAMAMATSU
+HAMAMATSU  APP
+120.1 - 261.2 - 250.4 
+HAMAMATSU TACAN
+CH-94X LHT
+HAMAMATSU  TOWER
+126.2 - 236.8 - 304.5
+R270/D3.0 LHT 270°
+FAF
+R131
+346°
+151°
+HAMNA(IAF)
+R090
+R1
+51
+R16
+6
+EMERG SAFE ALT 100NM 14400
+MISSED APPROACH
+Climb via LHT R270 to LHT R270/
+3.0DME, turn left to intercept and
+proceed via LHT R090 to LHT
+R090/9.0DME fix and hold at 3000FT.
+Contact HAMAMATSU APP .
+LHT
+1500 3000 6000 346°
+FL230
+10000
+HAMNA
+(IAF) D19.0 LHT
+R131 R166
+ÛÝ1ÛÝ(
+VAR 8˚W (2021)
+ 
+MINIMA 
+CAT
+560 (410)
+800 (650)1500 1600
+2400
+3200
+2000
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 148 AD elev. 150
+A
+B
+C
+D
+RADAR  AVBL
+180°
+360°
+090°
+270
+303
+MHA 3000
+MAX 200KIAS D13.0 LHT
+D9.0 LHT
+LHT R090
+090°
+270°
+7100
+2000
+5700
+270°090°
+180°
+MSA 25NM
+LHT
+D13.0 LHT
+D6.0 LHT
+R151/D14.0 LHT
+D15.0 LHT D19.0 LHT
+D15.0 LHT ARC
+D1.3 LHT
+MAPt
+LHTLHT
+LHT
+D13.0 LHT
+21001200MDA D15.0 LHT ARC
+5.5 12.6 14.61.0NM to THR
+RVR/
+850 (700)
+503
+547
+CHANGE : MDA(H) for circling. OBST(HGT 503, 547).
+(EFF:13 JUL 2023) 13/7/23
+RJNH AD2.24-IAC-4
+HAMAMATSU
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180°
+360
+°
+090°
+1847
+3333
+20NM
+2244
+2589
+EMERG SAFE ALT
+100NM 14400
+3370
+TACAN Y RWY27RJNH / HAMAMATSU
+HAMAMATSU  APP
+120.1 - 261.2 - 250.4 
+HAMAMATSU  TACAN
+CH-94X  LHT
+HAMAMATSU  TOWER
+236.8 - 126.2 - 304.5
+216°
+036°
+036
+°
+DAIOH(IAF)
+R216/D33.0 LHT
+10000
+6000
+1500
+3000
+DAIOH 
+  (IAF)
+R216
+LHT
+R131
+FAF
+MAPt
+MISSED APPROACH
+Climb via LHT R270 to LHT R270
+/3.0DME, turn left to intercept and
+proceed via LHT R090 to LHT
+R090/9.0DME fix and hold at
+3000FT.
+Contact HAMAMATSU APP .
+270°
+R131
+R216
+ÛÝ1ÛÝ(
+VAR 8˚W (2021)
+ 
+MINIMA 
+CAT
+560 (410)
+800 (650)1500 1600
+2400
+3200
+2000
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 148 AD elev. 150
+A
+B
+C
+D
+RADAR  AVBL
+036˚
+270˚270˚
+303
+MHA 3000
+MAX 200KIAS D13.0 LHT
+D9.0 LHT
+LHT R090
+090°
+270°
+7100
+2000
+5700
+270°090°
+180°
+MSA 25NM
+LHT
+R270/D3.0 LHT
+FAF
+D13.0 LHT
+D6.0 LHT
+D15.0 LHT ARC
+D1.3 LHT
+MAPt
+D15.0 LHT
+D43.0 LHT
+FL140
+LHT
+LHTR090
+LHT
+LHT
+D13.0
+2100
+1200 D15.0 LHT ARC
+5.5 12.6 14.61.0NM to THR
+MDA
+RVR/
+850 (700)
+503
+547
+CHANGE : MDA(H) for circling. OBST(HGT 503, 547).
+(EFF:13 JUL 2023) 13/7/23
+RJNH AD2.24-IAC-5
+HAMAMATSU
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+090°
+180°
+360°
+090°
+IWATA(IAF)
+Climb via LHT R270 to LHT R270/
+3.0DME, turn left to intercept and
+proceed via LHT R090 to LHT
+R090/9.0DME fix and hold at 3000FT.
+Contact HAMAMATSU APP .
+MISSED APPROACH 
+6000
+3000
+1500
+IWATA
+ (IAF)
+FAF
+MAPt
+LHT
+HAMAMATSU
+CITY
+303
+866
+270°
+EMERG SAFE ALT 100NM 14400
+TOYOHASHI
+ CITY
+2015
+1847
+1732
+1138
+2156
+1772
+2730
+TACAN X RWY27
+HAMAMATSU  TOWER
+236.8 - 126.2 - 304.5
+HAMAMATSU  TACAN
+CH-94X  LHT
+RJNH / HAMAMATSU
+HAMAMATSU  APP
+120.1 - 261.2 - 250.4
+2589
+10NM
+R090
+ÛÝ1ÛÝ(
+V$5Û:
+ 
+MINIMA 
+CAT
+560 (410)
+800 (650)1500 1600
+2400
+3200
+2000
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 148 AD elev. 150
+A
+B
+C
+D
+Û
+Û
+RADAR  AVBL
+1746
+7100
+2000
+5700
+270°090°
+180°
+MSA 25NM
+LHT
+R270/D3.0 LHT FAF
+D9.0 LHT
+D6.0 LHTD1.3 LHT
+MAPt
+D13.0 LHT
+R090/D13.0 LHT
+1200
+MDA
+5.5 12.61.0NM to THR
+RVR/
+850 (700)
+503
+547
+CHANGE : MDA(H) for circling. OBST(HGT 503, 547).
+(EFF:13 JUL 2023) 13/7/23
+RJNH AD2.24-IAC-6
+HAMAMATSU
+

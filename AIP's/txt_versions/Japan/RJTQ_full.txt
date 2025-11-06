@@ -1,0 +1,1338 @@
+=== Page 1 ===
+AIP Japan
+MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD2-1
+AD 2 AERODROMES
+RJTQ AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJTQ - MIYAKEJIMA
+RJTQ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJTQ AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 340425N/1393337E
+0.6km from RWY02 THR
+2 Direction and distance from (city) 19. 0km E from Miyake village office
+3 Elevation/ Reference temperature 65ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+135ft
+5 MAG VAR/ Annual change 7°W(2024) / 4’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Tokyo Metropolitan Government. Puplic AP.
+1378, Tsubota, Miyake-mura, Miyake-jima, Tokyo.
+TEL : 04994-6-0203
+FAX : 04994-6-1506
+7 Types of traffic permitted
+(IFR/VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 0000 - 0815 [0000 21st APR - 0815 10th MAY, 0000 16th JUL - 0815 31st AUG]
+0000 - 0800 [0000 11th MAY - 0800 15th JUL, 0000 1st SEP - 0800 20th APR]
+2 Customs and immigration On request
+Customs: 03-3599-6286
+Immigration: 0570-034259 (Department Number 210)
+3 Health and sanitation Quaranti ne(human): On request(03-3599-1515)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (TOKYO)
+7 ATS 0000 - 0815 [0000 21st APR - 0815 10th MAY, 0000 16th JUL - 0815 31st AUG]
+0000 - 0800 [0000 11th MAY - 0800 15th JUL, 0000 1st SEP - 0800 20th APR]
+Remarks: AFIS provided by New Chitose Airport Office.
+8 Fuelling 0000 - 0815 [0000 21st APR - 0815 10th MAY, 0000 16th JUL - 0815 31st AUG]
+0000 - 0800 [0000 11th MAY - 0800 15th JUL, 0000 1st SEP - 0800 20th APR]
+9 Handling 0000 - 0815 [0000 21st APR - 0815 10th MAY, 0000 16th JUL - 0815 31st AUG]
+0000 - 0800 [0000 11th MAY - 0800 15th JUL, 0000 1st SEP - 0800 20th APR]
+10 Security 0000 - 0815 [0000 21st APR - 0815 10th MAY, 0000 16th JUL - 0815 31st AUG]
+0000 - 0800 [0000 11th MAY - 0800 15th JUL, 0000 1st SEP - 0800 20th APR]
+11 De-icing Nil
+12 Remarks Nil
+(EFF:13 JUN 2024) 13/6/24
+
+
+=== Page 2 ===
+RJTQ AD2-2                    AIP Japan
+                   MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD 2.4 HANDLING SERVICES AND FACILITIES
+RJTQ AD 2.5 PASSENGER FACILITIES
+RJTQ AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJTQ AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Fuel: JET A-1
+3 Fuelling facilities/ capacity Fuel truck
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7R e m a r k s N i l
+1H o t e l s N i l
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7R e m a r k s N i l
+1 AD category for fire fighting CAT 3
+2 Rescue equipment Chemical Fire Fighting Truck  x 1
+3
+Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Not Applicable
+2 Clearance priorities Nil
+3R e m a r k s N i l
+(EFF:5 OCT 2023) 5/10/23
+
+
+=== Page 3 ===
+AIP Japan
+MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD2-3
+RJTQ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJTQ AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJTQ AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength North APRON 
+Surface: Asphalt Concrete, Strength: PCR 254/F/C/Y/T
+South APRON 
+Surface: Asphalt Concrete, Strength: PCR 58/F/A/Y/T
+2 Taxiway width, surface and
+strength
+WIDTH: 18m
+Surface: Asphalt Concrete Strength: PCR 254/F/C/Y/T
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints (Spot NR)
+1: 340423.50N,1393331.75E
+2: 340424.12N,1393331.97E
+6 Remarks Nil
+1
+Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:(RWY02/20)
+(Marking): RWY designation, RWY CL, RWY THR, RWY middle point, 
+Aiming  point, TDZ, RWY side stripe 
+(LGT):REDL, RTHL, RENL, RWY DIST marker LGT
+TWY:
+(Marking): TWY CL, TWY side stripe
+(LGT):TWY edge LGT
+3 Stop bars Nil
+4 Remarks (Marking) : Overrun area
+(LGT) : Apron flood LGT
+In Area2 See Obstacle data
+In Area3 To be developed
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 4 ===
+RJTQ AD2-4                    AIP Japan
+                   MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJTQ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office TOKYO 
+2 Hours of service
+MET Office outside hours
+H24(TOKYO)
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Brie fing is available upon inquiry at TOKYO
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG,  PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information RADIO
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+Designations
+RWY NR
+TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+02
+20
+016.88°
+196.88° 
+1200×30
+1200×30
+PCR 254/F/C/Y/T
+Asphalt Concrete
+340400.96N
+1393328.61E
+340438.23N
+1393342.20E
+THR ELEV: 67FT 
+THR ELEV: 61FT 
+   Slope of RWY Strip
+ Dimensions(M)
+RESA(Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+To be developed
+1320×120
+1320×120
+39×60
+8×60
+RWY grooving: 1200m × 20m
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 5 ===
+AIP Japan
+MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD2-5
+RJTQ AD 2.13 DECLARED DISTANCES
+RJTQ AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+02
+20
+1200
+1200
+1200
+1200
+1200
+1200
+1200
+1200
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+02 Green PAPI
+3.0° /LEFT
+277m
+45FT
+1200m
+60m
+Coded Color
+(White/yellow)
+LIH
+Red Nil(*1)
+20 Green PAPI
+3.25° /LEFT
+238m
+45FT
+1200m
+60M
+Coded Color
+(White/yellow)
+LIH
+Red Nil(*1)
+Remarks
+10
+Overrun area edge LGT(Color:Red)(*1)
+RWY THR ID LGT for RWY 02/20 THR( Color:White)
+(EFF: 27 AUG 2009) 27/8/09
+
+
+=== Page 6 ===
+RJTQ AD2-6                    AIP Japan
+                   MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJTQ AD 2.16 HELICOPTER LANDING AREA
+RJTQ AD 2.17 ATS AIRSPACE
+RJTQ AD 2.18 ATS COMMUNICATION FACILITIES
+1 ABN/IBN location, characteristics 
+and hours of operation
+ABN: 340426N/1393330E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:Nil
+Anemometor:
+ RWY02:320m FM RWY02 THR, LGTD
+ RWY20:319m FM RWY20 THR, LGTD 
+3 TWY edge and centerline lighting TWY edge LGT: Blue
+TWY CL LGT: Nil
+4 Secondary power supply / 
+ switch-over time
+Within 15sec : All lights
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+Miyakejima
+Information
+zone
+Area within a radius of 5nm(9km) of Miyakejima 
+ARP
+3,000 or 
+below
+E Miyake Radio
+En
+Service
+designation
+Call sign Frequency Hours of operation Remarks
+12 3 4 5
+AFIS Miyake Radio 118.05MHz 0000 - 0815
+[0000 21st APR - 0815 10th MAY , 
+0000 16th JUL - 0815 31st AUG]
+0000 - 0800
+[0000 11th MAY - 0800 15th JUL, 
+0000 1st SEP - 0800 20th APR]
+Operated by New Chitose Airport Office
+(EFF:23 JAN 2025) 26/12/24
+
+
+=== Page 7 ===
+AIP Japan
+MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD2-7
+RJTQ AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJTQ AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+Type of aid
+(VOR declina-
+tion)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(6°W/2009)
+MOE 108.65MHz H24 340415.75N/
+1393340.64E
+VOR/DME Unusable:
+240°-350° beyond 4NM below 5000ft.
+DME MOE 1110MHz
+(CH-23Y)
+H24 340415.75N/
+1393340.64E
+63.3ft
+MSAS 1575.42MHz H24 Transmitting antennas are satellite 
+based.
+AD administration taxi into and out of south apron available at daytime.
+Nil
+Nil
+Nil
+Nil
+Nil
+In principle, no flight training is permitted.
+ To apply for an exception, the administrator’s prior permission is required.
+(EFF:4 SEP 2025) 7/8/25
+
+
+=== Page 8 ===
+RJTQ AD2-8                    AIP Japan
+                   MIYAKEJIMA
+Civil Aviation Bureau,Japan
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJTQ AD 2.21 NOISE ABATEMENT PROCEDURES
+RJTQ AD 2.22 FLIGHT PROCEDURES
+RJTQ AD 2.23 ADDITIONAL INFORMATION
+Nil
+Nil
+Nil
+1.1 TAKE OFF MINIMA
+RWY CEIL-VIS
+TKOF ALTN
+AP FILED
+02 300 '-2400m
+20 300 '-1600m
+OTHER
+02
+AVBL LDG MINIMA
+20
+NOTE: SIDs are designed in accordanc e with provisional standards for
+FLIGHT PROCEDURE DESIGN.
+1.2 TAKE OFF MINIMA for RNAV DEPARTURE
+RWY ACFT
+ CAT
+REDL & RCLL
+REDL or RCLL
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN 
+AP FILED
+0 2 A , B ---
+200'-2400m
+0'-400m*
+-
+200'-2400m
+0'-500m*
+2 0 A , B --- 0 '-400m - 0 '-500m
+OTHER
+02 A,B
+AVBL LDG MINIMA
+20 A,B
+* Applicable in case of climbing with 7.3% gradient up to 500FT.
+Nil
+(EFF:4 SEP 2025) 7/8/25
+
+
+=== Page 9 ===
+AIP Japan
+MIYAKEJIMA
+Civil Aviation Bureau,Japan
+RJTQ AD2-9
+RJTQ AD 2.24 CHARTS RELATED TO AN AERODROME
+ 
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (SCOTT)
+Standard Departure Chart - Instrument (MIYAKE REVERSAL)*
+Instrument Approach Chart (VOR/DME A)*
+Instrument Approach Chart (VOR/DME B)*
+Instrument Approach Chart (RNP RWY02)
+Instrument Approach Chart (RNP RWY20)
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+*Designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+(EFF:4 SEP 2025) 7/8/25
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+20
+02
+TRAHC DAAMIJEKAYIM / QTJR
+MIYAKEJIMA AP
+WIDTH OF TWY 18m
+RWY GROOVING 1200m × 20m
+APRON FLOOD LGT
+LONGITUDINAL PROFILE OF RWY
+OVERRUN AREA EDGE LGT
+PAPI Angle 3.25°
+MEHT 13.6m (45ft)
+PAPI Angle 3.0°
+RWY THR ID LGT
+RWY 02
+(20.3m)
+0m
+67ft
+REMARKS :
+MEHT 13.6m (45ft)
+238m
+RWY 20
+(18.6m)
+1200m
+61ft
+WDI
+WDI
+32
+3
+1213
+WDI
+277m
+ARP
+VOR/DME
+(MOE)
+ABN
+12231
+0.14%
+RTHL
+3
+0
+4 5
+2
+1
+NORTH APRON
+SOUTH APRON
+RWY STRENGTH         ɹPCR  254/F/C/Y/T
+STRENGTH OF APRON
+    North APRON               PCR  254/F/C/Y/T
+    South APRON               PCR   58/F/A/Y/T
+TWY STRENGTH             PCR  254/F/C/Y/T
+Taxi into and out of South APRON
+available at daytime.
+ VAR 7° W (2024) Annual change 4'W
+WIND SPEED METER
+WIND SPEED METER
+CEILOMETER
+CHANGE :  WIND SPEED METER, CEILOMETER added.
+(EFF:23 JAN 2025) 26/12/24
+RJTQ AD2.24-ADC-1
+MIYAKEJIMA
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+2543
+19.0017°
+TQ001
+SCOTT
+䢳䢵䢻䤑䢶䢲䢩䣇䢳䢵䢻䤑䢴䢲䢩䣇
+䢵䢶䤑䢴䢲䢩䣐
+䢵䢶䤑䢲䢩䣐
+VAR 7°W
+CHANGE : PROC renamed. PROC course. TQ001 established. OBST.
+RJTQ / MIYAKEJIMA RNAV SID
+RWY02  :  Climb on HDG024° at or above 500FT, direct to SCOTT.
+RWY20  :  Climb on HDG204° at or above 500FT, turn left direct to TQ001, to SCOTT.
+ Note RWY02 : 5.8% climb gradient required up to 500FT. In case of climbing with 7.3% gradient
+                         up to 500FT, another TKOF WX MINIMA is applicable.
+                         OBST ALT 275FT located at 0.7NM 004° FM end of RWY02.
+          RWY20 : 5.3% climb gradient required up to 500FT.
+                         OBST ALT 98FT located at 0.1NM 253° FM end of RWY20.
+ Contour 
+Intervals
+AD elev. 65
+4000
+3000
+2000
+1000
+SCOTT TWO DEPARTURE RNP1
+Note GNSS required.
+䢯䢯
+䢯䢯
+024°
+204°
+505 1 0 1 5 2 0
+KM
+202468 1 0 1 2
+NM
+500
+500
+116(51)
+89(24)
+169(104)
+RWY02 : See TAKE OFF MINIMA
+RWY
+02
+20
+(EFF:4 SEP 2025) 7/8/25
+RJTQ AD2.24-SID-1
+MIYAKEJIMA
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJTQ AD2.24-SID-2
+STANDARD DEPARTURE CHART -INSTRUMENT
+SCOTT TWO DEPARTURE 
+RWY02
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 024
+(016.8) -7.4 - - +500 - - RNP1
+002 DF SCOTT - - -7.4 - - - - - RNP1
+RWY20
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 204
+(196.8) -7.4 - - +500 - - RNP1
+002 DF TQ001 - - -7.4 - L - - - RNP1
+003 TF SCOTT - 017
+(009.3) -7.4 19.0 - - - - RNP1
+CHANGE : PROC course. Waypoint Coordinates added.
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+TQ001 340436.1N/1393713.5E
+SCOTT 342320.4N/1394056.3E
+RJTQ / MIYAKEJIMA RNAV SID
+MIYAKEJIMA
+(EFF:4 SEP 2025) 7/8/25
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJTQ / MIYAKEJIMA SID
+MIYAKE REVERSAL ONE DEPARTURE
+RWY02  :  Turn right climb via MOE R045 to 2800FT or above, turn right within 
+MOE 15.0DME...
+RWY20  :  Turn left climb via MOE R150 to 2800FT or above, turn left within 
+MOE 15.0DME...
+...proceed to MOE VOR/DME.
+Cross MOE VOR/DME at or above 5000FT.
+D15.0 MOE
+D15.0 MOE
+2800
+2800
+5000
+MIYAKE REVERSAL ONE
+DEPARTURE
+150˚
+045˚
+VOR/DME
+OYAMA
+108.65   MOE
+100FT
+CH–23Y
+34˚04´16˝N/139˚33´41˝E
+(EFF:4 SEP 2025) 7/8/25
+→ RJTQ AD2.24-SID-3
+MIYAKEJIMA
+
+
+=== Page 16 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+3.6nm 6.0nm 10.0nm
+RJTQ / MIYAKEJIMA VOR/DME  A
+TOKYO  CONTROL 
+CH–23Y125.9 – 127.3
+318.2 – 255.3
+OYAMA  VOR/DME 
+108.65  MOE
+34°04´16´´N/139°33´41´´E 
+NO RADAR
+MISSED APPROACH
+At 4.0DME prior to MOE VOR/DME,
+turn left climb via MOE R-133
+to RASYA and hold at 4,000ft.
+  Contact MIYAKE RADIO.
+MNM SECT ALT
+270°- 360°
+3800  25nm
+MNM SECT ALT
+180°- 270°
+3800  25nm
+MNM SECT ALT090°- 180°
+3800  25nm
+MNM SECT ALT360°- 090°
+3800  25nm
+2792
+024
+°
+15
+DME
+204
+°
+R-032
+133
+°
+313
+°
+2672
+MAPt
+4.0DME
+MAPt
+4.0
+DME
+FLY VISUAL
+205°/3.6nm
+5000SCOTT
+R-024/20.0
+DME
+RASYA
+R-133/17.0DME
+RASYA
+R-133/17.0DME
+CANON
+R-024/10.0
+DME
+CANON
+R-024/10.0DME
+MOE
+FLY VISUAL
+5000
+2500
+2500
+4000
+MHA4000
+MHA2500
+4000
+22DME
+SCOTT
+R-024/
+20.0
+DME
+2NM
+   MIYAKE RADIO
+118.05
+15DME ARC 
+180°
+090°
+360°
+270°
+133°
+133°
+204°
+204°
+204°
+10
+NM
+15DME ARC
+VAR 6°W (2006)
+MINIMA 
+CAT
+760 (695) 3200
+– –
+MDA(H) VIS
+CIRCLING
+AD elev. 65
+A
+B
+C
+D
+Circling to East side of RWY only.
+        AFIS provided by 
+New Chitose Airport Office
+CHANGE : FREQ for TOKYO CONTROL.
+(EFF:2 OCT 2025) 2/10/25
+RJTQ AD2.24-IAC-1
+MIYAKEJIMA
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+3.2nm
+RJTQ / MIYAKEJIMA VOR/DME  B
+TOKYO  CONTROL 
+CH–23Y125.9 – 127.3
+318.2 – 255.3
+OYAMA  VOR/DME 
+108.65  MOE
+34°04´16´´N/139°33´41´´E 
+NO RADAR
+MISSED APPROACH
+Remain within MOE 14DME
+At 3.5DME prior to MOE VOR/DME,
+turn right climb via MOE R-133
+to RASYA and hold at 4,000ft.
+  Contact MIYAKE RADIO.
+MNM SECT ALT
+270°- 360°
+3800  25nm
+MNM SECT ALT
+180°- 270°
+3800  25nm
+MNM SECT ALT090°- 180°
+3800  25nm
+MNM SECT ALT360°- 090°
+3800  25nm
+2792
+221
+°
+041
+°
+133
+°
+313
+°
+2672
+MAPt
+3.5DME
+MAPt
+3.5
+DME
+4.0DME
+FLY VISUAL
+025°/3.2nm
+RASYA
+R-133/17.0
+DME
+MOE
+2500
+4000
+FLY VISUAL
+MHA4000
+MHA4000
+22DME
+   MIYAKE RADIO
+118.05
+        AFIS provided by 
+New Chitose Airport Office
+CHANGE : FREQ for TOKYO CONTROL.
+180°
+090°
+360°
+270°
+133°
+133°
+221°
+221°
+221°
+026°
+026°
+10
+NM
+14DME
+VAR 6°W (2006)
+MINIMA 
+CAT
+760 (695) 3200
+– –
+MDA(H) VIS
+CIRCLING
+AD elev. 65
+A
+B
+C
+D
+Circling to East side of RWY only.
+(EFF:2 OCT 2025) 2/10/25
+RJTQ AD2.24-IAC-2
+MIYAKEJIMA
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2543
+2792
+10NM
+6.9
+024°
+(016.8
+°T)
+3.5
+024°
+    (016.
+8°T)
+3.1
+294°
+(287.0°T)
+3.0
+294°
+(287.0°T)
+15
+.8
+204°
+(196.9°T)
+17.3025°
+(017
+.8°T)
+16.0183°(175.
+6°T)
+SCOTT
+(IAF/MAHF)
+TQ252
+TQ254
+(FAF)
+RWY02
+(MAPt)
+TQ253
+(IF)
+TQ255 TQ250
+TQ251
+䢳䢶䢲䤑䢲䢩䣇䢳䢵䢻䤑䢷䢲䢩䣇䢳䢵䢻䤑䢶䢲䢩䣇䢳䢵䢻䤑䢵䢲䢩䣇䢳䢵䢻䤑䢴䢲䢩䣇䢳䢵䢻䤑䢳䢲䢩䣇
+䢵䢶䤑䢴䢲䢩䣐
+䢵䢶䤑䢳䢲䢩䣐
+䢵䢶䤑䢲䢩䣐 Contour
+Intervals
+AD elev. 65
+2100
+1600
+1100
+600
+TOKYO   CONTROL
+125.9 - 127.3
+318.2 - 255.3
+RNP  APCH
+AFIS provided by
+New Chitose Airport Office
+MIYAKE RADIO
+118.05 NO RADAR
+VAR 7°W
+RNP RWY02RJTQ / MIYAKEJIMACHANGE : FREQ for TOKYO CONTROL.
+Baro-VNAV not authorized below 0°C
+ARP
+340425N / 1393337E
+A
+ARP:
+3900
+MSA 25NM
+1012345
+NM
+10123456789 1 0
+KM
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV MDA(H) CMV MDA(H) VIS
+A
+B
+C
+D
+ MINIMA             THR elev. 67           AD elev. 65
+CAT LNAV/VNAV CIRCLING LNAV
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+1910
+(1845)
+----
+Circling to EAST side of RWY only.
+16001050
+(983)
+-
+1500
+-
+1910
+(1845) 1500
+SCOTT 342320.42N
+(IAF/MAHF) 1394056.27E
+TQ250 340725.77N
+1394224.24E
+TQ251 335218.63N
+1393652.58E
+TQ252 335311.05N
+1393325.67E
+TQ253 335405.11N
+(IF) 1392951.80E
+TQ254 335726.49N
+(FAF) 1393104.98E
+RW02 340400.96N
+(MAPt) 1393328.61E
+TQ255 340653.54N
+1393431.56E
+FAF 6 MAPt
+2300 2026 -
+NM to Next Fix
+ALT (3.0°APCH Path)
+NOT TO SCALE
+MHA 5000
+MAX 170KIAS
+SCOTT
+1MIN
+090°
+270°
+180°
+Þ
+010.4 NM to THR
+MISSED APPROACH
+Direct to TQ255, to SCOTT 
+and hold at 5000FT .
+Contact MIYAKE RADIO.
+2300
+48.3
+MDA
+6.0
+VDP
+(LNA V)
+TQ253
+(IF)
+5000
+RDH 50
+6.9
+TQ254
+(FAF)
+SCOTT
+(IAF)
+16.5 13.5
+TQ252
+RW02
+(MAPt)
+32.3
+TQ251TQ250
+2000
+(1935)
+3900
+(EFF:2 OCT 2025) 2/10/25
+RJTQ AD2.24-IAC-3
+MIYAKEJIMA
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2543
+10NM
+9.1
+204°
+(196.8°T)
+5.6
+207°
+(200.0°T)
+5.0
+204°
+(196.9°T)
+20.1018°
+(010.7°T)
+SCOTT
+(IAF/MAHF)
+RW20
+(MAPt) TQ053
+TQ051
+(FAF)
+TQ050
+(IF)
+TQ052
+(MATF)
+䢳䢵䢻䤑䢷䢲䢩䣇䢳䢵䢻䤑䢶䢲䢩䣇䢳䢵䢻䤑䢵䢲䢩䣇䢳䢵䢻䤑䢴䢲䢩䣇䢳䢵䢻䤑䢳䢲䢩䣇
+䢵䢶䤑䢴䢲䢩䣐
+䢵䢶䤑䢳䢲䢩䣐
+䢵䢶䤑䢲䢩䣐
+Contour
+Intervals
+AD elev. 65
+2100
+1600
+1100
+600
+TOKYO   CONTROL
+125.9 - 127.3
+318.2 - 255.3
+RNP  APCH
+AFIS provided by
+New Chitose Airport Office
+MIYAKE RADIO
+118.05 NO RADAR
+VAR 7°W
+RNP RWY20RJTQ / MIYAKEJIMACHANGE : FREQ for TOKYO CONTROL.
+Baro-VNAV not authorized below 0°C
+ARP
+340425N / 1393337E
+A
+ARP:
+3900
+MSA 25NM
+1012345
+NM
+10123456789 1 0
+KM
+NOT TO SCALE
+MHA 5000
+MAX 170KIAS
+SCOTT
+1MIN
+Þ
+0 9.1NM to THR
+MISSED APPROACH
+Direct to TQ052, turn left 
+direct to TQ053, to SCOTT 
+and hold at 5000FT .
+Contact MIYAKE RADIO.
+19.7
+RW20
+(MAPt)
+TQ051
+(FAF)
+SCOTT
+(IAF)
+5000
+RDH 50
+14.1
+TQ050
+(IF)
+3000
+PAPI and descent angles not coincident. MDA
+1800
+(1735)
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV MDA(H) CMV MDA(H) VIS
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+1720
+(1655)
+----
+Circling to EAST side of RWY only.
+1600946
+(885)
+-
+1500
+-
+1720
+(1655) 1500
+ MINIMA             THR elev. 61           AD elev. 65
+CAT LNAV/VNAV CIRCLING LNAV
+SCOTT 342320.42N
+(IAF/MAHF) 1394056.27E
+TQ050 341807.72N
+(IF) 1393838.22E
+TQ051 341320.14N
+(FAF) 1393652.87E
+RW20 340438.23N
+(MAPt) 1393342.20E
+TQ052 340145.65N
+(MATF) 1393239.29E
+TQ053 340336.39N
+1393626.33E
+MAPt 6 7 8 9 FAF
+- 2021 2339 2658 2976 3000
+NM to Next Fix
+ALT (3.0°APCH Path)
+090°
+270°
+180°
+(EFF:2 OCT 2025) 2/10/25
+RJTQ AD2.24-IAC-4
+MIYAKEJIMA
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJTQ / MIYAKEIJIMA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ᾏୖ
+Over the sea
+ᚚⶶᓥ ᚚᒣ
+Mikurajima Mt. Oyama
+Note : In the W direction of the airport, A/G COM from Miyake Radio is blinded by 
+         Mt. Oyama (2,543ft).
+CHANGE : VAR.
+360°T 10.0NM/
+170°T / 12.1NM
+10NM N
+Call sign BRG / DIST from ARP Remarks
+MIYAKEJIMA INFORMATION ZONE
+MIY
+At
+YAKEJIMA INFOR
+MIY
+At
+At or below 3000FT
+10NM N
+1010NMNM NN
+MIYAKEJIMA INFORM
+5NM from ARP
+MIYAKE RADIO
+YAKE RAD
+118.05
+VAR 7
+R 7
+77777
+W(2024) / 4'W
+MIKURAJIMA
+MIMIMIKUKUKURARARAJIJIJIMAMAMA
+㼃㼑㼎
+㼑㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+(EFF:16 MAY 2024) 18/4/24
+RJTQ AD2.24-OTHER-1
+MIYAKEJIMA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC GDLAMIJEKAYIM / QTJR
+VOR/DME
+OYAMA
+108.65    MOE
+CH-23Y
+ÛÝ1ÛÝ(
+ELEV 65ft
+OFUNATO
+BAY
+ELEV 65ft08´
+01´ 139˚29´ 30´ 31´ 32´ 33´ 34´
+07´
+06´
+05´
+04´
+03´
+34˚02´
+08´
+01´ 139˚29´ 30´ 31´ 32´ 33´ 34´
+07´
+06´
+05´
+04´
+03´
+34˚02´
+OFUNATO
+BAY
+AKO
+990
+TAIRO
+PONDO
+1320 
+1980
+2620
+1980
+2672
+2316
+1320
+1320 
+1980
+2620
+1980
+990
+PAPI ANGLE 3.0°
+MEHT  13.6m(45ft)
+277m fm RWY THR
+PAPI ANGLE 3.0°
+MEHT  13.6m(45ft)
+277m fm RWY THR
+ABN
+02
+20
+3940100ft
+930
+2672
+2316
+1084
+1320
+PAPI ANGLE 3.25°
+MEHT  13.6m(45ft)
+238m fm RWY THR
+PAPI ANGLE 3.25°
+MEHT  13.6m(45ft)
+238m fm RWY THR
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+ VAR 7° W(2024) Annual change 4'W VAR 7° W (2024) Annual change 4'W
+CHANGE : VAR.
+(EFF:16 MAY 2024) 18/4/24
+RJTQ AD2.24-OTHER-2
+MIYAKEJIMA
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJTQ / MIYAKEJIMA Minimum Vectoring Altitude CHART
+CENTERɿ340425N/1393337E (ARP)
+5000
+30NM
+(EFF:25 MAR 2021) 25/3/21
+→ RJTQ AD2.24-OTHER-3
+MIYAKEJIMA
+

@@ -1,0 +1,3931 @@
+=== Page 1 ===
+AIP Japan
+MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM  AD2-1
+AD 2 AERODROMES
+RJFM AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJFM - MIYAZAKI
+RJFM AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJFM AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 315238N/1312655E
+090°/1.25km from RWY 09 THR
+2 Direction and distance from (city) 3.2km SSE from MIYAZAKI CITY
+3 Elevation/ Reference temperature 19ft / 31°C(2002-2006)
+4 Geoid undulation at AD ELEV 
+PSN
+92.114FT
+5 MAG VAR/ Annual change 7° W(2020) / 5’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Miyazaki Airport Office(CAB)
+Akae, Miyazaki-shi, Miyazaki Pref, 880-0912 JAPAN
+TEL: 0985-51-3223 FAX: 0985-55-1239
+AFS: RJFMYFYX
+7 Types of traffic permitted
+(IFR/VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2230 - 1230
+2 Customs and immigration Customs: 2330-0815
+Immigration: INTL SKED FLT hours only
+3 Health and sanitation Quarantine(human): 2330-0815
+ 
+Quarantine(animal, plant): INTL SKED FLT hours only
+4 AIS Briefing Office 2230 - 1230
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (FUKUOKA)
+7 ATS 2230 - 1230
+8 Fuelling 2130 - 1200
+9 Handling 2130 - 1230
+10 Security 2200 - 1130
+11 De-icing Nil
+12 Remarks Nil
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 2 ===
+RJFM  AD2-2                        AIP Japan
+                       MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM AD 2.4 HANDLING SERVICES AND FACILITIES
+RJFM AD 2.5 PASSENGER FACILITIES
+RJFM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJFM AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Except Freighter
+2 Fuel/ oil types Fuel grades: JET A-1, AVGAS 100
+Oil grades: Piston:W80, W100 Turbo: MJO2
+3 Fuelling facilities/ capacity Fuel tank  500kl x 4(JET A-1)  100kl x 1(Octane) 
+Tanker car x 10
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Hotels in the city
+2 Restaurants At Airport
+3 Transportation Train, Buses and Taxi
+4 Medical facilities Hospital is the south side of airport
+5 Bank and Post Office Only ATM at airport
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3
+Water-supply truck
+Lighting power supply truck
+Emergency medical equipments conveyance truck
+3 Capability for removal of disabled 
+aircraft Ask AD Administration
+4 Remarks Nil
+1 Types of clearing equipment AVBL, Ask AD Administration for detail.
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:22 OCT 2009) 22/10/09
+
+
+=== Page 3 ===
+AIP Japan
+MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM  AD2-3
+RJFM AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength SPOT 1, 2, 3, 5, 6, 7, 8, 9 : Surface: Cement Concrete
+Strength: PCR 925/R/B/W/T
+SPOT 10, 11 : Surface: Cement Concrete Strength: PCR 1074/R/C/W/T
+SPOT 12-17 : Surface: Asphalt Concrete Strength: PCR 685/F/D/X/T
+2 Taxiway width, surface and
+strength
+S1 : 26.5m Asphalt Concrete PCR 756/F/B/X/T
+S2 : 28.5m Asphalt Concrete PCR 756/F/B/X/T
+S3, S4,  S5 : 34m Asphalt Concrete PCR 756/F/B/X/T
+S6 : 30m Asphalt Concrete PCR 756/F/B/X/T
+S7 : 28.5m Asphalt Concrete PCR 756/F/B/X/T
+SP1 : 23m Asphalt Concrete PCR 756/F/B/X/T
+SP2, SP3 : 23m Cement Concrete PCR 1074/R/C/W/T
+SP4, SP5 : 23m Asphalt Concrete PCR 756/F/B/X/T
+SP6 : 23m Asphalt Concrete PCR 756/F/B/X/T
+N1 - N4 : 18m Asphalt Concrete 5,700kg/0.48MPa
+NP1 - NP3 : 18m Asphalt Concrete 5,700kg/0.48MPa
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints Spot NR
+1: 315225.14N,1312642.38E
+2: 315225.02N,1312640.72E
+3: 315225.55N,1312639.35E
+5: 315225.41N,1312637.25E
+6: 315224.75N,1312634.45E
+7: 315224.53N,1312632.04E
+8: 315224.31N,1312629.39E
+9: 315224.15N,1312626.73E
+10: 315224.01N,1312624.07E
+11: 315223.73N,1312621.42E
+6 Remarks Nil
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 4 ===
+RJFM  AD2-4                        AIP Japan
+                       MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJFM AD 2.10 AERODROME OBSTACLES
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Signification ACFT stand ID signs : NR6 - NR11
+2 RWY and TWY markings and 
+LGT
+RWY: RWY09/27
+(Marking): RWY designation, RWY CL, RWY THR, RWY middle point,
+                  Aiming point, TDZ, RWY side stripe  
+(LGT): RCLL, REDL, RTHL, RENL, WBAR 
+TWY:ALL TWY
+(Marking):TWY CL, TWY side stripe  
+(LGT): TWY edge LGT
+TWY:TWY S1-S5, S6, S7, SP1-SP4, SP5, SP6, SP7
+(LGT): TWY CL LGT
+TWY:TWY S1-S7
+(Marking): RWY HLDG PSN, Mandatory instruction
+(LGT): RWY guard LGT, Taxiing guidance sign
+TWY:TWY N1-N4
+(Marking): RWY HLDG PSN, Mandatory instruction
+(LGT): Taxiing guidance sign
+3 Stop bars Stop bar LGT: S1-S7
+Stop bar LGT operations
+1) Stop bar LGT are installed at each RWY holding position associated with
+     RWY 09/27.
+2) Stop bar LGT will be operated when the visibility or the lowest RVR
+    of RWY 09/27 is at or less than 600m.
+3) Stop bar LGT on TWY S1, S7 are controlled individually by ATC.
+4) Stop bar LGT on TWY S2 through S6 are not controlled individually by ATC.
+5) During the period Stop bar LGT operated, TWY S2 through S6 are
+    not available for departure aircraft.
+4 Remarks (Marking): Overrun area
+(LGT): Apron flood LGT
+In Area2 See Obstacle data
+In Area3 To be developed
+(EFF:28 JAN 2021) 31/12/20
+
+
+=== Page 5 ===
+AIP Japan
+MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM  AD2-5
+RJFM AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJFM AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJFM AD 2.13 DECLARED DISTANCES
+1 Associated MET Office FUKUOKA
+2 Hours of service
+MET Office outside hours
+H24 (FUKUOKA)
+3 Office responsible for TAF preparation
+Periods of validity
+FUKUOKA
+30 Hours
+4 Trend forecast 
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing  is available upon inquiry at FUKUOKA 
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr,  Ps, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, APP, ATIS
+10 Additional information(limitation of 
+service, etc.)
+Nil
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+09
+27
+085.18°
+265.18°
+2500×45
+2500×45
+PCR 756/F/B/X/T
+Asphalt Concrete
+PCR 756/F/B/X/T
+Asphalt Concrete
+315234.26N
+1312607.02E
+92.52FT
+315241.06N
+1312741.80E
+91.73FT
+THR ELEV:15FT
+TDZ ELEV:17FT
+THR ELEV:20.7FT
+TDZ ELEV:20.7FT
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+See AD CHART 2620×300
+2620×300
+90×(MNM:90 MAX:291)*
+123×(MNM:139 MAX:249)*
+*For detail, ask airport administrator
+RWY Grooving : 2500m x 30m
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+09 2500 2500 2500 2500 Nil
+27 2500 2500 2500 2500 Nil
+(EFF:15 MAY 2025) 15/5/25
+
+
+=== Page 6 ===
+RJFM  AD2-6                        AIP Japan
+                       MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJFM AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJFM AD 2.16 HELICOPTER LANDING AREA
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 3 4 5 6 7 8 9
+09 SALS 
+(*1)
+420m
+LIH
+Green
+-
+ PAPI 
+ 3.0° /LEFT
+  445m
+ 74.5ft
+Nil 2500m
+30m
+Coded color
+(White/Red)
+LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil(*2)
+27 Nil Green
+Green
+  PAPI
+  3.0° /LEFT
+   420m
+66ft
+Nil 2500m
+30m
+Coded color
+(White/Red)
+ LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil(*2)
+Remarks
+10
+SALS with APCH LGT beacon(592m and 847m FM RWY THR)(*1)
+Overrun area edge LGT(LEN:60m Color:Red)(*2)
+CGL for RWY 09
+RWY THR ID LGT for RWY 27 THR (Color: White)
+1 ABN/IBN location, characteristics 
+and hours of operation ABN: 315216N/1312617E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: Nil
+Anemometer: RWY09: 180m from RWY 09 THR, LGTD
+RWY27: 150m from RWY 27 THR, LGTD
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/    switch-
+over time
+Within 1sec: REDL, RENL, RTHL, WBAR, RCLL, Overrun area edge LGT,
+                    Stop bar LGT
+Within 15sec: Other LGT
+5 Remarks WDI LGT
+1 Coordinates TLOF or THR of FATO
+Geoid undulation
+S3-HELIPAD: 315232.01N/1312629.52E, Nil
+S4-HELIPAD: 315233.03N/1312645.14E, Nil
+2 TLOF and/or FATO elevation
+S3-HELIPAD: 16ft
+S4-HELIPAD: 19ft
+3 TLOF and FATO area dimensions,
+surface, strength, marking
+TLOF and FATO area dimensions: S3,S4-HELIPAD: 24m×20m
+Surface: S3,S4-HELIPAD: Asphalt Concrete
+Strength: S3,S4-HELIPAD: 23ton
+Marking: S3,S4-HELIPAD: TDZ
+4 True BRG of FATO S3,S4-HELIPAD: 083°/263°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7 Remarks • MAX helicopter type: EC25
+• daytime use only
+(EFF:15 MAY 2025) 15/5/25
+
+
+=== Page 7 ===
+AIP Japan
+MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM  AD2-7
+RJFM AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+MIYAZAKI CTR Area within a radius of 5nm 
+of MIYAZAKI ARP 3,000 or below D MIYAZAKI TWR
+En
+MIYAZAKI PCA See attached chart C
+KAGOSHIMA APP (1)
+MIYAZAKI TWR (2)
+En
+(1) Primary
+(2) Secondary
+KAGOSHIMA ACA See RJFK attached chart E
+KAGOSHIMA APP
+KAGOSHIMA RADAR
+KAGOSHIMA DEP
+En
+KAGOSHIMA TCA See RJFK attached chart E KAGOSHIMA TCA
+En
+31˚56´04˝N
+131˚31´12˝E
+MZE
+31˚57´06˝N
+131˚43´52˝E
+31˚50´04˝N
+131˚31´58˝E
+31˚51´06˝N
+131˚44´30˝E
+2700
+700 6NM
+10.8NM
+10.7NM
+9.7NM
+۠
+JZB[BLJ1PTJUJWF$POUSPM"SFB
+/".& -"5&3"--*.*54
+6/*5
+1307*%*/(
+4&37*$&
+3&."3,4
+
+1SJNBSZ
+,BHPTIJNB"11
+
+
+
+4FDPOEBSZ
+.JZB[BLJ583
+
+
+
+611&3-*.*5
+	".4-
+
+
+-08&3-*.*5
+	".4-
+
+.	GU
+
+Ҭ
+5IFBSFBTIPXOCFMPX
+
+࡚ٶ
+*,";":*.
+
+ౡΞϓϩ
+Ґஔɺ
+Λड͚Δ͜ ͱɻ
+1JMPUPGBJSDSBGUPQFSBUJOHJOUIJTBSFBTIBMMDPO
+UBDU,BHPTIJNB"QQSPBDIPS.JZB[BLJ5PXFSGPS
+"5$JOTUSVDUJPOTHJWJOHJOGPSNBUJPOTPOBJSDSBGU
+JEFOUJGJDBUJPOQPTJUJPOTBMUJUVEFBOEQJMPUTJOUFO
+UJPOT
+(EFF:12 OCT 2017) 14/9/17
+
+
+=== Page 8 ===
+RJFM  AD2-8                        AIP Japan
+                       MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+APP/ASR Kagoshima 
+Approach or
+Kagoshima Radar
+121.4MHz(1)
+120.9MHz
+362.3MHz(1)
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1230 (1)Primary
+APP Service provided by 
+KAGOSHIMA APP
+DEP Kagoshima 
+Departure
+120.1MHz(1)
+121.4MHz
+362.3MHz(1)
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1230
+TWR Miyazaki Tower 118.3MHz(1)
+126.2MHz
+123.6MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1230
+TCA Kagoshima TCA 121.25MHz
+256.1MHz
+2330 - 1100
+GND Miyazaki 
+Ground
+121.9MHz(1) 2230 - 1230
+ATIS Miyazaki Airport 126.8MHz 2230 - 1230
+(EFF:12 OCT 2017) 14/9/17
+
+
+=== Page 9 ===
+AIP Japan
+MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM  AD2-9
+RJFM AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of 
+transmitting antenna 
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(6°W/2013)
+MZE 112.4MHz H24 315243.42N/
+1312614.88E
+Unusable :
+200°-210° beyond 30nm BLW 7000ft.
+210°-230° beyond 35nm BLW 7000ft.
+230°-250° beyond 25nm BLW 7000ft.
+DME MZE 1158MHz
+CH-71X
+H24 315243.42N
+/
+1312614.88E
+54ft Unusable:
+016° between 3nm and 9nm at 6000ft.
+033° between 7nm and 10nm at 9000ft.
+339° between 2nm and 11nm at 10000ft.
+ILS-LOC 27 IMZ 108.9MHz
+2230 - 1230 315233.66N/
+1312558.68E
+LOC:220m(722ft) away FM 
+RWY 09 THR.BRG(MAG)272°
+ILS-GP 27 - 329.3MHz 2230 - 1230 315244.23N/
+1312729.39E
+GP:316m(1037ft) inside FM RWY 27 THR. 
+125m(410ft) N of RCL. Angle 3.0° HGT of 
+ILS Ref 16.5m(54ft)
+ILS-DME 27 IMZ 987MHz
+2230 - 1230 315244.44N/
+1312729.01E
+31ft DME:320m(1050ft) inside FM RWY 27 
+THR.135m(443ft) N of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are satellite based
+ILS-DME ANTENNA
+ILS-GP ANTENNA
+ILS-LOC
+ANTENNA
+REMARKS: 1.LOC beam BRG(MAG)       2 72˚
+2.HGT of ILS REF datum    16.5m(5 4ft)
+3.GP Angle  3.0 ˚
+4.ELEV of ILS-DME 9. 4m
+2500m
+RWY
+220m
+125m135m
+316m
+320m
+27
+60
+(EFF:8 NOV 2018) 11/10/18
+
+
+=== Page 10 ===
+RJFM  AD2-10                        AIP Japan
+                       MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+Intersection departure 
+Separation for departure as in AD 1.1.6.3.2.2(2)2) will  not be applied to aircraft departing from TWY S2 or N1.
+Aircraft requiring separation in AD 1.1.6.3.2.2(2)2) shall advise MIYAZAKI GROUND/TOWER accordingly.
+ 
+　他の航空機又は障害物とのクリアランスの確保、 及び
+ジェ ッ トブラストによる影響の回避のため、スポッ ト 6 とス
+ポッ ト 10 における自走アウトは、 次の方式に従う こと。 た
+だし、 別途空港管理者の承認を受けた場合を除く。
+ａ） 自走アウトは、導入線直線部からの水平距離がスポッ ト
+6 にあっては 25.5m、スポッ ト 10 にあっては 30.5m の区域
+内での旋回が可能な航空機に限ること。
+ｂ） スポッ トにおける地上移動は、ブラストの影響が出ない
+ことを確認の上行うこと。
+ｃ）自走アウトの旋回は、旋回線の起点までに開始すること。
+ｄ） 旋回完了後は導入線に会合し、導入線を導出線として利
+用すること。
+In order to keep the clearance with other aircraft or obstacles
+and avoid jet blast damage, operat ors shall comply with the
+following power-out procedure on spot NR6 and NR10,
+although the case that approved by AD administration is
+excluded.
+a) Only the aircraft which is available to turn within the area
+whose horizontal distance from the straight part of the
+lead-in line is 25.5 meters on spot NR6 and 30.5 meters
+on spot NR10 is permitted to use this power-out
+procedure.
+b) Operators must confirm jet blast cause no damage when
+maneuvering on aircraft stands.
+c) Commence turning of the power-out procedure at or
+before the starting point of the turning line.
+d) After completing the turn, intercept the lead-in line and
+use the line as the lead-out line.Turn within 25.5
+meters
+from the
+straight part of the
+lead-in line
+Lead-in line
+(Yellow line)
+Turning line
+for
+power-out
+operation
+(Yellow broken
+line)
+Stop bar
+for
+power-out
+operation
+(Yellow line)
+25.5m
+spot NR6
+Turn within 30.5
+meters
+from the
+straight part of the
+lead-in line
+Lead-in line
+(Yellow line)
+Turning line
+for
+power-out
+operation
+(Yellow broken
+line)
+Stop bar
+for
+power-out
+operation
+(Yellow line)
+30.5m
+spot NR10
+(EFF:3 DEC 2020) 3/12/20
+
+
+=== Page 11 ===
+AIP Japan
+MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM  AD2-11
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJFM AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+ 
+Nil
+Nil
+Nil
+1.Noise Abatement Operating Procedures
+For all jet aircraft, in order to reduce aircraft noise in the
+vicinity of airport, the following procedures shall be applied
+unless compliance of the procedures adversely affects the
+safety of aircraft operations. In case that the aircraft is
+unable to take these procedures, pilots should execute
+alternative procedures which are considered to be practically
+equivalent.
+1) For take-off from RWY27
+Steepest Climb Procedure
+2) For landing to RWY09
+Delayed Flap Approach Procedure and Reduced Flap 
+Setting Procedure
+3) Reverse Thrust
+Nil
+2. Preferential Runways Procedures
+Nil
+3. Noise Preferential Routes
+Nil
+(EFF:28 JAN 2021) 31/12/20
+１．騒音軽減運航方式
+すべてのジェット機に対して、空港周辺における航空機
+騒音軽減のため、運航の安全に支障のない範囲で、以下
+の方式が適用される。ただし、これらの方式によること
+ができない航空機は実効的にこれらと同等と認められる
+代替方式を実施するものとする。
+　(1) 離陸について（滑走路 27）
+急上昇方式
+　(2) 着陸について（滑走路 09）
+ディレイド･フラップ進入方式及び低フラップ
+角着陸方式
+　(3) リバース･スラストについて
+なし
+２．優先滑走路方式
+        なし
+３．優先飛行経路
+        なし
+
+
+=== Page 12 ===
+RJFM  AD2-12                        AIP Japan
+                       MIYAZAKI
+Civil Aviation Bureau,Japan
+RJFM AD 2.22 FLIGHT PROCEDURES
+RJFM AD 2.23 ADDITIONAL INFORMATION
+RJFM AD 2.24 CHARTS RELATED TO AN AERODROME
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL 
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN 
+AP FILED
+09 A,B,C,D - 400m - 400m - 500m
+27 A,B,C,D 400m 400m 400m 400m - 500m
+OTHER
+09 A,B,C,D
+AVBL LDG MINIMA
+27 A,B,C,D
+2. Lost Communication Procedures for Arrival Aircraft under Radar Navigational Guidance.
+If radio communications with Kagoshima Approach/Radar  are lost for 30 seconds, squawk Mode A/3 Code 7600 and;
+I 1) Contact Miyazaki Tower.
+2) If unable, proceed in accordance with Visual Flight Rules.
+3) If unable, proceed to Miyazaki VOR at last assi gned altitude or 4500 feet whichever is higher and execute 
+Instrument Approach.
+II Procedures other than above will be issued when situation required.
+Nil
+Aerodrome/Heliport Chart
+Aerodrome Obstacle Chart type A (RWY 09/27)
+Aerodrome Obstacle Chart type B
+Standard Departure Chart-Instrument (SIIBA, LALAG)
+Standard Departure Chart-Instrument (MIYAZAKI-REVERSAL, JACKY)
+Standard Departure Chart-Instrument (KIZAK-RNAV)
+Standard Departure Chart-Instrument (KIRISHIMA-RNAV)
+Standard Arrival Chart-Instrument (OTOHIME)
+Standard Arrival Chart-Instrument (RYUGU-RNAV)
+Standard Arrival Chart-Instrument (MELAR-RNAV)
+Standard Arrival Chart-Instrument (KARAH-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY27)
+Instrument Approach Chart (ILS Y or LOC Y RWY27)
+Instrument Approach Chart (VOR RWY27)
+Instrument Approach Chart (RNP Z RWY09(AR))
+Instrument Approach Chart (RNP Y RWY09(AR))
+Instrument Approach Chart (RNP X RWY09(AR))
+Instrument Approach Chart (RNP RWY27(AR))
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:7 AUG 2025) 7/8/25
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+60m
+60
+RWY 09
+RWY 27
+15.1ft 15.7ft 16.7ft 17.1ft 17.4ft 18.4ft 19.4ft 20.0ft 18.4ft 20.0ft tf7.02tf7.02
+0.22% 0.16% 0.04% 0.09% 0.23% 0.20% 0.09% 0.25% 0.23% 0.17% LEVEL
+m0052m0681m0671m6841m0021m088m047m026m044m082m18m0
+RJFM / MIYAZAKI AD  CHART
+MIYAZAKI AP
+PAPI Angle     3.0°
+MEHT 22.5m (74ft)
+VOR/DME
+(MZE)
+CGL
+TRUE NORTH
+RTHL
+Asph-Conc          2500m x 45m
+RWY GROOVING 2500m x 30m
+PAPI Angle      3.0°
+MEHT 20.0m (66ft)
+REMARKS :
+STRENGTH OF RWY   NR 09 PCR 756/F/B/X/T
+WIDTH & STRENGTH OF TWY
+S1 26.5m  
+S2 28.5m PCR  756/F/B/X/T 
+S3, S4, S5 34m  
+S6 30m  
+S7 28.5m  
+SP1 23m   
+SP4, SP5 23m PCR 756/F/B/X/T
+SP6 23m  
+N1, N2, N3, N4 18m 5,700kg / 0.48MPa
+NP1, NP2, NP3 18m 5,700kg / 0.48MPa
+STRENGTH OF APRON SPOT 1,2,3,5,6,7,8,9    
+SPOT 10,11   
+SPOT 12,13,14,15,16,17    
+HELI-PAD MARKINGS LOCATED ON TWY S3 & S4
+420m
+S7S6S5S4S3S2S1 S4  HELIPAD
+TWR
+N4N3
+1.5
+213
+3N
+56789101112131415161785m
+APRON
+N2N1
+NP3NP2NP1
+SP6SP5SP4
+SP3SP2SP1 WDI
+ABN
+S3 HELIPAD
+178.5m
+630m
+60m
+445m
+60
+2500m
+255m 172m 420m
+WDI
+RVR
+RWY THR ID LGT
+OVERRUN AREA EDGE LGT
+SIMPLE APCH
+LIGHTING SYSTEMAPCH LGT BEACONS
+RWY-HOLDING POSITION MARKINGS
+RWY-holding position markings are located
+on TWY N1 through N4
+: their location are 75m off the RWY 
+centerline of RWY09/27.
+Mandatory instruction markings are 
+located on TWY N1 through N4.
+LONGITUDINAL PROFILE OF RWY
+27
+09-27 09-27
+COMMON WAYS OF ITS MARKING
+RWY SIDE
+Example for Mandatoryinstruction marking
+TWY
+RWY-HOLDING POSITION MARKINGS
+and STOP BAR LIGHTS
+RWY-holding position marking and
+Stop bar lights and Runway guard lights 
+are located on TWY S1 through S7
+: their location are 75m off the RWY 
+centerline of RWY09/27.
+Mandatory instruction markings are 
+located on TWY S1 through S7.
+09-27 09-27
+COMMON WAYS OF ITS MARKING
+AND LIGHTS
+Example for Mandatoryinstruction marking STOP BAR LIGHTS RED
+TWY
+RWY SIDE
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW)
+3.0m
+2. 10m
+0.9m0.9m
+NR 27                                       PCR 756/F/B/X/T
+PCR  756/F/B/X/T
+PCR  756/F/B/X/T
+PCR  756/F/B/X/T
+PCR  756/F/B/X/T
+SP2, SP3 23m PCR 1,074 /R/C/W/T
+PCR 756/F/B/X/T
+PCR 925/R/B/W/T
+PCR 685/F/D/X/T
+PCR  756/F/B/X/T
+PCR 1,074 /R/C/W/T
+WIND SPEED METER
+WIND SPEED METER
+CEILOMETER
+CHANGE :  Description of HELIPAD.
+(EFF:15 MAY 2025) 15/5/25
+RJFM AD2.24-ADC-1
+MIYAZAKI
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+B ARP 2500m×45m
+ASPHALT CONCRETE ←273°093°→
+09
+27
+15 20.7
+H
+k
+H
+k
+kk
+k
+k
+k
+H H
+k k
+k
+482
+320
+255
+110
+22137
+122
+112
+90
+62 56
+38 34
+28
+!(1
+!(2
+!(3
+!(4
+!(5!(6
+!(7
+!(8
+!(9
+!(10
+!(11
+!(12
+!(13
+!(14
+82029000
+0→
+10000
+SLOPE 1.2%
+SLOPE 1.2%
+VERTICAL
+SCALE
+25
+50
+75
+100
+50
+100
+150
+200
+250
+300
+11000120001300014000150001600017000180001900020000210002200023000240002500026000270002800029000
+100
+200
+300
+8202 9000 10000
+100
+200
+300
+3000031000
+400
+500
+400
+500
+400
+500
+125
+150
+NO SIGNIFICANT OBSTACLE
+NO SIGNIFICANT OBSTACLES
+!(1!(2
+!(3!(4!(5!(6
+!(7!(8!(9!(10!(11
+!(12!(13
+!(14
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+15 20.7
+FT M
+←0
+350
+450
+200
+10
+0
+200
+100
+200
+300
+100
+100
+100
+100
+100
+100
+200
+200
+20
+0
+200
+200
+100
+200
+100
+100
+100
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+AERODROME OBSTACLE CHART-ICAO
+TYPE A (OPERATING LIMITATIONS)
+ 㔞ἲ僑ᇶ僋債ᅜᅵᆅ⌮㝔㛗ᢎㄆ䢪౑⏝䢫䢢䣔䢢䢸䣌䣊䣵䢢䢴䢻䢻䢢傍ᅜᅵᩘ್᝟ሗ傍凚Ἑᕝ傎⥭ᛴ㍺㏦㐨㊰傎㔜せ≀ὶ㐨㊰傎㕲㐨凛
+MAGNETIC VARIATION 7°W - AUG 2025
+MIYAZAKI AIRPORT
+RWY : 09/27
+DECLARED DISTANCES
+RWY 09 RWY 27
+2500m TAKE OFF RUN AVAILABLE 2500m
+2500m TAKE OFF DISTANCE AVAILABLE 2500m
+2500m ACCELERATE STOP DISTANCE AVAILABLE 2500m
+2500m LANDING DISTANCE AVAILABLE 2500m
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+!(1 IDENTIFICATION NUMBER
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE RAILROAD
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+HORIZONTAL SCALE
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+500 0 500 1000 1500 2000 2500 3000 m
+FEET
+METRES
+(EFF:7 AUG 2025) 7/8/25
+RJFM AD2.24-AOC-1
+MIYAZAKI
+CHANGE: Update.
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OYODO RIVER
+MIYAZAKI CITY
+MIYAZAKI AIRPORT STATION
+NATIO
+NAL ROUTE 22
+0
+KIYOTAKE RIVER
+CONICAL SURFACE
+SLOPE1:50
+SEA
+A
+TAKE-OFF FLIGHT PATH
+SLOPE 1.2%
+TRANSITIONAL SURFACE
+SLOPE 1:7
+TRANSITIONAL SURFACE
+SLOPE 1:7
+SLOPE1.2%
+TAK
+E-OFF FLIGHT PATH
+APPROACH SURFACESLOPE 1:50
+APPROACH SURFACE
+SLOPE 1:50
+HORIZONTAL SURFACE
+HORIZONTALSURFACE
+ARP
+2500m×45mASPHALT CONCRETE
+←273°
+093°→09
+27
+15
+20.7
+H
+k
+H
+k k
+k
+k
+k
+k
+H H
+k kk
+H
+H
+H
+k
+H
+k
+k
+H
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k k
+k
+k
+k
+k
+kk
+k
+k
+k
+k
+kk kkk
+kk
+H
+kk
+H H
+k
+kk
+H
+H
+k
+k
+k
+k
+H
+H
+H
+H
+HH
+H
+k
+H
+H
+k HH
+kk
+k
+HH H HkkkH H k
+H
+H
+k
+167
+49
+25
+184
+313
+315
+309
+327
+307
+308
+312
+298
+302
+306
+305
+315
+299
+280
+304
+292
+294
+279
+269
+267
+281
+279
+276
+263
+242
+256
+271
+261
+259
+254
+241
+193
+184
+188
+191
+195
+11099
+184
+184
+179
+92
+183
+190
+187
+209
+143
+257
+184
+71
+59
+63 62
+56
+60
+50
+44
+81 55
+36
+40 34
+26
+47
+58 46 49
+52
+75
+74
+60
+55
+74
+331
+53
+31
+482
+320
+255
+110
+22
+137
+122
+112
+90
+62 56
+38 34
+28
+200
+100
+200
+100
+200
+100
+200
+300
+100
+100
+100
+100
+200
+200
+200
+200
+200
+200
+200
+200
+100
+100
+100 100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+131°32'E
+131°32'E
+131°31'E
+131°31'E
+131°30'E
+131°30'E
+131°29'E
+131°29'E
+131°28'E
+131°28'E
+131°27'E
+131°27'E
+131°26'E
+131°26'E
+131°25'E
+131°25'E
+131°24'E
+131°24'E
+131°23'E
+131°23'E
+131°22'E
+131°22'E
+31°55'N 31°55'N
+31°54'N 31°54'N
+31°53'N 31°53'N
+31°52'N 31°52'N
+31°51'N 31°51'N
+31°50'N 31°50'N
+㕲㐨㸧
+AERODROME OBSTACLE CHART-ICAO
+TYPE B
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+AERODROME ELEVATION 19ft ARP
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+A
+AERODROME REFERENCE POINT
+31 ° 52 ‘ 38 “ N 131 ° 26 ‘ 55 “ E
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE RAILROAD
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+0
+330
+300
+270
+240
+210
+180
+150
+120
+90
+60
+30
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+VAR 7°W
+ AUG 2025
+ANNUAL CHANGE 3′W
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 ft
+500 0 500 1000 1500 2000 2500 3000 m
+HORIZONTAL SCALE
+FEET
+METRES
+(EFF:7 AUG 2025) 7/8/25
+RJFM AD2.24-AOC-2MIYAZAKI
+CHANGE: Update.
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFM / MIYAZAKI SID
+SIIBA ONE DEPARTURE
+RWY27 :  Climb via MZE R275 to 6.0DME, turn right HDG060˚ to intercept
+ and proceed via MZE R015 to SIIBA.
+ Cross MZE R345 at or above 6000FT.
+RWY09 :  Climb via MZE R091 to 8.0DME, turn left HDG330˚ to intercept
+and proceed via MZE R015 to SIIBA.
+ Cross MZE R040 at or above 6000FT. 
+Note RWY27 : 5.0% climb gradient required up to 5000FT.
+        OBST ALT 1637FT located at 8.3NM 285˚ FM end of RWY27.
+275˚
+015˚
+HDG330˚
+HDG060˚
+MZE R040
+MZE R345
+R015
+091˚
+6000
+6000
+D8.0 MZE
+D6.0 MZE
+VOR/DME
+MIYAZAKI
+100FT
+112.4     MZE
+ÛÝ1ÛÝ(
+CH-71X
+SIIBA
+R015/D45.6 MZE
+CHANGE : Description of PROC name.
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-SID-1
+MIYAZAKI
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MIYAZAKI
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFM / MIYAZAKI SID
+Note RWY27 : 5.0% climb gradient required up to 5000FT.
+OBST ALT 152FT located at 0.7NM 276˚ FM end of RWY27.
+RWY09 : 5.0% climb gradient required up to 1000FT.
+LALAG ONE DEPARTURE
+RWY27  :  Climb via MZE R275 to 10.0DME, turn right HDG350˚...
+RWY09  : Climb RWY HDG to 1000FT, turn left HDG275˚...
+ ...to intercept and proceed via MZE R305 to LALAG via TORIK. 
+Cross TORIK at assigned altitude.
+CHANGE : New PROC.
+Assigned ALT
+1000
+D10.0 MZE
+MIYAZAKI
+112.4     MZE
+CH-71X
+R305/D43.8 MZE
+LALAG
+R305/D20.0 MZE
+TORIK
+VOR/DME
+305˚HDG350˚
+HDG275˚
+275˚
+100FT
+NYUTABARU
+ɹɹAD305˚
+305˚
+R305
+ÛÝ1ÛÝ(
+RJFM AD2.24-SID-2
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFM / MIYAZAKI SID
+MIYAZAKI REVERSAL ONE DEPARTURE
+RWY 27 :   Climb via MZE R275 to 10.0DME, turn right,...
+RWY 09 :   Turn right, climb via MZE R138 to 12.0DME, turn left,...
+...direct to MZE VOR/DME.
+JACKY ONE DEPARTURE
+RWY 27 :   Climb RWY HDG to MZE 2.0DME, turn right, direct to MZE VOR/DME,...
+RWY 09 :   Turn right, climb...
+...via MZE R138 to JACKY. 
+Note RWY27 : 5.0% climb gradient required up to 5000FT.
+        OBST ALT 152FT located at 0.7NM 276˚ FM end of RWY27.
+Note RWY27 : 5.0% climb gradient required up to 500FT.
+        OBST ALT 395FT located at 3.1NM 281˚ FM end of RWY27.
+MIYAZAKI REVERSAL ONE DEPARTURE
+JACKY ONE DEPARTURE
+138˚
+275˚
+MZE R138
+D2.0 MZE
+D12.0 MZE
+to JACKY
+D10.0 MZE
+VOR/DME
+MIYAZAKI
+100FT
+112.4  MZE
+31˚52´43˝N/131˚26´15˝E
+CH-71X
+CHANGE : OBST(MIYAZAKI REVERSAL ONE DEPARTURE).
+(EFF:5 NOV 2020) 8/10/20
+RJFM AD2.24-SID-3
+MIYAZAKI
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFM / MIYAZAKI
+KIZAK THREE DEPARTURE
+MADOG TRANSITION RNAV1
+RNAV SID and TRANSITION
+VAR 8˚  W
+Note 1 ) DME/DME/IRU or GNSS required.
+The aircraft equipped with only DME/DME/IRU 
+must be able to update its position without delay 
+at the starting point of take-off roll.
+2 ) RADAR service required. Critical DME RWY27
+   TGE : 4.0NM to KIZAK - KIZAK
+RWY09 : DER -  4.0NM to KIZAK
+RWY27 : DER -  4.0NM to KIZAKDME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+KIZAK
+FM700 500
+273˚ 093˚
+500
+FM701 FM702
+HIROS
+MADOG
+KIZAK THREE DEPARTURE
+MADOG TRANSITION
+31.8
+076˚
+17.1152˚
+4.7
+093˚
+5.6003˚
+15.4
+046˚
+11000
+RWY27:  7.0% climb gradient required up to 900FT. 
+Note RWY09:  5.0% climb gradient required up to 500FT. 
+RWY09 : Climb on HDG093˚ at or above 500FT, direct to KIZAK.
+RWY27 : Climb on HDG273˚ at or above 500FT, direct to FM700, to FM701, to FM702, to KIZAK.
+KIZAK THREE DEPARTURE
+From KIZAK, to HIROS at or above 11000FT, to MADOG.
+MADOG TRANSITION
+VOR/DME
+MIYAZAKI
+100FT
+112.4     MZE
+CH-71X
+CHANGE : PROC renamed. VAR. PROC course.
+ÛÝ1ÛÝ(
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-SID-4
+MIYAZAKI
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MIYAZAKI
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFM / MIYAZAKI RNAV SID and TRANSITION
+VA
+DF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++500
+–
+–
+–
+–
+–
+–
+5.6
+4.7
+17.1
+–
+FM700
+FM701
+FM702
+KIZAK
+(265.2)
+(355.2)
+(085.2)
+(144.5)
+273
+003
+093
+152
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.5
+-7.5
+-7.5
+-7.5
+-7.5
+–
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+R
+–
+–
++500
+–
+–
+–
+–
+KIZAK
+(085.2)
+093
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.5
+-7.5
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+– 
+– 
+–
+– 
+– 
+–
+– 
+– 
+–
+– 
+– 
+–
+– 
++
+11000 
+–
+–
+31.8
+15.4
+KIZAK
+HIROS
+MADOG
+(069.0)
+(038.4)
+076
+046
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.5
+-7.5
+-7.5
+–
+–
+KIZAK THREE DEPARTURE
+MADOG TRANSITION
+RWY27
+RWY09
+CHANGE : PROC renamed. PROC course. VAR. Waypoint Coordinates added.
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+FM700
+FM701
+FM702
+315212.0N / 1312058.4E
+315749.2N / 1312024.8E
+315813.1N / 1312556.5E
+KIZAK
+HIROS
+MADOG
+314410.0N / 1313731.3E
+315530.2N / 1321230.5E
+320730.7N / 1322346.5E
+RJFM AD2.24-SID-5
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+2NM to FM900
+RWY27 : NHT : 5NM to FM703  FM703
+RWY09 : DER ʵ 2NM FM DER
+RWY27 : DER ʵ 5NM to FM703
+VAR 8˚W 
+DIS VANRMIYAZAKI / FMJR
+RWY09 : Climb on HDG093˚ at or above 1000FT, turn left direct to FM900, to NASAK,
+               to LALAG. 
+         RWY27 : Climb on HDG273˚ at or above 500FT, direct to FM703, to NASAK, to LALAG.  
+1 VANR
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD 1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+RWY09 : NHT : 2NM FM DER
+Note RWY09 : 5.0% climb gradient required up to 1000FT.
+OBST ALT 152FT located at 0.7NM 276˚ FM end of RWY27.
+CHANGE : PROC renamed. VAR. PROC course.
+NASAK
+500
+FM900
+273˚ 093˚FM703
+NYUTABARU 
+        AD
+29.4
+12.7
+LALAG
+1000
+306˚
+288˚
+348˚8.4
+          RWY27 : 5.0% climb gradient required up to 5000FT.
+MIYAZAKI
+112.4     MZE
+CH-71X
+100FT
+VOR/DME
+ÛÝ1ÛÝ(
+KIRISHIMA TWO DEPARTURE
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-SID-6
+MIYAZAKI
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFM AD2.24-SID-7
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFM / DIS VANRIKAZAYIM
+KIRISHIMA TWO DEPARTURE
+RWY27
+VA
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+– 
+– 
+–
+– 
+– 
+–
+– 
+–
+–
+–
+–
++500
+–
+– 
+–
+8.4
+–
+FM703
+(265.2)
+(340.6)
+273
+348
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.5
+-7.5
+-7.5
+–
+RWY09
+VA
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+– 
+– 
+–
+– 
+– 
+–
+– 
+L
+–
+–
+–
+–
++1000– 
+–
+12.7
+–
+FM900
+LALAG
+(085.2)
+(280.1)
+093
+288
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.5
+-7.5
+-7.5
+–
+004 TF
+NASAK
+(298.6)
+306 -7.5 29.4 – RNAV1––
+(298.6)
+306004 TF – -7.5 29.4 – – – RNAV1
+–
+–
+–
+–
+LALAG
+NASAK
+–
+–
+–
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+FM900
+FM703
+NASAK
+315726.5N / 1312601.1E
+315144.1N / 1311433.9E
+315939.9N / 1311116.4E
+LALAG 321338.3N / 1304049.6E
+CHANGE : PROC renamed. PROC course. VAR. Waypoint Coordinates added.
+MIYAZAKI   
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+RJFM / MIYAZAKI STAR
+OTOHIME ARRIVAL
+  From over RYUGU, via SUC R237 to CHAGA, via MZE R092 to OYODO.
+  Cross CHAGA at or above 5000FT, cross OYODO at or above 2000FT.
+272˚
+237˚
+R237
+R092
+OYODO
+D12.0 IMZ
+D13.1 MZE
+CHAGA
+D77.7 SUC
+D20.8 MZE
+RYUGU
+D64.8 SUC
+2000
+5000
+VOR/DME
+MIYAZAKI
+100FT
+112.4     MZE
+ÛÝ1ÛÝ(
+CH-71X
+VORTAC
+SHIMIZU
+1500FT
+115.2     SUC
+ÛÝ1ÛÝ(
+CH-99X
+CHANGE : Description of PROC name.
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-STAR-1
+MIYAZAKI
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+From RYUGU, to CHAGA at or above 4000FT, to OYODO at or above 2000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+RNAV STARRJFM / MIYAZAKI
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++4000
++2000
+–
+12.9
+7.8
+RYUGU
+CHAGA
+OYODO
+(228.6)
+(266.0)
+236
+273
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.5
+-7.5
+-7.5
+–
+TACAN
+NYUTABARU
+1184     NHT
+ÛÝ1ÛÝ(
+CH-97X
+VOR/DME
+MIYAZAKI
+100FT
+112.4     MZE
+ÛÝ1ÛÝ(
+CH-71X
+12.9
+OYODO
+CHAGA
+RYUGU
+VAR 8˚W 
+R1 VANRLAVIRRA  UGUY
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+236˚
+7.8
+273˚
+2000
+4000
+CHANGE : VAR. Waypoint Coordinates added. 
+–
+300FT
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+RYUGU
+CHAGA
+OYODO
+1(
+1(
+1(
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-STAR-2
+MIYAZAKI
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+4648
+5272
+3668
+3637
+4350
+3778
+5075
+5399
+4852
+2420
+4014
+4718
+3400
+5646
+5200
+160°/9.3
+10.3160°
+7000
+FM957
+ENBEN
+MELAR
+VOR/DME
+MZE
+100FT
+MIYAZAKI
+112.4   MZE
+CH-71X䢢䢢䢢䢢䢢䢢䢢
+31°52'43"N/131°26'15"E
+TACAN
+NHT
+300FT
+NYUTABARU
+1184   NHT
+CH-97X䢢䢢䢢䢢䢢
+32°04'49"N/131°27'14"E
+䢳䢵䢳䤑䢶䢲䢩䣇䢳䢵䢳䤑䢴䢲䢩䣇䢳䢵䢳䤑䢲䢩䣇
+䢵䢴䤑䢴䢲䢩䣐
+䢵䢴䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.19
+4000
+3000
+2000
+1000
+VAR 8°W
+RNAV STAR RWY09RJFM / MIYAZAKICHANGE : PROC renamed. PROC course. VAR. Waypoint Coordinates added.
+MELAR ARRIVAL RNAV1
+ Note  1) DME/DME/IRU or GNSS required.
+           2) RADAR service required.
+  From ENBEN, to FM957 at or above 7000FT, to MELAR at or above 5200FT.
+ Critical DME -
+ DME GAP -
+ Inappropriate 
+ Navaids  See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1 
+505 1 0 1 5 2 0
+KM
+20246 8 10 12
+NM
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM )
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ENBEN - - -7.5 - - - - - RNAV1
+002 TF FM957 - 160
+(152.2) -7.5 10.3 - +7000 - - RNAV1
+003 TF MELAR - 160
+(152.3) -7.5 9.3 - +5200 - - RNAV1
+FM957 321435.2N / 1311243.0E
+MELAR 320620.1N / 1311750.2E
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+ENBEN 322342.1N / 1310702.4E
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-STAR-3
+MIYAZAKI
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+4610
+2383
+5075
+4014
+4852
+3400
+5272
+4600
+1491
+5646
+  16.5
+䢢䢢䢢
+186°
+  18.5䢢䢢䢢
+108°
+6000
+1800
+5000
+186°/3.8
+7000
+7.9
+108°
+KARAH
+FM754 
+FM755
+FM753
+ENBEN
+TACAN
+NHT
+300FT
+NYUTABARU
+1184     NHT
+CH-97X  䢢䢢䢢䢢䢢
+32°04'49"N/131°27'14"E
+VOR/DME
+MZE
+100FT
+MIYAZAKI
+112.4   MZE
+CH-71X䢢䢢䢢䢢䢢䢢䢢
+31°52'43"N/131°26'15"E
+䢳䢵䢳䤑䢶䢲䢩䣇䢳䢵䢳䤑䢴䢲䢩䣇䢳䢵䢳䤑䢲䢩䣇
+䢵䢴䤑䢴䢲䢩䣐
+䢵䢴䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.19
+4000
+3000
+2000
+1000
+VAR 8°W
+RNAV STAR RWY27RJFM / MIYAZAKICHANGE : PROC renamed. PROC course. VAR. Waypoint Coordinates added.
+KARAH ARRIVAL RNAV1
+ Note  1) DME/DME/IRU or GNSS required.
+           2) RADAR service required.
+ Critical DME
+SUC : 15NM to FM754 - 10NM to FM755
+MZE : 14NM to FM755 - 2NM to FM755
+NHT : 5NM to FM755 - KARAH
+ DME GAP -
+ Inappropriate 
+ Navaids  See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1 
+   From ENBEN, to FM753 at or above 7000FT, to FM754 at or above 6000FT,
+   to FM755 at or above 5000FT, to KARAH at or above 1800FT.
+202468 1 0 1 2
+NM
+505 1 0 1 5 2 0
+KM
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM )
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ENBEN - - -7.5 - - - - - RNAV1
+002 TF FM753 - 108
+(100.3) -7.5 7.9 - +7000 - - RNAV1
+003 TF FM754 - 108
+(100.3) -7.5 18.5 - +6000 - - RNAV1
+004 TF FM755 - 186
+(178.6) -7.5 16.5 - +5000 - - RNAV1
+005 TF KARAH - 186
+(178.6) -7.5 3.8 - +1800 - - RNAV1
+321856.5N / 1313743.8E
+Waypoint Identifier
+ENBEN
+FM753
+FM754
+322217.4N / 1311613.8E KARAH
+Coordinates
+320228.4N / 1313812.1E
+315841.4N / 1313818.6E
+Waypoint Coordinates
+Coordinates Waypoint Identifier
+322342.1N / 1310702.4E FM755
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-STAR-4
+MIYAZAKI
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180
+°
+360
+°
+090°
+NM to IMZ
+ALT (3.0˚ APCH Path)
+MAPt
+–
+2
+652
+1
+333
+3
+970
+4
+1289
+5
+1607
+6
+1926
+FAF
+1963
+ILS Z or LOC Z RWY27
+KAGOSHIMA  APP ILS-LOC
+108.9 IMZ
+ILS-GP  329.3
+ILS-DME   IMZ CH-26X 
+MIYAZAKI    TOWER
+118.3-126.2 
+123.6-261.2
+RADAR  AVBL
+ATIS 126.8 
+MISSED APPROACH 
+VOR/DME
+MIYAZAKI
+112.4     MZE
+CH-71X
+712
+577
+696 395
+397
+544
+MAPt
+HDG272˚
+MAX 230KIAS
+MHA 4500
+MAX 230KIAS
+D12.0 IMZ
+D0.6 IMZ
+D6.1 IMZ
+SINWA(FAF)
+OYODO(IF)
+D12.0 IMZ
+OYODO
+SINWA(FAF) : 315310.76N/1313439.20E
+361
+1105
+1637
+1847
+1978
+2756
+3671
+272˚ 272˚
+D18.0 IMZ
+272°LOC
+092°
+138˚
+272˚
+3123
+2421
+MZE
+MAPt
+(LOC)
+VDP
+(LOC)
+RDH 54
+GP3.0°
+SINWA
+(FAF)
+OYODO(IF)
+Timing not authorized for defining the MAPt.
+2000
+2000
+1963(LOC)
+2000
+1963(LOC)
+700
+(681)MDA
+2726
+3048
+289°
+109°
+10NM
+Climb to 500FT on HDG 272˚, turn
+right, via MZE R138 to 4500FT, 
+turn right, direct to MZE
+VOR/DME and hold.
+Contact KAGOSHIMA APP.   
+121.4 – 362.3
+120.9 – 261.2
+ÛÝ1ÛÝ(
+090˚ 270˚
+360˚
+180˚
+58006700
+35006300
+MSA 25NM
+MZE
+MHA 2000
+272˚
+0.2 0.6
+0.5
+0.8
+0.6
+6.1
+5.9
+12.0
+11.90
+DME to IMZ
+NM to THR
+EQPT REQUIRED
+DME
+VOR
+RJFM / MIYAZAKI
+VAR 8˚W 
+ 
+MINIMA 
+Missed APCH climb gradient MNM 4.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+CAT
+CAT䢢䱶䢢
+DA(H)
+221 (200) 270 (251)
+650 (631)
+520 (501)
+1000
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 21 AD elev. 19
+A
+B
+C
+D
+CHANGE : VAR.
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-IAC-1
+MIYAZAKI
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180
+°
+360
+°
+090°
+138˚
+72YWR Y COL ro Y SLI  IKAZAYIM / MFJR
+KAGOSHIMA  APP
+121.4 – 362.3
+120.9 – 261.2
+ILS-LOC
+108.9  IMZ
+ILS-GP 329.3
+ILS-DME IMZ CH- 26 X 
+MIYAZAKI   TOWER
+118.3 - 126.2 
+123.6 - 261.2
+RADAR  AVBL
+ATIS  126.8 
+VOR/DME
+MIYAZAKI
+112.4    MZE
+CH-71X
+ÛÝ1ÛÝ(
+712
+577
+696 395
+397
+544
+D0.6 IMZ
+MAPt
+HDG272˚
+D6.1 IMZ
+SINWA(FAF)
+SINWA
+(FAF)
+361
+1105
+1637
+1847
+2756
+3671
+272˚272˚
+NM to IMZ
+ALT (3.0˚ APCH Path)
+MAPt
+–
+2
+652
+1
+333
+3
+970
+4
+1289
+5
+1607
+6
+1926
+FAF
+1963
+090˚ 270˚
+360˚
+180˚
+58006700
+35006300
+MSA 25NM
+MZE
+109˚
+3123
+2421
+4500
+2726
+3048
+289˚
+109˚
+10NM
+MAX 230KIAS
+MHA 4500
+MISSED APPROACH 
+Climb to 500FT on HDG 272˚, turn
+right, via MZE R138 to 4500FT, 
+turn right, direct to MZE
+VOR/DME and hold.
+Contact KAGOSHIMA APP.   
+SINWA(FAF) : 1(
+EQPT REQUIRED
+DME
+VOR
+VAR 8˚W 
+272˚
+109˚
+MZE
+MAPt
+(LOC)
+VDP
+(LOC)
+RDH 54
+GP3.0
+°
+2000
+20001963(LOC)
+(LOC)
+700
+(681)MDA
+272˚
+0.2 0.6
+0.5
+0.8
+0.6
+6.1
+5.9
+DME to IMZ
+NM to THR 0
+ 
+MINIMA 
+Missed APCH climb gradient MNM 4.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+CAT
+CAT 䱶 
+DA(H)
+221 (200) 270 (251)
+650 (631)
+520 (501)
+1000
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 21 AD elev. 19
+A
+B
+C
+D
+Timing not authorized for defining the MAPt.
+Turn initiation within
+D11.0 MZE
+Turn initiation within
+D11.0 MZE
+MAX Turning speed
+200KIAS
+CHANGE : VAR.
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-IAC-2
+MIYAZAKI
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180°
+360°
+090°
+270°
+138˚
+700
+(681)MDA
+NM to MZE
+ALT (3.0˚ APCH Path)
+MAPt
+–
+3
+633
+4
+951
+5
+1270
+6
+1588
+FAF
+1902
+PEKAN(FAF) : 315248.28N/1313427.02E
+VOR RWY27
+KAGOSHIMA  APP
+112.4      MZE
+CH-71X
+MIYAZAKI   VOR/DME MIYAZAKI   TOWER
+MIYAZAKI 
+118.3 - 126.2 
+123.6 - 261.2
+RADAR  AVBL
+ATIS 126.8 
+MISSED APPROACH 
+712
+577
+696 395
+HDG 276˚
+397
+544
+361
+1105
+1637
+1847
+1978
+1670
+2756
+3671
+276˚ 276˚
+112˚
+276˚
+3.0˚
+112˚
+3123
+2421
+MZE
+VDP
+MAPt
+PEKAN
+(FAF)
+4500
+1200
+1902
+27262835
+3048
+289˚
+109˚
+10NM
+CITY
+RJFM / MIYAZAKI
+121.4 – 362.3
+120.9 – 261.2
+VAR 8˚W 
+1.2 2.0
+0.8
+2.4
+1.2
+7.0
+5.8
+DME to MZE
+NM to THR 0
+ 
+MINIMA 
+CAT
+440 (421)
+650 (631)
+520 (501)1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 21 AD elev. 19
+A
+B
+C
+D
+Timing not authorized for defining the MAPt.
+Turn initiation within
+D11.0 MZE
+Turn initiation within
+D11.0 MZE
+MAX Turning speed
+200KIAS
+MAPt
+D2.0 MZE
+PEKAN(FAF)
+D7.0 MZE
+MAX 230KIAS
+MHA 4500
+090˚ 270˚
+360˚
+180˚
+58006700
+35006300
+MSA 25NM
+MZE
+EQPT REQUIRED
+DME
+Climb to 500FT on HDG 276˚, turn
+right, via MZE R138 to 4500FT, 
+turn right, direct to MZE
+VOR/DME and hold.
+Contact KAGOSHIMA APP.   
+276˚
+ÛÝ1ÛÝ(
+CHANGE : VAR.
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-IAC-3
+MIYAZAKI
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+696
+407
+433
+341
+577 410
+1978
+166
+544
+163
+10NM
+6.9
+10.6 
+297°
+2.0
+273°
+1.9
+093°
+13.2 
+093°
+3.5 
+273°
+FM951
+OYODO
+(IAF/MAHF)
+FM950
+(FAF)
+MAX165KIAS
+FM952 RW09
+HIMKA
+(IF)
+䢳䢵䢳䤑䢶䢲䢩䣇䢳䢵䢳䤑䢵䢲䢩䣇䢳䢵䢳䤑䢴䢲䢩䣇
+䢵䢴䤑䢲䢩䣐
+䢵䢳䤑䢷䢲䢩䣐
+Contour
+Intervals
+AD elev.19
+2000
+1500
+1000
+500
+FM950(FAF) :  315655.69N/1312544.90E
+KAGOSHIMA APP
+121.4 - 362.3
+120.9 - 261.2
+RNP  AR
+RF  required.
+MIYAZAKI TOWER
+118.3 -126.2
+123.6 - 261.2
+RADAR AVBL
+ATIS 126.8
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 45°C
+VAR 8°W
+RNP Z RWY09(AR)RJFM / MIYAZAKICHANGE : VAR. PROC course. HLDG pattern at OYODO. 
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360
+°
+270°
+180°
+l
+58006700
+6300 3500
+MSA  RW09  25NM
+DA(H) CMV
+A
+B
+C 1400
+D 1600
+Authorization Required
+327(312)
+-
+ MINIMA             THR elev. 15       AD elev. 19
+CAT RNP 0.30
+-
+OYODO
+NOT TO SCALE
+1MIN
+MHA 4000 / MAX 210KIAS
+Þ
+8.8
+RDH 50
+NM to THR
+FM950
+(FAF)
+HIMKA
+(IF)
+OYODO
+(IAF)
+4000
+MISSED APPROACH
+Climb to 4000FT, to OYODO
+and hold.
+Contact KAGOSHIMA APP .
+024.9
+FM952
+1.910.814.3
+FM951
+2865
+684 RW09
+3500
+3500
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-IAC-4
+MIYAZAKI
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFM AD2.24-IAC-5
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.5 - - - -
+002 TF - -7.5 - - - 1.0
+003 TF - -7.5 - -165 - 1.0
+004 TF - -7.5 - - -3.00 0.3
+005
+RF
+Center:
+FMRF1
+r=2.18NM
+- -7.5 L - -3.00 0.3
+006 TF Y -7.5 - - -3.00/50 0.3
+007 TF - -7.5 - - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold OYODO L FL140 -210(-14000) 1.0
+CHANGE : PROC course. VAR. HLDG pattern at OYODO added.
+Outbound
+Time
+(MIN)
+FM952
+RW09
+OYODO
+315713.28N / 1312950.79E
+315655.69N / 1312544.90E
+315340.52N / 1314134.32E
+RF Arc Center Identifier
+FMRF1
+Minimum
+Altitude
+(FT)
+4000
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Waypoint Coordinates
+273
+(265.9) -7.5 1.0 (-14000)
+Coordinates
+315435.02N / 1312337.63E
+315234.26N / 1312607.02E
+HIMKA
+FM950
+FM951 315645.60N / 1312324.68E
+315224.44N / 1312350.57E
+Waypoint Identifier Coordinates
+HIMKA 297
+(289.7) 10.6 +3500
+FM951 273
+(265.2) 2.0 2865
+FM950 273
+(265.2) 3.5 3500
+684
+65
+4000
+OYODO - - +4000
+6.9
+1.9
+13.2
+FM952
+RW09
+OYODO
+-
+093
+(085.1)
+093
+(085.1)
+RJFM / MIYAZAKI RNP Z RWY09(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+MIYAZAKI
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+577
+433
+2421
+410
+1703
+1978
+1670
+2195
+166
+163
+544
+10NM
+1.4 
+256°
+10.3 
+256°
+3.5 
+256°
+7.5
+13.2 
+093°1.9 
+093° OYODO
+(IAF/MAHF)
+SURFU
+(IF)
+RW09
+FM952
+FM953
+(FAF)
+MAX165KIAS
+FM954
+䢳䢵䢳䤑䢶䢲䢩䣇䢳䢵䢳䤑䢵䢲䢩䣇䢳䢵䢳䤑䢴䢲䢩䣇
+䢵䢳䤑䢷䢲䢩䣐
+Contour
+Intervals
+AD elev.19
+2000
+1500
+1000
+500
+FM953(FAF) :  314841.56N/1312629.11E
+KAGOSHIMA   APP
+121.4 - 362.3
+120.9 - 261.2
+RNP  AR
+RF  required.
+MIYAZAKI  TOWER
+118.3 - 126.2
+123.6 - 261.2
+RADAR  AVBL
+ATIS 126.8
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 45°C
+VAR 8°W
+RNP Y RWY09(AR)RJFM / MIYAZAKICHANGE : VAR. PROC course. HLDG pattern at OYODO.
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360
+°
+270°
+180°
+l
+58006700
+6300 3500
+MSA  RW09  25NM
+DA(H) CMV
+A
+B
+C 1400
+D 1600
+Authorization Required
+327(312)
+-
+ MINIMA             THR elev. 15       AD elev. 19
+CAT RNP 0.30
+-
+OYODO
+NOT TO SCALE
+1MIN
+MHA 4000 / MAX 210KIAS
+Þ
+9.4
+RDH 50
+NM to THR
+FM953
+(FAF)
+SURFU
+(IF)
+OYODO
+(IAF)
+4000
+MISSED APPROACH
+Climb to 4000FT, to OYODO
+and hold.
+Contact KAGOSHIMA  APP .
+024.6
+FM952
+1.910.814.3
+FM954
+3064
+684 RW09
+3500
+3500
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-IAC-6
+MIYAZAKI
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFM AD2.24-IAC-7
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.5 - - - -
+002 TF - -7.5 - - - 1.0
+003 TF - -7.5 - -165 - 1.0
+004 TF - -7.5 - - -3.00 0.3
+005
+RF
+Center:
+FMRF2
+r=2.18NM
+- -7.5 R - -3.00 0.3
+006 TF Y -7.5 - - -3.00/50 0.3
+007 TF - -7.5 - - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold OYODO L FL140 -210(-14000) 1.0
+Coordinates
+315013.85N / 1312403.51E
+315234.26N / 1312607.02E
+SURFU
+FM953
+FM954
+OYODO
+314957.66N / 1313018.83E
+314841.56N / 1312629.11E
+315340.52N / 1314134.32E
+RF Arc Center Identifier
+FMRF2
+SURFU 256
+(248.8) 10.3 +3500
+FM954 256
+(248.7) 1.4 3064
+FM953 256
+(248.7) 3.5 3500
+684
+65
+4000
+OYODO - - +4000
+7.5
+1.9
+13.2
+FM952
+RW09
+OYODO
+-
+093
+(085.1)
+093
+(085.1)
+RJFM / MIYAZAKI RNP Y RWY09(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+CHANGE : PROC course. VAR. HLDG pattern at OYODO added.
+Minimum
+Altitude
+(FT)
+273
+(265.9) -7.5 1.0 (-14000) 4000
+314811.70N / 1312459.11E
+315224.44N / 1312350.57E
+Waypoint Identifier Coordinates
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Waypoint Coordinates
+FM952
+RW09
+MIYAZAKI
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+166
+163
+426
+1491
+2067
+3999
+1848
+3668
+3400
+2420
+3637
+10NM
+7.3165°
+188°/2.1
+188°/3.0
+3.6 13.2
+093°
+093°/1.9
+FM952
+FM956
+OYODO
+(MAHF)
+IKIME
+(IF)
+MELAR
+(IAF)
+FM955
+(FAF)
+RW09
+䢳䢵䢳䤑䢶䢲䢩䣇䢳䢵䢳䤑䢵䢲䢩䣇䢳䢵䢳䤑䢴䢲䢩䣇䢳䢵䢳䤑䢳䢲䢩䣇
+䢵䢴䤑䢲䢩䣐
+䢵䢳䤑䢷䢲䢩䣐
+Contour
+Intervals
+ AD elev.19
+2000
+1500
+1000
+ 500
+KAGOSHIMA   APP
+121.4 - 362.3
+120.9 - 261.2
+RNP  AR
+RF  required.
+MIYAZAKI  TOWER
+118.3 - 126.2
+123.6 - 261.2
+RADAR  AVBL
+ATIS 126.8
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 45°C
+VAR 8°W
+RNP X RWY09(AR)RJFM / MIYAZAKICHANGE : VAR. PROC course. HLDG pattern at OYODO.
+1012345
+NM
+10123456789 1 0
+KM
+但
+䢳䢺䢲䤑
+FM955(FAF) : 315641.04N/1312105.58E
+MAX 165KIAS
+090°
+360°
+270°
+180°
+l
+58006700
+6300 3500
+MSA  RW09 25NM
+DA(H) CMV
+A
+B
+C 1400
+D 1600
+Authorization Required
+327(312)
+-
+ MINIMA             THR elev. 15       AD elev. 19
+CAT RNP 0.30
+-
+OYODO
+NOT TO SCALE
+1MIN
+MHA 4000 / MAX 210KIAS
+Þ
+5.5
+RDH 50
+NM to THR
+FM955
+(FAF)
+IKIME
+(IF)
+MELAR
+(IAF)
+5200
+MISSED APPROACH
+Climb to 4000FT , to OYODO and hold.
+Contact KAGOSHIMA APP.
+017.9
+FM952
+1.97.610.6
+FM956
+1840
+684 RW09
+2500
+3100
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-IAC-8
+MIYAZAKI
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MIYAZAKI
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.5 - - - -
+002 TF - -7.5 - - - 0.3
+003 TF - -7.5 - - - 0.3
+004 TF - -7.5 - -165 -3.00 0.3
+005
+RF
+Center:
+FMRF1
+r=2.18NM
+- -7.5 L - -3.00 0.3
+006 TF Y -7.5 - - -3.00/50 0.3
+007 TF - -7.5 - - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold OYODO L FL140 -210(-14000) 1.0
+CHANGE : PROC course. VAR. HLDG pattern at OYODO added.
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Minimum
+Altitude
+(FT)
+273
+(265.9) -7.5 1.0 (-14000) 4000
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+FM956
+FM952
+RW09
+OYODO
+684
+320620.09N / 1311750.24E
+315938.25N / 1312107.83E
+315340.52N / 1314134.32E
+MELAR
+IKIME
+FM955 315641.04N / 1312105.58E
+315436.46N / 1312104.01E
+165
+(157.4) 7.3 +3100
+FM956 188
+(180.6) 2.1 1840
+FM955 188
+(180.6) 3.0 2500
+65
+4000
+MELAR - - +5200
+3.6
+1.9
+13.2
+FM952
+RW09
+OYODO
+-
+093
+(085.1)
+093
+(085.1)
+IKIME
+RJFM / MIYAZAKI RNP X RWY09(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+Coordinates
+315435.02N / 1312337.63E
+315224.44N / 1312350.57E
+315234.26N / 1312607.02E
+RF Arc Center Identifier
+FMRF1
+RJFM AD2.24-IAC-9
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+150
+2228
+1671
+1269
+1160
+1686
+10NM
+1.2
+2.4
+220°
+1.1
+3.0
+220°
+273°
+4.3
+273°
+FM750 OYODO
+(MAHF)
+FM752
+KARAH
+(IAF)
+MENYA
+(IF)
+FM751
+(FAF)
+RW27
+䢳䢵䢳䤑䢶䢲䢩䣇䢳䢵䢳䤑䢵䢲䢩䣇䢳䢵䢳䤑䢴䢲䢩䣇
+䢵䢴䤑䢲䢩䣐
+䢵䢳䤑䢷䢲䢩䣐
+Contour
+Intervals
+AD elev.19
+2000
+1500
+1000
+500
+KAGOSHIMA   APP
+121.4 - 362.3
+120.9 - 261.2
+RNP  AR
+RF  required.
+MIYAZAKI  TOWER
+118.3 - 126.2
+123.6 - 261.2
+RADAR  AVBL
+ATIS 126.8
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 45°C
+VAR 8°W
+RNP RWY27(AR)RJFM / MIYAZAKICHANGE : VAR. PROC course. HLDG pattern at OYODO.
+180°
+似
+10123456789 1 0
+KM
+1012345
+NM
+凟
+500
+MAX 185KIAS
+FM751(FAF) : 315322.32N/1313358.20E
+36
+0°
+270°
+180
+°
+l
+5800
+6300
+3500
+MSA  RW27  25NM
+DA(H) RVR/CMV
+A
+B
+C 1800
+D 2000
+Authorization Required
+321(300)
+-
+ MINIMA             THR elev. 21        AD elev. 19
+CAT RNP 0.30
+-
+Þ
+4.3
+RDH 54
+NM to THR
+FM752
+MENYA
+(IF)
+KARAH
+(IAF)
+1800
+MISSED APPROACH
+From RW27 on track 273, at or 
+above 500FT turn right, direct to 
+OYODO and hold at 2000FT .
+Contact KAGOSHIMA APP.
+1800
+9.0 12.0
+RW27
+5.4 6.6
+FM750FM751
+(FAF)
+1453
+0
+OYODO
+NOT TO SCALE
+1MIN
+MHA 2000 / MAX 210KIAS
+(EFF:20 MAR 2025) 20/2/25
+RJFM AD2.24-IAC-10
+MIYAZAKI
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MIYAZAKI
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.5 - - - -
+002 TF - -7.5 - - - 0.3
+003 TF - -7.5 - -185 - 0.3
+004
+RF
+Center:
+FMRF3
+r=2.43NM
+- -7.5 R - - 0.3
+005
+RF
+Center:
+FMRF3
+r=2.43NM
+- -7.5 R - -3.00 0.3
+006 TF Y -7.5 - - -3.00/54 0.3
+007 FA - -7.5 - - - 1.0
+008 DF - -7.5 R - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold OYODO L FL140 -210(-14000) 1.0
+RF Arc Center Identifier
+FMRF3
+315322.32N / 1313358.20E
+315528.33N / 1313231.52E
+- 273
+(265.2) - +500
+KARAH
+KARAH - - +1800
+RJFM / MIYAZAKI RNP RWY27(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+MENYA 220
+(212.3) 3.0 -
+FM750 220
+(212.3) 2.4 -
+1800
+1453
+75
+2000
+Waypoint Identifier Coordinates Coordinates
+1.2
+1.1
+4.3
+FM751
+FM752
+RW27
+-
+-
+273
+(265.2)
+OYODO
+315841.41N / 1313818.57E
+315609.28N / 1313625.03EMENYA
+FM750 315409.97N / 1313456.09E
+315302.73N / 1313245.72E
+315241.06N / 1312741.80E
+315340.52N / 1314134.32E
+CHANGE : PROC course. VAR. HLDG pattern at OYODO added.
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Minimum
+Altitude
+(FT)
+273
+(265.9) -7.5 1.0 (-14000) 2000
+Waypoint Coordinates
+FM751
+FM752
+OYODO - -
+RW27
+RJFM AD2.24-IAC-11
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFM / MIYAZAKI Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+᭷⏣ ᮾ஑ᕞ⮬ື㌴㐨኱ᾷᕝᶫ
+Arita Bridge
+䚷┦⏕ ᐑᓮす⎔≧⥺┦⏕ᶫ
+Aioi Bridge
+ሷ㊰ ୍䝒ⴥ᭷ᩱ㐨㊰୍䝒ⴥ㻼㻭
+Shioji Parking Area
+୍䝒ⴥ 䝃䞁䝡䞊䝏䚷୍䝒ⴥ
+Hitotsuba Beach
+ຍỤ⏣ ຍỤ⏣ᕝἙཱྀ
+Kaeda River mouth
+ⓑ὾ ᡞᓮ㰯ඛ➃䛾䝩䝔䝹
+Shirahama Hotel
+⏣㔝 ᐑᓮ⮬ື㌴㐨⏣㔝㻵㻯
+Tano Interchange 246°T /8 . 2 N M
+°T /3 . 7 N M
+/°T
+312
+330
+016
+018
+5.8NM
+/
+175
+160
+Call sign Remarks
+CHANGE : Map updated. BRG/DIST from ARP.
+°T /3 . 4 N M
+°T 6.5NM/
+°T /5 . 6 N M
+5.5NM°T
+BRG / DIST from ARP
+MIYAZAKI CONTROL ZONE
+At or below 3000FT
+MIYAZAKI TOWER
+118.3 - 126.2
+VAR 7W(2020) / ƍ:
+AIOI
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+ARITA
+SHIOJI
+SHIRAHAMA
+KAEDATANO
+HITOTSUBA
+(EFF:14 JUL 2022) 14/7/22
+RJFM AD2.24-OTHER-1
+MIYAZAKI
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+CHANGE: TWY S6 abolished.
+RJFM / MIYAZAKI LDG  CHART
+55´
+54´
+53´
+52´
+31°51´
+131°24´ 25´ 26´ 27´ 28
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+73
+121
+168
+127
+SCALE
+500 500 10000
+1000 1000 30000
+m
+ft
+243
+PAPI ANGLE 3.0°
+MEHT 22.5m(74ft)
+445m fm THR
+256
+211 165
+269
+252
+227
+227
+VOR/DME
+MIYAZAKI
+112.4   MZE
+CH-71X
+31°52´43ƎN/131°26´15ƎE
+CGL RVR
+ABN
+60
+27
+8200   150ft
+Asph-Conc
+MIYAZAKI
+TWR
+118.3-126.2
+PAPI ANGLE 3.0°
+MEHT 20m(66ft)
+420m fm THR
+ELEV 19ft
+VAR 7°W (2020)
+(EFF:28 JAN 2021) 31/12/20
+RJFM AD2.24-OTHER-2
+MIYAZAKI
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMIKAZAYIM / MFJR
+VAR 7˚W (2017)
+CENTER凬315238N/1312655E  (RJFM ARP)
+䷵䢢 2000
+䷶䢢 2700
+䷷䢢 3500
+CHANGE : Update(BTN 300° and 350°).
+3000
+5200
+6000 5000
+2500
+7000
+8000
+4000
+9000 8000
+4200
+3000
+150˚
+160˚
+275˚
+200˚
+250˚
+260˚
+305˚
+䷵䢢
+9000
+7000
+15000
+8000
+10000
+6000
+7000 1600
+9000
+290˚
+020˚
+030˚
+010˚350˚
+䷶䢢
+4500
+䷷䢢
+175˚185˚
+䷷䢢
+40NM
+40NM
+35NM
+35NM
+80NM
+10NM
+10NM
+50NM
+50NM
+60NM
+30NM
+20NM
+25NM
+14NM
+12NM
+20NM
+25NM
+20NM
+15NM
+5NM
+265˚
+16000
+20000
+60NM ARC from RJFK ARP
+314812N/1304310E
+(RJFK ARP)
+45NM
+300˚
+12000
+50NM
+10000
+(EFF:9 SEP 2021) 9/9/21
+RJFM AD2.24-OTHER-3
+MIYAZAKI
+

@@ -1,0 +1,4088 @@
+=== Page 1 ===
+AIP-CUBA AD 2 MUCF 1 - 1
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+AD 2 AERODROMOS AD 2 AERODROMES
+MUCF AD 2.1 INDICADOR DE LUGAR Y NOMBRE DEL AERODROMO
+MUCF AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+MUCF - CIENFUEGOS / Jaime González Intl
+MUCF AD 2.2 DATOS GEOGRAFICOS Y ADMINISTRATIVOS DEL AERODROMO
+MUCF AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordenadas del ARP y
+emplazamiento en el AD
+  ARP coordinates and site at AD
+220900N 0802451W
+Punto centro de
+Mid point of RWY 02/20
+2 Dirección y distancia desde (ciudad)
+  Direction and distance from (city) 074°, 3.7 KM FM Cienfuegos.
+3 Elevación/temperatura de referencia
+  Elevation / Reference temperature
+(Mean Low temperature)
+Elev: 102 FT (31 M) / T: 32.7° C (Mean Low T: NIL)
+4 Ondulación geoidal en AD ELEV PSN
+  Geoid undulation at AD ELEV PSN -66 FT (-20 M)
+5 MAG VAR/Cambio anual
+  MAG VAR / Annual change 7° W (2025) / -0.10°
+6 Administración, dirección, teléfono,
+telefax, télex, AFS del AD
+  AD Administration, address, telephone,
+telefax, telex, AFS
+ECASA
+Aeropuerto “Jaime González”.
+Carretera de Caunao km 3,
+Cienfuegos, Cuba. 
+  
+Tel: (53-43) 55 2235
+Tel: (53-43) 55 1328
+email: llaifrez@snu.ecasa.avianet.cu
+7 Tipos de tránsito permitidos (IFR/VFR)
+  Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Observaciones
+  Remarks NIL
+MUCF AD 2.3 HORAS DE FUNCIONAMIENTO
+MUCF AD 2.3 OPERATIONAL HOURS
+1 Administración del AD
+  AD Administration
+1300/2130 UTC DLY.
+Horario de verano/Summer time: 1200/2030 UTC DLY
+ 
+2 Aduanas e inmigración
+  Customs and immigration
+1300/2130 UTC DLY.
+Horario de verano/Summer time: 1200/2030 UTC DLY
+3 Dependencias de sanidad
+  Health and sanitation
+1300/2130 UTC DLY.
+Horario de verano/Summer time: 1200/2030 UTC DLY
+4 Oficina de notificación AIS
+  AIS Briefing Office
+1200/2359 UTC DLY.
+Horario de Verano / Summer Time: 1100/ 2300 UTC DLY
+5 Oficina de notificación ATS (ARO)
+  ATS Reporting Office (ARO)
+1300/2130 UTC DLY.
+Horario de Verano / Summer Time: 1200/2030 UTC DLY
+6 Oficina de notificación MET
+  MET Briefing Office
+1300/2130 UTC DLY.
+Horario de Verano / Summer Time: 1200/2030 UTC DLY
+7 ATS
+  ATS
+1300/2130 UTC DLY.
+Horario de Verano / Summer Time: 1200/2030 UTC DLY
+
+=== Page 2 ===
+AD 2 MUCF 1 - 2
+05 FEB 2025
+AIP-CUBA
+AIP AMDT 01/25 AIS-CUBA
+8 Abastecimiento de combustible
+  Fuelling
+1300/2130 UTC DLY.
+Horario de verano/Summer time: 1200/2030 UTC DLY
+9 Servicios de escala
+  Handling
+1300/2130 UTC DLY.
+Horario de verano/Summer time: 1200/2030 UTC DLY
+10 Seguridad
+  Security H24
+11 Descongelamiento
+  De-icing NIL
+12 Observaciones
+  Remarks
+Fuera de estas horas O/R 48HR BFR.
+Out of these hours O/R 48HR BFR.
+MUCF AD 2.4 INSTALACIONES Y SERVICIOS DE ESCALA
+MUCF AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Instalaciones de manipulación de la
+carga
+  Cargo-handling facilities
+Bandas transportadoras
+Conveyor belts
+2 Tipos de combustible/lubricante
+  Fuel / oil types
+Combustible: JET A1
+Lubricante: NIL
+Fuel: JET A1
+Oil: NIL
+3 Instalaciones/capacidad de
+reabastecimiento
+  Fuelling facilities/capacity
+Camiones cisternas de 16000 l. 1500 l/min.
+Tanker trucks of 16000 l. 1500 l/min.
+4 Instalaciones de descongelamiento
+  De-icing facilities NIL
+5 Espacio de hangar para aeronaves
+visitantes
+  Hangar space for visiting aircraft
+NIL
+6 Instalaciones para reparaciones de
+aeronaves visitantes
+  Repair facilities for visiting aircraft
+NIL
+7 Observaciones
+  Remarks
+Servicio de manipulación disponible dentro del HR AD o según
+acuerdo con el AD.
+Instalaciones y equipos para la asistencia en tierra
+GPU: 115v CA/ 90Kva
+GPU: 28v CD.
+Descarga de baños.
+Handling services available within AD HR or by arrangement with
+the AD.
+Facilities and equipment for ground handling.
+GPU: 115v AC/ 90Kva
+GPU: 28v DC.
+Toilet flushing.
+MUCF AD 2.5 INSTALACIONES Y SERVICIOS PARA LOS PASAJEROS
+MUCF AD 2.5 PASSENGER FACILITIES
+1 Hoteles
+  Hotels
+En la ciudad
+In the city
+2 Restaurantes
+  Restaurants
+En la ciudad
+In the city
+
+=== Page 3 ===
+AIP-CUBA AD 2 MUCF 1 - 3
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+3 Transporte
+  Transportation
+Autobuses, taxis y alquiler de autos desde el AD.
+Buses, taxis and car hire from the AD.
+4 Instalaciones y servicios médicos
+  Medical facilities
+Primeros auxilios en el AD, ambulancia disponible dentro del HR AD
+y hospital a 6 KM.
+First aids at AD, ambulance available within AD HR and hospital at
+6 KM.
+5 Oficinas bancarias y de correos
+  Bank and Post Office
+Banco: En la ciudad
+Oficinas de correos: En la ciudad
+Bank: In the city
+Post: In the city
+6 Oficina de turismo
+  Tourist Office
+En la ciudad
+In the city
+7 Observaciones
+  Remarks
+Cafetería en el AD
+Cafeteria in the AD.
+MUCF AD 2.6 SERVICIOS DE SALVAMENTO Y DE EXTINCIÓN DE INCENDIOS
+MUCF AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 Categoría del AD para la extinción de
+incendios
+  AD category for fire fighting
+CAT 6
+2 Equipo de salvamento
+  Rescue equipment
+Disponible, acorde a la categoría del AD.
+Available, according to airport category.
+3 Capacidad para retirar aeronaves
+inutilizadas
+  Capability for removal of disabled
+aircraft
+NIL
+4 Observaciones
+  Remarks
+Existen en la ciudad equipos para el retiro de aeronaves inutilizadas
+There are in the city equipment to remove disabled aircraft.  
+MUCF AD 2.7 DISPONIBILIDAD SEGÚN LA ESTACIÓN DEL
+AÑO – REMOCIÓN DE OBSTACULOS EN LA SUPERFICIE
+MUCF AD 2.7 SEASONAL AVAILABILITY — CLEARING
+No se aplica / Not applicable
+MUCF AD 2.8 DATOS SOBRE LA PLATAFORMA,
+CALLES DE RODAJE Y EMPLAZAMIENTOS /
+POSICIONES DE VERIFICACIÓN DE EQUIPO /
+MUCF AD 2.8 APRONS, TAXIWAYS AND
+EMPLACEMENT / EQUIPMENT CHECK LOCATIONS DATA
+1 superficie y resistencia de la
+plataforma
+  Apron surface and strength
+Designación Superficie Resistencia
+Designator Surface Strength
+1 Asfalto
+Asphalt NIL
+2 Asfalto
+Asphalt NIL
+
+=== Page 4 ===
+AD 2 MUCF 1 - 4
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+2 Anchura, superficie y resistencia de las
+calles de rodaje
+  Taxiway width, surface and strength
+Designación Anchura Superficie Resistencia
+Designator
+of TWY
+Width Surface Strength
+A 23 M Asfalto
+Asphalt NIL
+B 15 M Concreto
+Concrete NIL
+C 15 M Concreto
+Concrete NIL
+3 Emplazamiento y elevación ACL
+  Altimeter checkpoint location and
+elevation
+NIL
+4 Puntos de verificación VOR
+  VOR checkpoints NIL
+5 Puntos de verificación INS
+  INS checkpoints NIL
+6 Observaciones
+  Remarks PCR ver/ see AIRAC AIP-SUP 02/25  
+MUCF AD 2.9 SISTEMA DE GUIA Y CONTROL DEL
+MOVIMIENTO EN LA SUPERFICIE Y SEÑALES
+MUCF AD 2.9 SURFACE MOVEMENT GUIDANCE
+AND CONTROL SYSTEM AND MARKINGS
+1 Uso de signos ID en los puestos de
+aeronaves Líneas de guía TWY y
+sistemas de guía visual de atraque
+y estacionamiento de los puestos de
+aeronaves
+  Use of aircraft stand ID signs, TWY
+guide lines and visual docking/parking
+guidance system of aircraft stands
+Señales de guía de rodaje en la intersección del TWY A y RWY.
+Líneas de guía en la plataforma. Guía de estacionamiento proa
+hacia adentro en los puestos de ACFT.
+Taxing guidance sings at  intersection with TWY A and RWY.
+Guide lines at apron. Nose-in guidance at ACFT stands.
+2 Señales y LGT de RWY y TWY
+  RWY and TWY markings and LGT
+RWY: Designación, THR, TDZ y ejes señalados. Bordes y extremos
+de pista iluminados.
+TWY: Eje, borde y puntos de espera señalados. Bordes iluminados.
+RWY: Designation, THR, TDZ and center line marked. Edges and
+runway ends lighted.
+TWY: Center line, edge and holding positions marked. Edges
+lighted.
+3 Barras de parada
+  Stop bars and runway guard lights
+No disponible
+Not available
+4 Otra protección de pista
+  Other runway protection measures NIL
+5 Observaciones
+  Remarks NIL
+MUCF AD 2.10 OBSTÁCULOS DEL AERÓDROMO
+MUCF AD 2.10 AERODROME OBSTACLES
+
+=== Page 5 ===
+AIP-CUBA AD 2 MUCF 1 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+En el Área 2 / In Area 2
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+En las áreas de aproximación/TKOF / In approach/TKOF areas
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+CF2 Farola / Beacon OTHER 220942N 0802435W 42 M /
+12 M
+NIL 20/APCH
+ 
+CF3 Palma / Palm TREE 221002N 0802426W 60 M /
+23 M
+NIL 20/APCH
+ 
+CF4 Palma / Palm TREE 221002N 0802426W 61 M /
+22 M
+NIL 20/APCH
+ 
+CF5 Palma / Palm TREE 221003N 0802426W 61 M /
+23 M
+NIL 20/APCH
+ 
+CF6 Palma / Palm TREE 221003N 0802427W 61 M /
+22 M
+NIL 20/APCH
+ 
+CF7 Árbol / Tree TREE 220942N 0802441W 38 M /
+10 M
+NIL 20/APCH
+ 
+CF8 Árbol / Tree TREE 220942N 0802439W 41 M /
+15 M
+NIL 20/APCH
+ 
+CF9 Árbol / Tree TREE 220947N 0802432W 45 M /
+20 M
+NIL 20/APCH
+ 
+CF10 Árbol / Tree TREE 220958N 0802437W 56 M /
+24 M
+NIL 20/APCH
+ 
+CF11 Árbol / Tree TREE 221000N 0802434W 56 M /
+23 M
+NIL 20/APCH
+ 
+CF12 Árbol / Tree TREE 221000N 0802437W 56 M /
+24 M
+NIL 20/APCH
+ 
+CF13 Árbol / Tree TREE 221009N 0802423W 69 M /
+27 M
+NIL 20/APCH
+ 
+En el Área 3 / In Area 3
+OBST ID / Designación
+Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation
+OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+MUCF AD 2.11 INFORMACION METEOROLÓGICA PROPORCIONADA
+
+=== Page 6 ===
+AD 2 MUCF 1 - 6
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+MUCF AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Oficina MET asociada
+  Associated MET Office Santa Clara
+2 Horas de servicio
+Oficina MET fuera de horario
+  Hours of service
+MET Office outside hours
+1300/2130 UTC DLY.
+Horario de verano/Summer time: 1200/2030 UTC DLY.
+3 Oficina responsable de la preparación
+TAF
+Períodos de validez
+  Office responsible for TAF preparation
+Period of validity
+MWO La Habana
+H24
+4 Tipo de pronóstico de aterrizaje
+Intervalo de emisión
+  Trend forecast
+Interval of issuance
+NIL
+5 Aleccionamiento/consulta
+proporcionados
+  Briefing/consultation provided
+NIL
+6 Documentación de vuelo
+Idioma(s) utilizado(s)
+  Flight documentation
+Language(s) used
+NIL
+7 Cartas y demás información disponible
+para aleccionamiento o consulta
+  Charts and other information available
+for briefing or consultation
+NIL
+8 Equipo suplementario disponible para
+proporcionar información
+  Supplementary equipment available for
+providing information
+NIL
+9 Dependencias ATS que reciben
+información
+  ATS units provided with information
+TWR Cienfuegos
+10 Información adicional (limitación de
+servicio, etc.)
+  Additional information (limitation of
+service, etc.)
+NIL
+MUCF AD 2.12 CARACTERÍSTICAS FÍSICAS DE LAS PISTAS
+MUCF AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+
+=== Page 7 ===
+AIP-CUBA AD 2 MUCF 1 - 7
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+Designadores
+RWY
+BRG GEO
+y MAG
+Dimensiones
+de RWY
+Resistencia (PCN)
+y superficie de
+RWY y SWY
+Coordenadas THR
+Coordenadas
+RWY end
+ondulación
+geoidal THR
+Elevación THR
+y elevación
+máxima de
+TDZ de RWY
+APP precisión
+RWY
+Designator
+TRUE &
+MAG BRG
+Dimension
+of RWY (M)
+Strength (PCN)
+and surface of
+RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation
+and highest
+elevation of
+TDZ of precision
+APP RWY
+1 2 3 4 5 6
+02 016.00° GEO
+023.00° MAG 2400 x 45
+Concreto y asfalto
+Concrete and asphalt
+SWY: NIL
+220821.94N
+0802503.03W
+END: NIL
+GUND: -20 M
+THR 30 M
+TDZ: NIL
+20 196.00° GEO
+203.00° MAG 2400 x 45
+Concreto y asfalto
+Concrete and asphalt
+SWY: NIL
+220936.98N
+0802440.00W
+END: NIL
+GUND: -20 M
+THR 31 M
+TDZ: NIL
+Designadores
+RWY
+Pendiente
+de RWY-
+SWY
+Dimensiones
+SWY
+Dimensiones
+CWY
+Dimensiones
+de franja
+Dimensiones
+del RESA
+Localización/
+descripción
+del sistema
+de retención
+OFZ
+RWY
+Designator
+Slope of
+RWY-SWY
+SWY
+dimensions
+(M)
+CWY
+dimensions
+(M)
+Strip
+dimensions
+(M)
+RESA
+dimensions
+(M)
+Location/
+description
+of arresting
+system
+OFZ
+1 7 8 9 10 11 12 13
+02 +0.042% 30 x 45 NIL 2580 x 150 NIL NIL NIL
+20 -0.042% 30 x 45 NIL 2580 x 150 NIL NIL NIL
+Designadores
+RWY
+Observaciones
+RWY
+Designator Remarks
+1 14
+02
+ 
+PCR ver/ see AIRAC AIP-SUP 02/25
+Slope of RWY-SWY
++0.3% -0.45% +0.33%
+ (160M) (640M) (400M) 
+-0.16% +0.69% -0.46%
+ (360M) (640M) (200M)
+20
+ 
+PCR ver/ see AIRAC AIP-SUP 02/25
+Slope of RWY-SWY
++0.46% -0.69% +0.16% 
+(200M) (640M) (360M) 
+-0.33% +0.45% -0.3% 
+(400M) (640M) (160M)
+MUCF AD 2.13 DISTANCIAS DECLARADAS
+MUCF AD 2.13 DECLARED DISTANCES
+
+=== Page 8 ===
+AD 2 MUCF 1 - 8
+11 DEC 2024
+AIP-CUBA
+AMDT 106-24 AIS-CUBA
+Designador
+RWY
+Observaciones
+RWY
+Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+02 2400 2400 2430 2400 NIL
+20 2400 2400 2430 2400 NIL
+MUCF AD 2.14 LUCES DE APROXIMACIÓN Y DE PISTA
+MUCF AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designador
+RWY
+Tipo LGT APCH
+y LEN INTST
+Color LGT
+THR WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN Longitud,
+espaciado,
+color, INTST
+LGT eje RWY
+RWY
+Designator
+APCH LGT type
+LEN INTST
+THR LGT
+colour WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN RWY Centre
+Line LGT
+Length, spacing,
+colour, INTST
+1 2 3 4 5 6
+02 NIL Verde
+Green
+PAPI
+Right side/3°
+18.74 M
+NIL NIL
+20 NIL Verde
+Green
+PAPI
+Left side/3°
+18.74 M
+NIL NIL
+Designador
+RWY
+Longitud, espaciado,
+color, INTST
+LGT borde RWY
+Color LGT extremo
+RWY WBAR
+LEN (M) LGT SWY
+color
+Observaciones
+RWY
+Designator
+RWY edge LGT LEN,
+spacing colour INTST
+RWY End LGT
+colour WBAR
+SWY LGT LEN
+colour
+Remarks
+1 7 8 9 10
+02
+2400 M, 60 M
+Blanco
+White
+LIM
+ 
+YCZ 600 M
+Rojo
+Red NIL NIL
+20
+2400 M, 60 M
+Blanco
+White
+LIM
+YCZ 600 M
+Rojo
+Red NIL NIL
+MUCF AD 2.15 OTRAS LUCES, FUENTE SECUNDARIA DE ENERGÍA
+MUCF AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 Emplazamiento, características y horas
+de funcionamiento ABN/IBN
+  ABN/IBN location, characteristics and
+hours of operation
+NIL
+2 Emplazamiento LDI Y LGT y
+Anemómetro y LGT
+  LDI location and LGT Anemometer
+location and LGT
+Anemómetro ultrasónico:
+1- 180M FM THR RWY 02 y 120M FM RWY CL
+Ultrasonic anemometer 
+1- 180M FM THR RWY 02 and 120M FM RWY CL
+
+=== Page 9 ===
+AIP-CUBA AD 2 MUCF 1 - 9
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+3 Luces de borde y eje de TWY
+  TWY edge and centre line lighting
+Borde de TWY/Taxiway edge:
+A BLUE
+B BLUE
+C BLUE
+ 
+Eje de TWY/Taxiway centre line:
+A No disponible.
+Not available.
+B No disponible.
+Not available.
+C No disponible.
+Not available.
+4 Fuente auxiliar de energía/tiempo de
+conmutación
+  Secondary power supply/switch-over
+time
+Fuente auxiliar de energía para todas las luces del AD.
+Tiempo de conmutación 14 SEC.
+Secondary power supply to all lighting at AD. Switch-over time: 14
+SEC.
+5 Observaciones
+  Remarks NIL
+MUCF AD 2.16 ÁREA DE ATERRIZAJE DE HELICÓPTEROS
+MUCF AD 2.16 HELICOPTER LANDING AREA
+No se aplica / Not applicable
+MUCF AD 2.17 ESPACIO AÉREO ATS
+MUCF AD 2.17 ATS AIRSPACE
+Designación y
+límites laterales
+Límites
+verticales
+Clasificación
+del espacio
+aéreo
+Distintivo de
+llamada de la
+dependencia
+ATS Idioma (s)
+Altitud de
+transición
+Horas de
+aplicabilidad
+Observaciones
+Designation
+and lateral limits
+Vertical limits Airspace
+classification
+ATS unit
+call sign
+Language(s)
+Transition
+altitude
+Hours of
+applicability
+Remarks
+1 2 3 4 5 6 7
+CTR
+Circulo centrado
+en / Circular
+area centered on
+220900N 0802451W
+(ARP MUCF) en un
+radio de / withing a
+radius 10 NM.
+  FL055  
+  GND  
+D Terminal
+Santa Clara
+Santa Clara
+Terminal
+Español, Inglés
+Spanish,
+English
+3000 FT
+AMSL
+1300/2130
+UTC DLY.
+Horario de
+Verano/
+Summer time:
+1200/2030
+UTC DLY.
+NIL
+ATZ
+Circulo centrado
+en / Circular
+area centered on
+220900N 0802451W
+(ARP MUCF) en un
+radio de / withing a
+radius 3 NM.
+  1500
+FT AGL
+ 
+  GND  
+D Cienfuegos
+TWR
+Inglés, Español
+English,
+Spanish
+3000 FT
+AMSL
+1300/2130
+UTC DLY.
+Horario de
+Verano/
+Summer time:
+1200/2030
+UTC DLY.
+NIL
+MUCF AD 2.18 INSTALACIONES DE COMUNICACIONES ATS
+MUCF AD 2.18 ATS COMMUNICATION FACILITIES
+
+=== Page 10 ===
+AD 2 MUCF 1 - 10
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+Designación
+del servicio
+Distintivo de llamada Frecuencia SATVOICE Dirección
+de
+conexión
+Horas de
+funcionamiento
+Observaciones
+Service
+designation
+Callsign Frequency SATVOICE Logon
+address
+Hours of operation Remarks
+1 2 3 4 5 6 7
+119.100 MHZ 1400/2000 UTCAPP Terminal Santa Clara
+133.700 MHZ
+NIL NIL
+2001/1359 UTC
+NIL
+118.900 MHZ 1300/2130 UTC
+DLY. Horario de
+Verano/Summer
+Time: 1200/2030
+UTC DLY.
+TWR Cienfuegos TWR
+121.500 MHZ
+NIL NIL
+1300/2130 UTC
+DLY. Horario de
+Verano/Summer
+Time: 1200/2030
+UTC DLY
+Fuera de estas
+horas / Out of
+these hours O/
+R 24 HR BFR
+118.90 MHZ
+Para emergencia
+solamente/For
+emergency only
+121.50 MHZ
+A/G MUCF Radio Boyeros 126.900 MHZ NIL NIL H24 NIL
+MUCF AD 2.19 RADIOAYUDAS PARA LA NAVEGACIÓN Y EL ATERRIZAJE
+MUCF AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo de ayuda
+MAG VAR
+Tipo de
+ILS/MLS
+ID Frecuencia Horas de
+funcionamiento
+Coordenadas
+del
+emplazamiento
+de la antena
+transmisora
+Elevación
+de la antena
+transmisora
+del DME
+Servicio
+volume
+radio
+de GBAS
+referencia
+Punto
+Observ.
+Type of aid
+MAG VAR
+CAT of
+ILS/MLS
+ID Frequency Hours of
+operation
+Site of
+transmitting
+antenna
+coordinates
+Elevation
+of DME
+transmitting
+antenna
+Service
+volume
+radius
+from GBAS
+reference
+Point
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+MUCF AD 2.20 REGLAMENTO LOCAL DEL AERODROMO
+MUCF AD 2.20 LOCAL AERODROME REGULATIONS
+Aeródromo cerrado para aeronaves NORDO. Aerodrome closed for NORDO aircraft.
+MUCF AD 2.21 PROCEDIMIENTOS DE ATENUACION DEL RUIDO
+MUCF AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL NIL
+MUCF AD 2.22 PROCEDIMIENTOS DE VUELO
+MUCF AD 2.22 FLIGHT PROCEDURES
+Circuito de tránsito izquierdo, a menos que el ATC indique
+otro.
+Left traffic circuit, unless the ATC indicates another one.
+Tiempo estimado de arribo: Estimated time of arrival:
+
+=== Page 11 ===
+AIP-CUBA AD 2 MUCF 1 - 11
+11 DEC 2024
+AIS-CUBA AMDT 106-24
+Todas las Aeronaves con no más de 40 minutos y no
+menos de 20 minutos antes del arribo deben informar a
+la Estación Aeronáutica de Radio Boyeros a través de la
+frecuencia de 126.900 MHz la hora prevista de llegada
+(ETA), cantidad de pasajeros, carga, correo o alguna otra
+información adicional necesaria para el servicio a prestar
+en Rampa.
+All Aircraft with not more than 40 minutes and not
+less than 20 minutes before the arrival should inform
+to the Aeronautical Station of Radio Boyeros through
+the frequency 126.900 MHz the estimated time of arrival
+(ETA), quantity of passengers, loads, mail or some other
+necessary additional information for the service to lend in
+Apron.
+Después de comunicar la hora prevista de llegada (ETA)
+a dicha estación aeronáutica, cada aeronave (procediendo
+VFR o IFR) recibirá del radioperador la rampa y posición
+de estacionamiento asignada por el Departamento de
+Control de Rampas pertenecientes a la Subdirección de
+Operaciones en Tierra.
+After communicating the estimated time of arrival (ETA)
+to this aeronautical station, each aircraft (proceeding VFR
+or IFR) will receive from the radioperator the apron
+and parking position assigned by the Aprons Control
+Department belonging to the Assistant Director of Ground
+Operations.
+Los cambios que surjan de ultima hora les serán
+informados a la tripulación posterior a su aterrizaje en
+118.900 MHz por la Torre de Control.
+Changes which arise lately will be informed to the crew
+members after their landing in 118.900 MHz by the Control
+Tower.
+MUCF AD 2.23 INFORMACION ADICIONAL
+MUCF AD 2.23 ADDITIONAL INFORMATION
+Concentraciones de aves en las
+proximidades del aeropuerto
+Bird concentration in the vicinity of the airport
+No disponible. Not available.
+Aviso de inspección rutinaria de aeronavegabilidad
+por parte de la Autoridad Aeronáutica.
+Warning of routine airworthiness inspection
+on behalf of the Aeronautical Authority.
+En cumplimiento con el manual OACI-Manual de Vigilancia
+de la Seguridad Operacional - Capítulo 2, se comunica a
+los operadores nacionales y extranjeros de la realización
+de inspecciones rutinarias de aeronavegabilidad por parte
+de la Autoridad Aeronáutica. Se exceptúan aeronaves en
+vuelos de Estado
+In accomplishment with the ICAO-Manual of Surveillance
+of the Operational Safety - Chapter 2, national and
+foreign operators are communicated about the realization
+of routine airworthiness inspections on behalf of the
+Aeronautical Authority. Aircrafts in State flights are
+excluded.
+COORDENADAS DE LOS PUNTOS DE RECORRIDO / WAYPOINTS COORDINATES AD MUCF
+Punto de recorrido/
+Waypoint name
+Latitud (N) Longitud (W) Propósito / Purpose
+BOSON
+ 22º06’13.98’’N
+ 080º03’31.08’’W
+ SID RWY02, SID RWY20
+BUBOR
+ 21º54’42.90’’N
+ 080º12’27.27’’W
+ STAR RWY02
+CF410 21º57’30.11’’N 080º34’41.21’’W RNP RWY02, STAR RWY02
+CF411 21º54’23.76’’N 080º23’01.44’’W RNP RWY02, STAR RWY02
+CF412 22º02’45.33’’N 080º26’46.25’’W RNP RWY02
+CF415 22º17’16.97’’N 080º37’09.30’’W RNP RWY02, RNP RWY20
+CF420 22º21’41.68’’N 080º27’41.25’’W RNP RWY20
+CF421 22º18’22.89’’N 080º15’14.61’’W RNP RWY20
+CF422 22º15’12.97’’N 080º22’56.84’’W RNP RWY20
+COCOC 21º57’55.85’’N 080º28’14.90’’W RNP RWY02, STAR RWY02
+CORSA 22º20’02.41’’N 080º21’27.86’’W RNP RWY20, STAR RWY20
+IMUXO
+ 21º41’37.15’’N
+ 081º02’26.86’’W
+ SID RWY20
+RIBUM 22º30’18.28’’N 080º39’10.60’’W SID RWY 02, STAR RWY20
+SEBIR 21º47’45.06’’N 080º31’21.26’’W STAR RWY02
+SEGOL 22º28’10.34’’N 080º18’57.90’’W STAR RWY20, SID RWY 02
+
+=== Page 12 ===
+AD 2 MUCF 1 - 12
+11 DEC 2024
+AIP-CUBA
+AMDT 106-24 AIS-CUBA
+Punto de recorrido/
+Waypoint name
+Latitud (N) Longitud (W) Propósito / Purpose
+URKON 22º06’53.67’’N 080º45’32.80’’W STAR RWY02
+VITAK 22º18’08.73’’N 080º44’02.78’’W SID RWY 20
+MUCF AD 2.24 CARTAS RELATIVAS AL AERODROMO
+MUCF AD 2.24 CHARTS RELATED TO AN AERODROME
+Charts Pages
+AD2 MUCF ADC.pdf AD 2 MUCF 2 - 1
+AD2 MUCF APDC.pdf AD 2 MUCF 3 - 1
+AD2 MUCF AOC.pdf AD 2 MUCF 4 - 1
+AD2 SID MUCF RWY02.pdf AD 2 MUCF 5 - 1
+AD2 SID MUCF RWY20.pdf AD 2 MUCF 5 - 5
+AD2 STAR MUCF RWY02.pdf AD 2 MUCF 6 - 1
+AD2 STAR MUCF RWY20.pdf AD 2 MUCF 6 - 5
+AD2 MUCF RNP RWY02.pdf AD 2 MUCF 7 - 1
+AD2 MUCF RNP RWY20.pdf AD 2 MUCF 7 - 5
+AD2 MUCF VAC.pdf AD 2 MUCF 9 - 1
+MUCF AD 2.25 PENETRACIÓN DE LA SUPERFICIE DEL SEGMENTO VISUAL (VSS)
+MUCF AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+No se aplica / Not applicable
+
+=== Page 13 ===
+PLANO DE
+AERODROMO - OACI /
+AERODROME CHART - ICAO
+CIENFUEGOS / Jaime González Intl22º09’00’’N
+080º24’51’’W
+ELEV 31 TWR 118.900
+A
+THR
+ESCALA / SCALE
+1:10 000
+0100 100 200 300 400 m
+SWY
+30 x 45
+ELEV
+30
+ESTACIONAMIENTO /
+CAR PARK
+TERMINAL
+ADUANA / CUST
+SWY
+30 x 45
+TWR
+2400 x 45 ASFALTO / ASPHALT
+FRANJA / STRIP 2580 x 150
+A
+ARP
+02
+20
+PLATAFORMA /
+APRON
+1
+ELEV
+31
+0202
+2020
+VAR 7º W - 2020REGIMEN V
+ARIACION
+ANUAL /ANUAL RATEOF CHANGE 0
+’W7
+PLATAFORMA /
+APRON
+2
+WDI
+ESCALA / SCALE
+1:20 000
+0200 200 400 600 800 m
+SEÑALES Y AYUDAS LUMINOSAS RWY 02/20 Y CALLES DE RODAJE DE SALIDA / MARKING AND LIGHTING RWY 02/20 AND EXIT TAXIWAYSAIDS
+PAPI 3º
+METH 18.74
+-20
+-20
+RESISTENCIA CALLES DE RODAJE  /
+BEARING STRENGTH:TAXIWAYS
+TWY A: PCN / /W/ .93 R C T
+B 93 R C T.TWY : PCN / /W/
+C 93 R C T.TWY : PCN / /W/
+RWY DIRECCION
+DIRECTION
+DIMENSIONES /
+DIMENSIONS
+RWY
+GUND RESISTENCIA
+STRENGTH
+80 x 45
+2320 x 45
+PCN- F/ / /108 C W T
+PCN- R/ /W/113 B T
+2º03
+CALLE DE RODAJE A ANCHO /
+TAXIWAYS A WIDE 23
+22º09’36.98’’N
+080º24’40.00’’W
+22º08’21.94’’N
+080º25’03.03’’W
+20
+0º2302
+CONC/ASPH
+23 0 x 45 2
+PCN- F/ / /108 C W T
+PCN- R/ /W/113 B T
+CONC/ASPH
+80 x 45
+ELEV Y DIMENSIONES EN M/ AND / IN
+MAG BRG
+C
+B
+CALLES DE RODAJE B Y C ANCHO /
+TAXIWAYS B AND C WIDE 15
+RESISTENCIA APN 1 /
+APN 1 BEARING STRENGTH: 103 R B WPCN / / /T
+RESISTENCIA APN 2 /
+APN BEARING STRENGTH2 : 118 R C W PCN / / /T
+PCN / /W/T 7 F C
+PAPI 3º
+METH 18.74
+AIP-CUBA AD 2 MUCF 2 - 1
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 15 ===
+PLANO DE ESTACIONAMIENTO Y ATRAQUE DE AERONAVES - OACI /
+AIRCRAFT PARKING / DOCKING  CHART - ICAO
+ELEV
+APN
+NIL
+CIENFUEGOS / Jaime González IntlTWR  1
+18.900
+ESCALA / SCALE
+1:10 000
+0100 100 200 300 400 m
+LIMITE DEL SERVICIO ATC /
+ATC SERVICE BOUNDARY
+LEYENDA / LEGEND
+1
+RESISTENCIA CALLES DE RODAJE  /
+BEARING STRENGTH:TAXIWAYS
+TWY A: PCN / /W/ .93 R C T
+B 93 R C T.TWY : PCN / /W/
+C 93 R C T.TWY : PCN / /W/
+RESISTENCIA APN 1 /
+APN 1 BEARING STRENGTH: 103 R B WPCN / / /T
+RESISTENCIA APN 2 /
+APN BEARING STRENGTH2 : 118 R C W PCN / / /T
+PCN / /W/T 7 F C
+CALLE DE RODAJE A ANCHO /
+TAXIWAYS A WIDE 23
+CALLES DE RODAJE B Y C ANCHO /
+TAXIWAYS B AND C WIDE 15
+PAPI 3º
+METH 18.74
+ESTACIONAMIENTO /
+CAR PARK
+TERMINAL
+ADUANA / CUST
+TWR
+A
+20
+PLATAFORMA /
+APRON
+1
+PLATAFORMA /
+APRON
+2
+WDI
+THR 02 RWY 02 / 20
+1
+B
+COORDENADAS INS DE PUESTOS
+DE ESTACIONAMIENTO DE AERONAVES /
+INS COORDINATES FOR AIRCRAFT STANDS
+PLATAFORMA / APRON
+1      22º09’28.63’’N  080º24’36.89’’W
+PUESTOS ESTACIONAMIENTO
+AERONAVES / AIRCRAFT STAND
+LUCES CALLES DE RODAJE /
+TAXIWAY LIGHT
+RODAJE - PUNTO DE ESPERA /
+TAXI - HOLDING POSITION
+VAR 7º W - 2020
+REGIMEN VARIACION
+ANUAL /
+ANUAL RATE
+OF CHANGE 07’ W
+C
+AIP-CUBA AD 2 MUCF 3 - 1
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 17 ===
+2400 x 45 ASFALTO / ASPHALT
+FRANJA / STRIP 2580 x 150
+27.2
+30
+34.8
+20203º
+02
+023º
+ESCALA HORIZONTAL / HORIZONTAL SCALE
+0 500 1000 1500 2000
+1000 2000 3000 4000 5000 60000
+1:15000
+METROS / METER
+PIES / FEET
+100 200
+500
+2500300400
+1000 7000 8000
+DISTANCIAS DECLARADAS/
+DECLARED DISTANCES
+RWY 02
+2400
+2400
+2430
+2400
+RWY 20
+2400
+2400
+2430
+2400
+RECORRIDO DE DESPEGUE DISPONIBLE /
+TAKE-OFF RUN AVAILABLE
+DISTANCIA DE DESPEGUE DISPONIBLE /
+TAKE-OFF DISTANCE AVAILABLE
+DISTANCIA DE ACELERACION - PARADA DISPONIBLE /
+ACCELERATE STOP DISTANCE AVAILABLE
+DISTANCIA DE ATERRIZAJE DISPONIBLE /
+LANDING DISTANCE AVAILABLE
+Árbol o arbusto / Tree or shrub
+Poste, torre, aguja, antena, etc. / Pole, tower, spire,
+antenna, etc.
+Edificio o estructura grande / Building or large structure
+Carreteras / Roads
+Línea de alta tensión o cables suspendidos /
+Transmission line or overhead cable
+Cota de terreno / Ground level
+Talud / Slope
+PLANTA /
+PLAN
+PERFIL /
+PROFILE
+3
+T
+T
+LEYENDA / LEGEND
+VARIACION MAGNETICA /
+MAGNETIC VARIATION
+7ºW (2020)
+0
+25
+50
+75
+100
+0
+50
+100
+150
+200
+250
+300
+METROS / METER
+PIES / FEET
+ESCALA VERTICAL / VERTICAL SCALE
+1:1 500
+Zona de parada / Stopway
+Curva de nivel / Level curve
+Puente / Bridge
+ORDEN DE PRECISION / ORDER OF ACCURACY
+HORIZONTAL 0.05m
+VERTICAL 0.10m
+34.8 30
+CARTÓGRAFO AERONÁUTICO /
+AERONAUTICAL CARTOGRAPHER05 NOV 20AIRAC 3 - 20
+REGISTRO DE ENMIENDAS /
+AMENDMENT RECORD
+No. FECHA/
+DATE
+ANOTADA POR /
+ENTERED BY
+18 MAY 23AIRAC 2 - 23 CARTÓGRAFO AERONÁUTICO /
+AERONAUTICAL CARTOGRAPHER
+CIENFUEGOS / JAIME GONZALEZ INTLPLANO DE OBST
+ACULOS DE AERODROMO - OACI TIPO A / AERODROME OBSTACLE CHART - ICAO TYPE A
+RWY 02/20
+AMDT 103-24
+(Nuevo formato eAIP /
+New format eAIP)
+37.9
+42.1 3 45.14
+11
+42.3
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+SWY
+30 X 45
+SWY
+30 X 45
+26.4
+12
+7
+68.8
+10
+60.5
+9
+8
+6
+511
+2700 2400
+PENDIENTE /SLOPE 1.2 %
+1
+30.0
+30
+60
+90
+0 2400 2700 3000 3300
+30
+60
+90
+PENDIENTE /SLOPE 1.2 %
+3
+4 5
+031.0
+6
+7
+8
+10
+9
+11
+12
+3600
+00
+2
+1
+2 40.6
+56.2
+56.4
+56.4
+60.7
+61.2
+61.4
+BRG MAGELEV EN
+Y / AND DIMENSIONES / DIMENSIONS / IN M
+AIP-CUBA AD 2 MUCF 4 - 1
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 19 ===
+"TZ
+!
+UKULO
+DF
+660330
+2300
+1310
+330
+660
+2300
+660
+MU P3
+FL045
+GND
+VOR/DME
+UVA
+AD MUCF
+AD MUSC
+HUZAR
+1890
+2208
+2359
+3737
+1870
+RIBUM
+XOPLI
+DUTAN
+""ì"" ß87.9
+""ì"" ß42.5
+""ì""
+ß
+54.2
+283°
+312°
+288°
+" "ì""
+ß
+98.2
+" "ì""ß
+54.2
+DF
+RIBUM1A
+CA
+BOSON1A
+DF
+1500 
+SEGOL1
+TANIA
+ZEUSS
+IKBIX
+"
+"ì
+""
+ß
+104.6 "
+"ì
+""
+ß103.0
+"
+"ì
+""ß
+124.2
+032°338°
+049°
+132°
+111°
+SEGOL
+BOSON
+023°
+330
+2620
+660
+660
+980
+1970
+330
+330
+980
+660
+1970
+660
+660
+980
+660 660
+2620
+MUP2
+FL240
+MSL
+MUR17
+FL260
+GND/MSL
+MUR18
+FL100
+GND/MSL
+MUR3
+FL80
+MSL
+80°0'W
+80°0'W
+81°0'W
+81°0'W
+23°0'N 23°0'N
+22°0'N 22°0'N
+CARTA DE SALIDA NORMALIZADA - VUELO POR INSTRUMENTOS (SID) - OACI / 
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO
+CIENFUEGOS / Jaime González Intl
+RNAV CCO RWY02
+TWR 118.90
+  APP 119.10
+ 133.70BOSON1A,
+RIBUM1A, SEGOL1
+Especificación de NAV/
+NAV Specification: RNAV-1
+HDG MAG
+ALT, ELEV Y / AND 
+HGT EN / IN FT
+DIST EN / IN NM
+ESCALA / SCALE 1:750 000
+0 3.5 7 10.5 14 17.5 211.75
+NM
+0 8 16 24 32 40 484
+KM
+24
+45
+26 14
+39
+14
+47
+Dentro de los 5 MIN AFT TKOF, si considera no conveniente terminar el FLT, active SSR 
+7600, CONT en SID y/o RTE asignada, ascienda a FL160 o FL REQ en FPL, el que sea
+menor. 10 MIN AFT TKOF, ascienda a FL REQ en FPL si es superior  a FL160, excepto 
+ACFT sobrevolando IKBIX, ZEUS o TANIA que ascenderán sólo hasta FL280. / Within 
+5 MIN AFT TKOF, and if it is not convenient  to finish the FLT, active SSR 7600, CONT
+ on assigned SID and/or RTE, climb to FL160 or the REQ FL in FPL, whichever is lower. 
+10 MIN AFT TKOF climb to the  REQ FL in FPL if it is higher than FL160, except ACFT
+ overflying IKBIX, ZEUSS or TANIA climb only to FL280.
+FALLA DE COM / COM FAILURE:
+1.- SI MU R17 ACT NO UTILIZAR TRANSICIÓN IKBIX / 
+     IF MU R17 ACT DO NOT USE IKBIX TRANSITION.
+2.- SI MU R18 ACT NO UTILIZAR TRANSICIÓN ZEUSS / 
+  IF MU R18 ACT DO NOT USE ZEUSS TRANSITION.
+NOTAS / REMARKS:
+2020
+VAR 7°W
+H
+TA 3000 FT
+15
+33
+090°
+180°
+5700
+2900
+ARP
+22°09'00"N
+080°24'51"W
+MSA
+25 NM
+AIP-CUBA AD 2 MUCF 5 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 21 ===
+SALIDA  BOSON1A  (
+RWY 02)  BOSON1A DEPARTURE  (RWY 02)
+$VFLHQGDHQGHUURWDKDVWD)7YLUHDODGHUHFKD
+GLUHFWRD%2621\FRQWLQ~HSRUWUDQVLFLyQDVLJQDGD
+&OLPERQWUDFNWR)7WXUQULJKWGLUHFWWR%2621
+DQGFRQWLQXHE\DVVLJQHGWUDQVLWLRQ
+75$16,&,21(6
++8=$5'HVGH%2621SURFHGDHQGHUURWDKDVWD
++8=$5
+8.8/2'HVGH%2621SURFHGDHQGHUURWDKDVWD
+8.8/2
+75$16,7,216
++8=$5 )URP  %2621  SURFHHG   RQ   WUDFN WR
++8=$5
+8.8/2 )URP  %2621  SURFHHG   RQ  WUDFN WR
+8.8/2
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+BOSON1A SID RWY02 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor
+Identificador
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+ ( °)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ &$  
+    #   51$9
+ ') %2621     5  51$9
+SALIDA RIBUM1A  (RWY 02) RIBUM1A DEPARTURE  (RWY 02)
+$VFLHQGD HQ GHUURWD   KDVWD  )7 YLUH D OD
+L]TXLHUGD GLUHFWR D 5,%80 \ FRQWLQ~H SRU WUDQVLFLyQ
+DVLJQDGD
+&OLPERQWUDFNWR)7WXUQOHIWGLUHFWWR5,%80
+DQGFRQWLQXHE\DVVLJQHGWUDQVLWLRQ
+75$16,&,21(6
+'87$1 'HVGH 5,%80 SURFHGD HQ GHUURWD  KDVWD
+'87$1
+9$5'(5'HVGH5,%80SURFHGDHQGHUURWDKDVWD
+92589$
+;23/, 'HVGH 5,%80 SURFHGD HQ GHUURWD  KDVWD
+;23/,
+75$16,7,216
+'87$1)URP5,%80SURFHHGRQWUDFNWR
+'87$1
+9$5'(5)URP5,%80SURFHHGRQWUDFNWR89$
+925
+;23/,)URP5,%80SURFHHGRQWUDFNWR;23/,
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+RIBUM1A SID RWY02 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor
+Identificador
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+ ( °)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ &$  
+    #  51$9
+ ') 5,%80     /  51$9
+AIP-CUBA AD 2 MUCF 5 - 3
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 22 ===
+SALIDA SEGOL1  (R
+WY 02) SEGOL1 DEPARTURE  (RWY 02)
+$VFLHQGDHQGHUURWDKDVWD)7SURFHGDGLUHFWRD
+6(*2/\FRQWLQ~HSRUWUDQVLFLyQDVLJQDGD
+&OLPERQWUDFNWR)7SURFHHGGLUHFWWR6(*2/
+DQGFRQWLQXHE\DVVLJQHGWUDQVLWLRQ
+75$16,&,21(6
+,.%,; 'HVGH 6(*2/ SURFHGD HQ GHUURWD  KDVWD
+,.%,;
+7$1,$ 'HVGH 6(*2/ SURFHGD HQ GHUURWD  KDVWD
+7$1,$
+=(866'HVGH6(*2/SURFHGDHQGHUURWDKDVWD
+=(866
+75$16,7,216
+,.%,;)URP6(*2/SURFHHGRQWUDFNWR
+,.%,;
+7$1,$)URP6(*2/SURFHHGRQWUDFNWR
+7$1,$
+=(866 )URP   6(*2/  SURFHHG  RQ   WUDFN WR
+=(866
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+SEGOL1 SID RWY02 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor
+Identificador
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+ ( °)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ &$  
+    #  51$9
+ ') 6(*2/        51$9
+AD 2 MUCF 5 - 4
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 23 ===
+DF
+BOSON
+AD MUTD
+AD MUCF
+AD MUSC
+VOR/DME
+UVA
+VOR/DME
+UCL
+VOR/DME
+UCJ 
+330
+330
+330
+330
+660
+660
+660
+660
+980
+980 980
+980
+980
+1310
+1310
+1310
+1970
+1970
+2620
+TANIA
+ZEUSS
+UKULO
+HUZAR
+111°
+132°
+084°
+021°
+038°
+203°
+CA
+BOSON5
+2000 
+IMUXO
+DF
+IMUXO4
+266°
+""ì"" ß28.0
+VITAK
+XOPLI
+IKBIX
+306°
+324°
+352°
+"
+"ì
+""
+ß
+105.2
+""ì"" ß
+42.5
+"
+"ì""
+ß
+58.8
+DF
+VITAK4
+3550
+2398 2195 2221
+2395
+3737
+1870
+696
+(594)
+325
+(223)
+" "ì""ß
+54.2
+" "ì""
+ß
+98.2
+" "ì""ß
+99.6
+"
+"ì
+""
+ß118.9 "
+"ì
+""
+ß
+133.2
+MUP2
+FL240
+MSL
+MUR18
+FL100
+GND/MSL
+MUR3
+FL80
+MSL
+MU P3
+FL045
+GND
+80°0'W
+80°0'W
+81°0'W
+81°0'W
+22°0'N 22°0'N
+CARTA DE SALIDA NORMALIZADA - VUELO POR INSTRUMENTOS (SID) - OACI / 
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO
+CIENFUEGOS / Jaime González Intl
+RNAV CCO RWY 20
+TWR 118.90
+APP  119.10
+  133.70BOSON5, 
+IMUXO4, VITAK4
+Especificación de NAV/
+NAV Specification: RNAV-1
+HDG MAG
+ALT, ELEV Y / AND 
+HGT EN / IN FT
+DIST EN / IN NM
+TA 3000 FT
+2020
+VAR 7°W
+H
+5114 45
+24
+47
+39
+ESCALA / SCALE 1:750 000
+0 4 8 12 16 20 242
+NM
+0 8 16 24 32 40 484
+KM
+1.- SI MU R3 ACT NO UTILIZAR SID IMUXO4 / IF MU R3 ACT DO NOT USE SID IMUXO4 TRANSITION.
+2.- SI MU R18 ACT NO UTILIZAR TRANSICIONES ZEUSS Y TANIA / IF MU R18 ACT DO NOT USE 
+ZEUSS AND TANIA TRANSITIONS.
+NOTAS / REMARKS:
+Dentro de los 5 MIN AFT TKOF, si considera no conveniente terminar el FLT, active 
+SSR 7600, CONT en SID y/o RTE asignada, ascienda a FL160 o FL REQ en FPL, 
+el que sea menor. 10 MIN AFT TKOF, ascienda a FL REQ en FPL si es superior a 
+FL160, excepto ACFT sobrevolando IKBIX, ZEUS o TANIA que ascenderán sólo hasta 
+FL280. / Within 5 MIN AFT TKOF, and if it is not convenient to finish the FLT, active 
+SSR 7600, CONT on assigned SID and/or RTE, climb to FL160 or the REQ FL in FPL,
+whichever is lower. 10 MIN AFT TKOF climb to the  REQ FL in FPL if it is higher 
+than FL160, except ACFT overflying IKBIX, ZEUSS or TANIA climb only to FL280.
+FALLA DE COM / COM FAILURE:
+090°
+180°
+5700
+2900
+ARP
+22°09'00"N
+080°24'51"W
+MSA
+25 NM
+AIP-CUBA AD 2 MUCF 5 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 25 ===
+SALIDA BOSON5 (RWY 20)  BOSON5 DEPARTURE  (RWY 20)
+$VFLHQGDHQGHUURWDD)7YLUHDODL]TXLHUGD
+GLUHFWRD%2621\FRQWLQ~HSRUWUDQVLFLyQDVLJQDGD
+&OLPERQWUDFNDW)7WXUQOHIWGLUHFWWR%2621
+DQGFRQWLQXHE\DVVLJQHGWUDQVLWLRQ
+75$16,&,21(6
++8=$5'HVGH%2621SURFHGDHQGHUURWDKDVWD
++8=$5
+-$5',1(6'(/5(<'HVGH%2621SURFHGDHQ
+GHUURWDKDVWD9258&-
+7$1,$ 'HVGH %2621 SURFHGD HQ GHUURWD  KDVWD
+7$1,$
+8.8/2'HVGH%2621SURFHGDHQGHUURWDKDVWD
+8.8/2
+=(866'HVGH%2621SURFHGDHQGHUURWDKDVWD
+=(866
+75$16,7,216
++8=$5  )URP  %2621  SURFHHG  RQ  WUDFN WR
++8=$5
+-$5',1(6 '(/ 5(< )URP %2621 SURFHHG RQ 
+WUDFNWR8&-925
+7$1,$)URP%2621SURFHHGRQWUDFNWR
+7$1,$
+8.8/2 )URP  %2621  SURFHHG  RQ   WUDFN WR
+8.8/2
+=(866 )URP %2621 SURFHHGRQ  WUDFN WR
+=(866
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+BOSON5 SID RWY20 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+ (°)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ &$   
+    #    51$9
+ ') %2621     /     51$9
+SALIDA  IMUXO4 (RWY 20) IMUXO4 DEPARTURE (RWY 20)
+$VFLHQGDHQGHUURWDD)7YLUHDODGHUHFKD
+GLUHFWRD,08;2\FRQWLQ~HSRUWUDQVLFLyQDVLJQDGD
+&OLPERQWUDFNDW)7WXUQULJKWGLUHFWWR
+,08;2DQGFRQWLQXHE\DVVLJQHGWUDQVLWLRQ
+75$16,&,Ï1
+&$<2/$5*2'HVGH,08;2SURFHGDHQGHUURWD
+KDVWD9258&/
+75$16,7,21
+&$<2/$5*2)URP,08;2SURFHHGRQWUDFNWR
+8&/925
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE.
+IMUXO4 SID RWY 20   
+Número 
+de Serie/
+Serial 
+Number  
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation
+ (°) 
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ &$   
+    #    51$9
+ ') ,08;2     5     51$9
+AIP-CUBA AD 2 MUCF 5 - 7
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 26 ===
+SALIDA  VITAK4  (RWY 20) VITAK4   DEPARTURE  (RWY 20)
+$VFLHQGDHQGHUURWDD)7YLUHDODGHUHFKD
+GLUHFWRD9,7$.\FRQWLQ~HSRUWUDQVLFLyQDVLJQDGD
+&OLPERQWUDFNDW)7WXUQULJKWGLUHFWWR9,7$.
+DQGFRQWLQXHE\DVVLJQHGWUDQVLWLRQ
+75$16,&,21(6
+,.%,;'HVGH9,7$.SURFHGDHQGHUURWDKDVWD
+,.%,;
+9$5'(5'HVGH9,7$.SURFHGDHQGHUURWDKDVWD
+92589$
+;23/, 'HVGH 9,7$. SURFHGD HQ GHUURWD  KDVWD
+;23/,
+75$16,7,216
+,.%,;)URP9,7$.SURFHHGRQWUDFNWR
+,.%,;
+9$5'(5)URP9,7$.SURFHHGRQWUDFNWR89$
+925
+;23/,)URP9,7$.SURFHHGRQWUDFNWR
+;23/,
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+VITAK4 SID RWY20 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+ (°)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ &$   
+    #    51$9
+ ') 9,7$.     5     51$9
+AD 2 MUCF 5 - 8
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 27 ===
+&
+&
+&&
+&
+& &
+&
+&
+BBBB!A
+BBBB!A
+BBBB!A
+BBBB!A
+#B
+#B
+BBBB!A
+"TZ
+!
+!!B
+BBBB!A
+#B
+#B
+#B #B"
+TZ
+!
+!
+!
+!
+!
+!
+1970
+FL MNM040
+1 MIN
+FL MNM
+050
+1 MIN
+FL MNM
+0401 MIN
+!
+AD MUTD
+AD MUCF
+AD MUSC
+URKON
+XOPLI
+ALVEK TANIA
+IAF
+CF411
+BUBOR
+IAF/IF
+COCOC
+IAF
+CF410
+UKULO
+HUZAR
+VOR/DME
+UVA
+VOR/DME
+UCL
+BUBOR4
+303°
+278°275° 275°
+095°
+SEBIR4
+085°
+023°
+203°
+342°
+023°
+URKON4
+319°
+139°
+139°
+174°
+217°
+151°139°
+MOCA 1100
+MOCA 1600
+MOCA 1400
+MOCA 2100MOCA 1100
+MOCA 1000
+MOCA 1000
+MOCA 1000
+MOCA 2300 MOCA 4400
+MOCA 3700
+""ì"" ß9.8
+4.3 NM
+""ì"" ß60.9
+""ì"" ß
+99.4
+"
+"ì
+""
+ß10.6
+4.2 NM
+"
+"ì
+""
+ß
+118.3
+" "ì""ß
+57.6
+4.2 NM
+""ì""
+ß
+13.8
+"
+"ì
+""
+ß55.4 "
+"ì
+""
+ß
+133.3
+"
+"ì
+""
+ß66.7
+""ì""
+ß
+47.9
+330
+330
+330
+330
+660
+660
+660
+660
+660
+660
+660
+980
+980 980
+980
+980
+1310
+1310
+1310
+1310
+1970
+19702620
+SEBIR
+KATAL
+1870
+3737
+3324
+3084
+1460
+3280
+TF
+TF
+TFMU P2
+FL240
+MSL
+MU R3
+FL080
+MSL
+MU P3
+FL045
+GND
+80°0'W
+80°0'W
+81°0'W
+81°0'W
+22°0'N 22°0'N
+CARTA DE LLEGADA NORMALIZADA - VUELO POR INSTRUMENTOS (STAR) - OACI / 
+STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO
+CIENFUEGOS / Jaime González Intl
+RNAV CDO RWY 02 TWR 118.90
+APP  119.10
+  133.70BUBOR4, SEBIR4, URKON4
+Especificación de NAV/
+NAV Specification: RNAV-1
+HDG MAG
+ALT, ELEV Y / AND 
+HGT EN / IN FT
+DIST EN / IN NM
+47
+39
+TA 3000 FT
+2020
+VAR 7°W
+H
+&
+&>
+270°
+360°5700
+2900
+ARP
+22°09'00"N
+080°24'51"W
+MSA
+25 NM
+Active SSR 7600 y proceda según ANEXO 2 y Doc. 4444 de la OACI / 
+Active SSR 7600 and proceed according ICAO Annex 2 and Doc. 4444.
+FALLA DE COM / COM FAILURE:
+ESCALA / SCALE 1:750 000
+0 4 8 12 16 20 242
+NM
+0 8 16 24 32 40 484
+KM
+51
+45
+24
+14
+AIP-CUBA AD 2 MUCF 6 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 29 ===
+LLEGADA BUBOR4  (RWY 02) BUBOR4  ARRIVAL  (RWY 02)
+'HVGH%8%25SURFHGDHQGHUURWDKDVWD&)D
+)/RVXSHULRU
+)URP%8%25SURFHHGRQWUDFNWR&)DW)/RU
+DERYH
+75$16,&,21(6
++8=$5'HVGH+8=$5SURFHGDHQGHUURWDKDVWD
+%8%25
+8.8/2'HVGH8.8/2SURFHGDHQGHUURWDKDVWD
+%8%25
+75$16,7,216
++8=$5  )URP   +8=$5  SURFHHG RQ  WUDFN WR
+%8%25
+8.8/2  )URP  8.8/2  SURFHHG  RQ  WUDFN WR
+%8%25
+TABLA DE CODIFICACIÓN DE LA LLEGADA RNAV CDO  / CDO RNAV  ARRIVAL  CODING TABLE.
+BUBOR4 STAR RWY 02 
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de
+Trayectoria/
+Path 
+Descriptor 
+Identificador
+ del punto 
+de recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 02 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FL)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) %8%25          51$9
+ 7) &)  
+     )/   51$9
+LLEGADA SEBIR4 (RWY 02) SEBIR4  ARRIVAL (RWY 02)
+'HVGH6(%,5SURFHGDHQGHUURWDKDVWD&2&2&D
+)7
+)URP6(%,5SURFHHGRQWUDFNWR&2&2&DW
+)7
+75$16,&,21(6
+&$<2/$5*2'HVGH9258&/SURFHGDHQGHUURWD
+KDVWD6(%,5
+.$7$/'HVGH.$7$/SURFHGDHQGHUURWDKDVWD
+6(%,5
+75$16,7,216
+&$<2/$5*2)URP8&/925SURFHHGRQWUDFNWR
+6(%,5
+.$7$/)URP.$7$/SURFHHGRQWUDFNWR6(%,5
+TABLA DE CODIFICACIÓN DE LA LLEGADA RNAV CDO  / CDO RNAV  ARRIVAL  CODING TABLE.
+SEBIR4 STAR RWY 02 
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de
+Trayectoria/
+Path 
+Descriptor 
+Identificador
+ del punto 
+de recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course 
+°MAG
+ (°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 02 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FL)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) 6(%,5          51$9
+ 7) &2&2&  
+     #   51$9
+AIP-CUBA AD 2 MUCF 6 - 3
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 30 ===
+75$16,&,21(6
+9$5'(5'HVGH92589$SURFHGDHQGHUURWDKDVWD
+85.21
+$/9(. 'HVGH $/9(. SURFHGD HQ GHUURWD  KDVWD
+85.21
+7$1,$ 'HVGH 7$1,$ SURFHGD HQ GHUURWD  KDVWD
+85.21
+;23/, 'HVGH ;23/, SURFHGD HQ GHUURWD  KDVWD
+85.21
+75$16,7,216
+9$5'(5 )URP 89$925 SURFHHG RQ  WUDFN WR
+85.21
+$/9(.)URP$/9(.SURFHHGRQWUDFNWR
+85.21
+7$1,$  )URP  7$1,$  SURFHHG  RQ    WUDFN  WR
+85.21
+;23/, )URP ;23/, SURFHHGRQWUDFN WR
+85.21
+TABLA DE CODIFICACIÓN DE LA LLEGADA RNAV CDO  / CDO RNAV  ARRIVAL  CODING TABLE.
+URKON4 STAR RWY 02 
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de
+Trayectoria/
+Path 
+Descriptor 
+Identificador
+ del punto 
+de recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 02 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FL)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) 85.21          51$9
+ 7) &)  
+        51$9
+CODIFICACIÓN DE ESPERA CON FUNCIONALIDAD / CODING TABLE FOR HOLDING 
+WITH FUNTIONALITY. MUCF STAR RWY 02
+Descriptor de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador
+ del punto 
+de recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG (°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/
+Maximum
+altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación de 
+navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ %8%25 
+ 510 )/ )/   51$9
+(VSHUD
++ROGLQJ 6(%,5 
+ 510 )/ )/   51$9
+(VSHUD
++ROGLQJ 85.21 
+ 510 )/ )/   51$9
+LLEGADA URKON4 (RWY 02)
+'HVGH85.21SURFHGDHQGHUURWDKDVWD&)D
+)7RVXSHULRU
+URKON4   ARRIVAL (RWY 02)
+)URP85.21SURFHHGRQWUDFNWR&)DW )7
+RUDERYH
+AD 2 MUCF 6 - 4
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 31 ===
+1970
+!
+MU D57
+FL450
+MSL
+330
+330
+330
+660
+660
+660
+980
+980
+980
+1310
+1310
+SEGOL
+TANIA
+URSUS
+XOPLI
+ALVEK
+RIBUM
+IAF
+CF421IAF/IF
+CORSA
+IAF
+CF420
+VOR/DME
+UVA
+VOR/DME
+UCJ
+AD MUSC
+AD MUVR
+AD MUCF
+SEGOL4
+MOCA 1600
+MOCA 1300
+FL MNM040
+1 MIN
+MOCA 1900
+MOCA 1600
+203°
+023°
+223°
+212°
+276°
+203°
+4.2 KM
+"
+"ì
+""
+ß
+114.5
+"
+"ì
+""
+ß
+103.0
+" "ì" "ß111.4
+"
+"ì
+""
+ß
+8.4
+RIBUM1B
+MOCA 1900
+MOCA 1500
+MOCA 1300
+MOCA 1300
+FL MNM
+0401 MIN
+132°
+108°
+157°
+135°
+135°
+315°
+" "ì""
+ß
+54.2
+" "ì""ß
+42.5
+"
+"ì
+""
+ß35.5
+" "ì""
+ß13.7
+4.2 NM
+TF
+TF
+1870
+591
+833
+421
+(319)
+2625
+MUR17
+FL260
+GND/MSL
+MUR18
+FL100
+GND/MSL
+MU P3
+FL045
+GND
+80°0'W
+80°0'W
+81°0'W
+81°0'W
+23°0'N 23°0'N
+CARTA DE LLEGADA NORMALIZADA - VUELO POR INSTRUMENTOS (STAR) - OACI / 
+STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO
+CIENFUEGOS / Jaime González Intl
+RNAV CDO RWY 20
+TWR 118.90
+APP   119.10
+ 133.70RIBUM1B, SEGOL4
+Especificación de NAV/
+NAV Epecification: RNAV-1
+HDG MAG
+ALT, ELEV Y / AND 
+HGT EN / IN FT
+DIST EN / IN NM
+47
+33
+TA 3000 FT
+26
+ESCALA / SCALE 1:750 000
+0 4 8 12 16 20 242
+NM
+0 8 16 24 32 40 484
+KM
+2020
+VAR 7°W
+H
+14
+39
+Active SSR 7600 y proceda según ANEXO 2 y Doc. 4444 de la
+OACI / Active SSR 7600 and proceed according ICAO Annex 2
+and Doc. 4444.
+FALLA DE COM / COM FAILURE:
+&
+&>
+270°
+360°5700
+2900
+ARP
+22°09'00"N
+080°24'51"W
+MSA
+25 NM
+24
+AIP-CUBA AD 2 MUCF 6 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 33 ===
+LLEGADA RIBUM1B (
+RWY 20) RIBUM1B ARRIVAL  (RWY 20)
+'HVGH5,%80SURFHGDHQGHUURWDKDVWD&)D
+)7RVXSHULRU
+)URP5,%80SURFHHGRQWUDFNWR&)DW)7
+RUDERYH
+75$16,&,21(6
+$/9(.'HVGH$/9(.SURFHGDHQGHUURWDKDVWD
+5,%80
+9$5'(5'HVGH92589$SURFHGDHQGHUURWD
+KDVWD5,%80
+;23/, 'HVGH ;23/, SURFHGD HQ GHUURWD  KDVWD
+5,%80
+75$16,7,216
+$/9(.)URP$/9(.SURFHHGRQWUDFNWR
+5,%80
+9$5'(5)URP89$925SURFHHGRQWUDFNWR
+5,%80
+;23/,)URP;23/,SURFHHGRQWUDFNWR
+5,%80
+TABLA DE CODIFICACIÓN DE LA LLEGADA RNAV CDO  / CDO RNAV  ARRIVAL  CODING TABLE.
+RIBUM1B STAR RWY 20 
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador  
+punto de 
+recorrido/
+Waypoint 
+Identifier  
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course
+°MAG
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia /
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 20 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FL)
+1
+Altitud/
+Altitude
+(FL)
+2
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) 5,%80           51$9
+ 7) &)  
+
+   
+      51$9
+LLEGADA SEGOL4 (RWY 20) SEGOL4 ARRIVAL  (RWY 20)
+'HVGH6(*2/SURFHGDHQGHUURWDKDVWD&256$D
+)7
+)URP6(*2/SURFHHGRQWUDFNWR&256$DW
+)7
+75$16,&,21(6
+-$5',1(6'(/5(<'HVGH9258&-SURFHGDHQ
+GHUURWDKDVWD6(*2/
+7$1,$'HVGH7$1,$SURFHGDHQGHUURWDKDVWD
+6(*2/
+85686'HVGH85686SURFHGDHQGHUURWDKDVWD
+6(*2/
+75$16,7,216
+-$5',1(6'(/5(<)URP8&-925SURFHHGRQ
+WUDFNWR6(*2/
+7$1,$)URP7$1,$SURFHHGRQWUDFNWR
+6(*2/
+85686 )URP 85686 SURFHHG RQ WUDFNWR
+6(*2/
+TABLA DE CODIFICACIÓN DE LA LLEGADA RNAV CDO  / CDO RNAV  ARRIVAL  CODING TABLE.
+SEGOL4 STAR RWY 20 
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador  
+punto de 
+recorrido/
+Waypoint 
+Identifier  
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course
+°MAG
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia /
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 20 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FL)
+1
+Altitud/
+Altitude
+(FL)
+2
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) 6(*2/           51$9
+ 7) &256$  
+    
+  #   51$9
+CODIFICACIÓN DE ESPERA CON FUNCIONALIDAD / CODING TABLE FOR HOLDING 
+WITH FUNTIONALITY. MUCF STAR RWY 20
+Descriptor de 
+trayectoria/ 
+Path Descriptor
+Identificador
+ del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ 5,%80 
+ 510 )/ )/   51$9
+(VSHUD
++ROGLQJ 6(*2/ 
+ 510 )/ )/   51$9
+AIP-CUBA AD 2 MUCF 6 - 7
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 35 ===
+22°02'45.33''N
+080°26'46.25''W
+2000
+21°57'55.85''N
+080°28'14.90''W
+2000
+10.8 NM to THR02
+21°54'23.76''N
+080°23'01.44''W
+FL040
+16.8 NM to THR02
+21°57'30.11''N
+080°34'41.21''W
+3000
+16.8 NM to THR02
+22°17'16.97''N
+080°37'09.30''W
+FL040
+FAF
+CF412
+RW02
+IAF/IF
+COCOC
+IAF
+CF411
+IAF
+CF410
+CF415
+IAF/IF
+COCOC
+IF
+COCOC
+IF
+COCOCIAF
+CF410
+IAF
+CF411
+203°
+093°
+313°
+203°
+093°
+313°
+023°
+313°
+093°
+023°
+6.0 NM
+6.0 NM
+5.8 NM
+5.0 NM
+CA
+10NM
+10 NM
+MOCA 1000
+MOCA 1000
+25NM TO COCOC
+1500 FT
+25NMTO
+CF411
+25NMTOCF410
+TF
+TF
+MOCA 1000
+DF
+TF
+TF
+1640
+330
+1970
+660
+330
+1310
+330
+1640
+980
+660
+330
+1310
+980
+330
+660
+RODAS
+PALMIRA
+ESPARTACO
+ARRIETE-CIEGO
+MONTERO CRUCES
+CUMANAYAGUA
+PEPITO
+TEY
+CASTILLO
+DE JAGUA
+CONSTANCIA
+ABREUS
+CIENFUEGOS
+10 NM
+991
+1119
+2256
+367
+(265)
+696
+(594)
+80°20'W
+80°20'W
+80°30'W
+80°30'W
+80°40'W
+80°40'W
+22°20'N
+22°20'N
+22°10'N
+22°10'N
+22°0'N
+22°0'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 102
+OCH REF THR RWY 02
+ELEV 98
+CIENFUEGOS / Jaime González Intl
+RNP (LNAV/VNAV, LNAV)
+RWY 02
+CAT A, B, C, D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 023° HASTA 1500 FT, VIRE A LA
+IZQUIERDA DIRECTO A PATRÓN DE ESPERA CF415 A 
+FL040 Y ESPERE INSTRUCCIONES ATC / CLIMB ON 
+TRACK  023° UNTIL 1500 FT, TURN LEFT DIRECT TO 
+CF415 HOLDING PATERN AT FL040 AND EXPECT ATC
+INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+LNAV / VNAV
+CIRCULAR / CIRCLING
+A B C D
+530 (432)  2.3 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW02   5.8
+VSP GS 3.00°
+NM to RW02
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+4:21 3:29 2:54 2:29 2:11 1:56
+430 530 640 740 850 960
+ALT / (HGT)
+5.0 NM 4.0 NM 3.0 NM 2.0 NM
+1740
+(1642)
+1420
+(1322)
+1100
+(1002)
+780
+(682)
+1000 (898)  4.9 KM
+ESCALA / SCALE 1:300 000
+0 2 4 6 81
+NM
+0 4 8 12 162
+KM
+Especificación de NAV/
+NAV specification: RNP-APCH
+LNAV 620 (522)  2.7 KM
+(POR LA PÉRDIDA DE CAPACIDAD RNAV) ASCIENDA 
+EN DERROTA 023° HASTA 3000 FT, Y SOLICITE
+INSTRUCCIONES ATC /  (FOR LOST OF RNAV CAPABILITY)
+CLIMB ON TRACK  023° UNTIL 3000 FT AND REQUEST
+ATC INSTRUCTIONS.      
+NOTA / REMARK
+TWR 118.90
+APP  119.10
+  133.70
+2020
+VAR 7°W
+H
+1700
+5700
+3300
+2200
+2000
+023°
+&
+&
+####!A(
+FL MNM
+0401 MIN
+360°
+180°
+MAHF
+CF415
+NO A ESCALA /
+NOT TO SCALE
+4.2 NM
+AIP-CUBA AD 2 MUCF 7 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 37 ===
+TABLAS DE CODIFICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP  INSTRUMENT APPROACH PROCEDURE CODING TABLES.
+MUCF RWY 02. JAIME GONZÁLEZ INTL.
+IAF CF410
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador  
+punto de 
+recorrido/ 
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 02 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &)          513$3&+
+ 7) &2&2&  
+        513$3&+
+ 7) &)  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+        513$3&+
+ ') &) <     / )/   513$3&+
+IAF CF411
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador  
+punto de 
+recorrido/ 
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 02 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &)       )/   513$3&+
+ 7) &2&2&  
+        513$3&+
+ 7) &)  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+        513$3&+
+ ') &) <     / )/   513$3&+
+IAF/IF COCOC
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador  
+punto de 
+recorrido/ 
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 02 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &2&2&          513$3&+
+ 7) &)  
+     #  513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+        513$3&+
+ ') &) <     / )/   513$3&+
+CODIFICACIÓN DE ESPERA CON FUNCIONALIDAD / CODING TABLE FOR HOLDING 
+WITH FUNTIONALITY. RNAV MUCF RWY 02 
+Descriptor 
+de trayectoria/ 
+Path Descriptor
+Nombre del 
+punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ &) 
+ 510 )/ )/   51$9
+AIP-CUBA AD 2 MUCF 7 - 3
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 39 ===
+22°18'22.89''N
+080°15'14.61''W
+3000
+16.8 NM to THR20
+22°20'02.41''N
+080°21'27.86''W
+2000
+10.8 NM to THR20
+22°17'16.97''N
+080°37'09.30''W
+FL040
+22°15'12.97''N
+080°22'56.84''W
+2000
+22°21'41.68''N
+080°27'41.25''W
+3000
+16.8 NM to THR20
+RW20
+IAF
+CF421
+IAF/IF
+CORSA
+CF415
+FAF
+CF422
+IAF
+CF420
+IAF/IF
+CORSA
+IAF
+CF421
+IF
+CORSA
+IAF
+CF420 IF
+CORSA
+203°
+293°
+113°
+023°
+293°
+293°
+113°
+203°
+203°
+113°
+023°
+250°
+070°
+5.8 NM
+5.0 NM
+6.0 NM
+6.0 NM
+10 NM
+MOCA 1000
+25 NM TO CORSA
+25NM
+TO CF 420
+25 NM TO CF421
+MOCA 1500
+MOCA 1300
+10 NM
+CA
+1500 FT
+330
+660 980
+1310
+330
+330
+1640
+1970
+CIENFUEGOS
+CRUCES
+LAJAS
+RODAS
+PALMIRACONSTANCIA
+ABREUS
+PEPITO TEY
+CARTAGENA
+ESPARTACO
+CASTILLO 
+DE JAGUA
+ARRIETE-CIEGO 
+MONTERO
+696
+(594)
+367
+(265)
+453
+243
+(141)
+TF
+TF
+DF
+TF
+TF
+2526
+10 NM
+80°20'W
+80°20'W
+80°30'W
+80°30'W
+80°40'W
+80°40'W
+22°20'N
+22°20'N
+22°10'N
+22°10'N
+22°0'N
+22°0'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 102
+OCH REF THR RWY 20
+ELEV 102
+CIENFUEGOS / Jaime González Intl
+RNP (LNAV/VNAV, LNAV)
+RWY 20
+CAT A, B, C, D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 203° HASTA 1500 FT, VIRE A LA
+DERECHA DIRECTO A PATRÓN DE ESPERA CF415 A 
+FL040 Y ESPERE INSTRUCCIONES ATC / CLIMB ON 
+TRACK  203° UNTIL 1500 FT, TURN RIGTH DIRECT TO 
+CF415 HOLDING PATERN AT FL040 AND EXPECT ATC
+INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+LNAV / VNAV
+CIRCULAR
+CIRCLING
+A B C D
+410 (308) 1.7 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW20   5.8
+VSP GS 3.00°
+NM to RW20
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+4:21 3:29 2:54 2:29 2:11 1:56
+430 530 640 740 850 960
+ALT / (HGT)
+5.0 NM 4.0 NM 3.0 NM 2.0 NM
+1740
+(1638)
+1430
+(1328)
+1110
+(1008)
+790
+(688)
+1000 (898) 4.9 KM
+ESCALA / SCALE 1:300 000
+0 2 4 6 81
+NM
+0 4 8 12 162
+KM
+LNAV 620 (518) 2.6 KM
+(POR LA PÉRDIDA DE CAPACIDAD RNAV) ASCIENDA 
+EN DERROTA 203° HASTA 3000 FT Y SOLICITE
+INSTRUCCIONES ATC /  (FOR LOST OF RNAV CAPABILITY)
+CLIMB ON TRACK  203° UNTIL 3000 FT AND REQUEST
+ATC INSTRUCTIONS.      
+NOTA / REMARK
+TWR 118.90
+APP  119.10
+  133.70
+2020
+VAR 7°W
+H
+1700
+2200
+5700
+1900
+2600
+FL MNM
+FL040
+1 MIN
+Especificación de NAV/
+NAV specification: RNP-APCH
+4.2 NM
+AIP-CUBA AD 2 MUCF 7 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 41 ===
+TABLAS DE CODIFICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP  INSTRUMENT APPROACH PROCEDURE CODING TABLES.
+MUCF RWY 20. JAIME GONZÁLEZ INTL.
+  IAF CF420
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador  
+punto de 
+recorrido/ 
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 20 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &)          513$3&+
+ 7) &256$  
+        513$3&+
+ 7) &)  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+        513$3&+
+ ') &) <     5 )/   513$3&+
+  IAF CF421
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador  
+punto de 
+recorrido/ 
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 20 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &)          513$3&+
+ 7) &256$  
+        513$3&+
+ 7) &)  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+        513$3&+
+ ') &) <     5 )/   513$3&+
+   IAF/IF CORSA
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador  
+punto de 
+recorrido/ 
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 20 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &256$          513$3&+
+ 7) &)  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+        513$3&+
+ ') &) <     5 )/   513$3&+
+CODIFICACIÓN DE LA ESPERA CON FUNCIONALIDAD / CODING TABLE FOR HOLDING WITH FUNTIONALITY. 
+RNAV MUCF RWY 20 
+Descriptor 
+de trayectoria/ 
+Path Descriptor
+Nombre del 
+punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ &) 
+ 510 )/ )/   51$9
+AIP-CUBA AD 2 MUCF 7 - 7
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 43 ===
+656
+656
+1312
+1312
+Embalse
+Abreus
+Embalse
+El Salto
+CARTA DE APROXIMACION VISUAL - OACI /
+VISUAL APPROACH CHART - ICAO
+CIENFUEGOS / Jaime González IntlELEV 102
+OCH REF TO AD ELEV
+0 2                 4                    6 8
+0 5 10 15
+ESCALA / SCALE 1:250 000
+NM
+KM
+05’
+22º
+10’
+N
+15’
+22º
+20’
+N
+25’
+22º
+30’
+N
+80º20’W 15’25’80º30’W
+05’
+22º
+10’
+N
+15’
+22º
+20’
+N
+25’
+22º
+30’
+N
+80º20’W 15’25’80º30’W
+22º
+00’
+N
+22º
+00’
+N
+35’
+35’
+LOS RUMBOS SON MAGNETICOS/
+BEARING ARE MAGNETIC
+ALT, ELEV, ALTURAS EN FT/
+ALT, ELEV, HEIGHTS IN FT
+2020
+VAR 7º W
+TWR 118.90
+119.10APP
+0 133.7
+RODAS
+ABREUS
+CIENFUEGOS
+PALMIRA
+ARRIETE CRUCES
+LAJAS
+CARTAGENA
+CONSTANCIA
+JURAGUA
+CAUNAO
+GUAOS
+PEPITO TEY
+SAN FERNANDO
+DE CAMARONES
+ESPARTACO
+ARIZA
+CONGOJAS
+CASTILLO
+DE JAGUA
+ARIMAO
+Vaq
+GA
+CA
+GA
+Vaq
+Vaq
+GL
+330
+(228)
+240
+(138)
+497
+(395)
+230
+(128)
+265
+(163)
+366
+(264)
+273
+(171)
+248
+(146)
+450
+(348)
+246
+(144)
+365
+(263)
+298
+(196)
+134
+(32)
+112
+(10)
+138
+(36)
+285
+(183)
+236
+(134)
+269
+(167) 220
+(118)
+171
+(69)164
+(62)
+128
+(26)
+187
+(85)
+216
+(114)
+449
+(347)
+407
+(305)
+574
+(472)
+171
+(69)
+148
+(46)
+197
+(95)
+138
+(36)
+200
+(98)
+171
+(69)
+282
+(180)
+148
+(46)
+676
+(574)
+AIP-CUBA AD 2 MUCF 9 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24

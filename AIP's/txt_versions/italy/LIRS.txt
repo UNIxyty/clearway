@@ -1,0 +1,1664 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIRS 1 - 1
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRS AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIRS AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIRS - GROSSETO
+LIRS AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIRS AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+42°45'35''N 011°04'19''E
+2 Direzione e distanza dalla città 1.5 NM W di Grosseto
+ Direction and distance from city 1.5 NM W of Grosseto
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+20 FT / 30.4° C
+4 Ondulazione del geoide
+ Geoid undulation
+NIL
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2022.3) / 7'E
+6 Autorità amministrativa aeroportuale Aeronautica Militare
+Comando 4° Stormo
+Via Castiglionese, 70
+I-58100 Grosseto
+ tel +39 0564 445999
+ fax +39 0564 445118
+ e-mail: aerostormo4.ops@aeronautica.difesa.it
+ AFTN: LIRPZPZX
+ENAC - DT Toscana
+Aeroporto di Firenze
+Via del Termine, 11
+50127 Firenze 
+Tel: +39 055 3061200  Fax: +39 055 308036 
+E-mail: toscana.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale S.E.A.M. S.p.A.
+Via Orcagna, 125 Grosseto
+tel +39 0564 492779 fax +39 0564 493099
+e-mail: info@grossetoairport.com
+SITA: GRSKK8X
+ Aerodrome operator  
+ Autorità ATS Aeronautica Militare
+ARO-CBO Pisa
+ Tel: +39 050928483/6
+ fax: +39 050928484
+e-mail: aerobrigata46.log.uiv@aeronautica.difesa.it
+aerostormo4.ats@aeronautica.difesa.it
+ ATS authority Italian Air Force
+ARO-CBO Pisa
+ Tel: +39 050928483/6
+ fax: +39 050928484
+e-mail: aerobrigata46.log.uiv@aeronautica.difesa.it
+aerostormo4.ats@aeronautica.difesa.it
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note 1. L’aeroporto è aperto al traffico civile autorizzato con le limitazioni riportate nella
+tabella 20, punto 6
+2. Codice di riferimento ANNESSO 14 ICAO per infrastrutture di volo: 4C
+ Remarks 1. Aerodrome is open to civil authorized traffic with limitations stated in table 20,
+point 6
+
+=== Page 2 ===
+AD 2 LIRS 1 - 2
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+2. Ref. Code ANNEX 14 ICAO flight infrastructure: 4C
+LIRS AD 2.3 ORARIO DEI SERVIZI
+LIRS AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale S.E.A.M.: 0800 - TWIL TO (0700 - TWIL TO), oppure vedi punto 12, nota 1)
+ Aerodrome Administration S.E.A.M.: 0800 - TWIL TO (0700 - TWIL TO), or see point 12, remark 1)
+2 Dogana ed immigrazione Servizi disponibili su richiesta con un preavviso di almeno 24 HR presso S.E.A.M.
+ Customs and immigration Services available on request 24 HR PN to S.E.A.M.
+3 Servizio sanitario Presidio sanitario aeroportuale assicurato solo per voli di linea e charter (vale a
+dire voli operati con aeromobili di capacità superiore a 19 posti/passeggeri) con
+passeggeri a bordo. Servizio disponibile su richiesta, con un preavviso di almeno 36
+ore presso S.E.A.M., a partire da 30 minuti prima dell’orario previsto per l’atterraggio
+(in caso di passeggeri in arrivo) e fino a 30 minuti dopo l’avvenuto decollo (in caso
+di passeggeri in partenza). Per tutti gli altri voli, in caso di incidente/emergenza, il
+servizio di emergenza sanitaria sarà assicurato dal Servizio Emergenza Sanitaria
+territoriale, attivabile telefonicamente al numero unico 112.
+ Health and sanitation Airport first aid treatment provided only for scheduled and charter flights (i.e. flights
+operated by aircraft with a capacity exceeding 19 seats/passengers) with passengers
+on board. Service available on request 36 HR PN to S.E.A.M., starting from 30
+minutes before the scheduled landing time (in the case of arriving passengers) and
+up to 30 minutes after take-off (in the case of departing passengers). For all other
+flights, in the event of an accident/emergency, the emergency health service will
+be ensured by the Territorial Health Emergency Service, which can be activated by
+phone at number 112.
+4 AIS Briefing Office H24 ARO-CBO Pisa
+   
+5 ARO H24 ARO-CBO Pisa
+   
+6 METEO Briefing Office MON-FRI 0530-1800 (0430-1700) EXC HOL e 10 AUG. 
+Al di fuori degli HR di UMA GROSSETO, HOL e 10 AUG, servizio assicurato da
+COAMET, Poggio Renatico
+  MON-FRI 0530-1800 (0430-1700) EXC HOL and 10 AUG.
+Outside the HR of UMA GROSSETO, on HOL and 10 AUG, service provided by
+COAMET, Poggio Renatico
+7 ATS H24
+   
+8 Rifornimento Vedi punto 12, nota 1)
+ Fuelling See point 12, remark 1)
+9 Handling 0800 - TWIL TO (0700 - TWIL TO), oppure vedi punto 12, nota 1)
+ Handling 0800 - TWIL TO (0700 - TWIL TO), or see point 12, remark 1)
+10 Servizi di sicurezza Vedi punto 12, nota 1)
+ Security See point 12, remark 1)
+11 De-icing NIL
+ De-icing  
+12 Note 1. Servizio disponibile dall’inizio dell’aurora (TWIL FROM) fino alla fine del crepuscolo
+(TWIL TO) su richiesta con un preavviso di almeno 24HR presso S.E.A.M.
+ Remarks 1. Service available from civil morning twilight (TWIL FROM) til the end of civil
+evening twilight (TWIL TO) on request to S.E.A.M. at least 24HR PN
+LIRS AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIRS AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1 / NIL
+ Fuel/Oil types  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIRS 1 - 3
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+3 Capacità di rifornimento 50000 litri
+ Fuelling capacity 50000 litres
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+LIRS AD 2.5 SERVIZI PER I PASSEGGERI
+LIRS AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti In città
+ Restaurants In town
+3 Trasporti Taxi - Bus (Autolinee Toscane)
+ Transportation  
+4 Servizio medico Presidio sanitario aeroportuale con ambulanza e soccorritori assicurato solo per voli di
+linea e charter (vedi campo 2.3.3 Servizio sanitario) - Ospedale in città 6 km
+ Medical facilities Airport first aid treatment with ambulance and rescuers provided only for scheduled
+and charter flights (see items 2.3.3 Health and sanitation) - Hospital in town 6 km
+5 Banca e ufficio postale In città
+ Bank and Post office In town
+6 Ufficio turistico In città
+ Tourist office In town
+7 Note NIL
+ Remarks  
+LIRS AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIRS AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 6 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Idroschiumogeno IVECO Dragon X 6 (4 units)
+Idroschiumogeno ACTROS (1 unit)
+Tank Truck Astra (1 unit)
+IVECO TURBO TECH (1 unit)
+IVECO MODEL RAV 4 (1 unit)
+ Rescue equipment Hydrofoam IVECO Dragon X 6 (4 units)
+Hydrofoam ACTROS (1 unit)
+Tank Truck Astra (1 unit)
+IVECO TURBO TECH (1 unit)
+IVECO MODEL RAV 4 (1 unit)
+3 Rimozione aeromobili in difficoltà 1) Attrezzature per la rimozione di aeromobili civili:
+a) servizio di sollevamento fornito su chiamata da appaltatori con gru fino a 80
+tonnellate
+b) n.2 trattori rimorchiatori senza barra di traino per aeromobili fino a 75 tonnellate
+ Capability for removal of disabled aircraft 1) Civil aircraft removal equipment:
+a) lift service provided on call by contractors with cranes up to 80 tons
+b) n.2 tractors towbarless for aircraft up to 75 tons
+4 Note 1. Servizio antincendio aeroportuale: categoria ICAO 7  assicurata con 48 ore di
+preavviso all’ufficio operazioni di base tel +39 0564 445304
+
+=== Page 4 ===
+AD 2 LIRS 1 - 4
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+ Remarks 1. Aerodrome fire fighting service: category ICAO 7 assured 48H prior notice to base
+operation office tel +39 0564 445304
+LIRS AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIRS AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura 1 camion dotato di lame da neve
+2 pesanti spazzatrici aeroportuali
+1 trattore spargisale
+1 camion per trasporto sale tecnologico (UREA,CaCl2)
+ Types of clearing equipment 1 truck equipped with snow blades
+2 heavy airport jet sweepers
+1 salt spreader tractor
+1 truck for tech-salt transportation (UREA,CaCl2)
+2 Priorità 1) RWY 03L/21R, TWY H, Apron 1
+2) Strada di collegamento tra la TWR e le RWYs
+3) RWY 03R/21L, TWY E, TWY B
+4) TWY J
+5) TWY P, Apron 5
+6) Apron 3
+7) Area di movimento rimanente e tutte le strade al di fuori dell'area di movimento
+ Clearance priorities 1) RWY 03L/21R, TWY H, Apron 1
+2) Road connecting TWR and RWYs
+3) RWY 03R/21L, TWY E, TWY B
+4) TWY J
+5) TWY P, Apron 5
+6) Apron 3
+7) Remaining movement area and all roads outside movement area
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+Il prodotto antigelo utilizzato per l'area di movimento è UREA, (CaCl2 se disponibile),
+sale
+ Use of material for movement area surface
+treatment
+De/anti-icing product used for movement area is UREA, (CaCl2 if available), salt.
+4 Piste invernali appositamente preparate Non applicabile
+ Specially prepared winter runways Not applicable
+5 Note 1. Misurazione del coefficiente di attrito della RWY non disponibile
+2. Lo sgombero della neve è assicurato secondo le modalità operative definite dal
+Comando 4° Stormo per l'area di movimento e da SEAM per il Piazzale Civile
+3. La valutazione e la segnalazione delle condizioni della superficie della pista (ref.
+AD 1.2.2) sono gestiti in conformità alle prescrizioni contenute nell'AIC A1/22.
+Sono disponibili solo per il traffico aereo civile e durante gli orari di servizio
+dell'amministrazione aeroportuale civile della SEAM specificati in AIP AD 2 LIRS 1-1
+ Remarks 1. RWY friction coefficient measurement not AVBL
+2. Snow removal is assured in accordance with operating procedures defined by
+Comando 4° Stormo for movement area and by SEAM for Civil Apron
+3. Runway surface condition assessment and reporting (ref. AD 1.2.2) are managed
+in conformity with prescriptions contained in AIC A1/22. They are available for civil
+air traffic only and during civil aerodrome Administration SEAM operational hours
+specified in AIP AD 2 LIRS 1-1
+LIRS AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIRS AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron 100 CONC PCN 50/R/B/W/T
+Apron 200 CONC PCN 50/R/B/W/T
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIRS 1 - 5
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A (1) 12 M CONC PCN 23/F/A/X/T
+B 23 M CONC PCN 39/F/A/X/T
+C 12 M ASPH SIWL 25000 KG
+D 12 M ASPH SIWL 25000 KG
+E 29 M ASPH PCN 100/F/A/X/T
+F 12 M ASPH SIWL 25000 KG
+G 23 M ASPH PCN 36/R/A/X/T
+P (1) 23 M ASPH PCN 46/F/A/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. Vedere tabella 20, punto 3
+ Remarks 1. See table 20, point 3
+LIRS AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIRS AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+TWY e guida ai parcheggi: strisce gialle
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+TWY and parking guidance: yellow stripes
+ 
+2 Illuminazione e segnaletica per RWY e TWY Indicazioni delle direzioni di decollo: segnaletica verticale e orizzontale
+Punto attesa RWY: strisce gialle in prossimità della pista
+RWY:
+Aiming Point, THR, identificazione, strisce laterali, TDZ, RCL: bianco
+Segnaletica verticale;
+TWY: asse, posizione attesa RWY: colore giallo
+LUCI RWY:
+RCL: bidirezionali bianco/rosso
+THR: verde
+END: rosso
+TDZ: unidirezionali bianco
+LUCI TWY: omnidirezionali blu
+ RWY and TWY markings and lights Take off directions: signs and markings
+RWY HOLDING POSITION: yellow stripes next to the runway
+RWY:
+Aiming Point, THR, designation, side stripes markings, TDZ, RCL: white
+Signs;
+TWY: centreline, RWY holding position: yellow stripes
+RWY LIGHTS:
+RCL: bidirectional white/red
+THR: unidirectional green
+END: unidirectional red
+TDZ: unidirectional white
+TWY LIGHTS: omnidirectional blue
+3 Barre d'arresto NIL
+ Stop bars  
+
+=== Page 6 ===
+AD 2 LIRS 1 - 6
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+4 Note (1) Segnaletica verticale RWY 03R/21L non conforme
+(2) Luci bordo pista RWY 03R/21L non conformi allo standard ICAO
+ Remarks (1) RWY 03R/21L signs not compliant
+(2) RWY 03R/21L edge lights not compliant with ICAO standard
+LIRS AD 2.10 OSTACOLI AEROPORTUALI
+LIRS AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+Vedi AOC in vigore - See AOC in force
+LIRS AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIRS AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+UMA GROSSETO
+2 Orario di servizio
+ Hours of service
+MON-FRI 0530-1800 (0430-1700) EXC HOL e 10 AUG. 
+Al di fuori degli HR di UMA GROSSETO, HOL e 10 AUG, servizio assicurato da
+COAMET, Poggio Renatico
+MON-FRI 0530-1800 (0430-1700) EXC HOL and 10 AUG.
+Outside the HR of UMA GROSSETO, on HOL and 10 AUG, service provided by
+COAMET, Poggio Renatico
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+UMA Grosseto/ COAMET Poggio Renatico / 9 H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Consultazione personale, telefono, self briefing display
+ Briefing and consultation provided Personal consultation, telephone, self briefing display
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / IT, EN
+ Flight documentation and
+language used
+Charts, abridged plain language text / IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+Standard ICAO (IS, SWL, SWM, SWH)
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Telefax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Grosseto TWR, Grosseto APP
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIRS 1 - 7
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. Ufficio Meteorologico Aeroportuale Grosseto:
+tel +39 0564 445420/445423, fax +39 0564 445467
+e-mail: aerostormo4.met@aeronautica.difesa.it
+TAF emessi: MON-FRI 0900-1800 1200-2100 1500-2400 1800-0300
+2. Ufficio Meteo fuori orario: COAMET Poggio Renatico
+tel +39 0532 828282
+e-mail: aerocoa.aso.mwo@aeronautica.difesa.it
+TAF emessi: MON-FRI 0000-0900 0300-1200 0600-1500 2100-0600.
+SAT, HOL e AUG 10th 0000-0900 0300-1200 0600-1500 0900-1800 1200-2100
+1500-2400 1800-0300 2100-0600
+ Climatological information and additional
+information
+1. Aerodrome Met Office Grosseto:
+tel +39 0564 445420/445423, fax +39 0564 445467
+e-mail: aerostormo4.met@aeronautica.difesa.it
+TAF issued: MON-FRI 0900-1800 1200-2100 1500-2400 1800-0300
+2. MET Office off-hour: COAMET Poggio Renatico
+tel +39 0532 828282
+e-mail: aerocoa.aso.mwo@aeronautica.difesa.it
+TAF issued: MON-FRI 0000-0900 0300-1200 0600-1500 2100-0600.
+SAT, HOL and AUG 10th 0000-0900 0300-1200 0600-1500 0900-1800 1200-2100
+1500-2400 1800-0300 2100-0600
+LIRS AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIRS AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+03L 030.96° 2994 x 45
+PCN 45/F/A/X/T
+CONC/ASPH
+42°45'00.36''N
+011°03'42.50''E
+NIL
+NIL
+15.0 FT / NIL
+21R 210.97° 2994 x 45
+PCN 45/F/A/X/T
+CONC/ASPH
+42°46'20.88''N
+011°04'48.08''E
+NIL
+NIL
+15.0 FT / NIL
+03R 030.92° 2653 x 25
+PCN 40/F/A/X/T
+ASPH
+42°45'02.49''N
+011°03'55.73''E
+NIL
+NIL
+18.0 FT / NIL
+21L 210.93° 2653 x 25
+PCN 40/F/A/X/T
+ASPH
+42°46'07.97''N
+011°04'48.97''E
+NIL
+NIL
+16.0 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+03L NIL NIL 196 x 150 3114 x 300 90 x 90
+21R NIL NIL 292 x 150 3114 x 300 90 x 90
+03R NIL 67 x 25 110 x 80 2873 x 150 NIL
+21L NIL 33 x 25 NIL 2873 x 150 NIL
+
+=== Page 8 ===
+AD 2 LIRS 1 - 8
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+03L NIL
+1) THR spostata di 96m/THR displaced of 96 m
+2) Strip non pienamente conforme all’Annesso 14 ICAO a causa di ostacoli (Vedere AOC tipo A)/
+Strip not fully compliant with ICAO Annex 14 due to obstacles (See AOC type A)
+21R NIL
+1) Strip non pienamente conforme all’Annesso 14 ICAO a causa di ostacoli (Vedere AOC tipo A)/
+Strip not fully compliant with ICAO Annex 14 due to obstacles (See AOC type A)
+03R NIL
+1) Utilizzabile solo come “PERCORSO DI RULLAGGIO PRINCIPALE”/ AVBL as “MAIN TAXI ROUTE”
+only
+21L NIL
+1) Utilizzabile solo come “PERCORSO DI RULLAGGIO PRINCIPALE”/ AVBL as “MAIN TAXI ROUTE”
+only
+WARNING:RWY 03R/21L disponibile solo per esigenze militari WARNING:RWY 03R/21L available only for military use
+LIRS AD 2.13 DISTANZE DICHIARATE
+LIRS AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+03L 2994 3190 2994 2898
+21R 2994 3286 2994 2994
+03R - - - -
+21L - - - -
+NOTE NIL
+REMARKS  
+WARNING:RWY 03R/21L disponibile solo per esigenze militari WARNING:RWY 03R/21L available only for military use
+LIRS AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIRS AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+03L CALVERT 900 LIH G NIL 3° lato sx
+left side
+NIL 900
+21R NIL NIL NIL G NIL 3.3°
+entrambi i lati
+both sides
+NIL NIL
+03R NIL NIL NIL NIL NIL NIL NIL NIL
+21L NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+03L 2994 30 W/R LIH 2994 60 W/Y LIH
+21R 2994 30 W/R LIH 2994 60 W/Y LIH
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIRS 1 - 9
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+03R NIL NIL NIL NIL NIL NIL NIL NIL
+21L NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+03L R NIL NIL NIL NIL NIL
+21R R NIL NIL NIL NIL NIL
+03R NIL NIL NIL NIL NIL 1) Luci pista completamente assenti.
+Presenti solo luci blu per TWY EDGE /RWY
+lights completely absent. There are only
+blue lights for TWY EDGE
+21L NIL NIL NIL NIL NIL 1) Luci pista completamente assenti.
+Presenti solo luci blu per TWY EDGE /RWY
+lights completely absent. There are only
+blue lights for TWY EDGE
+LIRS AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIRS AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 42°45'50''N   011°04'09''E
+Caratteristiche: Luce bianco/verde alternata
+Orario: HN -/+30
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 42°45'50''N   011°04'09''E
+Characteristics: Revolving white/green alternating light
+Hours: HN -/+30
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) Anemometro ad ultrasuoni a circa 280 m dopo THR RWY 03L, 110 m lato destro
+RCL, illuminato
+2) Anemometro ad ultrasuoni a circa 1300 m dopo THR RWY 03L, 110 m lato destro
+RCL, illuminato
+3) Anemometro ad ultrasuoni a circa 320 m dopo THR RWY 21R, 110 m lato sinistro
+RCL, illuminato
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) Ultrasonic anemometer at about 280 m after THR RWY 03L, 110 m right side RCL,
+lighted
+2) Ultrasonic anemometer at about 1300 m after THR RWY 03L, 110 m right side
+RCL, lighted
+3) Ultrasonic anemometer at about 320 m after THR RWY 21R, 110 m left side RCL,
+lighted
+3 Illuminazione bordo e asse centrale TWY Solo bordo - luci blu omnidirezionali ogni 60 m / asse centrale: NIL
+ TWY edge and center line lighting Only edge - blue omnidirectional lights - 60 m spaced /centreline: NIL
+4 Alimentatore secondario/Tempo di 
+intervento
+Disponibile / meno di 1 secondo
+
+=== Page 10 ===
+AD 2 LIRS 1 - 10
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+ Secondary power supply/Switch over time Available / less than 1 second
+5 Note 1. Alimentatore secondario: disponibile al 50%
+ Remarks 1. Secondary power supply: available at 50%
+LIRS AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIRS AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIRS AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIRS AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Grosseto ATZ
+Circular area centered on
+42°45'35"N 011°04'19"E
+within a 5.0 NM radius.
+3000 FT
+AMSL
+D
+Grosseto TWR
+EN/IT
+6000 FT 1) WI Grosseto CTR
+LIRS AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIRS AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 H24
+NIL
+APP Grosseto APP 124.525 H24 NIL
+APP Grosseto Radar 124.525
+MON-THU 0700-1530
+(0600-1430)
+FRI 0700-1100
+(0600-1000)
+1) SAT, SUN, HOL e/and 10 AUG non
+disponibile/not available
+2) Oppure fino a termine attività di
+base/or until the end of military base
+activity
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIRS 1 - 11
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+TWR Grosseto TWR 128.105
+MON-FRI 0700-1900
+(0600-1800)
+1) Oppure fino a fine attività di base
+se dopo le 1900 (1800) / or until the
+end of military base activity if after 1900
+(1800)
+TWR Grosseto TWR 124.525
+MON-FRI 1900-0700
+(1800-0600)
+MON-FRI 1900-0700
+(1800-0600) SAT,
+SUN e/and HOL H24
+1) Oppure da fine attività di base se
+dopo le 1900 (1800) / or from the end
+of military base activity if after 1900
+(1800)
+LIRS AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIRS AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+DVOR
+ 
+(2° E-2010.1)
+GRO
+109.85
+MHZ
+H24
+42°45'39.2''N
+011°04'38.3''E
+NIL
+limitazioni a/limitations at 40
+NM
+190°/250° MRA 3000 FT
+250°/290° MRA 6000 FT
+290°/190° MRA 9000 FT
+1) MAINT:
+Terzo THU di ogni mese/
+third THU each month:
+1400-1500 (1300-1400)
+TACAN
+ 
+GRO CH 35Y H24
+42°45'37.2''N
+011°04'38.6''E
+23 M
+AMSL
+40 NM/25000 FT
+limitazioni a/limitations at 40
+NM
+190°/250° MRA 3000 FT
+250°/290° MRA 6000 FT
+290°/190° MRA 9000 FT
+1) MAINT:
+Terzo WED di ogni mese/
+third WED each month:
+1400-1500 (1300-1400)
+Durante la manutenzione
+il servizio TACAN è
+sospeso / During
+maintenance TACAN
+service is suspended
+ILS RWY
+03L LOC
+CAT I
+(3° E-2020.1)
+GRS
+111.15
+MHZ
+H24
+42°46'26.2''N
+011°04'52.5''E
+NIL
+Limitazioni a/limitations at 17
+NM Vedi nota/see remark 2)
+limitazioni oltre/limitations
+beyond 17 NM MRA 2000 FT
+1) MAINT:
+ Secondo e quarto TUE
+di ogni mese/second and
+fourth TUE each month:
+0700-0900 (0600-0800)
+2) Limitazioni a/
+limitations at 17 NM:
+-settore sinistro/left
+sector MRA 2000 FT
+-settore destro entro/
+right sector within 15°
+MRA 2000 FT
+-settore destro oltre/
+right sector beyond 15°
+MRA 2500 FT
+
+=== Page 12 ===
+AD 2 LIRS 1 - 12
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+DME GRS CH 48Y H24
+42°45'11.3''N
+011°03'45.1''E
+10 M
+AMSL
+Limitazioni a/Limitations at
+17 NM Vedi nota/see remark
+2)
+limitazioni oltre/limitations
+beyond 17 NM MRA 2000 FT
+1) MAINT:
+Secondo e quarto TUE
+di ogni mese/second and
+fourth TUE each month:
+0700-0900 (0600-0800)
+2) Limitazioni a/
+limitations at 17 NM:
+-settore sinistro/left
+sector MRA 2000 FT
+-settore destro entro/left
+sector within 15° MRA
+2000 FT
+-settore destro oltre/
+right sector beyond 15°
+MRA 2500 FT
+GP -
+331.55
+MHZ
+H24
+42°45'11.2''N
+011°03'45.6''E
+NIL NIL
+Slope °
+RDH: M
+1) Slope 3° RDH: 16.43
+M 2) MAINT: Secondo e
+quarto TUE di ogni mese/
+second and fourth TUE
+each month: 0700-0900
+(0600-0800)
+L
+ 
+PIS
+379.00
+KHZ
+H24
+43°35'21.2''N
+010°17'49.5''E
+NIL
+25 NM
+limitazioni a/limitations at 25
+NM
+160°/320° MRA 1500 FT
+320°/160° MRA 8000 FT
+1) MAINT:
+Terzo THU di ogni mese/
+third THU each month:
+0900-1000 (0800-0900)
+LIRS AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIRS AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+La RWY 03L/21R è la sola pista utilizzabile per le operazioni di volo
+(decollo e atterraggio).
+La RWY 03R/21L è disponibile solo per esigenze militari.
+Per tutto l'altro traffico è disponibile solo come PERCORSO DI
+RULLAGGIO PRINCIPALE
+RWY 03L/21R is the only usable RWY for flight operations (take-off
+and landing).
+RWY 03R/21L available only for military use.
+For all other traffic it is available as MAIN TAXI ROUTE only
+2 Apron 2 Apron
+Un cancello mobile è posizionato tra l’ Apron 100 e la TWY P che separa
+l'area civile da quella militare; per permettere l'assistenza ai mezzi
+di soccorso e antincendio, il cancello deve rimanere completamente
+aperto durante le seguenti operazioni:
+Between Apron 100 and taxiway P there is a mobile gate which
+separates civil area from military area; in order to allow rescue and
+fire fighting assistance this gate must be completely open:
+1. rullaggio degli aeromobili da e per la pista;
+2. prima della messa in moto dei motori e/o utilizzo dell'APU;
+3. durante il rifornimento degli aeromobili.
+1. for ACFT taxiing movements to/from the runway;
+2. before engine starting-up and/or using of the APU;
+3. during ACFT refuelling operations.
+I punti 1) e 2) sono soggetti a specifica autorizzazione da parte
+della TWR. Il punto 3) deve essere preventivamente coordinato dal
+Marshaller con il Centro Operativo di Base (BOC).
+The points 1) and 2) are subject to specific clearance by TWR. The
+subpoint 3) must be coordinate in advance by marshaller with base
+operative center (BOC).
+Le operazioni di rullaggio degli aeromobili sull’ Apron 100 dovranno
+svolgersi obbligatoriamente con l'assistenza del Marshaller e con i
+motori alla minima potenza.
+Gli aeromobili potranno essere parcheggiati al di fuori degli Stand,
+identificati dalla segnaletica orizzontale, solo con l'obbligatoria
+assistenza del marshaller.
+ 
+Apron 100 ACFT taxiing operations shall take place only with
+mandatory marshalling assistance and with engines at minimum
+thrust.
+ACFT can be parked outside of stands identified by horizontal
+marking only with mandatory marshalling assistance.
+ 
+ 
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIRS 1 - 13
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+L'Apron 200 è utilizzabile esclusivamente per il parcheggio di lunga
+sosta degli aeromobili, che possono essere movimentati (in ingresso/
+uscita) solo tramite trattore towbarless e con motori spenti. Le
+operazioni di assistenza a terra e di rifornimento carburante non sono
+consentite sull'Apron 200, così come la messa in moto dei motori
+dell'aeromobile e/o utilizzo dell'APU.
+Apron 200 is usable only as long-term aircraft parking and ACFT
+can be moved (IN/OUT) only by towbarless tug and with engine
+off. Handling and fuel operations are not allowed on Apron 200, as
+well as ACFT engine starting-up and/or using the APU.
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+TWY P:
+i piloti devono rullare con cautela sulla TWY P a causa della presenza
+di un cancello mobile all’incrocio con il piazzale civile che separa l’area
+civile da quella militare e necessita di essere completamente aperto
+per consentire un attraversamento sicuro.
+Procedure di rullaggio implementate per la TWY P
+TWY P:
+pilots have to taxi with caution on TWY P due to the presence of a
+mobile gate at the intersection with the civil apron,
+which separates civil area from military area and it requires to be
+completely open in order to allow a safe crossing.
+Taxiing procedures implemented for TWY P
+Verso il piazzale civile:
+gli aeromobili saranno inizialmente autorizzati all’IHP ‘P2’; una volta
+che le operazioni di apertura del cancello mobile saranno completate,
+gli aeromobili saranno autorizzati a continuare il rullaggio verso il
+piazzale civile.
+To the civil apron:
+ACFT will be initially cleared to the IHP ‘P2’; once mobile gate opening
+operations are completed, ACFT will be cleared to continue
+taxiing to the civil apron.
+Dal piazzale civile:
+quando la TWR rilascia l’autorizzazione per il rullaggio sulla pista
+in uso, tenendo in considerazione la situazione del traffico sull’area
+di manovra, gli aeromobili potranno essere inizialmente autorizzati
+all’IHP ‘P1’ dalla TWR.
+Ulteriori istruzioni per proseguire il rullaggio dall’IHP saranno fornite
+dalla TWR a seconda delle condizioni di traffico in atto.
+From the civil apron:
+when TWR issues the clearance for taxi to the runway in use, taking
+into account the TFC conditions on the manoeuvring area,
+ACFT could be initially cleared to the IHP ‘P1’ by TWR.
+Further instructions to continue taxiing from the IHP will be provided
+by TWR according to the TFC conditions in progress.
+TWY A:
+NON disponibile per aeromobili FOD sensitive.
+TWY A:
+NOT available for foreign object damage (FOD) sensitive ACFT.
+MAIN TAXI ROUTE:
+la porzione della ‘Main Taxi Route’ compresa tra la TWY ‘A’ e la TWY ‘B’
+non è disponibile per gli aeromobili FOD sensitive.
+MAIN TAXI ROUTE:
+portion of ‘Main Taxi Route’, between TWY 'A' and TWY 'B', not
+available for foreign object damage (FOD) sensitive ACFT.
+4 Procedure applicabili agli aeromobili in condizioni di
+visibilità ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+4.1 Criteri per l'attivazione delle LVP 4.1 Criteria for initiation of LVP
+LVP non disponibili
+Utilizzo delle piste
+NIL
+LVP not available
+Runway operations
+NIL
+4.2 Minime operative di aeroporto 4.2 Aerodrome operating minima
+• avvicinamenti ed atterraggi non consentiti con valori di visibilità
+inferiori a 1200m
+• decolli non consentiti con valori di visibilità inferiori a 1200m
+• Approaches and landing denied with visibility less than 1200m
+• take-off denied with visibility less tham 1200m
+4.3 Attività di addestramento 4.3 Training activities
+Non consentite durante le AWO Not allowed during AWO
+4.4 Movimentazione al suolo 4.4 Ground movement
+In condizioni di visibilità ridotta (inferiore a 1500m fino a 1200m o
+tali da impedire alla torre di controllo l’applicazione di separazioni a
+vista tra aeromobili) i movimenti di rullaggio relativi alla partenza e
+all’arrivo degli aeromobili non saranno permessi per pista diversa dalla
+pista in uso, inoltre si applica quanto segue:
+In case of reduced visibility conditions (less than 1500m until 1200m,
+or in case visibility conditions are not sufficient for the TWR to
+provide visual separation between aircraft) taxiing for departing/
+arriving aircraft will be allowed only to/fm RWY in use and the following
+procedures will be put in place:
+a. Aeromobili in partenza:
+un aeromobile in partenza è autorizzato al rullaggio in sequenza, se
+il pilota è in grado di mantenere la propria separazione mantenendo
+in vista il traffico che lo precede per la partenza, in caso contrario
+sarà istruito a mantenere posizione al parcheggio.
+a. Departing aircraft:
+a departing aircraft will be authorized to taxi in sequence if the
+pilot is able to maintain the preceding departing acft in sight and
+provide own separation from it. Otherwise, it will be requested and
+instructed to hold in parking position.
+b. Aeromobili in arrivo:
+un aeromobile in arrivo sarà istruito al rullaggio seguendo lo stesso
+percorso al suolo dell’aeromobile precedentemente atterrato.
+b. Landing aircraft:
+a landing aircraft will be authorized to taxi following the same taxiing
+path of the preceding landed aircraft.
+c. Aeromobile in Arrivo/Aeromobile in Partenza:
+un aeromobile in partenza è autorizzato al rullaggio quando
+l’aeromobile precedentemente atterrato è in grado di mantenere la
+via di rullaggio dove ha liberato la pista ed è in vista dalla TWR, o
+ha raggiunto il piazzale.
+c. Landed / Departing aircraft:
+a departing aircraft will be authorized to taxi to holding point if
+the preceding landed aircraft is able to hold position over the TWY
+through which it has vacated the RWY and it is in sight by the TWR,
+or it has already reached the apron.
+L’ATC specificherà il messaggio “Reduced Aerodrome Visibility
+Procedures in Progress”.
+Per ottemperare a quanto sopra specificato gli aeromobili dovranno:
+a. se in atterraggio, riportare l’uscita dalla pista ed il raggiungimento
+del punto di stazionamento sul piazzale
+b. se in partenza, riportare l’ingresso in pista e l’avvenuto decollo
+ATC will stress the message “Reduced Aerodrome Visibility Procedures
+in Progress”.
+To comply with the above mentioned the following applies:
+a. landing aircraft shall report runway vacated and to have reached
+the stand at apron
+b. departing aircraft shall report entering the runway and airborne
+
+=== Page 14 ===
+AD 2 LIRS 1 - 14
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Inoltre durante il rullaggio dovranno confermare tramite read-back
+tutte le autorizzazioni ottenute circa gli svincoli ed i raccordi da
+utilizzare per il rullaggio e dovranno poi riportare le posizioni
+attraversate
+In addition, during taxiing aircraft shall confirm by “read back” all
+received clearances about intersections and taxiways to be used for
+taxiing and shall report all crossed positions
+4.5 Contingenza 4.5 Contingencies
+NIL NIL
+4.6 Avaria in area di manovra 4.6 Radio failure on the manoeuvring area
+Vedi tabella 20.8 See table 20.8
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. RWY 03L/21R:
+• Cavi Bliss Bak 12 posizionati 218 m oltre la THR 03L (Coordinate
+42°45'06.41''N, 011°03'47.44''E) e 330 m prima del fine pista RWY
+03L (Coordinate 42°46'11.69''N, 011°04'40.58''E)
+• Cavi Bliss Bak 12 posizionati 330 m oltre la THR 21R (Coordinate
+42°46'11.69''N, 011°04'40.58''E) e 314 m prima del fine pista RWY
+21R (Coordinate 42°45'06.41''N, 011°03'47.44''E)
+• a causa della presenza dei cavi Bliss Bak 12, dovrà essere usata
+una specifica fraseologia. Nell’autorizzazione all’atterraggio la TWR
+dovrà ricordare ai piloti di atterrare dopo il cavo di arresto e i
+piloti dovranno confermare prima di completare l’avvicinamento per
+l’atterraggio. I piloti dovranno riportare in vista il marking della Bliss
+Bak (dischi gialli) che segnala la presenza del cavo di arresto.
+6.1. RWY 03L/21R:
+• Position of Bliss Bak 12 cable 218 m after THR 03L (Coordinates
+42°45'06.41''N, 011°03'47.44''E) and 330 m before END RWY 03L
+(Coordinates 42°46'11.69''N, 011°04'40.58''E)
+• Position of Bliss Bak 12 cable 330 m after THR 21R (Coordinates
+42°46'11.69''N, 011°04'40.58''E) and 314 m before END RWY 21R
+(Coordinates 42°45'06.41''N, 011°03'47.44''E)
+• due to presence of Bliss Bak 12 cables, a specific phraseology has
+to be used. In the clearance for landing, TWR will remind pilots to
+land after the arresting cable and pilots have to acknowledge before
+completing the approach for landing. Pilots have to report in sight
+Bliss Bak marking (yellow disks) disks marking locating the arresting
+cable.
+6.2. L’aeroporto è aperto al traffico civile autorizzato solo in orario
+diurno (vedi orari nella tabella 3, punto 1), con le seguenti limitazioni:
+a. Sono consentiti massimo 2000 movimenti complessivi annui di
+aeromobili commerciali e privati, di cui massimo 5 movimenti alla
+settimana con MTOW compreso fra 3000 kg e 5000 kg (massimo
+70 all’anno)
+b. Non sono autorizzate le operazioni di aeromobili privati con MTOW
+inferiore a 3000 kg, fatta eccezione per quelli che hanno base
+autorizzata presso l’aeroporto di Grosseto
+c. E' obbligatoria un'autorizzazione annuale allo scalo di Grosseto da
+richiedere all'ENAC - DA Toscana
+d. Deve essere richiesto un permesso preventivo (PPR) al 4° Stormo
+tel +39 0564 445330/333 con 24h di anticipo. Il PPR rilasciato deve
+essere riportato nell’item 18 del FPL con arrivo a LIRS
+e. L’attività civile è subordinata alle operazioni e alle attività di
+addestramento militari
+6.2. AD is open to authorized civil traffic only during daylight (see
+operational hours in table 3, item 1), with the following
+limitations:
+a. Max 2000 commercial and private aircraft movements per year are
+allowed, of which max 5 movements per week, with MTOW between
+3000 kg and 5000 kg (max 70 per year)
+b. Private aircraft operations with MTOW below 3000kg are not allowed
+except for Grosseto authorized based aircraft
+c. A yearly authorization to operate over Grosseto airport is mandatory
+and to be requested to ENAC- DA Toscana
+d. A PPR has to be submitted to Grosseto 4th Wing Headquarter tel
++39 0564 445330/333 at least 24HR PN. The released PPR number
+must be filled in item 18 of FPL with destination LIRS
+e. Civil activity is subject to military operations and training activity
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+8 Radio avaria sull’area di manovra 8 Radio failure on manoeuvring area
+1. Aeromobili in partenza:
+continuano sul percorso assegnato fino a raggiungere il limite
+dell’autorizzazione ricevuta. Attendono l’arrivo del follow-me per il
+parcheggio
+2. Aeromobili in arrivo:
+liberano la pista. Attendono l’arrivo del follow-me per il parcheggio
+1. Departing aircraft:
+continue on the assigned taxi route until reaching clearance limit
+position. Wait for follow-me vehicle in order to be guided back to
+parking stand
+2. Arriving aircraft:
+vacate the runway. Wait for follow-me vehicle in order to taxi to
+parking stand
+LIRS AD 2.21 PROCEDURE ANTIRUMORE
+LIRS AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+Procedure anti-rumore: il traffico operante sull’aeroporto di Grosseto
+deve attenersi a quanto stabilito in AIP – Italia, ENR 1.5
+Noise abatement procedures: traffic operating at Grosseto aerodrome
+shall comply with procedures published on AIP - Italia, ENR 1.5
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIRS 1 - 15
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+Apron Civile: l’uso dei generatori di bordo APU (Auxiliary Power Unit) è
+consentito solo 30 minuti prima della partenza e 30 minuti dopo l’arrivo
+Civil Apron: the use of APU (Auxiliary Power Unit) is allowed only 30min
+before departure and 30 min after arrival
+3.3 Prove Motori 3.3 Engine run ups
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIRS AD 2.22 PROCEDURE DI VOLO
+LIRS AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+NIL NIL
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+In caso di attività militare, il traffico civile IFR sarà istruito ad attendere
+su GRO DVOR.
+In case of military activity, civil IFR traffic will be instructed to hold
+over GRO DVOR.
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: vedere Tabella 24 STAR description: see Table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+NIL NIL
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+In caso di avaria radio, la radioassistenza designata su cui iniziare la
+discesa per l’atterraggio per l’aeroporto di Grosseto è GRO VOR
+In the event of radio failure the radio aid designated to descend for
+landing to Grosseto airport is GRO VOR
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Procedure di salita iniziale e SID: vedere Tabella 24 Initial Climb procedures and SID: see Table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+Vedere ENR 2.1.2 See ENR 2.1.2
+3.2 Caratteristiche operative 3.2 Operational characteristics
+
+=== Page 16 ===
+AD 2 LIRS 1 - 16
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+4.1.1. In caso di attività militare, il traffico civile VFR deve attendere
+sui punti attesa VFR pubblicati (vedere AD 2 LIRS 5-1 Visual Approach
+Chart - ICAO)
+4.1.1. In case of military activity, civil VFR traffic has to hold over
+published VFR holding points (see AD 2 LIRS 5-1 Visual
+Approach Chart - ICAO)
+4.1.2. Il traffico VFR dovrà richiedere a Grosseto APP l’autorizzazione
+ad attraversare l’area prima di interessare il CTR
+4.1.2. VFR traffic shall request to Grosseto APP clearance to cross the
+area before entering CTR
+4.2 Attività di circuito 4.2 Circuit activity
+Circuito di traffico:
+RWY 03L destra
+RWY 21R sinistra
+Traffic circuit:
+RWY 03L right
+RWY 21R left
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+5 LVP 5 LVP
+NIL NIL
+ 
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIRS 1 - 17
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRS AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIRS AD 2.23 ADDITIONAL INFORMATION
+ 
+1. ATTENZIONE: RWY 03L/21R e TWY disponibile con precauzione
+causa sfalcio erba. Presenza di uomini e mezzi
+1. WARNING: RWY 03L/21R and TWY available with caution due to
+grass cutting. Presence of men and equipment
+Rullaggio con precauzione a causa della mancanza della segnaletica
+orizzontale standard ICAO sulle seguenti Intersezioni:
+Taxi with caution due to lack of ICAO standard horizontal markings on
+following intersection below:
+• TWY E nel tratto compreso dal percorso di rullaggio principale alla
+RWY 03L/21R
+• TWY E from main taxi route to RWY 03L/21R
+2 WILDLIFE HAZARD 2 WILDLIFE HAZARD
+1. Possibile presenza di volpi vicinanza area di manovra, su superfici
+erbose ed aree asfaltate
+2. L’attività di monitoraggio ed allontanamento avifauna e fauna
+selvatica è svolta con i seguenti mezzi:
+Digital Bird Dispersal System (DBDS) veicolare.
+3. Concentrazione di volatili per tutto l’anno sulle piste, vie di rullaggio
+e piazzali di sosta aeromobili come riportato di seguito in tabella.
+1. Likely presence of fox vicinity manoeuvring area, grass and asphalt
+surface
+2. Keep out and monitoring service carried out with dissuasion devices
+as follows:
+Digital bird dispersal system (DBDS) vehicular.
+3. Bird flow on runways, taxiways and apron during the whole year as
+detailed in the table below.
+Specie
+Species
+Periodo di
+presenza
+Period of presence
+Ore di presenza
+Hours of presence
+Quota media di
+concentrazione dei
+volatili (FT)
+Average
+height of bird
+concentration (FT)
+Grandezza
+stormi
+Flock size
+Aree di
+maggiore
+rischio
+Areas with
+the greatest
+hazard
+Distribuzione
+nell’area di
+manovra
+Distribution on
+manoeuvring
+area
+Gabbiano reale
+Herring gull
+Tutto l’anno
+Whole year
+Tutto il giorno,
+prevalentemente
+0700-1000
+Whole day,
+peak between
+0700-1000
+0-300 1-20
+MAIN RWY
+THR 03L/THR 21R
+Su tutta l’area di
+manovra sia in
+transito che fermi
+su  zone asfaltate
+Over all
+manoeuvring
+area, flying  away
+or  standing
+on asphalt
+Guardabuoi
+Cattle egret
+MAY-SEP
+Tutto il giorno,
+prevalentemente
+0700-1000
+Whole day,
+peak between
+0700-1000
+0-300 1-50 THR 03L/THR 21R
+Su tutta l’area di
+manovra  sia in
+transito che fermi
+su zone asfaltate
+specialmente
+durante 
+sfalcio erba
+Over all
+manoeuvring
+area, flying  away
+or  standing
+on asphalt
+expecially  during
+grass cutting
+Gheppio
+Kestrel
+Tutto l’anno,
+prevalentemente
+JUN-SEP
+Whole year,
+major presence
+in JUN-SEP
+Ore diurne
+Daylight
+0-300 1-2
+Area di
+manovra
+Manoeuvring
+area
+In volo su tutte
+le superfici
+erbose e asfaltate
+Flying on grass
+areas and asphalt
+Gazza
+Magpie
+Tutto l'anno
+Whole  year
+Ore diurne
+Daylight
+0-300 1-10
+Area di
+manovra
+Manoeuvring
+area
+In volo su tutte
+le superfici
+erbose o  fermi su
+manufatti o edifici
+Flying on grass
+areas or standing
+over buildings
+and obstacles
+
+=== Page 18 ===
+AD 2 LIRS 1 - 18
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Specie
+Species
+Periodo di
+presenza
+Period of presence
+Ore di presenza
+Hours of presence
+Quota media di
+concentrazione dei
+volatili (FT)
+Average
+height of bird
+concentration (FT)
+Grandezza
+stormi
+Flock size
+Aree di
+maggiore
+rischio
+Areas with
+the greatest
+hazard
+Distribuzione
+nell’area di
+manovra
+Distribution on
+manoeuvring
+area
+Cornacchia
+Crow
+Tutto l’anno
+Whole year
+Tutto il giorno
+Whole day
+0-300 1-10
+Area di
+manovra
+Manoeuvring
+area
+In volo su tutte
+le superfici
+erbose o  fermi su
+manufatti o edifici
+Flying on grass
+areas or standing
+over buildings
+and obstacles
+3 Elenco delle esenzioni permanenti riportate nella specifica
+di certificazione
+3 List of permanent exemptions reported in the certification
+specification
+1. Presenza di ostacoli all’interno della runway strip (cavi di arresto/
+apparati di ritenuta, apparati tattici militari ed infrastrutture
+tecnologiche relative all’ILS RWY 03L) – Regolamento per la
+costruzione ed esercizio degli aeroporti (RCEA) Cap. 3 para 4.1.2.
+1. Presence of obstacles within the runway strip (arresting cables/
+restraint devices, military tactical equipment and ILS RWY 03L
+technological infrastructures) – Regolamento per la costruzione ed
+esercizio degli aeroporti (RCEA) Chapter 3 para 4.1.2.
+ 
+LIRS AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIRS AD 2.24 CHARTS RELATED TO THE AERODROME
+ 
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIRS 2 - 1
+AIRCRAFT PARKING DOCKING CHART  AD 2 LIRS 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 03L/21R  AD 2 LIRS 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIRS 3 - 3
+STAR VOR RWY 03L  AD 2 LIRS 4 - 1
+STAR VOR RWY 03L DESCRIPTION TABLES  AD 2 LIRS 4 - 3
+STAR VOR RWY 03L MEFFE  AD 2 LIRS 4 - 5
+STAR VOR RWY 03L MEFFE DESCRIPTION TABLES  AD 2 LIRS 4 - 7
+ICAO VISUAL APPROACH CHART  AD 2 LIRS 5 - 1
+ICAO INSTRUMENT APPROACH CHART VOR RWY 03L  AD 2 LIRS 5 - 3
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC-Z RWY 03L  AD 2 LIRS 5 - 5
+INITIAL CLIMB AND SID VOR RWY 03L/21R UPADU 5S/5W LOMED
+5S/5W
+ AD 2 LIRS 6 - 1
+INITIAL CLIMB AND SID VOR RWY 03L/21R UPADU 5S/5W LOMED
+5S/5W DESCRIPTION TABLES
+ AD 2 LIRS 6 - 3
+INITIAL CLIMB AND SID VOR RWY 03L/21R GIKIN 7S/7W BAMVU
+5S/5W
+ AD 2 LIRS 6 - 5
+INITIAL CLIMB AND SID VOR RWY 03L/21R GIKIN 7S/7W BAMVU
+5S/5W DESCRIPTION TABLES
+ AD 2 LIRS 6 - 7
+Carte - Charts Pagine - Pages 
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIRS AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIRS AD 2.25 Visual segment surface (VSS) penetration

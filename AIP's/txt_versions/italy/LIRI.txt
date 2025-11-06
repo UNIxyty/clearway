@@ -1,0 +1,1420 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIRI 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIRI AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIRI AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIRI - SALERNO/Pontecagnano
+LIRI AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIRI AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+40°37'12''N 014°54'45''E
+2 Direzione e distanza dalla città 7.55 NM ESE di Salerno
+ Direction and distance from city 7.55 NM ESE of Salerno
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+123 FT / 32.2° C
+4 Ondulazione del geoide
+ Geoid undulation
+157.5 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+4° E (2020.0) / 7'E
+6 Autorità amministrativa aeroportuale ENAC - DT Campania
+Aeroporto "Ugo Niutta"
+Viale Fulco Ruffo di Calabria
+80144 Napoli Capodichino
+ Tel +39 081 5951203/8
+ Fax +39 081 5951229 
+e-mail: campania.apt@enac.gov.it
+Ufficio di Salerno
+Tel: +39 0828 3543 80
+ Aerodrome administration authority  
+ Gestore aeroportuale GE.S.A.C. S.p.A.
+AEROPORTO DI SALERNO
+Tel +39 0828 354340- fax +39 0828 1896936
+Ufficio Scalo: tel +39 0828 354305/6
+Via Olmo SNC, Bellizzi (SA)
+e-mail: ops_sa@gesac.it
+ Aerodrome operator  
+ Autorità ATS ENAV S.p.A. - Centro Aeroportuale Salerno
+Tel: +39 0828 5474013;
+ fax +39 0828 5474013
+e-mail: ci-salerno@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note 1. Codice di riferimento Annesso  14 per infrastrutture di volo: 4C
+ Remarks 1. Ref. Code Annex 14 flight infrastructure: 4C
+            
+                   
+LIRI AD 2.3 ORARIO DEI SERVIZI
+LIRI AD 2.3 OPERATIONAL HOURS
+                       
+                          
+1 Amministrazione aeroportuale HR 0500-2300 (0400-2200)
+ Aerodrome Administration  
+2 Dogana ed immigrazione Dogana: HR 0630-2200 (0530-2100) restanti orari su richiesta presso il gestore
+aeroportuale
+Immigrazione: HR 0500-2300 (0400-2200)
+
+=== Page 2 ===
+AD 2 LIRI 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+ Customs and immigration Customs: HR 0630-2200 (0530-2100) other hours on request to aerodrome operator
+Immigration: HR 0500-2300 (0400-2200)
+3 Servizio sanitario HR 0500-2300 (0400-2200)
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+   
+7 ATS HR 0500-2300 (0400-2200)
+   
+8 Rifornimento Disponibili JET A1 e AVGAS
+ Fuelling JET A1 and AVGAS available
+9 Handling HR 0500-2300 (0400-2200)
+ Handling  
+10 Servizi di sicurezza HR 0500-2300 (0400-2200)
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+2. Amministrazione aeroportuale, servizio sanitario, handling e servizi di sicurezza: a
+richiesta del vettore è possibile estendere gli orari di servizio per un massimo di 2
+ore
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+2. Aerodrome administration, health and sanitation, handling and security: on
+carrier’s request it is possible to extend operational hours maximum 2 hours
+LIRI AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIRI AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento AVGAS: impianto fisso litri 10000 - JET A1: impianto fisso 102 mc
+ Fuelling capacity AVGAS: fixed pump litres 10000 - JET A1: fixed pump 102 mc
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+Piccole riparazioni
+ Repair facilities for visiting aircraft Minor repair
+7 Note 1. Rifornimento AVGAS possibile solo con manovra di avvicinamento a spinta al
+distributore
+ Remarks 1. AVGAS refuelling possible only with push in manoeuvre towards the fuel station
+LIRI AD 2.5 SERVIZI PER I PASSEGGERI
+LIRI AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti Bar- tabacchi
+ Restaurants Bar- tobacconist
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIRI 1 - 3
+AIRAC effective date 10 JUL 2025
+ENAV - Roma (A07/25)
+3 Trasporti Taxi, autonoleggio, autolinee
+ Transportation Taxi, car rental, bus
+4 Servizio medico Servizio Sanitario Aeroportuale - Posto pronto soccorso aeroportuale
+ Medical facilities Aerodrome medical service - Aerodrome first aid station
+5 Banca e ufficio postale Sportello bancomat
+ Bank and Post office Cash dispenser
+6 Ufficio turistico In città
+ Tourist office In town
+7 Note NIL
+ Remarks  
+LIRI AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIRI AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 7 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà Barre di traino e trattori per rimuovere aeromobili fino a A321N
+ Capability for removal of disabled aircraft Tow-bars and trucks to remove up to A321N aircraft
+4 Note NIL
+ Remarks  
+LIRI AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIRI AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura 1) Equipaggiamento sgombero neve:
+ a) mezzi spalaneve reperibili durante la stagione invernale da ditta esterna, 
+altro equipaggiamento a richiesta;
+2) Equipaggiamento per la pulizia ordinaria:
+ a) Spazzatrice
+ Types of clearing equipment 1) Snow removal equipment:
+ a) snowsweepers on call during winter season from external suppliers, other
+equipment on request;
+2) Routine clearing equipment:
+ a) sweeper
+2 Priorità Pista - Taxiway - Apron
+ Clearance priorities Runway - Taxiway - Apron
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. Le caratteristiche di aderenza della pista sono misurate ogni 3 mesi, con l'uso
+del Skiddometer BV-11 con sistema autobagnante. Il coefficiente minimo di
+aderenza sarà G=0.53 e sotto tale valore saranno intraprese azioni correttive e di
+manutenzione. Se il coefficiente minimo di aderenza è al di sotto di G=0.43 la pista
+potrà essere scivolosa
+2. La rilevazione delle condizioni della pista e i rapporti sono gestiti in accordo a
+quanto contenuto nel Manuale di Aeroporto, Parte E, sez. 9
+3. Sostanze utilizzate per il trattamento della superficie dell’area di manovra: non
+applicabile
+4. Piste invernali appositamente predisposte: non applicabile
+
+=== Page 4 ===
+AD 2 LIRI 1 - 4
+AIRAC effective date 10 JUL 2025 AIP - Italia
+(A07/25) ENAV - Roma
+ Remarks 1. Adherence characteristic measurement is measured every 3 months, by use of
+Skiddometer BV-11self wetting. Minimum friction coefficient will be G=0.53 and
+below that value maintenance and corrective actions will be taken. If minimum
+friction coefficient is below G=0.43 RWY may be slippery
+2. Runway surface condition assessment and reporting are managed according to
+prescriptions contained in Aerodrome Manual Part E, sec. 9
+3. Use of material for movement area surface treatment: not applicable
+4. Specially prepared winter runways: not applicable
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIRI 1 - 5
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRI AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIRI AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+APRON EAST (MAIN
+APRON) - Stands
+101-107, 201-207
+CONC PCN 75/R/A/W/T
+APRON WEST -
+Stands 21-27
+BITUMCONG PCN 10/F/B/Y/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 15 M BITUMCONG PCN 15/F/C/Y/T
+B 15 M BITUMCONG PCN 11/F/C/Y/T
+C 10 M BITUMCONG PCN 12/F/C/Y/T
+E 15 M BITUMCONG PCN 80/F/A/W/T
+F 18 M BITUMCONG PCN 80/F/A/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. La TWY C è utilizzabile solo da velivoli con interasse del carrello principale inferiore
+a 4.5m
+ Remarks 1. TWY C can only be used by aircraft with main landing gear wheelbase less than
+4.5m
+LIRI AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIRI AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi carta AD in vigore
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See AD chart in force
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carta AD in vigore
+ RWY and TWY markings and lights See AD chart in force
+3 Barre d'arresto Vedi carta AD in vigore
+ Stop bars See AD chart in force
+4 Note 1. Vedi carta AD in vigore
+ Remarks 1. See AD chart in force
+
+=== Page 6 ===
+AD 2 LIRI 1 - 6
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+LIRI AD 2.10 OSTACOLI AEROPORTUALI
+LIRI AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIRI AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIRI AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO ROMA, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO ROMA, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / IT/EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts / IT/EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Salerno AFIU, Roma ACC
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO ROMA: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le  nubi con altezza della base al di sotto di 8200ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO ROMA: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 8200ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIRI 1 - 7
+AIRAC effective date 10 JUL 2025
+ENAV - Roma (A07/25)
+LIRI AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIRI AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+05 052.33° 1962 x 45
+PCN 85/F/A/W/T
+BITUMCONG
+40°36'43.23''N
+014°53'56.55''E
+40°37'22.11''N
+014°55'02.64''E
+157.3  FT
+74.3  FT / 80.9 FT
+23 232.34° 1962 x 45
+PCN 85/F/A/W/T
+BITUMCONG
+40°37'20.23''N
+014°54'59.44''E
+40°36'43.23''N
+014°53'56.55''E
+157.5  FT
+120.4  FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+05
+0.77 % valore medio
+mean value
+NIL 60 x 150 2082 x 280 240 x 150
+23
+0.77 % valore medio
+mean value
+NIL 60 x 150 2082 x 280 240 x 150
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+05 NIL
+La lunghezza della pista di 2140 m è comprensiva dei 178 m posti oltre il fine pista 23, disponibili
+per il decollo da pista 05 / RWY length is 2140 m including 178 m beyond RWY 23 end available
+for take-off RWY 05
+23 NIL
+1) DTHR 95 m
+2) La lunghezza della pista di 2022 m è comprensiva dei 60 m posti oltre il fine pista 05, disponibili
+per il decollo da pista 23 / RWY length is 2022  m including 60 m beyond RWY 05 end available
+for take-off RWY 23
+
+=== Page 8 ===
+AD 2 LIRI 1 - 8
+AIRAC effective date 10 JUL 2025 AIP - Italia
+(A07/25) ENAV - Roma
+LIRI AD 2.13 DISTANZE DICHIARATE
+LIRI AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+05
+START POINT RWY 05
+1962
+2140
+2022
+2200
+1962
+2140
+1962
+-
+23
+START POINT RWY 23
+1962
+2022
+2022
+2082
+1962
+2022
+1867
+-
+NOTE NIL
+REMARKS  
+LIRI AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIRI AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+05 SALS 430 VRB G NIL 3°
+wing bars
+entrambi i lati/
+both sides
+ 
+14.1 NIL
+23 NIL NIL NIL G NIL 3.75°
+wing bars
+entrambi i lati/
+both sides
+ 
+20.3 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+05 NIL NIL NIL NIL 1260
+600
+60
+60
+W
+Y
+VRB
+VRB
+23 NIL NIL NIL NIL 155
+120
+600
+60
+60
+60
+R
+W
+Y
+VRB
+VRB
+VRB
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+05 R NIL NIL NIL NIL NIL
+23 R NIL NIL Si/Yes Si/Yes 1) CGL: solo/only SE
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIRI 1 - 9
+AIRAC effective date 11 JUL 2024
+ENAV - Roma (A07/24)
+LIRI AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIRI AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 40°37'16''N   014°55'17''E
+Caratteristiche: rotante a luce bianco/verde alternata
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 40°37'16''N   014°55'17''E
+Characteristics: revolving white/green alternating light
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 730 m dopo THR 23, circa 155 m a destra RCL. Illuminato.
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 730 m after THR 23, about 155 m right side RCL. Lighted.
+3 Illuminazione bordo e asse centrale TWY Solo bordo TWY A-B-C; bordo e asse TWY E-F
+ TWY edge and center line lighting Edge only TWY A-B-C; edge and center TWY E-F
+4 Alimentatore secondario/Tempo di 
+intervento
+UPS inferiore a 1 secondo; gruppo elettrogeno 10-12 secondi
+ Secondary power supply/Switch over time UPS less than 1 second; Power Unit 10-12 seconds
+5 Note NIL
+ Remarks  
+LIRI AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIRI AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 10 ===
+AD 2 LIRI 1 - 10
+AIRAC effective date 11 JUL 2024 AIP - Italia
+(A07/24) ENAV - Roma
+LIRI AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIRI AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Salerno Pontecagnano ATZ
+40°39'56"N 014°49'17"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+40°37'17"N
+014°54'51"E till point
+40°32'24"N 014°56'18"E;
+40°30'47"N 014°50'52"E;
+40°35'30"N 014°45'41"E;
+to point of origin.
+3500 FT
+AMSL
+G
+Salerno
+Aerodrome INFO
+EN/IT
+8000 FT
+1) WI Roma FIR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+  (RMZ)
+LIRI AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIRI AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500
+HR 0500-2300
+(0400-2200)
+NIL
+APP Roma Radar 124.350 H24 NIL
+APP Roma Radar 134.200 Vedi note/See remarks
+1) Frequenza a discrezione ATC/ATC
+discretion frequency
+AFIS Salerno Aerodrome INFO 119.175
+HR 0500-2300
+(0400-2200)
+NIL
+LIRI AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIRI AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Salerno
+Gonio
+Homer
+NIL
+HR
+0500-2300
+(0400-2200)
+40°37'27.1''N
+014°54'52.6''E
+NIL
+limitazioni a/limitations at 50
+NM
+000°/030° MRA 14000 FT
+030°/090° MRA 12000 FT
+090°/170° MRA 8000 FT
+170°/250° MRA 2000 FT
+250°/360° MRA 8000 FT
+1) Disponibile su tutte
+le frequenze AFIS ed
+emergenza
+Available on all AFIS and
+emergency frequency
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIRI 1 - 11
+AIRAC effective date 10 JUL 2025
+ENAV - Roma (A07/25)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(2° E-2005.0)
+PTC
+110.45
+MHZ
+CH 41Y
+VOR H24
+DME H24
+VOR
+40°37'12.0''N
+014°54'30.1''E
+DME
+40°37'12.5''N
+014°54'30.1''E
+41 M
+AMSL
+40 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+090°/140° MRA 8000 FT
+140°/180° MRA 6000 FT
+180°/250° MRA 2000 FT
+250°/270° MRA 6000 FT
+270°/320° MRA 8000 FT
+320°/335° MRA 10000 FT
+335°/090° MRA 12000 FT
+limitazioni a/limitations at 50
+NM
+RDL 228 MRA 7000 FT
+NIL
+DVOR/DME
+(4° E-2020.0)
+SOR
+112.20
+MHZ
+CH 59X
+DVOR H24
+DME H24
+DVOR
+40°34'56.8''N
+014°20'06.1''E
+DME
+40°34'56.5''N
+014°20'05.7''E
+502 M
+AMSL
+Settore/sector 300°/045°:
+60 NM/50000 FT
+Settore/sector 045°/300°:
+120 NM/50000 FT
+VOR
+RDL 004 NU
+RDL 024 NU
+RDL 026 NU
+limitazioni oltre/limitations
+beyond 8 NM
+RDL 342 NU
+VOR
+limitazioni a/limitations at 40
+NM
+050°/079° MRA 15000 FT
+080°/139° MRA 8000 FT
+140°/049° MRA 10000 FT
+DME
+limitazioni a/limitations at 40
+NM
+050°/079° MRA 15000 FT
+080°/139° MRA 8000 FT
+140°/049° MRA 10000 FT
+1) MAINT:
+primo TUE di ogni mese/
+first TUE each month
+0830-1000 (0730-0900)
+LIRI AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIRI AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+Atterraggi RWY 05, decolli RWY 23 Landing RWY 05, Take-off RWY 23
+2 Apron 2 Apron
+Apron Est disponibile per gli aeromobili di Aviazione Commerciale e
+Aviazione Generale; Apron Ovest solo per aeromobili di Aviazione
+Generale.
+Apron East available for Commercial and General Aviation; Apron West
+for General Aviation only.
+2.1 Ordinato movimento degli aeromobili sui piazzali 2.1 Orderly movement of aircraft on the aprons
+L’ordinato movimento degli aeromobili sui piazzali è assicurato in
+collaborazione tra ENAV S.p.A. ed il Gestore Aeroportuale GESAC
+S.p.A. in accordo con le disposizioni del Codice di Navigazione
+Aerea (COD. NAV. Art. 691bis and Art. 705)
+Orderly movement of aircraft on the aprons is provided in cooperation
+by ATC ENAV S.p.A. and Aerodrome Operator GESAC S.p.A., according
+to the Italian Air Navigation Law Provision (COD. NAV. Art. 691bis and
+Art. 705)
+2.1.1 Orario di servizio 2.1.1 Hours of operation
+
+=== Page 12 ===
+AD 2 LIRI 1 - 12
+AIRAC effective date 10 JUL 2025 AIP - Italia
+(A07/25) ENAV - Roma
+H18 H18
+2.1.2 Nominativo di chiamata e frequenza 2.1.2 Call Sign and frequency
+Salerno AFIU 119.175 MHz, HR 0500-2300 (0400-2200)
+Gestore Aeroportuale (nominativo: GESAC Apron Management
+Office): HR 0430 2300 (0330- 2200)
+Salerno AFIU 119.175 MHz, HR 0500-2300 (0400-2200)
+Aerodrome Operator (call sign: GESAC Apron Management Office): HR
+0430 2300 (0330- 2200)
+2.1.3 Area di applicazione 2.1.3 Application area
+Apron Est (Vedi APDC – Apron Est)
+Apron Ovest (Vedi APDC – Apron Ovest
+Apron Est (See APDC – Apron East)
+Apron Ovest (See APDC – Apron West)
+2.1.4 Servizi fornito 2.1.4 Services provided
+a. Aeromobili in partenza:
+• istruzioni per il push-back e/o il rullaggio
+b. Aeromobili in arrivo:
+• assegnazione parcheggi
+• istruzioni per il rullaggio
+c. :Follow-me
+Il servizio del Follow-me sul piazzale:
+• viene fornito su richiesta dei piloti o dell’ATC
+• è obbligatorio in condizioni di visibilità 2
+d. Marshalling:
+il marshalling è obbligatorio e garantito dal Ground Handler
+Operator.
+L’uso delle taxilane per entrare/uscire dagli stands degli aeromobili
+è consentito solo con il marshaller in vista.
+a. Departing aircraft:
+• instructions for push-back and/ot taxiing
+b. Arriving aircraft:
+• stand allocations
+• taxiing instructions
+c. Follow-me
+Follow-me assistance on apron:
+• is provided if requested by pilots or ATC
+• is compulsory in visibility condition 2
+d. Marshalling:
+marshalling is compulsory and is assured by the Ground Handler
+Operator.
+The use of taxilane to enter/exit the aircraft stands is allowed only
+with the marshaller in sight.
+2.1.5 Limitazioni/regolamentazioni sui piazzali 2.1.5 Limitations/regulations on aprons
+a. Aeromobili in partenza:
+NIL
+b. Limiti dell’area Apron:
+vedere APDC – APRON EST, APDC – APRON OVEST
+a. Departing aircraft:
+NIL
+b. Apron area limits:
+see APDC – APRON EAST, APDC – APRON WEST
+NOTA
+Lo stato di “AIRCRAFT READY” significa:
+1. Operazioni di handling completate
+2. Porte e stive chiuse
+3. Scale retratte o rimosse
+4. Trattore pushback connesso all’aeromobile (piazzole nose-in)
+5. piazzola libera da veicoli e persone ad eccezione delle attrezzature
+eventualmente necessarie alla messa in moto dell’aeromobile
+REMARK
+“AIRCRAFT READY” status means:
+1.  handling operations completed
+2. doors and holds closed
+3. stairs retracted or removed
+4. push-back tractor connected to the aircraft (nose-in stand)
+5. stand clear of vehicles and personnel with the exception of
+equipment that may be necessary for engine start up
+2.1.6 Movimentazione degli aeromobili sui piazzali 2.1.6 Aircraft movement on aprons
+L’aeromobile verrà istruito a muoversi dallo stand dall’AFIU
+solo quando rilasciato dal Gestore Aeroportuale GESAC
+Aircraft will be instructed to move from the stand by AFIU only when
+released by the Aerodrome Operator GESAC
+2.1.7 Piazzali a regolamentazione speciale 2.1.7 Aprons subject to special regulation
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (RAVP)
+4 Aircraft procedures in reduced visibility conditions (RAVP)
+Quando tutta o parte dell’area di manovra non è visibile dalla TWR
+è prevista l’applicazione delle seguenti procedure a protezione delle
+operazioni con aeromobili In tali condizioni è prevedibile una riduzione
+della capacità aeroportuale a causa delle restrizioni applicate alla
+movimentazione al suolo
+When all or part of the maneuvering area is not visible from the TWR,
+the following procedures will be applied to protect aircraft operations
+In these conditions, a reduction in airport capacity can be expected
+due to the restrictions applied to ground movement of the aircrafts
+4.1 Utilizzo delle piste 4.1 Runway use
+1. In condizioni di ridotta visibilità la RWY 05 è utilizzata per gli
+avvicinamenti e la RWY 23 per le partenze.
+1. In reduced visibility conditions, RWY 05 is used for approach and
+RWY 23 dor departures.
+4.2 Minime operative di aeroporto 4.2 Aerodrome operating minima
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIRI 1 - 13
+AIRAC effective date 10 JUL 2025
+ENAV - Roma (A07/25)
+a. per pista 05 sono consentite operazioni di:
+• atterraggio con visibilità pari o superiore a 800 m
+• decollo con visibilità pari o superiore a 800 m
+b. per pista 23 sono consentite operazioni di:
+• atterraggio con visibilità pari o superiore a 1500 m
+• decollo con visibilità pari o superiore a 800 m
+a. operations permitted for Runway 05:
+• landing with visibility equal to or greater than 800 m
+• takeoff with visibility equal to or greater than 800 m
+b. operations permitted for Runway 23:
+• landing with visibility equal to or greater than 1500 m
+• takeoff with visibility equal to or greater than 800 m
+4.3 Minimeoperativeper il rullaggio 4.3 Operating minimafor taxiing
+Con visibilità inferiore a 400 m è consentita la movimentazione di un
+solo aeromobile alla volta in area di movimento e sarà obbligatoria
+l’assistenza del follow-me. Non è consentita la movimentazione al
+suolo con visibilità inferiore a 75m.
+With visibility less than 400 m, only one aircraft can taxy at a time in
+the movement area and follow-me assistance will be mandatory. No
+taxiing is allowed with visibility less tha 75 m.
+4.4 Criteri per l’attivazione delle LVP 4.4 LVP activation criteria
+NIL NIL
+4.5 Attività di addestramento 4.5 Training activity
+Non consentita durante le RAVP. Not permitted during RAVP.
+4.6 Movimentazione al suolo 4.6 Aicraft movement on the ground
+Nella porzione di area di manovra che non è visibile dall’AFIU non
+è consentita la presenza di più di un aeromobile. Nella porzione di
+area di movimento che non è visibile dall’AFIU non è consentita la
+movimentazione di più di un aeromobile.
+In the portion of the maneuvering area that is not visible from the
+AFIU, the presence of more than one aircraft is not permitted. In the
+portion of the movement area that is not visible from the AFIU, the
+movement of more than one aircraft is not permitted.
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+Al fine di garantire la minima occupazione di pista, se non
+diversamente indicato da Salerno AFIU, si applicherà quanto segue:
+1. Aeromobili in partenza:
+a. per quanto possibile, i controlli pre-volo devono essere completati
+prima dell’ingresso in pista, gli altri controlli devono essere
+effettuati il più rapidamente possibile;
+b. i traffici IFR non devono interessare la pista se non rilasciati alla
+partenza dall’ACC;
+c. i traffici VFR non devono interessare la pista se la partenza è
+soggetta a ritardo (vedi anche tabella 22.1);
+d. i piloti devono informare prontamente Salerno AFIU di ogni
+evenienza che impedisca il rispetto dei punti precedenti.
+2. Aeromobili in arrivo:
+al fine di garantire la minima occupazione di pista, se possibile
+e se non diversamente indicato da Salerno AFIU, gli aeromobili
+utilizzeranno la TWY F per liberare verso l’Apron EST e la TWY B per
+liberare verso l’Apron OVEST.
+In order to guarantee minimum runway occupancy, unless otherwise
+indicated by Salerno AFIU, the following will apply:
+1. Departing aircraft:
+a. as far as possible, pre-flight checks must be completed before
+entering the runway, other checks must be carried out as quickly
+as possible;
+b. IFR traffic must not affect the runway unless released at departure
+by ACC;
+c. VFR traffic must not affect the runway if the departure is subject
+to delay (see tab. 22.1);
+d. pilots must promptly inform Salerno AFIU of any eventuality that
+prevents compliance with the previous points.
+2. Incoming aircraft:
+in order to guarantee minimum runway occupancy, if possible and
+unless otherwise indicated by Salerno AFIU, aircraft will use TWY F
+to clear towards Apron East and TWY B to clear towards Apron West.
+6 Restrizioni locali ai voli 6 Local flight restrictions
+I vettori che intendono effettuare voli commerciali con aeromobili di
+capacità superiore a 19 posti (voli di posizionamento inlcusi) devono
+richiedere ed ottenere preventivamente la banda oraria utilizzando i
+seguenti contatti: ops_sa@gesac.it.
+La mancata richiesta, gli abusi e le irregolarità nell'utilizzo dello slot
+potranno dare luogo a sanzione amministrativa.
+Airlines intending to operate commercial flights with aircraft with a
+capacity exceeding 19 seats (ferry flights included) must request
+and obtain the slot in advance using the following contacts:
+ops_sa@gesac.it.
+Failure to request, abuse and irregularities in the use of the slot
+may give rise to administrative sanctions.
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+7.1. Tutti i voli di Aviazione Generale e Aerotaxi che intendono operare
+sull'aeroporto di LIRI devono richiedere l'assegnazione di PPR (Prior
+Permit Required).
+7.1. Tutti i voli di Aviazione Generale e Aerotaxi che intendono operare
+sull'aeroporto di LIRI devono richiedere l'assegnazione di PPR (Prior
+Permit Required).
+7.2. La richiesta di assegnazione del PPR deve
+essere inoltrata esclusivamente tramite il portale
+web www.aeroportosalerno.it/aviazione-generale.
+E’ richiesta la registrazione al primo accesso.
+7.2. PPR assignment request must be submitted via web at
+www.aeroportosalerno.it/en/aviazione-generale.
+Registration is required on first access.
+7.3. Il sito web www.aeroportodisalerno.it/aviazionegenerale contiene
+la procedura di Aviazione Generale in vigore a LIRI e il manuale
+operativo del software.
+7.3. The General Aviation Procedure in force at LIRI and the software
+operations manual are available on the website www.salernoairport.it/
+generalaviation
+
+=== Page 14 ===
+AD 2 LIRI 1 - 14
+AIRAC effective date 10 JUL 2025 AIP - Italia
+(A07/25) ENAV - Roma
+7.4. In alternativa al punto 7.2 è possibile richiedere
+l'assegnazione del PPR tramite una delle seguenti società di handling di
+Aviazione Generale presenti sullo scalo di LIRI: Alisud General Aviation,
+Argos VPH General Aviation, Fly Service General Aviation, Sky Services
+General Aviation.
+7.4. As an alternative to item 7.2, it is possible to request
+the PPRassignment through one of the following general
+aviation handling companies operating at LIRI:
+Alisud General Aviation, Argos VPH General Aviation, Fly Service
+General Aviation, Sky Services General Aviation.
+7.5. La sosta al parcheggio per gli aeromobili è consentita per un tempo
+massimo di 3 ore.
+7.5. Aircraft parking stop is allowed up to a maximum of 3 hours.
+7.6. Il codice PPR assegnato dovrà essere inserito nel campo 18
+del FPL. Qualsiasi richiesta di cambiamento dello slot aeroportuale
+assegnato, soggetto ad ulteriore valutazione, dovrà essere inoltrata
+alla società di handling o attraverso la piattaforma GASM non oltre a
+ETA -48HR In assenza delle suddette informazioni, il volo potrebbe non
+essere autorizzato dal Gestore Aeroportuale GESAC.
+7.6. The PPR code shall be indicated in item 18 of the FPL. Any request
+concerning changing of the assigned AD clearance is subject to further
+evaluation to be requested to the handling agent or through the GASM
+platform no later than ETA-48HR. Aerodrome Operator GESAC might
+refuse requests not having the above mentioned details.
+NOTA
+Tutti i velivoli e gli elicotteri prima della messa in moto dovranno
+contattare il gestore aeroportuale
+REMARK
+All aircraft and helicopters shall contact the aerodrome operator before
+start up
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+Ogni qualvolta un aeromobile che operi sull’area di manovra si trovi in
+una situazione di avaria radio, dovrà operare come segue:
+1. Aeromobile in partenza:
+continuerà rigorosamente sul percorso assegnato, ponendo
+particolare attenzione nell’evitare ogni deviazione, fino a
+raggiungere la posizione coordinata con Salerno AFIU, dove rimarrà
+in attesa del follow-me per ritornare al parcheggio assegnat.o
+2. Aeromobile in arrivo:
+se, al verificarsi dell’avaria, ha già ricevuto istruzioni al rullaggio
+continua rigorosamente sul percorso assegnato, fino alla punto
+indicato dall’AFIU dove attenderà il follow-me per il parcheggio;
+se l’avaria avviene in volo o comunque non sono state ricevute
+istruzioni al rullaggio si ferma in pista, in corrispondenza della
+taxiway E in attesa del follow-me per raggiungere lo stand di
+parcheggio.
+Whenever an aircraft operating in the manoeuvring area experiences
+a communication failure, it shall comply with the following:
+1. Departing aircraft:
+shall continue strictly on the assigned taxi route, paying particular
+attention to avoiding any deviation, until reaching the position
+coordinated with Salerno AFIU, where it will remain waiting for the
+follow-me to return to the assigned parking stand.
+2. incoming aircraft:
+if, when the failure occurs, the aircraft has already received taxiing
+instructions, must continue rigorously on the assigned taxi route,
+up to the point indicated by the AFIU where will wait for the follow-
+me car for parking stand; if the failure occurs during the flight or in
+any case no taxiing instructions have been received, it stops on the
+runway, near taxiway E, waiting for the follow-me car for parking
+stand.
+LIRI AD 2.21 PROCEDURE ANTIRUMORE
+LIRI AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIRI AD 2.22 PROCEDURE DI VOLO
+LIRI AD 2.22 FLIGHT PROCEDURES
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIRI 1 - 15
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+1 GENERALITA’ 1 GENERAL
+L’ATZ di Salerno è designata come zona radio obbligatoria - RMZ
+(ref. ENR 1.1). Nessun traffico VFR è consentito all’interno dell’ATZ di
+Salerno quando sono in  atto avvicinamenti o partenze di traffico IFR.
+Il settore N-NE è parzialmente visibile dalla torre.
+Salerno ATZ is is designated as a mandatory radio zone – RMZ (ref.
+ENR 1.1). No VFR traffic is allowed within Salerno ATZ when IFR traffic
+approaches or departures are in progress.
+Sector N-NE partially visible from the tower.
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di arrivo 2.2.1 Entry procedures
+Descrizione delle STAR: vedi tabella 24 STAR description: see table 24
+2.2.2 Procedure diavvicinamento 2.2.2 Approach procedures
+Descrizione delle IAP: vedi tabella 24 IAP description: see table 24
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+1. Se è stata ricevuta l’autorizzazione all’avvicinamento continuare per
+l’atterraggio come istruiti
+2. Se non è stata ricevuta l’autorizzazione all’avvicinamento:
+a. se è stata ricevuta l’autorizzazione ad una STAR procedere come
+da autorizzazione fino allo IAF alla quota assegnata, quindi,
+all’ultimo orario previsto di avvicinamento (EAT) ricevuto e
+confermato o il più possibile vicino ad esso, oppure, nel caso in
+cui non sia stato ricevuto e confermato un EAT, all’orario stimato
+di arrivo (ETA), o il più possibile vicino ad esso, come risulta dal
+piano di volo in vigore, scendere alla minima altitudine di attesa
+ed iniziare l’avvicinamento per l’atterraggio
+b. se non è stata ricevuta l’autorizzazione ad una STAR, mantenere il
+livello assegnato e procedere lungo la STAR prevista fino al punto
+GIPOR, quindi, all’ultimo orario previsto di avvicinamento (EAT)
+ricevuto e confermato o il più possibile vicino ad esso, oppure, nel
+caso in cui non sia stato ricevuto e confermato un EAT, all’orario
+stimato di arrivo (ETA), o il più possibile vicino ad esso, come
+risulta dal piano di volo in vigore, scendere alla minima altitudine
+di attesa ed iniziare l'avvicinamento per l'atterraggio.
+1. If approach clearance has been received, continue to land as
+instructed
+2. If approach clearance has not been received:
+a. if authorization has been received for a STAR, proceed as per
+authorization to the IAF at the assigned altitude, therefore, to the
+last expected approach time (EAT) received and confirmed or as
+close as possible to it, or, if an EAT has not been received and
+confirmed, at or as close to the estimated time of arrival (ETA)
+as is in the current flight plan, descend to the minimum holding
+altitude and begin the approach for landing
+b. if clearance to a STAR has not been received, maintain the
+assigned level and proceed along the intended STAR to the GIPOR
+point, then, at or as close as possible to the latest estimated time
+of approach (EAT) received and confirmed or as close to it as
+possible, or, if an EAT has not been received and confirmed, at or
+as close to the estimated time of arrival (ETA) as in the current
+flight plan, descend to the minimum holding altitude and begin
+the approach for landing
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+La messa in moto deve essere richiesta a Salerno AFIU. The start-up must be requested to Salerno AFIU.
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Descrizione delle SID: vedi tabella 24 SID description: see table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+
+=== Page 16 ===
+AD 2 LIRI 1 - 16
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+Vedi tabella 22.1 See table 22.1
+4.2 Attività di circuito 4.2 Circuit activity
+Il circuito preferenziale per aeromobili è a SUD-EST della RWY;
+Il circuito preferenziale per elicotteri è a NORD-OVEST della RWY.
+The preferential circuit for aircraft is SOUTH-EAST of the RWY;
+The preferential circuit for Helicopters is NORTH-WEST of the RWY.
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+La messa in moto deve essere richiesta a Salerno AFIU. The start-up must be requested to Salerno AFIU.
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+VFR/N consentito solo agli aeromobili militari, di Stato ed HEMS VFR/N allowed only for military, State, and HEMS aircraft
+4.8 Attività addestrativa 4.8 Training activity
+L’attività addestrativa è soggetta al traffico IFR in atto (vedi tabella
+22.1)
+Training activity is subject to IFR traffic (see table 22.1)
+5 LVP 5 LVP
+NIL NIL
+LIRI AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIRI AD 2.23 ADDITIONAL INFORMATION
+1 CONCENTRAZIONE DI VOLATILI 1 BIRD CONCENTRATION
+Concentrazione di volatili sull’aeroporto (falchi, cicogne, aironi,
+gabbiani, passeri e rondini) attorno all’area di manovra. Atteraggi e
+decolli con precauzione
+Aerodrome concentration of birds (falcons, storks, herons, seagulls,
+sparrows and swallows) around manoeuvring area. Landing and take-
+off with caution
+2 DOCUMENTI DI AZIONE E ACCETTAZIONE DELLA
+DEVIAZIONE (DAAD), CONDIZIONI SPECIALI (SC) E LIVELLI
+DI SICUREZZA EQUIVALENTE (ELOS)
+2 DEVIATION ACCEPTANCE AND ACTION DOCUMENTS
+(DAAD), SPECIAL CONDITIONS (SC) AND EQUIVALENT LEVEL
+OF SAFETY (ELOS)
+Numero di riferimento Descrizione
+SC.LIRI.01
+Distanze Dichiarate determinate
+computando aree non
+classificate come pista (Solo su
+richiesta, utilizzo della porzione
+pavimentata della CWY per
+la corsa aggiuntiva al decollo
+RWY23 - Start Point RWY23)
+Rif. ADR-DSN.B.035 Distanze
+dichiarate
+SC.LIRI.02
+Distanze Dichiarate determinate
+computando aree non
+classificate come pista (Solo su
+richiesta, utilizzo della porzione
+pavimentata della RESA e della
+CWY per la corsa aggiuntiva
+al decollo RWY05 - Start Point
+RWY05)
+Rif. ADR-DSN.B.035 Distanze
+dichiarate
+Reference number Description
+SC.LIRI.01
+Declared distances determined
+by calculating areas not classified
+as runways. (Only on request,
+use of the paved portion of the
+CWY for the additional take-off
+run RWY23 - Start Point RWY23)
+   
+Ref. ADR-DSN.B.035 Declared
+distances
+SC.LIRI.02
+Declared distances determined by
+calculating areas not classified as
+runways. (Only on request, use
+of the paved portion of the RESA
+and the CWY for the additional
+take-off run RWY05 - Start Point
+RWY05)
+   
+Ref. ADR-DSN.B.035 Declared
+distances
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIRI 1 - 17
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIRI AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIRI AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIRI 2 - 1
+AIRCRAFT PARKING DOCKING CHART - WEST APRON  AD 2 LIRI 2 - 3
+AIRCRAFT PARKING DOCKING CHART - EAST APRON  AD 2 LIRI 2 - 5
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 05/23  AD 2 LIRI 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIRI 3 - 3
+STAR RNAV1 or RNP1  AD 2 LIRI 4 - 1
+STAR RNAV1 or RNP1 DESCRIPTION TABLES  AD 2 LIRI 4 - 3
+STAR VOR  AD 2 LIRI 4 - 7
+STAR VOR DESCRIPTION TABLES  AD 2 LIRI 4 - 9
+ICAO VISUAL APPROACH CHART  AD 2 LIRI 5 - 1
+ICAO INSTRUMENT APPROACH CHART VOR Z RWY 05  AD 2 LIRI 5 - 3
+ICAO INSTRUMENT APPROACH CHART VOR Z RWY 05
+DESCRIPTION TABLES
+ AD 2 LIRI 5 - 5
+ICAO INSTRUMENT APPROACH CHART VOR Y RWY 05  AD 2 LIRI 5 - 7
+ICAO INSTRUMENT APPROACH CHART VOR Y RWY 05
+DESCRIPTION TABLES
+ AD 2 LIRI 5 - 9
+ICAO INSTRUMENT APPROACH CHART RNP Z RWY 05 (LPV
+ONLY)
+ AD 2 LIRI 5 - 11
+ICAO INSTRUMENT APPROACH CHART RNP Z RWY 05 (LPV
+ONLY) DESCRIPTION TABLES
+ AD 2 LIRI 5 - 13
+ICAO INSTRUMENT APPROACH CHART RNP Y RWY 05  AD 2 LIRI 5 - 15
+ICAO INSTRUMENT APPROACH CHART RNP Y RWY 05
+DESCRIPTION TABLES
+ AD 2 LIRI 5 - 17
+SID RNAV1 or RNP1  AD 2 LIRI 6 - 1
+SID RNAV1 or RNP1 DESCRIPTION TABLES  AD 2 LIRI 6 - 3
+SID VOR  AD 2 LIRI 6 - 7
+SID VOR  DESCRIPTION TABLES  AD 2 LIRI 6 - 9
+Carte - Charts Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIRI AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIRI AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 18 ===
+AD 2 LIRI 1 - 18
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+

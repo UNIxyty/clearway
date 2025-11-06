@@ -1,0 +1,4811 @@
+=== Page 1 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-1
+AD 2 AERODROMES
+RJSS AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJSS - SENDAI
+RJSS AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJSS AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 380823N/1405501E
+283° / 0.9km from TWR
+2 Direction and distance from (city) 13. 6km (7.3NM) SSE of Sendai JR Station
+3 Elevation/ Reference temperature 5.6FT / 27°C (2002-2006)
+4 Geoid undulation at AD ELEV PSN 137FT
+5 MAG VAR/ Annual change 9° W (2024) / 4’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Sendai International Airport Co., Ltd.
+Sendai Airport, Minamihara, Shimomasuda, Natori City, Miyagi Pref.
+Tel: 022-382-4057, Fax: 022-382-4068
+Web-site: https://www.sendai-airport.co.jp/
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Sendai Airport Office(CAB)
+Sendai Airport, Minamihara, Shimomasuda, Natori City, Miyagi Pref.
+Tel: 022-383-1211
+      (2330-0815UTC EXC 2330UTC on FRI - 0815UTC on SUN)
+1 AD Administration 2230 - 1300
+2 Customs and immigration Customs: 2330-0800
+Immigration: SUN 0000-SUN 1045, SUN 2330-MON 0845, 
+TUE 0000-TUE 1045, TUE 2330-WED 0845,
+THU 0000-THU 1045, THU 2330-FRI 0845,
+FRI 2330-SAT 0845
+3 Health and sanitation Quarantine (human): 2230-1300
+Quarantine (animal): 2330-0800
+Quarantine (plant): SUN 0030-SUN 1015, SUN 2330-MON 0900, 
+TUE 0030-TUE 1015, WED 0030-WED 0900,
+THU 0030-THU 1015, FRI 0030-FRI 0900, 
+SAT 0030-SAT 0900
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (TOKYO)
+7 ATS 2230 - 1300 
+Remarks: 1200 - 1300, AFIS provided by New Chitose Airport Office.
+8 Fuelling 2230 - 1300
+9 Handling 2230 - 1300
+10 Security 2230 - 1300
+11 De-icing Nil
+12 Remarks Nil
+(EFF:12 JUN 2025) 12/6/25
+
+
+=== Page 2 ===
+RJSS AD2-2 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD 2.4 HANDLING SERVICES AND FACILITIES8
+RJSS AD 2.5 PASSENGER FACILITIES
+RJSS AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJSS AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the modern institutions that deal with the weight thing to boeing747 Type 
+freighter
+2 Fuel/ oil types Fuel Grades : 100, JET A-1
+Oil grades : W80, 100, ASTO 500, MJO-II
+3 Fuelling facilities/ capacity Tr uck refueling, No limitation
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Hotels in the Sendai city
+2 Restaurants At Airport
+3 Transportation Railways, Busses and Taxis
+4 Medical facilities Hospitals in the iwanuma city 9km
+5 Bank and Post Office At Airport
+6 Tourist Office At Airport
+7 Remarks Nil
+1 AD category for fire fighting Fire protection :
+Scale of protection, ICAO required : CAT 9
+Available : CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3
+Water-supply truck
+Lighting power supply truck
+Emergency medical equipments conveyance truck
+3 Capability for removal of disabled air-
+craft Nil
+4 Remarks Nil
+1 Types of clearing equipment Snow removal available
+2 Clearance priorities Snow removal priority: RWY09/27, TWY A1, B1, B3, B6, C1-C6, APRON 
+3 Remarks Seasonal avail ability : All seasons
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-3
+RJSS AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface :SPOT NR 1-14 :Cement -Concrete
+:SOUTH ONE APRON, SOUTH TWO APRON, 
+SOUTH THREE APRON, RUN-UP APRON, WEST HELI PAD:
+Asphalt Concrete
+Strength :SPOT NR 1-14 : PCR 1132/R/B/X/T
+:SOUTH ONE APRON : PCR 229/F/B/Y/T
+:SOUTH TWO APRON  : PCR 183/F/B/Y/T
+:SOUTH THREE APRON : PCR 265/F/C/Y/T
+:RUN-UP APRON, WEST HELI PAD : AUW 5700kg/0.28MPa
+2 Taxiway width, surface and
+strength
+Width :TWY A1-A3, D1 : 18m
+:TWY C1-C6       : 23m
+:TWY B1, B6       : 28.5m
+:TWY B2-B5        : 34m
+:TWY A4, TWY(BTN RWY 09/27 AND RWY 12 THR) : 45m
+Surface :C6: Cement -Concrete
+Other: Asphalt-Concrete
+Strength: TWY A1-A3, D1 : PCR 160/F/C/Y/T
+TWY A4  : PCR 180/F/C/Y/T
+TWY C2  : PCR 745/F/A/X/T
+TWY C6  : PCR 1129R/B/X/T
+TWY B2 -B5  : PCR 945/F/A/X/T
+TWY(BTN RWY 09/27 AND RWY 12 THR) : PCR 797/F/B/X/T
+TWY B1, B6, C1, C3 -C5 : PCR 945/F/B/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+ 1   :   380820.38N/1405556.75E
+ 2   :   380820.12N/1405554.31E
+ 2L :   380820.21N/1405554.42E
+ 3   :   380819.91N/1405551.55E
+ 4   :   380819.59N/1405548.49E
+ 5   :   380819.29N/1405545.54E
+ 6   :   380819.18N/1405542.89E
+ 7   :   380819.18N/1405540.69E
+ 8   :   380819.64N/1405538.75E
+ 9   :   380819.45N/1405536.92E
+10  :   380819.26N/1405535.09E
+11  :   380817.91N/1405533.18E
+12  :   380817.70N/1405531.10E
+13  :   380817.48N/1405529.02E
+14  :   380817.27N/1405526.95E
+ A   :   380817.80N/1405532.14E
+6 Remarks Nil
+(EFF:23 JAN 2025) 26/12/24
+
+
+=== Page 4 ===
+RJSS AD2-4 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+              Marking Aids and Parking Area
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Aircraft stand identification sign :NR2 - 6, 10
+2 RWY and TWY markings and 
+LGT
+RWY:09/27, 12/30
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point, 
+Aiming point, TDZ, RWY side stripe 
+(LGT) RCLL(RWY09/27), REDL, RTHL, RENL, RTZL(RWY27), WBAR(RWY27)
+TWY:
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe, Mandatory instruction 
+marking (A1, A2, A4, B1-B6, C3, C4, D1) 
+(LGT) TWY edge LGT, TWY CL LGT(B1-B6,C1-C6), 
+Stop bar LGT(B1-B6), RWY guard LGT(B1-B6,C3,C4),
+Taxiing guidance sign(B1-B6)
+3 Stop bars Stop Bar Lights: B1-B6
+Stop Bar Lights operations
+1) Stop Bar Lights are installed at each taxi holding position associated with 
+Runway 09/27.
+2) Stop Bar Lights will be operated during operating hours of ATC Service.
+3) Stop Bar Lights will be operated when the visibility or the lowest RVR of
+Runway 09/27 is at or less than 600m.
+4) Stop Bar Lights on Taxiway B1 and B6 are controlled individually by ATC.
+5) Stop Bar Lights on Taxiways B2 through B5 are not controlled individually 
+by ATC.
+6) During the period Stop Bar Lights operated, Taxiways B2 through B5 are 
+not available for departure aircraft.
+4 Remarks (Marking) Overrun area 
+(LGT) Apron flood LGT
+12
+A
+B5
+C5 C6
+1114 13 10 9 8 7 6 2 15 4 3
+2L
+(EFF:23 JAN 2025) 26/12/24
+
+
+=== Page 5 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-5
+RJSS AD 2.10 AERODROME OBSTACLES
+RJSS AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office TOKYO
+2 Hours of service
+MET Office outside hours
+H24 (TOKYO)
+3 Office responsible for TAF preparation
+Periods of validity
+TOKYO
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefi ng is available upon inquiry at TOKYO
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available for 
+briefing or consultation
+S6, U85,  U7,  U5,  U3,  U25, U2/Tr, Ps,  P5,  P3,  P25,  PSWE,  PSWF,  
+PSWG,  PSWI,  PSWM,  PSW(domestic), E,  C,  WE,  WF,  WG,  WI,  W,  N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, APP , ATIS, RADIO
+10 Additional information (limitation of service, 
+etc.)
+Nil
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 6 ===
+RJSS AD2-6 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+09 82.56° 3000×45 PCR 945/F/B/X/T
+Asphalt Concrete
+380819.58N
+1405355.40E
+136.8ft
+THR ELEV:11.5ft
+27 262.56° 3000×45 PCR 945/F/B/X/T
+Asphalt Concrete
+380832.18N
+1405557.56E
+136.8ft
+THR ELEV:15.1ft
+TDZ ELEV:15.1ft
+12 117.70° 1200×45 PCR 160/F/C/Y/T(*)
+Asphalt Concrete
+380822.05N
+1405453.09E
+137ft
+THR ELEV:6ft
+30 297.70° 1200×45 PCR 160/F/C/Y/T(*)
+Asphalt Concrete
+380803.96N
+1405536.72E
+137ft
+THR ELEV:5ft
+Slope of RWY Strip
+ Dimensions(M)
+RESA(Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See below chart 3120x300
+3120x300
+90x(MNM:90 MAX:300)*
+191x(MNM:130 MAX:300)*
+*For detail, ask airport administrator
+09/27 grooving:3000mx30m
+ 
+See below chart 1320x150
+1320x150
+90x150
+240x150
+(*)RWY12/30(BTN RWY09/27 AND 
+TWY C3-C4) : PCR 1079/F/B/X/T
+RWY12/30(INT OF TWY C3-C4) : 
+PCR 737/F/B/X/T
+ 
+0m 1010m 1510m 1960m 2310m 3000m
+.
+RWY 09
+.
+.. ..
+11.5ft
+LEVEL
+11.5ft
+7.5ft
+10.5ft8.9ft
+0.09% 0.14%
+0.21%
+RWY 27
+15.1ft
+0.24%
+0.08%
+RWY 12 RWY 30
+. . . .
+6ft 6ft 6ft 5ft
+LEVEL 0.07%
+0m 400m 1050m 1200m
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 7 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-7
+RJSS AD 2.13 DECLARED DISTANCES
+RJSS AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+09
+TWY:B2
+TWY:B3
+27
+TWY:B4
+TWY:B5
+12
+30
+3000
+2420
+1930
+3000
+1630
+2300
+1200
+1200
+3000
+2420
+1930
+3000
+1630
+2300
+1200
+1200
+3000
+2420
+1930
+3000
+1630
+2300
+1200
+1200
+3000
+3000
+1200
+1200
+Nil
+Nil
+Nil
+Nil
+誘導路の TORA,TODA 及び ASDA は、 誘導路中心線と滑走路中心線の交点から滑走路末端までの距離を示す。
+(TORA,TODA and ASDA for TWY indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.)
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+1 2 3456 78 9
+09 SALS 
+420m
+(*1)
+Green
+Nil
+PAPI
+3.0°
+456m
+73.8ft
+3000m
+30m
+Coded Color
+(White/Red)
+LIH
+3000m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+27 PALS 
+(CAT I)
+900m
+Green
+Green
+PAPI
+3.0°
+439m
+65.6ft
+900m 3000m
+30m
+Coded Color
+(White/Red)
+LIH
+3000m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+12 Green
+Nil
+PAPI
+3.0°
+306m
+44.5ft
+1200m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+30 Green
+Nil
+PAPI
+3.1°
+262m
+44.5ft
+1200m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+Remarks
+10
+SALS with APCH LGT beacon(560m and 916m FM RWY 09 THR)(*1)
+Overrun area edge LGT(Color:Red)(*2)
+CGL for RWY 09
+RWY THR ID LGT for RWY 12/30 THR (Color: White)
+(EFF:1 JUL 2021) 20/5/21
+
+
+=== Page 8 ===
+RJSS AD2-8 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJSS AD 2.16 HELICOPTER LANDING AREA
+1 ABN/IBN location, characteristics 
+and hours of operation
+ABN: 380816N/1405552E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:Nil
+Anemometer:
+RWY12:440M FROM RWY12 THR, LGTD 
+RWY09:400M FROM RWY09 THR, LGTD
+RWY27:385M FROM RWY27 THR, LGTD
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9 
+4 Secondary power supply/ switch-
+over time
+Within  1 sec : RCLL, REDL(RWY09/27), RTHL(RWY09/27), 
+RENL(RWY09/27), WBAR, Stop bar LGT, Overrun area edge LGT(RWY09/27)
+Within 15 sec : Other lights
+5 Remarks Nil
+1 Coordinates TLOF or THR of FATO
+Geoid undulation
+WEST HELIPAD: 380810.18N/1405501.21E, Nil
+EAST1 HELIPAD: 380759.06N/1405533.38E, Nil
+EAST2 HELIPAD: 380800.59N/1405528.17E, Nil
+2 TLOF and/or FATO elevation
+WEST HELIPAD: 3ft
+EAST1 HELIPAD: 3ft
+EAST2 HELIPAD: 4ft
+3 TLOF and FATO area dimensions,
+surface, strength, marking
+TLOF and FATO area dimensions: WEST HELIPAD:20m×25m
+EAST1 HELIPAD, EAST2 HELIPAD: 18m×25m
+Surface: Asphalt-Concrete
+Strength: WEST HELIPAD: 6ton
+EAST1 HELIPAD, EAST2 HELIPAD: 29ton
+Marking: See AIP AD2.24 AD chart
+4 True BRG of FATO
+WEST HELIPAD: 117.70°/297.70°
+EAST1 HELIPAD: 110.50°/280.50°
+EAST2 HELIPAD: 110.50°/290.50°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7 Remarks
+WEST HELIPAD:
+• MAX helicopter type: B412
+• daytime use only
+EAST1 HELIPAD, EAST2 HELIPAD:
+• MAX helicopter type: UH1
+• only available to who obtain prior permission
+• daytime use only
+(EFF:20 MAR 2025) 20/3/25
+
+
+=== Page 9 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-9
+RJSS AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+SENDAI 
+CTR
+Area within a radius of 5nm of SENDAI ARP 
+(38° 08'N 140° 55'E )
+exclude KASUMINOME control zone
+3 000 or 
+below
+D SENDAI 
+TOWER
+SENDAI 
+RADIO(1)
+En
+(1)1200 - 
+1300
+SENDAI 
+PCA
+SEE RJSS ATTACHED CHART C SENDAI APP
+SENDAI 
+TOWER
+SENDAI 
+RADIO(1)
+En
+(1)1200 - 
+1300
+SENDAI 
+ACA
+SEE RJSS ATTACHED CHART E SENDAI APP
+SENDAI DEP
+SENDAI 
+RADAR
+En
+SENDAI 
+TCA
+SEE RJSS ATTACHED CHART E SENDAI TCA
+En
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 10 ===
+RJSS AD2-10 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+仙台特別管制区
+Sendai Positive Control Area
+375650N
+1410007E
+1200m
+(4000FT)
+200m
+(700FT)
+380912N
+1411025E
+380918N
+1411013E
+375701N
+1405954E
+380314N
+1405553E
+ARPARP
+380324N
+1405541E
+381043N
+1410100E
+381052N
+1410032E
+381105N
+1410428E
+381116N
+1410422E
+NAME LATERAL  LIMITS
+UNIT
+PROVIDING
+SERVICE
+REMARKS
+5
+Primary
+  Sendai APP
+    120.4-261.2    
+Secondary
+  Sendai TWR
+    126.2
+4
+UPPER LIMIT
+(AMSL)
+LOWER LIMIT
+(AMSL)
+M(ft)
+3
+ୗグ僑♧傻僲僱༊ᇦ
+The area shown below
+2
+௝ྎ
+Sendai
+1
+SDESDE
+12NM
+5NM
+ᙜヱ✵ᇦ僸㣕⾜傽僮催僎傿僱⯟✵
+ᶵ僕傎௝ྎ儆儻兑兠儥傎௝ྎ儣兓兠
+ཪ僕௝ྎ児儫儇儎僑㐃⤡傽傎儗兠兏
+儙儈兗傎⌧ᅾ఩⨨傎㧗ᗘཬ僙ពᅗ
+僸㏻ሗ傽ᣦ♧僸ཷ傷僱傹僎傏
+Pilot of aircraft operating in this 
+area shall contact Sendai 
+Approach, Sendai Tower or 
+Sendai Radio for ATC 
+instructions giving informations 
+on aircraft identification, 
+positions, altitude and pilot's 
+intentions.
+Sendai Radio
+  118.7
+(EFF:20 MAR 2025) 20/3/25
+←
+
+
+=== Page 11 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-11
+仙台進入管制区
+Sendai Approach Control Area
+'-
+YTE
+SDESDESDE
+FKE
+RJSU ARPRJSU ARP
+5NM
+15NM
+ 50 NM
+20NM
+14NM
+381408N381408N
+1405523E1405523E
+381408N
+1405523E
+381236N381236N
+1404920E1404920E
+381236N
+1404920E380911N
+1402751E
+375555N
+1414937E
+371849N
+1410352E
+374715N
+1414005E
+381611N381611N
+1404935E1404935E
+381611N
+1404935E
+381923N
+1403955E
+373324N
+1402751E
+371927N
+1404207E
+372047N
+1404113E
+372737N
+1404358E
+381216N381216N
+1410120E1410120E
+381216N
+1410120E
+RJSU ARP
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 12 ===
+RJSS AD2-12 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+仙台ター ミ ナルコ ン ト ロールエ リ ア
+Sendai Terminal Control Area
+10000
+4500
+10000
+2500
+10000
+3001
+10000
+4001
+10000
+300010000
+6000
+10000
+4000
+10000
+5000
+10000
+1500
+SENDAI
+CTZ
+SENDAI
+PCA
+TRAINING/TESTING AREA
+TOHOKU 12
+SDE
+SENDAI APPROACH CONTROL AREA
+220°
+260° 
+081°
+280°
+180° 
+SENDAI TERMINAL CONTROL AREA
+17NM of SDE
+13.3NM of SDE
+12NMof SDE
+20NM of SDE
+15NM
+ofSDE
+11.4NM
+ofSDE
+30NM
+ofSDE
+200˚200˚
+249˚
+20NM
+260˚
+16.4NM
+265˚
+11.4NM
+TRAINING/TESTING AREA
+TOHOKU 13-4
+(EFF:20 MAR 2025) 20/3/25
+←
+
+
+=== Page 13 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-13
+RJSS AD 2.18 ATS COMMUNICATION FACILITIES
+Service 
+designation Call sign Frequency Hours of 
+operation Remarks
+12345
+APP Sendai Approach 120.4MHz
+261.2MHz
+ 
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1300 (1)Primary
+ASR Sendai Radar 121.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1300
+DEP Sendai Departure 120.0MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1300
+TCA Sendai TCA 121.025MHz
+225.2MHz
+2300 - 1030
+TWR Sendai Tower 118.7MHz(1)
+126.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1200(*)
+GND Sendai Ground 121.7MHz 2230 - 1200(*)
+ATIS Sendai Airport 126.45MHz 2230 - 1300
+AFIS Sendai Radio 118.7MHz 1200 - 1300(*) Operated by New
+Chitose Airport Office
+* Depending on air traffic situation, ATC service will be provided from 1200 to 1215.
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 14 ===
+RJSS AD2-14 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+            ILS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of 
+operation
+Position of 
+transmitting 
+antenna 
+coordinates
+Elevation of 
+DME 
+transmitting 
+antenna
+Remarks
+123 4 5 6 7
+VOR
+(8°W/2010)
+SDE 116.3MHz H24 380818.86N/
+1405517.34E
+VOR unusable: 
+271° BTN 20 - 22nm 
+DME SDE 1197MHz
+(CH-110X)
+H24 380818.86N/
+1405517.34E
+54ft
+ILS-LOC 27 ISD 111.7MHz 2230 - 1300 380818.56N/
+1405345.94E
+LOC:235m(771ft) away FM 
+RWY 09 THR, 
+BRG (MAG) 270°.
+ILS-GP 27 - 333.5MHz 2230 - 1300 380835.20N/
+1405543.58E
+GP:328m(1076ft) inside FM    
+RWY 27 THR,
+138m(453ft) N of RCL.
+HGT of ILS Ref datum
+16.4m(54ft)
+GP angle 3.0°.
+ILS-DME 27 ISD 1015MHz 2230 - 1300 380835.09N/
+1405543.23E
+24ft DME:337m(1106ft) inside 
+FM  RWY 27 THR, 
+136m(446ft) N of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are 
+satellite based
+SENDAI  AP
+ILS-DME ANTENNA
+REMARKS  : 1   LOC beam BRG(MAG) 270°
+2   ILS-GP Angle 3.0°
+3   HGT of ILS REF datum 16.4m(54ft)
+4   ELEV of ILS-DME 7.4m(24ft)
+ILS-LOC
+ANTENNA
+138m
+136m
+328m
+337m
+3000m235m
+27
+09
+ILS-GP ANTENNA
+(EFF:20 MAR 2025) 20/3/25
+←
+
+
+=== Page 15 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-15
+RJSS AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+1.1 Aircraft operations, other than scheduled or in emergency.
+When using this airport, aircraft operators are required to obtain prior permission of the airport administrator in order to 
+allocate appropriate parking area.
+1.2 Prior notification should be required with AD Administration for the purpose of getting the permission when crossing 
+Sendai CTR from 1200UTC to 1300UTC.
+For further information (0000UTC - 0800UTC MON - FRI EXC HOL)
+      Air Traffic Controller Office, Sendai Airport Office
+      TEL: 022-383-1669
+　 　 21 時 00 分から 22 時 00 分までの間、 仙台管制圏を通過する場合は、 当該通過の許可を得るためにあらかじめ仙台空港
+　 　 事務所へ調整する こ と。
+　 　 　 問い合わせ先
+　 　 　 　 仙台空港事務所管制官事務室
+　　　　 （ 月 曜 日 か ら 金 曜 日 ま で の うち 、9時0 0分 か ら1 7時0 0分 ま で の 間 。た だ し 休 日 を 除く。 ）
+　 　 　 　 TEL: 022-383-1669
+1.3 Time restriction on departures and arrivals.
+RWY 12/30 is not available for take-off and landing when AFIS provided.
+Nil
+Nil
+Nil
+Nil
+1. Wing tip clearance at the TWY intersection (REF AD1.1.6.8)
+  Wing tip clearance at the TWY intersection between the ai rcraft holding at the stop marking on the TWY and the other
+aircraft taxiing behind it are as follows.
+ 
+When B773 holding at the stop marking on TWY B2, B3, B4 or B5
+Wing Span (WS) of aircraft 
+taxiing on TWY C1-C6 WS =< 30.2m WS > 30.2m Legend: 
+*A : wing tip clearance >= 15m  
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5mWing tip clearance *B *C
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 16 ===
+RJSS AD2-16 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJSS AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+(See AIP AD 1.1.6.5)
+1 Noise Abatement Operating Procedures
+For all jet aircraft, in order to reduce aircraft noise in the vicinity 
+of airport, the following procedures shall be applied unless 
+compliance of the procedures adversely affects the safety of 
+aircraft operations. In case that the aircraft is unable to take 
+these procedures, pilots should execute alternative 
+procedures which are considered to be practically equivalent.
+1) For take-off from RWY27
+Steepest Climb Procedure
+2) For landing to RWY09
+Delayed Flap Approach Procedure and Reduced Flap
+Setting Procedure
+3) Reverse Thrust
+Between 1230UTC(2130JST) and 2230UTC(0730JST),
+pilots are requested to limit the use of reverse thrust to idle
+reverse after landing.
+2 Preferential Runways Procedures
+For all jet aircraft and propeller-driven aircraft having a 
+maximum certificated take-off weight of more than 5,700kg 
+(12,500lbs), in principle, RWY09 for take-off and RWY27 for 
+landing are preferentially to be used. However, in order to 
+achieve maximum flight safety, this procedure is not applied 
+under the following circumstances.
+1) When a pilot-in-command determines that the use of other 
+runway is necessary in consideration of safety of the aircraft 
+operation.
+2) When the condition of the specified runway is not suitable for 
+landing or take-off.
+3) When the tail wind component, including gusts, exceeds 5 
+knots.
+4) When the cross wind component, including gusts, exceeds 
+15 knots.
+5) When the possibility exists that orderly flow of traffic may be 
+impeded.
+6) When the use of other runways is considered especially 
+necessary for the purpose of special training, inspection of 
+navigational facilities, etc.
+(EFF:20 MAR 2025) 20/3/25
+←
+１ 　 騒音軽減運航方式
+  すべてのジ ェ ッ ト 機に対し て、空港周辺における航空機騒音
+軽減のため、 運航の安全に支障のない範囲で、 以下の方式が
+適用される。 ただ し、 これらの方式による こ とができない航
+空機は実効的にこれら と同等と認められる代替方式を実施す
+るものとする。
+1) 離陸について （滑走路 27）
+    急上昇方式
+2) 着陸について （滑走路 09）
+    デ ィ レ イ ド ･フ ラ ッ プ進入方式及び低フ ラ ッ プ角
+    着陸方式
+3) リバース･スラス ト について
+    21 時 30 分以降翌朝 7 時 30 分までの間、着陸機における リ
+バース･ス ラ ス ト 使用についてはア イ ドルまでに制限する。
+２  優先滑走路方式
+ すべてのジ ェ ッ ト 機及び証明された最大離陸重量が 5,700kg 
+(12,500lbs) を超えるプロペラ機を対象と し、 離陸は滑走路
+09、 着陸は滑走路 27 によ り優先的に行 う こ と とする。 ただ
+し、 航行の安全確保などに万全を期すため、 以下に示す条件
+等にあっ ては、 本方式は適用されない。
+1) 機長が航行の安全を考慮し て、 反対側滑走路に離着陸を行
+う必 要があると判 断した場合
+2) 滑走路面の状況が適当でない場合
+3) 突風を含め追風成分が 5knot を超える場合
+4) 突風を含め横風成分が 15knot を超える場合
+5) 秩序ある航空交通流が乱される恐れがある場合
+6) 特別な訓練、 航行援助施設の検査のために反対側滑走路に
+離着陸を行 う こ とが特に必要である と認められる場合
+
+
+=== Page 17 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-17
+RJSS AD 2.22 FLIGHT PROCEDURES
+3 Noise Preferential Routes
+1) Take-off from RWY27
+All aircraft departing from RWY27 are urged to avoid, as far
+as practicable, flying over the residential area located about
+4NM WSW of the airport. (See the attached chart.)
+2) Landing on RWY09
+All aircraft arriving on RWY09 are urged to avoid, as far as
+practicable, flying over the residential area located about
+2.5NM WNW of the airport.
+(See the attached chart.)
+4 Use of SIDs for Noise Abatement
+  In order to reduce aircraft noise around the airport, all aircraft 
+   are requested to fly via following SIDs during the hours 
+   from 1230UTC(2130JST) to 2200UTC(0700JST) except 
+   aircraft an emergency or in an unavoidable situation.
+   Take-off from RWY27
+   DERBY DEPARTURE
+1. TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine 
+ACFT with
+TKOF ALTN 
+AP FILED
+09
+A,B,C,D
+-0 '-400m - 0 '-400m - 0 '-500m
+27 0 '-400m 0 '-400m 0 '-400m 0 '-400m - 0 '-500m
+12
+A,B,C
+- - - 200 '-1600m - 200 '-1600m
+30 - - - 0 '-400m - 0 '-500m
+OTHER
+09
+A,B,C,D
+AVBL LDG MINIMA
+27
+12
+A,B,C
+30
+ 
+0QKUG2TGHGTGPVKCN4QWVG#VVCEJOGPV
+5'0&#+
+814&/'
+
+5&'
+SENDAI AIRPORT
+2#%+(+%1%'#0
+0/HTQO5&'4'5+&'06+#.#4'#
+60
+27
+30
+12
+(EFF:20 MAR 2025) 20/3/25
+→
+３ . 優先飛行経路
+1) 滑走路 27 からの離陸
+滑走路 27 から離陸する航空機にあっ ては、 空港の西南西 ４
+海里付近の住居地区 ( 別添図参照 ) 上空を可能な限り避けて
+飛行する こ と。
+2) 滑走路 09 への着陸
+滑走路 09 へ着陸する航空機にあっ ては、 空港の西北西 2.5 海
+里付近の住居地区 ( 別添図参照 ) 上空を可能な限り避けて飛
+行する こ と。
+４ . 標準計器出発方式の使用
+　 空港周辺地域における航空機騒音を減少させるため、 21 時
+30 分以降翌朝 7 時までの間においては、 緊急またはやむを
+得ない状況にある航空機を除き、 以下の標準計器出発方式
+に従う こ と。
+滑走路 27 からの離陸
+        DERBY DEPARTURE
+
+
+=== Page 18 ===
+RJSS AD2-18 AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+  2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Sendai Approach/Radar are lost for 1 minute, squawk Mode A/3 Code 7600 and :
+(I) 1. Contact Sendai Tower / Sendai Radio
+2. If unable, proceed in accordance with Visual Flight Rules.
+3. If unable, proceed to Sendai VOR/DME at last assigned al titude or 3,000 feet whichever is higher, and execute
+instrument approach.
+(II) Procedures other than above will be issued when situation required.
+3. Trajectorized Airport Traffic Data Processing System (TAPS)
+Aircraft flying in Sendai approach control area under its contol will be instructed to reply with discrete code on Mode A/3 and
+Mode C.
+If an aircraft has no capability of replying with discrete code, the pilot shall report ATC if so instructed.
+仙台アプローチの指示のも とに、 当該進入管制区を飛行する航空機は、 モー ド A/3 の二次レーダー個別コー ド 及びモー ド C
+による応答を指示される。
+二次レーダー個別コー ド を搭載し ていない航空機が個別コー ド による応答を指示された場合は、 管制官に対し その旨通報す
+ること。
+4. Traffic pattern
+(1) In order to avoid congestion of arrivi ng aircraft and to make orderly flow on tr affic pattern, aircraft are desirable to fl y at
+the altitude from 2230UTC to 1200UTC.
+However, in case it is difficult to fly at the altitude due to weather and so on, aircraft shall report it to "SENDAI TWR" with
+your proposed altitude.
+Traffic pattern altitude as follows.
+i) Fixed wing ACFT
+a) JET 1,500ft
+b) PROPELLER 1,000ft
+ii) Rotor craft 600ft
+(2) Aircraft are desirable to fly at or above 1,000ft in hours other than (1) above.
+(3) Aircraft using north traffic pattern should pay enough attention to keep out of KASUMINOME CTR.
+(1) 到着機が輻輳する こ と を避け、 かつ秩序ある飛行場周辺の航空交通の流れを促進するために、 7 時 30 分から 21 時まで
+の間、 場周経路において航空機は以下の高度で飛行する こ とが望ま しい。
+ただ し、 天候等によ り以下の高度によ り飛行できない場合は “ 仙台タワー ” に希望飛行高度と と もにその旨を通報する
+こと。
+場周経路を飛行する際の高度は以下のと お り
+i) 固定翼航空機
+a） ジ ェ ッ ト 1,500ft
+b） プロペラ 1,000ft
+ii) 回転翼航空機   600ft
+(2) (1) 以外の時間は、 すべての航空機は高度 1,000 フ ィ ー ト 以上で飛行する こ とが望ま し い。
+(3) 北側の場周経路を使用する場合は霞目管制圏に入域し ないよ う に留意する こ と。
+(EFF:20 MAR 2025) 20/3/25
+←
+
+
+=== Page 19 ===
+AIP Japan
+SENDAI
+Civil Aviation Bureau,Japan
+RJSS AD2-19
+RJSS AD 2.23 ADDITIONAL INFORMATION
+RJSS AD 2.24 CHARTS RELATED TO AN AERODROME
+Experimental Radio Facilities
+Experimental radio facilities of Aeronaut ical Safety College Iwanuma Training Center  at Sendai Airport as follows. These
+radio facilities are not to be used as Naviaids.
+Facility Frequency 
+(MHz) Power ID Coordinate of antenna Hour of OPS
+LOC 109.9 10W EKD 380812N/1405505E
+H24
+(Intermittent
+transmissions)
+GP 333.8 2W - 380811N/1405504E
+DME 997.0 100W EKD 380811N/1405507E
+ 
+VOR/TACAN 112.4/1158 100W/1KW EIW 380810N/1405506E
+380811N/1405507E
+ 
+ 
+Aerodrome Chart -1
+Aerodrome Chart -2
+Aerodrome Obstacle Chart-ICAO type A (RWY09/27)
+Aerodrome Obstacle Chart-ICAO type B
+Standard Departure Chart - Instrument (IWAKI)
+Standard Departure Chart - Instrument (SENDAI)
+Standard Departure Chart - Instrument (DERBY-RNAV)
+Standard Departure Chart - Instrument (STEED-RNAV)
+Standard Departure Chart - Instrument (CUBIC-RNAV)
+Standard Arrival Chart - Instrument (PERID)
+Standard Arrival Chart - Instrument (LANCE WEST-RNAV)
+Standard Arrival Chart - Instrument (OWLET WEST-RNAV)
+Standard Arrival Chart - Instrument (LANCE EAST ALFA-RNAV)
+Standard Arrival Chart - Instrument (LANCE EAST BRAVO-RNAV)
+Standard Arrival Chart - Instrument (OWLET EAST ALFA-RNAV)
+Standard Arrival Chart - Instrument (OWLET EAST BRAVO-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY27)
+Instrument Approach Chart (ILS Y or LOC Y RWY27)
+Instrument Approach Chart (VOR RWY27)
+Instrument Approach Chart (VOR RWY30)
+Instrument Approach Chart (RNP RWY09 (LNAV/VNAV only))
+Instrument Approach Chart (RNP RWY27 (AR))
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 20 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+600m300m
+420m
+560m
+916m
+APPROACH LGT BEACON
+LOC
+OVERRUN AREA EDGE LGT
+THR LGT
+THR LGT SEQUENCED FLASHING LIGHTS (SFL-V)
+OVERRUN AREA EDGE LGT
+RED
+GREEN
+RED 60
+27
+RED
+GREEN
+RED
+09 09 09-27 09-27
+12
+12
+12-30 12-3012-30 12-30
+12
+12
+30-1230-12
+09-27 09-2709-27 09-2709-27 09-27 27 27
+30 30
+RWY THR ID LGT
+OVERRUN AREA EDGE LGT
+A4
+PAPI ANGLE 3.1°
+MEHT 13.6m(44.5ft)
+262m fm THR
+SOUTH THREE ARPON
+SOUTH TWO APRON
+CAC APRON
+SOUTH ONE APRON
+WEST HELI PAD
+EAST2 HELI PAD
+EAST1 HELI PAD
+JCG APRON
+JSDF-G APRON
+OVERRUN AREA EDGE LGT
+RUNWAY GUARD LIGHTS
+RUNWAY GUARD LIGHTS
+RUNWAY GUARD LIGHTS
+STOP BAR LIGHTS
+TAXIING GUIDANCE SIGNS RWY THR ID LGT
+A1
+A2
+A3
+A3
+D1
+   MET
+TWR
+WDI
+FIRE
+STATION
+VOR/DME
+PAPI ANGLE 3.0°
+380823N
+MEHT 13.6m (44.5ft)
+306m fm THR
+WIND SPEED
+METER
+1200
+×45m
+30
+12
+ARP
+PAPI ANGLE 3.0°
+MEHT 20.0m(65.6ft)
+439m fm THR
+RVR
+ABN
+WDI
+WIND
+SPEED
+METER CEILOMETER
+WIND SPEED
+METER
+ILS-GP
+B6
+C6C5C4C3C2C1
+B5B4B3B2B1
+WDI
+0.3 ELGNA IPAPSTHGIL ECNADIUG GNILCRIC°
+MEHT 22.5m (73.8ft)
+456m fm THR
+MARKING AIDS
+TERMINAL
+60 0003 × m54
+27
+30
+27
+60
+12
+SENDAI AIRPORT
+ELEV 1.7m(5.6ft)
+AERODROME CHART
+123456
+910
+7
+8
+11121314
+RUNWAY -HOLDING POSITION MARKINGS
+and RUNWAY GUARD LIGHTS
+COMMON WAYS OF ITS MARKINGS AND LIGHTS
+Runway-holding position markings and
+Runway guard lights are located on
+taxiway C3 and C4; their locations
+are 75m off the runway centerline of RWY 12/30.
+0.9m
+TAXIWAY
+0.9m
+RUNWAY SIDE
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW) 
+RUNWAY -HOLDING POSITION MARKINGS
+and STOP BAR LIGHTS
+COMMON WAYS OF ITS MARKINGS AND LIGHTS
+Runway-holding position markings and
+Stop bar lights are located on
+taxiway B1 through B6
+Runway guard lights are located
+on taxiway B1 through B6; their locations
+are 75m off the runway centerline of RWY 09/27.
+0.9m
+RED
+TAXIWAY
+STOP BAR LIGHTS
+0.9m
+3.0m
+RUNWAY SIDE
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW) 
+2.10m
+2.10m
+1405501E
+09-27 09-27
+RWY HLDG
+PSN marking
+Mandatory
+instruction
+marking
+ 
+ 
+ 
+AIS abolished. : EGNAHC
+VAR
+Û
+W(2024)
+ANNUAL CHANGE 4´ W
+2LA
+(EFF:1 OCT 2025) 7/8/25
+RJSS AD2.24-ADC-1
+SENDAI
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+A4
+SOUTH ONE APRON
+SOUTH TWO APRON
+SOUTH THREE APRON
+CAC APRON
+JCG APRON
+JSDF-G APRON
+JCG APRON
+JSDF-G APRON A1
+A2A3
+A3
+D1
+METTWR
+30
+12
+B6
+C6C5
+C6C5
+C4C3C2C1
+B5B4B3B2B1
+TERMINAL
+60
+27
+SENDAI  AIRPORT
+ELEV 1.7m(5.6ft)
+CHANGE : AIS abolished.
+1234567
+8910
+11
+A
+121314
+B6B5
+54.621SITA Sendai Airport
+7.121DNG
+118.7
+126.2
+Sendai Ground
+TWR Sendai Tower
+)zHM( ycneuqerFnoitangiseD Call Sign
+3RUN UP AREA
+4
+2
+1
+N S
+W
+E
+FE
+B C D
+A
+CAC
+APRON
+A2
+A3
+30 31 32 33 34
+37
+36
+39
+35
+38
+40
+50 51
+41
+43
+4849
+44
+46 47
+42
+45
+22
+20
+23
+27 28 29
+262524
+21
+OPR HR(UTC)
+2230 - 1300
+2230 - 1200
+2230 - 1200
+AFIS Sendai Radio 118.7 1200 - 1300
+VARÛW(2024)
+ANNUAL CHANGE 4´ W
+2L
+(EFF:1 OCT 2025) 7/8/25
+RJSS AD2.24-ADC-2
+SENDAI
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+100
+100
+200
+300
+100
+3000mX45m
+09
+27
+←271°
+ASPHALT CONCRETE
+091°→
+HORIZONTAL SCALE
+1000
+300
+0
+0
+1000 2000 3000 4000 5000 6000 7000 8000ft
+500 1000 1500 2000 2500m
+500
+FEET
+METERS
+300
+00
+100
+75
+50
+25
+50
+100
+150
+200
+250
+VERTICAL
+SCALE
+FT M
+150
+125
+350
+400
+450
+500
+TRIANGULATION POINT
+POLE, TOWER, SPIRE, ANTENNA, ETC
+OBSTRUCTION LIGHT
+TREE
+BUILDING OR LARGE STRUCTURE
+RAILROAD
+TRANSMISSION LINE OR OVERHEAD CABLE
+RIVER
+LAKE CONTOURS(ft)
+LEVEE
+LEGEND AMENDMENT RECORD
+Nr DATE ENTERED BY
+AERONAUTICAL GROUND LIGHT
+1 IDENTIFICATION NUMBER
+RWY : 09/27
+DECLARED DISTANCES
+RWY 09 RWY 27
+TAKE OFF RUN AVAILABLE
+TAKE OFF DISTANCE AVAILABLE
+ACCELERATE STOP DISTANCE AVAILABLE
+LANDING DISTANCE AVAILABLE
+3000m
+3000m
+3000m
+3000m
+3000m
+3000m
+3000m
+3000m
+SENDAI AIRPORT
+SLOPE 1.2%
+SLOPE 1.2%
+100100
+200200
+300300
+9842
+0→
+11000120001300014000150001600017000180001900020000210002200023000240002500026000270002800029000300003100032000
+100
+200
+300
+9842
+←0
+11000 12000 13000 14000 15000
+12 15
+400
+500
+400
+500
+400
+500
+Transverse Mercator Projection
+MAGNETIC VARIATION 8° W-MAR 2025
+AERODROME OBSTACLE CHART-ICAO
+TYPE A (OPERATING LIMITATIONS)DIMENSIONS AND ELEVATIONS IN FEET,BEARINGS ARE MAGNETIC
+45
+45
+3435
+3435
+461
+3758
+3758
+23
+3677
+3677
+18
+3715
+371527
+3759
+3759
+19
+3761
+3761
+17
+3723
+3723 20
+3722
+372220
+3760
+3760
+25
+3749
+3749
+25
+3751
+3751
+20
+3713
+3713 19
+3697
+3697 20
+3679
+3679 17
+3673
+3673
+21
+10
+1038
+1770
+1770
+37
+9
+9
+31
+7
+7
+30
+1766
+176644
+425
+(EFF:7 AUG 2025) 7/8/25
+RJSS AD2.24-AOC-1SENDAI
+CHANGE:Update
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+100
+100
+100
+100
+200
+300
+100
+4000
+HORIZONTAL
+1000
+300 500
+0
+0
+1000
+1000
+30002000 9000
+20001500
+60005000
+FEET
+SCALE
+2500
+80007000
+3000m
+10000ft
+AERODROME ELEVATION 5.6ft ARP
+141°00'E140°59'E140°58'E140°57'E140°56'E140°55'E140°54'E140°53'E140°52'E
+140°51'E
+38°05'N
+140°50'E
+38°06'N
+38°08'N
+38°09'N
+38°10'N
+38°11'N
+38°07'N
+141°00'E140°59'E140°57'E140°56'E140°55'E140°54'E140°53'E140°52'E140°51'E140°50'E 140°58'E
+38°06'N
+38°07'N
+38°08'N
+38°09'N
+38°10'N
+38°11'N
+METERS
+38°05'N
+TAKE-OFF
+FLIGHT
+PATH
+60
+27
+30
+12
+HIROURA
+TRANSITIONAL SURFACESLOPE 1:7
+TAKE-OFF FLIGHT PATH
+SLOPE 1.2%
+APPROACH SURFACE
+SLOPE 1:50
+TRANSITIONAL SURFACESLOPE 1:7
+SLOPE 1:7
+TRANSITIONAL SURFACE
+APPROACH SURFACE
+SLOPE 1:30
+HORIZONTAL SURFACE
+APPROACH SURFACE
+SLOPE 1:50
+TRANSITIONAL SURFACESLOPE 1:7
+TRANSITIONAL SURFACE
+SLOPE 1:7
+APPROACH SURFACE
+SLOPE 1:30
+SLOPE 1.2%
+PACIFIC OCEAN
+NATORI CITY
+IWANUMA CITY
+MASUDA RIVER
+NATORI RIVER
+SADAYAMA MOAT
+ITUMA MOAT
+TOHOKU LINE
+SENDAI-TOBU ROAD
+←271°
+126°→
+←306°
+3000mX45m
+ASPHALT CONCRETE
+1200mX45m
+ASPHALT CONCRETE
+091°→
+TRANSITIONAL SURFACESLOPE 1:7
+100
+100
+100
+100
+200
+300
+100
+ANNUAL CHANGE 2'WVAR 8° W MAR 2025
+AERODROME REFERENCE POINT
+TRIANGULATION POINT
+POLE, TOWER, SPIRE, ANTENNA, ETC
+OBSTRUCTION LIGHT
+TREE
+BUILDING OR LARGE STRUCTURE
+RAILROAD
+TRANSMISSION LINE OR OVERHEAD CABLE
+LAKE CONTOURS(ft)
+LEGEND AMENDMENT RECORD
+Nr DATE ENTERED BY
+AERONAUTICAL GROUND LIGHT
+RIVER
+LEVEE
+TERRAIN PENETRATING
+OBSTACLE PLANE
+Transverse Mercator Projection
+DIMENSIONS AND ELEVATIONS IN FEET,BEARINGS ARE MAGNETIC
+AERODROME OBSTACLE CHART-ICAO
+TYPE B
+43
+2931
+37
+37
+21
+17
+19
+19
+20
+25
+24
+20 20
+1619
+26
+18
+22
+460
+424
+178
+200
+176
+189186
+181
+170
+187
+173
+184
+191187
+170
+172
+182
+162
+161
+173
+163
+154
+155
+186
+190
+159
+192
+(EFF:7 AUG 2025) 7/8/25
+RJSS AD2.24-AOC-2
+SENDAI
+CHANGE:Update
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+204˚
+FL150
+Assigned ALT
+D19.6 SDE
+D28.0 IXE
+HDG 090˚
+HDG 090˚
+RJSS / SENDAI SID
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+VOR/DME
+500FT
+IWAKI
+117.7 IXE
+CH–124X
+ÛÝ1ÛÝ(
+500
+500
+D3.4 SDE
+(2.8NM FM DER)
+12
+30
+RWY
+58
+95
+68
+120˚
+RWY 09 :   Climb RWY HDG to SDE 3.4DME (2.8NM FM DER), turn right to intercept 
+    and proceed...
+RWY 12 :   Climb ...
+RWY 27 :   Climb RWY HDG to 500FT, turn left HDG 090˚ to intercept and proceed...
+RWY 30 :   Climb RWY HDG to 500FT, turn left HDG 090˚ to intercept and proceed...
+...via SDE R120, via IXE R024 to IXE VOR/DME. 
+Cross IXE R024/46.7DME at or above 11000FT, cross IXE R024/28.0DME 
+at or above FL150, cross IXE VOR/DME at assigned altitude. 
+RWY 09 :  5.0% climb gradient required up to 500FT.
+OBST ALT 62FT located at 0.2NM 102˚ FM end of RWY09.
+RWY 27 :   5.0% climb gradient required up to 1000FT.
+OBST ALT 919FT located at 4.1NM 269˚ FM end of RWY27.
+RWY 30 :   5.0% climb gradient required up to 1200FT.
+OBST ALT 1181FT located at 5.3NM 283˚ FM end of RWY30.
+Note
+IWAKI EIGHT DEPARTURE
+D46.7 IXE
+11000
+CHANGE : Description of PROC name.
+RWY 12 : See TAKE OFF MINIMA
+(EFF:20 APR 2023) 23/3/23
+RJSS AD2.24-SID-1
+SENDAI
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+HDG 090˚
+HDG 090˚
+D10.0 SDE
+RJSS / SENDAI SID
+RWY 09 :   Climb RWY HDG to SDE 3.4DME (2.8NM fm DER), turn right to intercept 
+    and proceed...
+RWY 12 :   Climb ...
+RWY 27 :   Climb RWY HDG to 500FT, turn left HDG 090˚ to intercept and proceed...
+RWY 30 :   Climb RWY HDG to 500FT, turn left HDG 090˚ to intercept and proceed...
+...via SDE R120 to 10.0DME, turn right, direct to SDE VOR/DME. 
+Cross SDE VOR/DME at or above 7000FT(*).
+RWY 09 :  5.0% climb gradient required up to 500FT.
+OBST ALT 62FT located at 0.2NM 102˚ FM end of RWY09.
+RWY 27 :   5.0% climb gradient required up to 1000FT.
+OBST ALT 919FT located at 4.1NM 269˚ FM end of RWY27.
+RWY 30 :   5.0% climb gradient required up to 1200FT.
+OBST ALT 1181FT located at 5.3NM 283˚ FM end of RWY30.
+* In case of proceeding to IXE VOR/DME : Cross SDE VOR/DME at or 
+above 5000FT.
+In case of proceeding to FKE VOR/DME : Cross SDE VOR/DME at or 
+above 6000FT.
+Note
+SENDAI REVERSAL SIX DEPARTURE
+VOR/DME
+7000
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+500
+500
+D3.4 SDE
+(2.8NM fm DER)
+120˚
+12
+30
+RWY
+58
+95
+68
+RWY 12 : See TAKE OFF MINIMA
+5000
+6000
+(For IXE only)
+(For FKE only)
+CHANGE : Description of PROC name.
+(EFF:20 APR 2023) 23/3/23
+RJSS AD2.24-SID-2
+SENDAI
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJSS / SENDAI RNAV SID and TRANSITION
+RWY27:  5.9% climb gradient required up to 1300FT. 
+OBST ALT 1181FT located at 4.6NM 285˚ FM end of RWY27.
+NOTE RWY09:  5.0% climb gradient required up to 500FT. 
+OBST ALT 62FT located at 0.2NM 103˚ FM end of RWY09.
+RWY09 : Climb on HDG091˚ at or above 500FT, direct to SS901, turn right direct to ANEMO, to EBOSI,
+to DERBY at or above 9000FT.
+RWY27 : Climb on HDG271˚ at or above 500FT, direct to SS701, turn left direct to EBOSI, to DERBY
+at or above 9000FT.
+DERBY FOUR DEPARTURE 
+From DERBY at or above 9000FT, to GTC.
+NIIGATA TRANSITION
+DERBY FOUR DEPARTURE
+ YAMAGATA TRANSITION / NIIGATA TRANSITION /
+RIKYU NORTH TRANSITION / SASAP TRANSITION
+RNP1
+Note GNSS required.
+From DERBY at or above 9000FT, to YTE.
+YAMAGATA TRANSITION
+From DERBY at or above 9000FT, to RIKYU.
+RIKYU NORTH TRANSITION
+From DERBY at or above 9000FT, to SASAP.
+SASAP TRANSITION
+VAR 8°W 
+NIIGATA TRANSITION
+500 500
+49.3
+188°
+26.8
+189°
+YAMAGATA
+(YTE)
+RIKYU
+SASAP
+371055.2N
+DERBY FOUR DEPARTURE
+YAMAGATA TRANSITION
+SASAP TRANSITION
+RIKYU NORTH TRANSITION
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+SS901
+1
+(SS701
+380758.5N
+(
+091˚
+271˚
+ANEMO
+375833.5N
+(
+17.6
+285˚
+EBOSI
+380028.7N
+(
+DERBY
+380012.7N
+(
+9000
+7.7
+276˚
+63.9
+276˚
+NIIGATA
+(GTC)
+1
+(
+23.7356˚
+VOR/DME
+400FT
+YAMAGATA
+YTE
+CH–77X
+ÛÝ1ÛÝ(
+113.0
+VORTAC
+0FT
+NIIGATA
+115.5 GTC
+CH–102X
+ÛÝ1ÛÝ(
+1
+(
+(
+373327.8N
+(
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1). 
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-SID-3
+SENDAI
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SENDAI
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY09
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 091
+(082.5) -8.3 - - +500 - - RNP1
+002 DF SS901 Y - -8.3 - - - - - RNP1
+003 DF ANEMO - - -8.3 - R - - - RNP1
+004 TF EBOSI - 285
+(276.4) -8.3 17.6 - - - - RNP1
+005 TF DERBY - 276
+(268.1) -8.3 7.7 - +9000 - - RNP1
+RWY27
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 271
+(262.5) -8.3 - - +500 - - RNP1
+002 DF SS701 Y - -8.3 - - - - - RNP1
+003 DF EBOSI - - -8.3 - L - - - RNP1
+004 TF DERBY - 276
+(268.1) -8.3 7.7 - +9000 - - RNP1
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+RJSS / SENDAI RNAV SID and TRANSITION
+DERBY FOUR DEPARTURE
+RJSS AD2.24-SID-4
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJSS AD2.24-SID-5
+STANDARD DEPARTURE CHART - INSTRUMENT
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF DERBY - - -8.3 - - +9000 - - RNP1
+002 TF YTE - 356
+(347.9) -8.3 23.7 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF DERBY - - -8.3 - - +9000 - - RNP1
+002 TF GTC - 276
+(268.0) -8.3 63.9 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF DERBY - - -8.3 - - +9000 - - RNP1
+002 TF RIKYU - 189
+(180.5) -8.3 26.8 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF DERBY - - -8.3 - - +9000 - - RNP1
+002 TF SASAP - 188
+(179.4) -8.3 49.3 - - - - RNP1
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+RJSS / SENDAI RNAV SID and TRANSITION
+YAMAGATA TRANSITION
+NIIGATA TRANSITION
+RIKYU NORTH TRANSITION
+SASAP TRANSITION
+SENDAI
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+NOTE RWY09:  5.0% climb gradient required up to 500FT. 
+OBST ALT 62FT located at 0.2NM 103˚ FM end of RWY09.
+RJSS / SENDAI RNAV SID and TRANSITION
+STEED FOUR DEPARTURE / RIKYU TRANSITION
+RWY27:  5.0% climb gradient required up to 1000FT. 
+OBST ALT 919FT located at 4.1NM 269˚ FM end of RWY27.
+RWY09 : Climb on HDG091˚ at or above 500FT, direct to SS901, turn right direct to MUSBI
+                 at or above 5000FT, to STEED.
+RWY27 : Climb on HDG271˚ at or above 500FT, turn left direct to BUBLE, to MUSBI
+                 at or above 5000FT, to STEED.
+STEED FOUR DEPARTURE 
+From STEED, to RIKYU.
+RIKYU  TRANSITION
+VAR 8˚W
+RNP1
+Note GNSS required.
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+500 500
+5000
+7.2
+189°
+12.8
+189°
+STEED FOUR DEPARTURE
+RIKYU TRANSITION
+SS901
+380854.6N
+1405935.6E
+RIKYU
+373327.8N
+1402731.8E
+BUBLE
+380333.7N
+1405956.2E
+STEED
+MUSBI
+374336.2N
+1405932.8E
+375621.5N
+1405947.8E
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+091˚
+271˚
+27.3
+257°
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-SID-6
+SENDAI
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJSS AD2.24-SID-7
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY09
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 091
+(082.5) -8.3 - - +500 - - RNP1
+002 DF SS901 Y - -8.3 - - - - - RNP1
+003 DF MUSBI - - -8.3 - R +5000 - - RNP1
+004 TF STEED - 189
+(180.9) -8.3 12.8 - - - - RNP1
+RWY27
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 271
+(262.5) -8.3 - - +500 - - RNP1
+002 DF BUBLE - - -8.3 - L - - - RNP1
+003 TF MUSBI - 189
+(180.9) -8.3 7.2 - +5000 - - RNP1
+004 TF STEED - 189
+(180.9) -8.3 12.8 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF STEED - - -8.3 - - - - - RNP1
+002 TF RIKYU - 257
+(248.4) -8.3 27.3 - - - - RNP1
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+RJSS / SENDAI RNAV SID and TRANSITION
+STEED FOUR DEPARTURE
+RIKYU TRANSITION
+SENDAI
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+VAR 8˚W
+CUBIC FOUR DEPARTURE / TOHOKU TRANSITION
+RNAV SID and TRANSITION RJSS / SENDAI
+CUBIC FOUR DEPARTURE
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+CUBIC FOUR DEPARTURE
+BUBLE
+1
+(
+CUBIC
+1
+(
+SS901
+1
+(
+500 500
+271° 091°
+115°
+19.5
+FL150
+NOTE RWY09:  5.0% climb gradient required up to 500FT. 
+OBST ALT 62FT located at 0.2NM 103˚ FM end of RWY09.
+RWY27:  5.0% climb gradient required up to 1000FT. 
+OBST ALT 919FT located at 4.1NM 269˚ FM end of RWY27.
+RWY09 : Climb on HDG091˚ at or above 500FT, direct to SS901, to HAGNO at or above 11000FT,
+                 to CUBIC at or above FL150.
+RWY27 : Climb on HDG271˚ at or above 500FT, turn left direct to BUBLE, to MONAK at or above 
+                 11000FT, to CUBIC at or above FL150.
+RNP1
+Note GNSS required.
+SAMBO
+1
+(
+SAITI
+1
+(
+SERRY
+1
+(
+HAGNO
+1
+(
+MONAK
+1
+(
+351°47.4
+347°58.9
+018°36.4
+TOHOKU TRANSITION
+11000
+124°9.1
+124°
+22.0
+11000 115°/
+9.4
+From CUBIC at or above FL150, to SERRY, to SAITI, to SAMBO.
+TOHOKU TRANSITION
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-SID-8
+SENDAI
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SENDAI
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY09
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 091
+(082.5) -8.3 - - +500 - - RNP1
+002 DF SS901 Y - -8.3 - - - - - RNP1
+003 TF HAGNO - 124
+(115.8) -8.3 22.0 - +11000 - - RNP1
+004 TF CUBIC - 124
+(116.1) -8.3 9.1 - +FL150 - - RNP1
+RWY27
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 271
+(262.5) -8.3 - - +500 - - RNP1
+002 DF BUBLE - - -8.3 - L - - - RNP1
+003 TF MONAK - 115
+(106.4) -8.3 19.5 - +11000 - - RNP1
+004 TF CUBIC - 115
+(106.7) -8.3 9.4 - +FL150 - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF CUBIC - - -8.3 - - +FL150 - - RNP1
+002 TF SERRY - 018
+(009.5) -8.3 36.4 - - - - RNP1
+003 TF SAITI - 347
+(338.8) -8.3 58.9 - - - - RNP1
+004 TF SAMBO - 351
+(343.0) -8.3 47.4 - - - - RNP1
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+RJSS / SENDAI RNAV SID and TRANSITION
+CUBIC FOUR DEPARTURE
+TOHOKU TRANSITION
+RJSS AD2.24-SID-9
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJSS / SENDAI STAR
+PERID ARRIVAL
+From over AOBAR, via SDE R135 to intercept and proceed via SDE 10.0DME
+counterclockwise ARC to PERID.
+    Cross PERID at or above 1500FT.
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+135˚
+315˚
+R135 SDE
+R089 SDE
+LOC course to RWY27
+D19.0 SDE
+MHA 3000
+MAX230KIAS
+AOBAR
+PERID
+R135/D12.0 SDE
+R089/D10.0 SDE
+1500
+D10.0 SDE ARC
+CHANGE : HLDG abolished(PERID).
+(EFF:20 APR 2023) 23/3/23
+RJSS AD2.24-STAR-1
+SENDAI
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+RJSS 90YWR RATS VANRIADNES
+VAR 8˚W 
+IF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+凟
+凟䢢
+凟䢢
+凟䢢
+凟
+-250 
+凟䢢
+凟䢢
+凟
+凟
+凟䢢
+凟䢢
+凟
+凟
+凟
+凟
++11000
++6000
++4000
+凟
+5.0
+5.0
+7.8
+LANCE
+QUAIL
+RIBON
+SHIPS
+(119.4)
+(084.5)
+(354.6)
+128
+093
+003
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+-8.3
+凟䢢
+7.8003˚
+5.0
+093˚
+5.0
+128˚
+SHIPS
+From LANCE at or above 11000FT, to QUAIL, at or above 9400FT, to RIBON at or above 6000FT, 
+to SHIPS at or above 4000FT.
+LAVIRRA TSEW ECNAL
+4000
+380010.4N
+1403927.4E
+RIBON
+6000
+375222.2N
+1404023.4E
+LANCE
+11000
+375422.0N
+1402833.6E
+QUAIL
+MAX 250KIAS
+375153.7N
+1403406.0E
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+9400
+Note GNSS required.
+RNP1
++9400
+RNP1
+RNP1
+RNP1
+RNP1
+LANCE -230(-14000) 11000 䣔   107
+(098.3)Hold
+Altitude
+(MIN)
+Speed
+(KIAS)
+-8.3
+Path Waypoint
+Identifier
+Course
+˚M(˚T)
+Inbound Magnetic
+Variation
+Tur n
+Direction
+1.0(-14000)
+Time
+Outbound
+(FT)
+Minimum
+Altitude
+(FT)
+Maximum
+1.5(+14001) 凟䢢 -240(+14001) 
+Navigation
+Specification
+RNP1
+107˚
+287˚
+MHA 11000FT
+LANCE
+NOT TO SCALE
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-STAR-2
+SENDAI
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJSS 90YWR RATS VANRIADNES
+ 
+Note GNSS required.
+From OWLET at or above 13000FT, to PRINK at or above 9000FT, to QUIST, to RIBON at or 
+above 6000FT, to SHIPS at or above 4000FT.
+VAR 8˚W 
+IF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+-250 
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
++13000
++9000
+凟
++6000
++4000
+凟
+5.3
+5.2
+5.0
+7.8
+OWLET
+PRINK
+QUIST
+RIBON
+SHIPS
+(084.4)
+(084.5)
+(354.6)
+(354.6)
+093
+093
+003
+003
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+-8.3
+-8.3
+凟䢢
+O1 PNRLAVIRRA TSEW TELW
+374623.0N 
+1402747.1E
+374653.4N
+1403425.9E
+PRINK
+380010.4N
+1403927.4E
+SHIPS
+375222.2N
+1404023.4E
+RIBON
+5.2
+7.8
+093˚
+003˚
+093˚
+003˚5.0
+5.3 374723.1N
+1404059.0E
+QUIST
+OWLET
+13000
+9000
+6000
+4000
+MAX 250KIAS
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+OWLET -230(-14000) 13000 䣔   080
+(071.7)Hold
+Altitude
+(MIN)
+Speed
+(KIAS)
+-8.3
+Path Waypoint
+Identifier
+Course
+˚M(˚T)
+Inbound Magnetic
+Variation
+Tur n
+Direction
+1.0(-14000)
+Time
+Outbound
+(FT)
+Minimum
+Altitude
+(FT)
+Maximum
+1.5(+14001) 凟䢢 -240(+14001) 
+Navigation
+Specification
+RNP1
+080˚
+260˚
+MHA 13000FT
+OWLET
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-STAR-3
+SENDAI
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJSS / 72YWR RATS VANRIADNES
+VAR 8˚W 
+IF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+-230 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
+凟 
++11000
++9000
++4000
+凟
++1500
+凟
+5.9
+15.4
+12.5
+4.5
+LANCE
+FUBOU
+SNOOK
+TOPAZ
+PERID
+(077.2)
+(077.3)
+(059.8)
+(352.6)
+085
+086
+068
+001
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+-8.3
+-8.3
+凟 
+15.4
+086˚
+5.9
+085˚
+12.5
+068˚
+4.5001˚
+SNOOK
+MAX 230KIAS
+  From LANCE at or above 11000FT, to FUBOU at or above 9000FT, to SNOOK at or above 4000FT, 
+to TOPAZ, to PERID at or above 1500FT.
+LAVIRRA AFLA TSAE ECNAL
+4000
+1500
+375901.5N
+1405451.7E
+TOPAZ
+380516.8N
+1410833.5E
+PERID380944.8N
+1410749.4E
+FUBOU
+9000
+LANCE
+11000
+375422.0N
+1402833.6E
+375540.2N
+1403551.6E
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+RNP1
+Note GNSS required.
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+LANCE -230(-14000) 11000 R   107
+(098.3)Hold
+Altitude
+(MIN)
+Speed
+(KIAS)
+-8.3
+Path Waypoint
+Identifier
+Course
+˚M(˚T)
+Inbound Magnetic
+Variation
+Tur n
+Direction
+1.0(-14000)
+Time
+Outbound
+(FT)
+Minimum
+Altitude
+(FT)
+Maximum
+1.5(+14001) 凟 -240(+14001) 
+Navigation
+Specification
+RNP1
+107˚
+287˚
+MHA 11000FT
+LANCE
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-STAR-4
+SENDAI
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJSS 72YWR RATS VANRIADNES
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
++11000
++9000
++4000
+凟
+5.9
+15.4
+LANCE
+FUBOU
+SNOOK
+(077.2)
+(077.3)
+085
+086
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+凟䢢
+ 
+Note GNSS required.
+5.9
+15.4
+From LANCE at or above 11000FT, to FUBOU at or above 9000FT, to SNOOK at or above 
+4000FT.
+11000
+9000
+4000
+SNOOK
+375901.5N
+1405451.7E
+FUBOU
+LANCE
+375422.0N
+1402833.6E
+375540.2N
+1403551.6E
+085˚
+086˚
+VAR 8˚W 
+1PNR LAVIRRA OVARB TSAE ECNAL
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+LANCE -230(-14000) 11000 R   107
+(098.3)Hold
+Altitude
+(MIN)
+Speed
+(KIAS)
+-8.3
+Path Waypoint
+Identifier
+Course
+˚M(˚T)
+Inbound Magnetic
+Variation
+Tur n
+Direction
+1.0(-14000)
+Time
+Outbound
+(FT)
+Minimum
+Altitude
+(FT)
+Maximum
+1.5(+14001) 凟 -240(+14001) 
+Navigation
+Specification
+RNP1
+107˚
+287˚
+MHA 11000FT
+LANCE
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-STAR-5
+SENDAI
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJSS / 72YWR RATS VANRIADNES
+VAR 8˚W 
+IF
+TF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+-230
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++13000
++9000
++5000
++4000
+凟
++1500
+凟
+11.6
+8.8
+4.4
+12.5
+4.5
+OWLET
+RIBON
+ORKID
+SNOOK
+TOPAZ
+PERID
+(058.9)
+(059.7)
+(059.8)
+(059.8)
+(352.6)
+067
+068
+068
+068
+001
+Path
+Descriptor
+001
+002
+003
+004
+005
+006
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+-8.3
+-8.3
+-8.3
+凟
+SNOOK
+375901.5N
+1405451.7E
+375222.2N
+1404023.4E
+RIBON
+12.5
+068˚
+8.8
+068˚
+11.6
+067˚
+4.5001˚
+  From OWLET at or above 13000FT, to RIBON at or above 9000FT, to ORKID at or above 5000FT, 
+to SNOOK at or above 4000FT, to TOPAZ, to PERID at or above 1500FT.
+LAVIRRA AFLA TSAE TELWO
+4000
+MAX 230KIAS
+1500
+TOPAZ
+380516.8N
+1410833.5E
+PERID
+380944.8N
+1410749.4E
+9000
+5000
+13000
+OWLET
+374623.0N
+1402747.1E
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+RNP1
+Note GNSS required.
+4.4
+068˚
+ORKID
+375648.0N
+1405000.5E
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+OWLET -230(-14000) 13000 䣔   080
+(071.7)Hold
+Altitude
+(MIN)
+Speed
+(KIAS)
+-8.3
+Path Waypoint
+Identifier
+Course
+˚M(˚T)
+Inbound Magnetic
+Variation
+Tur n
+Direction
+1.0(-14000)
+Time
+Outbound
+(FT)
+Minimum
+Altitude
+(FT)
+Maximum
+1.5(+14001) 凟䢢 -240(+14001) 
+Navigation
+Specification
+RNP1
+080˚
+260˚
+MHA 13000FT
+OWLET
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-STAR-6
+SENDAI
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJSS 72YWR RATS VANRIADNES
+VAR 8˚W 
+IF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+RNP1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++13000
++9000
++5000
++4000
+凟
+11.6
+8.8
+4.4
+OWLET
+RIBON
+ORKID
+SNOOK
+(058.9)
+(059.7)
+(059.8)
+067
+068
+068
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+-8.3
+凟
+SNOOK
+375901.5N
+1405451.7E
+375222.2N
+1404023.4E
+RIBON
+8.8
+068˚
+11.6
+067˚
+  From OWLET at or above 13000FT, to RIBON at or above 9000FT, to ORKID at or above 5000FT, 
+to SNOOK at or above 4000FT.
+O1 PNR LAVIRRA OVARB TSAE TELW
+4000
+9000
+13000
+OWLET
+374623.0N
+1402747.1E
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+Note GNSS required.
+4.4
+068˚
+ORKID
+375648.0N
+1405000.5E
+5000
+OWLET -230(-14000) 13000 䣔   080
+(071.7)Hold
+Altitude
+(MIN)
+Speed
+(KIAS)
+-8.3
+Path Waypoint
+Identifier
+Course
+˚M(˚T)
+Inbound Magnetic
+Variation
+Tur n
+Direction
+1.0(-14000)
+Time
+Outbound
+(FT)
+Minimum
+Altitude
+(FT)
+Maximum
+1.5(+14001) 凟䢢 -240(+14001) 
+Navigation
+Specification
+RNP1
+080˚
+260˚
+MHA 13000FT
+OWLET
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:18 APR 2024) 21/3/24
+RJSS AD2.24-STAR-7
+SENDAI
+
+
+=== Page 41 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180
+°
+360°
+090°
+EQPT REQUIRED
+DME
+VOR
+270˚
+360˚
+180˚
+3200
+2500
+7200
+MSA 25NM
+SDE
+MHA 3000
+MAX 230KIAS
+YUCCA (FAF) : 380906.50N/1410132.24E
+NM to ISD
+ALT (3.0˚ APCH Path)
+FAF
+1478
+4
+1281
+3
+964
+2
+645
+1
+326
+MAPt
+–
+DME to ISD
+NM to THR
+1.0
+0.8
+4.6
+4.4
+9.6
+9.4
+0.6
+0.50
+899
+VOR/DME
+SENDAI
+116.3 SDE
+CH–110X
+1030
+208
+206
+2625
+RJSS / 72YWR  Z COL ro Z SLIIADNES
+ÛÝ1ÛÝ(
+ILS – LOC
+111.7     ISDSENDAI  APP
+120.4 – 261.2
+RADAR  AVBL
+ATIS  126.45ILS–GP    333.5
+ILS–DME    CH –54X
+MISSED APPROACH
+SDE
+1500
+1500
+148(LOC)
+MDA
+700
+(694)
+1224
+270˚
+160˚
+1417
+2464
+GP3.0˚VDP
+(LOC)
+MAPt
+(LOC)
+270˚
+MAPt(LOC)
+D0.6 ISD
+YUCCA(FAF)
+D4.6 ISD
+YUCCA
+(FAF)
+PERID
+(IF)
+PERID
+(IF)
+D9.6 ISD
+SDE R160
+RDH54
+Climb to 600FT on HDG270˚,
+turn left, via SDE R160 to 3000FT, 
+turn left, direct to SDE 
+VOR/DME and hold.
+Contact SENDAI APP.
+10NM
+Timing not authorized for defining the MAPt.
+270˚
+123˚
+303˚
+VAR 8˚W 
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+215 (200) 320 (314)
+560 (554)
+530 (524)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 15 AD elev. 6
+A
+B
+C
+D
+Missed APCH climb gradient MNM 4.0%.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+089˚
+269˚
+MHA 1500
+MAX230KIAS
+D16.0 SDE
+R089/D10.0 SDE
+PERID
+SDE
+Office
+SENDAI TOWER
+118.7 - 126.2
+1200 – 1300(UTC)
+SENDAI RADIO
+118.7
+AFIS provided by
+New Chitose Airport 
+NOT TO SCALE
+270˚HDG270˚
+CHANGE : Description of Missed APCH course.
+(EFF:20 APR 2023) 23/3/23
+RJSS AD2.24-IAC-1
+SENDAI
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+160˚
+SDE R160
+180
+°
+360°
+090°
+YUCCA(FAF)
+D4.6 ISD
+MAX Turning speed
+200KIAS
+Turn initiation
+within D8.0 SDE
+Turn initiation
+within D8.0 SDE
+MAPt(LOC)
+D0.6 ISD
+EQPT REQUIRED
+DME
+VOR
+270˚
+360˚
+180˚
+3200
+2500
+7200
+MSA 25NM
+SDE
+VAR 8˚W 
+DME to ISD
+NM to THR
+1.0
+0.8
+4.6
+4.4
+0.6
+0.50
+YUCCA (FAF) : 380906.50N/1410132.24E
+899
+VOR/DME
+SENDAI
+116.3 SDE
+CH–110X
+1030
+208
+206
+2625
+RJSS / 72YWR  Y COL ro Y SLIIADNES
+ÛÝ1ÛÝ(
+ILS – LOC
+111.7     ISDSENDAI  APP
+120.4 – 261.2
+RADAR  AVBL
+ATIS  126.45ILS–GP    333.5
+ILS–DME    CH –54X
+1224
+270˚
+112˚
+1417
+2464
+10NM
+NM to ISD
+ALT (3.0˚ APCH Path)
+FAF
+1478
+4
+1281
+3
+964
+2
+645
+1
+326
+MAPt
+–
+MISSED APPROACH
+Climb to 600FT on HDG270˚,
+turn left, via SDE R160 to 3000FT, 
+turn left, direct to SDE 
+VOR/DME and hold.
+Contact SENDAI APP.
+Timing not authorized for defining the MAPt.
+SDE
+1500
+3000
+1500
+148(LOC)
+MDA
+700
+(694)
+GP3.0˚VDP
+(LOC)
+MAPt
+(LOC)
+270˚
+YUCCA
+(FAF)
+RDH54
+270˚
+112˚
+MHA 3000
+MAX 230KIAS 123˚
+303˚
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+215 (200) 320 (314)
+560 (554)
+530 (524)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 15 AD elev. 6
+A
+B
+C
+D
+Missed APCH climb gradient MNM 4.0%.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Office
+SENDAI TOWER
+118.7 - 126.2
+1200 – 1300(UTC)
+SENDAI RADIO
+118.7
+AFIS provided by
+New Chitose Airport 
+HDG270˚ 270˚
+CHANGE : Description of Missed APCH course.
+(EFF:20 APR 2023) 23/3/23
+RJSS AD2.24-IAC-2
+SENDAI
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SENDAI
+INSTRUMENT APPROACH CHART
+180
+°
+360°
+090°
+270° 
+DME to SDE
+NM to THR
+1.6
+1.1
+5.0
+4.40
+0
+160˚
+SDE R160
+899
+1030
+2625
+VOR  RWY27
+SENDAI  VOR / DME
+116.3     SDESENDAI  APP
+120.4 –261.2
+RADAR  AVBL
+ATIS  126.45CH–110X
+MISSED APPROACH
+1500
+1479
+3000
+1224
+108˚
+265˚
+1417
+2464
+108˚
+265˚
+10NM
+ÛÝ1ÛÝ(
+VDP
+MDA
+700
+(694)
+3.0˚MAPt
+Turn left, climb via SDE R160 to 3000FT,
+turn left, direct to SDE VOR/DME 
+and hold.
+Contact SENDAI APP.
+SDE
+206
+MAPt
+208
+RJSS / SENDAI
+EQPT REQUIRED
+DME
+270˚
+360˚
+180˚
+3200
+2500
+7200
+MSA 25NM
+SDE
+VAR 8˚W 
+MHA 3000
+OHSYU
+(FAF)
+D5.0 SDE
+OHSYU
+(FAF)
+MAX 230KIAS 123˚
+303˚
+MAX Turning speed
+200KIAS
+Turn initiation
+within D8.0 SDE
+Turn initiation
+within D8.0 SDE
+OHSYU (FAF) : 1(NM to SDE
+ALT (3.0˚ APCH Path)
+FAF
+1479
+4
+1161
+3
+842
+2
+524
+MAPt
+–
+Timing not authorized for defining the MAPt.
+ 
+MINIMA 
+CAT
+390 (384)
+560 (554)
+530 (524)
+900 1600
+2400
+32001400
+1000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 15 AD elev. 6
+A
+B
+C
+D
+Office
+SENDAI TOWER
+118.7 - 126.2
+1200 – 1300(UTC)
+SENDAI RADIO
+118.7
+AFIS provided by
+New Chitose Airport 
+265˚
+265˚
+CHANGE : Description of PROC course.
+RJSS AD2.24-IAC-3
+(EFF:20 APR 2023) 23/3/23
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180°
+360°
+090°
+DME to SDE
+NM to THR
+1.5
+1.2
+5.0
+4.70
+0
+899
+1030
+206MAPt
+208
+MHA 3000
+MAX 230KIAS 123˚
+303˚
+2625
+SENDAI  VOR / DME
+116.3      SDESENDAI  APP
+CH–110X
+1224
+160˚
+153˚
+SDE R160
+311˚
+1417
+2464
+10NM
+270°  
+EQPT REQUIRED
+DME
+270˚
+360˚
+180˚
+3200
+2500
+7200
+MSA 25NM
+SDE
+VAR 8˚W 
+VOR  RWY30RJSS / SENDAI
+120.4 –261.2
+RADAR  AVBL
+ATIS  126.45ÛÝ1ÛÝ(
+MISSED APPROACH
+1500
+8
+3000
+153˚
+311˚VDP
+MDA
+700
+(694)
+3.1˚MAPt
+Turn left, climb via SDE R160 to 3000FT,
+turn left, direct to SDE VOR/DME 
+and hold.
+Contact SENDAI APP.
+SDE
+BNCHO
+(FAF)
+Turn initiation
+within D8.0 SDE
+Timing not authorized for defining the MAPt.
+MAX Turning speed
+200KIAS
+Turn initiation
+within D8.0 SDE
+BNCHO (FAF) : 1(NM to SDE
+ALT (3.1˚ APCH Path)
+FAF
+1587
+4
+1258
+3
+929
+2
+600
+MAPt
+–
+BNCHO
+(FAF)
+D5.0 SDE
+ 
+MINIMA 
+CAT
+410 (404) 530 (524)1500 1600
+24001800
+––––
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 5 AD elev. 6
+A
+B
+C
+D
+Office
+SENDAI TOWER
+118.7 - 126.2
+1200 – 1300(UTC)
+SENDAI RADIO
+118.7
+AFIS provided by
+New Chitose Airport 
+311˚
+311˚
+CHANGE : Description of PROC course.
+(EFF:20 APR 2023) 23/3/23
+RJSS AD2.24-IAC-4
+SENDAI
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SENDAI
+INSTRUMENT APPROACH CHART
+SDE
+NM to THR05.110.4
+MSA 25NM
+7200
+3700
+ARP
+MSA 10NM
+ARP:380823N/1405501E
+Climb direct to SS901, to
+AOBAR and hold at 3000FT.
+Contact SENDAI APP .
+MISSED APPROACH
+RJSS / I ADNES
+SENDAI  APP
+120.4 – 261.2
+RADAR  AVBL
+ATIS  126.45
+1700
+1700
+2500
+4000
+3.00˚ RW09
+SUGOH
+(FAF)
+10NM
+    (MAHF)
+RW09
+SS901
+(MATF)
+TILES
+(IF)
+TILES
+(IF)
+SHIPS
+(IAF)
+SHIPS
+(IAF) SUGOH
+(FAF)
+091˚
+091˚
+5.1
+(082.5˚T)
+150˚10.0
+(142.0˚T)
+5.3
+(072.1˚T)
+6.0
+(012.
+4˚T)
+081˚
+081˚
+021˚
+021˚
+2625
+871
+1039
+1206
+BaroVNAV not authorized below - 10°C
+VAR 8˚W 
+MAX 210KIAS
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+Not applicable 530 (524)
+560 (554)
+1000
+1100
+1200
+1600
+2400
+32001400
+MDA(H) CMVCMV MDA(H) VIS
+LNAV CIRCLING
+THR elev. 12 AD elev. 6
+A
+B
+C
+D
+RW09 380819.58N
+1405355.40E
+SS901
+(MATF)
+380854.58N
+1405935.60E
+AOBAR
+(MAHF)
+380102.14N
+1410723.23E
+SUGOH
+(FAF)
+380739.30N
+1404727.27E
+TILES
+(IF)
+380602.47N
+1404105.50E
+SHIPS
+(IAF)
+380010.38N
+1403927.39E
+316˚
+136˚
+MHA 3000FT
+MAX 230KIAS
+AOBAR
+1MIN
+Office
+SENDAI TOWER
+118.7 - 126.2
+1200 – 1300(UTC)
+SENDAI RADIO
+118.7
+AFIS provided by
+New Chitose Airport 
+   RNP APCH
+CHANGE : PROC renamed. Course FM TILES to SUGOH. MAPt abolished. Missed APCH PROC. MINIMA for LNAV/VNAV, LNAV.
+AOBAR
+NOT TO SCALE
+RDH50
+265 (253)
+270 (258)
+278 (266)
+286 (274)
+RNP RWY09(LNAV/VNAV only)
++/'*IRU1$9$,'DEROLVKHG2&$+GHOHWHG
+RJSS AD2.24-IAC-5
+(EFF:20 APR 2023) 23/3/23
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SENDAI
+INSTRUMENT APPROACH CHART
+1029
+529
+149
+1043
+627
+619
+149
+179
+149186
+843
+139
+217
+1039
+125
+349
+269
+658
+381
+134151871
+1206
+10NM
+271°
+6.4
+042°
+4.6
+MAX 165KIAS
+271°/1.5
+042°/1.5
+SS772
+VEGAL
+ (FAF)
+SS771
+RW27
+  SNOOK
+(IF/MAHF)
+»
+䢳䢶䢳䤑䢲䢩䣇䢳䢶䢲䤑䢷䢲䢩䣇
+䢵䢺䤑䢳䢲䢩䣐
+䢵䢺䤑䢲䢩䣐
+Contour
+Intervals
+   AD elev.6
+2000
+1500
+1000
+ 500
+SENDAI APP
+120.4 - 261.2
+RNP AR
+RF required.
+SENDAI TOWER
+118.7 - 126.2
+1200 - 1300(UTC)
+RADAR AVBL
+ATIS 126.45
+SENDAI RADIO
+118.7AFIS provided by
+New Chitose Airport
+Office
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP RWY27(AR)
+VEGAL(FAF) : 380422.75N/1405919.92E
+RJSS / SENDAICHANGE : Description of VAR.
+䢯
+600
+MSA  RW27  25NM
+1800
+7200
+3000
+l
+180
+°
+270°
+36
+0°
+NOT TO SCALE
+MHA 4000
+MAX 210KIAS
+SNOOK
+D9.3 SDE
+D14.0
+SDE
+sde
+VOR/DME
+SENDAI
+116.3   SDE
+CH-110X
+38䜪08’19”N/140䜪55’17”E
+R190
+Using NAVAID
+10123456789 1 0
+KM
+1012345
+NM
+DA(H) RVR/CMV
+A
+B
+C1 0 0 0
+D 1400    * Missed APCH climb gradient MNM 4.0%
+MINIMA       THR elev. 15         AD elev. 6   
+Authorization Required
+315(300)
+-
+CAT RNP 0.30
+-
+Þ
+1.5
+RDH 54
+NM to THR
+SS772
+SNOOK
+(IF)
+4000
+MISSED APPROACH
+From RW27 on track 271,
+at or above 600FT turn left,
+direct to SNOOK and hold at 
+4000FT . 
+Contact SENDAI APP.
+560
+14.0
+RW27
+6.2
+SS771
+7.60
+VEGAL
+(FAF)
+2030
+2500
+NOT TO SCALE
+MHA 4000
+MAX 210KIAS
+SNOOK
+1MIN
+RNAV HLDG
+RJSS AD2.24-IAC-6
+(EFF:20 APR 2023) 23/3/23
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SENDAI
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.3 - - - -
+002 TF - -8.3 - - - 1.0
+003 TF - -8.3 - -165 -3.00 0.3
+004
+RF
+Center:
+SSRF1
+r=2.02NM
+- -8.3 L - -3.00 0.3
+005 TF Y -8.3 - - -3.00/54 0.3
+006 FA - -8.3 - - - 1.0
+007 DF - -8.3 L - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold SNOOK R FL140 -210
+(-14000) 1.0080
+(071.9) -8.3 1.0 (-14000)
+SS771 380536.78N / 1410021.86E
+380844.14N / 1405753.87E
+Waypoint Identifier
+-
+-
+271
+(262.6)
+271
+(262.6) +600
+SNOOK
+SNOOK - - 4000
+- - +4000
+4.6
+1.5
+560
+69
+-
+SS772
+RW27
+RJSS / SENDAI RNP RWY27(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+VEGAL 042
+(033.3) 6.4 2500
+SS771 042
+(033.4) 1.5 2030
+Coordinates
+4000
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+Waypoint Coordinates
+Coordinates RF Arc Center Identifier
+SS772
+RW27
+VEGAL
+SSRF1SNOOK 380643.74N / 1405813.69E
+380832.18N / 1405557.56E
+375901.53N / 1405451.66E
+380422.75N / 1405919.92E
+RJSS AD2.24-IAC-7
+(EFF:20 APR 2023) 23/3/23
+→
+
+
+=== Page 49 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJSS / SENDAI Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹㻔㼙㻕䛷䛒䜛䚹㻌The unit of measurement used to express elevation is meter(m).
+CHANGE : VAR.
+NAKADA 
+NAKADA  
+KUMANO 
+KUKUUMAMANONOO 
+5NM from ARP
+5NM from ARP
+SENDAI CONTROL ZONE
+AI CON
+At
+NTROL ZONE
+CON
+At
+At or below 3000ft
+㼃㼑㼎
+㼑㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+YURIAGE 
+YUURIAGGE
+NATORI 
+NATOORI 
+NINOKURA 
+NINININONONOKUKUKURARAARA  
+IWANUMA 
+IWANUMU A 
+TSUKINOKI 
+TSTSSUKUKU ININOKOKO II
+ABUKUMA 
+ABABUKUKUMUMAA 
+WATARI 
+WATARI 
+KASUMINOME CONTROL ZONE
+ME CO
+At
+ONTROL ZONE
+CO
+At
+At or below 5000ft
+SEDAI TOWER
+SEDAI T
+118.7
+AI T
+7
+7 -
+OWER
+TO
+T
+- 126.2
+1200 
+0 -
+-
+ 1300(UTC)
+1200
+0 
+-
+ 300(UTC)
+1
+1
+SENDAI RADIO
+NDAI RAD
+NDA
+NDA
+AI RAD
+A
+NDA
+118.7
+AFIS
+18.7
+18 7
+1
+1
+S
+S
+ provided by
+AFIS
+S
+S
+ provided by
+provided
+p
+p
+New Chitose Airport
+Chitose A
+Chitose A
+Ch
+Office
+VAR
+R 9
+R
+ 99
+
+
+ W (2024) /
+/ 4
+44444’W
+(EFF:28 NOV 2024) 31/10/24
+RJSS AD2.24-OTHER-1
+SENDAI
+
+
+=== Page 50 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSS AD2.24-OTHER-2
+RJSS / SENDAI Visual REP
+⇃㔝 ⇃㔝⚄♫
+Kumano Kumano Shrine
+୰⏣ 㻶㻾༡௝ྎ㥐
+Nakada Station
+㛭ୖ ྡྲྀᕝἙཱྀ
+Yuriage River-mouth of the Natori
+ྡྲྀ 㻶㻾ྡྲྀ㥐
+Natori Station
+஧䛾಴ ┴༡ί໬䝉䞁䝍䞊
+Ninokura Sewage disposal center
+ᒾ἟ 㻶㻾ᒾ἟㥐
+Iwanuma Station
+ᵳᮌ 㻶㻾ᵳᮌ㥐
+Tsukinoki Station
+㜿Ṋ㝰 㜿Ṋ㝰ᕝἙཱྀ
+Abukuma River-mouth of the Abukuma
+ர⌮ 㻶㻾ர⌮㥐
+Watari Station
+ὀ䠖᭷ど⏺㣕⾜᪉ᘧ䛻䜘䜚㟘┠⟶ไᅪ䛛䜙௝ྎ⟶ไᅪ䜈㐍ධ䛧䜘䛖䛸䛩䜛⯟✵ᶵ䛿䚸௝ྎ
+䚷䚷⟶ไᅪ䛻ධᅪ䛩䜛๓䛻௝ྎ䝍䝽䞊䜎䛯䛿௝ྎ䝺䝕䜱䜸䜈㏻ሗ䛩䜛䛣䛸䚹
+NOTE : When any VFR flight enters SENDAI CTR directly via KASUMINOME CTR,
+             the pilot shall report to "SENDAI TWR" or "SENDAI RADIO" before entering
+             SENDAI CTR.
+178°T / 5.6NM
+204°T / 6.5NM
+236°T / 3.0NM
+234°T / 6.2NM
+/2 . 6 N M
+160°T / 1.7NM
+CHANGE : SENDAI RADIO added to NOTE.
+ὀ䠖㼂㻲㻾ᶵ䛸㻵㻲㻾ᶵ䛾⯟⾜䛾Ᏻ඲䛾䛯䜑䚸௝ྎ㐍ධ⟶ไ༊䛾䛖䛱䚸௝ྎ✵ 䛛䜙㻝㻡㻺㻹௨ෆ䛾
+䚷䚷ᆅᇦ䜢㼂㻲㻾䛷⯟⾜䛩䜛ሙྜ䛿䚸௝ྎ㼀㻯㻭䛸✚ᴟⓗ䛻䝁䞁䝍䜽䝖䛩䜛䛣䛸䚹
+NOTE : In order to ensure the safety operations for both VFR and IFR aircraft, VFR
+              aircraft should contact SENDAI TCA positively when the flight includes SENDAI
+              Approach Control Area, within 15 miles from Sendai Airport.
+Call sign
+BRG / DIST from ARP Remarks
+319°T / 5.0NM
+336°T / 3.8NM
+043°T / 2.9NM
+321°T
+SENDAI
+(EFF:24 MAR 2022) 24/2/22
+
+
+=== Page 51 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC  GDLIADNES / SSJR
+VOR/DME
+ELEV 6ft
+SENDAI
+116.3   SDE
+CH-110X
+ÛÝ1ÛÝ(
+CGL
+153
+58
+181
+ABN
+TWR
+118.7-126.2-121.5
+RVR
+RWY THR ID LGT
+RWY THR ID LGT
+0
+0
+1000 m1000 500
+3000   ft1000
+SCALE
+Û
+Û
+Û
+
+
+
+
+Û
+NATORI
+CITY
+Asph-Conc
+Asph-Conc
+9840× 150 ft
+3940× 150 ft
+09 12 27
+30
+1
+3 4
+2
+IWANUMA
+CITY
+Angle      3.0Û
+MEHT 22.5m (73.8 ft)
+456m  FM  THR
+Angle      3.0Û
+MEHT 20.0m (65.6 ft)
+439m  FM  THR
+Angle      3.0Û
+MEHT 13.6m (44.5 ft)
+306m  FM  THR
+Angle      3.1Û
+MEHT 13.6m (44.5 ft)
+262m  FM  THR
+1234
+1200 – 1300(UTC)
+ RADIO
+118.7
+AFIS provided by
+New Chitose Airport Office 
+CHANGE : VAR. OBST.
+VAR
+Û
+W(2024)
+$118$/&+$1*(:
+202
+(EFF:28 NOV 2024) 31/10/24
+RJSS AD2.24-OTHER-3
+SENDAI
+
+
+=== Page 52 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMIADNES / SSJR
+VAR 9˚W (2024)
+CENTER 凬 380838N/1405510E  (RADAR SITE)
+8000
+8000
+9000
+6000 3000
+8000
+4000
+7000
+4000
+7000
+15NM
+(4)
+5000
+2000
+10000 5000
+12NM
+6000
+1500
+30NM
+10NM
+6NM
+25NM
+17NM
+13.3NM
+17NM
+20NM
+3000
+40NM
+50NM
+20NM
+1.5NM
+11.4NM
+2500
+2500
+2000
+1100014000 9000
+180˚
+201˚
+040˚
+050˚
+030˚
+010˚360˚
+070˚
+295˚
+260˚
+280˚
+195˚
+220˚
+180˚
+䷵
+䷶
+(1)
+(2)
+(3)
+FM RADAR SITE
+(1) 265˚  11.4NM
+(2) 260˚  16.4NM
+(3) 249˚  20NM
+(4) 070˚  33NM
+䷵䢢
+4500
+䷶䢢4000
+CHANGE : VAR.
+(EFF:28 NOV 2024) 31/10/24
+RJSS AD2.24-OTHER-4
+SENDAI
+

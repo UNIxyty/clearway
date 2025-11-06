@@ -1,0 +1,800 @@
+=== Page 1 ===
+AIP Japan
+TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD2-1
+AD 2 AERODROMES
+RJTC AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJTC  - TACHIKAWA
+RJTC AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJTC AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 354239N 1392412E
+2 Direction and distance from (city) Nil
+3 Elevation/ Reference temperature 313ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-G
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8R e m a r k s N i l
+1
+AD Administration 2330 - 0800
+Other time 1HR PN
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office 2330 - 0800
+Other time 1HR PN
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office 2200 - 0800
+Other time on request
+7 ATS 2330 - 0800
+Other time 1HR PN
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:12 JUN 2025) 15/5/25
+
+
+=== Page 2 ===
+RJTC AD2-2                    AIP Japan
+                   TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD 2.4 HANDLING SERVICES AND FACILITIES
+RJTC AD 2.5 PASSENGER FACILITIES
+RJTC AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJTC AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1
+3 Fuelling facilities/ capacity To be iss ued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7R e m a r k s N i l
+1H o t e l s N i l
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7R e m a r k s N i l
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3
+Capability for removal of disabled  
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 3 ===
+AIP Japan
+TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD2-3
+RJTC AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJTC AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJTC AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not Available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual 
+docking/ parking guidance 
+system of aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:01/19
+(Marking) RWY designation, RWY CL, RWY THR, TDZ
+(LGT) REDL,RTHL,TKOF aiming LGT
+TWY:
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4R e m a r k s N i l
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJTC AD2-4                    AIP Japan
+                   TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJTC AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office TACHIKAWA
+2 Hours of service
+MET Office outside hours
+2200-0800 
+Other time on request
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available 
+for briefing or consultation
+S. U
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of 
+service, etc.)
+Nil
+Designations
+RWY NR
+TRUE BRG
+Dimensions 
+of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undu-
+lation
+THR elevation and
+highest elevation of 
+TDZ
+of precision APP RWY
+12 3 4 5 6
+01 To be issued 
+Later
+900×45 SW 8000kg(17600lbs)
+DW 11000kg(24300lbs)
+DTW 16000kg(35300lbs)
+Asphalt-Concrete
+Nil THR ELEV : 299ft
+19 To be issued 
+Later
+900×45 SW 8000kg(17600lbs)
+DW 11000kg(24300lbs)
+DTW 16000kg(35300lbs)
+Asphalt-Concrete
+Nil THR ELEV : 313ft
+   Slope of RWY 
+Strip
+ Dimensions(M)
+Remarks
+71 0 1 2
+see AD CHART 1020×300 Nil
+1020×300
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 5 ===
+AIP Japan
+TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD2-5
+RJTC AD 2.13 DECLARED DISTANCES
+RJTC AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJTC AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJTC AD 2.16 HELICOPTER LANDING AREA
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+01
+19
+Remarks
+10
+Nil
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 354234N/1392358E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:LGTD
+3 TWY edge and centerline lighting TWY edge LGT:AVBL
+4 Secondary power supply/    switch-
+over time
+Nil
+5 Remarks WDI LGT, BDRY
+To be issued later
+(EFF:17 AUG 2017) 17/8/17
+
+
+=== Page 6 ===
+RJTC AD2-6                    AIP Japan
+                   TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD 2.17 ATS AIRSPACE
+RJTC AD 2.18 ATS COMMUNICATION FACILITIES
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+TACHIKAWA 
+CTR
+Area within a radius of 5nm of TACHIKAWA 
+ARP, in the east side of a east parallel line at a 
+distance of 1nm from a line  extending from 
+YOKOTA ARP on 171°T and  351°T, in the 
+south side of a line connecting two 
+intersections of two  ci rcles with a radius of 
+5nm of IRUMA  ARP and TACHIKAWA ARP 
+and in the west side of a line connecting east 
+intersection of them and 35°38'N139°28'E . 
+3000 or below D Tachikawa 
+Tower
+En
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+TWR Tachikawa Tower 118.85MHz(2)
+298.8MHz(2)
+126.2MHz(3)
+138.05MHz(3)
+139.8MHz(3)
+141.65MHz(3)
+236.8MHz(3)
+123.1MHz(1)
+121.5MHz(E)
+243.0MHz(E)
+2330 - 0800
+DLY
+Other time 1HR PN
+(1) For Rescue only
+(2) Primary
+(3) Secondary
+GCA-ASR
+   -PAR
+Tachikawa GCA 121.3MHz(2)
+235.0MHz(2)
+134.1MHz(3)
+125.3MHz(3)
+138.3MHz(3)
+335.8MHz(3)
+270.8MHz(3)
+121.5MHz(E)
+243.0MHz(E)
+2330 - 0800
+Other time 1HR PN
+ASR RWY 01/19
+PAR RWY 01
+GP 3.0°
+(EFF:25 JUL 2013) 27/6/13
+
+
+=== Page 7 ===
+AIP Japan
+TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD2-7
+RJTC AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJTC AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+Type of aid ID Frequency
+Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN
+(8°W / 2025)
+TNT 1192MHz
+(CH-105X)
+2330 - 0800 354259.65N/1392358.18E 390ft TACAN Unusable
+R040-R050 beyond 30NM BLW 3000ft
+R070-R080 beyond 30NM BLW 2000ft
+R080-R090 beyond 35NM BLW 2000ft
+R090-R160 beyond 30NM BLW 4000ft
+R180-R190 beyond 23NM BLW 2000ft
+R190-R200 beyond 20NM BLW 2000ft
+R200-R210 beyond 35NM BLW 5000ft
+R210-R220 beyond 30NM BLW 7000ft
+R260-R270 beyond 33NM BLW 9000ft
+R270-R280 beyond 35NM BLW 9000ft
+R280-R300 beyond 37NM BLW 11000ft
+R300-R310 beyond 35NM BLW 9000ft
+R310-R320 beyond 35NM BLW 8000ft
+R320-R330 beyond 35NM BLW 7000ft
+R330-R340 beyond 35NM BLW 6000ft
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:12 JUN 2025) 15/5/25
+
+
+=== Page 8 ===
+RJTC AD2-8                    AIP Japan
+                   TACHIKAWA
+Civil Aviation Bureau,Japan
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJTC AD 2.21 NOISE ABATEMENT PROCEDURES
+RJTC AD 2.22 FLIGHT PROCEDURES
+  
+Nil
+Nil
+Nil
+1.TAKE OFF MINIMA
+RWY ACFT CAT
+REDL & RCLL REDL or RCLL 
+or RCL marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN AP 
+FILED
+01
+A, B
+- - 400 400 500 500
+19 - - - 400 - 500
+OTHER
+01
+A, B AVBL LDG MINIMA
+19
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 01
+MINIMA THR elev. 299 AD elev. 313
+CAT
+CIRCLING
+DA(H) RVR/CMV MDA(H) VIS
+A
+513(214) 1000 1000(687) 1600
+B
+C ----
+D ----
+Circling to EAST side of RWY only.
+ ASR RWY 01
+MINIMA THR elev. 299 AD elev. 313
+CAT
+CIRCLING
+MDA(H) RVR/CMV MDA(H) VIS
+A
+1080(781) 1500 1080(781) 1600
+B
+C- - - -
+D- - - -
+Circling to EAST side of RWY only.
+(EFF:12 JUN 2025) 15/5/25
+
+
+=== Page 9 ===
+AIP Japan
+TACHIKAWA
+Civil Aviation Bureau,Japan
+RJTC AD2-9
+RJTC AD 2.23 ADDITIONAL INFORMATION
+RJTC AD 2.24 CHARTS RELATED TO AN AERODROME
+ ASR RWY 19
+MINIMA THR elev.313 AD elev. 313
+CAT
+CIRCLING
+MDA(H) CMV MDA(H) VIS
+A
+960(647) 1500 1000(687) 1600
+B
+C ----
+D ----
+Circling to EAST side of RWY only.
+3. Lost communication procedures for arrival aircraft under radar navigational guidance 
+If radio communications with Tachikawa GCA are lost for one minute in the pattern or five/fifteen seconds on final approach
+1. Contact YOKOTA Approach.
+2. If unable,proceed in accordance with Visual Flight Rules.
+3. If unable,proceed with TACAN approach (maintai n 3000FT until established on approach procedure).
+Nil
+Aerodrome/Heliport Chart
+ 
+Standard Departure Chart-Instrument (EDARR)
+Standard Departure Chart-Instrument (OMIYA)
+Instrument Approach Chart (TACAN RWY01)
+Instrument Approach Chart (TACAN A)
+(EFF:12 JUN 2025) 15/5/25
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(95.39m)
+313 ft
+0.5%(91.1m)
+299 ft
+RWY 19
+0 900m
+RWY 01
+LONGITUDINAL PROFILE OF RUNWAY  
+S
+C
+NH
+H
+H
+H
+AD  CHARTRJTC / TACHIKAWA 
+60m
+60m
+900m
+19
+01
+ABN
+300m
+WDI 
+TACHIKAWA  AERODROME
+True North
+RunwayDesignation Markings
+Runway Threshold Markings
+RunwayThreshold Lights
+Runway Edge Lights
+Building
+Landing Direction Indicator
+Runway Center Line Markings
+South TAXIWAY
+NR3 TAXIWAY
+NR2 TAXIWAY
+NR1 TAXIWAY
+Boundary Lights
+Boundary Lights
+Range Lights
+Touchdown Zone Markings
+TAXIWAY Edge Lights
+Runway Threshold Lights
+BLUE
+YELLOW
+BLACK
+RED
+Take-offAiming Lights
+Take-offAiming Lights
+APRON
+Middle TAXIWAY
+North TAXIWAY
+CHANGE: LONGITUDINAL PROFILE OF RUNWAY.
+(EFF:12 JUN 2025) 15/5/25
+RJTC AD2.24-ADC-1
+TACHIKAWA
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+800
+TACAN
+CH–105X TNT
+TACHIKAWA
+400FT
+900
+152°
+HDG197°
+EDARR
+D11.8 TNT
+Assigned ALT
+R152
+ƍƎ1ƍƎ(
+EDARR ONE DEPARTURE
+RWY01 : Climb RWY HDG to 800FT, turn right HDG197°...
+RWY19 : Climb RWY HDG to 900FT, turn left...
+               ...to intercept and proceed via TNT R152 to EDARR.
+Note RWY01/19 : 5.0% climb gradient required up to 3000FT due to noise abatement.
+Cross EDARR at assigned altitude.
+CHANGE : New PROC.
+RJTC/TACHIKAWA SID
+(EFF:12 JUN 2025) 15/5/25
+RJTC AD2.24-SID-1
+TACHIKAWA
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJTC/TACHIKAWA  SID
+CHANGE : New PROC.
+OMIYA ONE DEPARTURE
+RWY01 : Climb RWY HDG to 800FT, turn right...
+RWY19 : Climb RWY HDG to 900FT, turn left HDG 001°...
+Note RWY01/19 : 5.0% climb gradient required up to 3000FT due to noise abatement.
+...to intercept and proceed via TNT R046 to OMIYA.
+Cross OMIYA at assigned altitude.
+Assigned ALT
+OMIYA
+D15.5 TNT
+800
+900
+R046
+046°
+HDG001°
+TACAN
+CH–105X TNT
+TACHIKAWA
+400FT
+ƍƎ1ƍƎ(
+(EFF:12 JUN 2025) 15/5/25
+RJTC AD2.24-SID-2
+TACHIKAWA
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180
+°
+090°
+270°
+   
+MINIMA AD elev. 313
+CAT MDA (H)
+THR elev.299
+RVR/CMV
+H 950 (651) 1500
+MDA (H)
+990(677)
+VIS
+CIRCLING
+1600
+531
+561
+839
+820
+914
+3100
+180°
+090°
+360°
+
+
+637
+670
+642
+695
+1965
+10YWR NACATAWAKIHCAT / CTJR
+TACHIKAWA  TACAN
+1192
+CH-105X
+TNT TACHIKAWA  TOWERYOKOTA  APP
+123.8 - 118.3 118.85 - 126.2
+RADAR  AVAILABLE
+YOKOTA  APPÛÝ1ÛÝ(261.4 - 270.6 298.8 - 236.8
+CALL
+5NMMSA 25NM
+VAR8°W(2025)
+YOKOTA AD
+VALMO
+(FAF)
+D3.3 TNT
+MAPt
+D0.6 TNT
+ANOBU
+(IF)
+D5.4 TNT
+NM to TNT MAPt 2 3
+1402 1553955
+FAF
+ALT(4.2°APCH Path)
+MHA1900
+MAX 100KIAS 
+D8.0 TNT
+VALMO(FAF) 1(
+VALMO
+(FAF)
+3.3
+2.7
+MDA
+MAPt
+0.6
+0
+DME to TNT
+NM to THR
+TNT
+ANOBU
+(IF)
+1400
+(1101)
+5.4
+4.7
+1900
+MISSED APPROACH
+Turn right, climb to 1900FT
+via TNT R178 to ANOBU and
+hold.
+Contact YOKOTA APP.
+CHANGE : 
+VAR. MSA. PROC course. HLDG pattern. MAPt. VALMO, ANOBU established. HALHI abolished.
+OBST. ALT(4.2˃APCH Path). OCA(H). DME to TNT. NM to THR. MINIMA.
+CAT H
+358°
+358°
+178°
+178°
+358°
+Û
+Û
+Û
+
+TNT
+(EFF:12 JUN 2025) 15/5/25
+RJTC AD2.24-IAC-1
+TACHIKAWA
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+3100
+YOKOTA AD
+TAVAX
+(FAF)
+637
+670642
+854
+IRUMA AD
+OROGU
+(IF)
+D8.0 TNT
+D8.0 TNT
+MHA3000
+MAX 170KIAS
+MISSED APPROACH
+Contact YOKOTA APP.
+MINIMA AD elev.313
+CIRCLING
+VISMDA(H)CAT
+A
+B
+990(677) 1600
+MDA
+1400
+(1087)
+2800
+ DME to TNT
+OROGU
+(IF)
+TAVAX
+(FAF)
+TNT
+MAPt
+Turn left, climb to 3000FT via
+TNT R152 to ANKAL and hold.
+ANKAL
+D4.5 TNT
+D3.0 TNTMAPt
+TNT
+TNT
+MSA 25NM
+VAR 8°W(2025)
+TAVAXʢFAFʣɿ354317.56N/1392738.17E
+180°
+090°
+360°
+
+
+090°
+360°
+270°
+180°
+531
+914
+561 695
+736 820
+R152
+1965
+10NM
+152
+˃
+332
+˃
+272°
+272°
+272˃272˃
+YOKOTA APP
+123.8 - 118.3
+261.4 - 270.6
+TACHIKAWA TOWER
+118.85 - 126.2
+298.8 - 236.8
+RADAR AVAILABLE
+CALL
+YOKOTA APP
+TACHIKAWA TACAN
+   1192            TNT
+CH-105X
+35°43ƍƎ1ƍƎ(
+RJTC/TACHIKAWA TACAN ACHANGE : New PROC. 
+(EFF:12 JUN 2025) 15/5/25
+RJTC AD2.24-IAC-2
+TACHIKAWA
+

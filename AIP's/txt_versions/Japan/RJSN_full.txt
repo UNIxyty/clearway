@@ -1,0 +1,4198 @@
+=== Page 1 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-1
+AD 2 AERODROMES
+RJSN AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJSN - NIIGATA
+RJSN AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJSN AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 375721N 1390642E
+270° / 1.1km FM RWY 28 THR
+2 Direction and distance from (city) 6.7km NE of Niigata Railway Station
+3 Elevation/ Reference 
+temperature
+4.6ft / 31°C (2004-2008)
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change 9°W (2025) / 2' W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site 
+addresses
+Niigata Airport Office (Civil Aviation Bureau) 
+2350-4, Matsuhama-cho, Higashi-ku, Niigata-shi, Niigata Pref, Japan.
+Tel : 025(273)4567, 025(271)9711 (OPS)
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2230 - 1230
+2 Customs and immigration 2330-0815 
+3 Health and sanitation Quarantine(human): 2330-0815
+Quarantine(animal): 2330-0800
+Quarantine(plant): INTL SKED FLT hours only
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (TOKYO)
+7 ATS 2230 - 1230
+8 Fuelling 2230 - 1230
+9 Handling 2230 - 1230
+10 Security 2230 - 1230
+11 De-icing Nil
+12 Remarks Nil
+(EFF:1 OCT 2025) 7/8/25
+
+
+=== Page 2 ===
+RJSN  AD2-2 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD 2.4 HANDLING SERVICES AND FACILITIES
+RJSN AD 2.5 PASSENGER FACILITIES
+RJSN AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJSN AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the m odern institutions that deal with the weight thing to Airbus 330
+2 Fuel/ oil types Fuel Grades : JET A-1, AVGAS 100LL
+Oil grades : 20W50, 15W50, W100
+3 Fuelling facilities/ capaci ty Fuel truck / Not limited
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks The prior permission of Oil company is required to foreign
+aircraft for refueling. (Except schedule Flight)
+1 Hotels Hotels in Niigata city
+2 Restaurants Available (2200 - 1000)
+3 Transportation Busses and Taxis
+4 Medical facilities Hospitals in N iigata city (4km from Airport)
+5 Bank and Post Office Bank :At Airport
+Post Office :1km S of Airport
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3
+Water-supply truck x 1, Lighting power supply truck x 1,
+Emergency medical equipments conveyance truck x 1
+3
+Capability for removal of disabled  
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Snow Removal Equipments :
+Rotary x 2, Snow plows x 6, Snow sweeper x 4, Road sweeper  X 1 
+2 Clearance priorities
+1.RWY 10/28 , TWY C1-C6,B1,B5 SPOT NR4-8
+2.TWY P3,B2-B4 SPOT NR1-3,NR9,NR10 S-Apron, S-TWY ,
+  RWY 04/22(FM S-TWY TO C-TWY)
+3 Remarks Seasonal avail ability : All seasons
+In the case of deposits(snow, slush and ice) on the movement areas, report will 
+be issued as NOTAM(domestic distribution only) at least once a day.
+(EFF:20 JUL 2017) 22/6/17
+
+
+=== Page 3 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-3
+RJSN AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface : Asphalt C oncrete and Concrete, semi-flexible pavement
+Strength :
+ SPOT 1-10: PCR 1132/R/B/W/T
+ S Apron  : AUW 11t 
+2 Taxiway width, surface and
+strength
+Surface : Asphalt concrete and concrete
+Strength :
+A1, A3 and P4 : PCR 163/F/C/Y/T
+B1- B5, C1, C2, C4 - C6 and P3 : PCR 1210/F/C/X/T
+C3 : PCR 1132/R/B/W/T
+S : AUW 11t
+Width :
+B1 : 29m
+B5 : 28.5m
+B2 - B4 and P3 : 30m
+A1, A3, C1-C6 and P4 : 23m
+S : 18m
+3 ACL and elevation Location : Not available
+Elevation : Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+1: 375711.53N 1390636.75E
+2: 375711.93N 1390638.19E
+3: 375710.93N 1390640.71E
+4: 375710.86N 1390642.55E
+5: 375710.82N 1390644.71E
+6: 375710.78N 1390647.37E
+7: 375710.68N 1390650.23E
+8: 375710.51N 1390652.89E
+9: 375710.48N 1390655.65E
+10: 375710.27N 1390658.41E
+6 Remarks Nil
+(EFF:20 FEB 2025) 20/2/25
+
+
+=== Page 4 ===
+RJSN  AD2-4 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Aircraft stand identification signs:Spot NR 5-8
+Aircraft stand taxi lane:See AD2.24
+Visual docking guidance system: Nil
+2 RWY and TWY markings and 
+LGT
+RWY:10/28
+(Marking) RWY designation, RWY CL, RWY THR, Aiming point, TDZ, 
+RWY side stripe 
+(LGT) RCLL, REDL, RTHL, RENL, RTZL(RWY28), WBAR(RWY28)
+RWY:04/22
+(Marking) RWY designation, RWY CL, RWY middle point, 
+Aiming point(RWY04), TDZ 
+(LGT) REDL, RTHL, RENL 
+TWY: B1-B5 and P3
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe, 
+Mandatory instruction 
+(LGT) TWY edge LGT, TWY CL LGT,  RWY guard LGT, Taxiing guidance sign
+TWY: C1, C2
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe, 
+Mandatory instruction 
+(LGT) TWY edge LGT, TWY CL LGT, RWY guard LGT, Taxiing guidance sign
+TWY: C3-C6
+(Marking)TWY CL, RWY HLDG PSN, TWY side stripe, 
+Mandatory instruction 
+(LGT) TWY edge LGT, TWY CL LGT
+TWY: S
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe, 
+Mandatory instruction 
+(LGT) TWY edge LGT
+TWY:A1,  A3,  P4
+(Marking) TWY CL, RWY HLDG PSN, Mandatory instruction 
+(LGT) Nil
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT)  Apron flood LGT
+(EFF:7 AUG 2025) 7/8/25
+
+
+=== Page 5 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-5
+RJSN AD 2.10 AERODROME OBSTACLES
+In approach / TKOF Areas
+RWY/Area 
+affected Obstacle type  Coordinates El evation Markings/ LGT Remarks
+See Obstacle Chart
+In circling area and at AD
+Obstacle type  Coordinates El evation Markings/ LGT Remarks
+See Obstacle Chart
+MARKING  AIDS
+22
+04
+10-28 10-28
+RWY HLDG 
+PSN marking
+Mandatory
+instruction marking
+28
+10
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 6 ===
+RJSN  AD2-6 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office TOKYO
+2 Hours of service
+MET Office outside hours
+H24 (TOKYO)
+3 Office responsible for TAF preparation
+Periods of validity
+TOKYO 
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Brie fing is available upon inquiry at TOKYO
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, Ps, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, APP, ATIS
+10 Additional information(limitation of 
+service, etc.)
+Nil
+(EFF:1 APR 2015) 5/3/15
+
+
+=== Page 7 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-7
+RJSN AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+04 031.91° 1314×45  PCR 163/F/C/Y/T
+ Asphalt Concrete
+375653.73N
+1390652.82E
+THR ELEV:22.7ft
+22 211.91° 1314×45  PCR 163/F/C/Y/T
+ Asphalt Concrete
+375729.96N
+1390721.31E
+THR ELEV: 5.9ft 
+10 092.69° 2500×45 PCR 1210/F/C/X/T
+   Asphalt Concrete
+375724.71N
+1390541.78E
+THR ELEV: 27.1ft
+28 272.69° 2500×45 PCR 1210/F/C/X/T
+   Asphalt Concrete
+375720.91N
+1390724.09E
+THR ELEV: 10.1ft
+TDZ ELEV: 8.0ft 
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+SEE ATTACHED CHART 1434×150 84×(MNM:120 MAX:150)* Nil
+1434×150 1×(MNM:120 MAX:121)*
+SEE ATTACHED CHART 2620×300 90×(MNM:195 MAX:300)* RWY grooving:
+2500m×45m
+2620×300 141×(MNM:116 MAX:299)*
+*For detail, ask airport administrator
+                
+. . . . .9.2ft
+13.9ft
+18.8ft.
+.
+6.6ft  6.9ft 5.9ft
+RWY 04RWY 22
+.
+22.7ft
+1.41%
+0.89%
+0.25%
+1.5
+9%
+.5.9ft 5.9ft
+1.5%
+. .
+  6.5ft5.9ft
+LEVEL
+0 200 400 600 800 1000 1200 1400m
+0.18%
+(EFF:20 FEB 2025) 20/2/25
+
+
+=== Page 8 ===
+RJSN  AD2-8 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD 2.13 DECLARED DISTANCES
+RJSN AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+12 3 4 5 6
+04
+22
+1314
+1314
+1314
+1314
+1314
+1314
+1314
+1314
+Nil
+Nil
+10
+28
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+04 - Green
+Nil
+- - - 1314m
+60m
+White
+LIL
+Red Nil
+ (*1)
+22 - Green
+Nil
+PAPI
+3.0°/Left
+361m
+61ft
+- - 1314m
+60m
+White
+LIL
+Red Nil
+ (*1)
+10 SALS
+420m
+LIH
+Green
+Nil
+PAPI
+3.0°/Left
+535m
+75ft
+- 2500m 
+30m
+Coded color
+(White/Red)
+LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+ (*1)
+28 PALS
+ (CAT I)
+ 660m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+455m
+65ft
+900m 2500m 
+30m
+Coded color
+(White/Red)
+LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+ (*1)
+Remarks
+10
+ Overrun area edge LGT(LEN60m color:Red) (*1)
+ RWY THR ID LGT for RWY04/22 THR(Color:White)
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 9 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-9
+RJSN AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJSN AD 2.16 HELICOPTER LANDING AREA
+RJSN AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics 
+and hours of operation
+ABN: 375701N/1390640E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:Nil
+Anemometor:
+RWY28:  477.7m from RWY28 THR. LGTD
+RWY10:  318.5m from RWY10 THR, LGTD 
+3 TWY edge and center line 
+lighting
+TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/    
+switch-over time
+Within 1sec : REDL(RWY 10/28), RENL(RWY 10/28), RTHL(RWY 10/28),
+                      WBAR, RCLL and Overrun area edge LGT(RWY 10/28)
+Within 15sec: Other lights
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+NIIGATA 
+CTR
+Area within a radius of 5NM of NIIGATA ARP 
+(37 °57'N 139 °07'E ).
+3,000 or 
+below 
+D NIIGATA TWR
+En
+Nil
+NIIGATA 
+ACA
+SEE ATTACHED CHART E NIIGATA APP
+NIIGATA DEP
+NIIGATA Radar
+En
+Nil
+(EFF:2 DEC 2021) 2/12/21
+
+
+=== Page 10 ===
+RJSN  AD2-10 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+۠
+Niigata Approach Control Area
+4nm
+4nm
+4nm
+8000
+FL140
+10
+nm
+30nm
+9nm
+11nm
+50nm
+11nm
+160˚T
+140˚T
+076˚T
+019˚T
+239˚T
+320˚T
+325˚T fm GTC
+234˚T
+214˚T
+GTC
+(EFF:5 MAR 2015) 8/1/15
+
+
+=== Page 11 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-11
+RJSN AD 2.18 ATS COMMUNICATION FACILITIES
+RJSN AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+APP/ASR Niigata 
+Approach / Radar
+121.4MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1230 (1) Primary
+DEP Niigata Departure 119.05MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1230
+TWR Niigata Tower 118.0MHz(1)
+126.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1230
+ATIS Niigata Airport 128.45MHz 2230 - 1230
+Type of aid
+(VOR declination) ID Frequency
+Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of 
+DME 
+transmitting 
+antenna
+Remarks
+1 2 3 456 7
+VOR
+(8°W/2022)
+GTC 115.5MHz H24 375729.86N
+1390653.59E
+TACAN GTC 1189MHz
+(CH-102X)
+H24 375729.71N
+1390656.04E
+39ft TACAN DME Unusable:
+100°-110° beyond 35nm BLW 9,000ft.
+TACAN AZM Unusable:
+100°-120° beyond 35nm BLW 9,000ft.
+320°-330° beyond 20nm BLW 3,000ft.
+ILS-LOC 28 INC 109.3MHz 2230 - 1230 375724.99N
+1390534.61E
+LOC unusable: beyond 14nm FM 
+antenna.
+LOC: 175m away FM RWY10 THR. 
+BRG (MAG) 281.26°
+ILS-GP 28 - 332.0MHz 2230 - 1230 375725.35N
+1390710.02E
+GP: 349m(1145ft) inside FM RWY28 
+THR, 120m(394ft) N of RCL.
+GP angle 3.0°.
+HGT of ILS Ref datum 16.5m(54ft).
+ILS-DME 28 INC 991.0MHz
+(CH-30X)
+2230 - 1230 375725.51N
+1390709.72E
+18ft DME: 357m(1171ft) inside FM RWY28 
+THR, 125m(410ft) N of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are satellite 
+based
+(EFF:10 AUG 2023) 10/8/23
+
+
+=== Page 12 ===
+RJSN  AD2-12 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+ 
+120m125m
+RWY
+RJSN / NIIGATA ILS
+357m
+349m
+2500m
+175m
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+28
+10
+ILS
+REMARKS  : 1.  LOC   beam  BRG (MAG) 281.26°
+2. HGT  of  ILS   REF  datum 16.5m (54ft)
+0.3elgnA   PG .3°
+ILS-LOC
+ANTENNA
+NIIGATA AP
+10˚
+35˚
+35˚
+10˚
+18NM14NM
+14NM
+8NM10NM
+10NM
+LOC COURSE
+LOC Unusable beyond 14NM from antenna.
+LOC ANTENNA
+4. ELEV of  ILS-DME 5.5m (18ft)
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 13 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-13
+RJSN AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+1.1 空港の利用について 1.1 On use of this airport
+1) エプロンを使用する航空機の運航者は、空港管理者の事前
+承認を得る こ と。
+1) Aircraft operator using the apron is required to obtain
+the prior permission of the airport administrator.
+2) タ ッ チアン ド ゴー、 ローアプローチ、離着陸などの訓練飛
+行を行 う 運航者は、 空港管理者へ事前連絡をする こ と。
+TEL: 025-271-9711
+2) Aircraft operator conducting training operations such
+as touch-and-go landing, low approach, landing, and
+takeoff is required to provide prior notification to the
+airport administrator.
+TEL:025-271-9711
+1.2  Special notice to Boeing 747-8 operators
+1) 滑走路
+滑走路 10/28 は幅 45m であ り、 両側に 10m の舗装シ ョ ル
+ダーを設置している。
+滑走路と平行誘導路の間隔は 184m である。
+滑走路 10/28 の停止位置標識は滑走路中心よ り 75m の位
+置にある。
+滑走路 10/28 に着陸する B748 は、 正確な進路を維持する
+ため、デジタル・アビオニクスを備えかつ作動させるこ と。
+1) Runway
+The width of RWY10/28 is 45m and paved 10m
+shoulders are installed on each side of the runway.
+Separation distance between RWY10/28 center line
+and parallel taxiway center line is 184m.
+Runway-holding position markings for RWY10/28 are
+located at 75m from the runway center line.
+B748 which land on RWY10/28 should equip and
+activate Digital Av ionics to maintain the precise path
+during approach.
+2) 誘導路
+誘導路 C1-C6 は 23m 幅であるので、走行に注意を要する。
+誘導路 B2、 B3、 B4、 P3 の走行においてオーバーステア リ
+ングが要求される。
+2) Taxiways
+The width of taxiway C1-C6 is 23m. Pilots are
+requested to pay attention when taxiing at those
+taxiways.
+Pilots are requested to oversteer when turning into/out
+of taxiway B2,B3,B4 and P3.
+3) 駐機場
+駐機可能なスポ ッ ト は、 NR 9 である。
+3) Parking stand
+Available Parking stand for B748 is NR9.
+(EFF:7 AUG 2025) 7/8/25
+
+
+=== Page 14 ===
+RJSN  AD2-14 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+2. Taxiing to and from stands
+1 番スポ ッ ト 及び 2 番スポ ッ ト の使用は以下のとお り とす
+る。 ただ し、 空港管理者の承認を受けた場合を除 く 。
+1) 1 番スポット
+原則と し て、 小型機用スポ ッ ト （1A, 1B, 1C, 1D） が割
+り当て られる。 各スポ ッ ト への進入及び離脱はスポ ッ ト
+誘導経路から行 う こ と。 （別図 １ ）
+2) 2 番スポ ッ ト
+a) 20m×20m 以下の固定翼機 （ジ ェ ッ ト 機を除 く ） 及び回
+転翼機
+原則と し て、 小型機駐機用スポ ッ ト （2A, 2B, 2C） が
+割り当て られる。 各スポ ッ ト への進入及び離脱はス
+ポ ッ ト 誘導経路から行 う こ と。 （別図 １ ）
+b) a) 以外の航空機
+2 番スポ ッ ト が割り当てられる。スポ ッ ト への進入は
+導入線から行い、 導入線上に ノ ーズイ ン駐機とする こ
+と。 ただ し、 全幅 16.5m 以下の機体は任意の向きで駐
+機する こ とができる。 この場合、 2A の小型機駐機用
+マーキングを目安に駐機する ものと し、 2A の西端ラ イ
+ン （2 番スポ ッ ト 導入線直線部からの水平距離が 10.7m
+の位置） を超えてはな ら ない。 （別図 ２ ） 　 　 　
+自走アウ ト 時は、旋回完了後、2 番スポ ッ ト 導入線に
+会合し、 導入線を導出線と し て利用する こ と。
+The use of spot NR1 and spot NR2 should be as follows, except
+with the approval of the AD administrator.
+1) Spot NR1
+As a principle, small aircraft spot (1A, 1B, 1C, 1D) are
+assigned. When entering these spots, aircraft should use the
+aircraft stand taxilane. (ATTACHMENT 1)
+2) Spot NR2
+a) Fixed-wing aircraft within 20 meters by 20 meters (excluding
+jet aircraft) and rotorcraft
+  As a principle, small aircraft spot (2A, 2B, 2C) are assigned.
+When entering these spots, airc raft should use the aircraft
+stand taxilane. (ATTACHMENT 1)
+b) Aircraft other than a)
+Spot NR2 is assigned. When entering spot, aircraft should use
+the lead-in line and should park with the nose-in on the lead-in
+line. However, Aircraft with wingspan at or below 16.5 meters
+can park in any direction. In th is case, small aircraft parking
+marking of spot 2A should be used as a guideline and should
+not exceed the western boundary line of 2A. (located 10.7
+meters horizontally from the straight part of spot NR2 lead-in
+line) (ATTACHMENT 2).
+When taxing out under power-out operation, intercept the
+lead-in line after completing the turn and use the line as the
+lead-out line.
+ูᅗ䠍ʢATTACHMENT-1ʣ
+ูᅗ䠎ʢATTACHMENT-2ʣ
+Spot 1A,1B,1C,1D,2A,2B,2C
+Spot NR2 ˞Aircraft with wingspan at or below 16.5 meters
+Spot in
+10.7m 2A 2B 2C
+2A
+1A 1B 1C 1D
+1 2
+2B 2C
+2A 2B 2C
+Aircraft stand taxilane
+ (Yellow broken line)
+intercept the
+lead-in line
+Stop within 10.7m
+ from the straight part
+of the lead-in line
+(western boundary
+line of 2A)
+Lead-in line
+(Yellow line)
+(EFF:15 MAY 2025) 15/5/25
+
+
+=== Page 15 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-15
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Nil
+Nil
+Nil
+Wing tip clearance at the TWY intersection (REF AD1.1.6.8)
+ Wing tip clearance at the TWY intersec tion between the aircraft holding at the stop  marking on the TWY and the other air-
+craft taxiing behind it are as follows.
+When A306 holding at the stop marking on TWY B4
+wing span (WS) of acft 
+taxiing on TWY C5-C6 WS =<52.2m 52.2m <WS =<69.2m WS >69.2m Legend
+*A : wing tip clearance >= 15m 
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5mwing tip clearance *A *B *C
+Nil
+Nil
+Nil
+(EFF:15 MAY 2025) 15/5/25
+→
+
+
+=== Page 16 ===
+RJSN  AD2-16 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD 2.21 NOISE ABATEMENT PROCEDURES
+１ ． 騒音軽減運航方式
+すべてのジ ェ ッ ト 機に対し て、空港周辺における航空機騒
+音軽減のため、運航の安全に支障のない範囲で、 以下の方
+式が適用される。 ただ し、 これらの方式による こ とができ
+ない航空機は実効的にこれら と同等と認められる代替方
+式を実施するものとする。
+  1) 離陸について （滑走路 10）
+      急上昇方式
+  2) 着陸について （滑走路 28）
+　 　 　 デ ィ レ イ ド ･フ ラ ッ プ進入方式 及び
+      低フ ラ ッ プ角着陸方式
+  3) リバース･ス ラ ス ト について
+　  なし
+２ ． 優先滑走路方式
+    な し
+３ ． 優先飛行経路
+最大離陸重量7,000kg(15,500lbs)を超えるすべての固定翼機
+に対し て、航行の安全確保及び飛行の目的に支障がない範
+囲において適用される。
+滑走路 10 から離陸する場合、新潟 VORTAC から 2 海里の
+地点を通過するまで直線飛行する。
+1. Noise Abatement Operating Procedures
+For all jet aircraft , In order to reduce aircraft noise in the 
+vicinity of airport, the following procedures shall be applied 
+unless compliance of the procedures adversely affects the 
+safety of aircraft operations. In case that the aircraft is 
+unable to take these procedures, pilots should execute 
+alternative procedures which are considered to be practically 
+equivalent.
+1) For take-off from RWY 10
+   Steepest Climb Procedure
+2) For landing to RWY 28
+   Delayed Flap Approach Procedure and 
+   Reduced Flap Setting Procedure
+3) Reverse Thrust
+    Nil
+2. Preferential Runways Procedures
+Nil
+3. Noise Preferential Routes
+For all fixed wing aircraft over 7,000kg(15,500lbs) maximum
+take-off weight, the following noise preferential routes are
+adopted, as long as flight safety in not jeopardized or
+purpose of flight is not hindered.
+Take-off from RWY10, pilots are requested to strictly follow
+extended runway centerline until passing 2NM from Niigata
+VORTAC.
+(EFF:15 MAY 2025) 15/5/25
+←
+
+
+=== Page 17 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-17
+RJSN AD 2.22 FLIGHT PROCEDURES
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN
+AP FILED
+10 A,B,C,D - 0 '-400m - 0 '-400m - 0 '-500m
+28 A,B,C,D 0 '-400m 0 '-400m 0 '-400m 0 '-400m - 0 '-500m
+04 A,B,C - - - 0 '-400m - 0 '-500m
+22 A,B,C - - - 200 '-2400m - 200 '-2400m
+OTHER
+10
+28 A,B,C,D
+AVBL LDG MINIMA
+04
+22 A,B,C
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Niigata Approach/Radar are lost for 30 seconds,squawk Mode A/3 Code 7600 and;
+(I) 1. Contact Niigata Tower.
+2. If unable, proceed in accordance with visual flight rules,
+3. If unable, proceed to Niigata VORTAC at last assigned alti tude or 4,000 feet whichever is higher, and execute instrument 
+approach.
+(II) Procedures other than above will be issued when situation required.
+3. Trajectorized Airport Traffic Data Processing System (TAPS)
+ Aircraft flying in Niigata approach control area under its control  will be instructed to reply with discrete code on Mode A/3 and Mode C.
+ If an aircraft has no capability of replying with discrete code,the pilot shall report ATC if so instructed.
+新潟アプローチの指示のも と に， 当該進入管制区を飛行する航空機は , モー ド A/3 の二次レーダー個別コー ド 及びモー ド C による応
+答を指示される。
+二次レーダー個別コー ド を搭載し ていない航空機が当該コー ド による応答を指示された場合は， 管制官に対し その旨通報する こ と。
+4. Flying restrictions:
+No flight shall be permitted below minimum safe altitude over the petroleum complex area.
+(EFF:15 MAY 2025) 15/5/25
+→
+
+
+=== Page 18 ===
+RJSN  AD2-18 AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD 2.23 ADDITIONAL INFORMATION
+1. A red-roofed house approx 10M AGL (15M MSL)
+located at position 290M outward on 218 deg. mag. from RWY 04 THR.
+2. RWY10 進入区域の船舶の通過
+航空機の運航に影響がある高さの船舶が RWY10 進入区域
+を通過する場合、 以下の対応が取られる。
+(1) NOTAM RJSN 又は ATC によ り船舶の情報提供が行わ
+れる。
+(2) 以下の場合において、船舶が A 点～ B 点を通過する間、
+待機が指示される こ とがある。船舶高は水面上の高さ と
+する。
+a) RWY10 着陸時
+船舶高が 46m (150ft) 超の場合、 RNP AR 進入を行 う
+到着機
+船舶高が 53m (174ft) 超の場合、 全ての到着機
+b) RWY28 出発時及び着陸時
+船舶高が 57m (188ft) 超の場合、 IFR 出発機
+船舶高が 93m (306ft) 超の場合、 IFR 到着機
+2. Passage of vessel across RWY10 approach area
+While vessel with height that affects ACFT operations is
+passing across RWY10 approach area, the following action will
+be taken.
+(1) The information of vessel will be provided by NOTAM RJSN 
+     or ATC.
+(2) While vessel is crossing between point A and point B, 
+      holding instruction may be issued in the following situations. 
+      Vessel height shall be the height above the water surface.
+a) ACFT for landing RWY10
+When vessel height is above 46m (150ft): arrival ACFT to
+conduct RNP AR APCH
+When vessel height is above 53m (174ft): all arrival ACFT
+b) ACFT for take-off/landing RWY28
+When vessel height is above 57m(188ft): IFR departure  
+        ACFT
+When vessel height is above 93m(306ft): IFR arrival ACFT
+船舶経路                                                                                VESSEL COURSE
+ 
+ 
+(EFF:15 MAY 2025) 15/5/25
+←
+
+
+=== Page 19 ===
+AIP Japan
+NIIGATA
+Civil Aviation Bureau,Japan
+RJSN AD2-19
+RJSN AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart-1
+Aerodrome/Heliport Chart-2
+Aerodrome Obstacle Chart type A (RWY10/28)
+Aerodrome Obstacle Chart type B
+Standard Departure Chart - Instrument (OKESA)
+Standard Departure Chart - Instrument (NIIGATA)
+Standard Departure Chart - Instrument (SASAGA-RNAV)
+Standard Departure Chart - Instrument (MOKBA-RNAV)
+Standard Departure Chart - Instrument (SUKOB-RNAV)
+Standard Arrival Chart - Instrument (INAHO, GOSEN, MAGNA, TERAD-RNAV)
+Standard Arrival Chart - Instrument (KAETSU-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY28)
+Instrument Approach Chart (ILS Y or LOC Y RWY28)
+Instrument Approach Chart (VOR RWY28)
+Instrument Approach Chart (RNP Z RWY10)
+Instrument Approach Chart (RNP Y RWY10(AR))
+Instrument Approach Chart (VOR RWY10)
+Other Chart (Visual REP)
+Other Chart (TFC PATTERN)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:15 MAY 2025) 15/5/25
+→
+
+
+=== Page 20 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+     
+     AERODROME CHART
+298.5m
+360m
+GREEN
+THR LIGHT
+RED GREEN
+OVERRUN AREA EDGE LGT SEQUENCED FLASHING LIGHTS(SFL-V)
+SIMPLE  APPROACH  LIGHTING  SYSTEM
+RED10
+28
+APPROACH  LIGHTING  SYSTEM
+300m
+RED
+RWY TIL
+ELEV 23ft
+A1
+ASR ABN
+ARP
+APRON RVR
+GP
+JCG
+S APRON S-TWY
+FIRE
+STN
+JSDF-A
+P$3,$1*/(Û
+MEHT 22.9m (75ft)
+535m INSIDE FM THR
+V$5Û
+W(2025)
+ANN
+UAL CHANGE 2´W
+ELEV 27ftLOC
+WDI
+TAXIING GUIDANCE SIGN
+P$3,$1*/(Û
+MEHT 18.6m (61ft)
+361m INSIDE FM THR
+P$3,$1*/(Û
+MEHT 19.9m (65ft)
+455m INSIDE FM THR
+VORTAC
+(GTC)
+WDI
+ELEV 10ft
+RUNWAY
+GUARD LIGHTS
+ELEV 6ft
+RWY TIL
+A3
+P4
+P3
+C2C3
+B2B3B4
+C5C6 C1
+B1
+1佇72佇63佇54佇45佇36佇2
+6伽2
+7佇1
+7伽1 3伽54伽4
+375721N
+1390642E
+TWR
+MET
+TERMINAL BLDG
+NIIGATA AIRPORT
+ELEV 1.40m(4.6ft)
+1 234 5 6 7 8 9 1 0
+28
+22
+04
+0.9m
+2.10m
+0.9m
+TAXIWAY
+RUNWAY -HOLDING POSITION MARKINGS
+and RUNWAY GUARD LIGHTS
+Runway-holding position markings and 
+Runway guard lights are located on 
+taxiway B-1 through B-5, C-1, C-2 and 
+P-3. Their locations are 75m off the 
+runway centerline. 
+COMMON WAYS OF ITS MARKING  AND LIGHTS
+RUNWAY SIDE
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW)
+CHANGE : AIS abolished.
+WIND SPEED METER
+WIND SPEED METER
+CEILOMETER
+B5
+10
+121.5m
+5伽
+C4
+(EFF:1 OCT 2025) 7/8/25
+RJSN AD2.24-ADC-1
+NIIGATA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NIIGATA AIRPORT
+ELEV 1.40m(4.6ft)
+A1
+JCG
+S APRON
+S-TWY
+FIRE
+STN
+JSDF-A
+A3
+P4
+P3
+C2C3
+B2B3
+1D
+21
+1C 1B 1A
+2A2B2C
+B4B5
+4C5C6C C1
+B1
+TWR
+MET TERMINAL BLDG
+10
+28
+22
+04
+9$5Û:
+$118$/&+$1*(ƍ:
+12 3 4 5 6 7 8 9 1 0
+S1
+S8 S9 S10 S11
+S7S6S5S4
+S2 S3
+S14S13S12
+TRAHC DAATAGIIN / NSJR
+ATIS
+Designation Frequency (MHz)Call Sign
+128.45Niigata Airport
+118.0
+126.2TWR Niigata Tower
+CHANGE: AIS abolished.
+(EFF:1 OCT 2025) 7/8/25
+RJSN AD2.24-ADC-2
+NIIGATA
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+AERODROME OBSTACLE CHART-ICAO
+TYPE A (OPERATING LIMITATIONS)
+0→
+MAGNETIC VARIATION 9°W - AUG 2025
+←0
+ 㔞ἲ僑ᇶ僋債ᅜᅵᆅ⌮㝔㛗ᢎㄆ䢪౑⏝䢫䢢䣔䢢䢸䣌䣊䣵䢢䢴䢻䢻䢢傍ᅜᅵᩘ್᝟ሗ傍凚⥭ᛴ㍺㏦㐨㊰凛
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+!(1 IDENTIFICATION NUMBER
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+NIIGATA  AIRPORT
+RWY : 10/28
+DECLARED DISTANCES
+RWY 10 RWY 28
+2500m TAKE OFF RUN AVAILABLE 2500m
+2500m TAKE OFF DISTANCE AVAILABLE 2500m
+2500m ACCELERATE STOP DISTANCE AVAILABLE 2500m
+2500m LANDING DISTANCE AVAILABLE 2500m
+ASPHALT CONCRETE
+ARP
+2500m×45m
+101°→10 ←281°
+28
+KAJI RIVER
+10.127.1
+B
+H H H
+H
+H
+H
+H k H H
+HH
+k
+!(1 !(2 !(5
+!(10
+!(13
+!(11
+!(6 !(7 !(8 !(9
+!(4!(3
+!(12
+38 15 24
+128
+179
+135
+72 101 112
+114
+2116
+151
+VERTICAL
+SCALE
+FT
+M
+25
+50
+50
+75
+100
+100
+150
+200
+300
+250
+VERTICAL
+SCALE
+FT
+M
+25
+50
+50
+75
+100
+100
+150
+200
+300
+250
+METRES
+FEET
+HORIZONTAL SCALE
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+500 0 500 1000 1500 2000 2500 3000 m
+20000190001800017000160001500014000130001200011000100009000820282029000100001100012000
+27.1
+300
+200
+100
+10.1
+300
+200
+100
+7.9 4.0
+SLOPE 1.2%
+SLOPE 1.2%
+!(13!(12!(11!(10
+!(9
+!(8!(7!(6
+!(1
+!(2 !(3 !(4
+!(5
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+p
+(EFF:7 AUG 2025) 7/8/25
+RJSN AD2.24-AOC-1NIIGATA
+CHANGE:Update
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+HHHH
+H
+H
+H
+H
+H
+H
+H
+HH
+H
+k k
+HH
+H
+H
+H
+k
+H
+kk k
+k k
+k
+kkk
+H
+H
+H
+H
+H
+H
+H
+H H
+H
+H
+H
+H k H H
+HH
+k
+Ñ(
+SHINANO RIVER
+NEW
+ KU
+RI
+OKI
+ RIVER
+HAKUSHIN LINE
+NATIONAL ROUTE 7
+(NIIGATA BYPASS)
+TAIHEI BRIDGE
+AGANOGAWA OHASHI 
+BRIDGE
+TSUSEN RIVER
+NIIGATA CITY
+AGANO RIV
+ER
+NATIONAL ROUTE 7
+NEW SHIBATA RIVER
+NATIONAL
+ ROUTE 113
+MATSUHAMA BRIDGE
+KAJI RIVER
+NATIONAL ROUTE 113
+APPROACH SURFACE
+SL
+OP
+E 1:30
+TRA
+NSI
+TIONA
+L S
+URF
+ACE
+SL
+OPE 
+1:7
+TRANSITIONAL SURFACE
+SLOPE 1:7 APPROACH SURFACE
+SLOPE 1:50
+TAKE-OFF FLIGHT PATH
+SLOPE 1.2%
+TAKE-OFF FLIGHT PATH
+SLOPE 1.2%
+APPROACH SURFACE
+SLOPE 1:50
+TRANSITIONAL SURFACE
+SLOPE 1:7
+TRA
+NS
+ITIONA
+L SURF
+ACE
+SLOPE 1:7
+APPRO
+ACH 
+SUR
+FA
+CE
+SLOPE 1:30
+HORIZONTAL SURFACE
+ASPHALT CONCRE TE
+ARP
+2500m×45 m
+ASPH
+AL
+T CONCRET
+E
+1314m×45m
+101°→10
+←281°
+28
+←
+221°
+22
+041°→
+04
+SHI
+NET
+SU 
+MAI
+N 
+LINE
+JOUETSU SHINKANSEN
+10.1
+27.1
+5.9
+22.7
+38
+15 24
+128
+179
+135
+72 101 112 114
+21
+16
+151
+5145
+53
+54
+32
+43
+203
+297
+268
+445
+400
+3536
+55
+134 139
+30
+47
+187
+167
+175
+78
+200
+28 32 29
+52 36
+49
+137
+151148
+247
+246
+495
+495
+185
+171
+139°12'E
+139°12'E
+139°11'E
+139°11'E
+139°10'E
+139°10'E
+139°9'E
+139°9'E
+139°8'E
+139°8'E
+139°7'E
+139°7'E
+139°6'E
+139°6'E
+139°5'E
+139°5'E
+139°4'E
+139°4'E
+139°3'E
+139°3'E
+139°2'E
+139°2'E
+139°1'E
+139°1'E
+37°59'N
+37°58'N
+37°58'N
+37°57'N
+37°57'N
+37°56'N
+37°56'N
+37°55'N
+37°55'N
+37°54'N
+37°54'N
+AERODROME OBSTACLE CHART-ICAO
+TYPE B
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+ 㔞ἲ僑ᇶ僋債ᅜᅵᆅ⌮㝔㛗ᢎㄆ䢪౑⏝䢫䢢䣔䢢䢸䣌䣊䣵䢢䢴䢻䢻䢢傍ᅜᅵᩘ್᝟ሗ傍凚⥭ᛴ㍺㏦㐨㊰傎㕲㐨凛
+AERODROME ELEVATION 4.6ft ARP
+0
+330
+300
+270
+240
+210
+180
+150
+120
+90
+60
+30
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330 VAR 9°W
+ AUG 2025
+ANNUAL
+ CHANGE 2′W
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+A
+AERODROME REFERENCE POINT
+37 ° 57 ‘ 21 “ N 139 ° 06 ‘ 42 “ E
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE RAILROAD
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft) 500 0 500 1000 1500 2000 2500 3000 m
+HORIZONTAL SCALE
+FEET
+METRES
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+p
+(EFF:7 AUG 2025) 7/8/25
+RJSN AD2.24-AOC-2NIIGATA
+CHANGE:Update
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJSN / NIIGATA SID
+OKESA  SEVEN  DEPARTURE
+    RWY 04   :    Turn left HDG 245˚...
+    RWY 22        :    Climb RWY HDG to 800FT, turn left...
+    RWY 28        :    Climb RWY HDG to 500FT, turn right...      
+                               ...to intercept and proceed via GTC R290 to OKESA.
+NAEBA TRANSITION
+        From over OKESA, turn left to intercept and proceed via GTC 32.0DME 
+counterclockwise ARC, turn right to intercept and proceed via GTC R223 to NAEBA.
+HAKBA TRANSITION
+        From over OKESA, turn left to intercept and proceed via GTC 32.0DME 
+counterclockwise ARC, turn right to intercept and proceed via GTC R244 to HAKBA.
+NIIGATA
+CH-102X
+115.5 GTC
+0FT
+37Û57´30ÝN/139Û06´54ÝE
+VORTAC
+290°
+GTC R256D32.0 GTC ARC
+GTC R238
+OKESA
+NAEBA
+HAKBA
+to KOMATSU
+     VORTAC ( KMC )
+to NAGO
+YA
+     VORT
+AC ( KCC )
+223˚
+244˚
+Uo OKESA
+290˚ 245˚
+245˚
+800
+78 04
+22
+RWY22 : See TAKE OFF MINIMA
+RWY
+    RWY 10        :    Climb RWY HDG to 500FT, turn left HDG 245°...
+D25.0 GTC
+500500
+CHANGE : PROC renamed(OKESA SEVEN DEPARTURE). PROC course. 
+OKESA SEVEN DEPARTURE
+R244
+R223
+NAEBA TRANSITION
+D50.5 GTC
+D72.0 GTC
+HAKBA TRANSITION
+(EFF:13 JUL 2023) 15/6/23
+RJSN AD2.24-SID-1
+NIIGATA
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSN AD2.24-SID-2
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJSN / NIIGATA SID
+700
+800
+3000
+NIIGATA
+CH-102X
+115.5 GTC
+0FT
+37Û57´30ÝN/139Û06´54ÝE
+VORTAC
+NIIGATA REVERSAL  SEVEN  DEPARTURE
+    RWY 04           :    Turn left...
+    RWY 22           :    Climb RWY HDG to 800FT, turn left...      
+    RWY 28           :    Climb RWY HDG to 700FT, turn right...      
+                          ...direct to GTC VORTAC.                                            
+                              Cross GTC VORTAC at or above 3000FT.
+04
+22
+RWY22 : See TAKE OFF MINIMA
+RWY78
+    RWY 10           :    Climb RWY HDG to 500FT, turn left...      
+500
+CHANGE : PROC renamed. ALT restriction.
+NIIGATA
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RNP1
+V$5Û:
+SASAGA THREE DEPARTURE 
+Note GNSS required. 
+R:<:&OLPERQ+'*ÛDWRUDEovH)TGLUHFWWR61WR2332+WR%ACC2, to KENSI. 
+R:<:&OLPERQ+'*ÛDWRUDEovH)T, turn rLJKWGLUHFWWR1233(WR TIGRA, to KENSI. 
+Note R:<:FOLPEgrDGLHQWUHTXLUHGXSWR)T. 
+KENSI
+%A&&2
+TIGRA
+Û Û
+
+2332+
+1233(
+
+Û
+61
+
+Û
+
+Û
+11.7
+Û
+
+Û
+DIS VANRATAGIIN / NSJR&+$1*('HVFULSWLRQRIODWLWXGHDQGORQJLWXGH
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-SID-3
+NIIGATA
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSN AD2.24-SID-4
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY10
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 101
+(092.7) -8.6 - - +500 - - RNP1
+002 DF SN000 - - -8.6 - - - - - RNP1
+003 TF OPPOH -
+028
+(019.7) -8.6 11.7 - - - - RNP1
+004 TF BACCO - 028
+(019.1) -8.6 15.0 - - - - RNP1
+005 TF KENSI - 032
+(023.0) -8.6 21.3 - - - - RNP1
+RWY28
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 281
+(272.7) -8.6 - - +500 - - RNP1
+002 DF NOPPE - - -8.6 - R - - - RNP1
+003 TF TIGRA - 028
+(018.9) -8.6 15.0 - - - - RNP1
+004 TF KENSI - 056
+(047.3) -8.6 24.1 - - - - RNP1
+RJSN / NIIGATA RNAV SID
+SASAGA THREE DEPARTURE
+ CHANGE : Waypoint Coordinates added.
+Waypoint Identifier Coordinates Waypoint Identifier
+Waypoint Coordinates
+Coordinates
+SN000 375707.7N / 1391314.7E
+380808.4N / 1391816.3E
+382219.9N / 1392431.5E
+381125.5N / 1390617.6E
+382536.8N / 1391230.4E
+384155.7N / 1393512.1E
+NOPPE
+OPPOH
+BACCO
+TIGRA
+KENSI
+NIIGATA
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+V$5Û:
+02.%$7:2'(PAR785(
+KARI:A 75$16,7,217(5$'75$16,7,21 9,.(7 TRANSITION 
+02.%$7:2'(PAR785(
+02.%$7:2'(PAR785(
+R:<:&OLPERQ+'*ÛDWRUDEovH)TGLUHFWWR61WR61WR61WR02.%$.  
+R:<:&OLPERQ+'*ÛDWRUDEovH)TGLUHFWWR61WR02.%$. 
+NRWH R:<:FOLPEgUDGLHQWUHTXLUHGXSWR)T. 
+9,.(7 TRANSITION
+KARI:A 75$16,7,21IRU<RQO\
+KARI:A TRANSITION
+)URP02.%$WR1$(%$DWRUDEovH)7. 
+7(5$' TRANSITION
+7(5$' TRANSITION
+)URP02.%$WR 7(5$'. 
+
+Û
+6.5
+Û
+
+Û
+
+Û
+5.9
+Û
+Û
+
+Û
+Û
+Û Û
+ 
+
+61
+6161
+61
+7(5$'
+1$(%$
+MOKBA
+9,.(7TAMBO )/
+9,.(7 TRANSITION
+)URP02.%$WR 7$0%2DWRUDERYH)7WR9,.(7DWRUDERYH)/
+&+$1*($/7UHVWULFWLRQDW1$(%$.$5,:$75$16,7,21
+513
+NRWe *166UHTXLUHG. 
+
+5-611,,*$7$ 51$96,'DQG75$16,7,21
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-SID-5
+NIIGATA
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSN AD2.24-SID-6
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY10
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 101
+(092.7) -8.6 - - +500 - - RNP1
+002 DF SN000 - - -8.6 - - - - - RNP1
+003 TF SN001 -
+011
+(002.7) -8.6 5.0 - - - - RNP1
+004 TF SN002 - 281
+(272.8) -8.6 5.9 - - - - RNP1
+005 TF MOKBA - 233
+(224.9) -8.6 14.9 - - - - RNP1
+RWY28
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 281
+(272.7) -8.6 - - +500 - - RNP1
+002 DF SN800 - - -8.6 - - - - - RNP1
+003 TF MOKBA - 214
+(205.6) -8.6 6.5 - - - - RNP1
+RJSN / NIIGATA RNAV SID and TRANSITION
+MOKBA TWO DEPARTURE
+Waypoint Coordinates
+Waypoint Identifier
+SN000 375707.7N / 1391314.7E
+380207.7N / 1391332.9E
+380224.7N / 1390602.0E
+375745.2N / 1385620.0E
+375152.0N / 1385245.3E
+SN001
+SN002
+SN800
+MOKBA
+Coordinates
+ CHANGE : Waypoint Coordinates added.
+NIIGATA
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NIIGATA
+STANDARD DEPARTURE CHART-INSTRUMENT
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MOKBA - - -8.6 - - - - - RNP1
+002 TF NAEBA - 213
+(204.2) -8.6 40.1 - +12000 - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MOKBA - - -8.6 - - - - - RNP1
+002 TF TERAD - 239
+(230.5) -8.6 24.6 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MOKBA - - -8.6 - - - - - RNP1
+002 TF TAMBO - 124
+(115.8) -8.6 10.0 - +9000 - - RNP1
+003 TF VIKET - 111
+(102.7) -8.6 24.4 - +FL140 - - RNP1
+RJSN / NIIGATA RNAV SID and TRANSITION
+ CHANGE : ALT restriction at NAEBA. Waypoint Coordinates added.
+KARIWA TRANSITION
+TERAD TRANSITION
+VIKET TRANSITION
+Waypoint Coordinates
+Waypoint Identifier
+MOKBA 375152.0N / 1385245.3E
+371514.9N / 1383208.6E
+373613.2N / 1382849.2E
+374730.9N / 1390407.4E
+374205.1N / 1393414.6E
+NAEBA
+TERAD
+TAMBO
+VIKET
+Coordinates
+RJSN AD2.24-SID-7
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJSN / NIIGATA RNAV SID
+Note RWY10 : 5.0% climb gradient required up to 500FT. 
+RWY10 : Climb on HDG101° at or above 500FT, direct to SN000, to SN001,
+RWY28 : Climb on HDG281° at or above 500FT, turn right direct to SUKOB at or above FL150.
+to SUKOB at or above FL150.
+1 VANRERUTRAPED ENO BOKUS
+The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+2 ) RADAR service required.
+DME GAP
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1.
+Critical DME
+RWY10 : GTC : 10.0NM to SUKOB - SUKOB
+RWY28 :ɹ
+ɹ
+VAR 9°W
+FL150
+NTE : 10.0NM to SUKOB - SUKOB
+GTC : 15.0NM to SUKOB - SUKOB
+NTE : 15.0NM to SUKOB - SUKOB
+RWY10 : DER - 10.0NM to SUKOB
+RWY28 : DER - 15.0NM to SUKOB
+SUKOB
+SN001
+SN000
+011°/5.0
+500
+281° 101°
+500
+NIIGATA
+CH-102X
+115.5 GTC
+0FT
+37 57´30 N/139 06´54 E
+VORTAC
+51.5
+CHANGE : Description of latitude and longitude.
+NOTE 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-SID-8
+NIIGATA
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJSN AD2.24-SID-9
+STANDARD DEPARTURE CHART-INSTRUMENT
+DIS VANRNIIGATA / RJSN
+RWY10
+SUKOB ONE DEPARTURE
+RWY28
+VA
+DF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
++500
+5.0
+51.5
+SN000
+SN001
+SUKOB
+(092.7)
+(002.7)
+(302.2)
+101
+011
+311
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+0DJQHWLF
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+10
+-8.6
+-8.6
+-8.6
+-8.6
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
++500
++FL150SUKOB
+(272.7)
+281
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+0DJQHWLF
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+10
+-8.6
+-8.6
+CHANGE : Waypoint Coordinates added.
++FL150
+R
+Waypoint Coordinates
+Waypoint Identifier
+SN000 375707.7N / 1391314.7E
+380207.7N / 1391332.9E
+382919.9N / 1381752.8E
+SN001
+SUKOB
+Coordinates
+NIIGATA
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+INAHO EAST ARRIVAL 
+GOSEN EAST ARRIVAL 
+MAGNA EAST ARRIVAL 
+TERAD EAST ARRIVAL
+RNAV STAR RWY28RJSN / NIIGATA
+Note 1 ) GNSS required.
+2 ) RADAR service required.
+VAR 9°W 
+INAHO
+5000
+INAHO EAST ARRIVAL
+SHIUN
+4000
+TERAD EAST ARRIVAL
+MAGNA
+12000
+TERAD
+10000
+KYOGA
+6000
+GOSEN
+9000
+GOSEN EAST ARRIVAL
+MAGNA EAST ARRIVAL
+40.8
+082
+8.7151
+39.0
+061 19.2010
+NIIGATA
+CH-102X
+115.5 GTC
+0FT
+37 57 30 N 139 06 54 E
+VORTAC
+CHANGE : Description of latitude and longitude.
+RNAV1
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-STAR-1
+NIIGATA
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSN AD2.24-STAR-2
+STANDARD ARRIVAL CHART-INSTRUMENT
+82YWR RATS VANRATAGIIN / NSJR
+INAHO EAST ARRIVAL
+GOSEN EAST ARRIVAL
+MAGNA EAST ARRIVAL
+From INAHO at or above 5000FT, to SHIUN at or above 4000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME –
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+INAHO - SHIUN
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+GOSEN - KYOGA
+–IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++5000
++4000
+–
+8.7
+INAHO
+SHIUN (141.9)
+151
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+From GOSEN at or above 9000FT, to KYOGA at or above 6000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME –
+–IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++9000
++6000
+–
+19.2
+GOSEN
+KYOGA (000.9)
+010
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+10.0NM to KYOGA - KYOGA
+From MAGNA at or above 12000FT, to KYOGA at or above 6000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME
+–IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++12000
++6000
+–
+39.0
+MAGNA
+KYOGA (052.0)
+061
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+GTC:MAGNA - 10.0NM to KYOGA
+NTE:MAGNA - 10.0NM to KYOGA
+CHANGE : Update.
+NIIGATA
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NIIGATA
+STANDARD ARRIVAL CHART-INSTRUMENT
+82YWR RATS VANRATAGIIN / NSJR
+TERAD EAST ARRIVAL
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+TERAD - KYOGA
+From TERAD at or above 10000FT, to KYOGA at or above 6000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME –
+–IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++10000
++6000
+–
+40.8
+TERAD
+KYOGA (073.1)
+082
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+CHANGE : Waypoint Coordinates added.
+Waypoint Identifier Coordinates Waypoint Identifier
+Waypoint Coordinates
+Coordinates
+INAHO 380947.1N / 1391217.1E
+380255.0N / 1391907.0E
+372844.0N / 1391747.3E
+372400.1N / 1383916.8E
+373613.2N / 1382849.2E
+374755.0N / 1391811.2E
+MAGNA
+SHIUN
+GOSEN
+TERAD
+KYOGA
+RJSN AD2.24-STAR-3
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSN AD2.24-STAR-4
+STANDARD ARRIVAL CHART-INSTRUMENT
+01YWR RATS VANRATAGIIN / NSJR
+INAHO WEST ARRIVAL 
+GOSEN WEST ARRIVAL 
+MAGNA WEST ARRIVAL 
+TERAD WEST ARRIVAL
+RNAV1
+Note 1 ) GNSS required.
+2 ) RADAR service required.
+VAR W 
+INAHO
+5000
+INAHO WEST ARRIVAL
+TERAD WEST ARRIVAL
+MAGNA
+12000
+TERAD
+10000
+GOSEN
+9000
+RYUTO
+4000
+TOKKY
+3000
+SWALO
+6000
+GOSEN WEST ARRIVAL
+MAGNA WEST ARRIVAL
+23.0
+051
+30.1022
+14.6
+32
+15.9
+16.0
+25
+32
+MOKBA
+4000
+NIIGATA
+CH-102X
+115.5 GTC
+0FT
+VORTAC
+CHANGE : Description of latitude and longitude. 
+ƍƎ1ƍƎ(
+NIIGATA
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NIIGATA
+STANDARD ARRIVAL CHART-INSTRUMENT
+01YWR RATS VANRATAGIIN / NSJR
+INAHO WEST ARRIVAL
+GOSEN WEST ARRIVAL
+MAGNA WEST ARRIVAL
+From INAHO at or above 5000FT, to TOKKY at or above 3000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME –
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+INAHO - TOKKY
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+GOSEN - MOKBA
+–IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++5000
++3000
+–
+16.0
+INAHO
+TOKKY (248.3)
+257
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+From GOSEN at or above 9000FT, to SWALO at or above 6000FT, to MOKBA at or above 
+4000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME –
+–IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++9000
++6000
++4000
+–
+14.6
+15.9
+GOSEN
+SWALO
+MOKBA
+(319.5)
+(319.4)
+328
+328
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+-8.6
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+From MAGNA at or above 12000FT, to RYUTO at or above 4000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME
+–IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++12000
++4000
+–
+30.1
+MAGNA
+RYUTO (013.6)
+022
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+GTC:MAGNA - 15.0NM to RYUTO
+NTE:MAGNA - 15.0NM to RYUTO
+15.0NM to RYUTO - RYUTO
+CHANGE : Updade.
+RJSN AD2.24-STAR-5
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSN AD2.24-STAR-6
+STANDARD ARRIVAL CHART-INSTRUMENT
+01YWR RATS VANRATAGIIN / NSJR
+TERAD WEST ARRIVAL
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+TERAD - RYUTO
+From TERAD at or above 10000FT, to RYUTO at or above 4000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME –
+–IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++10000
++4000
+–
+23.0
+TERAD
+RYUTO (041.9)
+051
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.6
+-8.6
+CHANGE : Waypoint Coordinates added.
+Waypoint Identifier Coordinates Waypoint Identifier
+Waypoint Coordinates
+Coordinates
+INAHO 380947.1N / 1391217.1E
+380352.0N / 1385327.4E
+372844.0N / 1391747.3E
+375152.0N / 1385245.3E
+372400.1N / 1383916.8E
+373613.2N / 1382849.2E
+MOKBA
+TOKKY
+GOSEN
+MAGNA
+TERAD
+373949.5N / 1390549.9E 375315.5N / 1384814.5ESWALO RYUTO
+NIIGATA
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+1872
+1864
+4279
+2796
+ 15.0
+䢢䢢䢢
+208°
+INAHO
+3000
+BUDOH
+8000
+䢳䢵䢻䤑䢴䢲䢩䣇䢳䢵䢻䤑䢲䢩䣇
+䢵䢺䤑䢴䢲䢩䣐
+䢵䢺䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.5
+4000
+3000
+2000
+1000
+VAR 9°W
+RNAV STAR RWY10RJSN / NIIGATACHANGE : Waypoint Coordinates added.
+KAETSU ARRIVAL
+  
+RNP1
+   Note  GNSS required.  
+   From BUDOH at or above 8000FT, to INAHO at or above 3000FT.
+202468 1 0
+KM
+1012345
+NM
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Ov er
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Nav igation
+Specif ication
+001 IF BUDOH - - -8.6 - - +8000 - - RNP1
+002 TF INAHO - 208
+(199.1)
+-8.6 15.0 - +3000 - - RNP1
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+BUDOH 382358.5N / 1391831.1E INAHO 380947.1N / 1391217.1E
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-STAR-7
+NIIGATA
+
+
+=== Page 41 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Û
+Û
+Û
+Û
+EQPT REQUIRED
+DME
+VOR
+RJSN / NIIGATA
+NIIGATA  APP
+121.4
+ILS – LOC
+109.3    INC
+ILS–GP     332.0
+ILS–DME    CH–30X
+NIIGATA  TOWER
+118.0 – 126.2 
+RADAR  AVBL
+ATIS    128.45
+2912
+2991
+445
+494
+NOTE : 
+DME GAP : KYOGA - SIBAT
+SHIUN - SIBAT
+For Initial approach segment
+ (1) RNAV1
+ (2) DME/DME/IRU or GNSS required.
+ (3) Radar service required.
+MAX 210KIAS
+SHIUN(IAF)
+4000
+MAPt(LOC)
+D0.7 INC RAISU (FAF)
+D5.2 INC
+D9.2 INC
+179
+3194
+NIIGATA
+CH-102X
+115.5 GTC
+ÛÝ1ÛÝ E
+VORTAC
+NIIGATA
+     CITY
+Û
+Û
+ÛÛ7
+6.0
+Û
+Û7
+5.1
+Û
+Û7
+3.9
+Û
+1197
+1186
+1171
+1778
+2191
+2483
+2325
+1440
+1856
+908
+RAISU(FAF) : 1(
+2865
+3130
+Climb to 2000FT via GTC R288, 
+turn right, direct to GTC VORTAC 
+and hold at 3000FT.
+Contact NIIGATA APP .
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+ILS Z or LOC Z RWY28
+GTC
+*3Û
+Û
+2000
+MAPt
+(LOC)
+RDH 54
+DME to INC
+NM to THR
+0.7
+0.5
+1.5
+1.3
+5.2
+5.1
+9.2
+9.0
+0.2
+0
+MDA
+900
+(895)
+
+(LOC)VDP
+(LOC)
+RAISU
+(FAF) SIBAT
+(IF)
+NM to INC
+$/7Û$3&+3DWK
+FAF
+1672
+3
+953
+2
+634
+4
+1272
+5
+1590
+MAPt
+–
+SIBAT(IF)
+2000
+HYOKO
+4500
+KYOGA(IAF)
+6000
+10NM
+MINIMA 
+CAT
+CAT 䱶
+DA(H)
+210 (200) 470 (465)
+790 (785)
+710 (705)
+700
+1400
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 10
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+AD elev. 5
+A
+B
+C
+D
+V$5Û:
+ÛÛ
+Û
+Û
+GTC
+6500
+MSA 25NM
+3200
+81005400
+Û
+SDF
+(LOC)
+
+490
+(485)
+3.0
+2.8
+MHA6000 / MAX 210KIAS
+KYOGA
+NOT TO SCALE
+Û
+Û
+1MIN
+Û
+Û
+SHIUN
+1MIN
+NOT TO SCALE
+MHA4000 / MAX 230KIAS
+RNAV HLDG
+GTC
+VORTAC
+Using NAVAID
+Û
+Û
+MHA3000 / MAX 230KIAS
+NOT TO SCALE
+CHANGE : Description of latitude and longitude.
+SHIUN
+(IAF)
+KYOGA
+(IAF)
+HYOKO
+SIBAT
+(IF)
+1
+(
+374755.0N
+1391811.2E
+375149.0N
+1391825.7E
+375655.0N
+1391844.6E
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-IAC-1
+NIIGATA
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+360
+°
+090°
+180° EQPT REQUIRED
+DME
+VOR
+RJSN / NIIGATA
+NIIGATA  APP
+121.4
+ILS – LOC
+109.3    INC
+ILS–GP     332.0
+ILS–DME    CH–30X
+NIIGATA  TOWER
+118.0 – 126.2 
+RADAR  AVBL
+ATIS    128.45
+2912
+2991
+445
+494
+Turn initiation within D9.0 GTC
+MAX Turning speed 200KIAS
+MHA 3000
+MAX 230KIAS
+MAPt(LOC)
+D0.7 INC
+RAISU(FAF)
+D5.2 INC
+179
+3194
+NIIGATA
+CH-102X
+115.5 GTC
+ÛÝ1ÛÝ E
+VORTAC
+NIIGATA
+     CITY
+288˚ 082˚
+281˚ 281˚
+1197
+1186
+1171
+1778
+2191
+2483
+2325
+19981171
+1440
+1856
+908
+1834
+RAISU(FAF) : 1(
+2865 3130
+Climb to 2000FT via GTC R288, 
+turn right, direct to GTC
+VORTAC and hold at 3000FT.
+Contact NIIGATA APP .
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+ILS Y or LOC Y RWY28
+10NM
+101˚
+281˚
+GTC
+281˚
+GP3.0˚ 281˚
+082˚
+2200
+3000
+MAPt
+(LOC)
+RDH 54
+DME to INC
+NM to THR
+0.7
+0.5
+1.5
+1.3
+5.2
+5.1
+0.2
+0
+MDA
+1200
+(1195)
+
+(LOC)
+VDP
+(LOC)
+RAISU
+(FAF)
+NM to INC
+ALT (3.0˚ APCH Path)
+FAF
+1672
+3
+953
+2
+634
+4
+1272
+5
+1590
+MAPt
+–
+Turn initiation within 
+D9.0 GTC
+ 
+MINIMA 
+CAT
+CAT 䱶 
+DA(H)
+210 (200) 470 (465)
+790 (785)
+710 (705)
+700
+1400
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 10
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+AD elev. 5
+A
+B
+C
+D
+VAR 9˚W 
+270˚090˚
+180˚
+360˚
+GTC
+6500
+MSA 25NM
+3200
+81005400
+SDF
+(LOC)
+
+490
+(485)
+3.0
+2.8
+CHANGE : MSA(BTN 270°and 360°). PROC course. Missed APCH course. HLDG course. 
+(EFF:13 JUL 2023) 15/6/23
+RJSN AD2.24-IAC-2
+NIIGATA
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+360°
+090°
+180°
+2912
+2991
+445
+10NM
+3194
+ NIIGATA
+ CITY
+MHA 3000
+MAX 230KIAS
+MAPt
+BAJYO(FAF)
+D3.7 GTC
+1197
+1186
+1171
+1778
+2191
+2483
+2325
+1998
+1171
+1440
+1856
+1834
+2865
+3130
+VOR  RWY28
+NIIGATA   APP
+121.4
+NIIGATA  TOWER
+118.0 – 126.2 
+RADAR  AVAILABLE
+ATIS    128.45
+NIIGATA  VORTAC
+115.5     GTC
+CH–102X
+101˚
+281˚
+087˚
+288˚288˚
+288˚
+GTC
+MAPt VDP
+MDA 1000
+(995)
+1112
+BAJYO
+(FAF)
+288˚
+3.0˚ 288˚
+087˚
+DME to GTC
+NM to THR
+0.4
+0
+1.7
+1.3
+3.7
+3.3
+2200
+3000
+179 908
+ÛÝ1ÛÝ E
+494
+RJSN / NIIGATA
+Turn initiation within 
+D9.0 GTC
+MAX Turning speed 200KIAS
+Turn initiation within 
+D9.0 GTC.
+Climb to 2000FT via GTC R288, 
+turn right, direct to GTC VORTAC 
+and hold at 3000FT.
+Contact NIIGATA APP .
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+BAJYO(FAF) : 1(
+NM to GTC
+ALT (3.0˚ APCH Path)
+FAF
+1112
+3
+882
+2
+564
+MAPt
+–
+ 
+MINIMA 
+CAT
+450 (445)
+710 (705)
+790 (785)
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 10 AD elev. 5
+A
+B
+C
+D
+EQPT REQUIRED
+DME
+270˚090˚
+180˚
+360˚
+GTC
+6500
+MSA 25NM
+3200
+81005400
+VAR 9˚W 
+CHANGE : MSA(BTN 270°and 360°). PROC course. Missed APCH course. HLDG course.
+(EFF:13 JUL 2023) 15/6/23
+RJSN AD2.24-IAC-3
+NIIGATA
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+360°
+090°
+180°
+RDH 50
+Û
+KODOH
+(IF)
+TOKKY
+(IAF)
+INAHO
+(MAHF)
+3000
+MOKBA
+(IAF)
+4000
+RYUTO
+(IAF)
+4000
+MOKBA
+IF
+5800
+25NM to MOKBA
+Û
+䲑
+䲏Û
+TOKKY
+IF
+5100
+25NM to
+TOKKY
+䲏Û
+䲏
+19
+Û
+RYUTO
+IF
+3200
+5000
+25NM to IF
+10NM to IF
+Û
+䲑
+䲏
+Û
+RW10
+(MAPt)
+KODOH
+(IF)
+FOIRU
+(FAF)
+700
+(695)
+1700
+MDA
+VDP
+(LNAV)
+RJSN / NIIGATA
+NIIGATA  APP
+121.4
+NIIGATA  TOWER
+118.0 – 126.2 
+RADAR  AVBL
+ATIS    128.45
+2912
+2991
+445
+495
+179
+3194
+NIIGATA
+     CITY
+1197
+1186
+1171
+1778
+2191
+24832325
+19981171
+1440
+1850
+908
+1834
+2865
+3130
+Turn left, direct to INAHO
+and hold at 3000FT.
+Contact NIIGATA APP .
+MISSED APPROACH
+RNP Z  RWY10
+10NM
+Û
+MAPt
+–
+4
+1350
+5
+1669
+3
+1032
+2
+713
+FAF
+1700
+NM To Next Fix
+AL7Û$3&+Path)
+FOIRU
+(FAF) RW10
+(MAPt)
+NM to THR05.1 1.69.9
+Û
+Û7
+Û7
+6.0
+Û6.0
+Û
+6.0
+Û7
+Û
+Û7
+Û
+Û7
+5.14.9
+Û
+1700
+V$5Û:
+ 
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+580 (553) 580 (575)
+710 (705)
+790 (785)
+1400
+1500
+1600
+1600
+2400
+32001800
+1400
+1500
+1600
+1800
+MDA(H)CMV CMV MDA(H) VIS
+LNAV CIRCLING
+THR elev. 27 AD elev. 5
+A
+B
+C
+D
+RW10
+(MAPt)
+375724.71N
+1390541.79E
+INAHO
+(MAHF)
+380947.11N
+1391217.05E
+FOIRU
+(FAF)
+375738.81N
+1385915.41E
+KODOH
+(IF)
+375752.01N
+1385306.34E
+MOKBA
+(IAF)
+375151.99N
+1385245.32E
+RYUTO
+(IAF)
+375315.49N
+1384814.53E
+TOKKY
+(IAF)
+380352.03N
+1385327.41E
+%DUR91$9QRWDXWKRUL]HGEHORZÛ&
+1500
+CHANGE : PROC renamed.
+RNP APCH
+Û
+Û
+MHA 3000
+MAX 230KIAS
+1MIN
+INAHO
+NOT TO SCALE
+(EFF:10 AUG 2023) 13/7/23
+RJSN AD2.24-IAC-4
+NIIGATA
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+153
+10NM
+4.3
+7.4
+230°
+101°
+3.4
+230°
+230°/1.3
+101°/1.4
+SN051
+RW10
+INAHO
+(IAF/MAHF)
+ATNAP
+(FAF)
+EGAMO
+(IF)
+SN050
+䢳䢵䢻䤑䢴䢲䢩䣇䢳䢵䢻䤑䢳䢲䢩䣇䢳䢵䢻䤑䢲䢩䣇
+䢵䢺䤑䢳䢲䢩䣐
+䢵䢺䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.5
+2000
+1500
+1000
+500
+NIIGATA APP
+121.4
+RNP AR
+RF required.
+NIIGATA TOWER
+118.0 – 126.2
+RADAR AVBL
+ATIS 128.45
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 9°W
+RNP Y RWY10(AR)RJSN / NIIGATACHANGE : New PROC.
+ATNAP(FAF) :380137.87N/1390318.07E
+MSA  RW10  25NM
+8100
+3200 6500
+l
+180
+°
+270°
+360
+°
+1012345
+NM
+10123456789 1 0
+KM
+5400
+090°
+500
+DA(H) CMV
+A
+B
+C 305(278) 1200
+D 315(288) 1400
+-
+ MINIMA             THR elev. 27           AD elev. 5
+CAT RNP 0.30
+- Authorization Required
+Þ
+1.4
+RDH 50
+NM to THR
+SN051
+INAHO
+(IAF)
+3000
+MISSED APPROACH
+From RW10 on track 101,
+at or above 500FT turn left,
+direct to INAHO and hold
+at 3000FT . 
+Con t act  NIIG ATA APP.
+17.8
+RW10
+5.7
+SN050
+7.0 0
+ATNAP
+(FAF)
+10.4
+EGAMO
+(IF)
+2300
+2300
+1886
+520
+NOT TO SCALE
+MHA 3000
+MAX 230KIAS
+1MIN
+INAHO
+(EFF:10 AUG 2023) 13/7/23
+RJSN AD2.24-IAC-5
+NIIGATA
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJSN AD2.24-IAC-6
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.6 - - - -
+002 TF - -8.6 - - - 1.0
+003 TF - -8.6 - - - 1.0
+004 TF - -8.6 - - -3.00 0.3
+005
+RF
+Center:
+SNRF1
+r=1.91NM
+- -8.6 L - -3.00 0.3
+006 TF Y -8.6 - - -3.00/50 0.3
+007 FA - -8.6 - - - 1.0
+008 DF - -8.6 L - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold INAHO R FL140 -230
+(-14000) 1.0
+CHANGE : New PROC.
+375724.71N / 1390541.79E
+208
+(199.1) -8.6 1.0 (-14000)
+ATNAP 380137.87N / 1390318.07E
+380038.89N / 1390213.27E
+Waypoint Identifier Coordinates
+SNRF1INAHO
+RJSN / NIIGATA RNP Y RWY10(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+520
+77
++500
+INAHO - - +3000
+4.3
+1.4
+-
+SN051
+RW10
+-
+-
+101
+(092.7)
+101
+(092.7)
+EGAMO 230
+(221.0) 7.4 +2300
+SN050 230
+(220.9) 1.3 1886
+ATNAP 230
+(220.9) 3.4 2300
+3000INAHO --
+Coordinates
+3000
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+Waypoint Coordinates
+RF Arc Center Identifier
+SN050
+SN051
+RW10
+EGAMO
+375923.46N / 1390402.94E
+375728.60N / 1390356.21E
+380947.11N / 1391217.05E
+380413.79N / 1390609.55E
+NIIGATA
+(EFF:10 AUG 2023) 13/7/23
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+360°
+090°
+180°
+ÛÝ1ÛÝ E
+494
+2912
+2991
+445
+10NM
+3194
+ NIIGATA
+ CITY
+100˚100˚
+298˚
+028˚
+1197
+1186
+1171
+1778
+2191
+24832325
+1998
+1171
+1440
+1856
+1834
+2865
+3130
+GTC
+VOR  RWY10
+4000
+
+1500
+Turn left, climb to 2000FT via 
+GTC R028, turn left, direct to 
+GTC VORTAC and hold 
+at 4000FT.
+Contact NIIGATA APP .
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+NIIGATA   APP
+121.4
+NIIGATA TOWER
+118.0 – 126.2
+RADAR  AVAILABLE
+ATIS   128.45
+NIIGATA  VORTAC
+115.5       GTC
+CH–102X
+298˚
+118˚
+179
+908
+RJSN / NIIGATA
+EQPT REQUIRED
+DME
+VAR 9˚W 
+270˚090˚
+180˚
+360˚
+GTC
+6500
+MSA 25NM
+3200
+81005400
+AIBIS(FAF) : 1(
+NM to GTC
+ALT (3.0˚ APCH Path)
+FAF
+1658
+3
+731
+4
+1050
+5
+1368
+MAPt
+–
+AIBIS
+(FAF)
+AIBIS(FAF)
+D5.9 GTC
+MAPt
+D0.9 GTC
+MAPtVDP
+MDA700
+(695)
+298˚
+100˚
+3.0˚
+Turn initiation within 
+D10.0 GTC
+MAX 230KIAS
+MHA 4000
+Turn initiation within D10.0 GTC
+MAX Turning speed 200KIAS
+100˚
+DME to GTC
+NM to THR
+0.9
+0
+2.7
+1.8
+5.9
+5.0
+ 
+MINIMA 
+CAT
+630 (625)
+710 (705)
+790 (785)
+1500
+1400
+1600
+1600
+2400
+32001800
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 27 AD elev. 5
+A
+B
+C
+D
+(EFF:10 AUG 2023) 13/7/23
+RJSN AD2.24-IAC-7
+NIIGATA
+→
+
+
+=== Page 49 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 50 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+                                                                                                             
+RJSN / NIIGATA Visual REP
+⫾ෆ ⫾ෆᕝἙཱྀ
+Tainai River-mouth
+䚷ᾏ ୖ
+Over the sea
+⥙௦ 㜵Ἴሐ✺➃䛾㉥Ⰽⅉྎ
+Ajiro Red li ghthouse at the tip of breakwater
+㻖䝣䜵䝸䞊䝫䜲䞁䝖 ୓௦ᶫ䜘䜚ಙ⃰ᕝୗὶ㻞㼗㼙䛾ᆅⅬ
+䠄㻝㻘㻡㻜㻜㻲㼀௨ୗ䛷㏻㐣䛩䜛䛣䛸䠅
+ Ferry point The point 2km down the Shinano from the Bandai
+Bridge.(Fly with ALT at or below 1500FT)
+㻖Ὀᖹ ᶫ
+ Taihei Brid ge
+㻖୓௦ ᶫ
+ Bandai Brid ge
+㛵ᒇ ศỈ㊰䜈䛾ศᒱⅬ
+Sekiya Diverging-point for Flood-control channel
+᭶ᒸ 㻶㻾㥐
+Tsukioka Station
+኱㜿㈡ ᶫ
+OoagaB r i d ge
+ட⏣ 㻶㻾㥐
+Kameda Station
+᪂ὠ 㻶㻾㥐
+Niitsu Station
+䝸䝥 䝍
+6NM N
+056°T / 6.9NM
+243°T / 2.6NM
+/
+182°T / 4.7NM
+/9 . 4 N M177°T
+141°T
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹㻔㼙㻕䛷䛒䜛䚹㻌㼀㼔㼑㻌㼡㼚㼕㼠㻌㼛㼒㻌㼙㼑㼍㼟㼡㼞㼑㼙㼑㼚㼠㻌㼡㼟㼑㼐㻌㼠㼛㻌㼑㼤㼜㼞㼑㼟㼟㻌㼑㼘㼑㼢㼍㼠㼕㼛㼚㻌㼕㼟㻌㼙㼑㼠㼑㼞㻔㼙㻕㻚
+Call sign BRG / DIST from ARP Remarks
+CHANGE : VAR.
+152°T / 5.2NM
+054°T 14.9NM/
+118°T / 8.6NM
+6.0NM360°T
+232°T / 6.0NM
+/2 . 5 N M
+232°T / 3.5NM
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅/ Web Mercator projection
+NIIGATA TOWER
+118.0 - 126.2
+VAR9㼻W(2025) / 2' W
+6NM N
+TAINAI
+FERRY POINT
+TAIHEI
+BANDAI
+SEKIYA
+TSUKIOKA
+OOAGA
+KAMEDA
+NIITSU
+5NM from ARP
+NIIGATA CONTROL ZONE
+At or below 3000FT
+AJIRO
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-OTHER-1
+NIIGATA
+
+
+=== Page 51 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+                                                                                                               
+༻ʣ
+"("/03065&5IFSPVUFBMPOH"HBOPSJWFSCFUXFFO00"("BOE5"*)&*	6TFGPS3PUPS$SBGU
+
+
+༻ʣ
+4)*/"/03065&5IFSPVUFBMPOH4IJOBOPSJWFSCFUXFFO4&,*:"#"/%"*BOE'&33:10*/5
+ 	6TFGPS3PUPS$SBGU
+
+
+ػۭߤ
+͢Δ͜ͱ͕๬·͍͠ɻ
+˞*OPSEFSUPSFEVDFBJSDSBGUOPJTFJOUIFWJDJOJUZPGBJSQPSU7'33PUPS$SBGUJTFYQFDUFEUPGPMMPXUIFBCPWF
+ɹNFOUJPOFESPVUFXIFOJOTSUVDUFECZ/JJHBUBUPXFS	FYDFQUUIFDBTFPG*.$
+5NMfromARP
+5NMfromARP
+RJSN / NIIGATA TFC  PATTERN
+Visual Reporting Point
+BANDAIBANDAI
+SEKIYASEKIYA
+KAMEDAKAMEDA
+OOAGAOOAGA
+TAIHEITAIHEI
+FERRY  POINT
+(Fly with ALT at or below 1500ft)
+FERRY  POINT
+(Fly with ALT at or below 1500ft)
+Kombinate  Area
+(SEE AIP AD 2.22
+ FLIGHT PROCEDURES)
+Helicopter training pattern
+800ft
+800ft
+800ft
+1000ft
+1000ft
+1000ft
+1500ftLEGEND
+ߓ
+AERODROME  TRAFFIC  PATTERN  AL TITUDE
+Jet  ACFT
+Propeller  Multi  Engine
+Propeller  Single  Engine
+Rotor  Craft
+1500ft
+1000ft
+800ft
+800ft
+(EFF:3 JAN 2019) 3/1/19
+RJSN AD2.24-OTHER-2
+NIIGATA
+←
+
+
+=== Page 52 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+10
+28
+22
+04
+1 2
+3
+BOAT OCCASIONALL Y CROSS in RWY 10
+FINAL APPROACH AREA
+(see RJSN AD 2.23)
+1 RWY10:
+   Angle 3.0°
+   MEHT 22.9m (75ft)
+   535m inside fm THR 
+2 RWY28:
+   Angle 3.0°
+   MEHT 19.9m (65ft)
+   455m inside fm THR 
+3 RWY22:
+   Angle 3.0°
+   MEHT 18.6m (61ft)
+   361m inside fm THR 
+TRAHC GDLATAGIIN / NSJR
+ V$5Û::
+2025
+NIIGATA
+115.5   GTC
+0FT
+CH-102X
+VORTAC
+ÛÝ1ÛÝ(
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+NIIGATA
+CITY
+NIIGATA
+CITY
+ABN
+SALS ALS
+RWY THR ID LGT
+Asph-Conc
+  8200 x 150ft
+4300x150ftAsph-Conc
+445
+ELEV 5ft
+54'
+56'
+37°58'
+139°04' 06' 08'
+500 0
+0 10001000
+SCALE
+3000 ft
+500 1000 m
+CHANGE : VAR.
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-OTHER-3
+NIIGATA
+
+
+=== Page 53 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMATAGIIN / NSJR
+9$5Û:
+CENTERɿ1N/1393(5$'$56,7(
+
+
+
+ 
+
+
+33
+
+
+
+
+
+
+
+13NM
+10
+10
+10
+10
+1
+M
+1
+M
+10
+10
+10
+11NM
+10
+10
+10
+ᶃ 17
+ᶄ 
+ᶅ 
+ᶆ 
+ᶇ 
+ᶈ 
+ɿÛ10IURP5$'$56,7(5$',86ɿ10
+ᶃ
+ᶄ
+ᶅ
+ᶆ
+ᶇ
+ᶈ
+3Û
+Û
+Û
+Û
+Û
+Û
+Û
+1Û
+1Û
+1Û
+1Û
+1Û
+1Û
+1Û
+Û
+Û
+Û
+3Û
+&+$1*(9$5
+(EFF:7 AUG 2025) 10/7/25
+RJSN AD2.24-OTHER-4
+NIIGATA
+

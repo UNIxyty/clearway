@@ -1,0 +1,1644 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIMZ 1 - 1
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+LIMZ AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIMZ AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIMZ - CUNEO/Levaldigi
+LIMZ AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIMZ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+44°32'51''N 007°37'23''E
+2 Direzione e distanza dalla città 10.4 NM NNE di Cuneo
+ Direction and distance from city 10.4 NM NNE Cuneo
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+1267 FT / 23.7° C
+4 Ondulazione del geoide
+ Geoid undulation
+162.6 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2005.0) / 6'E
+6 Autorità amministrativa aeroportuale ENAC - DT Nord-Ovest
+Aeroporto “Sandro Pertini”
+10072 – Caselle Torinese (TO)
+ Tel +39 0115678407/5678413/5676800
+ Fax +39 011 4704320
+ Pec: protocollo@pec.enac.gov.it
+ E-mail: nordovest.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Aeroporto di Cuneo Levaldigi GEAC S.p.A.
+SITA CUFKKXH 
+Tel +39 0172 741500/14 Fax +39 0172 741184
+e-mail: dutyofficer@cuneoairport.com
+Web: www.cuneoairport.com
+ Aerodrome operator  
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Cuneo
+Tel : +39 0172 7417002/7417001; fax: +39 0172 7417011/7417012
+e-mail: ci-cuneo@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note NIL
+ Remarks  
+LIMZ AD 2.3 ORARIO DEI SERVIZI
+LIMZ AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0600-2000 (0500-1900)
+ Aerodrome Administration  
+2 Dogana ed immigrazione 3 HR PN prima del volo
+ Customs and immigration 3 HR PN before the flight
+3 Servizio sanitario Presidio sanitario assicurato solo per i voli di linea e charter
+ Health and sanitation Health post assured only for scheduled and charter flights
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+
+=== Page 2 ===
+AD 2 LIMZ 1 - 2
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS 0700-1700 (0500-1900)
+   
+8 Rifornimento JET A1 0600-2000 (0500-1900);
+AVGAS 100LL di giorno.
+ Fuelling JET A1 0600-2000 (0500-1900);
+AVGAS 100LL during day.
+9 Handling Aviation Service S.p.A. 0600-2000 (0500-1900)
+SITA CUFKOXH
+Tel: +39 0172 741557
+E-mail: operativocuf@as-airport.it
+ Handling Aviation Service S.p.A. 0600-2000 (0500-1900)
+SITA CUFKOXH
+Tel: +39 0172 741557
+E-mail: operativocuf@as-airport.it
+10 Servizi di sicurezza 0600-2000 (0500-1900)
+ Security  
+11 De-icing 01 NOV - 15 APR 0600-2000 (0500-1900)
+ De-icing  
+12 Note 1. Servizio dogana: per i coordinamenti contattare il gestore aeroportuale GEAC
+S.p.A. tel: +39 0172 741514; fax: +39 0172 741184; cellulare: +39 348
+8617896; Email: dutyofficer@cuneoairport.com
+2. Servizio sanitario: sarà assicurato anche entro 30 min dopo la richiesta/
+dichiarazione di:
+• dirottamento a LIMZ, per voli di linea e charter che hanno come destinazione
+pianificata altri aeroporti;
+• incidente/emergenza, per tutti i voli.
+Per tutti gli altri voli che pianificano LIMZ come aeroporto di destinazione il
+presidio sanitario è disponibile su richiesta in coordinamento con il gestore
+aeroportuale GEAC S.p.A. tel: +390172741514, fax: +390172741184, mobile:
++393488617896, Email: dutyofficer@cuneoairport.com
+3. ARO CBO MILANO: vedi GEN 3.1
+4. I voli ambulanza devono essere coordinati con GEAC, tel: +39 0172 741514
+o via mail dutyofficer@cuneoairport.com, almeno 2 HR prima della chiusura
+dell’amministrazione aeroportuale.
+ Remarks 1. Customs service: for coordination contact the aerodrome operator GEAC S.p.A.
+Tel: +39 0172 741514; fax: +39 0172 741184; mobile: +39 348 8617896; Email:
+dutyofficer@cuneoairport.com
+2. Health and sanitation: it will be also assured within 30 min after the request/
+declaration of:
+• diversion to LIMZ, for scheduled and charter flights with other aerodrome as
+planned destination;
+• accident/emergency, for all flights.
+For all other flights planning LIMZ as destination aerodromeFor all other
+flights planning LIMZ as destination aerodrome health and sanitation
+available on request in coordination with AD operator GEAC S.p.A. tel:
++390172741514, fax: +390172741184, mobile: +393488617896, Email:
+dutyofficer@cuneoairport.com
+3. ARO CBO MILANO: see GEN 3.1
+4. Ambulance flights must be coordinated with GEAC, tel: +39 0172 741514 or via
+mail dutyofficer@cuneoairport.com, at least 2 HR before aerodrome administration
+closure.
+LIMZ AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIMZ AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci Trattore, carrelli, muletto
+ Cargo-handling facilities Tractor, trolleys, forklift
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento Distributori fissi a colonna e autobotti (solo JET A1)
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIMZ 1 - 3
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+ Fuelling capacity Fixed petrol pump and tank-truck (JET A1 only)
+4 Sistema de-icing Mezzo semovente FMC TEMPEST
+ De-icing facilities Self propelled FMC TEMPEST
+5 Hangar per aeromobili in transito AVBL O/R
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note 1. Carburanti disponibili con esenzione doganale
+2. Air Starter Unit disponibile
+ Remarks 1. Fuel AVBL duty free
+2. Air Starter Unit available
+LIMZ AD 2.5 SERVIZI PER I PASSEGGERI
+LIMZ AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti 40 posti
+ Restaurants 40 seats
+3 Trasporti Taxi e noleggio auto su richiesta tel +39 0172 741500
+ Transportation Taxi and car rental on request tel +39 0172 741500
+4 Servizio medico Presidio sanitario aeroportuale
+Ospedali a Fossano km 12 - Cuneo km 20 - Savigliano km 15
+ Medical facilities Airport health post
+Hospital in Fossano km 12 - Cuneo km 20 - Savigliano km 15
+5 Banca e ufficio postale Sportello bancomat/ NIL
+ Bank and Post office Cashpoint/ NIL
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIMZ AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIMZ AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 6 ICAO 0600-2000 (0500-1900)
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Conforme alle CAT 7 ICAO
+ Rescue equipment In conformity with CAT 7 ICAO
+3 Rimozione aeromobili in difficoltà La società di gestione GEAC è in grado di provvedere alla rimozione degli aeromobili
+in difficoltà in forza di un contratto stipulato con ditta specializzata
+ Capability for removal of disabled aircraft The Handling company GEAC is able to remove disabled Aircraft thanks to an
+agreement with specialized company
+4 Note
+ 1. Aeromobili di CAT 7 ICAO accettati in accordo con la normativa EASA EU
+139/14 amc2 adr.ops.b.010 (a)(2), (a)(3) con richiesta preventiva all’ operatore
+aeroportuale via Tel. +393488617896 o Email: dutyofficer@cuneoairport.com
+ Remarks
+ 1. CAT 7 ICAO aircraft accepted in compliance with EASA regulation EU 139/14 amc2
+adr.ops.b.010 (a)(2), (a)(3) with prior notification to aerodrome operator by phone
++39 348 8617896 or Email: dutyofficer@cuneoairport.com
+LIMZ AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIMZ AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrici, attrezzature sgombero neve e antighiaccio
+ Types of clearing equipment Sweepers, snow removal and de-icing equipment
+
+=== Page 4 ===
+AD 2 LIMZ 1 - 4
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+2 Priorità Pista, area monitori GP/LOC, vie rullaggio e apron
+ Clearance priorities RWY, monitors area GP/LOC, TWY and apron
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. Il coefficiente minimo di attrito è 0.50 alla velocità di prova di 65 km orari, rilevato
+tramite Skiddometer BV11.
+2. Pista 03/21 prodotto deghiacciante/antighiacciante KFOR/UREA
+ Remarks 1. Minimum friction coefficient is 0.50 at test speed of 65 km/h, measured by
+Skiddometer BV11.
+2. RWY 03/21 de-iced/anti-iced with KFORA/UREA
+LIMZ AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIMZ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron ASPH 73665 m² PCN 85/F/C/X/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 23 M ASPH PCN 45/F/C/X/T
+B 15 M ASPH PCN 40/F/C/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. Parcheggi da 12 a 20 e 2 utilizzabili solo di giorno
+ Remarks 1. Aircraft stands from 12 to 20 and 2 available only during day
+LIMZ AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIMZ AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi APD Chart - la segnaletica degli stand è di tipo continuo di colore giallo
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See APD Chart - Stands provided with continuous yellow marking
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carta AD in vigore
+ RWY and TWY markings and lights See AD chart in force
+3 Barre d'arresto Vedi carta AD in vigore
+ Stop bars See AD chart in force
+4 Note 1. Assistenza con follow me: 
+su richiesta contattando la TWR
+ Remarks 1. Follow me assistance:
+on request calling TWR
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIMZ 1 - 5
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+LIMZ AD 2.10 OSTACOLI AEROPORTUALI
+LIMZ AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIMZ AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIMZ AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato
+IT/EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts
+IT/EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Cuneo TWR, Milano ACC
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. 2 WDI
+4. Nubi operativamente significative: sono ritenute operativamente significative le
+nubi con altezza della base al di sotto di 14900ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+
+=== Page 6 ===
+AD 2 LIMZ 1 - 6
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. 2 WDI
+4. Clouds of operational significance: clouds with base height below 14900ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+LIMZ AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIMZ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+03 NIL 2100 x 45.000062
+PCN 45/F/C/X/T
+ASPH
+44°32'22.74''N
+007°36'58.36''E
+44°33'20.04''N
+007°37'49.60''E
+162.6  FT
+1266.6  FT / NIL
+21 NIL 2100 x 45.000062
+PCN 45/F/C/X/T
+ASPH
+44°33'20.04''N
+007°37'49.60''E
+44°32'22.74''N
+007°36'58.36''E
+161.9  FT
+1217.4  FT / 1237.6 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+03
+Vedi AOC - Pendenza
+Longitudinale 0.70%
+See AOC - Longitudinal Slope
+0.70%
+179 x 45 240 x 300 2615 x 300 90 x 150
+21
+Vedi AOC - Pendenza
+Longitudinale 0.70%
+See AOC - Longitudinal Slope
+0.70%
+216 x 45 300 x 300 2615 x 300 90 x 90
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+03 NIL NIL
+21
+Non applicabile
+Not applicable
+1) Cavo Bliss-BAK (model BAK 14) e plinti entro la strip alla fine della pista 21/Bliss-Bak cable
+(model BAK 14) and plinths within strip at RWY 21 end
+LIMZ AD 2.13 DISTANZE DICHIARATE
+LIMZ AD 2.13 DECLARED DISTANCES
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIMZ 1 - 7
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+03
+INT TAKE-OFF A
+START POINT RWY 03
+2100
+1255
+2316
+2340
+1495
+2556
+2279
+1434
+2495
+2100
+-
+-
+21
+START POINT RWY 21
+2100
+2279
+2400
+2579
+2316
+2495
+2100
+-
+NOTE 1. Intersection Take-off e START POINT sono utilizzabili soltanto su richiesta del pilota o su richiesta della TWR
+previo benestare del pilota
+2. START POINT RWY 03= RWY 2100M + SWY 216M
+START POINT RWY 21= RWY 2100M + SWY 179M
+REMARKS 1. Intersection Take-off and START POINT are usable only on pilot’s request or on TWR’s request, previous pilot’s
+agreement
+2. START POINT RWY 03= RWY 2100M + SWY 216M
+START POINT RWY 21= RWY 2100M + SWY 179M
+LIMZ AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIMZ AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+03 SALS 420 LIH G NIL 3°
+wing bar
+entrambi i lati/
+both sides
+17.0 NIL
+21 CAT I 420 LIH G NIL 3°
+wing bar
+entrambi i lati/
+both sides
+17.0 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+03 NIL NIL NIL NIL 1504
+600
+60
+60
+W
+Y
+LIH
+LIH
+21 NIL NIL NIL NIL 1504
+600
+60
+60
+W
+Y
+LIH
+LIH
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+03 R 177 R NIL NIL 1) Soglia pista non strumentale dotata
+di 16 luci/Non instrumental RWY THR
+provided with 16 lights
+21 R 212 R NIL NIL 1) Avvicinamento di precisione a 2 barre/
+precision approach 2 crossbars
+
+=== Page 8 ===
+AD 2 LIMZ 1 - 8
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+LIMZ AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIMZ AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 44°32'56''N   007°37'11''E
+Caratteristiche: Caratteristiche: ABN rotante a luci bianco/verdi alternate
+Orario: notte e giorno su iniziativa TWR
+IBN coordinate: NIL
+Caratteristiche: NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 44°32'56''N   007°37'11''E
+Characteristics: Characteristics: ABN revolving white/green alternating lights
+Hours: night and day on TWR initiative
+IBN coordinates: NIL
+Characteristics: NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: Vedi ADC in vigore
+Anemometri:
+1) 336 m dopo THR RWY 21, 195 m lato destro RCL
+2) 303 m dopo THR RWY 03, 218 m lato sinistro RCL
+ LDI location and lights 
+Anamometer location and lights
+LDI: See ADC in force
+Anemometers:
+1) 336 m after THR RWY 21, 195 m right side RCL
+2) 303 m after THR RWY 03, 218 m left side RCL
+3 Illuminazione bordo e asse centrale TWY TWY A provvista di luci di bordo
+TWY B provvista di luci di bordo
+ TWY edge and center line lighting TWY A provided with TWY edge lights
+TWY B provided with TWY edge lights
+4 Alimentatore secondario/Tempo di 
+intervento
+Disponibile / GEIA max 15 secondi UPS 1 secondo
+ Secondary power supply/Switch over time Available /  GEIA max 15 seconds UPS 1 second
+5 Note NIL
+ Remarks  
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIMZ 1 - 9
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+LIMZ AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIMZ AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note Atterraggi e decolli consentiti da/per RWY 03/21, in accordo alle indicazioni di TWR
+ Remarks Landing and take-off allowed from/to RWY 03/21, according to TWR indications
+LIMZ AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIMZ AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Cuneo Levaldigi ATZ
+44°26'17"N 007°40'58"E;
+44°26'17"N 007°33'32"E
+then arc of circle in
+clockwise direction
+radius 7.0 NM centred on
+44°32'44"N 007°37'15"E
+till point of origin.
+3000 FT
+AMSL
+D
+Cuneo TWR
+EN/IT
+6000 FT 1) WI Milano FIR
+LIMZ AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIMZ AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 H24
+NIL
+APP Milano Radar 125.275 H24 NIL
+APP Milano Radar 129.275 H24 NIL
+TWR Cuneo TWR 119.550 0700-1700 (0500-1900) NIL
+LIMZ AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIMZ AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+
+=== Page 10 ===
+AD 2 LIMZ 1 - 10
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Cuneo
+Gonio
+Homer
+NIL
+0700-1700
+(0500-1900)
+44°32'55.7''N
+007°37'11.4''E
+NIL
+limitazioni a/limitations at 25
+NM
+000°/025° MRA 13000 FT
+025°/075° MRA 9000 FT
+075°/105° MRA 12000 FT
+105°/280° MRA 13000 FT
+280°/360° MRA 15000 FT
+1) Disponibile O/R su
+tutte le frequenze di TWR
+ed emergenza / Available
+O/R on all TWR and
+emergency frequency
+2) HR:
+Altri orari con preavviso
+di 12 ore / Other hours
+12 HR PN
+VOR/DME
+(1° E-2005.0)
+CSL
+116.75
+MHZ
+CH 114Y
+VOR H24
+DME H24
+VOR
+45°13'11.0''N
+007°38'58.4''E
+DME
+45°13'11.1''N
+007°38'57.9''E
+313 M
+AMSL
+45 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+000°/040° MRA 13000 FT
+040°/210° MRA 4000 FT
+210°/270° MRA 13000 FT
+270°/360° MRA 15000 FT
+1) MAINT:
+Primo WED di ogni mese/
+first WED each month:
+1000-1200 (0900-1100)
+VOR/DME
+(3° E-2020.0)
+GEN
+112.80
+MHZ
+CH 75X
+VOR H24
+DME H24
+VOR
+44°25'28.0''N
+009°04'56.4''E
+DME
+44°25'28.0''N
+009°04'57.2''E
+893 M
+AMSL
+60 NM/45000 FT
+limitazioni a/limitations at 40
+NM
+000°/090° MRA 11000 FT
+090°/145° MRA 8000 FT
+145°/240° MRA 5000 FT
+240°/360° MRA 8000 FT
+1) MAINT:
+Terzo THU di ogni mese /
+third THU each month:
+0930-1030 (0830-0930)
+ILS RWY 21 LOC
+CAT I
+(1° E-2005.0)
+LEV
+110.95
+MHZ
+H24
+44°32'12.5''N
+007°36'49.2''E
+NIL NIL
+1) Fascio posteriore non
+utilizzabile / Back beam
+not usable
+GP -
+330.65
+MHZ
+H24
+44°33'13.8''N
+007°37'37.6''E
+NIL NIL
+Slope 3°
+RDH: 17.5 M
+OM -
+75.00
+MHZ
+H24
+44°37'40.1''N
+007°41'42.2''E
+NIL NIL
+NIL
+MM -
+75.00
+MHZ
+H24
+44°33'45.7''N
+007°38'12.6''E
+NIL NIL
+NIL
+VOR/DME
+(1° E-2005.0)
+MMP
+113.35
+MHZ
+CH 80Y
+VOR H24
+DME H24
+VOR
+45°38'26.8''N
+008°44'05.4''E
+DME
+45°38'27.1''N
+008°44'06.0''E
+233 M
+AMSL
+80 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+020°/070° MRA 6000 FT
+070°/140° MRA 4000 FT
+140°/240° MRA 2000 FT
+240°/280° MRA 4000 FT
+280°/020° MRA 8000 FT
+1) Secondo MON di ogni
+mese / Second MON
+each month: 2000-2200
+(1900-2100)
+VOR/DME
+(3° E-2020.0)
+SRN
+113.70
+MHZ
+CH 84X
+VOR H24
+DME H24
+VOR
+45°38'45.5''N
+009°01'17.7''E
+DME
+45°38'45.4''N
+009°01'17.1''E
+240 M
+AMSL
+100 NM/50000 FT
+limitazioni a/limitations at 40
+NM
+000°/070° MRA 13000 FT
+070°/090° MRA 10000 FT
+090°/260° MRA 4000 FT
+260°/360° MRA 12000 FT
+1) MAINT:
+Secondo THU di ogni
+mese / second THU
+each month: 0830-1130
+(0730- 1030)
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIMZ 1 - 11
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(3° E-2020.0)
+TOP
+114.50
+MHZ
+CH 92X
+VOR H24
+DME H24
+VOR
+44°55'31.5''N
+007°51'42.0''E
+DME
+44°55'31.0''N
+007°51'41.9''E
+260 M
+AMSL
+Altri settori/other sectors: 80
+NM/60000 FT
+Settore/Sector S: 200
+NM/60000 FT
+limitazioni a/limitations at 40
+NM
+015°/100° MRA 4000 FT
+100°/160° MRA 6000 FT
+160°/230° MRA 10000 FT
+230°/340° MRA 15000 FT
+340°/015° MRA 10000 FT
+1) MAINT:
+Primo THU di ogni
+mese / first THU each
+month: VOR 0900-1030
+(0800-0930) DME
+1030-1200 (0930-1100)
+LIMZ AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIMZ AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+La RWY 21 è la pista strumentale e sarà pertanto usata quale pista
+preferenziale. Con componente di vento in coda superiore a 5 kt (pista
+bagnata), 7 kt (pista asciutta) o su richiesta del pilota, si utilizzerà la
+RWY 03
+Since RWY 21 is the instrument one, it will be used as preferential.
+When tail wind component exceeds 5 kt (wet RWY), 7 kt (dry RWY) or
+on pilot’s request, RWY 03 will be used
+2 Apron 2 Apron
+2.1 Ordinato movimento degli aeromobili sui piazzali 2.1 Orderly movement of aircraft on aprons
+L'ordinato movimento degli aeromobili sul piazzale è assicurato in
+collaborazione tra ENAV S.p.A. ed il gestore aeroportuale in accordo
+alle disposizioni del Codice della Navigazione (Articolo 691bis e 705)
+con le seguenti modalità:
+The orderly movement of aircraft on apron is provided in cooperation
+with ENAV S.p.A. (Italian Company for Air Navigation) and the
+aerodrome operator according to Italian Air Navigation law provisions
+(Articles 691bis and 705) as follows:
+2.1.1 Orario di Servizio 2.1.1 Operational hours
+0700-1700 (0500-1900) 0700-1700 (0500-1900)
+2.1.2 Nominativo di chiamata e frequenza 2.1.2 Call sign and frequency
+Cuneo TWR: 119.550 MHz Cuneo TWR: 119.550 MHz
+2.1.3 Area di applicazione 2.1.3 Area di applicazione
+Piazzale Principale Main Apron
+2.1.4 Servizi forniti 2.1.4 Services provided
+a. Aeromobili in partenza:
+• Istruzioni per il rullaggio
+b. Aeromobili in arrivo:
+• istruzioni per il rullaggio
+• assegnazione parcheggi
+c. Marshalling:
+è assicurato per tutti gli aeromobili in parcheggio agli stand
+a. Departing aircraft:
+• taxiing instructions
+b. Arriving aircraft:
+• taxiing instructions
+• stand allocation
+c. Marshalling:
+it is assured for all aircraft parking at stands
+2.1.5 Limitazioni/regolamentazioni sul piazzale Principale 2.1.5 Limitations/regulations on Main apron
+Aeromobili in partenza:
+a. dovranno ricevere il segnale "all clear" dallo staff di terra prima di
+richiedere a Cuneo TWR autorizzazione allo start-up;
+b. riceveranno lo start-up soltanto dopo la comunicazione "AIRCRAFT
+READY" da parte del Gestore Aeroportuale all'ATC.
+Departing aircraft:
+a. shall receive the signal "all clear" from ground staff before
+requesting start-up clearance to Cuneo TWR;
+b. start-up will be provided only after ATC has received "AIRCRAFT
+READY" communication by Airport Operator.
+NOTA
+Lo stato di "AIRCRAFT READY" significa:
+(1) porte e stive sono chiuse;
+REMARK
+"AIRCRAFT READY" status means:
+(1) aircraft doors and holds are closed;
+
+=== Page 12 ===
+AD 2 LIMZ 1 - 12
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+(2) aircraft Safe Area è libera da persone, mezzi,
+equipaggiamenti e ostacoli;
+(3) l'aeromobile è completamente pronto al rullaggio;
+(4) è stata consegnata all'handler la documentazione prevista;
+(5) rimorchio per il push-back connesso (nose-in stand).
+(2) aircraft Safe Area clear from vehicles, equipment, obstacles
+and ground personnel;
+(3) aircraft fully ready for taxi;
+(4) compulsory documentation provided to handler;
+(5) push-back tractor connected (nose-in stand).
+NOTA
+APRON stand 7 è riservato ad HEMS - Durante le manovre
+da/ per lo stand 7 tutte le operazioni sugli stand adiacenti
+devono essere sospese - Solo per HEMS il marshalling non è
+obbligatorio
+REMARK
+APRON stand 7 reserved for HEMS - Whenever an ACFT is
+taxiing to/from stand 7 all operations on adjacent stands be
+suspended - For HEMS only marshalling not mandatory
+2.1.6 Movimentazione degli aeromobili sui piazzali 2.1.6 Aircraft movement on aprons
+Piazzale Principale
+Self- manoeuvring
+L'ingresso allo stand avviene direttamente dalle TWY A e B.
+L'uscita dallo stand avviene attraverso la Apron Taxilane.
+Sono identificati i seguenti IHP:
+a. B1 tra APRON e TWY B
+b. C1 centro APRON
+Main apron
+Self- manoeuvring
+Stand entrance takes place from TWY A and B.
+Exit from stand through Apron Taxilane.
+Following IHP are identified:
+a. B1 between APRON and TWY B
+b. C1 middle APRON
+NOTA
+La manovra è eseguita sotto la responsabilità del pilota e
+degli operatori di handling (marshalling obbligatorio). Non
+sono consentiti movimenti di ACFT contemporanei su stand
+adiacenti.
+REMARK
+The manoeuver is performed under pilot and handling
+operators responsibility (marshalling is mandatory).
+Movement of ACFT on adjacent stands are not allowed.
+2.1.7 Piazzali a regolamentazione speciale 2.1.7 Apron subject to special regulation
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+3.1. TWY A: utilizzabile da aeromobili MAX code D (massima apertura
+alare 52 m)
+3.1. TWY A: usable by ACFT MAX code D (MAX wingspan 52 m)
+3.2. TWY B: utilizzabile da aeromobili MAX code B (massima apertura
+alare 24 m)
+Gli aeromobili in uscita dall’apron devono dare la precedenza agli
+aeromobili in entrata
+3.2. TWY B: usable by ACFT MAX code B (MAX wingspan 24 m)
+ACFT leaving the apron shall give way to ACFT entering the apron
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+4.1 Criteri per l’attivazione delle LVP 4.1 Criteria for initiation of LVP
+Le procedure di bassa visibilità (LVP) non sono disponibili Low Visibility Procedures (LVP) are not available
+4.2 Utilizzo delle piste 4.2 Runway operations
+Sono consentiti avvicinamenti ed atterraggi ILS in CAT I per pista 21 Approach and landing ILS CAT I for RWY 21 available
+4.3 Minime operative di aeroporto 4.3 Aerodrome operating minima
+RVR non inferiore a 550m per decolli/atterraggi/rullaggi RVR not less than 550m for take off/landing/taxiing
+4.4 Attività di addestramento 4.4 Training activities
+NIL NIL
+4.5 Movimentazione al suolo 4.5 Ground movement
+Qualora le condizioni di visibilità non siano tali da permettere alla TWR
+il monitoraggio visivo di tutta o parte dell’area di manovra:
+In case visibility conditions are not sufficient for the TWR to maintain
+visual monitoring of all or part of the manoeuvring area:
+-  è consentito il movimento di un solo aeromobile alla volta: -  only one movement at a time is allowed:
+○ un aeromobile in partenza potrà essere autorizzato a muoversi dal
+parcheggio verso la posizione di attesa solo quando l’aeromobile in
+avvicinamento è atterrato e abbia confermato di aver raggiunto il
+parcheggio, o l’aeromobile in partenza abbia confermato l’avvenuto
+decollo;
+○ a departing aircraft shall be authorized to move from the stand to
+the holding point only when the arriving aircraft is on the ground and
+has confirmed to have reached the stand, or the departing aircraft
+has confirmed the take off;
+○ un aeromobile potrà essere autorizzato all’atterraggio solo quando
+il precedente aeromobile in avvicinamento è atterrato e abbia
+confermato di aver raggiunto il parcheggio, o l’aeromobile in
+partenza abbia confermato l’avvenuto decollo;
+○ an aircraft shall be authorized to land only when preceding arriving
+aircraft is on the ground and has confirmed to have reached the
+stand, or the departing aircraft has confirmed the take off;
+-  le operazioni di decollo, avvicinamento ed atterraggio sono
+consentite solo per RWY 21
+-  approach and landing operations are allowed only for RWY 21
+a. Aeromobili in arrivo:
+gli aeromobili in atterraggio dovranno liberare la pista
+esclusivamente dalla TWY A
+a. Arrival aircraft:
+landing aircraft shall vacate the RWY on TWY A
+b. Aeromobili in partenza: b. Departing aircraft:
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIMZ 1 - 13
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+• gli aeromobili dovranno utilizzare la TWY A per l'ingresso in pista
+• in caso di decollo abortito dovranno liberare la pista
+esclusivamente dalla TWY A
+• aircraft shall enter the RWY via TWY A
+• in case of aborted take-off the RWY shall be vacated via TWY A
+c. L'assistenza del Follow me è obbligatoria con valori di RVR inferiori
+a 550 m o in caso di necessità o su richiesta dell'equipaggio di
+condotta
+c. Follow me assistance is mandatory with RVR less than 550 m or
+assistance is provided in case of necessity or on pilot request
+d. Obblighi di riporto:
+in condizioni di visibilità ridotta tutti i piloti devono riportare a Cuneo
+TWR
+• raggiunto le RHP, qualora non diversamente istruiti dalla TWR
+• raggiunto lo stand assegnato
+d. Mandatory reports:
+in reduced visibility conditions all pilots shall report to Cuneo TWR
+• reaching RHP, unless otherwise instructed by TWR
+• reaching the stand
+4.6 Contingencies 4.6 Contingencies
+NIL NIL
+4.7 Avaria radio sull’area di manovra 4.7 Radio failure on the manoeuvring area
+Vedi tabella 20.8 See table 20.8
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. AD aperto al traffico commerciale e turistico nazionale ed
+internazionale. Dogana su richiesta 3 HR PN
+6.1. AD open to commercial and tourist, domestic and international
+traffic. Customs and immigration O/R 3 HR PN
+6.2. Cavo Bliss-bak a scomparsa (modello Bak 14) all’interno della
+strip alla fine della pista 21. Se il cavo è steso si applicano le seguenti
+restrizioni:
+6.2. Bliss-bak cable (Model bak 14) within strip at RWY 21 end. The
+following restrictions are applied when the cable is erected:
+a. decolli ed atterraggi vietati a tutti gli aeromobili ad eccezione degli
+atterraggi per pista 21 per gli aeromobili che fanno uso del cavo
+Bliss-bak
+a. take-off and landing forbidden to all aircraft except landing for RWY
+21 only for aircraft using of Bliss-bak cable
+6.3. Atterraggi, decolli e rullaggio con prudenza sull’area di movimento
+a causa di lavori agricoli, presenza di uomini e mezzi in contatto radio
+con TWR
+6.3. Landing, take-off and taxiing with caution on movement area due
+to agricultural works, presence of men and equipment in radio contact
+with TWR
+6.4. Decolli, atterraggi e rullaggio non consentiti con RVR inferiore a
+550 m e/o base delle nubi inferiore a 200 ft
+6.4. Take off, landing and taxiing not permitted with RVR less than 550
+m and/or clouds base below 200 ft
+6.5. All’interno dell’ATZ di Cuneo è consentito solo un IFR alla volta 6.5. All’interno dell’ATZ di Cuneo è consentito solo un IFR alla volta
+6.6. In caso di back track di aeromobili con peso massimo al decollo
+superiore a 20 tonnellate, è obbligatorio fare il back track sulla SWY
+03/21
+6.6. In case of back track to aircraft with maximum take off weight
+greater than 20 tons, turn around on SWY 03/21 is mandatory
+6.7. Atterraggi, decolli, bassi passaggi e sorvoli all’interno dell’ ATZ
+di Cuneo possono essere soggetti a DLA dovuto a lancio di palloni
+liberi per radiosondaggi (come pubblicato in AIP ENR 5.3.1-2) tutti i
+giorni HR 1057-1103 (0957-1003). L’attività di lancio dei palloni può
+essere sospesa non oltre 10 minuti prima del lancio programmato,
+previo contatto con Agenzia Regionale Protezione Ambiente Piemonte
+tel +39 011 19681968
+6.7. Landing, take-off, low passage and overflying within Cuneo
+ATZ may be subject to DLA due to the ascent of free balloons for
+radiosoundings (as published in AIP ENR 5.3.1-2) daily during HR
+1057-1103 (0957-1003). Balloon activity can be suspended not later
+than 10 minutes before the planned launch time by previous contact
+with Agenzia Regionale
+Protezione Ambiente Piemonte tel +39 011 19681968
+6.8. Tutti i voli di addestramento dalle 0600 alle 2000 (0500-1900)
+sono soggetti a:
+a. traffico IFR verso/da gli aeroporti di Torino Caselle e Cuneo Levaldigi
+b. lavori di manutenzione sull’area di manovra
+6.8. All training flights from 0600-2000 (0500-1900) are subject to:
+             
+a. traffic IFR to/from Torino Caselle and Cuneo Levaldigi aerodrome
+b. maintenance works on manoeuvring area
+6.9. Durante i periodi di effettiva attività acrobatica, le operazioni di
+atterraggio e decollo non sono consentite, eccetto per i voli HEMS e
+BAT che dovranno comportare la momentanea sospensione dell’attività
+acrobatica
+6.9. During actual aerobatic activity periods, landing and take-off
+operations are not allowed, except for HEMS and BAT flights which
+shall imply a temporary suspension of the aerobatic activity
+NOTA
+L’attività dei voli di addestramento può essere ritardata o
+temporaneamente sospesa da Milano ACC/Cuneo TWR quando
+il radar di Torino non è disponibile o per ragioni ATC
+REMARK
+When Torino radar is not available or for ATC reasons, training
+flight activity can be delayed or temporary suspended by
+Milano ACC/Cuneo TWR
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+In riferimento al D.M. n.70 del 9/11/1998 il piazzale antistante
+l’aerostazione è la sola area autorizzata al parcheggio aeromobili
+Reference to D.M. n.70 of 9/11/1998, the apron in front of the air
+terminal is the only authorized area for aircraft parking
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+Ogni qualvolta un aeromobile che operi sull'area di manovra si trovi in
+una situazione di avaria radio dovrà comportarsi come segue:
+Whenever an ACFT operating in manoeuvring area experiences a
+communication failure it shall comply with the following
+Aeromobili in partenza: Departing aircraft:
+
+=== Page 14 ===
+AD 2 LIMZ 1 - 14
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+continueranno rigorosamente sul percorso assegnato fino al limite
+dell'autorizzazione ricevuta in attesa dell'arrivo del Follow-me per
+tornare al parcheggio
+shall continue strictly on the assigned taxi route to their clearance limit
+and wait for the Follow-me vehicle in order to be guided back to the
+stand
+Aeromobili in arrivo:
+dovranno attendere in pista ed aspettare l'arrivo del follow-me per il
+parcheggio
+ Arriving aircraft:
+shall wait on the runway for the arrival of the follow-me vehicle in
+order to be guided to the stand
+Aeromobili in arrivo in condizioni di visibilità ridotta (AWO):
+dovranno liberare la pista attraverso TWY A e rimanere in attesa, sul
+primo segmento, del Follow-me per il parcheggio
+Arriving aircraft in reduced visibility conditions (AWO):
+shall vacate the runway via TWY A and wait on its first segment for
+the follow-me vehicle in order to be guided to the stand
+LIMZ AD 2.21 PROCEDURE ANTIRUMORE
+LIMZ AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+Ai parcheggi sono consentite solo prove motori al minimo in
+coordinamento con GEAC S.p.A.
+Only idle engine run-ups allowed on stands in coordination with GEAC
+S.p.A.
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIMZ AD 2.22 PROCEDURE DI VOLO
+LIMZ AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+NIL
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: vedi tabella 24 STAR description: see table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+NIL NIL
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+Vedere ENR 2.1.1.1 See ENR 2.1.1.1
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+In caso di radio avaria:
+1. provare a stabilire un contatto sulle seguenti frequenze:
+- APP: 129.275 MHz – 125.275 MHz
+- Emergency: 121.500 MHz
+- TWR: 119.550 MHz
+In case of radio failure:
+1. try to establish contact on alternate frequencies:
+- APP: 129.275 MHz – 125.275 MHz
+- Emergency: 121.500 MHz
+- TWR: 119.550 MHz
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIMZ 1 - 15
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+2. se ancora non è possibile stabilire un contatto:
+- squawk A7600
+- autorizzazione all'avvicinamento già ricevuta:
+continuare l'avvicinamento come concordato
+- autorizzazione all'avvicinamento non ricevuta:
+aeromobili equipaggiati RNAV
+mantenere il livello assegnato e procedere lungo la STAR
+assegnata, o la STAR prevista se non assegnata, fino a TOPRU,
+quindi discendere alla minima altitudine di attesa ed iniziare
+l'avvicinamento per l'atterraggio;
+aeromobili non equipaggiati RNAV
+mantenere il livello assegnato e procedere in accordo al piano di volo
+in vigore fino a TOP VOR, quindi iniziare la discesa e l'avvicinamento
+per l'atterraggio
+2. if still unable to establish contact:
+- squawk A7600
+- approach clearance already received:
+continue approach accordingly
+- approach clearance not received:
+RNAV equipped aircraft
+maintain assigned level and proceed along assigned STAR, or
+expected STAR if not assigned, until TOPRU, then descend to
+minimum holding altitude and start approach for landing;
+no RNAV equipped aircraft
+maintain assigned level and proceed according to current flight plan
+to TOP VOR, then descend and approach for landing.
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Descrizione delle SID: vedere Tabella 24 SID description: see Table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+Monitoraggio radar nella fase di approccio finale non è fornito a causa
+delle limitazioni Radar
+Radar monitoring in the final approach phase is not provided due to
+Radar limitations
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+4.1.1. Il traffico VFR da/per Cuneo/Levaldigi deve procedere in
+riferimento ai punti di riporto pubblicati. Vedere ENR 6.3 Carte d'Area
+VFR ed anche la Carta di Avvicinamento a Vista di Cuneo/Levaldigi.
+4.1.1. VFR traffic to/from Cuneo/Levaldigi shall proceed with reference
+to published visual reporting points. See ENR 6.3 VFR Area Charts and
+also Cuneo/Levaldigi Visual Approach Chart.
+4.1.2. Vengono istituiti i seguenti punti di attesa VFR:
+SALUZZO (MZNW1)
+BRA (MZNE1)
+MONDOVI’ (MZSE1)
+BROSSASCO (MZW2)
+DRONERO (MZW3)
+RACCONIGI (MZN1)
+CARRU’(MZE2)
+4.1.2. Following VFR holding points have been established:
+SALUZZO (MZNW1)
+BRA (MZNE1)
+MONDOVI’ (MZSE1)
+BROSSASCO (MZW2)
+DRONERO (MZW3)
+RACCONIGI (MZN1)
+CARRU’(MZE2)
+4.1.3. I piloti di voli VFR operanti in spazi aerei di classe G, che
+intendono entrare nel CTR di Cuneo, devono contattare Milano FIC per
+inoltrare la richiesta ed attendere istruzioni prima di procedere
+4.1.3. Pilots of VFR flights operating in class G airspace, intending to
+enter Cuneo CTR, shall contact Milano FIC to relay the request and
+wait for instructions before proceeding
+4.2 Attività di circuito 4.2 Circuit activity
+NIL NIL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+
+=== Page 16 ===
+AD 2 LIMZ 1 - 16
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+VFR/N non consentito tranne che per elicotteri, HEMS e aeromobili
+militari, di Stato e polizia, Vigili del Fuoco e Protezione Civile
+VFR/N not allowed except for helicopters, HEMS and military aircraft,
+State and police, Fire Brigade and Civil Defence
+4.8 Attività addestrativa 4.8 Training activity
+Cuneo TWR potrà assegnare circuiti di traffico aeroportuale diversi da
+quelli standard e/o ritardi in relazione alle necessità in atto
+Cuneo TWR may assign aerodrome traffic circuits different from the
+standard ones and/or delays according to local needs
+5 LVP 5 LVP
+NIL NIL
+LIMZ AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIMZ AD 2.23 ADDITIONAL INFORMATION
+1. Atterraggi e decolli da effettuarsi con prudenza a causa della
+presenza di volatili sull’area di manovra
+1. Landing and take-off to be performed with caution due to the
+presence of birds on the manoeuvring area
+2 DOCUMENTI DI AZIONE E ACCETTAZIONE DELLA
+DEVIAZIONE(DAAD), CONDIZIONI SPECIALI (SC) E LIVELLI
+DI SICUREZZA EQUIVALENTE (ELOS)
+2 DEVIATION ACCEPTANCE AND ACTION DOCUMENTS
+(DAAD), SPECIAL CONDITIONS (SC) AND EQUIVALENT LEVEL
+OF SAFETY (ELOS)
+Numero di
+riferimento
+Descrizione
+DAAD.LIMZ.001 Valori di PCN inferiori all'ACN
+dell'aeromobile critico in una
+porzione di pavimentazione della
+pista di volo.
+Rif. ADR-DSN.B.085 Runway
+strength
+DAAD.LIMZ.002 Presenza nella strip della pista di
+volo di:
+1) pozzetti drenanti non dotati di
+rampa di raccordo e presenti ad
+est ed ovest della pista per tutto il
+tratto;
+2) pozzetti non dotati di rampa di
+raccordo e presenti lungo la traccia
+dei cavidotto bak14 prima della
+soglia 03.
+Rif. ADR-DSN.B.165 Objects on
+runway strip
+DAAD.LIMZ.003 Pendenze longitudinali di strip
+superiori all' 1,5 % previsto in
+corrispondenza del tracciato del
+cavidotto della barriera BAK14,
+presente prima della soglia 03.
+Rif. ADR-DSN.B.180 Longitudinal
+slopes on runway strips
+SC.LIMZ.001 Presenza all'interno della strip
+della pista di volo, oltre il
+fine pista 21, del cavo Bak14,
+relativi blocchi di rinvio e rampe
+di raccordo. La presenza del
+manufatto, che comporta anche
+valori di pendenze strip non
+conformi a quanto previsto, è
+necessaria per l'effettuazione dei
+voli sperimentali e/o militari
+(Leonardo S.p.A.).
+                                                
+                                              
+Rif. ADR-DSN.B.165 Objects on
+runway strip
+Rif. ADR-DSN.B.180 Longitudinal
+slopes on runway strips
+Rif. ADR-DSN.B.185 Transverse
+slopes on runway strips
+Rif. ADR-DSN.T.915 Siting of
+equipment and
+installations on operational areas
+Reference
+number
+Description
+DAAD.LIMZ.001 PCN reference values lower than
+the ACN of the critical aircraft in a
+part of runway.
+Ref. ADR-DSN.B.085 Runway
+strength
+DAAD.LIMZ.002 Presence in the runway strip of:
+1) draining wells not equipped
+with a connecting ramp and
+located to the east and west of the
+runway for the entire stretch;
+2) wells without a connection ramp
+and along the track of the bak14
+cable-way before the threshold
+03.
+Ref. ADR-DSN.B.165 Objects on
+runway strip
+DAAD.LIMZ.003 Longitudinal slopes of strip greater
+than 1.5% foreseen at the
+BAK14 barrier, present before the
+threshold 03.
+Ref. ADR-DSN.B.180 Longitudinal
+slopes on runway strips
+SC.LIMZ.001 Presence of Bak14 cable inside
+the strip of the runway,
+beyond the end of runway
+21, relative transmission blocks
+and connecting ramps. The
+presence of this equipment, which
+also involves strip slope values
+that do not comply with the
+requirements, is necessary for
+carrying out experimental and/or
+military flights (Leonardo S.p.A.).
+                                       
+Ref. ADR-DSN.B.165 Objects on
+runway strip
+Ref. ADR-DSN.B.180 Longitudinal
+slopes on runway strips
+Ref. ADR-DSN.B.185 Transverse
+slopes on runway strips
+Ref. ADR-DSN.T.915 Siting of
+equipment and
+installations on operational areas
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIMZ 1 - 17
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+Numero di
+riferimento
+Descrizione
+ELOS.LIMZ.001 Il marking laterale della viabilità
+di servizio sul piazzale, all'incrocio
+con le vie di scorrimento
+aeromobili, non è conforme a
+quanto previsto dalla CS in esame
+ma è di tipo "a scacchiera", come
+previsto dalla normativa italiana
+(circolare ENAC APT-24).
+Rif. ADR-DSN.L.597 - Apron
+service road marking
+Reference
+number
+Description
+ELOS.LIMZ.001 The side marking of the service
+roads on apron, at the intersection
+with the aircraft sliding ways, does
+not comply with the provisions
+of the CS in question but
+is like "checkerboard" type, as
+required by Italian legislation
+(ENAC circular APT-24)
+Ref. ADR-DSN.L.597 - Apron
+service road marking
+LIMZ AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIMZ AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIMZ 2 - 1
+HOT SPOT MAP (NOT FOR NAVIGATION)  AD 2 LIMZ 2 - 3
+AIRCRAFT PARKING DOCKING CHART-ICAO  AD 2 LIMZ 2 - 5
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 03/21  AD 2 LIMZ 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIMZ 3 - 3
+STAR RNAV1 OR RNP1 RWY 21  AD 2 LIMZ 4 - 1
+STAR RNAV1 OR RNP1 RWY 21 DESCRIPTION TABLES  AD 2 LIMZ 4 - 3
+STAR RWY 21 ATC DISCRETION PLANNED ONLY FOR AIRCRAFT
+NOT RNAV EQUIPPED
+ AD 2 LIMZ 4 - 7
+STAR RWY 21 ATC DISCRETION PLANNED ONLY FOR AIRCRAFT
+NOT RNAV EQUIPPED DESCRIPTION TABLES
+ AD 2 LIMZ 4 - 9
+ICAO VISUAL APPROACH CHART  AD 2 LIMZ 5 - 1
+ICAO INSTRUMENT APPROACH CHART ILS-Z RWY 21  AD 2 LIMZ 5 - 3
+ICAO INSTRUMENT APPROACH CHART ILS Z RWY 21
+DESCRIPTION TABLES
+ AD 2 LIMZ 5 - 5
+ICAO INSTRUMENT APPROACH CHART ILS-Y RWY 21  AD 2 LIMZ 5 - 7
+ICAO INSTRUMENT APPROACH CHART RNP RWY 21  AD 2 LIMZ 5 - 9
+ICAO INSTRUMENT APPROACH CHART RNP RWY 21
+DESCRIPTION TABLES
+ AD 2 LIMZ 5 - 11
+SID RWY 03/21  AD 2 LIMZ 6 - 1
+SID RWY 03/21 DESCRIPTION TABLES  AD 2 LIMZ 6 - 3
+SID RNAV1/RNP1 RWY 03  AD 2 LIMZ 6 - 5
+SID RNAV1/RNP1 RWY 03 DESCRIPTION TABLES  AD 2 LIMZ 6 - 7
+SID RNAV1/RNP1 RWY 21  AD 2 LIMZ 6 - 9
+SID RNAV1/RNP1 RWY 21 DESCRIPTION TABLES  AD 2 LIMZ 6 - 11
+  
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIMZ AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIMZ AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 18 ===
+AD 2 LIMZ 1 - 18
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+

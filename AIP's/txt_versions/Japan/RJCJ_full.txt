@@ -1,0 +1,4091 @@
+=== Page 1 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-1
+AD 2 AERODROMES
+RJCJ AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJCJ - CHITOSE
+RJCJ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJCJ AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 424740N 1413959E
+2 Direction and distance from (city) 21nm SE Sapporo
+3 Elevation/ Reference temperature 89ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change 9°W(2006 ) / -
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-A
+Public AD
+7 Types of traffic permitted 
+(IFR/VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office Nil
+7A T S H 2 4
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 2 ===
+RJCJ AD2-2 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD 2.4 HANDLING SERVICES AND FACILITIES
+RJCJ AD 2.5 PASSENGER FACILITIES
+RJCJ AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJCJ AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1, JET A-1 PLUS
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3
+Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:20 JUL 2017) 20/7/17
+
+
+=== Page 3 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-3
+RJCJ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJCJ AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJCJ AD 2.10 AERODROME OBSTACLES
+RJCJ AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and 
+strength
+To be issued later
+3 ACL and elevation Nil
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs, TWY 
+guide lines and Visual docking/ 
+parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:
+(LGT): REDL,RTHL, RWY DIST marker LGT, TKOF aiming LGT
+TWY:
+(LGT): TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+1 Associated MET Office CHITOSE
+2 Hours of service
+MET Office outside hours
+Nil
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available for 
+briefing or consultation
+Nil
+8 Supplementary equipment
+available for providing information
+Doppler Radar for Airport Weather (See below figure)
+9 ATS units provided with information Nil
+10 Additional information
+(limitation of service, etc.)
+Observation is made by the Japan Defence Agency.
+(EFF:2 JUN 2011) 2/6/11
+
+
+=== Page 4 ===
+RJCJ AD2-4 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD ELEV  LEVEL
+˞Only for Departing Aircraft
+FIELD  ELEV  89ft
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+36
+R
+18
+L
+Detection Area for Arriving Area
+Detection Area for Departing Area
+˞ 
+˞ 
+˞ 
+˞ 
+Airspace for the advisory service
+concerning low level wind shear (RWY18L/36R)
+(EFF:2 JUN 2011) 2/6/11
+
+
+=== Page 5 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-5
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD ELEV  LEVEL
+FIELD  ELEV  89ft
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+36
+L
+18
+R
+Detection Area for Arriving Area
+Detection Area for Departing Area
+Airspace for the advisory service
+concerning low level wind shear (RWY18R/36L)
+(EFF:28 JUL 2011) 28/7/11
+
+
+=== Page 6 ===
+RJCJ AD2-6 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJCJ AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+18L
+36R
+172.60°
+352.60°
+3000×60
+3000×60
+PCR 975/R/B/W/T
+SW61000kg
+(134500lbs)
+DW87000kg
+(191800lbs)
+DTW202000kg
+(445400lbs)
+Concrete
+424807.32N/1414001.96E
+424630.79N/1414018.97E
+THR ELEV : 70.0ft
+THR ELEV : 84.6ft
+18R
+36L
+172.60°
+352.60°
+2700×45
+2700×45
+PCR 1038/F/B/X/T
+SW20000kg
+(44100lbs)
+DW25000kg
+(55100lbs)
+Asphalt
+Concrete
+424838.10N/1413943.22E
+424711.32N/1413958.52E
+THR ELEV : 65.2ft
+THR ELEV : 86.7ft
+Slope of RWY Strip
+Dimensions(M) Remarks
+71 0 1 2
+See AD 2.24 AD Chart 3600×300
+3600×300
+3300×450
+3300×450
+Nil
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 7 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-7
+RJCJ AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJCJ AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJCJ AD 2.16 HELICOPTER LANDING AREA
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+18L AVBL
+PAPI
+2.7°/Left
+382.6m
+52ft
+36R AVBL
+PAPI
+2.7°/Left
+376.5m
+52ft
+18R  
+PAPI
+2.7°/Left
+379.8m
+58ft
+36L
+PAPI
+2.7°/Left
+379.5m
+50ft
+Remarks
+10
+1 ABN/IBN location, characteristics and 
+hours of operation ABN: 424833N/1413915E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT LDI: LGTD
+3 TWY edge and center line lighting To be developed
+4 Secondary power supply/    
+switch-over time Nil
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+(EFF:5 NOV 2020) 5/11/20
+
+
+=== Page 8 ===
+RJCJ AD2-8 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+CHITOSE 
+CTR
+(1)Area within a radius of 5nm of CHITOSE
+ARP (42°48'N/141°40'E)
+6000 or below D CHITOSE 
+TOWER
+En
+(2)Area within a radius of 5nm of New
+CHITOSE ARP (42°47'N/141°42'E)
+3000 or below
+CHITOSE 
+PCA
+See RJCJ attached chart E
+CHITOSE 
+ACA
+See RJCJ attached chart E
+CHITOSE 
+TCA
+See RJCJ Attached Chart E
+(EFF:2 JUN 2011) 2/6/11
+←
+
+
+=== Page 9 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-9
+۠
+IJUPTF1PTJUJWF$POUSPM"SFB
+/".& -"5&3"--*.*54
+6/*5
+1307*%*/(
+4&37*$&
+3&."3,4
+
+1SJNBSZ
+$IJUPTF"11
+.)[
+.)[
+
+4FDPOEBSZ
+$IJUPTF583
+.)[
+.)[
+.)[
+
+
+611&3-*.*5
+	".4-
+
+
+-08&3-*.*5
+	".4-
+
+.	GU
+
+
+	
+
+Ҭ
+5IFBSFBTIPXOCFMPX
+
+ࡀ
+IJUPTF
+
+ۭߤ
+ࡀ
+ݱ
+ͼҙਤΛ௨ใ͠
+Λड͚Δ͜ ͱɻ
+1JMPU PG BJSDSBGU PQFSBUJOH JO
+UIJT BSFB TIBMM DPOUBDU $IJU
+PTF "QQSPBDI PS $IJUPTF
+5PXFS GPS "5$ JOTUSVDUJPOT
+HJWJOHJOGPSNBUJPOTPOBJSDSBGU
+JEFOUJGJDBUJPO QPTJUJPOT BMUJ
+UVEFBOEQJMPUTJOUFOUJPOT
+430351N
+1414107E
+430325N
+1413459E 425635N
+1413558E
+423442N
+1413906E
+422752N
+1414005E
+422836N
+1414719E
+8000
+10006000
+3000
+EBETSU
+SAPPORO
+ENIWA
+OIWAKE
+RJCC ARP
+RJCJ ARP
+8000
+1000
+2000
+1500
+8000
+3000
+8000
+18nm
+7nm 7nm
+5nm 5nm
+11nm 11nm
+3000ft
+2000ft
+1000ft700ft
+6000ft 6000ft
+4000ft3000ft
+2000ft
+1500ft
+8000ft 8000ftZYT ZYT
+4000
+2000
+700
+2000
+700
+423519N
+1414609E
+425708N
+1414218E
+3000
+6000
+430257N
+1414810E 423048N
+1415347E
+(EFF:9 JAN 2014) 9/1/14
+
+
+=== Page 10 ===
+RJCJ AD2-10 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+HWE
+RJCO ARP
+(EXC 8000)
+FL200
+FL200
+FL160
+FL160
+8000
+(EXC 11000)
+FL200
+11000
+(EXC 13000)
+FL200
+13000
+8NM
+45NM
+45NM
+52NM
+(9)
+(8)
+(7)
+(6)
+(5)
+(4)(3)
+(2)
+(1)
+(21)
+(20)
+(19)
+(18)
+(17)
+(16)
+(15)
+(14) (13)
+(12)
+(11)
+(10)
+Point list
+431403N 1414327E
+430911N 1413325E
+430321N 1413234E
+430055N 1424535E
+431217N 1423627E
+424008N 1414046E
+431414N 1413708E
+431055N 1413659E
+425916N 1412018E
+420533N 1410152E
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+415823N 1420331E
+415105N 1420410E
+424936N 1404824E
+424829N 1403130E
+422654N 1402321E
+422858N 1410950E
+424739N 1411616E
+433818N 1410529E
+431009N 1403947E
+432714N 1413742E
+(21) 433305N 1413715E
+۠
+Chitose Approach Control Area
+(EFF:2 MAR 2017) 2/2/17
+
+
+=== Page 11 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-11
+16000
+7000
+430655N
+1412304E
+RJCO ARP
+430911N
+1413325E
+430321N
+1413234E
+425916N
+1412018E
+424936N
+1404824E
+422654N
+1402321E
+420533N
+1410152E
+422858N
+1410950E
+424739N
+1411616E
+431414N
+1413708E
+432714N
+1413742Eto
+to
+to
+to
+to
+to
+R-138
+ᶃ
+ᶄ
+ᶄ
+ᶆ
+ᶄ
+ᶅ
+ᶃ
+ᶃ
+CHITOSE PCA
+CHITOSE
+CTZ
+ARP
+CTZ:  CONTROL ZONE
+PCA:  POSITIVE CONTROL AREA
+8NM
+030˚
+070˚
+180˚
+360˚
+120˚
+140˚
+310˚
+330˚
+16000
+4000
+16000
+3000
+16000
+2000
+20000
+4000
+20000
+7000
+20000
+5000
+20000
+8001
+20000
+8001
+2999
+2001
+20000
+8001
+20000
+2000
+20000
+6000
+20000
+8000 20000
+5000
+13NM
+9NM 20NM
+8NM6NM
+20000
+3000
+20000
+11001
+20000
+8001
+2999
+2001
+ᶄ 16000
+8001 ᶆ 20000
+13001
+20000
+6001
+20000
+6001
+20000
+3000
+3999
+2000
+20000
+8001
+PRAmfMN03
+PRA
+mf
+MN02
+ˍ ᶅ 2999
+2001
+16000
+8001ˍ
+ˍ
+ˍ
+λʔϛ φϧίϯτϩʔϧΤϦΞ
+Chitose Terminal Control Area
+220˚
+PRAmfMN91
+EWHmfMN54
+431217N
+1423627E
+431403N
+1414327E
+431055N
+1413659E
+430055N
+1424535E
+(EFF:2 MAR 2017) 2/2/17
+
+
+=== Page 12 ===
+RJCJ AD2-12 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 34 5
+APP/ASR Chitose Approach/
+ Chitose Radar
+362.3MHz(1)
+120.1MHz(1)
+305.7MHz(2)
+124.7MHz(2)
+243.0MHz(E)
+121.5MHz(E)
+H24 (1) Primary
+(2) Secondary
+DEP Chitose Depature 305.7MHz
+124.7MHz
+H24
+TCA Chitose TCA 127.7MHz
+256.1MHz
+2300 - 1100
+SUN-THU
+TWR Chitose Tower 236.8MHz(1)
+118.2MHz(1)
+304.5MHz(2)
+126.2MHz(2)
+138.05MHz
+247.0MHz(3)(4)
+123.1MHz(3)(4)
+243.0MHz(E)
+121.5MHz(E)
+H24 (1) Primary
+(2) Secondary
+(3) For rescue only.
+(4) AVBL on request.
+GND Chitose Ground 275.8MHz
+121.7MHz
+H24
+DLVRY Chitose Delivery 322.2MHz
+121.9MHz
+H24
+MET Chitose Metro 344.6MHz H24 Pilot Forecaster service
+GCA-ASR
+   -PAR
+Chitose Radar/
+Chitose GCA
+261.2MHz
+119.1MHz
+270.8MHz
+119.5MHz
+298.8MHz
+124.0MHz
+299.7MHz
+125.3MHz
+304.5MHz
+131.4MHz
+306.2MHz
+310.8MHz
+321.2MHz
+335.6MHz
+243.0MHz(E)
+121.5MHz(E)
+H24 ASR: RWY 18, 36
+PAR: RWY 18, 36
+Glide path: 2.7°
+ 
+ 
+(EFF:17 JUN 2021) 17/6/21
+
+
+=== Page 13 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-13
+RJCJ AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid ID Frequency
+Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(10°W/2020)
+CHE 116.9MHz H24 424159.65N/
+1414110.20E
+DME CHE 1203MHz
+(CH-116X)
+H24
+424159.65N/
+1414110.20E
+87ft DME unusable:
+210°-220° beyond 35nm BLW 3000ft.
+220°-240° beyond 30nm BLW 3000ft.
+240°-250° beyond 30nm BLW 7000ft.
+260°-270° beyond 35nm BLW 7000ft.
+270°-300° beyond 35nm BLW 9000ft.
+300°-310° beyond 35nm BLW 7000ft.
+TACAN ZYT 990MHz
+(CH-29X)
+H24 424552N/1414025E 128ft Unusable:
+160°-180° beyond 20nm BLW 2000ft.
+180°-190° beyond 25nm BLW 2000ft.
+190°-200° beyond 20nm BLW 2000ft.
+200°-220° beyond 25nm BLW 2000ft.
+250°-260° beyond 25nm BLW 7000ft.
+260°-270° beyond 35nm BLW 9000ft.
+280°-300° beyond 35nm BLW 9000ft.
+ILS-LOC 36R ICB 110.3MHz H24 424850N/1413955E
+ILS-GP 36R - 335.0MHz H24 424641N/1414012E
+ILS-MM 36R - 75.0MHz H24 424558N/1414026E
+36
+R
+18L
+120m
+330m
+1008m3000m1315m
+ILS-GP ANTENNA
+RWY
+ILS-LOC
+ANTENNA
+REMARKS: 1.LOC Beam BRG(MAG) 002°
+ 2.HGT of ILS REF datum 14.7m(48ft)
+ 3.GP angle 2.7°
+MM
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 14 ===
+RJCJ AD2-14 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJCJ AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:2 JUN 2011) 2/6/11
+←
+
+
+=== Page 15 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-15
+RJCJ AD 2.22 FLIGHT PROCEDURES
+1. TAKE OFF MINIMA
+RWY
+REDL AVBL REDL OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF ALTN
+AP FILED
+18R - 0 '-600m - 0 '-800m
+36L - 0 '-600m - 0 '-800m
+18L 0 '-600m 0 '-600m - 0 '-800m
+36R 0 '-600m 0 '-600m - 0 '-800m
+OTHER
+18R
+AVBL LDG MINIMA
+36L
+18L
+36R
+NOTE: SIDs are designed in accordance with prov isional standards for FLIGHT PROCEDURE DESIGN.
+TAKE OFF MINIMA for CHITOSE REVERSAL DEPARTURE only
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine ACFT
+ with TKOF ALTN
+ AP FILED
+18R
+A,B,
+C,D
+- - - 400m - 500m
+36L - - - 400m - 500m
+18L - - 400m 400m - 500m
+36R - - 400m 400m - 500m
+OTHER
+18R
+A,B,
+C,D AVBL LDG MINIMA
+36L
+18L
+36R
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with CHITOSE Radar are lost for 1 minute in the pattern or 5 seconds (PAR)/15
+  seconds (ASR) on final approach, squawk Mode A/3 Code 7600 and;
+(I)  1. Contact CHITOSE Radar/Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable,
+a.proceed to ABIRA IAF at last assigned altitude or 6,000 feet whichever is higher,
+and execute TACAN Y RWY18L/TACAN Y RWY36R approach, as appropriate.
+b.proceed to CHITOSE VOR/DME at last assigned altitude or 7,000 feet whichever is higher,
+and execute VOR or VOR/DME approach, as appropriate.
+(II) Procedures other than above will be issued when situation required.
+3. Automated Radar Terminal System (ARTS)
+When instructed by ATC, aircraft flying in and out of Chitose approach control area in principle will reply on 4096 Code (Mode
+A/3) with automatic altitude reporting capability (Mode C); Aircraft not equipped with the said transponder shall report ATC to
+that effect.
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 16 ===
+RJCJ AD2-16 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+4. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE FOR CIVIL ACFT
+PAR RWY18L PAR RWY18R
+MINIMA THR elev. 70 AD elev. 89 MINIMA THR elev. 65 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/CMV MDA(H) VIS DA(H) CMV MDA(H) VIS
+A
+299(229) 750
+620(531)
+1600
+A
+276(211) 1000 700(611)
+1600
+BB
+C 2400 C 2400
+D 660(571) 3200 D 3200
+Simultaneous approach authorized with RJCC RWY19L(ILS) 
+or RWY19R(ILS)
+Circling to RWY36R ONLY
+Simultaneous approach authorized with RJCC RWY19L(ILS) 
+or RWY19R(ILS)
+PAR RWY36L PAR RWY36R
+MINIMA THR elev. 87 AD elev. 89 MINIMA THR elev. 85 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) CMV MDA(H) VIS DA(H) RVR/CMV MDA(H) VIS
+A
+287(200) 1000 700(611)
+1600
+A
+287(202) 750
+620(531)
+1600
+BB
+C 2400 C 2400
+D 3200 D 660(571) 3200
+Simultaneous approach authorized with RJCC RWY01L(ILS) 
+or RWY01R(ILS)
+Simultaneous approach authorized with RJCC RWY01L(ILS)
+or RWY01R(ILS)
+Circling to RWY18L ONLY
+ASR RWY18L ASR RWY18R
+MINIMA THR elev. 70 AD elev. 89 MINIMA THR elev. 65 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/CMV MDA(H) VIS MDA(H) CMV MDA(H) VIS
+A
+700(630)
+1000
+700(611)
+1600
+A
+700(635)
+1500
+700(611)
+1600
+B
+1200
+B
+C 2400 C
+2000
+2400
+D 1600 3200 D 3200
+Circling to RWY36R ONLY
+ASR RWY36L ASR RWY36R
+MINIMA THR elev. 87 AD elev. 89 MINIMA THR elev. 85 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) CMV MDA(H) VIS MDA(H) RVR/CMV MDA(H) VIS
+A
+700(611)
+1500
+700(611)
+1600
+A
+700(611)
+1000
+700(611)
+1600
+BB
+1200
+C
+2000
+2400 C 2400
+D 3200 D 1600 3200
+Circling to RWY18L ONLY
+(EFF:18 MAY 2023) 18/5/23
+
+
+=== Page 17 ===
+AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD2-17
+5. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE FOR JSDF ACFT
+PAR RWY18L PAR RWY18R
+MINIMA THR elev. 70 AD elev. 89 MINIMA THR elev. 65 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/CMV MDA(H) VIS DA(H) CMV MDA(H) VIS
+A
+200(130) 750
+620(531)
+1600
+A
+200(135) 1000 700(611)
+1600
+BB
+C 2400 C 2400
+D 660(571) 3200 D 3200
+Simultaneous approach authorized with RJCC RWY19L(ILS) 
+or RWY19R(ILS)
+Circling to RWY36R ONLY
+Simultaneous approach authorized with RJCC RWY19L(ILS) 
+or RWY19R(ILS)
+PAR RWY36L PAR RWY36R
+MINIMA THR elev. 87 AD elev. 89 MINIMA THR elev. 85 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) CMV MDA(H) VIS DA(H) RVR/CMV MDA(H) VIS
+A
+200(113) 1000 700(611)
+1600
+A
+212(127) 750
+620(531)
+1600
+BB
+C 2400 C 2400
+D 3200 D 660(571) 3200
+Simultaneous approach authorized with RJCC RWY01L(ILS) 
+or RWY01R(ILS)
+Simultaneous approach authoriz ed with RJCC RWY01L(ILS)
+or RWY01R(ILS)
+Circling to RWY18L ONLY
+ASR RWY18L ASR RWY18R
+MINIMA THR elev. 70 AD elev. 89 MINIMA THR elev. 65 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/CMV MDA(H) VIS MDA(H) CMV MDA(H) VIS
+A
+700(630)
+1000
+700(611)
+1600
+A
+700(635)
+1500
+700(611)
+1600
+B
+1200
+B
+C 2400 C
+2000
+2400
+D 1600 3200 D 3200
+Circling to RWY36R ONLY
+ASR RWY36L ASR RWY36R
+MINIMA THR elev. 87 AD elev. 89 MINIMA THR elev. 85 AD elev. 89
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) CMV MDA(H) VIS MDA(H) RVR/CMV MDA(H) VIS
+A
+700(611)
+1500
+700(611)
+1600
+A
+700(611)
+1000
+700(611)
+1600
+BB
+1200
+C
+2000
+2400 C 2400
+D 3200 D 1600 3200
+Circling to RWY18L ONLY
+(EFF:18 MAY 2023) 18/5/23
+
+
+=== Page 18 ===
+RJCJ AD2-18 AIP Japan
+CHITOSE
+Civil Aviation Bureau,Japan
+RJCJ AD 2.23 ADDITIONAL INFORMATION
+RJCJ AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (TOKACHI)*
+Standard Departure Chart - Instrument (TOBBY)*
+Standard Departure Chart - Instrument (TEKKO)*
+Standard Departure Chart - Instrument (HAKODATE)*
+Standard Departure Chart - Instrument (CHITOSE-REVERSAL)
+Standard Departure Chart - Instrument (CHITOSE)*
+Standard Departure Chart - Instrument (MUKAWA)*
+Standard Departure Chart - Instrument (KURIS)*
+Standard Departure Chart - Instrument (SAVIT)*
+Standard Departure Chart - Instrument (TRANSITION)
+Standard Arrival Chart - Instrument  (KOMAI)*
+Standard Arrival Chart - Instrument  (WAKSA-RNAV)
+Instrument Approach Chart (VOR/DME NR1 RWY18L)*
+Instrument Approach Chart (VOR/DME NR2 RWY18L)*
+Instrument Approach Chart (VOR NR1 RWY36R)*
+Instrument Approach Chart (VOR NR2 RWY36R)*
+Instrument Approach Chart (ILS Z RWY36R)
+Instrument Approach Chart (LOC RWY36R)
+Instrument Approach Chart (ILS Y RWY36R)
+Instrument Approach Chart (ILS X RWY36R)
+Instrument Approach Chart (TACAN Z RWY36R)
+Instrument Approach Chart (TACAN Y RWY36R)
+Instrument Approach Chart (TACAN Z RWY18L)
+Instrument Approach Chart (TACAN Y RWY18L)
+*: Designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AD  CHART
+E-2 E-3 E-4 E-5
+C-5 C-6
+W-7W-6W-5
+E-6
+C-7
+NO.8 NO.9
+E-8 E-9
+C-4
+W-4W-2W-1
+WDI
+ARP
+C-2C-1
+TRUE NORTH
+903m 382.6m 376.5m
+300m
+PAPI angle 2.7˚
+MEHT 17.7m(58ft)
+PAPI angle 2.7˚
+MEHT 15.1m(50ft) REMARK : TWY C6 and W6 CLSD
+379.5m
+379.8m
+18
+L
+18
+R
+3      71      9
+7      3
+6      4
+6      4
+5      5
+5      5
+4      6
+4      6
+3      7
+3      7
+2      8 1      9
+1      99      1 8      2
+RWY DISTANCE
+MARKER  LGT
+36
+R
+TAKE OFF
+AIMING LGT
+PAPI angle 2.7˚ 
+MEHT 15.7m  (52ft)
+36
+L
+ABN
+CHITOSE AD
+LONGITUDINAL PROFILE OF RWY
+85ft
+(25.80m)
+87ft
+(26.63m)
+84ft
+(25.52m)81ft
+(24.92m)
+80ft
+(24.40m)
+82ft
+(24.91m)79ft
+(24.01m)
+74ft
+(22.47m)
+76ft
+(23.20m)
+72ft
+(22.07m)71ft
+(21.69m)70ft
+(21.34m)
+73ft
+(22.18m)69ft
+(21.11m)65ft
+(19.88m)
+87ft
+(26.43m)
+86ft
+(26.26m)
+75ft
+(22.72m)
+0.1% 0.30%
+0.27%
+0.11%
+0.20%
+0.17%
+0.36%
+0.25%
+0.1%
+0.16%
+0.27%
+0.34%
+0.36%
+0.41%
+0.50%
+36R
+36L
+18L
+18R
+903m
+300m
+36
+R
+3000m2700m2400m2180m2000m1800m1500m1420m1200m1100m900m600m300m220m0m
+2100m1000m
+PAPI angle 2.7˚ 
+MEHT 15.8m  (52ft)
+RJCJ / CHITOSECHANGE : OVERRUN AREA EDGE LGT deleted.
+(EFF:5 NOV 2020) 5/11/20
+RJCJ AD2.24-ADC-1
+CHITOSE
+
+
+=== Page 20 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+SID
+   RWY 36R/36L : Climb via RWY HDG to 500ft or above, turn right climb via
+                           HDG 130 DEG to intercept and proceed via....
+   RWY 18R/18L : Climb via RWY HDG to 500ft or above, turn left climb via
+                           HDG 130 DEG to intercept and proceed via....
+                           ...CHE R-088 to BOKSO or CHE R-097 to RAKNO.
+                              Cross CHE R-088/12DME or CHE R-097/12DME
+                           at or below 5,000ft.
+                              Cross CHE R-088/22DME or CHE R-097/22DME
+                           between 9,000ft and 11,000ft.
+TOKACHI ONE DEPARTURE
+TOKACHI ONE DEPARTURE
+CHITOSE VOR/DME(CHE)
+D22 CHE
+D12 CHE
+BOKSO
+RAKNOHDG130˃
+HDG130
+˃
+088˃
+097˃
+500
+500
+11000
+90005000
+RJCJ / CHITOSE
+(EFF:5 NOV 2020) 5/11/20
+→ RJCJ AD2.24-SID-1
+CHITOSE
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+4DME
+SID
+TOBBY SEVEN DEPARTURE
+    RWY 36R/36L : Climb via RWY HDG to 500ft or above, turn right to CHE
+                            VOR/DME within CHE 10DME (5NM FM RWY
+                            end), then via CHE R-185 to TOBBY.
+                                Cross 4DME prior to CHE VOR/DME (MKE R-329) at or
+                            above 3,000ft.
+                                Cross CHE R-185/6DME at or above 6,000ft.
+                                Cross CHE R-185/11DME at or above 7,000ft.
+    RWY 18R/18L : Climb direct to CHE VOR/DME, then via CHE R-185 to TOBBY.
+                                Cross CHE R-185/27DME at or below 11,000ft.
+   Note : Aircraft unable to comply with the flight restriction, inform ATC for
+             alternate procedure before departure.
+CHITOSE VOR/DME
+(CHE)
+MUKAWA
+VOR/DME(MKE)
+6000 for RWY 36R/36L
+7000 for RWY 36R/36L
+11000 for RWY 18R/18L
+TOBBY SEVEN DEPARTURE
+500
+3000
+27 
+DM
+E
+5NM FM
+RWYend CHE10DM
+E
+TOBBY
+18
+5˃
+R-329
+RJCJ / CHITOSE
+11DME
+6DME
+(EFF:5 NOV 2020) 5/11/20
+RJCJ AD2.24-SID-2
+CHITOSE
+←
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+TEKKO
+SID
+TEKKO NINE DEPARTURE
+    RWY 36R/36L : Climb via RWY HDG to 500ft or above, turn right to CHE
+                             VOR/DME within CHE 10DME (5NM FM RWY end).
+                                Cross 4DME prior to CHE VOR/DME (MKE R-329) at or
+                             above 3,000ft....
+    RWY 18R/18L : Climb direct to CHE VOR/DME....
+                             ....Turn right via CHE R-256 to TEKKO.
+5NM fm
+RWYend
+CHITOSE VOR/DME
+(CHE)
+CHE10DME
+500
+3000
+4DME
+256˚
+R-329
+TEKKO
+ NINE DEPARTURE
+MUKAWA
+VOR/DME(MKE)
+RJCJ / CHITOSE
+(EFF:5 NOV 2020) 5/11/20
+RJCJ AD2.24-SID-3
+CHITOSE
+→
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+SIDRJCJ / CHITOSE
+HAKODATE FIVE DEPARTURE
+    RWY 36R/36L :   Climb via RWY HDG to 500ft or above, turn right to CHE
+VOR/DME within CHE 10DME (5NM FM RWY end).
+Cross 4DME prior to CHE VOR/DME (MKE R-329) at or
+above 3,000ft....
+    RWY 18R/18L :   Climb direct to CHE VOR/DME....
+....then via CHE R-224 to HWE VOR/DME.
+HAKODATE
+VOR/DME(HWE)
+MUKAWA
+VOR/DME(MKE)
+CHITOSE VOR/DME
+(CHE)
+500
+R-329
+224˚
+HAKODATE FIVE DEPARTURE
+CHE 10DME/5NM FM RWYend
+4DME  3000
+CHE
+Cross CHE R-224/8.0DME at or above 3,600ft.
+CHE 8.0DME
+3600
+CHANGE : PROC renamed. ALT restriction added.
+(EFF:2 DEC 2021) 4/11/21
+RJCJ AD2.24-SID-4
+CHITOSE
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+  CHITOSE REVERSAL THREE  DEPARTURE
+SID
+R360
+RJCJ / CHITOSE
+RWY 36R/36L :  Climb via ZYT R360 to 15.0DME, turn right, direct to ZYT
+                           TACAN.
+RWY 18L/18R :  Climb RWY HDG to 600FT , turn left HDG 046° to intercept
+                           and proceed via ZYT R091 to 20.0DME, turn left, direct to
+                           ZYT TACAN.
+                           Cross ZYT R091/15.0DME at or below 11000FT .
+Note RWY18L : 5.0% climb gradient required up to 600FT .
+                          OBST ALT 172FT located at 0.3NM 155° FM end of
+                          RWY18L.
+        RWY18R : 5.0% climb gradient required up to 600FT .
+                         OBST ALT 197FT located at 0.6NM 205° FM end of
+                         RWY18R.
+D15.0
+  ZYT
+600 600
+D20.0 ZYT
+D15.0 ZYT
+11000
+HDG 046°
+HDG 046°
+360°
+091°
+R091
+      TACAN
+       CHITOSE
+               990       ZYT         
+CH-29X       
+       42°45´52´´N/141°40´25´´E
+100FT
+CHANGE : PROC renamed. PROC course. Note(OBST). ALT restriction. Specified ALT deleted.
+(EFF:23 MAR 2023) 23/2/23
+RJCJ AD2.24-SID-5
+CHITOSE
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+  CHITOSE FOUR DEPARTURE
+      RWY 36R/36L : Climb via RWY HDG to 500FT or above, turn right to CHE
+                               VOR/DME within CHE 10.0DME.
+                                   Cross 4.0DME prior to CHE VOR/DME at or above 3000FT.
+      RWY 18L/18R : Climb direct to CHE VOR/DME.
+SID
+CHE 10.0DME
+500
+RJCJ / CHITOSE
+500
+3000
+D4.0 CHE
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+CHANGE : PROC renamed. PROC course. CHITOSE TACAN deleted. Note deleted. 
+(EFF:23 MAR 2023) 23/2/23
+RJCJ AD2.24-SID-6
+CHITOSE
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+  MUKAWA FIVE DEPARTURE    
+     RWY 36R/36L:    Climb via RWY HDG to 500ft or above, turn right within
+                              4NM,climb via MKE R-336 to MKE VOR/DME, then via MKE
+                              R-202 to TOBBY.
+                                  Cross MKE R-336/12DME at or above 3,000ft.
+                                  Cross MKE VOR/DME at or below 11,000ft.
+     RWY 18R/18L:    Climb via RWY HDG to 500ft or above, turn left, climb via
+                              MKE R-321 to MKE VOR/DME, then via MKE R-202 to
+                              TOBBY.
+                                  Cross MKE R-321/10DME at or above 3,000ft.
+                                  Corss MKE VOR/DME at or below 11,000ft.
+SID
+MUKAW
+A FIVE DEPARTURE    
+TOBBY
+11000
+MUKAWA
+VOR/DME(MKE)
+4NM FM RWYend
+500
+500
+3000
+3000
+156
+˃
+141
+˃
+202
+˃
+12DM
+E
+10DME
+RJCJ / CHITOSE
+(EFF:5 NOV 2020) 5/11/20
+→ RJCJ AD2.24-SID-7
+CHITOSE
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+  KURIS  FOUR  DEPARTURE    
+      RWY 36R/36L:    .... 
+      RWY 18R/18L:      Climb via RWY HDG to 500ft or above, turn left within 
+                                4NM,...
+      ....climb via CHE R-011 to KURIS.
+SID
+4NM FM RWY end 
+500
+R-011
+011°
+KURIS
+KURI
+S  FO
+UR
+  DEPARTU
+RE 
+CHITOSE VOR/DME(CHE)
+RJCJ / CHITOSE
+(EFF:5 NOV 2020) 5/11/20
+RJCJ AD2.24-SID-8
+CHITOSE
+←
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+SIDRJCJ / CHITOSE
+SAVIT TWO DEPARTURE
+    RWY 36R/36L :  Climb via RWY HDG to 500ft or above, turn right to CHE
+                             VOR/DME within CHE 10DME (5NM FM RWY end).
+                                Cross 4DME prior to CHE VOR/DME (MKE R-329) at or
+                             above 3,000ft....
+    RWY 18R/18L :  Climb direct to CHE VOR/DME....
+                             ....then via CHE R-224 to SAVIT.
+Cross CHE R-224/8.0DME at or above 3,600ft.
+SAVIT TWO DEPARTURE
+CHE
+ME/ FM10D 5NM RWY
+end
+CHITOSE VOR/DME
+(CHE)
+500
+R-329
+4DME  3000
+CHE
+D8.0 CHE
+3600
+224˚
+SAVIT
+D16.5 CHE
+MUKAWA
+VOR/DME(MKE)
+CHANGE : PROC renamed. ALT restriction added.
+(EFF:2 DEC 2021) 4/11/21
+RJCJ AD2.24-SID-9
+CHITOSE
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+
+3$16<75$16,7,21%872675$16,7,21 51$9
+9$5:
+1RWH'0('0(,58RU*166UHTXLUHG
+5$'$5VHUYLFHUHTXLUHG
+6HULDO
+1XPEHU
+3DWK
+'HVFULSWRU
+:D\SRLQW
+,GHQWLILHU
+)O\
+2YHU
+&RXUVH
+07
+0DJQHWLF
+9DULDWLRQ
+'LVWDQFH
+10
+7XUQ
+'LUHFWLRQ
+$OWLWXGH
+)7
+6SHHG
+.,$6
+9HUWLFDO
+$QJOH
+1DYLJDWLRQ
+6SHFLILFDWLRQ
+
+
+,)
+7)
+72%%<
+
+12+(<
+ʵ
+ʵ
+
+
+ʵ
+
+ʵ
+ʵ
+ʵ
+)/
+ʵ
+ʵ
+ʵ
+ʵ
+51$9
+51$9
+ 7) $3,26 ʵ   ʵʵ ʵ 51$9
+
+
+72%%<
+415507.3N
+1414535.9E
+3$16<75$16,7,21
+)URP72%%<WR12+(<DWRUDERYH)/WR$3,26WR3$16<
+ 7) 3$16< ʵ   ʵʵ ʵ 51$9
+ʵ
+ʵ
+&ULWLFDO'0(
+'0(*$3
+,QDSSURSULDWH
+1DYDLGV 6HH$',QDSSURSULDWH1$9$,'VIRU51$9
+
+
+
+
+
+12+(<
+413638.8N
+1412615.2E
+$3,26
+410339.3N
+1411657.4E
+3$16<
+400014.0N
+1411912.3E
+%8726
+392600.1N
+1412517.8E
+%872675$16,7,21
+%872675$16,7,21
+)URP72%%<WR12+(<DWRUDERYH)/WR$3,26WR3$16<WR %8726
+6HULDO
+1XPEHU
+3DWK
+'HVFULSWRU
+:D\SRLQW
+,GHQWLILHU
+)O\
+2YHU
+&RXUVH
+07
+0DJQHWLF
+9DULDWLRQ
+'LVWDQFH
+10
+7XUQ
+'LUHFWLRQ
+$OWLWXGH
+)7
+6SHHG
+.,$6
+9HUWLFDO
+$QJOH
+1DYLJDWLRQ
+6SHFLILFDWLRQ
+
+
+,)
+7)
+72%%<
+12+(<
+ʵ
+ʵ
+ʵ
+ʵ
+ʔ
+)/
+ʵ
+ʵ
+ʵ
+ʵ
+51$9
+51$9
+ 7) $3,26 ʵ ʵʵ ʵ 51$9
+ 7) 3$16< ʵ ʵʵ ʵ 51$9
+ʵ
+ʵ
+ 51$9%87267) ʵ
+
+
+3$16<75$16,7,21
+
+
+
+
+
+
+
+
+
+
+
+
+ʵ
+
+ 
+ 
+
+ʵ
+ʵ
+ ʵʵ ʵʵ
+)/
+5-&-&+,726( 51$975$16,7,21
+925'0(
++$.2'$7(
+
+)7
+&+±;
+ÛÝ1ÛÝ(
++:(
+
+
+
+
+(EFF:5 NOV 2020) 5/11/20
+RJCJ AD2.24-SID-10
+CHITOSE
+←
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCJ AD2.24-SID-11
+STANDARD DEPARTURE CHART-INSTRUMENT
+
+6+8<875$16,7,21 51$9
+1RWH'0('0(,58RU*166UHTXLUHG
+5$'$5VHUYLFHUHTXLUHG
+&ULWLFDO'0(
+'0(*$3
+,QDSSURSULDWH
+1DYDLGV
+
+
+6HH$',QDSSURSULDWH1$9$,'VIRU51$9
+)URP6$9,7WR32:$1DWRUDERYH)/WR=$/$5WR'$/%,
+6+8<875$16,7,21
+6HULDO
+1XPEHU
+3DWK
+'HVFULSWRU
+:D\SRLQW
+,GHQWLILHU
+)O\
+2YHU
+&RXUVH
+07
+0DJQHWLF
+9DULDWLRQ
+'LVWDQFH
+10
+7XUQ
+'LUHFWLRQ
+$OWLWXGH
+)7
+6SHHG
+.,$6
+9HUWLFDO
+$QJOH
+1DYLJDWLRQ
+6SHFLILFDWLRQ
+ ,) 6$9,7         51$9
+ 7) 32:$1  
+    )/   51$9
+ 7) =$/$5  
+       51$9
+'$/%,
+420449.2N
+1403052.4E
+9$5:
+6+8<875$16,7,21
+6$9,7
+42
+141
+2827.1N
+2830.4E
+32:$1
+422009.0N
+1410802.5E
+)/
+=$/$5
+421230.3N
+1404924.6E
+ 7) '$/%,  
+       51$9
+5-&-&+,726( 51$975$16,7,21
+&+,726(
+925'0(
+)7
+
+&+;
+ÛÝ1ÛÝ(
+&+,726(
+
+&+;
+7$&$1
+ÛÝ1ÛÝ(
+&+(
+=<7
+
+
+
+
+
+CHITOSE
+(EFF:5 NOV 2020) 5/11/20
+→
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+CHITOSE
+STANDARD DEPARTURE CHART-INSTRUMENT
+FUNKA TRANSITION RNAV1
+2) RADAR service required.
+-
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+From TEKKO, to FUNKA, to DALBI.
+FUNKA TRANSITION
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF TEKKO - - -9.5 - - - - - RNAV1
+002 TF FUNKA - 256
+(246.0) -9.5 22.3 - - - -
+003 TF DALBI - 205
+(195.6) -9.5 16.8 - - - -
+TEKKO
+423007.1N
+1410431.0E
+FUNKA
+DALBI
+422100.9N
+1403658.6E
+420449.2N
+1403052.4E
+FUNKA TRANSITION
+22.3
+256°
+16.8205°
+CHITOSE
+VOR/DME
+100FT
+116.9       CHE
+CH-116X
+42˚42´00˝N/141˚41´10˝E
+CHITOSE
+  990     ZYT
+CH-29X
+TACAN
+42˚45´52˝N/141˚40´25˝E
+RJCJ / CHITOSE RNAV TRANSITION
+Critical DMENote 1) DME/DME/IRU or GNSS required.
+DME GAP
+Inappropriate
+    Navaids
+VAR 10° W(2019)
+MRE : 12.0NM to FUNKA - FUNKA
+RNAV1
+RNAV1
+RJCJ AD2.24-SID-12
+(EFF:5 NOV 2020) 5/11/20
+←
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+STAR
+STARs for RWY36
+KOMAI WEST ARRIVAL
+   From over NAVER, via CHE R-201 to intercept and proceed via MKE R-241 
+to KOMAI.
+KOMAI EAST ARRIVAL
+   From over MKE VOR/DME, via MKE R-180 to MKE R-180/8DME, turn right,
+proceed via HDG 270 DEG to intercept MKE R-221, then turn right to intercept
+CHE R-181 to KOMAI.
+RJCJ / CHITOSE
+180˃8DM
+E
+MUKAWA
+VOR/DME(MKE)
+KOMAI
+NAVER
+R-
+201
+R-181
+R-221
+R-24
+1
+HDG270˃
+061˚
+KOMAI EASTA R R I V
+AL
+001˃
+KOMAI WEST
+ARRIVA
+L
+M
+HA60
+00
+021
+˚
+201
+˃
+42DME
+100˚
+280˚
+MHA3000
+CHITOSE
+VOR/DME(CHE)
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+42˚42´00˝N/141˚41´10˝E
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+42˚33´18˝N/141˚57´20˝E
+(EFF:5 NOV 2020) 5/11/20
+→ RJCJ AD2.24-STAR-1
+CHITOSE
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJCJ / CHITOSE RNAV STAR RWY18L
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+046˚20.8
+046˚11.2
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+MUKAWA(MKE)
+MHA 4000
+RNAV1 (GNSS required)
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+WAKSA  BRAVO  ARRIVAL
+WAKSA  ALFA  ARRIVAL
+240˚
+11.2
+360˚
+4.2
+360˚8.7
+360˚7.8
+360˚13.0
+045˚14.6
+VAR 9˚  W(2016)
+201˚
+021˚
+180˚
+360˚
+WAKSA  ALFA  ARRIVAL
+WAKSA  BRAVO  ARRIVAL
+RNAV 1
+12000
+13000
+3000
+7000
+5000
+CHITOSE
+(CHE)
+430634.7N
+1415003.3E
+424159.7N
+1414110.2E MUKAWA
+(MKE)
+423318.0N
+1415720.3E
+WAKSA
+425931.0N
+1413813.0E
+C9R55
+425759.9N
+1415156.7E
+C9R54
+425351.4N
+1415251.2E
+C9R53
+424608.6N
+1415432.5E
+C9R52
+422422.6N
+1414815.6E
+FUJIM
+NAVER
+420744.2N
+1413128.9E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+42˚42´00˝N/141˚41´10˝E
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+42˚33´18˝N/141˚57´20˝E
+(EFF:5 NOV 2020) 5/11/20
+RJCJ AD2.24-STAR-2
+CHITOSE
+←
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCJ AD2.24-STAR-3
+STANDARD ARRIVAL CHART-INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+TF
+TF
+TF
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+001
+002
+003
+004
+005
+006
+007
+008
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ + 13000
+ʵ
++12000
+ʵ
+-7000
++5000
++3000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+20.8
+11.2
+13.0
+7.8
+4.2
+8.7
+11.2
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+NAVER
+FUJIM
+MKE
+C9R52
+C9R53
+C9R54
+C9R55
+WAKSA
+ʵ
+046
+046
+360
+360
+360
+360
+240
+(036.6)
+(036.8)
+(350.9)
+(350.9)
+(350.9)
+(350.9)
+(230.8)
+360
+(350.9)
+WAKSA ALFA ARRIVAL
+From NAVER, to FUJIM at or above 13000FT, to MKE, to C9R52 at or above 12000FT, 
+to C9R53, to C9R54 at or below 7000FT, to C9R55 at or above 5000FT, to WAKSA at or 
+above 3000FT.
+SPE: C9R55 - WAKSA
+MKE: 10.0NM to MKE - 3.0NM to MKE
+          10.0NM to C9R52 - 8.0NM to C9R52
+3.0NM to MKE - 10.0NM to C9R52
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCJ / L81YWR RATS VANRESOTIHC
+Path
+Descriptor
+Serial
+Number
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Course
+Û0Û7
+-9.3 -230(-14000)
+-240(+14001)Hold RNAV1R 4000
+Path
+Minimum
+Altitude
+(FT)
+ʵ
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+MUKAWA
+(MKE)
+Turn
+Direction
+Inbound
+Course
+Û0Û7
+Outbound
+Time
+(MIN)
+1.0(-14000)
+1.5(+14001)
+CHITOSE
+(EFF:5 NOV 2020) 5/11/20
+→
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+CHITOSE
+STANDARD ARRIVAL CHART-INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+001
+002
+003
+004
+005
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+-7000
++5000
++3000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+14.6
+4.2
+8.7
+11.2
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+CHE
+C9R53
+C9R54
+C9R55
+WAKSA
+ʵ
+045
+360
+360
+240
+(035.8)
+(350.9)
+(350.9)
+(230.8)
+WAKSA BRAVO ARRIVAL
+From CHE, to C9R53, to C9R54 at or below 7000FT, to C9R55 at or above 5000FT, 
+to WAKSA at or above 3000FT.
+RJCJ / L81YWR RATS VANRESOTIHC
+Path
+Descriptor
+Serial
+Number
+Course
+Û0Û7
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+SPE: C9R55 - WAKSA
+CHE - 11.0NM to C9R53
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCJ AD2.24-STAR-4
+(EFF:5 NOV 2020) 5/11/20
+←
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+CHITOSE  VOR/DME
+116.9  ɹCHE          
+CH-116X 
+ÛÝ1ÛÝ(
+RJCJ / CHITOSE
+CHITOSE  APP
+120.1-124.7
+362.3-305.7
+CHITOSE  TOWER
+126.2  -  118.2
+236.8-304.5-121.7G
+RADAR  AVAILABLE
+VOR/DME  NR.1  RWY18L
+MISSED APPROACH 
+At 6.2DME prior to CHE VOR/DME,
+climb to 4000䯩(2000䯩 for PROP) 
+on CHE R-183. 
+Contact CHITOSE APP .
+Remain within CHE 25
+DME
+Left turn start at 4000´.
+183°183°
+023°
+1200
+CHE
+3000
+4000
+FL140
+7000
+CHE
+12DMECHE
+6.2
+DME
+MNM SECT ALT
+090°-  180°
+5400   25nm
+MNM SECT ALT
+360°-  090°
+5400   25nm
+MNM SECT ALT
+270°-  360°
+6400   25nm
+MNM SECT ALT
+180°-  270°
+6400   25nm
+5735
+1598
+1017
+1093
+4429
+2595
+2031
+1243
+827
+319
+1680
+3619
+43313402
+42454793
+4882
+3642
+4337
+4039
+965
+54722871
+270°
+090°
+360°
+20nm
+CHE 25DME
+183°
+CHE
+6.2DME
+CHE
+12
+DME
+351
+340579
+680454 020°
+200°
+183°
+023°
+VAR 10˚W (2021)
+ 
+MINIMA 
+CAT
+560 (490)
+620 (531)
+640 (551)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 70 AD elev. 89
+A
+B
+C
+D
+CHANGE : VAR. PROC course.
+(EFF:7 OCT 2021) 9/9/21
+RJCJ AD2.24-IAC-1
+CHITOSE
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+CHITOSE APP
+120.1-124.7
+362.3-305.7
+CHITOSE  VOR/DME
+ÛÝ1ÛÝ(
+CH-116X
+116.9      CHE
+ CHITOSE  TOWER
+118.2-126.2
+236.8-304.5-121.7G
+VOR/DME  NR.2  RWY18L
+140˚183˚1200
+3000
+CHE
+CHE
+12DME
+CHE
+6.2
+DME
+5735
+1598
+1017
+1093
+4429
+2595
+2031
+1243
+827
+319
+1680
+3619
+43313402
+4246
+4794
+4882 3642
+4338
+4039
+965
+54722871
+270°
+090°
+180
+°
+360°
+20nm
+    MISSED APPROACH 
+At 6.2DME prior to CHE VOR/ 
+DME, turn left climb via MKE R-
+320 to 5000䯩proceed to MKE
+VOR/DME and hold.
+Contact CHITOSE APP .
+183˚
+CHE 6.2DME
+CHE 12DME
+WAKSA
+CHE 17.7 DME
+WAKSA
+CHE 17.7 
+DME
+351
+340
+579
+680
+454
+6211
+MNM SECT ALT
+270°-  360°
+6400   25nm
+MNM SECT ALT
+360°-  090°
+5400   25nm
+MNM SECT ALT
+090°-  180°
+5400   25nm
+MNM SECT ALT
+180°-  270°
+6400   25nm
+140˚
+100˚
+280˚
+MHA3000
+RADAR  AVAILABLE
+RJCJ / CHITOSE
+ 
+MINIMA 
+CAT
+560 (490)
+620 (531)
+640 (551)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 70 AD elev. 89
+A
+B
+C
+D
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+VAR 10˚W (2021)
+CHANGE : VAR. Course FM WAKSA to CHE 6.2DME.
+(EFF:7 OCT 2021) 9/9/21
+RJCJ AD2.24-IAC-2
+CHITOSE
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RADAR  AVAILABLE
+CHITOSE  APP
+120.1 - 124.7
+362.3 - 305.7
+CHITOSE  VOR/DME
+116.9        CHE
+CH-116X             
+ÛÝ1ÛÝ(
+    CHITOSE  TOWER
+ 126.2 - 118.2
+ 236.8 - 304.5 - 121.7G
+VOR  NR.1  RWY36R
+001°135°
+CHE
+5735
+1598
+1017
+6000
+5000
+1200
+FL140
+7000
+1093
+4429
+1243
+827
+965
+3619
+1680
+4331
+3402
+42454793
+4882
+3642
+4337
+4039
+5666
+5472
+2595
+2031
+2871
+270°
+090°
+180°
+20nm
+       MISSED APPROACH 
+At 4.6nm after passing CHE VOR,                                                 
+turn right climb to 4000䯩                                                       
+(2000䯩for PROP) on 135°.                                                        
+Contact CHITOSE APP .
+454
+231
+117
+211
+340
+351
+680
+173
+579
+6211 135°
+001°
+001°
+161°
+161°
+001°
+Remain within 25nm of CHE
+            right turn start at 6000䯩䢰䢢
+CHE to MAP 001°/4.6nm
+KNOTS
+MIN:SEC
+70
+3:57
+90
+3:04
+100
+2:46
+120
+2:18
+140
+1:58
+160
+1:44
+MNM SECT ALT
+     360°-  090°
+   5400    25nm
+MNM SECT ALT
+     270°-  360°
+   6400    25nm
+MNM SECT ALT
+     180°-  270°
+   6400    25nm MNM SECT ALT
+     090°-  180°
+   5400    25nm
+25nm of CHE
+RJCJ / CHITOSE
+ 
+MINIMA 
+CAT
+620 (531)
+620 (531)
+640 (551)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 85 AD elev. 89
+A
+B
+C
+D
+VAR 10˚W (2021)
+CHANGE :VAR.
+(EFF:7 OCT 2021) 9/9/21
+RJCJ AD2.24-IAC-3
+CHITOSE
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+100˚
+280˚
+RADAR  AVAILABLE
+CHITOSE  APP
+ 120.1 - 124.7
+ 362.3 - 305.7
+   CHITOSE  TOWER
+       118.2 - 126.2
+236.8 - 304.5 - 121.7G
+VOR  NR.2  RWY36R
+001°155°
+CHE
+5735
+1598
+MHA3000
+1017
+3000
+1200
+1093
+4429
+1243
+827
+965
+3619
+1680
+44313402
+4246
+4794
+4882 3642
+4337
+4039
+5472
+2595
+2031
+2871
+270°
+090°
+360°
+180°
+20nm
+       MISSED APPROACH 
+At 4.6nm after passing CHE VOR,                                                 
+turn right climb via MKE                                                        
+R-335 to 5000䯩䢮 proceed to                                                      
+MKE VOR/DME and hold.                                                           
+Contact CHITOSE APP .
+454
+340
+319
+351
+680
+579
+6211
+155
+°
+001
+°
+KOMAI
+CHE 16DME
+IAF
+VOR/DME
+MUKAWA
+116.4      MKE
+ÛÝ1ÛÝ(
+CH-111X
+CHE to MAP 001°/4.6nm
+KNOTS
+MIN:SEC
+70
+3:57
+90
+3:04
+100
+2:46
+120
+2:18
+140
+1:58
+160
+1:44
+MNM SECT ALT
+090°-  180°
+5400   25nm
+MNM SECT ALT
+360°-  090°
+5400   25nm
+MNM SECT ALT
+270°-  360°
+6400   25nm
+MNM SECT ALT
+180°-  270°
+6400   25nm
+KOMAI
+CHE 16DME
+RJCJ / CHITOSE
+CHITOSE  VOR/DME
+ÛÝ1ÛÝ(
+CH-116X
+116.9      CHE
+ 
+MINIMA 
+CAT
+620 (531)
+620 (531)
+640 (551)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 85 AD elev. 89
+A
+B
+C
+D
+VAR 10˚W (2021)
+CHANGE :VAR.
+(EFF:7 OCT 2021) 9/9/21
+RJCJ AD2.24-IAC-4
+CHITOSE
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+NOBIG
+   (IF)
+ARAPA
+  (FAF)
+2000
+RDH48
+GP2.7
+°
+ZYT
+002°
+002˚
+2000
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+ILS - LOC
+   110.3     ICB           
+ILS-GP  335.0     
+  CHITOSE  TOWER
+       126.2 - 118.2
+236.8 - 304.5 - 121.7G
+ILS Z RWY 36R
+MM 538
+696
+331
+545
+090°
+180
+°
+340
+351
+680
+211
+272
+319
+231
+173
+579 002
+°
+091°
+271°
+D5.7 ZYT
+TACAN
+CHITOSE
+ZYT         
+CH-29X       
+42°45´52´´N/141°40´25´´E
+RADAR  AVBL
+RJCJ / CHITOSE
+10NM 
+EQPT REQUIRED
+TACAN
+ARAPA(FAF) : 424010.39N / 1414125.85E
+002
+°
+ARAPA(FAF)
+091°
+D13.0 ZYT
+NOBIG(IF)
+D19.0 ZYT
+ABIRA
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+R091
+HDG 002°
+HDG 136°
+188
+Climb to 500FT on HDG 002˚,
+turn right HDG 136° to intercept 
+and proceed via ZYT R091 to
+ABIRA and hold at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+DME to ZYT
+NM to THR00.7
+5.7
+6.4
+13.0
+13.7
+Missed APCH climb gradient MNM 4.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+MINIMA THR elev. 85 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+DA(H) MDA(H)
+ 285
+(200) 750
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+                  
+CAT 䱶
+RVR/
+Circling to RWY18L ONLY.
+CHANGE : Circling restriction.
+(EFF:18 MAY 2023) 18/5/23
+RJCJ AD2.24-IAC-5
+CHITOSE
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+Timing not authorized for defining the MAPt.
+NOBIG
+   (IF)
+ARAPA
+  (FAF)
+2000 3.0°
+ZYT
+MDA
+MAPt
+  MM
+002˚
+2168
+002°
+2000
+ 900
+(811) PAPI and descent angles not coincident.
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+ILS - LOC
+   110.3     ICB           
+ILS-GP  335.0     
+  CHITOSE  TOWER
+       126.2 - 118.2
+236.8 - 304.5 - 121.7G
+LOC RWY36R
+MM 538
+696
+545
+090°
+180
+°
+340
+351
+680
+211
+272
+319
+231
+173
+579 002
+°
+091°
+271°
+D5.7 ZYT
+TACAN
+CHITOSE
+ZYT         
+CH-29X       
+42°45´52´´N/141°40´25´´E
+RADAR  AVBL
+RJCJ / CHITOSE
+10NM 
+EQPT REQUIRED
+TACAN
+ARAPA(FAF) : 424010.39N / 1414125.85E
+002
+°
+ARAPA(FAF)
+091°
+D13.0 ZYT
+NOBIG(IF)
+D19.0 ZYT
+ABIRA
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+R091
+HDG 002°
+HDG 136°
+188
+Climb to 500FT on HDG 002˚,
+turn right HDG 136° to intercept 
+and proceed via ZYT R091 to
+ABIRA and hold at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+DME to / from ZYT
+NM to THR00.6
+5.7
+6.4
+13.0
+13.7
+NM to ZYT
+ALT (3.0˚ APCH Path)
+FAF
+2168
+4
+1933
+3
+1615
+2
+1296
+1
+978 659
+5 MAPt
+-
+0.1
+0.7
+MINIMA THR elev. 85 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+MDA(H) MDA(H)
+ 400
+(311)
+900
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+1000
+1400
+MAPt
+RVR/
+Circling to RWY18L ONLY.CHANGE : SDF added. OBST added(266).
+ 520
+(431)
+SDF
+787
+1.4
+2.1
+266
+(EFF:2 NOV 2023) 2/11/23
+RJCJ AD2.24-IAC-6
+CHITOSE
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RADAR  AVBL
+D19.0 ZYT
+D29.0 ZYT
+NOBIG
+   (IF) ARAPA
+  (FAF)
+2000
+RDH48
+GP2.7
+°
+ZYT
+ ZYT
+R182
+ ZYT
+R157
+ JOMMY
+   (IAF)
+2000
+3000
+5000
+FL140
+Climb to 500FT on HDG 002˚,
+turn right HDG 136° to intercept 
+and proceed via ZYT R091 to
+ABIRA and hold at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+002˚
+002°
+002°
+271°
+D16.0 ZYT
+ARC
+DME to ZYT
+NM to THR00.7
+5.7
+6.4
+13.0
+13.7
+Missed APCH climb gradient MNM 4.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+MINIMA THR elev. 85 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+DA(H) MDA(H)
+ 285
+(200) 750
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+16.0
+16.7
+D16.0 ZYTARC
+CAT 䱶
+RVR/
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+      ILS - LOC
+110.3   ICB           
+ILS - GP  335.0     
+CHITOSE   TOWER
+126.2 - 118.2
+ 236.8 - 304.5 - 121.7G
+ILS Y RWY 36R
+MM
+R091
+4331
+3360
+4429
+827
+090°
+180
+°
+2
+319
+211
+173
+272
+231
+117
+340 351
+579
+680
+454 002
+°
+091°
+271°
+TACAN
+CHITOSE
+ZYT         
+CH-29X       
+42°45´52´´N/141°40´25´´E
+R157 
+R18
+2 
+JOMMY(IAF) 
+RJCJ / CHITOSE
+0NM 
+EQPT REQUIRED
+TACAN
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+091°
+271°
+091°
+HDG 002°
+HDG 136°
+002
+°
+188
+R175
+R091
+ABIRA
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+MHA FL140
+MAX 240KIAS
+D5.7 ZYT
+ARAPA(FAF)
+D13.0 ZYT
+NOBIG(IF)
+ARAPA(FAF) : 424010.39N / 1414125.85E
+002
+°
+D20.0 ZYT
+Circling to RWY18L ONLY.
+CHANGE : Circling restriction.
+(EFF:18 MAY 2023) 18/5/23
+RJCJ AD2.24-IAC-7
+CHITOSE
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RADAR  AVBL
+EQPT REQUIRED
+TACAN
+091°
+HDG 002°
+HDG 136°
+D13.0 ZYTAR
+C
+ARAPA(FAF) : 424010.39N / 1414125.85E
+188
+NOBIG
+   (IF) ARAPA
+  (FAF)
+3000
+RDH48
+GP2.7
+°
+ZYT
+4000
+ABIRA
+ (IAF)
+D13.0 ZYT ARC
+Û
+002°
+2000
+&OLPEWR)7RQ+'*Û
+turn right HDG 136° to intercept 
+and proceed via ZYT R091 to
+ABIRA and hold at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+D19.0 ZYT
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+      ILS - LOC
+110.3   ICB           
+ILS - GP  335.0     
+CHITOSE  TOWER
+126.2 - 118.2
+236.8 - 304.5 - 121.7G
+ILS X RWY 36R
+MM
+696
+538
+545
+090°
+180
+°
+319
+211
+272
+173
+231
+340
+351
+579
+680
+454
+091°
+002
+°
+271°
+TACAN
+CHITOSE
+ZYT         
+CH-29X       
+42°45´52´´N/141°40´25´´E
+10NM 
+RJCJ / CHITOSE
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+D5.7 ZYT
+ARAPA(FAF)
+D13.0 ZYT
+NOBIG(IF)
+R091
+R182
+002
+°
+R173
+ABIRA (IAF)
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+DME to ZYT
+NM to THR00.7
+5.7
+6.4
+13.0
+13.7
+Missed APCH climb gradient MNM 4.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+MINIMA THR elev. 85 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+DA(H) MDA(H)
+ 285
+(200) 750
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+CAT 䱶
+           傍傍傍
+RVR/
+Circling to RWY18L ONLY.
+CHANGE : Circling restriction.
+(EFF:18 MAY 2023) 18/5/23
+RJCJ AD2.24-IAC-8
+CHITOSE
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Timing not authorized for defining the MAPt.
+NOBIG
+   (IF) EKOMU
+  (FAF)
+FL140
+3.0°
+ZYT
+MDA
+MAPt
+002˚
+2252
+002°
+2000
+ 1000
+ (911)
+PAPI and descent angles not coincident.
+Climb to 600FT via ZYT R002,
+turn right HDG 136° to intercept 
+and proceed via ZYT R091 to
+ABIRA and hold at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+002°
+3000
+5000
+271°
+DME to ZYT
+NM to THR00.7
+6.0
+6.7
+13.0
+13.7
+MINIMA THR elev. 85 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+MDA(H) MDA(H)
+ 450(361)
+900
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+1000
+1400
+16.0
+16.7
+RVR/
+           ɹɹ
+2000
+RADAR  AVAILABLE
+RJCJ / CHITOSE
+R175
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+CHITOSE  TACAN
+    CH-29  ZYT           
+42°45´52´´N/141°40´25´´E
+CHITOSE  TOWER
+126.2 - 118.2
+236.8 - 304.5 - 121.7G
+TACAN Z RWY 36R
+R091
+4331
+6211
+3360
+2031
+4429
+827
+090°
+180
+°
+2
+319
+340
+351
+579680
+454
+091°
+271°
+R157 
+360°
+0NM 
+091°
+271°
+D19.0 ZYT
+D29.0 ZYT
+ABIRA
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+JOMMY(IAF) 
+MHA FL140
+MAX 240KIAS
+D16.0 ZYTARC
+HDG 136°
+002°
+D6.0 ZYT
+EKOMU(FAF)
+D13.0 ZYT
+NOBIG(IF)
+R091
+002
+°
+002
+°
+EKOMU(FAF) : 423954.79N / 1414128.16E
+NM to ZYT
+ALT (3.0˚ APCH Path)
+FAF
+2252
+4
+1933
+3
+1615
+2
+1296
+1
+978 659
+5 MAPt
+-
+188
+091°
+D20.0 ZYT
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+ ZYT
+R182
+ ZYT
+R157
+ JOMMY
+   (IAF)
+D16.0 ZYT
+ARC
+MAPt
+ ZYT
+002
+°
+Circling to RWY18L ONLY.CHANGE : SDF added.OBST added(283).
+283
+ 530
+(441)
+SDF
+818
+1.5
+2.2
+(EFF:2 NOV 2023) 2/11/23
+RJCJ AD2.24-IAC-9
+CHITOSE
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+D13.0 ZYTAR
+C
+RADAR  AVAILABLE
+002°
+HDG 136°
+319
+188
+D6.0 ZYT
+EKOMU(FAF)
+D13.0 ZYT
+NOBIG(IF)
+Timing not authorized for defining the MAPt.
+NOBIG
+   (IF)
+EKOMU
+  (FAF)
+4000
+3.0°
+ZYT
+MDA
+MAPt
+Û
+2252
+002°
+2000
+ 1000
+ (911)
+PAPI and descent angles not coincident.
+Climb to 600FT via ZYT R002,
+turn right HDG 136° to intercept 
+and proceed via ZYT R091 to
+ABIRA and hold at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+3000
+ ABIRA
+   (IAF)
+D13.0 ZYT ARC
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+CHITOSE  TACAN
+   
+CH-29  ZYT           
+CHITOSE  TOWER
+126.2 - 118.2
+236.8 - 304.5 - 121.7G
+TACAN Y RWY 36R
+696
+545
+538
+090°
+180
+°
+340
+454
+351
+579
+680
+091°
+002
+°
+271°
+091°
+360°
+RJCJ / CHITOSE
+42°45´52´´N/141°40´25´´E
+ABIRA (IAF)
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+D19.0 ZYT
+R091
+002
+°
+R173
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+10NM 
+NM to ZYT
+AL7Û$3&+Path)
+FAF
+2252
+4
+1933
+3
+1615
+2
+1296
+1
+978 659
+5 MAPt
+-
+EKOMU(FAF) : 423954.79N / 1414128.16E
+DME to ZYT
+NM to THR00.7
+6.0
+6.7
+13.0
+13.7
+MINIMA THR elev. 85 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+MDA(H) MDA(H)
+ 450(361)
+900
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+1000
+1400
+RVR/
+MAPt
+ ZYT
+Circling to RWY18L ONLY.CHANGE : Radial FM ZYT(Proceed FINAL APCH Course).
+283
+ 530
+(441)
+SDF
+818
+1.5
+2.2
+(EFF:7 AUG 2025) 7/8/25
+RJCJ AD2.24-IAC-10
+CHITOSE
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RADAR  AVAILABLE
+091°
+271°
+D19.0 
+ ZYT
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+  CHITOSE  TACAN
+  
+CH-29  ZYT           
+CHITOSE  TOWER
+126.2 - 118.2
+236.8 - 304.5 - 121.7G
+TACAN Z RWY 18LRJCJ / CHITOSE
+43316211
+3360
+4429
+827
+5666
+090°
+180
+°
+2
+340
+579
+351
+680
+454
+271°
+091°
+D2.3 ZYT
+36
+0°
+42°45´52´´N/141°40´25´´E
+0NM 
+D16.0 ZYT
+ARC
+ABIRA
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+JOMMY(IAF) 
+MHA FL140
+MAX 240KIAS
+D20.0 ZYT
+D29.0 ZYT
+188
+MAPt
+D8.0 ZYT
+OLPOL(FAF)
+D13.0 ZYT
+OPANO(IF)
+R091
+NM to ZYT
+ALT (3.0˚ APCH Path)
+FAF
+1943
+5
+670
+6
+988
+7
+1306 1625
+4MAPt
+-
+OLPOL(FAF) : 425348.26N / 1413900.48E
+ZYT
+1500
+2000
+FL140
+ 
+JOMMY
+   (IAF)
+Timing not authorized for defining the MAPt.
+PAPI and descent angles not coincident.
+Climb to 600FT via ZYT R182,
+turn left to intercept and proceed 
+via ZYT R091 to ABIRA and hold
+at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+3000
+3300
+3300
+MDA
+  1100
+ (1011)
+182°
+182° 182°
+271°
+OLPOL
+  (FAF)
+MAPt
+OPANO
+   (IF)
+  ZYT
+  R002
+  ZYT
+  R035
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+DME to ZYT
+NM to THR 0
+2.3 8.0
+5.7
+13.0
+10.7
+MINIMA THR elev. 70 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+MDA(H) MDA(H)
+ 500(430)
+900
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+1000
+1400
+RVR/
+16.0
+13.7
+3.0°
+1943
+D16.0 ZYT ARC
+182
+°
+182
+°
+R010
+R035
+091°
+182
+°
+CHANGE : Circling restriction.
+Circling to RWY36R ONLY.
+(EFF:18 MAY 2023) 18/5/23
+RJCJ AD2.24-IAC-11
+CHITOSE
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RADAR  AVAILABLE
+D19.0
+ ZYT
+ZYT
+1500
+D13.0 ZYT ARC
+ 
+ABIRA
+  (IAF)
+Timing not authorized for defining the MAPt.
+PAPI and descent angles not coincident.
+Climb to 600FT via ZYT R182,
+turn left to intercept and proceed 
+via ZYT R091 to ABIRA and hold
+at 4000FT.
+Contact CHITOSE APP.
+    MISSED APPROACH 
+2100
+2800
+4000
+MDA
+  1100
+ (1011)
+182°
+182°
+OLPOL
+  (FAF)
+MAPt
+OPANO
+    (IF)
+  ZYT
+  R035
+3.0°
+1943
+CHITOSE  APP
+124.7 - 120.1
+362.3 - 305.7
+CHITOSE  TACAN
+   CH-29  ZYT           
+CHITOSE TOWER
+126.2 - 118.2
+236.8 - 304.5 - 121.7G
+TACAN Y RWY 18L
+696
+331
+545
+538
+319
+090°
+180
+°
+1
+340
+351
+579
+680
+091°
+182
+°
+271°
+091°
+RJCJ / CHITOSE
+42°45´52´´N/141°40´25´´E
+0NM 
+D2.3 ZYT
+MAPt
+ABIRA(IAF)
+D13.0 ZYT
+MHA 4000
+MAX 230KIAS
+D13.0 ZYT
+ARC
+D13.0 ZYT
+OPANO(IF)
+D8.0 ZYT
+OLPOL(FAF)
+NM to ZYT
+ALT (3.0˚ APCH Path)
+FAF
+1943
+5
+670
+6
+988
+7
+1306 1625
+4MAPt
+-
+182
+° R035
+R012
+R091
+188182
+°
+OLPOL(FAF) : 425348.26N / 1413900.48E
+VAR 10°W(2022)
+5500
+4700
+MSA 25NM
+090°
+360°
+ZYT 270°
+180°
+5900
+4500
+DME to ZYT
+NM to THR 0
+2.3 8.0
+5.7
+13.0
+10.7
+MINIMA THR elev. 70 AD elev. 89
+VIS
+A
+B
+C
+D
+CAT
+CIRCLING
+MDA(H) MDA(H)
+ 500(430)
+900
+CMV
+620(531)
+660(571)
+1600
+2400
+3200
+1000
+1400
+RVR/
+360
+°
+Circling to RWY36R ONLY.
+CHANGE : Circling restriction.
+(EFF:18 MAY 2023) 18/5/23
+RJCJ AD2.24-IAC-12
+CHITOSE
+

@@ -1,0 +1,643 @@
+=== Page 1 ===
+AIP Japan
+METABARU
+Civil Aviation Bureau,Japan
+RJDM AD2-1
+AD 2 AERODROMES
+RJDM AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJDM - METABARU
+RJDM AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJDM AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 331931N 1302449E
+2 Direction and distance from (city)
+3 Elevation/ Reference temperature 56ft / Nil
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change 8°W(2022)
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-G
+7 Types of traffic permitted(IFR/
+VFR) IFR/VFR
+8 Remarks Nil
+1 AD Administration 2300-0800 SUN-THU EXC HOL and 28 DEC-2 JAN Other time 1HR PN
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office 2300-0800 SUN-THU EXC HOL and 28 DEC-2 JAN Other time 1HR PN
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office 2200 - 0800 SUN-THU EXC HOL and 28 DEC-2 JAN, Other time on request 
+7 ATS 2300-0800 SUN-THU EXC HOL and 28 DEC-2 JAN Other time 1HR PN
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 2 ===
+RJDM AD2-2  AIP Japan
+   METABARU
+Civil Aviation Bureau,Japan
+RJDM AD 2.4 HANDLING SERVICES AND FACILITIES
+RJDM AD 2.5 PASSENGER FACILITIES
+RJDM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJDM AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 3 ===
+AIP Japan
+METABARU
+Civil Aviation Bureau,Japan
+RJDM AD2-3
+RJDM AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJDM AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJDM AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY04/22:
+(Marking) RWY designation, RWY CL, RWY THR, TDZ
+(LGT) REDL, RTHL
+TWY:
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coor dinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 4 ===
+RJDM AD2-4  AIP Japan
+   METABARU
+Civil Aviation Bureau,Japan
+RJDM AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJDM AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJDM AD 2.13 DECLARED DISTANCES
+1 Associated MET Office  METABARU
+2 Hours of service
+MET Office outside hours
+ 2200-0800 SUN-THU EXC HOL and 28 DEC-2 JAN, Other time on 
+ request 
+3 Office responsible for TAF preparation
+Periods of validity
+ Nil
+4 Trend forecast
+Interval of issuance
+ Nil
+5 Briefing/ consultation provided  Nil
+6 Flight documentation
+Language(s) used
+ Ja,En
+7 Charts and other information available 
+for briefing or consultation
+ S,U
+8 Supplementary equipment
+available for providing information
+ Nil
+9 ATS units provided with information  Nil
+10 Additional information(limitation of 
+service, etc.)
+ Nil
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+04
+22
+To be 
+issued
+Later
+660×30
+660×30
+SIWL
+(5000lbs)
+Nil 
+Nil 
+Nil
+Nil
+   Slope of RWY Strip
+ Dimensions(M) Remarks
+71 0 1 2
+Nil 780×60
+780×60
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 5 ===
+AIP Japan
+METABARU
+Civil Aviation Bureau,Japan
+RJDM AD2-5
+RJDM AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJDM AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJDM AD 2.16 HELICOPTER LANDING AREA
+RJDM AD 2.17 ATS AIRSPACE
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 3 4 5 6 7 8 9
+04
+22
+Remarks
+10
+1 ABN/IBN location, characteristics and 
+hours of operation ABN: 331941N/1302442E,White/Green EV6sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT Nil
+3 TWY edge and centerline lighting TWY edge LGT: AVBL
+4 Secondary power supply/ 
+switch-over time Nil
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+METABARU 
+CTR
+Area within a radius of 5NM of METABARU
+ARP(33° 20'N130° 25'E).
+3000 or 
+below
+D
+METABARU
+TOWER
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 6 ===
+RJDM AD2-6  AIP Japan
+   METABARU
+Civil Aviation Bureau,Japan
+RJDM AD 2.18 ATS COMMUNICATION FACILITIES
+RJDM AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJDM AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 34 5
+TWR Metabaru Tower 126.2MHz
+140.5MHz
+139.8MHz
+138.05MHz
+123.1MHz(1)
+121.5MHz(E)
+304.8MHz
+2300 - 0800(2)
+SUN-THU
+Other time
+ 1HR PN
+APP service provided by 
+Fukuoka RADAR: 2300-0800
+(1)Rescue only.
+(2)EXC HOL and 28 DEC-
+2 JAN.
+Type of aid ID Frequency Hours of
+operation
+Position of 
+transmitting 
+antenna
+ coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN MBT 1161MHz
+(CH-74X)
+2300-0800(1)
+SUN-THU
+Other time 
+1HR PN
+331944.30N/
+1302447.33E
+(1)EXC HOL and 28 DEC-2 JAN
+Unusable:
+R360-010 beyond 10NM BLW 6000ft.
+R010-020 beyond 10NM BLW 5000ft.
+R020-040 beyond 10NM BLW 6000ft.
+R040-050 beyond 18NM BLW 6000ft.
+R050-060 beyond 32NM BLW 6000ft.
+R060-070 beyond 34NM BLW 6000ft.
+R070-080 beyond 37NM BLW 6000ft.
+R100-110 beyond 38NM BLW 8000ft.
+R170-180 beyond 39NM BLW 6000ft.
+R200-220 beyond 26NM BLW 7000ft.
+R220-250 beyond 21NM BLW 6000ft.
+R250-260 beyond 21NM BLW 5000ft.
+R260-280 beyond 21NM BLW 6000ft.
+R280-290 beyond 20NM BLW 6000ft.
+R290-300 beyond 25NM BLW 6000ft.
+R300-310 beyond 13NM BLW 5000ft.
+R310-360 beyond 12NM BLW 6000ft.
+Nil
+Nil
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 7 ===
+AIP Japan
+METABARU
+Civil Aviation Bureau,Japan
+RJDM AD2-7
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJDM AD 2.21 NOISE ABATEMENT PROCEDURES
+RJDM AD 2.22 FLIGHT PROCEDURES
+RJDM AD 2.23 ADDITIONAL INFORMATION
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine ACFT
+ with TKOF ALTN
+ AP FILED
+04
+H
+- - - 200’-2400 - 200’-2400
+22 - - - 0’-400 - 0’-500
+OTHER
+04
+H AVBL LDG MINIMA
+22
+Nil
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 8 ===
+RJDM AD2-8  AIP Japan
+   METABARU
+Civil Aviation Bureau,Japan
+RJDM AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (SAGA)
+Instrument Approach Chart (TACAN A)
+(EFF:23 MAR 2023) 23/2/23
+
+
+=== Page 9 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+North
+APRON
+T- 1T- 2T- 3
+H
+MBT
+ABN
+South
+APRON
+RedBlue
+WDI
+T- 6
+Yellow
+TWR
+Runway  Threshold  Lig hts
+Runway  Edge  Lights
+Boundary Lights
+T- 4
+Taxi way Edge  Lights
+凿凷分凳凴凳刄切 凳凷刄刁凶刄刁凿凷
+T- 5
+H
+H
+凾刁刀凹击分切凶击刀凳凾 刂刄刁凸击凾凷 刁凸 刄切刀刉凳刋
+660 m60m
+0 660 m
+48 ft
+凚14.72 m凛
+RWY 04
+56 ft
+凚17.03 m凛
+RWY 22
+60m
+0.4凘
+53 ft
+凚16.08 m凛
+330 m
+0.3凘
+ARP  
+331931N /1302449E
+ɾ
+ELEV 16.08m凚53ft凛ARP
+Designation Call Sign Frequency 凚MHz凛
+TWR Metabaru Tower 121.5
+123.1
+126.2
+138.05
+139.8
+140.5
+304.8
+TWR
+CHANGE : AD chart added.
+(EFF:23 MAR 2023) 23/2/23
+RJDM AD2.24-ADC-1
+METABARU
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJDM / METABARU SID
+ SAGA ONE DEPARTURE
+   RWY04 : Climb RWY HDG to 500FT, turn right , ... 
+   RWY22 : Climb RWY HDG to 400FT, turn left , ... 
+                  ...via MBT R141 to REPOG, via MBT 5.5DME clockwise ARC to intercept and 
+                  proceed via MBT R217 to SGE VOR/DME.
+                  Cross MBT R217/7.1DME at or above 3100FT.
+   Note RWY04 : No turn before DER.
+            RWY22 : No turn before DER.
+䚷䚷䚷䚷䚷䚷䚷䚷䚷䚷    6.3% climb gradient required up to 400FT.
+                            OBST ALT 99FT located at 0.1NM 252° FM end of RWY22.
+CAT H
+REPOG
+R141/D5.5MBT 
+D7.1 MBT
+3100
+500
+400
+RWY04 :See TAKE OFF MINIMA
+110(54)
+110(54)
+141(85)
+SAGA AP 
+METABARU
+1161    MBT
+       CH-74X
+33°19'44"N/130°24'47"E
+--- -䞉䞉䞉
+TACAN
+R217/D12.4 MBT
+R141
+141°R217
+217°
+VOR DME
+114.75 SGE
+CH-94Y
+SAGA
+ÛÝ1ÛÝ(
+0FT
+D5.5 MBT ARC
+22
+04
+RWY
+CHANGE : New PROC.
+(EFF:23 MAR 2023) 23/2/23
+RJDM AD2.24-SID-1
+METABARU
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+A NACAT URABATEM / MDJR
+METABARU  TOWER
+126.2-140.5
+FUKUOKA   RADAR
+119.7
+METABARU  TACAN
+CH-74X
+33°19'44"N/130°24'47"E
+1161 MBT NO RADAR
+VAR 8°W(2022)
+VOR
+EQPT REQUIRED
+TUTMI(FAF):331801.96N/1302658.45E
+4700
+5000
+5200
+MSA 25NM
+MBT
+ 
+MISSED APPROACH
+Turn right, climb to 2400FT via MBT 
+R141 to REPOG and hold.
+Contact METABARU TOWER.
+Timing not authorized for defining the MAPt.
+CAT H
+REPOG
+(IF)
+D5.5 MBT 
+TUTMI
+(FAF)
+D2.5MBT MAPt
+D1.0 MBT
+REPOG
+D5.5MBT
+MHA 2400
+MAX 100KIAS 
+MBT 
+TACAN
+10NM
+(IAF) 
+SGE
+VOR/DME
+MHA 5000
+MAX 100KIAS 
+SAGA AP D8.0MBT
+DME to MBT
+900
+(844)                         MDA
+1.0 2.5 5.5
+TUTMI
+(FAF)
+REPOG
+(IF)MAPt
+SGE
+(IAF)
+MBT
+1700 
+3100 
+D7.1MBT
+3100
+MBT 
+R217/5.5DME
+D5.5MBT
+ARC
+--- -䞉䞉䞉
+       
+R217/D12.4 MBT
+MBT 
+R217/7.1DME
+5000 
+䞉1189
+277
+318
+247
+674
+179
+161
+䞉2474
+䞉3460
+䞉2780
+269
+䞉1646
+NOT TO SCALE
+NOT TO SCALE
+R217
+180°
+270°
+360°
+321°
+321°
+141°
+R152
+D5.5 MBT ARC
+037°(MBT R217)VOR DME
+114.75 SGE
+CH-94Y
+SAGA
+ÛÝ1ÛÝ(
+322°
+142°
+141°
+321°
+R141
+321°
+321°
+037°
+270°
+360°
+090°
+570 (514)
+MINIMA 
+CAT
+1600
+MDA(H) VIS
+CIRCLING
+AD elev. 56
+H
+Circling to SOUTH side of RWY only.
+CHANGE : New PROC.
+(EFF:23 MAR 2023) 23/2/23
+RJDM AD2.24-IAC-1
+METABARU
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+

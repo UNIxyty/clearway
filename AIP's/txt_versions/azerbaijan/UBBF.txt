@@ -1,0 +1,595 @@
+=== Page 1 ===
+AIP
+AZERBAIJANAD 2 UBBF - 1
+04 SEP 2025Sta
+te Civil Aviation Agency AIRAC AMDT 02/25
+AD 2 UBBF
+UBBF AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+UBBF - FUZULI
+UBBF AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 ARP coordinates and site at AD 393527N 0471207E
+in the center of RWY 11/29
+2 Direction and distance from (city) 5 KM (2.7 NM) ESE of Fuzuli
+3 Elevation/Reference temperature Elev: 1247 FT (380 M) / T: Nil
+4 Geoid undulation at AD ELEV PSN 35 FT (11 M)
+5 MAG VAR/Annual change 6° E ( 2020)/0.15° increasing
+6 AD Administration, address, telephone,
+telefax, telex, AFS
+Fuzuli International Airport AZ 1900 Fuzuli Azerbaijan
+7 Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Remarks Nil
+UBBF AD 2.3 OPERATIONAL HOURS
+1 AD Administration MON-FRI 0500-1400 UTC+4 SAT /01-31/12 0600-1100 UTC+4 SUN
+0600-1100 UTC+4 HOL 0600-1100 UTC+4
+2 Customs and immigration H24
+3 Health and sanitation H24
+4 AIS Briefing Office Nil
+5 ATS Reporting Office (ARO) Nil
+6 MET Briefing Office Nil
+7 ATS H24
+8 Fuelling Nil
+9 Handling H24
+10 Security H24
+11 De-icing Nil
+12 Remarks Nil
+UBBF AD 2.4 HANDLING SERVICES ANDFACILITIES
+1 Cargo-handling facilities Nil
+2 Fuel/oil types Fuel : NIL
+Oil : NIL
+3 Fuelling facilities/capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+UBBF AD 2.5 PASSENGER FACILITIES
+1 Hotels Near AD.
+2 Restaurants In the city.
+3 Transportation NIL
+4 Medical facilities First aid at AD. Hospital in the city.
+5 Bank and Post Office In the city.
+6 Tourist Office NIL
+7 Remarks Nil
+UBBF AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 AD category for fire fighting CAT 6
+2 Rescue equipment 2 Fire fighting trucks,T
+el: (+99412) 5048262 (int. 1904, 7495)
+
+=== Page 2 ===
+AD 2 UBBF - 2
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+1 Water tanker truck 6 t
+3 Capability for removal of disabled aircraft Disabled aircraft removal facilitation is available for 4E category aircraft
+4 Remarks Responsible coordinator for removal of disabled aircraft:
+Tel: (99450) 2222301
+E-mail: zaur.gasimov@azal.az
+UBBF AD 2.7 SEASONAL AVAILABILITY
+1 Types of clearing equipment Snow Blower; Snow Ploughs
+2 Clearance priorities 1. RWY 11/29 and associated TWY to Apron
+2. Other TWY and ACFT stands
+3 Remarks Responsible coordinator for removal of disabled aircraft:
+Tel: (99450) 222 23 01
+E-mail: Zaur.Qasimov@azal.az
+UBBF AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface Strength
+Concrete and asphalt PCN 150/F/B/X/T
+2 Taxiway width, surface and strength TWY ID Width (M) Surface Strength
+TWY A 23 M Concrete and
+asphalt
+PCN 150/F/B/X/T
+TWY B 23 M Concrete and
+asphalt
+PCN 150/F/B/X/T
+TWY B1 15 M Concrete and
+asphalt
+PCN 150/F/B/X/T
+TWY B2 15 M Concrete and
+asphalt
+PCN 150/F/B/X/T
+TWY B3 15 M Concrete and
+asphalt
+PCN 150/F/B/X/T
+3 Altimeter checkpoint location and elevation Nil
+4 VOR/INS checkpoints VOR: Nil
+INS: Nil
+5 Remarks Nil
+UBBF AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs, TWY guide
+lines and visual docking/parking guidance
+system of aircraft stands
+Sign boards during taxing at all intersections with TWY and all holding
+PSN.
+Guide line at Apron.
+Nose-in quidance at aircraft stands.
+See UBBF AD 2.24.3-1.
+2 RWY and TWY markings and LGT RWY - 11/29: ID, THR, TDZ, RCL, side strips, aiming point markings.
+Lights: RWY edge, RWY end.
+TWY: Center line markings, holding PSN.
+Lights: TWY edge.
+3 Stop bars NIL
+4 Remarks Nil
+UBBF AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+RWY NR/Area affected Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c d
+29/TKOF Hill 393940.3N Nil
+
+=== Page 3 ===
+AIP
+AZERBAIJAN
+AD 2 UBBF - 3
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+In approach/TKOF areas
+RWY NR/Area affected Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c d
+Elev: 2494 FT (760 M) 0470215.8E
+29/TKOF LLZ29
+Elev: 1264 FT (385 M) 
+Lighted
+393552.4N
+0471059.1E
+Nil
+29/TKOF Hill
+Elev: 2215 FT (675 M)
+393817.4N
+0470303.9E
+Nil
+29/TKOF Hill
+Elev: 1738 FT (530 M)
+393755.5N
+0470405.1E
+Nil
+29/TKOF Hill
+Elev: 1674 FT (510 M)
+393803.5N
+0470451.2E
+Nil
+29/TKOF Hill
+Elev: 1690 FT (515 M)
+393739.5N
+0470445.4E
+Nil
+29/TKOF Hill
+Elev: 1657 FT (505 M)
+393724.5N
+0470529.1E
+Nil
+29/TKOF Hill
+Elev: 1608 FT (490 M)
+393719.8N
+0470616.5E
+Nil
+29/TKOF Hill
+Elev: 1579 FT (481 M)
+393715.7N
+0470628.8E
+Nil
+29/TKOF Hill
+Elev: 1575 FT (480 M)
+393717.9N
+0470645.3E
+Nil
+29/TKOF Hill
+Elev: 1559 FT (475 M)
+393717.7N
+0470649.7E
+Nil
+29/TKOF Hill
+Elev: 1542 FT (470 M)
+393710.2N
+0470653.4E
+Nil
+29/TKOF Hill
+Elev: 1526 FT (465 M)
+393710.3N
+0470719.1E
+Nil
+29/TKOF Hill
+Elev: 1510 FT (460 M)
+393705.3N
+0470720.9E
+Nil
+29/TKOF Hill
+Elev: 1493 FT (455 M)
+393658.5N
+0470720.9E
+Nil
+29/TKOF Hill
+Elev: 1477 FT (450 M)
+393659.7N
+0470740.5E
+Nil
+29/TKOF Hill
+Elev: 1460 FT (445 M)
+393659.6N
+0470746.1E
+Nil
+29/TKOF Hill
+Elev: 1444 FT (440 M)
+393656.7N
+0470815.2E
+Nil
+29/TKOF Hill
+Elev: 1428 FT (435 M)
+393654.7N
+0470817.9E
+Nil
+29/TKOF Hill
+Elev: 1417 FT (432 M)
+393650.6N
+0470850.1E
+Nil
+29/TKOF Hill
+Elev: 1378 FT (420 M)
+393630.8N
+0470944.9E
+Nil
+29/TKOF Hill
+Elev: 1346 FT (410 M)
+393629.0N
+0470950.8E
+Nil
+29/TKOF Hill
+Elev: 1789 FT (545 M)
+393911.9N
+0470317.3E
+Nil
+
+=== Page 4 ===
+AD 2 UBBF - 4
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+In circling area and at AD
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c
+NOTE: Pilots are advised to consult latest NOTAM and AIP SUP on any other impending obstacle. 
+UBBF AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office Fuzuli
+2 Hours of service
+MET Office outside hours
+H09
+3 Office responsible for TAF preparation
+Period of validity
+Baku
+9 HR
+4 Tred forecast
+Interval of issuance
+TR
+0.5 HR
+5 Briefing/consultation provided Personal consultation. Packet of documents.
+6 Flight documentation
+Language(s) used
+Charts, OPMET
+ENG, AZE, RUS
+7 Charts and other information available for
+briefing or consultation
+S, U 85,U 70, U 50, U 30, U 20, P 85, P 70, P 50, P 40, P 30, P 20, SWH, SWM, T.
+MET SAT charts.
+8 Supplementary equipment available for
+providing information
+AWOS, ATIS, AMHS, AFTN
+9 ATS units provided with information Fuzuli TWR, Fuzuli Briefing
+10 Additional information (limitation of ser-
+vice, etc.)
+Area forecasts for low-level flights: GAMET and AIRMET (UBTT Zabrat
+Met office is responsible for preparation and distribution of GAMET and
+AIRMET)
+UBBF AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY
+NR
+TRUE BRG Dimension
+of RWY (M)
+Strength (PCN)
+and surface of RWY
+THR coordinates
+RWY end co-
+ordinates
+THR GUND
+THR elevation and
+highest elevation
+of TDZ of precision
+APP RWY
+1 2 3 4 5 6
+11 116 3000 x 45 PCN 150/F/B/X/T
+Concrete and asphalt
+393548.25N
+0471110.05E
+393505.54N
+0471303.01E
+35 FT (11 M)
+THR 1247 FT (380 M)
+TDZ 1247 FT (380 M)
+29 296 3000 x 45 PCN 150/F/B/X/T
+Concrete and asphalt
+393505.54N
+0471303.01E
+393548.25N
+0471110.05E
+35 FT (11 M)
+THR 1135 FT (346 M)
+TDZ 1163 FT (355 M)
+Slope OF 
+RWY and SWY
+SWY
+dimensions (M)
+CWY
+dimensions (M)
+Strip
+dimensions (M)
+RESA dimen-
+sions (M) OBST free zone
+7 8 9 10 11 12
+60 x 45 240 x 150 3240 x 215 120 x 90 As specified
+in Annex 14
+60 x 45 240 x 150 3240 x 215 120 x 90 As specified
+in Annex 14
+UBBF AD 2.13 DECLARED DISTANCES
+RWY Designator TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+11 3000 3240 3060 3000 Nil
+For Rwy
+11: +0.3%For Rwy
+29: +0.3%
+
+=== Page 5 ===
+AIP
+AZERBAIJAN
+AD 2 UBBF - 5
+18 APR 2024
+State Civil Aviation Agency AIRAC AMDT 01/24
+RWY Designator TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+29 3000 3240 3060 3000 Nil
+UBBF AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+P API
+TDZ,
+LGT
+LEN
+RWY Cen-
+tre Line
+LGT Length,
+spacing,
+colour,
+INTST
+RWY edge
+LGT LEN,
+spacing
+colour
+INTST
+RWY End
+LGT colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+REMARKS
+1 2 3 4 5 6 7 8 9 10
+11 CAT1
+900 M
+LIH
+Green PAPI
+Left
+side/3°
+84 FT
+Nil Nil 3000 M
+spacing 60
+M white,
+last 600
+M yellow
+LIH
+Red Nil Nil
+29 CAT1
+900 M
+LIH
+Green PAPI
+Left
+side/3°
+60 FT
+Nil Nil 3000 M
+spacing 60
+M white,
+last 600
+M yellow
+LIH
+Red Nil Nil
+UBBF AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 ABN/IBN location, characteristics and
+hours of operation
+Nil
+2 LDI location and LGT
+Anamometer location and LGT
+LDI: Nil
+Anemometer: Nil
+3 TWY adge and centre line lighting Taxiway Edge: TWY A
+4 Secondary power supply/switch-over time Secondary power supply to all lighting at AD. Switch-over time: 15 SEC
+5 Remarks Nil
+UBBF AD 2.16 HELICOPTER LANDING AREA
+1 Coordinates TLOF or THR of F ATO
+Geoid undulation
+Nil
+
+=== Page 6 ===
+AD 2 UBBF - 6
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+2 TLOF and/or F ATO elevation M/FT Nil
+3 TLOF and F ATO area dimensions, surface,
+strength, marking
+Nil
+4 True BRG of F ATO NIL
+5 Declared distance available Nil
+6 APP and F ATO lighting Nil
+7 Remarks Take off and landing of helicopters is cleared in any part of RWY 11/29
+UBBF AD 2.17 ATS AIRSPACE
+1 Designation and lateral limits FUZULI TMA
+Area bounded by lines joining points 402000N/0454900E;
+402000N/0474800E; 394542N/0481142E;  393748N/0480448E then along
+  Azerbaijan-Iran (East) up to  385200N/0463158E then along  Azerbai-
+jan-Armenia (East) up to point of origin.
+2 Vertical limits GND to FL195
+3 Airspace classification Class C
+4 ATS unit call sign
+Language(s)
+Fuzuli Approach, English
+5 Transition altitude 10000 FT MSL
+6 Hours of abblicability Nil
+7 Remarks Nil
+UBBF AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of operation Remarks
+1 2 3 4 5
+APP Fuzuli Approach 128.300 MHZ
+135.500 MHZ
+H24 ENG
+ATIS Fuzuli ATIS 120.850 MHZ H24 ENG
+TWR Fuzuli Tower 130.250 MHZ
+131.900 MHZ H24 ENG
+UBBF AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+MAG VAR
+CAT of ILS/MLS
+ID Frequency Hours of
+operation
+Site of transmitting
+antenna coordinates
+Elevation of
+DME transmit-
+ting antenna
+Remarks
+1 2 3 4 5 6 7
+VOR/DME
+(06° E/2020)
+FZL 112.80 MHZ
+CH 75X
+H24 393511.8N
+0471227.3E
+1200 FT (366 M) Coverage 200 NM
+LLZ
+ ILS RWY 11
+IFL 108.30 MHZ H24 393501.4N
+0471313.9E
+- 110° MAG, 296M
+from THR 29
+GP 334.10 MHZ H24 393539.1N
+0471123.2E
+- 3°, RDH 50 FT
+DME IFL CH 20X H24 393539.1N
+0471123.2E
+1300 FT (396 M) Coverage 25 NM
+LLZ
+ ILS RWY 29
+IFZ 108.90 MHZ H24 393552.4N
+0471059.1E
+- 290° MAG, 296M
+from THR 11
+GP 329.30 MHZ H24 393506.0N
+0471250.1E
+- 3°, RDH 50 FT
+DME IFZ CH 26X H24 393506.0N
+0471250.1E
+1200 FT (366 M) Coverage 25 NM
+
+=== Page 7 ===
+AIP
+AZERBAIJAN
+AD 2 UBBF - 7
+18 APR 2024
+State Civil Aviation Agency AIRAC AMDT 01/24
+UBBF AD 2.20 LOCAL TRAFFIC REGULATIONS
+1 RUN-UP PROCEDURE
+1.1 Run-up and full engine thrust are only permitted on a few numbers of stands or at specially assigned places.
+1.2 Permission for engine run-up shall be requested from “Fuzuli Tower” on FREQ 131.900 MHz. Stand number and intended engine power
+thrust should be indicated.
+2 PUSH BACK AND TOW PROCEDURES
+2.1 Clearance for push back or tow may only be requested if airplane is ready to carry out the maneuver.
+2.2 The clearance for push back or tow shall be requested from “Fuzuli Tower” on FREQ 131.900 MHz.
+2.3 Engines can be started before, during or after push back or tow as specified in instructions of “Fuzuli Tower”. The interphone or hand signal
+system shall be used for communication between signalman and crew.
+3 START – UP PROCEDURE
+3.1 All types of flights shall request clearance for engine start-up from “Fuzuli Tower” on FREQ 131.900 MHz.
+3.2 The parking position, QNH value and designator of latest received ATIS broadcast shall be reported in the initial call.
+4 TAXI PROCEDURES
+4.1 Unless otherwise instructed by “Fuzuli Tower”, the taxi routes published on chart UBBF AD 2.24.3-1 shall be followed.
+4.2 While taxiing, the crew shall observe the area in front of them and take measures to avoid collisions with aircraft, motor vehicles and other
+obstacles.
+4.3 Movement of aircraft on the apron is subject to prior permission from “Fuzuli Tower”. However, “Fuzuli Tower” only provides necessary
+information to maintain an orderly flow of traffic.
+4.4 The aircraft shall not enter or cross the runway without clearance from the “Fuzuli Tower”.
+4.5 Taxiing from the holding position to line-up and take-off shall be performed only after clearance given by “Fuzuli Tower”.
+5 PARKING POSITION FOR HELICOPTERS
+Helicopters are always directed to the parking positions by signalman.
+6 APRON, TAXIING IN WINTER CONDITIONS
+Taxiways in apron area are not equipped with lights indicating median strip. The taxing lines may be invisible because of snow.
+7 HELICOPTER FLIGHTS RESTRICTIONS
+Irregular public air transportation by helicopters is allowed only after obtainment of preliminary permission from Fuzuli airport administration.
+8 OTHER INFORMATION
+Isolated aircraft parking position is available and located at aircraft stand #8.
+UBBF AD 2.21 NOISE ABATEMENT PROCEDURE
+There are no special noise abatement procedures established.
+Aircraft types ANTONOV 24, ANTONOV 26 and TUPOLEV 134 are not allowed to land and take off at Fuzuli International Airport due to
+noise abatement, except for ambulance, humanitar, emergency, search and rescue flights.
+UBBF AD 2.22 FLIGHT PROCEDURES
+Procedures to be followed by arriving or departing aircraft are contained on the SID charts UBBF AD 2.24.7-3, UBBF AD 2.24.7-7 and STAR
+chart UBBF AD 2.24.9-3.
+UBBF AD 2.23 ADDITIONAL INFORMATION
+NIL
+UBBF AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome Chart UBBF AD 2.24.1-1
+Aerodrome Ground Move-
+ment And Aircraft Parking Chart UBBF AD 2.24.3-1
+Aerodrome Obstacle Chart ICAO RWY 11/29 UBBF AD 2.24.4-1
+
+=== Page 8 ===
+AD 2 UBBF - 8
+18 APR 2024
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/24 State Civil Aviation Agency
+Standard Departure Chart Instrument (SID) RWY 11 UBBF AD 2.24.7-3
+Standard Departure Chart Instrument (SID) RWY 29 UBBF AD 2.24.7-7
+Standard Arrival Chart Instrument (STAR) RWY 11/29 UBBF AD 2.24.9-3
+Instrument Approach Chart (ILS) RWY 11 UBBF AD 2.24.10-1
+Instrument Approach Chart (ILS) RWY 29 UBBF AD 2.24.10-3

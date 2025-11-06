@@ -1,0 +1,1396 @@
+=== Page 1 ===
+AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD2-1
+AD 2 AERODROMES
+RJFZ AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJFZ - TSUIKI
+RJFZ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJFZ AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 334106N/1310225E
+2 Direction and distance from (city) 9.7NM NW of NAKATSU
+3 Elevation/ Reference 
+temperature
+28ft / Nil
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address, tele-
+phone, telefax, telex, AFS,     e-
+mail and/or Web-site addresses
+JSDF-A
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7A T S H 2 4
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:6 OCT 2022) 8/9/22
+
+
+=== Page 2 ===
+RJFZ AD2-2 AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD 2.4 HANDLING SERVICES AND FACILITIES
+RJFZ AD 2.5 PASSENGER FACILITIES
+RJFZ AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJFZ AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1, JET A-1 PLUS
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:12 OCT 2017) 12/10/17
+
+
+=== Page 3 ===
+AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD2-3
+RJFZ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJFZ AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJFZ AD 2.10 AERODROME OBSTACLES
+RJFZ AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6R e m a r k s N i l
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:
+(LGT): RTHL, TKOF aiming LGT
+TWY:
+(LGT): TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+1 Associated MET Office TSUIKI
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Ja, En
+7 Charts and other information available 
+for briefing or consultation
+S, U, P
+8 Supplementary equipment
+available for providing information
+Doppler Radar for airport weather(see below figure)
+9 ATS units provided with information Nil 
+10 Additional information
+(limitation of service, etc.)
+Nil
+(EFF:14 MAR 2013) →                        7/3/13
+
+
+=== Page 4 ===
+RJFZ AD2-4 AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJFZ AD 2.13 DECLARED DISTANCES
+Designations
+RWY
+ NR
+TRUE BRG Dimensions of
+RWY(M)
+Strength(PCN)and
+surface of RWY
+THR coordinates
+THR geoid 
+undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+1 2 345 6
+07
+25
+To be issued
+Later
+2400×45
+2400×45
+SW25000kg
+ (55000lbs)
+DW44000kg
+(96800lbs)
+Concrete
+334053.68N
+1310142.93E
+107.5ft
+334120.48N
+1310310.46E
+107.4ft
+THR ELEV:52.0ft
+THR ELEV:19.0ft
+   Slope of RWY 
+Strip
+ Dimensions(M)
+Remarks
+71 0 1 2
+Nil 2900×300
+2900×300
+High terrain in APRX 1000ft within 3NM W of field.
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+Airspace for the advisory service concerning low level wind shear
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD  ELEV  LEVEL
+07 25
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+Detection Area for Ariving Area
+Detection Area for Departing Area
+1NM
+(EFF:6 OCT 2022) 8/9/22
+
+
+=== Page 5 ===
+AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD2-5
+RJFZ AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJFZ AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJFZ AD 2.16 HELICOPTER LANDING AREA
+RJFZ AD 2.17 ATS AIRSPACE
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 3 4 5 6 78 9
+07
+PAPI
+3.0°
+380m
+51.6ft
+Nil
+25
+PAPI
+2.5°
+396m
+51.7ft
+Nil
+Remarks
+10
+RWY THR ID LGT
+1 ABN/IBN location, characteris-
+tics and hours of operation ABN: 334036N/1310219E, White/Green EV5sec, HO
+2 LDI location and LGT
+Anemometer location and LGT
+LDI: LGTD
+3 TWY edge and centerline lighting TWY edge LGT: AVBL
+4 Secondary power supply/    
+switch-over time
+Nil
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+TSUIKI
+CTR
+Area within a radius of 5NM of TSUIKI ARP, in the north 
+side of a south parallel line at distance of 4NM from a 
+line connecting DGC VORTAC and 340446N/1320850E.
+---------
+4000
+D TSUIKI TWR
+EnArea within a radius of 5NM of TSUIKI ARP , in the south 
+side of a south parallel line at distance of 4NM from a 
+line connecting DGC VORTAC and 340446N/1320850E.
+---------
+6000
+TSUIKI
+ACA
+See ATTACHED CHART E TSUIKI APP
+En
+(EFF:6 OCT 2022) 8/9/22
+
+
+=== Page 6 ===
+RJFZ AD2-6 AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+築城進入管制区
+Tsuiki Approach Control Area
+6000ɾ
+FL160
+9000 13000
+FL160
+10000
+FL160 10000
+12000
+(EXC12000)
+FL160
+12000
+FL160
+12000
+SWE
+10000
+(EXC10000)
+8000
+(EXC8000)
+AHT
+12NM15NM
+25NM
+15NM
+FL160
+FL150
+(1)
+(2)(3)
+(5) (6)
+(25)
+(30)
+(31) (32)
+(26)
+(21)
+(8)
+(9) (10)(22)
+(23)
+(27)
+(34)
+(33)
+(28)
+(29)(16)
+(17)
+(14)
+(18)(15)
+(24)
+(20)
+(19)
+(11)(12)
+(13)
+(36)
+(35)
+(7)
+(4)
+Point list
+(1) 335905N1305538E
+(2) 335327N1305356E
+(3) 335111N1304558E
+(4) 335247N1305140E
+(5) 334228N1304858E
+(6) 334351N1305445E
+(7) 332704N1310406E
+(8) 332353N1305116E
+(9) 330533N1310128E
+(10) 330551N1310645E
+(11) 341034N1310212E
+(12) 340917N1305536E
+(13) 340133N1305404E
+(14) 340827N1321357E
+(15) 341119N1314357E
+(16) 335612N1314741E
+(17) 335858N1315956E
+(18) 341011N1315557E
+(19) 341158N1310926E
+(20) 334829N1311425E
+(21) 332856N1311143E
+(22) 330555N1310757E
+(23) 330842N1311415E
+(24) 341341N1311816E
+(25) 334458N1305945E
+(26) 332944N1304800E
+(27) 331835N1313643E
+(28) 333820N1313835E
+(29) 334923N1315428E
+(30) 334047N1304149E
+(31) 333611N1304424E
+(32) 333437N1305145E
+(33) 333112N1313754E
+(34) 332421N1313716E
+(35) 332312N1313937E
+(36) 334854N1315512E
+(EFF:31 MAR 2016) 4/2/16
+
+
+=== Page 7 ===
+AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD2-7
+築城ターミナルコントロールエリア
+Tsuiki Terminal Control Area
+10000
+5000
+10000
+5001
+10000
+7000
+10000
+9000
+9000
+8000
+10000
+8000
+10000
+8000
+10000
+6000
+10000
+6001
+10000
+1500
+10000
+5000
+10000
+3000
+10000
+3001
+10000
+3001
+10000
+3000
+6000
+3500
+7000
+4500
+6000
+4500
+10000
+4000
+10000
+4500
+10000
+4000
+7000
+5000
+9000
+600010000
+2000
+095˃
+360
+˃
+010
+˃
+040
+˃
+055
+˃050
+˃
+225
+˃
+250˃
+265˃
+280˃
+110˃
+135
+˃
+181
+˃
+165
+˃
+14NM
+20NM
+30NM30NM
+27NM
+22NM
+23NM
+18NM
+18NM 18NM
+13NM
+9NM
+16NM
+25NM
+14NM
+5NM
+UMAKA 074˚ T
+OCT
+SWE
+UBE
+DGC
+UMAKA
+FMT
+IWT
+TSUIKI
+CTR
+Kitakyushu CTR
+TQT
+HOFU
+CTR
+OZUKIOZUKI
+CTRCTR
+OZUKI
+CTR
+Y amaguchi-Ube
+Information Zone
+ᶃ
+ᶄ
+ᶅ
+ᶆ
+ᶇ
+ᶃ
+10000
+3500ᶄ
+6000
+4500
+ᶅ
+6000
+3000
+ᶆ
+10000
+3500ᶇ
+DGC155
+˃
+T
+DGC104
+˃T
+(EFF:28 APR 2016) 28/4/16
+
+
+=== Page 8 ===
+RJFZ AD2-8 AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP/ASR Tsuiki Approach
+/Tsuiki Radar
+321.2MHz
+261.2MHz
+315.9MHz
+119.225MHz
+120.1MHz
+121.075MHz
+121.5MHz(E)
+243.0MHz(E)
+H24
+DEP Tsuiki Departure 362.3MHz
+120.1MHz
+121.5MHz(E)
+243.0MHz(E)
+H24
+TCA Tsuiki TCA 127.95MHz 2300 - 1100
+SUN - THU
+(EXC HOL)
+TWR Tsuiki Tower 236.8MHz
+126.2MHz
+318.8MHz
+247.0MHz(1)(2)
+138.05MHz (1)
+123.1MHz(1)(2)
+243.0MHz(E)
+121.5MHz(E)
+H24 (1)For rescue only.
+(2)AVBL on request
+GCA-ASR
+  -PAR
+Tsuiki Radar 335.6MHz
+270.8MHz
+134.1MHz
+125.3MHz
+304.6MHz
+310.8MHz
+323.8MHz
+300.7MHz
+315.0MHz
+243.0MHz(E)
+121.5MHz(E)
+H24 ASR, PAR RWY 07/25
+Glide path 3.0° (RWY 07)
+2.5° (RWY 25)
+GND Tsuiki Ground 275.8MHz
+126.2MHz
+H24
+(EFF:17 JUN 2021) 17/6/21
+
+
+=== Page 9 ===
+AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD2-9
+RJFZ AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJFZ AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Type of aid ID Frequency Hours of
+operation
+Position of 
+transmitting
+ antenna 
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+123 4 5 6 7
+TACAN TQT 1002MHz
+(CH-41X)
+H24 334117.62N/
+1310208.97E
+81ft Unusable area:
+070°-080° beyond 38NM BLW 4,000ft.
+170°-180° beyond 33NM BLW 8,000ft.
+180°-190° beyond 26NM BLW 8,000ft.
+190°-210° beyond 21NM BLW 7,000ft.
+210°-220° beyond 25NM BLW 7,000ft.
+220°-230° beyond 25NM BLW 6,000ft.
+230°-240° beyond 28NM BLW 6,000ft.
+260°-270° beyond 24NM BLW 6,000ft.
+270°-280° beyond 28NM BLW 5,000ft.
+280°-310° beyond 16NM BLW 4,000ft.
+310°-320° beyond 14NM BLW 4,000ft.
+320°-330° beyond 16NM BLW 4,000ft.
+330°-350° beyond 24NM BLW 4,000ft.
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+10
+Nil
+(EFF:6 OCT 2022) 8/9/22
+
+
+=== Page 10 ===
+RJFZ AD2-10 AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD 2.21 NOISE ABATEMENT PROCEDURES
+RJFZ AD 2.22 FLIGHT PROCEDURES
+ 
+Nil
+1. TAKE OFF MINIMA
+RWY
+REDL AVBL REDL OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF ALTN AP FILED
+07
+200' - 1000m 200' - 1000m - 200' - 1000m
+25
+OTHER
+07
+AVBL LDG MINIMA
+25
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 07 PAR RWY 25
+MINIMA THR elev. 52 AD elev. 28 MINIMA THR elev. 19 AD elev. 28
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/CMV MDA(H) VIS DA(H) RVR/CMV MDA(H) VIS
+A
+252(200) 1000
+520(492)
+1600
+A
+219(200) 1000
+520(492)
+1600
+B 660(632) B 660(632)
+C 760(732) 2400 C 760(732) 2400
+D 810(782) 3200 D 810(782) 3200
+ASR RWY 25
+MINIMA THR elev. 19 AD elev. 28
+CAT
+CIRCLING
+MDA(H) RVR/CMV MDA(H) VIS
+A
+400(381)
+1500
+520(492)
+1600
+B 660(632)
+C 1800 760(732) 2400
+D 2000 810(782) 3200
+3. Lost communication procedures for arrival aircraft under radar navigational guidance
+ If radio communications with TSUIKI Radar are lost for 1 minute in the pattern or 5 seconds (PAR)/15 seconds (ASR) on
+final approach, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact TSUIKI Radar/Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, 
+(1) RWY07 in use;
+proceed to SANKO IAF at last assigned altitude or 6000ft whichever is higher, and execute TACAN RWY07
+            approach.
+(2) RWY25 in use;
+proceed to SANKO IAF at last assigned altitude or 6000ft whichever is higher, and execute TACAN Z RWY25
+            approach.
+(II) Procedures other than above will be issued when situation required.
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 11 ===
+AIP Japan
+TSUIKI
+Civil Aviation Bureau,Japan
+RJFZ AD2-11
+RJFZ AD 2.23 ADDITIONAL INFORMATION
+RJFZ AD 2.24 CHARTS RELATED TO AN AERODROME
+4. Automated Radar Terminal System(ARTS)
+ 築城進入管制所の指示のも と に , 当該進入管制区を飛行する
+航空機は , モー ド A/3 の二次レーダー個別コー ド 及びモー ド
+C による応答を指示される。
+  二次レーダー個別コー ド を搭載し ていない航空機が当該
+コー ド による応答を指示された場合は , 管制官に対し , その
+旨通報する こ と。
+Aircraft flying under control of Tsuiki approach control in 
+the approach control area will be instructed to reply with 
+discrete code on Mode A/3 and Mode C. 
+If an aircraft with non-discrete code capability be 
+instructed to reply with the discrete code, it shall report a 
+controller accordingly.
+Nil
+Standard Departure Chart - Instrument-1
+Standard Departure Chart - Instrument-2
+Standard Departure Chart - Instrument-3
+Standard Arrival Chart - Instrument
+Instrument Approach Chart (TACAN Z RWY25)
+Instrument Approach Chart (TACAN Y RWY25)
+Instrument Approach Chart (TACAN X RWY25)
+Instrument Approach Chart (TACAN RWY07)
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT 
+RJFZ / TSUIKI SID and TRANSITION
+MISHIMA FIVE DEPARTURE
+RWY 07 : Turn right....
+RWY 25 : Turn left within 3NM....
+    ....Climb via TQT R150 to TQT 15.0DME,then turn left via TQT 15.0DME
+counter clockwise ARC to TQT R092,then via MIT R180 to MIT TACAN.
+Maintain FL150 between MIT R180/60.0DME and MINNE.
+Cross MIT R180/14.0DME at assigned or specified altitude.
+Note : Minimum rate of climb
+JET....400FT/NM until passing 2800FT(RWY25)
+PROP ....340FT/NM until passing 2800FT(RWY25)
+HIMESHIMA FOUR DEPARTURE
+RWY 07 : Turn right....
+RWY 25 : Turn left within 3NM....
+....Climb via TQT R092 until HIMEH(TQT R092/29.1DME), then  
+proceed as directed by ATC.
+Cross HIMEH at assigned or specified altitude.
+Note : Minimum rate of climb
+JET....400FT/NM until passing 2800FT(RWY25)
+PROP ....340FT/NM until passing 2800FT(RWY25)
+MUSASHI TRANSITION
+After HIMEH, via TFE R346 to TFE VOR/DME.
+KUGA SIX DEPARTURE
+RWY 07 : Turn right....
+RWY 25 : Turn left within 3NM....
+....Climb via TQT R150 until TQT R150/15.0DME, turn left to intercept
+and proceed via IWT R240 (MRA5000FT) to IWT TACAN.
+Cross HIMEH(IWT R240/33.6DME) at assigned or specified altitude.
+Note : Minimum rate of climb
+JET....400FT/NM until passing 2800FT(RWY25)
+PROP ....340FT/NM until passing 2800FT(RWY25)
+HIMESHIMA REVERSAL THREE DEPARTURE
+RWY 07 : Turn right....
+RWY 25 : Turn left within 3NM....
+....Climb via TQT R092 within 20NM of TQT TACAN, turn right reverse 
+                  course to TQT TACAN, then proceed as directed by ATC.
+Cross TQT TACAN at assigned or specified altitude.
+Note : Minimum rate of climb
+JET....400FT/NM until passing 2800FT(RWY25)
+PROP ....340FT/NM until passing 2800FT(RWY25)
+CHANGE : PROC renamed(MISHIMA FIVE DEPARTURE). PROC course(MISHIMA FIVE DEPARTURE).
+(EFF:30 NOV 2023) 2/11/23
+RJFZ AD2.24-SID-1
+TSUIKI
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJFZ / TSUIKI SID and TRANSITION
+NAKATSU REVERSAL TWO DEPARTURE
+傍 RWY 07 :傍 Turn right....
+傍 RWY 25 :傍 Turn left within 3NM....
+....Climb via TQT R150 within 20NM of TQT TACAN, turn(direction
+specified by ATC), reverse course to TQT TACAN, then proceed as 
+directed by ATC.
+Cross TQT TACAN at assigned or specified altitude. (MCA at TQT
+TACAN 6000FT)
+傍 Note :傍 Minimum rate of climb
+JET....400FT/NM until passing 2800FT(RWY25)
+PROP ....340FT/NM until passing 2800FT(RWY25)
+KANMO TRANSITION
+傍 After TQT TACAN, proceed via TQT R351to KANMO(TQT R351/8.6DME),
+then proceed as directed by ATC.
+MINNE TRANSITION
+傍 After TQT TACAN, proceed via TQT R026 to MINNE, then via MIT R180 to
+MIT TACAN.
+OGORI TRANSITION
+傍 After TQT TACAN, proceed via TQT R239 to OGORI(TQT R239/39.1DME),
+then proceed as directed by ATC.
+   Cross TQT 15.0DME at or above 7000FT.
+CHANGE : Course FM MINNE to MIT(MINNE TRANSITION).
+(EFF:30 NOV 2023) 2/11/23
+RJFZ AD2.24-SID-2
+TSUIKI
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+NOITISNART dna DISIKIUST / ZFJR
+MISHIMA
+TACAN(MIT)
+At assigned or
+specified for
+MISHIMA FIVE DEP.
+FL150 for MISHIMA FIVE DEP.
+MISHIMA FIVE DEP.
+MINNE TRANSITION
+KANMO TRANSITION
+assigned or
+specified
+IWT
+MRA 5000
+assigned or
+specified
+to KUGA
+    TACAN(IWT)
+HIMESHIMA
+FOUR DEP.
+OGORI TRANSITION
+TSUIKI 
+TACAN(TQT)
+NAKATSUREVERSALTWO DEP.
+HIMESHIMA
+REVERSAL
+THREE DEP.
+KUGA SIX DEP.
+HIMEH
+D14.̌MIT
+D35.0 MIT
+D60.0 MIT
+MINNE
+360
+°
+360
+°
+351
+°
+D32.0 TQT
+026
+°
+KANMO
+092°
+FL150
+7000
+20NM
+060
+°
+166
+°
+D15.0 TQT
+239 °
+OGORI
+150°
+20NM
+150°D15.0 TQT
+3NM
+MUSASHI TRANSITION
+MUSASHI
+VOR/DME(TFE)
+R180/D35.0 MIT
+R026/D32.0 TQT
+R351/D8.6 TQT
+D15.0 TQT ARC
+D15.0 TQT
+R239/D39.1 TQT
+R092/D29.1 TQT
+R240/D33.6 IWT
+R346/D15.9 TFE
+CHANGE : PROC renamed(MISHIMA FIVE DEPARTURE). PROC course(MISHIMA FIVE DEPARTURE, MINNE TRANSITION). 
+(EFF:30 NOV 2023) 2/11/23
+RJFZ AD2.24-SID-3
+TSUIKI
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+HIMEH ARRIVAL
+HIMEH
+SANKO
+KUGA
+TACAN(IWT)
+TQT
+R131
+R240
+R240
+R098
+6000
+HIMEH ARRIVAL
+   From over HIMEH (IWT R240/33.6DME), proceed via IWT R240,
+then turn left, proceed via TQT 24.0DME clockwise ARC to TQT R131,
+then turn right proceed via TQT R131 to SANKO (TQT R131/14.1DME).
+   Cross SANKO at or above 6000FT.
+RJFZ / TSUIKI STAR
+R092/D29.1 TQT
+R240/D33.6 IWT
+D24.0 TQT ARC
+R131/D14.1 TQT
+CHANGE : ALT restriction at SANKO.
+(EFF:16 MAY 2024) 18/4/24
+RJFZ AD2.24-STAR-1
+TSUIKI
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2266
+39363085
+2747
+3111
+2335
+180˚
+090˚
+360˚
+266˚
+R086
+R131
+311˚
+131˚
+D21.1 TQT
+MHA 6000
+SANKO(IAF)
+R131/D14.1 TQT
+131˚
+131˚
+311˚
+D12.0 TQT  ARC
+MAPt
+6000
+NM to THR          0.6 5.2 11.29.2
+TQT
+R086
+D10.0 TQT
+VDP
+TQT
+R131
+TQT
+SANKO 
+  (IAF)
+MDA
+266˚
+52YWR Z NACATIKIUST / ZFJR
+REWOT IKIUSTPPA IKIUST
+126.2 – 236.8–318.8
+20NM
+MAPt
+D1.4 TQT
+FAF
+D6.0 TQT
+D10.0 TQT
+EMERG SAFE ALT 100NM 8500
+D12.0 TQT ARC
+120.1 – 321.2
+TSUIKI  TACAN
+TQT1002
+CH-41X 
+ÛÝ1ÛÝ(
+090˚ 270˚
+360˚
+180˚
+TQT
+29005000
+42005900
+MSA 25NM
+VAR 8˚W (2022)
+MISSED APPROACH
+At 1.4DME prior to TQT TACAN,
+climb to 6000FT, and turn left to
+intercept and proceed via
+TQT R131 to SANKO
+and hold.
+TQT
+FAF
+2000
+1300
+ 
+MINIMA 
+CAT
+520 (492)
+660 (632)
+760 (732)
+1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 19 AD elev. 28
+A
+B
+C
+D
+440 (421)
+1.6
+DME to TQT 1.4 2.4 6.0 10.0 12.0
+2.5˚
+CHANGE : ALT restrection at SANKO. MHA. Description of RADAR Service.
+810 (782)
+RADAR AVBL
+Contact TSUIKI APP.
+(EFF:16 MAY 2024) 18/4/24
+RJFZ AD2.24-IAC-1
+TSUIKI
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2266
+39363085
+2747
+3111
+2335
+180˚
+090˚
+360˚
+266˚
+R086
+R131
+311˚
+131˚
+086˚
+266˚
+D21.1 TQT
+D10.0 TQT
+D23.1 TQT
+MHA 6000
+MHA 4000
+SANKO
+D14.1 TQT
+131˚
+131˚
+266˚
+1300
+2000MAPt
+40008000
+FAF
+VDP
+D10.0 TQT
+TQT
+MDA
+USSAH 
+  (IAF)
+TQT
+52YWR Y  NACATIKIUST / ZFJR
+REWOT IKIUSTPPA IKIUST
+126.2 – 236.8–318.8 RADAR AVBL120.1 – 321.2
+TSUIKI  TACAN
+TQT1002
+CH-41X 
+ÛÝ1ÛÝ(
+20NM
+MAPt
+D1.4 TQT
+FAF
+D6.0 TQT
+EMERG SAFE ALT 100NM 8500
+090˚ 270˚
+360˚
+180˚
+TQT
+29005000
+42005900
+MSA 25NM
+VAR 8˚W (2022)
+MISSED APPROACH
+At 1.4DME prior to TQT TACAN,
+climb to 6000FT, and turn left to
+intercept and proceed via
+TQT R131 to SANKO
+and hold.
+2.5˚
+ 
+MINIMA 
+CAT
+520 (492)
+660 (632)
+810 (782)
+1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 19 AD elev. 28
+A
+B
+C
+D
+440 (421)
+DME to TQT 1.4 2.4 6.0 16.110.0
+NM to THR 0.6 1.6 5.2 15.39.2
+USSAH(IAF)
+R086/D16.1 TQT
+CHANGE : MHA. Description of RADAR Service.
+760 (732)
+Contact TSUIKI APP.
+(EFF:16 MAY 2024) 18/4/24
+RJFZ AD2.24-IAC-2
+TSUIKI
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2266
+39363085
+2747
+3111
+2335
+D20.0 TQT ARC
+180˚
+090˚
+360˚
+270˚
+311˚
+131˚
+241˚
+061˚
+266˚
+131˚
+131˚
+266˚
+241˚
+R086
+R061
+R131
+090˚ 270˚
+360˚
+180˚
+MSA 25NM
+TQT
+52YWR X NACATIKIUST / ZFJR
+TSUIKI APP
+120.1 – 321.2
+TSUIKI TOWER
+126.2 – 236.8–318.8
+MISSED APPROACH
+At 1.4DME prior to TQT TACAN,
+climb to 6000FT, and turn left to
+intercept and proceed via
+TQT R131 to SANKO
+and hold.
+D20.0 TQT
+ ARC
+2000
+MAPt
+6000
+DME to TQT 
+FAF
+D10.0 TQT
+VDP
+TQT
+R086
+TQT
+R061
+20NM
+TQT
+D21.1 TQT
+D33.1525
+MHA 6000
+MDA
+MHA 6000
+D10.0 TQT
+EMERG SAFE ALT 100NM 8500
+SANKO
+D14.1 TQT
+SARBA(IAF)
+R061/D26.1 TQT
+SARBA 
+  (IAF)
+FAF
+D6.0 TQT
+TSUIKI  TACAN
+TQT1002
+CH-41X 
+VAR 8˚W (2022)
+ÛÝ1ÛÝ(
+MAPt
+1300
+2.5˚
+ 
+MINIMA 
+CAT
+520 (492)
+660 (632)
+810 (782)
+1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 19 AD elev. 28
+A
+B
+C
+D
+440 (421)
+NM to THR 0.6 1.6 5.2 19.29.2
+1.4 2.4 6.0 20.010.0
+D1.4 TQT
+760 (732)
+RADAR AVBL
+Contact TSUIKI APP.
+CHANGE : MHA. Description of RADAR Service.
+TQT
+29005000
+42005900
+(EFF:16 MAY 2024) 18/4/24
+RJFZ AD2.24-IAC-3
+TSUIKI
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+TACAN RWY07IKIUST / ZFJR
+REWOT IKIUSTPPA IKIUST
+126.2 – 236.8–318.8120.1 – 321.2
+TSUIKI  TACAN
+TQT1002
+CH-41X 
+ÛÝ1ÛÝ(
+090˚ 270˚
+360˚
+180˚
+TQT
+29005000
+42005900
+MSA 25NM
+ 
+MINIMA 
+CAT
+620 (592)
+660 (632)
+760 (732)
+1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 52          AD elev. 28
+A
+B
+C
+D
+620 (592)
+CHANGE :  ENLUG, IPDIM established. VABLA, UPGUN abolished. Missed APCH PROC.
+810 (782)
+TQTMAPt
+D1.5 TQT
+D6.5 TQT
+SANKO(IAF)
+D14.1 TQT
+MHA6000
+D21.1 TQTD13.0 TQT ARC
+D13.0 TQT
+443
+296
+271
+443536
+989
+1785
+2266.
+.
+.
+.
+.
+..
+.
+. .. .
+2304
+3208 2747
+3111
+3936
+VAR 8˅W(2023)
+EMERG SAFE ALT 100NM 8500
+IPDIM (IF)
+ENLUG (FAF)
+RADAR AVBL
+20NM
+R131
+180˚
+270˚
+360˚
+090˚
+MISSED APPROACH
+Climb to 6000FT via
+TQT R247 to TQT,
+Turn right TQT R131
+to SANKO and hold.
+Contact TSUIKI APP.
+PAPI and descent angle is
+not coincident.
+SDF
+SDF(FAF)
+SDF(IF)
+TQT
+R 221
+TQT
+R131
+SANKO
+(IAF)
+6000
+5100 3600
+2600
+2200
+ARC
+D13.0TQT 1340
+(1312)
+880
+(852) MDA
+TQT
+
+5
+
+13.0       8.5       6.5         4.0    2.7        1.5                    DME to TQT
+12.5       8.0       6.0         3.5    2.2        1.0                    NM to THR
+MAPt
+IPDIM
+ENLUG
+3.4˚
+131˚
+311˚
+131˚
+067˚
+R221
+067˚
+(EFF:11 JUL 2024) 11/7/24
+RJFZ AD2.24-IAC-4
+TSUIKI
+

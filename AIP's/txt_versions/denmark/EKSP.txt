@@ -1,0 +1,566 @@
+=== Page 1 ===
+AIP DENMARK
+NAVIAIR
+AD 2 - EKSP - 1
+Vojens/Skrydstrup
+1. Aerodrome Location Indicator and Name: EKSP - Vojens/Skrydstrup (MIL AD, PPR)
+2. Aerodrome Geographical and Administrative Data
+1 ARP PSN 55 13 31.99N 009 15 50.15E
+and site at AD:
+2. Distance and 1.5 NM S of Vojens
+direction from city:
+3. ELEV: 141 FT
+REF temperature: -
+4. MAG VAR: 2.4° E (FEB 2017)
+Annual change: Increasing 10’
+5. AD ADM - MIL: Flyvestation Skrydstrup
+AD address - MIL: Flyvestation Skrydstrup
+(Skrydstrup Air Base)
+Skrydstrup
+DK-6500 Vojens
+TEL - MIL: +45 72 84 81 22
+FAX - MIL: +45 72 84 81 26
+AFS - MIL: EKSPZQZX
+AD ADM - CIV: Vojens Lufthavn
+AD address - CIV: Vojens/Skrydstrup Airport
+Lilholtvej 8, Skrydstrup
+DK-6500 Vojens
+TEL - CIV: +45 74 59 16 54
+FAX - CIV: +45 74 54 00 06
+E-mail, CIV: airport@vojens.dk
+E-mail, MIL: comm.skpops@mil.dk
+Internet, CIV: http://vojenslufthavn.dk
+AFS - CIV: EKSP
+6. Types of traffic IFR/VFR
+permitted:
+7. Remarks: NIL
+3. Operational Hours
+1. AD: PPR, see item 23.
+ 2. Customs and The airport is open for traffic to/from all states.
+ immigration: Hours for customs clearance and immigration
+as for AD. PN 1 HR.
+3. Health and NIL
+sanitation:
+4. AIS Briefing Office: As AD
+5. ATS Reporting As AD
+Office (ARO):
+6. MET Briefing Office: As AD
+7. ATS: H24 (H24)
+8. Fuelling: Within AD hours and by arrangement only
+with CIV Airport Office
+9. Handling: Within AD hours and by arrangement only
+with CIV Airport Office
+10. Security: As AD 
+11. De-icing: Yes
+12. Remarks: NIL
+4. Handling Services and Facilities
+1. Cargo-handling Yes
+facilities:
+2. Fuel and Fuel: Jet A1 by arrangement, 100 LL
+oil types: Oil:    -
+3. Fuelling facilities Jet A1: 300 l/MIN
+and capacity:
+4. De-icing facilities: Yes
+5. Hangar space No
+for visiting aircraft:
+6. Repair facilities No
+for visiting aircraft:
+7. Remarks: NIL
+5. Passenger Facilities
+1. Hotels: Hotels within 5-25 KM
+2. Restaurants: No
+3. Transportation: Taxi on request
+4. Medical facilities: Hospital in Aabenraa
+5. Bank and NIL
+Post Office:
+6. Tourist Office: VisitHaderslev TEL +45 73 70 92 21
+7. Remarks: NIL
+6. Rescue and Firefighting Services
+1. AD category for CAT 5 (H24)
+fire fighting: Higher CAT on request
+2. Rescue equipment: Cutter and spreader.
+3. Capability for Crane available:
+aircraft: MON - THU 0700 - 1500 local time
+FRI             0700 - 1200 local time
+On request outside opening hours.
+4. Remarks: Category may not be maintained during snow and ice removal. Airbase fire crew cannot perform interior fire fighting and egress/extrication of crew in 
+aircraft.
+7. Runway Surface Condition Assessment and Reporting, and Snow Plan
+1. Type of clearing See snow plan in section AD 1.2
+equipment:
+2. Clearance priorities: See snow plan in section AD 1.2
+3. Remarks: AD available all seasons
+AIRAC AMDT 11/25
+30 OCT 25
+
+=== Page 2 ===
+ 
+AIP DENMARK
+NAVIAIR
+AD 2 - EKSP - 2
+Vojens/Skrydstrup
+8. Aprons, Taxiways and Check Locations/Positions Data
+1. Apron surface Civil apron: Concrete, LCN 90
+and strength:
+2. Taxiway width, TWY A north, A south, C north, C south:
+surface and 15 M, Asphalt/Concrete, PCN 90/F/D/W/T
+strength: TWY B north:
+15 M, Asphalt/Concrete, PCN 85/F/C/W/T
+TWY B south:
+15 M, Asphalt/Concrete, PCN 90/F/C/W/T
+TWY D north:
+24 M, Asphalt/Concrete, PCN 83/F/D/W/T
+TWY D south:
+15 M, Asphalt/Concrete, PCN 90/F/D/W/T
+TWY N:
+22 M, Asphalt/Concrete, PCN 90/F/A/W/T
+TWY S4:
+15 M, Asphalt, PCN 31/F/D/W/T
+3. ACL and ELEV: Not established.
+4. VOR checkpoints: -
+INS checkpoints: Apron centre, PSN N55 13.3 E 009 17.5
+5. Remarks: NIL
+9. Surface Movement Guidance and Control System and Markings
+1. Aircraft stand ID -
+signs, Taxi guide
+lines, Visual
+docking/parking
+guidance system:
+2. RWY and TWY RWY 10L/28R and 10R/28L:
+markings: THR, RWY NR, centre line, side stripes
+TWY: Centre line, holding position
+3. Stop bars: See Aerodrome Chart.
+4. Remarks: NIL
+10. Aerodrome Obstacles
+Obstacles for Area 2 and 3 are not provided
+Obstacles penetrating obstacle limiting surfaces
+OBST ID /
+Designation
+OBST type OBST position ELEV
+(FT)
+HGT AGL
+(FT)
+Markings /
+Type, Colour
+Remarks
+EKSP99860 Antenna 55 15 42.39N 009 13 26.67E 397 194 LIL F R Conical
+EKSP3062 Power line pole 55 12 12.05N 009 19 45.36E 326 131 LIL F R Inner Horizontal
+EKSP3061 Power line pole 55 12 02.43N 009 19 35.41E 321 144 LIL F R Inner Horizontal
+EKSP3071 Power line pole 55 12 27.42N 009 20 00.85E 318 144 LIL F R Inner Horizontal
+EKSP3072 Power line pole 55 12 36.28N 009 20 09.79E 316 144 LIL F R Inner Horizontal
+EKSP99611 Antenna 55 11 46.97N 009 17 38.67E 315 164 - Inner Horizontal
+EKSP3070 Power line pole 55 12 18.62N 009 19 52.13E 314 131 LIL F R Inner Horizontal
+EKSP3073 Power line pole 55 12 46.23N 009 20 19.74E 313 144 - Inner Horizontal
+EKSP1990 Power line pole 55 13 13.71N 009 20 25.48E 313 144 - Inner Horizontal
+EKSP2068 Power line pole 55 13 35.25N 009 20 22.23E 311 150 - Inner Horizontal
+EKSP3060 Power line pole 55 11 53.61N 009 19 26.97E 308 144 - Inner Horizontal
+EKSP3069 Power line pole 55 11 03.24N 009 18 16.21E 307 150 - Inner Horizontal
+EKSP3056 Power line pole 55 11 09.32N 009 18 27.24E 305 150 - Inner Horizontal
+EKSP2062 Power line pole 55 13 02.75N 009 20 27.19E 304 137 - Inner Horizontal
+EKSP2067 Power line pole 55 13 23.78N 009 20 24.10E 304 144 - Inner Horizontal
+EKSP3059 Power line pole 55 11 44.86N 009 19 18.27E 301 144 - Inner Horizontal
+EKSP99820 Antenna 55 15 28.60N 009 12 07.20E 394 157 - Conical
+EKSP3054 Power line pole 55 11 15.05N 009 18 37.57E 300 144 - Inner Horizontal
+EKSP3058 Power line pole 55 11 37.29N 009 19 11.25E 300 137 - Inner Horizontal
+EKSP3057 Power line pole 55 11 28.68N 009 19 02.20E 299 141 - Inner Horizontal
+EKSP3055 Power line pole 55 11 19.54N 009 18 47.35E 298 141 - Inner Horizontal
+EKSP3067 Power line pole 55 10 46.93N 009 17 46.94E 302 137 - Conical
+EKSP3068 Power line pole 55 10 54.92N 009 18 01.36E 296 137 - Inner Horizontal
+EKSP9258 Antenna 55 14 38.24N 009 18 10.62E 296 160 LIL F R Inner Horizontal
+EKSP2069 Power line pole 55 13 46.71N 009 20 20.41E 293 137 - Inner Horizontal
+30 OCT 25
+AIRAC AMDT 11/25
+
+=== Page 3 ===
+AIP DENMARK
+NAVIAIR
+AD 2 - EKSP - 3
+Vojens/Skrydstrup
+EKSP15186 Smoke stack 55 15 20.39N 009 17 20.33E 308 145 - Conical
+EKSP3074 Power line pole 55 12 54.88N 009 20 28.42E 292 141 - Inner Horizontal
+EKSP44879 Power line pole 55 13 13.58N 009 20 26.96E 289 118 - Inner Horizontal
+EKSP37058 Power line pole 55 12 06.85N 009 20 37.27E 280 124 - Inner Horizontal
+EKSP44952 Power line pole 55 11 22.48N 009 18 50.99E 278 124 - Inner Horizontal
+EKSP37170 Power line pole 55 13 02.62N 009 20 28.67E 277 110 - Inner Horizontal
+EKSP44878 Power line pole 55 13 23.58N 009 20 25.44E 276 117 - Inner Horizontal
+EKSP44877 Power line pole 55 13 33.96N 009 20 23.82E 276 116 - Inner Horizontal
+EKSP10234 Antenna 55 14 08.90N 009 15 54.81E 276 119 - Inner Horizontal
+EKSP44875 Power line pole 55 13 47.09N 009 20 21.79E 276 119 - Inner Horizontal
+EKSP44954 Power line pole 55 11 28.42N 009 19 02.77E 276 117 - Inner Horizontal
+EKSP37171 Power line pole 55 12 53.50N 009 20 30.07E 276 119 - Inner Horizontal
+EKSP37174 Power line pole 55 12 18.10N 009 20 35.56E 276 121 - Inner Horizontal
+EKSP37059 Power line pole 55 11 55.95N 009 20 38.97E 276 109 - Conical
+EKSP8389 Antenna 55 11 50.91N 009 12 56.45E 274 158 - Inner Horizontal
+EKSP43670 Power line pole 55 12 44.32N 009 20 31.48E 273 112 - Inner Horizontal
+EKSP2070 Power line pole 55 13 56.49N 009 20 18.74E 273 141 - Inner Horizontal
+EKSP44876 Power line pole 55 13 39.85N 009 20 22.91E 272 107 - Inner Horizontal
+Obstacles penetrating obstacle limiting surfaces (Continued)
+OBST ID /
+Designation
+OBST type OBST position ELEV
+(FT)
+HGT AGL
+(FT)
+Markings /
+Type, Colour
+Remarks
+Obstacles penetrating take-off flight path area obstacle identification surface 
+OBST ID /
+Designation
+OBST type OBST position ELEV
+(FT)
+HGT AGL
+(FT)
+Markings /
+Type, Colour
+Remarks
+Obstacle data for take-off flight path area obstacle identification surfaces not available
+Obstacles assessed as being hazardous to air navigation
+OBST ID /
+Designation
+OBST type OBST position ELEV
+(FT)
+HGT AGL
+(FT)
+Markings /
+Type, Colour
+Remarks
+EKSP10236 Antenna 55 15 38.33N 009 24 09.67E 497 326 - 5 NM NE of AD
+EKSP158148 (ENR 5.4 "Rangstrup") Antenna 55 07 23.00N 009 11 10.00E 995 726 LIH FLG W 6.5 NM SSW of AD
+EKSP10142 Antenna 55 12 27.39N 009 22 30.60E 329 157 - 3.0 NM E of AD
+EKSP19930 Wind Turbine 55 11 56.69N 009 27 36.63E 400 249 - 6.0 NM E of AD
+EKSP6500_091 Apron light pole 55 13 40.53N 009 14 35.74E 187.3 59 LIL F R On AD
+EKSP6500_092 Apron light pole 55 13 41.85N 009 14 27.27E 184.9 59 LIL F R On AD
+EKSP6500_093 Apron light pole 55 13 44.26N 009 14 32.96E 186 59 LIL F R On AD
+EKSP6500_065 Power line pole 55 13 05.23N 009 08 54.67E 242 144 - 3.5 NM W of AD
+EKSP6500_066 Power line pole 55 13 14.94N 009 08 52.50E 247 144 - 3.5 NM W of AD
+EKSP6500_067 Power line pole 55 13 24.68N 009 08 50.39E 240 144 - 3.5 NM W of AD
+EKSP6500_068 Power line pole 55 13 35.23N 009 08 48.05E 242 144 - 3.5 NM W of AD
+EKSP6500_069 Power line pole 55 13 44.74N 009 08 45.93E 238 144 Red/white 3.5 NM W of AD
+EKSP6500_070 Power line pole 55 13 54.35N 009 08 43.76E 237 144 Red/white 3.5 NM W of AD
+EKSP6500_071 Power line pole 55 14 03.96N 009 08 41.64E 233 144 Red/white 3.5 NM W of AD
+07 AUG 25
+AIRAC AMDT 08/25
+
+=== Page 4 ===
+ 
+AIP DENMARK
+NAVIAIR
+AD 2 - EKSP - 4
+Vojens/Skrydstrup
+11. Meteorological Information Provided
+1. Associated MET Danish Meteorological Institute (DMI)/
+Office: Defence Weather and Warnings (MVV)
+Department Skrydstrup TEL +45 72 84 81 91
+2. Hours of service: MON-THU 0430-1430 (0330-1330)
+FRI 0430-1300 (0330-1200)
+EXC HOL
+Outside Hours: Defence Weather and Warnings (MVV),
+Department Karup TEL +45 72 84 14 42
+3. Office responsible Danish Meteorological Institute (DMI)/
+for TAF preparation: Military Weather Forecasts and Warnings (MVV)
+Periods of validity: 24 hours
+4. Type of landing TREND
+forecast: Interval of issuance/Period of issuance
+MON-THU 0520-1430 (0420-1330)
+FRI 0520-1300 (0420-1200)
+EXC HOL
+5. Briefing/Consulta- Self briefing  northavimet.com 
+tion provided: and telephone consultation
+6. Flight documentation: Charts. Abbreviated plain language texts.
+Language(s) used: English and Danish 
+7. Charts and other in- Surface analysis (current chart)
+formation available: Prognostic upper air chart
+Significant weather chart
+8. Supplementary
+equipment available: -
+9. ATS units provided
+with information: -
+10. Additional informa-
+tion (limitation of
+service, etc.): -
+12. Runway Physical Characteristics
+RWY Direction RWY Strength (PCN), Surface THR PSN THR ELEV/
+dimensions of RWY and SWY Highest ELEV of
+(SFC friction TDZ of precision
+Calibration NR) APCH RWY
+10L 105.4° GEO 3006 x 45 M PCN 90/F/B/W/T 55 13 28.56N 126 FT/127 FT
+103.0° MAG Asphalt/Concrete 009 14 38.19E
+28R 285.4° GEO 3006 x 45 M PCN 90/F/B/W/T 55 13 02.67N 141 FT/141 FT
+283.0° MAG Asphalt/Concrete 009 17 22.11E
+10R 105.4° GEO 2971 x 24 M PCN 77/F/B/W/T 55 13 21.71N 124 FT/-
+103.0° MAG Asphalt/Concrete 009 14 35.91E
+28L 285.4° GEO 2971 x 24 M PCN 77/F/B/W/T 55 12 56.12N 139 FT/-
+283.0° MAG Asphalt/Concrete 009 17 17.95E
+RWY RWY-SWY SWY CWY Strip RESA
+slope dimensions dimensions dimensions dimensions
+10L less than 1% 224 x 45 M * - - 165 x 90 M
+28R less than 1% 225 x 45 M * - - 165 x 90 M
+10R less than 1% 148 x 24 M * - - -
+28L less than 1% 148 x 24 M * - - -
+  *SWY not for civil use
+Remarks: Runway classification RWY NR RUNWAY CODE TYPE
+10L 4E PA-1
+10R 2B NINST
+28L 2B NINST
+28R 4E PA-1
+EKSP6500_072 Power line pole 55 14 15.16N 009 08 39.14E 231 144 Red/white 3.5 NM W of AD
+EKSP6500_073 Power line pole 55 14 24.38N 009 08 37.13E 232 144 Red/white 3.5 NM W of AD
+EKSP6500_074 Power line pole 55 14 35.15N 009 08 34.74E 232 144 Red/white 3.5 NM W of AD
+EKSP6500_075 Power line pole 55 14 46.45N 009 08 32.23E 236 144 Red/white 3.5 NM W of AD
+EKSP6500_076 Power line pole 55 14 57.93N 009 08 29.67E 259 144 Red/white 3.5 NM W of AD
+EKSP6500_077 Power line pole 55 15 07.48N 009 08 27.55E 286 144 Red/white 3.5 NM W of AD
+EKSP6500_078 Power line pole 55 15 17.37N 009 08 31.94E 290 144 Red/white 3.5 NM W of AD
+EKSP6500_079 Power line pole 55 15 26.65N 009 08 36.11E 288 144 Red/white 3.5 NM W of AD
+EKSP6500_080 Power line pole 55 15 36.03N 009 08 40.28E 286 144 - 3.5 NM W of AD
+EKSP6500_081 Power line pole 55 15 44.63N 009 08 44.11E 271 144 - 3.5 NM W of AD
+EKSP6500_082 Power line pole 55 15 54.94N 009 08 48.73E 273 144 - 3.5 NM W of AD
+Obstacles assessed as being hazardous to air navigation (Continued)
+OBST ID /
+Designation
+OBST type OBST position ELEV
+(FT)
+HGT AGL
+(FT)
+Markings /
+Type, Colour
+Remarks
+07 AUG 25
+AIRAC AMDT 08/25
+
+=== Page 5 ===
+AIP DENMARK
+NAVIAIR
+AD 2 - EKSP - 5
+Vojens/Skrydstrup
+13. Declared Distances
+RWY TORA TODA ASDA LDA Remarks
+RWY 10L 3006 M -
+TWY D 3006 M 3006 M 3006 M
+TWY C 2217 M 2217 M 2217 M
+TWY B 806 M 806 M 806 M
+RWY 28R 3006 M -
+TWY A 3006 M 3006 M 3006 M
+TWY B 2262 M 2262 M 2262 M
+TWY C 865 M 865 M 865 M
+RWY 10R 2971 M -
+TWY D 2971 M 2971 M 2971 M
+TWY C 2154 M 2154 M 2154 M
+TWY B 719 M 719 M 719 M
+RWY 28L 2971 M -
+TWY A 2971 M 2971 M 2971 M
+TWY B 2273 M 2273 M 2273 M
+TWY C 841 M 841 M 841 M
+14. Approach and Runway Lighting
+RWY APCH THR PAPI: TDZ RWY centre RWY edge RWY end SWY
+LGT: LGT: Angle LGT line LGT: LGT: LGT: LGT:
+Type Colour MEHT Length Length Length Colour Length
+Length WBAR Spacing Spacing WBAR Colour
+Intensity Colour Colour
+Intensity Intensity
+10L Calvert Green 3.0° - - 3006 M Red Red
+White White
+900 M FM 0 M-2406 M White
+LIH FM 2406 M - 3006 M Yellow
+LIH
+28R Calvert Green 3.0° - - 3006 M Red Red
+White White
+900 M FM 0 M-2406 M White
+LIH FM 2406 M - 3006 M Yellow
+LIH
+10R - Green 3.0° - - 2971 M Red
+WBAR White WBAR
+FM 0 M-2371 M White
+FM 2371 M - 2971 M Yellow
+LIL
+28L - Green 3.0° - - 2971 M Red
+WBAR White WBAR
+FM 0 M-2371 M White
+FM 2371 M - 2971 M Yellow
+LIL
+Remarks: NIL
+15. Other Lighting, Secondary Power Supply
+1. ABN/IBN location, NIL
+characteristics and
+hours of operation:
+2. LDI location and -
+LGT:
+Anemometer loca- 300M NW of THR 10L (See AD chart)
+tion and LGT: 300M NE of THR 28R (See AD chart)
+3. TWY edge and Blue edge LIL
+centre line LGT:
+4. Secondary power Yes, switch-over time 15 SEC
+supply/switch-
+over time:
+5. Remarks: NIL
+16. Helicopter Landing Area
+NIL
+17. Air Traffic Services Airspace
+1. Designation and SKRYDSTRUP CTR
+ lateral limits: 55 19 28N 009 02 55E - 55 18 48N 009 07 55E-
+ 55 20 38N 009 16 25E - 55 19 28N 009 22 55E- 
+55 15 28N 009 27 55E - 55 14 28N 009 33 26E- 
+55 06 58N 009 28 56E - 55 07 38N 009 24 26E- 
+55 05 48N 009 16 25E - 55 06 58N 009 09 25E- 
+55 10 58N 009 03 55E - 55 11 48N 008 58 55E- 
+55 19 28N 009 02 55E.
+2. Vertical limits: 1500 FT MSL/GND
+3. Airspace classifi- D
+cation:
+4. ATS unit call sign: SKRYDSTRUP TOWER
+Language(s): EN, DA
+5. Transition altitude: 3000 FT MSL
+6. Remarks: NIL 
+30 OCT 25
+AIRAC AMDT 11/25
+
+=== Page 6 ===
+ 
+AIP DENMARK
+NAVIAIR
+AD 2 - EKSP - 6
+Vojens/Skrydstrup
+18. Air Traffic Services Communication Facilities
+Service CS Channels/ HR Remarks
+Frequencies
+APP SKRYDSTRUP 124.105 H24 DOC: FL 250/50NM
+APPROACH 280.750 MIL
+TWR SKRYDSTRUP 118.280 H24 DOC: 4000 FT/25 NM.
+TOWER * 286.375 MIL
+121.500 Emergency
+* If no contact call Billund approach
+ATIS SKRYDSTRUP 133.905 H24 DOC: FL 200/60NM
+AIRPORT Language: EN
+INFORMATION
+ARR SKRYDSTRUP 122.205 H24 DOC: 4000 FT/25 NM
+ARRIVAL 245.625 MIL
+PSR DOC: FL/200 NM
+Radar 5
+SSR 1030 DOC: FL/200 NM
+Radar 5
+19. Radio Navigation and Landing Aids
+FAC ID Channel/ HR PSN DME ELEV Remarks
+ILS CAT Frequency
+VAR
+TACAN SKR 110.400 MHZ H24 55 13 44.18N 138.4 FT DOC FL 500/80 NM.
+4°E 2023 CH 41x 009 12 50.61E
+LOC 10L ISPA 109.350 MHZ H24 55 12 59.83N ILS class I/D/2
+CAT I 009 17 40.12E
+GP 10L 331.850 MHZ H24 55 13 29.55N Angle 3.0°, RDH 50 FT
+009 14 56.56E
+LOC 28R SRY 109.350 MHZ H24 55 13 32.31N ILS class I/D/2
+CAT I 009 14 14.42E
+GP 28R 331.850 MHZ H24 55 13 09.38N Angle 3.0°, RDH 41 FT
+009 17 11.49E
+DME ISPA/SRY CH30Y H24 55 13 09.34N
+009 17 11.49E
+L VO 321 KHZ H24 55 13 28.74N DOC 25 NM
+009 16 25.36E
+20. Local Aerodrome Regulations
+NIL
+21. Noise Abatement Procedures
+1. Practice approaches for non-homebased jet aircraft limited to a total of 3 in the period 0800-1700 (local time). Practice approaches for jet 
+aircraft is not allowed in the period 1700-0800 (local time). Prior arrangement through Wing Operations required.
+22. Flight Procedures
+1. IFR Arrival
+1.1 Aircraft will normally be cleared by ACC Copenhagen to L VO, TACAN
+SKR, RNAV point DINUT or TISET.
+1.2 Radio communication failure
+Navigation aid designated for radio communication failure during IMC for arriv-
+ing aircraft is L VO.
+1.3 Use of ILS for approach in VMC
+When ILS is intended used for approach in VMC, ATC must be advised at
+least 5 minutes before beginning the approach, as the critical areas in front of
+the ILS facilities normally may be expected only to be kept free of disturbing
+objects in IMC.
+2. IFR Departure
+2.1 Standard Instrument Departures
+Standard Instrument Departures (SID) have not been established.
+2.2 Omnidirectional departures
+RWY 10L/R and 28R/L: Climb straight ahead to at least 800 FT MSL before
+turn is commenced.
+3. Low Visibility Procedures
+3.1 Criteria for activation of Low Visibility Procedures (LVP) are prompted by
+ATC and will normally be introduced when the RVR is less than 800 M. How -
+ever ATC can decide to minimize number of aircraft and vehicles on the
+maneuvering area when visibility is greater than 800 m and up to approx. 3
+km. (until ATC is able to see the whole area).
+3.2 Pilots will be informed when Low Visibility Procedures are in operation by
+ATIS and/or RTF. Pilots will be informed over RTF when Low Visibility Proce -
+dures are cancelled. 
+3.3 The following procedures will apply during Low Visibility Procedures: 
+ATC Procedures: 
+When RVR is below 550 M (alternative MET VIS below 600 M) , ATC can
+only allow one aircraft/one formation of aircraft on the maneuvring area
+at a time.
+When RVR/MET VIS is below 800 M, but greater than mentioned above ,
+ATC can only allow one aircraft/one formation of Fighter aircraft on each
+part of the maneuvering area at a time. The parts are described in Local
+Procedures. Just follow ATC instructions.
+4. Reduced Runway Separation Minima
+4.1 ATC may apply reduced runway separation for all runways at Skrydstrup.
+For succeeding military aircraft, this will be used only for VFR-flights. 
+4.2 Traffic information will be given to succeeding aircraft. 
+4.3 For military and civilian flights the phraseology will be: "[Traffic informa-
+tion] CLEARED TO LAND" / "[Traffic information] CLEARED FOR TAKEOFF"
+4.4 ATC will make sure that approved minimum separation will exist between
+aircraft.
+4.5 Reduced runway separation will not be used between departing and
+preceding landed aircraft.
+5. Special VFR routes for light aircraft and helicopters
+5.1 ATC clearance for special VFR (SVFR) traffic will normally be issued via
+the following reporting points:
+Christiansfeld (power line crossing motorway), PSN 55 20 49N 009 26 42E.
+Jels (Southern edge of Skodborg forest), PSN 55 22 21N 009 11 21E.
+Vojens (intersection North of Vojens town), PSN 55 16 05N 009 17 20E.
+5.2 Arriving VFR traffic may be instructed to hold at one of the reporting points.
+5.3 Altitude as instructed by ATC. 
+30 OCT 25
+AIRAC AMDT 11/25
+
+=== Page 7 ===
+AIP DENMARK
+NAVIAIR
+AD 2 - EKSP - 7
+Vojens/Skrydstrup
+23. Additional Information
+1. Use of Vojens/Skrydstrup Airbase
+1.1 Application on use of Vojens/Skrydstrup shall be submitted to Tactical Air 
+Command, Denmark via Vojens/Skrydstrup Airport (CIV, see above).
+1.2 If the requested flight will be conducted outside the civilian ARO OPR HR, 
+the request has to be submitted not later than one hour prior to closing time.
+1.3 To obtain PPR call phone +45 72 84 81 21 or +45 72 84 81 24 Base Op-
+erations or use no later than 24 hours before ETA internetadr:
+http://vojenslufthavn.dk/landing
+1.4 For civil flights the air base and the civil terminal are available only within 
+the following hours:
+MON-FRI 0500-2300 (0400-2200)
+SAT/SUN/HOL by arrangement
+1.5 Handling and servicing of civil aircraft and passengers will take place by 
+arrangement with ADO within published operational hours
+2. Arrester cables
+2.1 Arrester cables for military aircraft may be suspended across:
+- RWY 10L, 596 M prior to runway end
+- RWY 28R, 596 M prior to runway end
+- RWY 10R, 596 M prior to runway end
+- RWY 28L, 596 M prior to runway end
+3. Gliding
+3.1 Launching of gliders by cable may take place during weekends and holi-
+days and outside hours of MIL operations
+24. Aeronautical Charts Related to an Aerodrome
+Chart type Chart title
+Aerodrome Chart - ICAO
+Instrument Approach Chart - ICAO
+Other Charts
+ADC
+ILS RWY 10L (ACFT CAT A/B)
+ILS RWY 10L (ACFT CAT C/D)
+ILS RWY 28R (ACFT CAT A/B)
+ILS RWY 28R (ACFT CAT C/D)
+Glider Areas in TMA/CTR
+25. Visual Segment Surface (VSS) Penetration
+Instrument Flight Procedure Procedure Minima affected Remarks
+ILS or LOC RWY 10L No Penetration NIL
+ILS or LOC RWY 28R No Penetration NIL
+30 OCT 25
+AIRAC AMDT 11/25

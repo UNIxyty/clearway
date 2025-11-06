@@ -1,0 +1,1490 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIBG 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIBG AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIBG AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIBG - TARANTO/Grottaglie
+LIBG AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIBG AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+40°31'02''N 017°23'59''E
+2 Direzione e distanza dalla città 1.62 NM WSW di Grottaglie
+ Direction and distance from city 1.62 NM WSW of Grottaglie
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+214 FT / NIL
+4 Ondulazione del geoide
+ Geoid undulation
+141.0 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2010.0) / 4'E
+6 Autorità amministrativa aeroportuale ENAC - DT Puglia-Basilicata
+Aeroporto "Karol Wojtyla"
+Viale Enzo Ferrari, 1
+70128 Bari-Palese
+ Tel: +39 080 5361400  Fax: +39 080 5361417
+ E-mail: pugliabasilicata.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Aeroporti di Puglia S.p.A.
+tel +39 099 5625601/3/5 fax +39 099 5625645, cell +39 340 9404502
+info@aeroportidipuglia.it, safetytaranto@aeroportidipuglia.it
+ Aerodrome operator Aeroporti di Puglia S.p.A.
+tel +39 099 5625601/3/5 fax +39 099 5625645, mobile +39 340 9404502
+info@aeroportidipuglia.it, safetytaranto@aeroportidipuglia.it
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Grottaglie
+Tel: + 39 099 5626302;
+ fax: + 39 099 5626306
+e-mail: ci-grottaglie@enav.it, aeroporto.grottaglie@pec.enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note 1. AD aperto al traffico aereo generale, al traffico commerciale nazionale e
+comunitario
+2. Presenza di zona Marina Militare, in area Est del sedime; tel +39 099 5629252, fax
++39 099 5629336
+3. Codice di riferimento ANNESSO 14 per infrastrutture di volo: 4E
+ Remarks 1. AD open to general aviation traffic, domestic and commercial traffic and to
+European Community traffic
+2. Marina Militare zone, East area of the aerodrome; tel +39 099 5629252, fax +39
+099 5629336
+3. Ref code ANNEX 14 flight infrastructure: 4E
+LIBG AD 2.3 ORARIO DEI SERVIZI
+LIBG AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale NIL
+ Aerodrome Administration  
+2 Dogana ed immigrazione Con 3 HR di preavviso
+ Customs and immigration 3 HR PN
+
+=== Page 2 ===
+AD 2 LIBG 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+   
+7 ATS 0700-1900 (0600-1800)
+   
+8 Rifornimento Carburante JET A1 disponibile MON-FRI ore 0700-1600 (0600-1500). SAT e SUN
+disponibile con preavviso a Carboil tel +39 099 5661241 o +39 342 3316510.
+ Fuelling Fuel JET A1 availableMON-FRI 0700-1600 (0600-1500). On SAT and SUN, available
+PN  to CARBOIL at tel + 39 099 5661241 or +39 342 3316510.
+9 Handling 0700-1900 (0600-1800)
+ Handling  
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+2. In altri orari il servizio ATS potrebbe inoltre essere fornito per ragioni operative,
+prima di entrare nel CTR di Grottaglie l'aeromobile dovrà richiedere ed ottenere da
+Brindisi ACC/FIC informazioni sull'effettiva disponibilità del servizio
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+2. In other hours ATS could be additionally provided for operational reasons, prior
+to entering Grottaglie CTR aircraft shall request and obtain by Brindisi ACC/FIC
+information about the actual availability of service
+LIBG AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIBG AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci Trattorino di scalo - NR 2 carrelli coperti - NR 2 carrelli scoperti - NR 1 scala di
+altezza regolabile
+ Cargo-handling facilities Handling truck - NR 2 covered trolleys - NR 2 uncovered trolleys - NR 1 adjustable
+ladder
+2 Tipi di carburante/Olio JET A1 / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento Max capacità 600 m³
+ Fuelling capacity Maximum capacity 600 m³
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIBG 1 - 3
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIBG AD 2.5 SERVIZI PER I PASSEGGERI
+LIBG AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti In città
+ Restaurants In town
+3 Trasporti Taxi su richiesta
+ Transportation Taxi on request
+4 Servizio medico Il servizio di pronto soccorso aeroportuale assicurato in caso di necessità con il 118
+regionale attivato da Aeroporti di Puglia S.p.A.
+ Medical facilities Airport first AID medical service assured by regional 118 activated by  Aeroporti di
+Puglia S.p.A.
+5 Banca e ufficio postale Bancomat
+ Bank and Post office Cash dispencer
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIBG AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIBG AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 7 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Tipo e numero di veicoli, tipo e quantità di agenti estinguenti e le attrezzature di
+soccorso sono conformi a CAT 7 ICAO
+ Rescue equipment Type and number of vehicles, type and amount of extinguishing agents and rescue
+equipment compliant with the CAT 7 ICAO
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Servizio antincendio assicurato dai Vigili del Fuoco - Ministero Interno con orario
+0700-1900 (0600-1800)
+2. La categoria del servizio anticendio per i voli  cargo può essere
+innalzata fino alla CAT 7 ICAO dopo il coordinamento col gestore
+aeroportuale almeno 12 HR prima
+Tel: +39 0995625600, +39 3409404502
+E-mail: frubino@aeroportidipuglia.it
+ Remarks 1. Fire fighting service assured by Vigili del Fuoco - Ministero Interno – HR 0700-1900
+(0600-1800)
+2. Fire fighting service for cargo flights can be upgraded up to
+CAT 7 ICAO after coordination with aerodrome operator at
+least 12 HR in advance
+Tel: +39 0995625600, +39 3409404502
+E-mail: frubino@aeroportidipuglia.it
+LIBG AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIBG AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrice
+ Types of clearing equipment Sweeper
+2 Priorità RWY, TWY, APRON
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+
+=== Page 4 ===
+AD 2 LIBG 1 - 4
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+ Specially prepared winter runways NIL
+5 Note Il coefficiente di aderenza della pista viene misurato con lo skiddometro
+ Remarks Runway friction coefficient is measured by skiddometer
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIBG 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIBG AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIBG AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron 1 - Stands
+101-102
+CONC 41000 m² PCN 120/R/A/W/T
+Apron 3 - Stands
+301-306
+CONC 36000 m² PCN 120/R/B/W/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 23 M ASPH PCN 82/F/A/W/T
+C 20 M ASPH PCN 63/F/A/X/T
+D 23 M ASPH PCN 102/F/A/W/T
+F 23 M ASPH PCN 102/F/A/W/T
+H 23 M ASPH PCN 120/F/A/W/T
+N 23 M ASPH PCN 120/F/A/W/T
+T 23 M ASPH PCN 120/F/A/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIBG AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIBG AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi carte ADC e APDC in vigore
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See ADC and APDC charts in force
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carta ADC in vigore
+ RWY and TWY markings and lights See ADC chart in force
+3 Barre d'arresto Vedi carta ADC in vigore
+ Stop bars See ADC chart in force
+4 Note Rullaggio con cautela su back-track RWY 17 e RWY 35, seguendo rigorosamente la
+segnaletica orrizz ontale del turn pad, a causa delle luci dello stesso non disponibili
+ Remarks Taxiing with caution on back-track RWY 17 and RWY 35 following strictly turn pad
+marking, due to turn pad lights not available
+
+=== Page 6 ===
+AD 2 LIBG 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIBG AD 2.10 OSTACOLI AEROPORTUALI
+LIBG AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+17/APCH
+35/TKOF
+Antenna locator
+NIL
+NIL/Fuori servizio
+Out of service
+40°26’43”N
+017°25’20”E
+Antenna trasmittente/ 
+Transmitting antenna
+25m (82ft) AGL
+90m (298ft) AMSL
+NIL/Fuori servizio
+Out of service
+40°31’32”N
+017°24’21”E
+NIL
+Vedi AOC in vigore - See AOC in force
+LIBG AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIBG AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 9H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO ROMA, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO ROMA, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato
+IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts
+IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Grottaglie TWR/APP
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO ROMA: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le nubi con altezza della base al di sotto di 5000ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIBG 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+ Climatological information and additional
+information
+1. ARO CBO ROMA: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 5000ft and
+cumulonimbus or towering cumulus with any base height are considered
+operatively relevant
+LIBG AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIBG AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+17 NIL 3200 x 45
+PCN 84/F/A/W/T
+ASPH
+40°31'23.19''N
+017°24'06.54''E
+40°29'48.47''N
+017°24'31.47''E
+140.9  FT
+212.1  FT / 212.0 FT
+35 NIL 3200 x 45
+PCN 84/F/A/W/T
+ASPH
+40°29'56.42''N
+017°24'29.38''E
+40°31'30.18''N
+017°24'04.70''E
+140.3  FT
+202.9  FT / 203.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+17
+Vedi AOC in vigore
+See AOC in force
+NIL 60 x 200 3320 x 280 240 x 150
+35
+Vedi AOC in force
+See AOC in force
+NIL 60 x 200 3320 x 280 240 x 150
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+17 NIL
+1) DTHR 220 m
+2) Superficie: asfalto con testata in calcestruzzo / Surface: asphalt - head in concrete (400 m):
+PCN 120/R/B/W/T
+35 NIL
+1) DTHR 250 m
+2) Superficie: asfalto con testata in calcestruzzo / Surface: asphalt - head in concrete (400 m):
+PCN 120/R/A/W/T
+
+=== Page 8 ===
+AD 2 LIBG 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIBG AD 2.13 DISTANZE DICHIARATE
+LIBG AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+17
+INT TAKE-OFF D
+3200
+2438
+3260
+2498
+3200
+2438
+2980
+-
+35 3200 3260 3200 2950
+NOTE 1. Gli Intersection Take-off sono utilizzabili soltanto su richiesta del pilota o su richiesta della TWR previo benestare
+del pilota
+REMARKS 1. Intersection Take-off are usable only on pilot’s request or on TWR’s request, previous pilot’s agreement
+LIBG AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIBG AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+17 SALS 420 LIH G NIL 3.2°
+entrambi i lati
+both sides
+20.3 NIL
+35 ALS 900 LIH G NIL 3°
+entrambi i lati
+both sides
+21.9 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+17 NIL NIL NIL NIL 250
+2350
+600
+60
+60
+60
+R
+W
+Y
+LIH
+LIH
+LIH
+35 NIL NIL NIL NIL 220
+2380
+600
+60
+60
+60
+R
+W
+Y
+LIH
+LIH
+LIH
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+17 R NIL NIL 2 NIL 1) PAPI utilizzabile solo seguendo la
+circuitazione nelle ultime 3 NM dalla THR
+17. Superficie di protezione da ostacoli:
+non strumentale, lunghezza fino a 5500 m
+dalla THR 17/
+PAPI usable only following circling
+approach in the last 3 NM from THR
+17. Obstacle protection surface: non
+instrumental, length 5500 m from THR 17.
+35 R NIL NIL 2 NIL NIL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIBG 1 - 9
+AIRAC effective date 08 AUG 2024
+ENAV - Roma (A08/24)
+LIBG AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIBG AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 40°31'01''N   017°23'47''E
+Caratteristiche: Caratteristiche: luci alternate rotanti bianche/verdi
+Orario: O/R
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 40°31'01''N   017°23'47''E
+Characteristics: Characteristics: revolving white/green alternating lights
+Hours: O/R
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro:
+391 m dopo THR RWY 35, 157 m lato sinistro RCL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer:
+391 m after THR RWY 35, 157 m left side RCL
+3 Illuminazione bordo e asse centrale TWY Vedi carta AD in vigore
+ TWY edge and center line lighting See AD chart in force
+4 Alimentatore secondario/Tempo di 
+intervento
+Disponibile/15 secondi
+ Secondary power supply/Switch over time Available/15 seconds
+5 Note NIL
+ Remarks  
+LIBG AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIBG AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIBG AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIBG AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+
+=== Page 10 ===
+AD 2 LIBG 1 - 10
+AIRAC effective date 08 AUG 2024 AIP - Italia
+(A08/24) ENAV - Roma
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Taranto Grottaglie ATZ
+40°26'28"N 017°21'10"E;
+40°35'32"N 017°21'10"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+40°31'00"N 017°23'59"E
+till point of origin.
+3000
+FT AGL
+D
+Grottaglie TWR
+EN/IT
+5000 FT 1) WI Grottaglie CTR
+LIBG AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIBG AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 0700-1900 (0600-1800)
+1) In altri orari il servizio ATS potrebbe
+inoltre essere fornito per ragioni
+operative, prima di entrare nel CTR  di
+Grottaglie l’aeromobile dovrà richiedere
+ed ottenere da Brindisi ACC/FIC
+informazioni sull'effettiva  disponibilità
+del servizio/in other hours ATS could
+be additionally provided for  operational
+reasons, prior to entering Grottaglie
+CTR aircraft shall request and obtain by
+Brindisi ACC/FIC information about the
+actual availability of service
+APP Grottaglie APP 118.700 0700-1900 (0600-1800)
+1) In altri orari il servizio ATS
+potrebbe inoltre essere fornito per
+ragioni operative, prima di entrare nel
+CTR  di Grottaglie  l’ aeromobile
+dovrà richiedere ed ottenere da Brindisi
+ACC/FIC informazioni sull'effettiva
+disponibilità del servizio/In other hours
+ATS could be additionally provided for
+operational reasons, prior to entering
+Grottaglie CTR aircraft shall request and
+obtain by Brindisi ACC/FIC information
+about the actual availability of service
+TWR Grottaglie TWR 118.700 0700-1900 (0600-1800)
+1) In altri orari il servizio ATS
+potrebbe inoltre essere fornito per
+ragioni operative, prima di entrare nel
+CTR  di Grottaglie  l’ aeromobile
+dovrà richiedere ed ottenere da Brindisi
+ACC/FIC informazioni sull'effettiva
+disponibilità del servizio/In other hours
+ATS could be additionally provided for
+operational reasons, prior to entering
+Grottaglie CTR aircraft shall request and
+obtain by Brindisi ACC/FIC information
+about the actual availability of service
+LIBG AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIBG 1 - 11
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIBG AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Grottaglie
+Gonio
+Homer
+NIL
+0700-1900
+(0600-1800)
+40°30'59.8''N
+017°24'03.5''E
+NIL
+limitazioni a/limitations at 30
+NM
+020°/120° MRA 3500 FT
+120°/270° MRA 1500 FT
+270°/020° MRA 5000 FT
+1) Disponibile su
+richiesta su tutte le
+frequenze di TWR/APP e
+emergenza/Available on
+request on all TWR/
+APP and emergency
+frequencies
+VOR/DME
+(4° E-2019.0)
+BCS
+113.55
+MHZ
+CH 82Y
+VOR H24
+DME H24
+VOR
+40°39'30.9''N
+017°57'06.9''E
+DME
+40°39'31.2''N
+017°57'07.3''E
+15 M
+AMSL
+120 NM/25000 FT
+DVOR
+limitazioni a/limitations at 40
+NM
+090°/300° MRA 3500 FT
+300°/090° MRA 2500 FT DME
+limitazioni a/limitations at 40
+NM
+090°/110° MRA 5000 FT
+110°/300° MRA 3500 FT
+300°/090° MRA 2500 FT
+NIL
+TACAN
+ 
+GRT CH 115X
+vedi note/
+see remarks
+40°29'21.4''N
+017°24'39.2''E
+74 M
+AMSL
+40 NM
+limitazioni a/limitations at 40
+NM
+050°/090° MRA 6000 FT
+090°/310° MRA 5000 FT
+310°/050° MRA 8000 FT
+1) HR:
+Gli orari di servizio
+saranno notificati a
+mezzo notam/
+Operational hours will be
+notified by notam
+ILS RWY 35 LOC
+CAT I
+(2° E-2005.0)
+ITGT
+108.35
+MHZ
+H24
+40°31'40.4''N
+017°24'02.0''E
+NIL
+limitazioni oltre/limitations
+beyond 17 NM MRA 3200 FT
+1) Fascio posteriore non
+utilizzabile/ Back beam
+not usable
+DME ITGT CH 20Y H24
+40°30'07.4''N
+017°24'19.0''E
+66 M
+AMSL
+25 NM/10000 FT
+NIL
+GP -
+333.95
+MHZ
+H24
+40°30'07.3''N
+017°24'19.9''E
+NIL NIL
+Slope 3°
+RDH: 17.5 M
+VOR/DME
+(3° E-2005.0)
+TAG
+110.20
+MHZ
+CH 39X
+VOR H24
+DME H24
+VOR
+40°30'34.9''N
+017°24'28.8''E
+DME
+40°30'35.0''N
+017°24'29.3''E
+70 M
+AMSL
+25 NM/10000 FT
+limitazioni a/limitations at 25
+NM
+050°/300° MRA 4000 FT
+300°/050° MRA 6000 FT
+NIL
+LIBG AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIBG AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+La responsabilità della separazione degli aeromobili da altri aeromobili
+o da ostacoli sull’Apron appartiene all’equipaggio di condotta o al
+soggetto responsabile della manovra nel caso in cui l’aeromobile non
+si muova in modo autonomo.
+Ordinato movimento degli aeromobili sui piazzali
+L’ordinato movimento degli aeromobili sul piazzale è assicurato in
+collaborazione tra ENAV S.p.A. ed il gestore aeroportuale in accordo
+ In case of self-manoeuvring operations crew or any other member of
+staff in charge in case of aircraft towing are responsible for separating
+aircraft one from the other or from any obstacle on the Apron.
+Orderly movement of aircraft on aprons
+The orderly movement of aircraft on apron is provided in cooperation
+with ENAV S.p.A. (Italian Company for Air Navigation) and the
+
+=== Page 12 ===
+AD 2 LIBG 1 - 12
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+alle disposizioni del Codice della Navigazione (Articolo 691bis e 705)
+con le seguenti modalità:
+aerodrome operator according to Italian Air Navigation law provisions
+(Articles 691bis and 705) as follows:
+2.1 Orario di Servizio 2.1 Operational Hours
+0700-1900 (0600-1800) 0700-1900 (0600-1800)
+2.2 Nominativo di chiamata e frequenza 2.2 Call sign and frequency
+• Grottaglie TWR: 118.700 MHz
+• Gestore Aeroportuale (nominativo: Aeroporti di Puglia)
+• Grottaglie TWR: 118.700 MHz
+• Gestore Aeroportuale (contact name: Aeroporti di Puglia)
+2.3 Area di applicazione 2.3 Application area
+• Apron 1
+• Apron 3
+• Apron 1
+• Apron 3
+NOTA
+vedi AIP AD 2 LIBG APDC 
+REMARK
+see AIP AD 2 LIBG APCD
+2.4 Servizi forniti 2.4 Services provided
+a. Aeromobili in partenza:
+• istruzioni per il push-back e/o il rullaggio.
+b. Aeromobili in arrivo:
+• istruzioni per il rullaggio
+• assegnazione parcheggi.
+c. Follow-me:
+• disponibile su richiesta degli equipaggi
+• necessario per movimentazione degli aeromobili con visibilità
+inferiore a 400m.
+d. Marshalling: è obbligatorio per tutti gli aeromobili in partenza e
+arrivi.
+a. Departing aircraft:
+• push-back and/or taxiing instructions.
+b. Arriving aircraft:
+• taxiing instructions
+• stand allocations.
+c. Follow-me:
+• available on crew request
+• with visibility less than 400m necessary for aircraft movement.
+   
+d. Marshalling: marshalling service is mandatory for all departing and
+arriving aircraft.
+2.5 Limitazioni/regolamentazioni sui piazzali 2.5 Limitations/regulations on aprons
+Tutti gli stand sono in self-manoeuvring ed è obbligatorio mantenere
+la minima velocità durante le fasi di taxi-in e taxi-out.
+Aeromobili in partenza:
+• dovranno ricevere il segnale “all clear” dallo staff di terra prima di
+richiedere a Grottaglie TWR l’autorizzazione allo start-up
+• riceveranno lo start-up soltanto dopo la comunicazione “AIRCRAFT
+READY” da parte del gestore aeroportuale all’ATC.
+All stands are in self manoeuvring, keeping minimum speed during
+taxi-in/taxi-out phases is mandatory.
+Departing aircraft:
+• shall receive the signal “all clear” from ground staff before requesting
+start-up clearance to Grottaglie TWR
+• start-up will be provided only after ATC has received “AIRCRAFT
+READY” communication by aerodrome operator.
+NOTA
+lo stato di “AIRCRAFT READY” significa:
+• porte e stive sono chiuse
+• Aircraft Safe Area è libera da persone, mezzi,
+equipaggiamenti e ostacoli
+• l’aeromobile è completamente pronto al rullaggio
+• è stata consegnata all’handler la documentazione prevista
+• rimorchio per il push-back connesso (nose-in stand), quando
+previsto.
+REMARK
+“AIRCRAFT READY” status means:
+• aircraft doors and holds are closed
+• Aircraft Safe Area clear from vehicles, equipment, obstacles
+and ground personnel
+• aircraft fully ready for taxi
+• compulsory documentation provided to handler
+• push-back tractor connected (nose-in stand).
+2.6 Movimentazione degli aeromobili sui piazzali 2.6 Aircraft movement on apron
+a. Apron 1:
+l’ingresso e l’uscita dallo stand avviene direttamente dalla TWY A
+(Self-manoeuvring).
+b. Apron 3:
+l’ingresso e l’uscita dallo stand avviene direttamente dalla TWY D
+(Self-manoeuvring).
+a. Apron 1:
+in/out from stand taxiing from TWY A (Self-manoeuvring).
+b. Apron 3:
+in/out from stand taxiing from TWY D (Self-manoeuvring).
+2.7 Piazzali a regolamentazione speciale 2.7 Apron subject to special regulation
+NIL NIL
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIBG 1 - 13
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+3.1. TWY A: utilizzabile in entrata/uscita per/dalla pista da aeromobili
+di dimensioni uguali o inferiori al codice E ICAO (massima apertura
+alare 65 m).
+Porzione di TWY A all'esterno dell'area di manovra e Apron 1 non visibili
+dalla Torre. Rullaggio con cautela in accordo alle procedure locali.
+3.1. TWY A: available to entry/exit to/from RWY for aircraft up to ICAO
+code E (max wingspan 65 m).
+Portion of TWY A outside manoeuvre area and Apron 1 not visible from
+TWR. Taxiing with caution in accordance with local regulations.
+3.2. TWY B e E: ingresso/uscita consentite solo per aeromobili militari 3.2. TWY B and E: entry/exit allowed only for military aircraft
+3.3. TWY C: chiusa 3.3. TWY C: closed
+3.4. TWY D: utilizzabile in entrata/uscita per/dalla pista da aeromobili
+di dimensioni uguali o inferiori al codice E ICAO (massima apertura
+alare 65 m)
+3.4. TWY D: available to entry/exit to/from RWY for aircraft up to ICAO
+code E (max wingspan 65 m)
+3.5. TWY F e H: utilizzabile in entrata/uscita per/da Apron 3 taxilane
+G da aeromobili di dimensioni uguali o inferiori al codice D ICAO
+(massima apertura alare 43 m)
+3.5. TWY F and H: available to entry/exit to/from Apron 3 taxilane G
+for aircraft up to ICAO code D (max wingspan 43 m)
+3.6. TWY N e T: : utilizzabile in entrata/uscita per/dalla pista da
+aeromobili di dimensioni uguali o inferiori al codice E ICAO (massima
+apertura alare 65 m)
+3.6. TWY N and T: available to entry/exit to/from RWY for aircraft up
+to ICAO code E (max wingspan 65 m)
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+Le procedure si applicano quando il valore generale  di visibilità  è
+uguale o inferiore a 1500m. E’ prevedibile una riduzione della capacità
+aeroportuale a causa delle restrizioni applicate alla movimentazione
+al suolo.
+The procedures will be applied when the value of general visibility
+is equal or less than 1500m. In case of poor visibility conditions
+a reduced airport capacity is expcted due to restrictions applied to
+ground movements.
+4.1 Criteri per l’attivazione delle LVP 4.1 Criteria for initiation of LVP
+Le LVP non sono disponibili. LVP not available.
+4.2 Utilizzo delle piste 4.2 Runway operations
+Operazioni di atterraggi e decolli ILS CAT I consentiti solo per RWY35. ILS CAT I approach and landing operations allowed for RWY35 only.
+4.3 Minime operative di aeroporto 4.3 Aerodrome operating minima
+• avvicinamenti ed atterraggi non consentiti con valori di RVR inferiori
+RVR 550m
+• decolli non consentiti con valori di RVR inferiore ad 800m.
+• approach and landing operations not allowed with RVR value less
+than 550m
+• departure operations are not allowed with RVR value less than 800m.
+NOTA
+il valore di RVR è rappresentativo della sola zona di contatto
+della pista 35, per avvicinamenti RWY 17 è disponibile il solo
+valore di visibilità generale. Con RVR inferiore a 400m tutte le
+operazioni di volo sono sospese. Il rullaggio è consentito previo
+l’uso del follow-me.
+REMARK
+RVR value is representative only of the contact area of RWY35,
+for approach from RWY17 only general visibility value is
+available. When RVR is less than 400m all operations are
+suspended. Taxiing is available with follow-me.
+4.4 Attività addestramento 4.4 Training activity
+Non consentita durante le AWO. Not allowed during AWO.
+4.5 Movimentazione al suolo 4.5 Ground movement
+Durante le AWO è consentito il movimento di un aeromobile per volta
+sull’area di movimento.
+a. Obblighi di riporto
+In condizioni di visibilità ridotta tutti i piloti devono riportare a
+Grottaglie TWR:
+aeromobili in partenza
+• di aver raggiunto le RHP/IHP, qualora non diversamente istruiti
+dalla TWR
+• di essere decollati
+aeromobili  in arrivo:
+• la pista libera non appena liberata
+• di aver raggiunto lo stand assegnato.
+During AWO one aircraft movement at a time is allowed on movement
+area
+a. Mandatory Reporting:
+In condition of reduced visibility all pilots shall report to Grottaglie
+TWR:
+departing aircraft
+• shall report RHP/IHP has been reached, if not instructed by the
+TWR
+• when airborne
+arriving aircraft
+• RWY vacated as soon as released
+• has been reached the stand assigned.
+4.6 Contingencies 4.6 Contingencies
+NIL NIL
+4.7 Avaria Radio in area di manovra 4.7 Radio failure in the manoeuvring area
+Vedi table 20.8 See table 20.8
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+
+=== Page 14 ===
+AD 2 LIBG 1 - 14
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+6.1. Tutto il traffico commerciale e di aviazione generale consentito
+solo con preavviso di 24 ore al gestore aeroportuale. Aeromobili di
+base a Taranto/Grottaglie AD non soggetti.
+6.1. All commercial and general aviation traffic allowed only 24 HR PN
+to aerodrome operator. Aircraft based at Taranto/ Grottaglie AD not
+affected.
+6.2. Ai piloti è fortemente richiesto di prestare la dovuta attenzione
+alla presenza di due ostacoli (aerogeneratori) situati a Sud del campo,
+vicino alla superficie di avvicinamento della RWY35. L’elevazione del
+più alto ostacolo è di 745ft AMSL (vedi AD 2 LIBG VAC).
+Segnalazioni ICAO non fornite.
+6.2. Pilots are strongly requested to pay due attention to the presence
+of two obstacles (aeolic propellers), located South of the field, close
+to the approach surface RWY35. The elevation of the highest obstacle
+is 745ft AMSL (see AD 2 LIBG VAC).
+ICAO signal unprovided.
+NOTA
+gli ostacoli sopra menzionati non interferiscono con la
+superficie di avvicinamento RWY35.
+REMARK
+The above mentioned obstacles do not interfere with the
+approach surface RWY35.
+6.3. TARTESTBED – per attività SAPR sperimentale  contattare
+Aeroporti di Puglia e-mail tartestbed@aeroportidipuglia.it.
+Attività soggetta a coordinamento come previsto dalle procedure
+d’impiego.
+6.3. TARTESTBED – for SAPR testing activities contact AD
+Operator Aeroporti di Puglia at the following e-mail address
+tartestbed@aeroportidipuglia.it.
+The activity is subject to coordination as expected by operational
+procedures.
+6.4. Presenza di uomini e mezzi sull’area di manovra in contatto radio
+con la TWR e nelle vicinanze dell’apron per lavori di sfalcio erba dal 01
+marzo al 31 ottobre giornalmente HR 0700-1800 (06001700).
+6.4. Presence of men and equipment on manoeuvring area in radio
+contact with TWR and near the apron due to grass cutting as follows:
+01 MAR - 31 OCT daily HR 0700-1800 (0600-1700).
+6.5. Compass point per elicotteri non disponibile durante le operazioni
+di partenza ed atterraggio degli aeromobili.
+6.5. Helicopter compass point not available during aircraft departure
+and landing operations.
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+Voli di Aviazione Generale e commerciale operati con aeromobili che
+hanno sino a 19 posti, per l'assistenza devono contattare “Delta
+Aerotaxi”.
+General Aviation and commercial flight operated with aircraft having
+up to 19 seats are requested to contact for assistance "Delta Aerotaxi".
+Orari di Servizio: 0700-1900 (0600-1800)
+Tel: +39 099 5623117
+Cell: +39 3669307222
+e-mail: taranto@deltaflr.it
+Operational hours: 0700-1900 (0600-1800)
+Phone: +39 099 5623117
+Mobile phone: +39 3669307222
+e-mail: taranto@deltaflr.it
+Per aeromobili di Stato
+Aeroporti di Puglia
+Orari di Servizio: 0700-1900 (0600-1800)
+Tel: +39 099 5625601
+Cell: +39 3409404502
+e-mail: agibilitatar@aeroportidipuglia.it, frubino@aeroportidipuglia.it
+For State flight
+Aeroporti di Puglia
+Operational hours: 0700-1900 (0600-1800)
+Phone: +39 099 5625601
+Mobile phone: +39 3409404502
+e-mail: agibilitatar@aeroportidipuglia.it, frubino@aeroportidipuglia.it
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+Ogni qualvolta un aeromobile che operi sull'area di manovra si trovi in
+una situazione di avaria radio dovrà comportarsi come segue:
+aeromobile in partenza:
+continuerà sul percorso assegnato fino alla sua clearance limit e
+attenderà l'arrivo del follow-me per rientrare al parcheggio
+aeromobile in arrivo:
+libererà la pista e l'area sensibile dell'ILS ed attenderà l'arrivo del
+follow-me per rientrare al parcheggio.
+Whenever an aircraft operating in the monoeuvring area experiences
+a communication failure, it shall comply with the following:
+departing aircraft
+shall continue on the assigned taxi route till the limit of the clearance
+received and wait for the arrival of the follow-me car in order to be
+guided back to the stand
+arriving aircraft:
+shall vacate the runway and wait for the arrival of the follow-me car
+in order to be guided back to the stand.
+LIBG AD 2.21 PROCEDURE ANTIRUMORE
+LIBG AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+(Provvedimento ENAC NR 6/2007 datato 30.03.2007)
+Oltre a quanto riportato nella presente tabella si rimanda alla
+descrizione delle procedure di INITIAL CLIMB, SID, STAR e alla sezione
+ENR 1.5 per la normativa generale.
+(Provision of Italian civil Aviation Authority NR 6/2007 dated
+30.03.2007)
+In addition to what hereafter is stated see also the description of
+INITIAL CLIMB, SID, STAR and procedures in ENR 1.5 for general
+provisions.
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+Agli aeromobili in atterraggio è proibito l’uso della spinta inversa
+(reverse thrust) oltre i livelli minimi riportati nel manuale di volo,
+eccetto che per motivi operativi o di sicurezza.
+The use of reverse thrust over minimum levels, as reported in the
+flight manual, is forbidden to landing airplanes, except for safety or
+operational reasons.
+2.3 Restrizioni notturne 2.3 Night restrictions
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIBG 1 - 15
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+L’A.P.U. dovrà essere acceso non prima di 60 minuti dall’orario
+schedulato di partenza e spento non oltre 20 minuti dall’arrivo.
+L’uso per un periodo più lungo deve essere autorizzato dall’autorità
+aeroportuale.
+No auxiliary power unit shall be turned on 60 minutes earlier than
+the estimated off-block time and turned off 20 minutes later than the
+on block time. A longer period for the auxiliary power unit must be
+authorized by the airport authority.
+3.3 Prove Motori 3.3 Engine run ups
+3.3.1. Ogni prova motori dovrà essere effettuata, in linea di principio
+e dove possibile, sull’Apron 1, la cui ubicazione è riportata  sull’AIP -
+Italia AD 2 LIBG 2-1.
+3.3.1. Every engine run-up shall be carried out, as a principle and
+when available, on Apron 1, whose location is reported in AIP - Italia,
+AD 2 LIBG 2-1.
+3.3.2. Ogni prova motori è rigorosamente vietata sull’Apron 3. 3.3.2. Engine run-ups are strictly forbidden on Apron 3.
+3.3.3. Le prove motori sono altresì vietate dalle ore 2100 alle
+0500 (2000-0400), salvo per gli aeromobili che devono essere
+immediatamente impiegati.
+3.3.3. Engine run-ups are forbidden from 2100 to 0500 (20000400),
+except for aircraft wich must be immediately employed for intervening
+cause.
+3.3.4. I tempi di prova motore devono essere contenuti il più possibile
+e comunque le prove devono essere svolte in accordo con quanto
+previsto sui manuali tecnici. L’orientamento dell’aeromobile deve
+essere tale da ridurre la generazione di rumore verso le zone abitate
+e l’utenza aeroportuale.
+3.3.4. Engine run-ups must be carried out according to technical
+manuals and last as short as possible. The aircraft shall be placed in
+order to minimize noise towards built-up areas and airport users.
+3.3.5. Nell’area, attrezzata secondo necessità, sarà vietato l’accesso
+al personale sprovvisto dei previsti indumenti protettivi (cuffie
+antirumore, dispositivi di protezione individuale).
+3.3.5. The access to the area, fitted up as necessary, is forbidden to the
+staff lacking of suitable equipment (noise abatement headset, workers’
+protection devices).
+3.3.6. E’ fatto obbligo agli operatori addetti di assicurarsi che, prima
+della messa in moto, l’area sia libera da corpi estranei che possano
+invadere l’area di manovra ed anche costituire pericolo per la propria
+incolumità.
+3.3.6. Before engine run-ups, operators shall check that the area is
+free of foreign objects, which could invade the manouvering area and
+also cause damage to people.
+4 Attività addestrativa 4 Training activity
+L’eventuale attività addestrativa può essere svolta, comunque, non
+prima delle ore 0600 (0500) e non oltre le ore 2100 (2000).
+Any training activity shall be carried out not before 0600 (0500) and
+not later than 2100 (2000).
+LIBG AD 2.22 PROCEDURE DI VOLO
+LIBG AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+L'attività addestrativa di touch and go deve essere preventivamente
+(24HR) coordinata col gestore aeroportuale 'Aeroporti di Puglia S.p.A.'
+0700-1900 (0600-1800)
+Email:safetytaranto@aeroportidipuglia.it;
+frubino@aeroportidipuglia.it
+Cell: +39 340 9404502
+Touch and go for training activity have to be previously (24HR)
+coordinated with AD operator 'Aeroporti di Puglia S.p.A.'
+0700-1900 (0600-1800)
+Email:safetytaranto@aeroportidipuglia.it;
+frubino@aeroportidipuglia.it
+Mob: +39 340 9404502
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: vedere tabella 24 STAR description: see table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+NIL NIL
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+
+=== Page 16 ===
+AD 2 LIBG 1 - 16
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+1. Se è stata ricevuta l’autorizzazione all’avvicinamento continuare per
+l’atterraggio come istruiti.
+1. If approach clearance has been received, continue for landing as
+instructed.
+2. Se non è stata ricevuta l’autorizzazione all’avvicinamento: 2. If approach clearance has not been received:
+a. se è stata ricevuta l’autorizzazione ad una STAR, procedere come da
+autorizzazione fino allo IAF alla quota assegnata, quindi discendere
+alla minima altitudine di attesa ed iniziare l’avvicinamento per
+l’atterraggio
+b. se non è stata ricevuta l’autorizzazione ad una STAR, mantenere
+il livello assegnato e procedere lungo la STAR prevista per TAG
+VOR, quindi discendere alla minima altitudine di attesa ed iniziare
+l'avvicinamento per l'atterraggio.
+In caso di indisponibilità di TAG VOR/DME procedere lungo la
+STAR RNP prevista per MEFRE quindi iniziare la discesa per
+l'avvicinamento.
+a. if clearance to proceed via STAR has been received, proceed as
+cleared to the IAF at the assigned altitude, then descend to the
+minimum holding altitude and start approach for landing.
+b. if clearance to proceed via STAR has not been received, maintain
+the assigned level and proceed along the designated STAR to TAG
+VOR, then descend to minimum holding altitude and start approach
+for landing.
+In case of unavailability of TAG VOR/DME, proceed along the
+designated RNP STAR to MEFRE, then start the descent for approach.
+NOTA
+Se è stato emesso un EAT, l’avvicinamento non dovrà iniziare prima
+dell’EAT
+REMARK
+If an EAT has been issued, approach can’t start before EAT
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Procedure di salita iniziale e SID: vedere tabella 24 Initial climb procedures and SID: see table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+Vedere ENR 6.3 Carte d'area VFR See ENR 6.3 VFR Area Charts
+4.2 Attività di circuito 4.2 Circuit activity
+Circuiti di traffico:
+RWY 17 destra
+RWY 35 sinistra
+Traffic patterns:
+RWY 17 right
+RWY 35 left
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIBG 1 - 17
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+VFR/N consentito solo agli aeromobili militari, di Stato ed HEMS VFR/N allowed only to military, State and HEMS aircraft
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+5 LVP 5 LVP
+NIL NIL
+LIBG AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIBG AD 2.23 ADDITIONAL INFORMATION
+1 CONDIZIONI SPECIALI E DEROGHE 1 SPECIAL CONDITIONS AND DEROGATIONS
+Condizioni speciali e deroghe contenenti le seguenti Condizioni
+Speciali approvate dall’Ente Nazionale Aviazione Civile in Riferimento
+alle Certification Specifications del Regolamento Europeo 139/2014
+(provvedimenti EASA) come dettagliato nella tabella sotto riportata
+Special conditions and derogations containing following Special
+Conditions approved by Italian Civil Aviation Authoirity in respect
+of European Regulation 139/2014 Certification Specification (EASA
+provisions) as detailed in table below
+Numero di
+riferimento
+Descrizione
+DAAD.LIBG.002 Luci della centre line dei Turn pads di RWY
+17 e 35 non disponibili
+Ref. CS ADR-DSN.M.725 - Runway turn pad
+lights
+Reference number
+    
+Description
+DAAD.LIBG.002 RWY 17 and RWY 35 Turns pad centre line
+lights not available
+Ref. CS ADR-DSN.M.725 - Runway turn pad
+lights
+LIBG AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIBG AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIBG 2 - 1
+AIRCRAFT PARKING DOCKING CHART - ICAO  AD 2 LIBG 2 - 3
+AIRCRAFT PARKING DOCKING CHART - ICAO DESCRIPTION
+TABLES
+ AD 2 LIBG 2 - 5
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 17/35  AD 2 LIBG 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIBG 3 - 3
+STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO RNP
+1 RWY 35
+ AD 2 LIBG 4 - 1
+STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO RNP
+1 RWY 35 DESCRIPTION TABLES
+ AD 2 LIBG 4 - 3
+STAR VOR  AD 2 LIBG 4 - 5
+STAR VOR DESCRIPTION TABLES  AD 2 LIBG 4 - 7
+ICAO VISUAL APPROACH CHART  AD 2 LIBG 5 - 1
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC RWY 35  AD 2 LIBG 5 - 3
+ICAO INSTRUMENT APPROACH CHART RNP Z RWY 35  AD 2 LIBG 5 - 5
+ICAO INSTRUMENT APPROACH CHART RNP Z RWY 35
+DESCRIPTION TABLES
+ AD 2 LIBG 5 - 7
+ICAO INSTRUMENT APPROACH CHART RNP Y RWY 35 (LPV
+ONLY)
+ AD 2 LIBG 5 - 9
+ICAO INSTRUMENT APPROACH CHART RNP Y RWY 35 (LPV
+ONLY) DESCRIPTION TABLES
+ AD 2 LIBG 5 - 11
+ICAO INSTRUMENT APPROACH CHART VOR RWY 35  AD 2 LIBG 5 - 13
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO
+RNP 1 RWY 35
+ AD 2 LIBG 6 - 1
+
+=== Page 18 ===
+AD 2 LIBG 1 - 18
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+Carte - Charts Pagine - Pages
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO
+RNP 1 RWY 35 DESCRIPTION TABLES
+ AD 2 LIBG 6 - 3
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) ICAO RNP
+1 RWY 17
+ AD 2 LIBG 6 - 5
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) ICAO RNP
+1 RWY 17 DESCRIPTION TABLES
+ AD 2 LIBG 6 - 7
+SID VOR RWY 35  AD 2 LIBG 6 - 9
+SID VOR RWY 35 DESCRIPTION TABLES  AD 2 LIBG 6 - 11
+SID VOR RWY 17  AD 2 LIBG 6 - 13
+SID VOR RWY 17 DESCRIPTION TABLES  AD 2 LIBG 6 - 15
+Carte - Charts Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIBG AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIBG AD 2.25 Visual segment surface (VSS) penetration

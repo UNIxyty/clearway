@@ -1,0 +1,1979 @@
+=== Page 1 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+© Austro Control GmbH
+LOWK - Klagenfurt
+LOWK AD 2.1 ORTSKENNUNG UND NAME DES 
+FLUGPLATZES
+LOWK AD 2.1 AERODROME LOCATION INDICA-
+TOR AND NAME
+LOWK AD 2.2 LAGE UND VERWALTUNG DES 
+FLUGPLATZES
+LOWK AD 2.2 AERODROME GEOGRAPHICAL 
+AND ADMINISTRATIVE DATA
+1 KOORDINATEN UND LAGE DES 
+FLUGPLATZBEZUGSPUNKTES
+46 38 34N 014 20 14E
+1410 M westlich der Schwelle Piste 28R auf der Pistenmittellinie
+ARP COORDINATES AND SITE AT AD 46 38 34N 014 20 14E
+1410 M W FM THR RWY 28R on RCL
+2 RICHTUNG UND ENTFERNUNG VON KLAGENFURT 1.5 NM nordnordöstlich von Klagenfurt
+DIRECTION AND DISTANCE FROM KLAGENFURT 1.5 NM NNE FM Klagenfurt
+3 FLUGPLATZHÖHE ÜBER MEERESSPIEGEL/
+BEZUGSTEMPERATUR/DURCHSCHNITTLICHE 
+MINIMUMTEMPERATUR
+449 M (1472 FT) / 27.7 °C / -4.6 °C
+___ Für unterstrichene Höhen über MSL siehe GEN 2.1, Punkt 4 / for underlined ELEV 
+see GEN 2.1, item 4
+ELEVATION/REFERENCE TEMPERATURE/MEAN LOW 
+TEMPERATURE
+4 GEOID UNDULATION 48 M (157 FT)
+5 ORTSMISSWEISUNG/JÄHRLICHE ÄNDERUNG 4°E (JAN 2022) / 0.1°E
+MAGNETIC VARIATION/ANNUAL CHANGE
+6 FLUGPLATZBETREIBER, ADRESSE, TELEFON, TELEFAX, 
+TELEX, FLUGFERNMELDEDIENST, EMAIL, WEBSITE
+Kärntner Flughafenbetriebsgesellschaft m.b.H.
+Flughafenstraße 60-64
+9020 Klagenfurt am Wörthersee
+AUSTRIA
+TEL: +43 463 415 00-0
+FAX: +43 463 415 00-236
+SITA: KLUZZXH
+AFS: LOWKYDYX
+EMAIL: info@klu-airport.at
+WWW: https://www.klagenfurt-airport.at
+AD OPERATOR, ADDRESS, TELEPHONE, TELEFAX, 
+TELEX, AFS, EMAIL, WEBSITE
+7 GENEHMIGTER FLUGVERKEHR IFR / VFR
+TYPES OF TRAFFIC PERMITTED
+8 ANMERKUNGEN NIL
+REMARKS
+LOWK AD 2.3 BETRIEBSZEITEN LO WK AD 2.3 OPERATIONAL HOURS
+1 FLUGPLATZBETRIEBSLEITUNG MON-FRI 0445-2230 (MON-FRI 0345-2130)
+SAT 0445-2100 (SAT 0345-2000)
+SUN 0600-2230 (SUN 0500-2130)AD ADMINISTRATION
+2 ZOLL- UND EINWANDERUNGSBEHÖRDE MON-FRI 0445-2230 (MON-FRI 0345-2130)
+SAT 0445-2100 (SAT 0345-2000)
+SUN 0600-2230 (SUN 0500-2130)CUSTOMS AND IMMIGRATION
+3 MEDIZINISCHE VERSORGUNG Flughafenarzt auf Anfrage
+HEALTH AND SANITATION Doctor O/R
+LOWK AD 2-1
+29 NOV 2024
+AMDT 334
+
+=== Page 2 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+© Austro Control GmbH
+AIP AUSTRIA
+4 FLUGBERATUNG H24
+AIS/ARO Wien, TEL: +43 5 1703-3211, FAX: +43 5 1703-3256AIS BRIEFING OFFICE
+5 MELDESTELLE FÜR FLUGVERKEHRSDIENSTE H24
+AIS/ARO Wien, TEL: +43 5 1703-3211, FAX: +43 5 1703-3256ATS REPORTING OFFICE (ARO)
+6 WETTERBERATUNG H24
+MET BRIEFING OFFICE
+7 FLUGVERKEHRSDIENSTSTELLE Flugplatzkontrolle: MON-FRI 0430-2245 (MON-FRI 0330-2145)
+SAT 0430-2115 (SAT 0330-2015)
+SUN 0545-2245 (SUN 0445-2145)
+Anflugkontrolle: MON-FRI 0430-2245 (MON-FRI 0330-2145)
+SAT 0430-2115 (SAT 0330-2015)
+SUN 0545-2245 (SUN 0445-2145)
+ATS TWR: MON-FRI 0430-2245 (MON-FRI 0330-2145)
+SAT 0430-2115 (SAT 0330-2015)
+SUN 0545-2245 (SUN 0445-2145)
+APP: MON-FRI 0430-2245 (MON-FRI 0330-2145)
+SAT 0430-2115 (SAT 0330-2015)
+SUN 0545-2245 (SUN 0445-2145)
+8 BETANKUNG MON-FRI 0445-2230 (MON-FRI 0345-2130)
+SAT 0445-2100 (SAT 0345-2000)
+SUN 0600-2230 (SUN 0500-2130)FUELLING
+9 ABFERTIGUNG MON-FRI 0445-2230 (MON-FRI 0345-2130)
+SAT 0445-2100 (SAT 0345-2000)
+SUN 0600-2230 (SUN 0500-2130)HANDLING
+10 SICHERHEITSDIENST MON-FRI 0445-2230 (MON-FRI 0345-2130)
+SAT 0445-2100 (SAT 0345-2000)
+SUN 0600-2230 (SUN 0500-2130)SECURITY
+11 ENTEISUNG MON-FRI 0445-2230 (MON-FRI 0345-2130)
+SAT 0445-2100 (SAT 0345-2000)
+SUN 0600-2230 (SUN 0500-2130)DE-ICING
+12 ANMERKUNGEN Während der gesetzlichen Sommerzeit siehe Seite GEN 2.1-2.
+REMARKS During legal summer time see page GEN 2.1-2.
+LOWK AD 2.4 ABFERTIGUNGSDIENSTE UND EIN-
+RICHTUNGEN
+LOWK AD 2.4 HANDLING SERVICES AND FACILI-
+TIES
+1 FRACHTVERLADEGERÄTE Förderbänder (bis 4.5 M Höhe), Gepäckskarren, Scherenhubtisch (Tragkraft 5000 KG, 
+Hubhöhe 4.5 M), Hubstapler (Tragkraft 4000 KG), PRM-Lift, Schlepper, Lastkraftwagen, 
+Catering Fahrzeug.
+CARGO-HANDLING FACILITIES Conveyor belts (up to 4.5 M), luggage vans, scissor lift (load capacity 5000 KG, lifting up 
+to 4.5 M), fork lift (load capacity 4000 KG), PRM-lift, tractors, trucks, catering vehicle.
+2 TREIBSTOFF/ÖLSORTEN Treibstoffsorten: AVGAS 100LL, JET A1
+FUEL/OIL TYPES Fuel types: AVGAS 100LL, JET A1
+3 BETANKUNGSMÖGLICHKEITEN Verfügbar. Tel.: +43 463 415 00-350; Für Jet A1 gibt es keine Möglichkeit zur Barzahlung 
+oder Kartenzahlung. Es gibt nur die Möglichkeit, über unsere Reseller (WFS, AEG, Fuel, 
+360 Jet Fuel) eine Fuel Card oder einen Fuel Release zu beantragen.
+FUELLING FACILITIES/CAPACITY AVBL. Tel.: +43 463 415 00-350; There is no option to pay for Jet A1 with cash or card. 
+The only option is to request a fuel card or a fuel release through our resellers (WFS, 
+AEG, Fuel, 360 Jet Fuel).
+LOWK AD 2-2
+29 NOV 2024
+AMDT 334
+
+=== Page 3 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+4 ENTEISUNGSEINRICHTUNGEN Luftfahrzeugenteisungswagen (Hubhöhe 12 M), Luftfahrzeugenteisungswagen 
+(Hubhöhe 17 M), Streugeräte
+DE-ICING FACILITIES vehicle for de-icing of ACFT (lifting up to 12 M), vehicle for de-icing of ACFT (lifting up to 
+17 M), spreaders
+5 VERFÜGBARE HALLENRÄUME FÜR FLUGHAFENFREMDE 
+LUFTFAHRZEUGE
+NIL
+HANGAR SPACE FOR VISITING AIRCRAFT
+6 REPARATUREINRICHTUNGEN FÜR FLUGHAFENFREMDE 
+LUFTFAHRZEUGE
+Reparatur nur auf Anfrage, Tel.: +43 463 415 00-244 oder 245
+REPAIR FACILITIES FOR VISITING AIRCRAFT Repair only O/R, Tel.: +43 463 415 00-244 or 245
+7 ANMERKUNGEN NIL
+REMARKS
+LOWK AD 2.5 EINRICHTUNGEN FÜR PASSA-
+GIERE
+LOWK AD 2.5  PASSENGER FACILITIES
+1 HOTELS Hotels in Klagenfurt und am Wörthersee
+Hotels in Klagenfurt and at the Wörthersee
+2 RESTAURANTS Flughafen Bistro, Bordverpflegung auf Anfrage 24 Stunden vor Abflug
+AP Bistro, Catering O/R 24 HR prior to DEP
+3 BEFÖRDERUNGSMITTEL Öffentlicher Autobus, Taxi, Mietwagen, Bahnverbindung
+TRANSPORTATION Public bus, taxi, car rental service, railway station
+4 MEDIZINISCHE EINRICHTUNGEN Flughafen-Sanitätsstelle; Spital (1 NM)
+MEDICAL FACILITIES Airport first aid station; Hospital (1 NM)
+5 BANK UND POSTAMT Bank: Bankomat im Eingangsbereich
+Postamt: NIL
+BANK AND POST OFFICE Bank: Automated teller machine near the entrance to the terminal building
+Post office: NIL
+6 TOURISTENINFORMATION Im Abflugbereich vorhanden
+TOURIST OFFICE AVBL at DEP hall
+7 ANMERKUNGEN NIL
+REMARKS
+LOWK AD 2.6 RETTUNGS- UND FEUERWEHR-
+DIENSTE
+LOWK AD 2.6 RESCUE AND FIRE FIGHTING SER-
+VICES
+1 VERFÜGBARE FEUERBEKÄMPFUNGSKATEGORIEN Kategorie 7 (ICAO);  Kategorie 8 (ICAO) wird mit 24 stündiger Vorankündigung 
+bereitgestellt. PPR: TEL: +43 463 415 00-245 EMAIL: gac@airport-klagenfurt.at
+AD CATEGORY FOR FIRE FIGHTING CAT 7 (ICAO);  CAT 8 (ICAO) will be provided with 24 HR advance notice. PPR: TEL: 
++43 463 415 00-245 EMAIL: gac@airport-klagenfurt.at
+2 RETTUNGSAUSRÜSTUNG Gerätefahrzeuge, Bergungsfahrzeug
+RESCUE EQUIPMENT Trucks, rescue vehicle
+LOWK AD 2-3
+11 JUL 2025
+AMDT 342
+
+=== Page 4 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+© Austro Control GmbH
+AIP AUSTRIA
+3 MÖGLICHKEITEN ZUR ENTFERNUNG 
+MANÖVRIERUNFÄHIGER LUFTFAHRZEUGE
+Vorhanden
+CAPABILITY  FOR REMOVAL OF DISABLED AIRCRAFT AVBL
+4 ANMERKUNGEN NIL
+REMARKS
+LOWK AD 2.7 JAHRESZEITLICH BEDINGTE VER-
+FÜGBARKEIT - RÄUMUNG
+LOWK AD 2.7 SEASONAL AVAILABILITY - CLEA-
+RING
+1 RÄUMUNGSAUSRÜSTUNG Ganzjährig. Schneepflüge, Schneefräse, Schneeschleudern, Kehrblasgeräte, 
+Streugeräte für chemische Enteisung, Luftfahrzeugenteisungswagen (Hubhöhe 12 M), 
+Luftfahrzeugenteisungswagen (Hubhöhe 17 M)
+TYPES OF CLEARING EQUIPMENT All seasons. Snow ploughs, rotary snow plough, snow blowers, airblast sweepers, 
+spreader for chemical de-icing, vehicle for de-icing of aircraft (lifting up to 12 M), vehicle 
+for de-icing of aircraft (lifting up to 17 M)
+2 VORRANGIGE RÄUMUNGEN Piste, Rollbahn, Vorfeld
+CLEARANCE PRIORITIES RWY, TWY, APN
+3 ZU VERWENDENDES MATERIAL FÜR DIE 
+OBERFLÄCHENBEHANDLUNG DER BEWEGUNGSFLÄCHE
+Folgende Boden-Enteisungsmittel werden verwendet: Kalium Acetat (KAC), Harnstoff 
+(UREA), Kaliumformiat (KFOR).
+USE OF MATERIAL FOR MOVEMENT AREA SURFACE 
+TREATMENT
+Following Surface de/anti-icing fluids and solid materials are used: potassium acetate 
+fluids (KAC), carbamide (UREA), potassium formate (KFOR).
+4 SPEZIELL FÜR DEN WINTER PRÄPARIERTE PISTE NIL
+SPECIALLY PREPARED WINTER RUNWAYS
+5 ANMERKUNGEN Allgemeine Informationen bezüglich Erhebung, Einschätzung und Meldung des 
+Pistenzustandes sind enthalten in Kapitel AD 1.2, 2. Erhebung, Beurteilung und 
+Verbreitung des Oberflächenzustandes von Pisten und Winterdienstkonzept.
+REMARKS General information regarding runway condition assessment and reporting is included in 
+Chapter AD 1.2, 2. Runway Surface Condition Assessment and Reporting and Snow 
+Plan.
+LOWK AD 2.8 VORFELDER, ROLLBAHNEN UND 
+HÖHENMESSERKONTROLLPOSITION(EN)
+LOWK AD 2.8 APRONS, TAXIWAYS AND CHECK 
+LOCATIONS DATA
+1 OBERFLÄCHE UND TRAGFÄHIGKEIT DES VORFELDES EAST I: Beton, PCN 62/R/B/W/T
+EAST II: Beton, PCN 62/R/B/W/T
+GAC: Bitumen, PCN 22/F/B/W/T
+MAIN: Beton, PCN 62/R/B/W/T
+SOUTH: Gras, MTOM 2000 KG
+WEST: Beton, PCN 53/R/A/W/T
+APRON SURFACE AND STRENGTH EAST I: Concrete, PCN 62/R/B/W/T
+EAST II: Concrete, PCN 62/R/B/W/T
+GAC: Bitumen, PCN 22/F/B/W/T
+MAIN: Concrete, PCN 62/R/B/W/T
+SOUTH: Grass, MTOM 2000 KG
+WEST: Concrete, PCN 53/R/A/W/T
+LOWK AD 2-4
+29 NOV 2024
+AMDT 334
+
+=== Page 5 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+© Austro Control GmbH
+2 BREITE, OBERFLÄCHE UND TRAGFÄHIGKEIT DER 
+ROLLBAHNEN
+ROLLBAHNEN:
+B: 23 M, Beton, PCN 62/R/B/W/T, 4.5 M breite befestigte Schultern
+C: 23 M, Beton, PCN 62/R/B/W/T, 4.5 M breite befestigte Schultern
+L: 23 M, Beton, PCN 62/R/B/W/T, 4.5 M breite befestigte Schultern
+M: 18 M, Beton, PCN 53/R/A/W/T, 5.0 M breite befestigte Schultern
+X1: 10 M, Gras, MTOM 2000 KG
+X2: 10 M, Gras, MTOM 2000 KG
+Y: 10 M, Gras, MTOM 2000 KG
+Z: 10 M, Gras, MTOM 2000 KG
+ROLLGASSEN:
+10: Beton, PCN 62/R/B/W/T
+20: Beton, PCN 62/R/B/W/T
+30: Bitumen, PCN 22/F/B/W/T
+40: Bitumen, PCN 53/F/A/W/T
+TAXIWAY WIDTH, SURFACE AND STRENGTH TWY:
+B: 23 M, Concrete, PCN 62/R/B/W/T, paved shoulders, WID 4.5 M
+C: 23 M, Concrete, PCN 62/R/B/W/T, paved shoulders, WID 4.5 M
+L: 23 M, Concrete, PCN 62/R/B/W/T, paved shoulders, WID 4.5 M
+M: 18 M, Concrete, PCN 53/R/A/W/T, paved shoulders, WID 5.0 M
+X1: 10 M, Grass, MTOM 2000 KG
+X2: 10 M, Grass, MTOM 2000 KG
+Y: 10 M, Grass, MTOM 2000 KG
+Z: 10 M, Grass, MTOM 2000 KG
+TXL:
+10: Concrete, PCN 62/R/B/W/T
+20: Concrete, PCN 62/R/B/W/T
+30: Bitumen, PCN 22/F/B/W/T
+40: Bitumen, PCN 53/F/A/W/T
+3 POSITION ZUR HÖHENMESSERKONTROLLE UND HÖHE 
+ÜBER MEERESSPIEGEL
+Vorfeld - mittlere Höhe über Meeresspiegel 449 M (1473 FT) oder versetzte 
+Pistenschwelle 10L 448 M (1470 FT) oder Pistenschwelle 28R 440 M (1444 FT)
+___ Für unterstrichene Höhen über MSL siehe GEN 2.1, Punkt 4
+ALTIMETER CHECK LOCATION (ACL) AND ELEVATION APN - AVG ELEV 449 M (1473 FT) or DTHR 10L 448 M (1470 FT) or THR 28R 440 M 
+(1444 FT)
+___ for underlined ELEV see GEN 2.1, item 4
+4 VOR KONTROLLPUNKTE NIL
+VOR CHECKPOINTS
+5 INS KONTROLLPUNKTE Siehe Flugplatzkarte
+INS CHECKPOINTS See ADC
+6 ANMERKUNGEN
+Wendefläche THR RWY 10L: Beton, PCN 62/R/B/W/T
+Wendefläche THR RWY 28R: Beton, PCN 62/R/B/W/T
+REMARKS
+Turn around area THR RWY 10L: Concrete, PCN 62/R/B/W/T
+Turn around area THR RWY 28R: Concrete, PCN 62/R/B/W/T
+LOWK AD 2.9 ROLLHILFEN UND KONTROLLSYS-
+TEME UND MARKIERUNGEN
+LOWK AD 2.9 SURFACE MOVEMENT GUIDANCE 
+AND CONTROL SYSTEM AND MARKINGS
+1 VERWENDUNG VON 
+LUFTFAHRZEUGSTANDPLATZKENNZEICHEN, 
+ROLLLEITLINIEN UND OPTISCHEN ANDOCK/
+PARKFÜHRUNGSSYSTEMEN FÜR 
+LUFTFAHRZEUGSTANDPLÄTZE
+NIL
+USE OF AIRCRAFT STAND ID SIGNS, TWY GUIDE LINES 
+AND VISUAL DOCKING/PARKING GUIDANCE SYSTEM OF 
+AIRCRAFT STANDS
+LOWK AD 2-5
+29 NOV 2024
+AMDT 334
+
+=== Page 6 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+© Austro Control GmbH
+AIP AUSTRIA
+2 PISTEN- UND ROLLBAHNMARKIERUNGEN SOWIE 
+BELEUCHTUNG
+Markierungshilfen: - Pistenkennzahlen
+- Schwellen
+- Pistenmittellinie
+- Pistenrand
+- Wendeflächenrand
+- Wendeflächenmarkierung
+- Aufsetzzone und Festabstand Piste 28R
+- Rollbahnmittellinien
+- Rollbahnrand
+- Rollhaltpunkte
+- Graspistenumgrenzung
+- Grasrollbahnen (Dachreiter)
+- Zwischenhaltepositionen L1, L2, M1: Markierung gelb
+RWY AND TWY MARKINGS AND LGT Marking aids: - RWY designation NR
+- THR
+- RCL
+- RWY edge
+- edge of turn-around areas
+- Turn pad marking
+- TDZ and F DIST RWY 28R
+- TWY CL
+- TWY edge
+- taxi holding positions
+- grass RWY boundary
+- grass TWY (boundary markers)
+- intermediate holding positions L1, L2, M1: Marking yellow
+3 HALTEBALKEN UND “RUNWAY GUARD LIGHTS” Haltebalken verfügbar. Siehe Flugplatzkarte / "Runway Guard Lights" nicht vorhanden.
+Die Rollhaltbefeuerung für die Betriebspiste wird während der Betriebszeit durchgehend 
+betrieben. 
+Die Intensität wird den herrschenden Wetterbedingungen angepasst.
+STOP BARS AND RUNWAY GUARD LIGHTS Stop bars available. See Aerodrome chart / Runway Guard Lights - NIL
+The stop bar lights for the runway in use will be switched on during operational hours.
+The intensity will be adjusted to suit the prevailing weather conditions.
+4 ANDERE PISTENSCHUTZMASSNAHMEN NIL
+OTHER RUNWAY PROTECTION MEASURES
+5 ANMERKUNGEN NIL
+REMARKS
+LOWK AD 2.10 FLUGPLATZHINDERNISSE LOWK AD 2.10 AERODROME OBSTACLES
+OBST ID / BEZEICHNUNG ART DES HINDERNISSES
+OBST PSN
+MAXIMALE 
+HÖHE ÜBER 
+MSL (FT) HGT
+(FT)
+TAGESKENN-
+ZEICHNUNG
+ART UND 
+FARBE DER 
+BEFEUER-
+UNG
+OBST ID / DESIGNATION OBST TYPE ELEV (FT) MARKING
+TYPE AND 
+COLOUR OF 
+LGT
+abcde
+siehe Flugplatzhinderniskarte
+see Aerodrome Obstacle Chart
+LOWK AD 2-6
+27 DEC 2024
+AMDT 335
+
+=== Page 7 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+© Austro Control GmbH
+LOWK AD 2.11 VERFÜGBARE WETTERINFORMA-
+TIONEN
+LOWK AD 2.11 METEOROLOGICAL INFORMATI-
+ON PROVIDED
+1 ZUGEHÖRIGER WETTERDIENST MET OFFICE WIEN-SCHWECHAT
+ASSOCIATED MET OFFICE
+2 DIENSTSTUNDEN /
+WETTERDIENST AUßERHALB DER DIENSTSTUNDEN
+H24
+HOURS OF SERVICE /
+MET OFFICE OUTSIDE HOURS
+3 ZUSTÄNDIGE STELLE FÜR DIE TAF ERSTELLUNG/
+GÜLTIGKEITSDAUER
+MET OFFICE WIEN-SCHWECHAT / 24HR
+OFFICE RESPONSIBLE FOR TAF PREPARATION/
+PERIODS OF VALIDITY
+4 ART DER LANDEWETTERVORHERSAGE/
+AUSGABEINTERVAL
+TREND (TR), während der Öffnungszeiten
+TREND FORECAST/
+INTERVAL OF ISSUANCE
+TREND (TR), during OPS HR
+5 VERFÜGBARE BERATUNG/KONSULTATION Telefon (T)
+BRIEFING/CONSULTATION PROVIDED Telephone (T)
+6 FLUGDOKUMENTATION
+SPRACHE(N)
+EN, GE
+FLIGHT DOCUMENTATION
+LANGUAGE(S) USED
+7 VERFÜGBARE KARTEN UND SONSTIGE INFORMATIONEN 
+FÜR BERATUNG UND KONSULTATION
+Boden- und Höhenwetterkarten, Karten für signifikantes Wetter, weitere Karten für die 
+‘Allgemeine Luftfahrt’
+CHARTS AND OTHER INFORMATION AVAILABLE FOR 
+BRIEFING AND CONSULTATION
+Surface and Upper level weather charts, significant weather charts, other charts for 
+General Aviation
+8 ZUSÄTZLICHE AUSRÜSTUNG ZUR VERSORGUNG MIT 
+INFORMATIONEN
+Wetterradar- und Satellitenbildinformationen WXR/APT, Blitzdaten
+SUPPLEMENTARY EQUIPMENT AVAILABLE FOR 
+PROVIDING INFORMATION
+Weatherradar and satellite information WXR/APT, lightning detection
+9 BEREITSTELLUNG DER INFORMATIONEN AN ATS 
+STELLEN
+Anflugkontrollstelle, Flugplatzkontrollstelle
+ATS UNITS PROVIDED WITH INFORMATION APP, TWR
+10 ZUSÄTZLICHE INFORMATIONEN (VERRINGERUNG DES 
+DIENSTES, ETC.)
+NIL
+ADDITIONAL INFORMATION (LIMITATION OF SERVICE, 
+ETC.)
+LOWK AD 2-7
+27 DEC 2024
+AMDT 335
+
+=== Page 8 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+LOWK AD 2.12 ÄUSSERE PISTENMERKMALE LO WK AD 2.12 RWY PHYSICAL CHARACTERIS-
+TICS
+KENNZAHLEN
+PISTE
+NUMMER
+PISTENRICHTUNG MAßE  DER PISTE (M) TRAGFÄHIGKEIT 
+(PCN) UND 
+OBERFLÄCHE DER 
+PISTE UND 
+STOPPFLÄCHE
+SCHWELLEN-
+KOORDINATEN
+PISTENEND-
+KOORDINATEN
+GEOID UNDULATION 
+(M) DER SCHWELLE
+SCHWELLENHÖHE 
+UND HÖCHSTE HÖHE 
+DER AUFSETZZONE 
+VON 
+PRÄZISIONSANFLUG
+-PISTEN ÜBER MSL 
+(M)
+NEIGUNG DER PISTE 
+UND STOPPFLÄCHE
+DESIGNATIONS
+RWY
+NR
+TRUE BRG GEO DIMENSIONS OF RWY 
+(M)
+STRENGTH (PCN) 
+AND SURFACE OF 
+RWY AND SWY
+THR COORDINATES
+RWY END 
+COORDINATES
+THR GEOID 
+UNDULATION (M)
+THR ELEVATION AND 
+HIGHEST ELEVATION 
+OF TDZ OF 
+PRECISION APP RWY 
+(M)
+SLOPE OF
+RWY-SWY
+1 234567
+10L 106.28 2720 x 45 RWY: PCN 62/F/A/
+W/T
+Bitumen
+SWY: NIL 
+46 38 43.58N
+014 19 23.54E
+DER: 46 38 20.69N
+014 21 17.23E
+GUND: 48
+448 -0.30%
+28R 286.30 2720 x 45 RWY: PCN 62/F/A/
+W/T
+Bitumen
+SWY: NIL 
+46 38 20.70N
+014 21 17.24E
+DER: 46 38 45.39N
+014 19 14.51E
+GUND: 48
+440
+0.30%
+10R 106.00 710 x 25 RWY: MTOM 2000 
+KG
+Gras / Grass
+SWY: NIL 
+46 38 37.75N
+014 19 17.24E
+GUND: 48
+447 NIL
+28L 286.00 710 x 25 RWY: MTOM 2000 
+KG
+Gras / Grass
+SWY: NIL 
+46 38 33.11N
+014 19 40.31E
+GUND: 48
+445 NIL
+___ Für unterstrichene Höhen über MSL siehe GEN 2.1, Punkt 4 / for underlined ELEV see GEN 2.1, item 4
+KENNZAHLEN
+PISTE
+NUMMER
+AUSMAß DER 
+STOPPFLÄCHE (M)
+AUSMAß DER 
+FREIFLÄCHE (M)
+AUSMAß DES 
+PISTENSTREIFENS 
+(M)
+AUSMAß DER 
+PISTENENDSICHER-
+HEITSFLÄCHE (M)
+AUFFANGVOR-
+RICHTUNG DER 
+PISTE
+HINDERNISFREIE 
+ZONE
+DESIGNATIONS
+RWY
+NR
+SWY DIMENSIONS 
+(M)
+CWY DIMENSIONS 
+(M)
+STRIP DIMENSIONS 
+(M)
+RESA DIMENSIONS 
+(M)
+RAG OFZ
+1 8 9 1 01 11 21 3
+10L NIL 60 x 150 2840 x 300 240 x 90 NIL NIL
+28R NIL NIL 2840 x 300 240 x 90 NIL verfügbar
+AVBL
+10R NIL NIL 830 x 60 30 x 60 NIL NIL
+28L NIL NIL 830 x 60 30 x 60 NIL NIL
+LOWK AD 2-8
+30 OCT 2025
+AIRAC AMDT 302
+
+=== Page 9 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+KENNZAHLEN
+PISTE
+NUMMER
+ANMERKUNGEN
+DESIGNATIONS
+RWY
+NR
+REMARKS
+11 4
+10L/28R Schwelle Piste 10L um 200 M pisteneinwärts versetzt. Entlang der Pistenränder und der Wendeflächen 7.5 M breite befestigte Schultern.
+Pistentyp Piste 10L: Non-precision approach runway. Pistentyp Piste 28R: Instrument CAT III.
+Negative Objekte innerhalb der RESA und des Pistenstreifens sind nicht angerampt.
+DTHR RWY 10L displaced 200 M inward. Along RWY edges and turn-around areas paved shoulders, WID 7.5 M.
+RWY type RWY 10L: Non-precision approach runway. RWY type RWY 28R: Instrument CAT III.
+Buried objects within RESA and RWY strip are not chamfered.
+10R/28L Schwelle Piste 10R und 28L (Graspiste) 100 M pisteneinwärts versetzt.
+DTHR RWY 10R and 28L (grass RWY) displaced 100 M inward.
+LOWK AD 2.13 VERFÜGBARE STRECKEN LOWK AD 2.13 DECLARED DISTANCES
+PISTENKENNZAHL TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+ANMERKUNGEN
+RWY DESIGNATOR REMARKS
+1 2345 6
+10L
+TWY B
+TWY C
+2720
+2460
+2115
+2780
+2520
+2175
+2720
+2460
+2115
+2520
+NIL
+NIL
+NIL
+28R 2720 2720 2720 2720 NIL
+10R 710 710 710 610 NIL
+28L 710 710 710 610 NIL
+LOWK AD 2-9
+17 MAY 2024
+AMDT 327
+
+=== Page 10 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+© Austro Control GmbH
+AIP AUSTRIA
+LOWK AD 2.14 ANFLUG- UND PISTENBEFEUE-
+RUNG
+LOWK AD 2.14 APPROACH AND RUNWAY LIGHT-
+ING
+PISTENKENNZAHL ART, LÄNGE UND STÄRKE DER 
+ANFLUGBEFEUERUNG
+BEFEUERUNG DER PISTEN-
+SCHWELLE, FARBE UND 
+AUßENBALKEN
+ART DES GLEITWINKELBE-
+FEUERUNGSSYSTEMS
+ART UND LÄNGE DER PISTEN-
+AUFSETZZONENBEFEUERUNG
+RWY DESIGNATOR APCH LGT TYPE
+LENGTH
+INTENSITY
+THR LGT
+COLOUR
+WINGBARS
+TYPE OF VISUAL APP SLOPE 
+INDICATOR SYSTEM
+TYPE AND LENGTH OF TDZ LGT
+1 2345
+10L SALS, 420 M, in 5 Stufen regelbar; 
+Anflugbefeuerungssystem und 
+Rollbahnmittellinienbefeuerung 
+gleichzeitig aktiviert für Landung 
+auf Piste 10L. Geringe 
+Abweichung des Abstands 
+zwischen der einfachen 
+Anflugbefeuerung und dem ersten 
+Pistenmittellinienfeuer auf Piste 
+10L.
+SALS, 420 M, adjustable in 5 
+stages; Approach lighting system 
+and RCLL simultaneously 
+activated for landing on RWY 10L. 
+Minor deviation in distance 
+between simple approach lighting 
+system and first RWY CL LGT on 
+RWY 10L.
+grün (Unterflurfeuer, WBAR)
+G (SFC LGT, WBAR)
+PAPI, Balken 283 M von versetzter 
+Schwelle Piste 10L, Helligkeit in 5 
+Stufen regelbar.
+Gleitwinkel: 3.5°
+MEHT: 51.2 FT
+PAPI, Bars 283 M FM DTHR RWY 
+10L, LGT INTST adjustable in 5 
+stages.
+Glide angle: 3.5°
+MEHT: 51.2 FT
+NIL
+28R PALS (ICAO-Standard, CAT II/III), 
+900 M, mit Blitzfeuern; in 5 Stufen 
+regelbar
+PALS (ICAO-standard, CAT II/III), 
+900 M, with FLG LGT; adjustable 
+in 5 stages
+grün
+G
+PAPI, Balken 354 M von Schwelle 
+Piste 28R, Helligkeit in 5 Stufen 
+regelbar.
+Gleitwinkel: 3.0°
+MEHT: 63.1 FT
+PAPI, Bars 354 M FM DTHR RWY 
+28R, LGT INTST adjustable in 5 
+stages.
+Glide angle: 3.0°
+MEHT: 63.1 FT
+weiß (Unterflurfeuer) 
+Feuerabstand 30M
+W (SFC LGT) DIST BTN LGT 30M
+10R NIL NIL NIL NIL
+28L NIL NIL NIL NIL
+PISTENKENNZAHL LÄNGE, ABSTAND, FARBE UND 
+STÄRKE DER PISTENMITTELLI-
+NIENBEFEUERUNG
+LÄNGE, ABSTAND, FARBE UND 
+STÄRKE DER 
+PISTENRANDBEFEUERUNG
+FARBE DER PISTENENDBE-
+FEUERUNG UND AUßENBAL-
+KEN
+LÄNGE UND FARBE DER 
+STOPPFLÄCHENBEFEUERUNG
+RWY DESIGNATOR RWY CENTRE LINE LGT
+LENGTH, SPACING, COLOUR 
+AND INTENSITY
+RWY EDGE LGT
+LENGTH, SPACING, COLOUR 
+AND INTENSITY
+RWY END LGT
+COLOUR
+WINGBARS
+SWY LGT 
+LENGTH, COLOUR
+1 6789
+10L W bis 900 M vor Pistenende; W/R 
+von 900 M bis 300 M vor 
+Pistenende; R auf den letzten 300 
+M der Piste. Feuerabstand 15 M, 
+Hochleistungsfeuer
+W to 900 M BFR RWY end; W/R 
+FM 900 M to 300 M BFR RWY 
+end; R on the last 300 M of RWY; 
+DIST BTN LGT 15 M, LIH
+weiß, Hochleistungsfeuer (von 
+versetzter Schwelle Piste 10L 
+pistenauswärts R - pisteneinwärts 
+W; Y auf den letzten 600 M der 
+Piste)
+W, LIH (FM DTHR RWY 10L 
+outward R - inward W; Y on the 
+last 600 M of RWY)
+rot, Hochleistungsfeuer
+R, LIH
+NIL
+LOWK AD 2-10
+17 MAY 2024
+AMDT 327
+
+=== Page 11 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+© Austro Control GmbH
+28R W bis 900 M vor Pistenende; W/R 
+von 900 M bis 300 M vor 
+Pistenende; R auf den letzten 300 
+M der Piste. Feuerabstand 15 M, 
+Hochleistungsfeuer
+W to 900 M BFR RWY end; W/R 
+FM 900 M to 300 M BFR RWY 
+end; R on the last 300 M of RWY; 
+DIST BTN LGT 15 M, LIH
+weiß, Hochleistungsfeuer (Y auf 
+den letzten 600 M der Piste)
+W, LIH (Y on the last 600 M of 
+RWY)
+rot, Hochleistungsfeuer
+R, LIH
+NIL
+1 0 R N I LN I LN I LN I L
+2 8 L N I LN I LN I LN I L
+PISTENKENNZAHL ANMERKUNGEN
+RWY DESIGNATOR REMARKS
+11 0
+10L Pistenbefeuerung: gerichtete Hochle istungsfeuer in 5 Stufen regelbar
+RWY LGT: directional LGT adjustable in 5 stages, LIH
+28R Pistenbefeuerung: gerichtete Hochle istungsfeuer in 5 Stufen regelbar
+RWY LGT: directional LGT adjustable in 5 stages, LIH
+10R NIL
+28L NIL
+LOWK AD 2.15 SONSTIGE BEFEUERUNG, NOT-
+STROMVERSORGUNG
+LOWK AD 2.15 OTHER LIGHTING, SECONDARY 
+POWER SUPPLY
+1 ABN/IBN STANDORT, EIGENSCHAFTEN UND 
+BETRIEBSZEIT
+NIL
+ABN/IBN LOCATION, CHARACTERISTICS AND HOURS OF 
+OPERATION
+2 LDI STANDORT UND BEFEUERUNG,
+ANEMOMETER STANDORT UND BEFEUERUNG
+LDI: NIL
+Anemometer: 
+- Piste 10L: 240 M südlich der Pistenmittellinie, 310 M südöstlich der Schwelle Piste 10L, 
+nicht befeuert.
+- Piste 28R: 310 M südlich der Pistenmittellinie, 640 M südwestlich der Schwelle Piste 
+28R, nicht befeuert.
+LDI LOCATION AND LGT
+ANEMOMETER LOCATION AND LGT
+LDI: NIL
+Anemometer: 
+- RWY 10L: 240 M S of RCL, 310 M SE of THR RWY 10L, not LGTD.
+- RWY 28R: 310 M S of RCL, 640 M SW of THR RWY 28R, not LGTD.
+PISTENKENNZAHL LÄNGE, ABSTAND, FARBE UND 
+STÄRKE DER PISTENMITTELLI-
+NIENBEFEUERUNG
+LÄNGE, ABSTAND, FARBE UND 
+STÄRKE DER 
+PISTENRANDBEFEUERUNG
+FARBE DER PISTENENDBE-
+FEUERUNG UND AUßENBAL-
+KEN
+LÄNGE UND FARBE DER 
+STOPPFLÄCHENBEFEUERUNG
+RWY DESIGNATOR RWY CENTRE LINE LGT
+LENGTH, SPACING, COLOUR 
+AND INTENSITY
+RWY EDGE LGT
+LENGTH, SPACING, COLOUR 
+AND INTENSITY
+RWY END LGT
+COLOUR
+WINGBARS
+SWY LGT 
+LENGTH, COLOUR
+16 7 8 9
+LOWK AD 2-11
+17 MAY 2024
+AMDT 327
+
+=== Page 12 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+© Austro Control GmbH
+AIP AUSTRIA
+3 ROLLBAHNRAND- UND MITTELLINIENBEFEUERUNG B:  Rollbahnrand: blau, Niederleistungsfeuer; Rollbahnmittellinie: grün, grün/gelb von 
+Rollhalt bis Pistenmittellinie, Hochleistungsfeuer; Rollhalt: rot, Hochleistungsfeuer.
+C: Rollbahnrand: blau, Niederleistungsfeuer; Rollbahnmittellinie: grün, grün/gelb von 
+Rollhalt bis Pistenmittellinie, Hochleistungsfeuer; Rollhalt: rot, Hochleistungsfeuer.
+L: Rollbahnmittellinie: grün, Hochleistungsfeuer.
+M: Rollbahnrand: blau, Niederleistungsfeuer; Rollbahnmittellinie: grün, 
+Hochleistungsfeuer.
+Wendeflächen Piste 10L/28R: Mittellinienbefeuerung: NIL
+TWY EDGE AND CENTRE LINE LIGHTING B:  TWY edge: B, LIL; TWY CL: G, G/Y FM HLDG PSN to RCL, LIH; HLDG PSN: R, LIH.
+C: TWY edge: B, LIL; TWY CL: G, G/Y FM HLDG PSN to RCL, LIH; HLDG PSN: R, LIH.
+L: TWY CL: G, LIH.
+M: TWY edge: B, LIL; TWY CL: G, LIH.
+Turn pads RWY 10L/28R: CL LGT: NIL.
+4 NOTSTROMVERSORGUNG/UMSCHALTZEITEN Notstromversorgung gemäß ICAO Annex 14, Kapitel 8, Punkt 8.1.3; maximale 
+Umschaltzeit unter 15 Sekunden. Für IFR-Flüge wird die Umschaltzeit der 
+Notstromanlage zur Lastübernahme für die Flugplatzbefeuerung auf 1 Sekunde reduziert 
+bei: 1. Hauptwolkenuntergrenze unter 700 FT oder 2. Bodensicht weniger als 1500 M 
+oder 3. Nacht, wenn Piste 10L in Betrieb ist, bzw. wenn ein PLATZRUNDENANFLUG 
+wahrscheinlich ist.
+SECONDARY POWER SUPPLY/SWITCH-OVER TIME Secondary power supply according ICAO Annex 14, chapter 8, item 8.1.3; maximum 
+switch-over time 15 seconds. For IFR flights the switch-over time of the secondary power 
+supply for automatic connection to aerodrome lighting will be reduced to 1 second if: 1. 
+the ceiling is below 700 FT or 2. the ground visibility is less than 1500 M or 3. during night 
+when runway 10L is in use or a CIRCLING APPROACH is likely.
+5 ANMERKUNGEN Vorfeldrandbefeuerung: GAC, blau, Niederleistungsfeuer; WEST, blau, 
+Niederleistungsfeuer
+Wendeflächenrandbefeuerung: blau, Niederleistungsfeuer.
+REMARKS APN edge LGT: GAC, B, LIL; WEST, B, LIL
+Turn-around area edge LGT: B, LIL.
+LOWK AD 2.16 HUBSCHRAUBERLANDEFLÄCHE LOWK AD 2.16 HELICOPTER LANDING AREA
+KENNZAHLEN KOORDINATEN TLOF ODER 
+SCHWELLE DER FATO
+TLOF UND/ODER FATO HÖHE 
+ÜBER MSL M/FT
+TLOF UND FATO BEREICH, 
+OBERFLÄCHE, TRAGFÄHIGKEIT, 
+MARKIERUNGEN
+TRUE BRG DER FATO
+DESIGNATIONS COORD TLOF OR THR OF FATO, 
+GUND
+TLOF AND/OR FATO ELEV M/FT TLOF AND FATO AREA 
+DIMENSIONS, SFC, STRENGTH, 
+MARKING
+TRUE BRG OF FATO
+1234
+NIL
+KENNZAHLEN VERFÜGBARE STRECKEN APP UND FATO BEFEUERUNG ANMERKUNGEN
+DESIGNATIONS DECLARED DIST AVBL APP AND FATO LGT REMARKS
+56 7
+NIL
+LOWK AD 2.17 ATS LUFTRAUM L OWK AD 2.17 ATS AIRSPACE
+1 BEZEICHNUNG UND SEITLICHE BEGRENZUNG CTR  LOWK
+46 45 50.0000N 014 09 59.0000E - 46 40 09.0000N 014 37 42.0000E - 
+46 40 07.0000N 014 42 00.0000E - 46 35 28.0000N 014 45 18.0000E - 
+46 33 07.0000N 014 38 45.0000E - 46 32 20.0000N 014 36 40.0000E - 
+46 35 19.0000N 014 22 00.0000E - 46 35 10.0000N 014 09 25.0000E - 
+46 37 22.0000N 014 06 43.0000E - 46 38 15.0000N 014 07 03.0000E - 
+46 40 01.0000N 014 07 44.0000E - 46 44 01.0000N 014 09 17.0000E - 
+46 45 50.0000N 014 09 59.0000E
+DESIGNATION AND LATERAL LIMITS
+LOWK AD 2-12
+17 MAY 2024
+AMDT 327
+
+=== Page 13 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+© Austro Control GmbH
+2 HÖHENBEGRENZUNG 4500 FT AMSL / GND
+VERTICAL LIMITS
+3 LUFTRAUMKLASSIFIZIERUNG D
+AIRSPACE CLASSIFICATION
+4 RUFZEICHEN DER FLUGVERKEHRSDIENSTSTELLE
+SPRACHE(N)
+KLAGENFURT TOWER
+EN, GE
+ATS UNIT CALL SIGN
+LANGUAGE(S)
+5 ÜBERGANGSHÖHE 3050 M (10000 FT) AMSL
+TRANSITION ALTITUDE
+6 BETRIEBSZEITEN H24
+HOURS OF APPLICABILITY
+7 ANMERKUNGEN NIL
+REMARKS
+LOWK AD 2.18 ATS FERNMELDEEINRICHTUNG-
+EN
+LOWK AD 2.18 ATS COMMUNICATION FACILITIES
+DIENST-
+BEZEICHNUNG RUFZEICHEN KANAL
+SATVOICE
+ANMELDE-
+ADRESSE DIENSTSTUNDEN ANMERKUNGEN
+SERVICE 
+DESIGNATION CALL SIGN CHANNEL LOGON 
+ADDRESS HOURS OF OPERATION REMARKS
+123 4 5 6 7
+APP KLAGENFURT RADAR 123.325 NIL NIL MON-FRI 0430-2245 
+(MON-FRI 0330-2145)
+SAT 0430-2115 
+(SAT 0330-2015)
+SUN 0545-2245 
+(SUN 0445-2145)
+NIL
+TWR KLAGENFURT TOWER 118.100 NIL NIL MON-FRI 0430-2245 
+(MON-FRI 0330-2145)
+SAT 0430-2115 
+(SAT 0330-2015)
+SUN 0545-2245 
+(SUN 0445-2145)
+NIL
+ATIS NIL 126.330 NIL NIL H24 Aktuelle ATIS Information auch über 
+Telefon abrufbar: +43 (0)5 1703 / 6831.
+Außerhalb der Dienststunden der 
+Flugverkehrsdienste wird die 
+automatisch generierte ATIS 
+Aussendung nicht überprüft.
+Actual ATIS also AVBL via TEL: +43 
+(0)5 1703 / 6831.
+No verification of automatic generated 
+ATIS BCST outside the OPS HR of 
+ATS.
+NOTFREQUENZ FÜR ALLE DIENSTE
+EMERGENCY FREQUENCY FOR ALL 
+SERVICES
+121.500 NIL NIL MON-FRI 0430-2245 
+(MON-FRI 0330-2145)
+SAT 0430-2115 
+(SAT 0330-2015)
+SUN 0545-2245 
+(SUN 0445-2145)
+NIL
+LOWK AD 2-13
+17 MAY 2024
+AMDT 327
+
+=== Page 14 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+© Austro Control GmbH
+AIP AUSTRIA
+LOWK AD 2.19 FUNKNAVIGATIONS- UND LANDE-
+HILFEN
+LOWK AD 2.19 RADIO NAVIGATION AND LAN-
+DING AIDS
+ART DER HILFE
+(VAR)
+UNTERSTÜTZTE 
+BETRIEBSARTEN DES 
+ILS/GLS/BASIS-GNSS/
+SBAS
+(ILS KLASSIFIKATION)
+(ANLAGEN-
+KLASSIFIKATION UND 
+BENENNUNG DER 
+ANFLUGHILFE FÜR 
+GBAS)
+(VOR/ILS 
+DEKLINATION)
+IDENTIFI-
+ZIERUNG
+FREQUENZ
+KANAL
+DIENSTE-
+ANBIETER
+KENNUNG 
+REFERENZ-
+PFAD
+BETRIEBS-
+ZEITEN
+KOORDINATEN HÖHE ÜBER MSL 
+DER DME ANTENNE / 
+GBAS 
+BEZUGSPUNKT; 
+ ELLIPSOIDHÖHE 
+DES GBAS 
+BEZUGSPUNKTES / 
+SBAS LTP ODER FTP
+NUTZUNGS
+-RADIUS 
+FÜR 
+DIENSTE 
+VOM GBAS-
+BEZUGS-
+PUNKT
+ANMERKUNGEN
+TYPE OF AID
+(VAR)
+TYPE OF SUPPORTED 
+OPS FOR ILS/GLS/
+BASIC GNSS/SBAS
+(ILS CLASSIFICATION)
+(FACILITY 
+CLASSIFICATION AND 
+APCH FACILITY 
+DESIGNATION FOR 
+GBAS)
+(VOR/ILS 
+DECLINATION)
+ID FREQ
+CH
+SER PROVIDER
+RPI
+HOURS OF 
+OPERATION
+COORDINATES ELEV OF DME 
+ANTENNA / GARP;
+ELLIPSOID HGT OF 
+GARP / SBAS LTP 
+OR FTP
+SERVICE 
+VOLUME 
+RADIUS 
+GBAS
+REMARKS
+12 3 4 5 6 7 8
+NDB
+(4°E / JAN 2022)
+KFT 374 KHZ H24 46 37 30.31N
+014 32 02.96E
+NIL NIL Reichweite 40 NM.
+Range 40 NM.
+LOWK AD 2-14
+17 MAY 2024
+AMDT 327
+
+=== Page 15 ===
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+© Austro Control GmbH
+DVOR/DME
+(4°E / JAN 2022)
+(Dekl./Decl.: 5°E)
+KFT 113.100 MHZ
+(CH78X)
+H24 DME:
+46 35 51.87N
+014 33 44.49E
+DVOR:
+46 35 51.31N
+014 33 44.36E
+694.4 M / 2278 FT NIL
+283° MAG, 8.94 NM zu THR 
+RWY 28R;
+Bereich 60 NM/FL500 jedoch 
+80 NM nach NW;
+1. Unzuverlässig im Sektor 
+050°-080° zwischen 19 NM 
+und 22 NM unter 11500 FT 
+AMSL; Im betroffenen Bereich 
+ist das VOR GRZ (116.20 MHZ) 
+zu verwenden!
+2. Zwischen 000°-360° und 
+von 10 NM bis zu 35 NM 
+können Kurssignalstörungen 
+wahrgenommen werden, 
+welche eine Warnanzeige von 
+bis zu 20 Sekunden in 
+verschiedenen Höhen und 
+Entfernungen verursachen; 
+Das Überfliegen der Station hat 
+durch Überprüfung der DME-
+Anzeige zu erfolgen!
+Anmerkung: Das 
+Instrumentenanflugverfahren 
+ILS 28R ist durch diese 
+Störungen nicht betroffen!
+283° MAG, 8.94 NM to THR 
+RWY 28R;
+Coverage 60 NM/FL500 but 80 
+NM to NW;
+1. Unreliable in sector 050°-
+080° between 19 NM and 22 
+NM below 11500 FT AMSL; 
+VOR GRAZ (116.20 MHZ) shall 
+be used in this area!
+2. BTN 000°-360° and FM 10 
+NM up to 35 NM course signal 
+interruptions causing flag alarm 
+up to 20 seconds may be 
+experienced at different ALT 
+and DIST; Station passage 
+shall be confirmed by DME-
+indications!
+Remark: The instrument 
+approach procedure ILS 28R is 
+not affected by these 
+interruptions!
+ART DER HILFE
+(VAR)
+UNTERSTÜTZTE 
+BETRIEBSARTEN DES 
+ILS/GLS/BASIS-GNSS/
+SBAS
+(ILS KLASSIFIKATION)
+(ANLAGEN-
+KLASSIFIKATION UND 
+BENENNUNG DER 
+ANFLUGHILFE FÜR 
+GBAS)
+(VOR/ILS 
+DEKLINATION)
+IDENTIFI-
+ZIERUNG
+FREQUENZ
+KANAL
+DIENSTE-
+ANBIETER
+KENNUNG 
+REFERENZ-
+PFAD
+BETRIEBS-
+ZEITEN
+KOORDINATEN HÖHE ÜBER MSL 
+DER DME ANTENNE / 
+GBAS 
+BEZUGSPUNKT; 
+ ELLIPSOIDHÖHE 
+DES GBAS 
+BEZUGSPUNKTES / 
+SBAS LTP ODER FTP
+NUTZUNGS
+-RADIUS 
+FÜR 
+DIENSTE 
+VOM GBAS-
+BEZUGS-
+PUNKT
+ANMERKUNGEN
+TYPE OF AID
+(VAR)
+TYPE OF SUPPORTED 
+OPS FOR ILS/GLS/
+BASIC GNSS/SBAS
+(ILS CLASSIFICATION)
+(FACILITY 
+CLASSIFICATION AND 
+APCH FACILITY 
+DESIGNATION FOR 
+GBAS)
+(VOR/ILS 
+DECLINATION)
+ID FREQ
+CH
+SER PROVIDER
+RPI
+HOURS OF 
+OPERATION
+COORDINATES ELEV OF DME 
+ANTENNA / GARP;
+ELLIPSOID HGT OF 
+GARP / SBAS LTP 
+OR FTP
+SERVICE 
+VOLUME 
+RADIUS 
+GBAS
+REMARKS
+12 3 4 5 6 7 8
+LOWK AD 2-15
+17 MAY 2024
+AMDT 327
+
+=== Page 16 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+L
+(4°E / JAN 2022)
+KI 313 KHZ H24 46 38 00.68N
+014 22 56.57E
+NIL NIL 283° MAG, 1.2 NM zu 
+Schwelle Piste 28R; 
+Reichweite 25 NM.
+283° MAG, 1.2 NM to THR 
+RWY 28R; Range 25 NM.
+LOC 28R
+(4°E / JAN 2022)
+CAT III/E/4
+OEK 110.100 MHZ H24 46 38 48.03N
+014 19 01.44E
+NIL NIL LOC course 282° MAG
+DME 28R OEK CH38X H24 46 38 18.62N
+014 21 00.16E
+447.6 M / 1469 FT NIL Bei Gleitpfad-Antenne 
+liegend
+Co-located with GP antenna
+GP 28R 334.400 MHZ H24 46 38 18.91N
+014 21 00.64E
+NIL NIL GP 3°
+ILS RDH 17.1 M / 56 FT
+GPS 1575.42 MHZ
+U.S. Space 
+Force (USSF)
+H24 Landesweit/
+Statewide
+NIL NIL NIL
+SBAS EGNOS 
+E10A 
+(RWY 10L)
+1575.42 MHZ 
+(CH95190)
+ESSP - 
+European 
+Satellite 
+Service 
+Provider 
+S.A.S.
+H24 LTP/FTP: 
+46 38 43.58N
+014 19 23.54E
+496.0 M / 1627 FT NIL NIL
+SBAS EGNOS
+E28A
+(RWY 28R)
+1575.42 MHZ
+(CH42247)
+ ESSP - 
+European
+Satellite 
+Service 
+Provider 
+S.A.S.
+H24 LTP/FTP:
+46 38 20.70N
+014 21 17.24E
+488.0 M / 1601 FT NIL NIL
+ART DER HILFE
+(VAR)
+UNTERSTÜTZTE 
+BETRIEBSARTEN DES 
+ILS/GLS/BASIS-GNSS/
+SBAS
+(ILS KLASSIFIKATION)
+(ANLAGEN-
+KLASSIFIKATION UND 
+BENENNUNG DER 
+ANFLUGHILFE FÜR 
+GBAS)
+(VOR/ILS 
+DEKLINATION)
+IDENTIFI-
+ZIERUNG
+FREQUENZ
+KANAL
+DIENSTE-
+ANBIETER
+KENNUNG 
+REFERENZ-
+PFAD
+BETRIEBS-
+ZEITEN
+KOORDINATEN HÖHE ÜBER MSL 
+DER DME ANTENNE / 
+GBAS 
+BEZUGSPUNKT; 
+ ELLIPSOIDHÖHE 
+DES GBAS 
+BEZUGSPUNKTES / 
+SBAS LTP ODER FTP
+NUTZUNGS
+-RADIUS 
+FÜR 
+DIENSTE 
+VOM GBAS-
+BEZUGS-
+PUNKT
+ANMERKUNGEN
+TYPE OF AID
+(VAR)
+TYPE OF SUPPORTED 
+OPS FOR ILS/GLS/
+BASIC GNSS/SBAS
+(ILS CLASSIFICATION)
+(FACILITY 
+CLASSIFICATION AND 
+APCH FACILITY 
+DESIGNATION FOR 
+GBAS)
+(VOR/ILS 
+DECLINATION)
+ID FREQ
+CH
+SER PROVIDER
+RPI
+HOURS OF 
+OPERATION
+COORDINATES ELEV OF DME 
+ANTENNA / GARP;
+ELLIPSOID HGT OF 
+GARP / SBAS LTP 
+OR FTP
+SERVICE 
+VOLUME 
+RADIUS 
+GBAS
+REMARKS
+12 3 4 5 6 7 8
+LOWK AD 2-16
+11 JUL 2025
+AMDT 342
+
+=== Page 17 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+LOWK AD 2.20 LOKALE FLUGPLATZREGELUNG-
+EN
+LOWK AD 2.20 LOCAL AERODROME REGULATI-
+ONS
+1. ÖRTLICHE FLUGBESCHRÄNKUNGEN 1. LOCAL FLYING RESTRICTIONS
+1.1. Der Segelflug- und Fallschirmspringerbetrieb ist auf der
+unbefestigten Bewegungsfläche im südlichen Bereich des Flug-
+platzes durchzuführen. Eine Information darüber erfolgt via ATIS
+LOWK (FREQ: 126,330 MHz oder Tel. Nr.: +43 5 1703 6831).
+1.1. Glider flying and parachute jumping activity permitted on the
+unpaved movement area in the southern part of the aerodrome
+only. Information regarding glid er flying and parachute jumping
+activity will be broadcasted via ATIS LOWK (FREQ: 126,330
+MHz or phone number +43 5 1703 6831).
+1.2. Vorgaben für Trainings- und andere Flüge mit speziel-
+lem Flugprogramm
+1.2. Requirements for training- and other flights with special
+flight programme
+1.2.1. Als Trainingsflug in diesem Zusammenhang ist jeder der
+Ausbildung und Überprüfung von Pi loten dienende Flug zu ver-
+stehen ungeachtet der Flugregeln, nach denen dieser durchge-
+führt wird.
+1.2.1. As training flight in th is context shall be considered any
+flight operated with the purpos e of training and check-out of
+pilots, irrespective of the flight rules under which the flight is con-
+ducted.
+1.2.2. Die Flugverkehrskontro lle genehmigt Trainingsflüge nur
+bis zu einem Ausmaß, durch das keine wesentlichen Verzöge-
+rungen für den an- und abfliegenden Verkehr - insbesondere für
+Flüge im Linien- und Bedarfsverkehr - entstehen.
+1.2.2. ATC will only approve training flights to an extent not caus-
+ing excessive delays to arriving and departing traffic, in particular
+to scheduled and non-scheduled commercial air traffic.
+1.2.2.1. Deshalb ist es wichtig, dass der Pilot das beabsichtige
+Flugprogramm möglichst frühzeitig vor dem geplanten Abflug mit
+der zuständigen Flugverkehrskontrollstelle koordiniert.
+1.2.2.1. Therefore it is essentia l, that the pilot coordinates the
+intended flight programme as early as possible before the
+planned departure with the relevant ATC unit.
+1.2.2.2. Zuständige Flugverkehrskontrollstelle ist die Flugplatz-
+kontrollstelle bei Trainingsflügen, die zur Gänze im Flugplatzver-
+kehr eines kontrollierten Flugplatzes durchgeführt werden sollen.
+Bei darüber hinausführenden Trai ningsflügen ist die Anflugkon-
+trollstelle zuständig.
+1.2.2.2. Training flights to be conducted wholly within the aero-
+drome traffic circuit of a cont rolled aerodrome shall be coordi-
+nated with the tower control unit.
+Training flights beyond the aerodrome traffic circuit shall be coor-
+dinated with the approach control unit.
+1.2.3. Folgende kontrollierte Flüge müssen vor der Aufgabe des
+ATC Flugplanes mit der ATC St elle Klagenfurt (Telefonnummer
++43 5 1703 6812) koordiniert werden:
+1.2.3. The following controlled flights shall be coordinated with
+the ATC unit Klagenfurt (telephone number +43 5 1703 6812)
+prior to the submission of an ATC flight plan:
+• IFR Flüge
+: wenn (mehrere) Anflüge bzw. Fehlanflüge zu 
+Übungszwecken, Warterunden, Verfahrenskurven oder 
+Platzrunden in LOWK bzw. Airwork im Zuständigkeitsbe-
+reich Klagenfurt (z.B.: KFT - MOKEG - VIW) geplant sind;
+• VFR Flüge
+: Alleinflüge von Flugschülern ohne einen 
+befugten Zivilfluglehrer am Doppelsteuer (§ 32 Abs. 1 LVR 
+2014), Flüge nach angenommenen Instrumentenflugbe-
+dingungen (SERA.3220);
+• Sonstige Flüge im Zuständigkeitsbereich LOWK mit einem 
+speziellen Flugprogramm: Dazu zählen jedenfalls Arbeits-
+flüge (Art. 2 Z 12 VO (EU) 923/2012 [SERA-Verordnung]) 
+sowie Flüge wie zum Beispiel Kunstflüge (§ 15 LVR 2014), 
+Fallschirmabsprünge (§ 12 LVR 2014) sowie alle anderen 
+Flüge mit speziellem Programm. 
+• IFR flights
+: if (multiple) approaches or missed approaches 
+are planned for training purposes, holding patterns, proce-
+dure turns or traffic patterns in LOWK or airwork in the 
+area of responsibility of the ATC unit LOWK (e.g.: KFT - 
+MOKEG - VIW);
+• VFR flights
+: Solo flights by student pilots without a quali-
+fied flight instructor on board (§ 32 Para. 1 LVR 2014), 
+Simulated instrument flights (SERA.3220);
+• Other flights in the area of responsibility of LOWK with a 
+special program: Such flights include but are not limited to 
+flights conducting aerial work (Art. 2 (12) Regulation (EU) 
+923/2012 [SERA-Regulation]) as well as flights conducting 
+aerobatics (§ 15 LVR 2014), parachute activity (§ 12 LVR 
+2014) as well as all other flights with a special program. 
+Anmerkung: Bestehen Zweifel, ob eine Koordination gemäß den
+oben angeführten Regeln erforderlich ist, so soll
+der verantwortliche Pilot sich mit der ATC Stelle
+LOWK in Verbindung setzen.
+Remark: If there is any doubt as to whether coordination is
+required in accordance with the above described regu-
+lations, the pilot-in-comm and should contact the ATC
+unit LOWK.
+LOWK AD 2-17
+11 JUL 2025
+AMDT 342
+
+=== Page 18 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+Anmerkung: Das Nichteinhalten des oben beschriebenen Ver-
+fahrens kann zu signifikanten Verspätungen oder
+dem Ablehnen des beantragten Programms durch
+die ATC Stelle LOWK führen.
+Remark: Failure to comply with the above described procedure
+may result in significant delays or denial of the
+requested program by the ATC unit LOWK.
+1.2.4. Simulierte Schlechtwetterverfahren 1.2.4. Simulated All-weather operations
+1.2.4.1. Übungsanflüge mit simulierten geringen Entscheidungs-
+höhen sind mit der Sprechgruppe "REQUEST PRACTICE CAT II
+/ III APPROACH" zusammen mit dem Erstanruf bei der Anflug-
+kontrollstelle anzukündigen. Die Genehmigung wird, wenn
+immer es die Verkehrslage zulässt, erteilt.
+1.2.4.1. Training flights simula ting low minima approaches shall
+be announced on initial call with approach control using the
+phrase "REQUEST PRACTICE CAT II / III APPROACH".
+Depending on the traffic situat ion permission will be granted
+whenever possible.
+1.2.4.2. Die Verfahren bei geringer Sicht gemäß LOWK AD 2.22
+werden jedoch nur angewandt, so weit es die Verkehrslage
+zulässt. Die ILS-Signale können durch startende oder vorher
+gelandete Luftfahrzeuge negativ beeinflusst werden.
+1.2.4.2. The low-visibility pr ocedures according LOWK AD 2.22
+will be applied only if traffic permits. ILS signals can be disturbed
+by departing or preceding landing traffic.
+2. ANKOMMENDER IFR VERKEHR 2. ARRIVING IFR FLIGHTS
+2.1. Ankommende IFR Flüge haben, sofern keine anders lau-
+tende Freigabe erhalten wurde, die im Flugplan angegebene
+Flugroute inklusive Standard Arri val Route (siehe LOWK AD 2
+MAP 11-1) abzufliegen und danach in das veröffentlichte Warte-
+verfahren einzufliegen. RNAV Tr ansitions oder Radar-kursfüh-
+rung wird seitens ATC pistenabhängig freigegeben.
+2.1. Arriving IFR flights shall, unless instructed otherwise, follow
+their flight planned route including standard arrival route (see
+LOWK AD 2 MAP 11-1) and enter the published holding proce-
+dure thereafter. RNAV transitions or radar vectoring service will
+be provided by ATC depending on the runway in use.
+3. GEWITTER MIT BLITZTÄTIGKEIT 3. THUNDERSTORM WITH LIGHTNING ACTIVITY
+3.1. Die Abfertigung wird im Fall von Blitztätigkeit innerhalb von
+3 NM um den Flugplatzbezugspunkt eingestellt. Die Luftfahr-
+zeugbesatzung wird via ATIS bzw.  RTF informiert. Ein „Follow
+Me“-Fahrzeug zur Parkposition ist verfügbar.
+3.1. Dispatch will be discontinued in case of lightning activity
+within 3 NM around airport refer ence point. Flight crew will be
+informed via ATIS or RTF. ‘Follow Me’ guidance to parking stand
+is available. 
+4. CHEMISCHE ENTEISUNG 4. CHEMICAL DE-ICING
+4.1. Die chemische Enteisung ist li mitiert bis zu einer Breite von
+40 M auf der Piste 10L/28R und 15 M auf Rollbahnen. Die Streu-
+ung folgt den Mittellinienmarkierungen. Rollende Luftfahrzeuge
+sollen beim Zurollen bzw. Verlassen der Piste nicht von der
+Pistenmittellinienmarkierung und -befeuerung abweichen.
+4.1. Chemical de-icing is li mited to the width of 40 M on
+RWY 10L/28R and 15 M on taxiways. It is following centreline
+markings. Taxiing aircraft are reques ted to follow exactly centre-
+line markings and lights while entering and leaving the runway.
+LOWK AD 2.21 VERFAHREN ZUR LÄRMVERMEID-
+UNG
+LOWK AD 2.21 NOISE ABATEMENT PROCEDU-
+RES
+1. Vorzugsweise Pistenrichtung
+Zwecks Minderung des Fluglärms soll vorzugsweise auf der
+Piste 28R gelandet und von der Piste 10L gestartet werden (IFR
+und VFR Flüge).
+1. Preferential runway system
+To minimize noise landing on RWY 28R and take-off from RWY
+10L shall be performed (IFR and VFR flights) whenever possible.
+1.1. Luftfahrzeuge der Wirbel schleppenkategorie "LIGHT" sind
+von diesem Lärmminderungsve rfahren zur Gänze ausgenom-
+men.
+1.1. Aircraft of wake turbulenc e category "LIGHT" are totally
+exempted from this noise abatement procedure.
+1.2. Zwecks Minderung des Flugl ärms beträgt die Platzrunden-
+höhe 3000 FT AMSL.
+1.2. For the purpose of noise abatement the traffic pattern alti-
+tude is 3000 FT AMSL.
+LOWK AD 2-18
+11 JUL 2025
+AMDT 342
+
+=== Page 19 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+2. Entsprechend der österreich ischen "Zivilluftfahrzeug-Lärmzu-
+lässigkeitsverordnung ZLZV 2005" (BGBl. II NR 425/2005), gilt:
+An- und Abflüge auf österreichis chen Zivilflugplätzen dürfen mit
+Unterschallstrahlflugzeugen nur  mehr durchgeführt werden,
+wenn der von ihnen entwickelte Lär m zumindest die in Kapitel 3
+des ICAO Anhanges 16, Vol. I, festgelegten Lärmgrenzwerte
+nicht übersteigt.
+2. According to the Austrian ordinance "Zivilluftfahrzeug-Lärmzu-
+lässigkeitsverordnung ZLZV-2005" (BGBl. II NR 425/2005) the
+following is applicable:
+Approaches and departures to/from Austrian civil aerodromes
+are only permitted to be performed by subsonic jet aeroplanes if
+the produced noise does not exceed at least the noise limits
+specified in chapter 3 of ICAO Annex 16, Vol I.
+LOWK AD 2.22 FLUGVERFAHREN LOWK AD 2.22  FLIGHT PROCEDURES
+Ankommende Instrumentenflüge sollen ihren Flug nach dem auf
+der Karte "Standard Instrument Arrival Routes" (Teil AD 2.24)
+dargestellten Streckenschema planen.
+Arriving IFR flights shall plan thei r flight according to the routing
+depicted on the chart "Standard Inst rument Arrival Routes" (see
+part AD 2.24).
+1. RADARGEFÜHRTE INSTRUMENTENFLÜGE IN DER TMA 
+LOWK 1-4
+1. RADAR SERVICE FOR IFR ARRIVALS WITHIN TMA 
+LOWK 1-4
+1.1. Innerhalb der TMA LOWK 1-4 werden – soweit erforderlich –
+Luftfahrzeuge im Instrumentenflu g während der Betriebszeiten
+der Radar-Anflugkontrollstelle (siehe LOWK AD 2.18) bis zum
+Endanflug der verlautbarten Anfl ugverfahren radargeführt. Bei
+Ausübung der Radarkursführung im Anfangs- und Zwischenan-
+flugteil des jeweiligen Anflugv erfahrens, werden Mindestflughö-
+hen, welche Hindernisse innerhal b von 3 NM beiderseits des
+Kurses berücksichtigten, eingehalten.
+1.1. Within the TMA LOWK 1-4 during the operational hours of
+the radar approach unit (see LOWK AD 2.18) IFR flights will be –
+if necessary – radar vectored to the final approach track of the
+published approach procedures. W hen aircraft are radar vec-
+tored within the initial and the intermediate approach segment of
+the applicable IAP, the minimu m radar vectoring altitudes
+applied, consider obstacles with in 3 NM on either side of the
+track.
+2. INSTRUMENTEN-ANFLUGVERFAHREN 2. INSTRUMENT APPROACH PROCEDURES
+2.1. Die Instrumenten-Anflugverfahren zur Piste 10L und zur
+Piste 28R sowie ein Circling-Verfahren zur Piste 10L sind im Teil
+AD 2.24 enthalten.
+Der Einflug in ein Instrumentenanflugverfahren ist nur auf den
+verlautbarten Anflugkursen und Radialen zulässig.
+2.1. Instrument approach procedures to RWY 10L and to RWY
+28R and a prescribed circling procedure to RWY 10L are pro-
+vided and included in part AD 2.24.
+Entry into an instrument approach procedure is restricted to the
+published inbound tracks and radials.
+3. IFR-ABFLÜGE 3. IFR DEPARTURES
+3.1. Wegen des gebirgigen Geländes in der Umgebung des
+Flughafens sowie der ungewöhnlich hohen Mindestflughöhen
+auf den ATS-Strecken ist eine sorgfältige Berechnung aller
+Abflug-Parameter und des Steiggradienten erforderlich.
+Auf keinen Fall darf in eine Warterunde unterhalb der verlautbar-
+ten Mindestflughöhe eingeflogen werden.
+3.1. Due to mountainous terrain in  the vicinity of the airport and
+unusual high en-route minimum flight  altitudes a careful calcula-
+tion of the take-off parameters and the aircraft climb gradient is
+essential.
+In no case enter a holding pattern below the published minimum
+holding altitude.
+4. VERFAHREN FÜR VFR FLÜGE IN DER CTR LOWK UND 
+IN DER TMA LOWK 1-4
+4. PROCEDURES FOR VFR FLIGHTS WITHIN CTR LOWK 
+AND WITHIN TMA LOWK 1-4
+(Anweisungen sind einzuhalten)
+(Siehe Sichtflugkarte 1 : 250 000 LOWK AD 2 MAP 14-2)
+(Comply with instructions)
+(See VFR chart 1 : 250 000 LOWK AD 2 MAP 14-2)
+4.1. Anflüge 4.1. Approaches
+4.1.1. Die Anflugsektoren 'North' bzw. 'West' enden in den jewei-
+ligen Warterunden (Standardwar terunde mit Linkskurven). Für
+den weiteren Anflug warten Sie dort auf Freigaben, falls Sie nicht
+vorher eine Anflug- oder Landefreigabe erhalten haben.
+4.1.1. Arrival sectors 'North' and 'West' end in the respective
+holding patterns (Standard Pattern with left turns). For further
+approach hold there if not received an approach or landing clear-
+ance previously.
+4.1.2. Anflüge vom Osten sollen über die Punkte E1 und E2 zum
+VFR-Sektor 'North' geführt werden.
+4.1.2. Approaches from the east should be conducted via the
+points E1 and E2 to the VFR sector 'North'.
+LOWK AD 2-19
+11 JUL 2025
+AMDT 342
+
+=== Page 20 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+4.1.3. Aus Lärmschutzgründen so llen die in der Sichtflugkarte
+verlautbarten maximalen Flughöhen für die Einflugsektoren so
+lange wie möglich gehalten werden.
+4.1.3. Published maximum flight  altitudes for entry sectors
+according VFR chart should be kept as long as possible for noise
+abatement reasons.
+4.1.4. Fällt die Sprechfunkverbindung vor Erhalt der Einflugfrei-
+gabe aus, ist auf einen nicht kontrollierten Flugplatz auszuwei-
+chen. Ist dies nicht möglich,  ist über die Punkte N2 und N3
+einzufliegen und auf Lichtsignale in der Warterunde zu warten.
+4.1.4. In case of radio communication failure prior having
+received an entry clearance, divert to an uncontrolled aero-
+drome. If unable, proceed via points N2 and N3 and hold in the
+holding pattern awaiting light signals.
+4.1.5. Bei Ausfall der Sprechfunkverbindung nach Erhalt der Ein-
+flugfreigabe, ist der Flug ents prechend der Freigabe fortzuset-
+zen und auf Lichtsignale in der Warterunde zu warten.
+4.1.5. In case of radio communication failure after having
+received an entry clearance, the flight shall be continued accord-
+ing to the clearance, awaiting light signals in the holding pattern.
+Anmerkung: Bei Ausfall der Sprechfunkverbindung ist der
+Transponder auf A 7600 zu schalten.
+Remark: In case of radio communication failure the pilot shall
+squawk A 7600.
+4.2. Abflüge 4.2. Departures
+4.2.1. Bei Abflügen auf den Pisten 10L und 10R über die Sicht-
+flugstrecke SIERRA bzw. den Sichtflugsektor NORTH ist aus
+Lärmschutzgründen, sofern von ATC nicht anders angewiesen,
+erst nach dem Passieren der Görtschitztal-Bundesstraße bzw.
+des „METRO“-Marktes nach rechts bzw. links zu drehen.
+Nach dem Verlassen der CTR über SIERRA achten Sie auf Hän-
+gegleiter- und Paragleiterverkehr im Bereich „RADSBERG“.
+4.2.1. Departures on RWY 10L and 10R via VFR-route SIERRA
+or VFR-sector NORTH shall, unless otherwise instructed by
+ATC, initiate right/left turn for noise abatement reasons after hav-
+ing passed Görtschitztal-Street or ‘METRO’-market.
+After leaving the CTR via SIERRA caution on hang glider- and
+para glider traffic in the area of ‘RADSBERG’.
+4.2.2. Aus Lärmschutzgründen so llen die in der Sichtflugkarte
+verlautbarten maximalen Flughöhen fü r die Abflugstrecken/-sek-
+toren sobald wie möglich erreicht werden.
+4.2.2. Published maximum flight altitudes for exit routes/sectors
+according VFR chart should be r eached as soon as possible for
+noise abatement reasons.
+4.3. Transitflüge 4. 3. Transitflights
+4.3.1. Transitflüge werden entsp rechend der Verkehrslage frei-
+gegeben.
+4.3.1. Transitflights will be cleared if traffic situation permits.
+4.4. NORDO Flüge 4.4. NORDO Flights
+4.4.1. NORDO Anflüge dürfen nur über die Punkte N2 und N3
+und nur nach telefonischer Fr eigabe durchgeführt werden. Die
+Einflugzeit in die CTR ist anz ugeben und darf um nicht mehr als
+10 Minuten überschritten werden; ansonsten erlischt die Frei-
+gabe.
+4.4.1. NORDO-approaches may be executed only via the VFR
+points N2 and N3, provided a clearance has been obtained via
+telephone. The time of entering CTR must be indicated and must
+not be exceeded by more than 10 minutes; otherwise the clear-
+ance expires.
+4.4.2. NORDO-Transitflüge sind nicht zulässig. 4 .4.2. NORDO-transitflights are not permited.
+4.5. Temporäre zivile Luftraumreservierung (TRA) - TRA 
+Feldkirchen
+4.5. Temporary reserved airspace (TRA) – TRA Feldkirchen
+4.5.1. TRA Feldkirchen: Aktivi erung erfolgt nach telefonischer
+Anmeldung bei TWR LOWK – abhängig von der Verkehrssitua-
+tion – durch den Flugplatz Feldkirchen. Bekanntmachung der
+Aktivierung durch ATIS Klagenfur t auf (126.330). Betriebsbe-
+stimmungen werden mittels AIC, Serie B verlautbart.
+4.5.1. TRA Feldkirchen: Activation on request - depending on
+traffic situation - by Feldkirchen aerodrome. Announcement of
+activation via ATIS Klagenfurt (126.330). Operational procedures
+are published by AIC, series B.
+4.5.2. TRA Gerlitzen: Aktivierung erfolgt nach telefonischer
+Anmeldung bei TWR LOWK - abhängig von der Verkehrssitua-
+tion - durch den Flugplatz Feldkirchen. Bekanntmachung der
+Aktivierung durch ATIS Klagenfur t auf (126.330). Betriebsbe-
+stimmungen werden mittels AIC, Serie B verlautbart.
+4.5.2. TRA Gerlitzen: Activation on request - depending on traffic
+situation - by Feldkirchen aerodr ome. Announcement of activa-
+tion via ATIS Klagenfurt (126.330) . Operational procedures are
+published by AIC, series B.
+LOWK AD 2-20
+11 JUL 2025
+AMDT 342
+
+=== Page 21 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+4.6. Sonstiges 4.6. Miscellaneous
+4.6.1. Motorschulflüge und Segelschleppflüge haben die beson-
+deren lokalen Lärmminderungsverfahren zu beachten. Die grafi-
+sche Darstellung der Verfahren (Schulplatzrunde Nord -
+Vermeidung des Überfliegens von Ortschaften nördlich des
+Flughafens, sowie Ausmaße der Segelfluggebiete) liegen im
+Self-Briefing Bereich (GAC) auf.
+4.6.1. Training flights and glider towing flights shall observe the
+special local noise abatement pr ocedures. Graphical illustration
+of procedures (traffic circuit NORTH for training and avoidance of
+populated areas - as well as the di mensions of the glider areas)
+are available within the Self-Briefing Area (GAC).
+4.6.2. Außerhalb der Betriebs zeiten der Flugverkehrskontroll-
+stelle Klagenfurt ist eine Freigabe bei ACC/FIC Wien einzuholen.
+4.6.2. Outside duty hours of ai r traffic control unit Klagenfurt
+pilots shall contact Wien ACC/FIC for clearance.
+4.7. Besonderer Hinweis 4.7. Special Advice
+4.7.1. Die Flugverkehrskontroll stelle muss unverzüglich infor-
+miert werden, wenn - aufgrund von z.B.: schlechten Wetterbe-
+dingungen oder dem hügeligen Gelände rund um den Flughafen
+- erteilte Freigaben oder Anwe isungen nicht eingehalten werden
+können.
+4.7.1. If pilots are unable to comp ly with clearances or instruc-
+tions (e.g. MET-Conditions, hilly terrain around the airport), ATC
+shall be informed immediatly.
+5. ILS CAT II & III PROCEDURE RWY 28R GUIDELINES
+5.1. Purpose and Scope
+5.1.1. As this ILS CAT II / III approach procedure contains a NON ICAO STANDARD missed approach (higher than normal CAT II / III mis-
+sed approach climb gradients), detailed familiarization of the flight crew is required.
+Special authorization by Austro Control GmbH is no longer necessary.
+The corresponding documentation about landing mass limitations due to required perform ance limitations for the corresponding ai rcraft
+type need to be carried on board in a form which allows simple use.
+5.2. Missed approach requirements
+5.2.1. It is necessary to achieve the following straight climb gradients (until reaching the turning point (TP)) with respect to the applicable
+DH. After the TP the standard missed approach climb gradient of 2,5% is required.
+DH MISSED APPROACH CLIMB
+ONE ENGINE OUT REMARKS
+50 FT 4,7% CAT III
+100 FT 4,5%
+CAT II
+120 FT 4,4%
+140 FT 4,3%
+160 FT 4,2%
+5.2.2. The required climb gradient shall be achieved with all engines operating or  one engine inoperative in approach climb con figuration
+at the pressure altitude of 2500 FT MSL and for the actual OAT, with Anti-Ice ON corrections to be considered according to the applicable
+AFM.
+Remark: See chart LOWK AD 2 MAP 13-1-2
+LOWK AD 2-21
+11 JUL 2025
+AMDT 342
+
+=== Page 22 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+6. VERFAHREN BEI GERINGER SICHT 6. LOW VISIBILITY PROCEDURES
+6.1. Einleitung 6.1. Introduction
+6.1.1. ATC trifft Sicherhei tsvorkehrungen und wendet Verfahren
+für den Flugbetrieb bei geringer Sicht an, die ab bestimmten
+Wetterbedingungen in Kraft treten. Diese Verfahren dienen zum
+Schutz von Luftfahrzeugen, die bei geringer Sicht an- u. abflie-
+gen und um Störungen der ILS-Signale zu vermeiden (siehe AD
+1.1, Punkt 3).
+6.1.1. ATC applies special safeguards and procedures for Low
+Visibility Operations that will become effective in relation to spec-
+ified weatherconditions. These procedures are intended to pro-
+vide protection for aircraft operati ng in low visibility and to avoid
+disturbances to the ILS signals (see AD 1.1, item 3).
+6.1.2. Die ATC-Verfahren bei ge ringer Sicht (LVP) treten ent-
+sprechend den nachfolgend beschriebenen Wetterverhältnissen
+in Kraft. Ein Vermeiden von Störungen der ILS-Signale erfolgt
+normalerweise durch das Anwenden entsprechender Abstand-
+haltung zwischen Luftfahrzeugen im Endanflug.
+6.1.2. ATC-Low Visibility Procedures (LVP) will become effective
+in relation to weather conditions as specified below. Avoidance of
+disturbances to the ILS signals ar e normally achieved by provid-
+ing appropriate spacing between aircraft on final approach.
+INKRAFTTRETEN über Funk oder ATIS: "LOW VISIBILITY PROCEDURES IN OPERATION"
+ACTIVATION via RTF or ATIS: "LOW VISIBILITY PROCEDURES IN OPERATION"
+ANWENDUNG RVR für Aufsetzzone (TDZ) weniger als 800 M und / oder
+Hauptwolkenuntergrenze / Vertikalsicht weniger als 300 FT
+APPLICATION RVR for Touchdownzone (TDZ) less than 800 M and / or
+ceiling / vertical visibility less than 300 FT
+SCHUTZ DER "OFZ" UND DER "LOC-SENSITIVE 
+AREA"
+wird durch ATC sichergestellt (AD 1.1, Punkt 3)
+PROTECTION OF OFZ AND LOC-SENSITIVE AREA is ensured by ATC (AD 1.1, item 3)
+ANFLUGFREIGABE ATC erteilt eine Freigabe für einen ILS-Anflug gleichgültig welche Kategorie geflogen wird.
+CLEARANCE FOR APPROACH ATC issues a clearance for ILS approach regardless of category flown.
+WETTERINFORMATIONEN Mit der Anflugfreigabe werden die aktuellen RVR-Werte übermittelt;
+mit der Landefreigabe werden die aktuellen RVR-Werte nochmals übermittelt.
+METEOROLOGICAL INFORMATION Together with the approach clearance the actual RVR values will be transmitted;
+together with the landing clearance the actual RVR values will be transmitted additionally.
+LANDEFREIGABE wird normalerweise übermittelt bevor ein anfliegendes Luftfahrzeug 2 NM von der Pistenschwelle 
+entfernt ist;
+in Ausnahmefällen kann die Erteilung bis zu einer Entfernung von 1 NM verzögert werden; Piloten 
+werden entsprechend informiert.
+CLEARANCE TO LAND transmission normally prior an arriving aircraft reaches 2 NM from threshold, in exceptional cases 
+transmission may be delayed until distance 1 NM in which case pilots will be informed accordingly.
+MELDUNGEN VON PILOTEN "RUNWAY VACATED" durch den Piloten, wenn sein Luftfahrzeug die gelb/grün farbkodierten 
+Rollbahnmittelfeuer verlassen hat ("sensitive area vacated").
+REPORTS BY PILOTS "RUNWAY VACATED" by the pilot as soon as his aircraft has left the yellow/green colourcoded section 
+of the exit taxiway (sensitive area vacated).
+AUSSERKRAFTTRETEN Information über Funk und/oder Entfernen der entsprechenden ATIS-Aufsprache.
+DEACTIVATION Information via RTF and/or cancelling of relevant ATIS transmission.
+6.1.2.1. Start bei geringer Sicht 6.1.2.1. Low Visibility Take-Off
+6.1.2.1.1. Ein Start bei geringer Sicht ist dann gegeben, wenn
+die Pistensichtweite (RVR) weniger als 550 M beträgt.
+6.1.2.1.1. A low visibility take-off is given when the Runway
+Visual Range (RVR) is less than 550 M.
+LOWK AD 2-22
+11 JUL 2025
+AMDT 342
+
+=== Page 23 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+6.1.2.2. Information über Fehlfunktion und Rückstufung des 
+Anflugverfahrens
+6.1.2.2. Information regarding Malfunction and Downgrading 
+of the Approach Procedure
+6.1.2.2.1. Während des Anfluges werden unverzüglich nach dem
+Auftreten folgende Informationen übermittelt, falls notwendig,
+zusammen mit einem Rückstufen der Anflugkategorie:
+6.1.2.2.1. During approach, immedi ately after occurence the fol-
+lowing information will be relayed, if necessary, together with a
+downgrading of the approach category:
+AUSFALL ODER FEHLEN VON/DES RÜCKSTUFUNG FAILURE OR LACK OF DOWNGRADING
+MESSANLAGE FÜR DIE PISTENSICHT oder 
+Ausfall der Anzeigen / Meßstrecken für sowohl 
+Aufsetzzone als auch Mittelteil
+CAT I RVR ASSESSMENT SYSTEM
+or failure of display / transmissometer of both 
+TOUCHDOWN and MIDPOINT
+CAT I
+NOTSTROMANLAGE für das 
+Flugplatzbefeuerungssystem
+CAT I SECONDARY POWER SUPPLY for the Aerodrome 
+Lighting System
+CAT I
+LOC außerhalb der CAT II / III Toleranz CAT I LOC out of CAT II / III tolerance CAT I
+LOC “Sensitive area” NICHT FREI CAT I LOC Sensitive area NOT VACATED CAT I
+ILS-KONTROLLMONITORE bei ATC CAT I ATC-ILS MONITORING DEVICE CAT I
+WINDINFORMATION nicht verfügbar CAT I WIND INFORMATION not available CAT I
+FERNFELDMONITORS CAT II FARFIELD MONITOR CAT II
+LOC-RESERVESENDERS CAT II LOC-STANDBY TRANSMITTER CAT II
+Teilen des ANFLUGBEFEUERUNGSSYSTEMS keine Auswirkung elements of the 
+APPROACH LIGHTING SYSTEM
+no effect
+ROLLHALTBEFEUERUNG keine Auswirkung STOPBAR LIGHTS no effect
+6.1.2.2.2. Eine Änderung in der betrieblichen Verwendbarkeit,
+verursacht durch einen Ausfall, der voraussichtlich länger als
+eine Stunde dauern wird, wird mittels NOTAM verlautbart.
+Kürzer andauernde Ausfälle werden von ATC über ATIS und/
+oder RTF übermittelt.
+6.1.2.2.2. A change in operational status, if caused by a failure
+expected to last more than one hour, will be promulgated by
+NOTAM.
+Pilots will be notified of shorte r term deficiencies by ATC (ATIS
+and/or RTF).
+LOWK AD 2.23 ZUSÄTZLICHE INFORMATIONEN LOWK AD 2.23 ADDITIONAL INFORMATION
+1. Störche im Flughafenbereich. Besonders im Anflugsektor
+Piste 10L. Vorsicht geboten!
+1. Storks at the AD. Especially APP sector RWY 10L. CTN
+advised!
+2. Festgelegte Punkte - Instrumentenflugverfahren 2. Designated points - Instrument flight procedures
+DESIGNATOR POSITION PROCEDURE
+ABIRI 46 45 45.01N 014 58 03.26E SID RWY 10L, SID RWY 28R, STAR
+ARNOS 46 32 28.52N 013 34 09.52E STAR
+BERTA 46 26 58.95N 014 37 30.85E SID RWY 10L, SID RWY 28R, STAR
+DIPSA 46 36 34.58N 014 55 20.08E STAR
+EVAXI 46 46 36.00N 013 31 11.00E STAR
+INGID 47 16 06.73N 013 41 06.67E SID RWY 10L, SID RWY 28R
+KLAGY 46 30 51.48N 014 46 30.61E SID RWY 10L, SID RWY 28R, STAR
+MOKEG 46 38 00.64N 014 22 56.50E IAP RWY 10L, IAP RWY 28R, RNAV transition RWY 10L, RNAV transition RWY 28R, STAR
+REKTI 46 35 04.34N 013 53 50.81E SID RWY 10L, SID RWY 28R
+RW10L 46 38 43.58N 014 19 23.54E IAP RWY 10L
+RW28R 46 38 20.70N 014 21 17.24E IAP RWY 28R
+LOWK AD 2-23
+11 JUL 2025
+AMDT 342
+
+=== Page 24 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+TISMA 46 54 31.73N 014 09 34.66E STAR
+VILAK 46 41 47.01N 013 54 52.72E SID RWY 10L, SID RWY 28R
+WK503 46 38 01.48N 013 46 13.10E STAR
+WK610 46 37 15.91N 014 26 37.61E SID RWY 10L
+WK611 46 49 45.76N 014 16 59.49E SID RWY 10L
+WK612 46 40 02.91N 014 13 05.71E SID RWY 10L, SID RWY 28R
+WK614 46 50 34.15N 014 03 13.63E SID RWY 28R
+WK802 46 42 15.74N 014 01 40.08E IAP RWY 10L
+WK804 46 43 06.83N 013 57 21.35E IAP RWY 10L, STAR
+WK806 46 45 55.48N 014 09 26.00E IAP RWY 10L, RNAV transition RWY 10L, STAR
+WK807 46 43 31.37N 014 08 25.30E IAP RWY 10L
+WK808 46 41 07.36N 014 07 24.72E IAP RWY 10L
+WK809 46 40 40.94N 014 09 37.39E IAP RWY 10L
+WK810 46 40 03.92N 014 12 42.83E IAP RWY 10L
+WK812 46 34 36.18N 014 40 00.39E IAP RWY 10L
+WK820 46 40 31.11N 014 10 26.74E IAP RWY 28R
+WK822 46 43 46.66N 014 53 10.72E STAR
+WK824 46 41 05.85N 014 46 34.65E IAP RWY 10L, IAP RWY 28R, STAR
+WK825 46 38 19.33N 014 39 46.10E STAR
+WK827 46 35 51.30N 014 33 44.35E IAP RWY 28R, RNAV transition RWY 28R, STAR
+WK830 46 42 48.45N 014 24 59.21E IAP RWY 10L, RNAV transition RWY 10L, RNAV transition RWY 28R
+WK831 46 40 05.54N 014 38 34.33E RNAV transition RWY 28R
+WK832 46 35 17.79N 014 36 31.46E RNAV transition RWY 28R
+WK833 46 36 55.94N 014 28 16.80E IAP RWY 28R
+3. Koordinaten der VFR-Meldepunkte 3. Coordinates of VFR reporting points
+BEZEICHNUNG
+DESIGNATOR
+KENNUNG
+IDENT
+KOORDINATEN
+COORDINATES
+BEZEICHNUNG
+DESIGNATOR
+KENNUNG
+IDENT
+KOORDINATEN
+COORDINATES
+E1 E1 46 42 16N 014 43 38E SIERRA S 46 34 50N 014 23 00E
+E2 E2 46 43 43N 014 31 35E W1 W1 46 36 36N 014 03 07E
+N1 N1 46 45 06N 014 06 37E W2 W2 46 32 51N 014 15 44E
+N2 N2 46 46 10N 014 23 16E W3 W3 46 37 09N 014 15 09E
+N3 N3 46 40 50N 014 20 46E
+DESIGNATOR POSITION PROCEDURE
+LOWK AD 2-24
+11 JUL 2025
+AMDT 342
+
+=== Page 25 ===
+© Austro Control GmbH
+LUFTFAHRTHANDBUCH ÖSTERREICH
+AIP AUSTRIA
+LOWK AD 2.24 VERFÜGBARE FLUGPLATZKAR-
+TEN
+LOWK AD 2.24 CHARTS RELATED TO AN AERO-
+DROME
+ART DER KARTE SEITE TYPE OF CHART
+PAGE
+Flugplatzkarte - ICAO LOWK AD 2 MAP 1-1 Aerodrome Chart - ICAO
+Flugplatzhinderniskarte - ICAO Type A
+(Betriebliche Begrenzungen) (RWY 10L/28R)
+LOWK AD 2 MAP 4-1 Aerodrome Obstacle Chart - ICAO Type A
+(Operating Limitations) (RWY 10L/28R)
+Flugplatzhinderniskarte - ICAO Type B LOWK AD 2 MAP 5-1 Aerodrome Obstacle Chart - ICAO Type B
+Bodenprofilkarte für Präzisionsanflug - ICAO (Piste 28R) LOWK AD  2 MAP 7-2 Precision Approach Terrain Chart - ICAO (RWY 28R)
+Standard-Instrumentenabflugkarte (SID) - ICAO (RWY 10L) LOWK AD 2 MAP 9-1 Standard Departure Chart - Instrument (SID) - ICAO (RWY 
+10L)
+Standard-Instrumentenabflugkarte (SID) - ICAO (RWY 28R) LOWK AD 2 MAP 9-2 Standard Departure Chart - Instrument (SID) - ICAO (RWY 
+28R)
+Standard-Instrumentenanflugkarte (STAR) - ICAO LOWK AD 2 MAP 11-1 Standard Arrival Chart - Instrument (STAR) - ICAO
+RNAV-Instrumentenanflugkarte (Transition) (RWY 10L und 
+RWY 28R)
+LOWK AD 2 MAP 11-2 RNAV Arrival Chart (Transition) (RWY 10L and RWY 28R)
+Karte für Radarmindestflughöhen - ICAO LOWK AD 2 MAP 12 -1 ATC Surveillance Minimu m Altitude Chart - ICAO
+Instrumentenanflugkarte - ICAO (ILS CAT II & III or LOC 
+RWY 28R)
+LOWK AD 2 MAP 13-1-2 Instrument Approach Chart - ICAO (ILS CAT II & III or LOC 
+RWY 28R)
+Instrumentenanflugkarte - ICAO (RNP RWY 10L) LOWK AD 2 MAP 13-2-1 Instrument Approach Chart - ICAO (RNP RWY 10L)
+Instrumentenanflugkarte - ICAO (RNP RWY 28R) LOWK AD 2 MAP 13-2-2 Instrument Approach Chart - ICAO (RNP RWY 28R)
+Instrumentenanflugkarte - ICAO (NDB RWY 28R) LOWK AD 2 MAP 13-5-2 Instrument Approach Chart - ICAO (NDB RWY 28R)
+Circling Chart - Circling RWY 10L LOWK AD 2 MAP 14-1 Circling Chart - Circling RWY 10L
+Sichtflugkarte KLAGENFURT LOWK AD 2 M AP 14-2 Chart for VFR flights KLAGENFURT
+LOWK AD 2.25 “VISUAL SEGMENT SURFACE 
+(VSS) PENETRATION”
+LOWK AD 2.25 VISUAL SEGMENT SURFACE 
+(VSS) PENETRATION
+RWY 10L
+Instrument Flight Procedure Line of Minima Approach Speed Category
+RNP RWY 10L LNAV CAT A/B/C/D
+RNP RWY 10L LNAV/NAV CAT A/B/C/D
+RWY 28R
+Instrument Flight Procedure Line of Minima Approach Speed Category
+NOT APPLICABLE / NO PENETRATION
+LOWK AD 2-25
+11 JUL 2025
+AMDT 342

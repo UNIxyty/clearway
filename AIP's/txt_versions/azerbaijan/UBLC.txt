@@ -1,0 +1,953 @@
+=== Page 1 ===
+AIP
+AZERBAIJANAD 2 UB
+LC - 1
+04 SEP 2025Sta
+te Civil Aviation Agency AIRAC AMDT 0 2/25
+AD 2 UB LC
+UBLC AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+UBLC - LACHIN
+UBLC AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 ARP coordinates and site at AD 395303N 0462147E
+in the center of RWY 14/32
+2 Direction and distance from (city)
+3 Elevation/Reference temperature Elev: 5701 FT / T: 36°C
+4 Geoid undulation at AD ELEV PSN 59 FT
+5 MAG VAR/Annual change 6° E (2025)/0.02° increasing
+6 AD Administration, address, telephone,
+telefax, telex, AFS
+7 Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Remarks Nil
+UBLC AD 2.3 OPERATIONAL HOURS
+1 AD Administration MON-FRI 0500-1400 UTC+4 SAT/01-31/12 0600-1100 UTC+4 
+SUN 0600-1100 UTC+4 HOL 0600-1100 UTC+4
+2 Customs and immigration H24
+3 Health and sanitation H24
+4 AIS Briefing Office Nil
+5 ATS Reporting Office (ARO) Nil
+6 MET Briefing Office Nil
+7 ATS H24
+8 Fuelling Nil
+9 Handling H24
+10 Security H24
+11 De-icing Nil
+12 Remarks Nil
+UBLC AD 2.4 HANDLING SERVICES ANDFACILITIES
+1 Cargo-handling facilities Nil
+2 Fuel/oil types Fuel : Nil
+Oil : Nil
+3 Fuelling facilities/capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+UBLC AD 2.5 PASSENGER FACILITIES
+1 Hotels Nil
+2 Restaurants In the city.
+3 Transportation Nil
+4 Medical facilities Hospitals in the city.
+5 Bank and Post Office In the city.
+6 Tourist Office Nil
+7 Remarks Nil
+UBLC AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 AD category for fire fighting CAT 6
+2 Rescue equipment 2 Fire fighting trucks,
+1 Water tanker truck 11 t
+65 KM ESE of Lachin
+Lachin International Airport AZ 4100 Lachin AzerbaijanTel: (99412) 437 49 51, 437 49 52 (int. 7485, 7487)
+
+
+=== Page 2 ===
+AD 2 UBLC - 2
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+3 Capability for removal of disabled aircraft Disabled aircraft removal facilitation is available for 4E category aircraft
+4 Remarks Nil
+UBLC AD 2.7 SEASONAL AVAILABILITY
+1 Types of clearing equipment Snow Blower; Snow Ploughs.
+2 Clearance priorities 1. RWY 14/32 and associated TWY to Apron
+2. Other TWY and ACFT stands
+Remarks Nil
+UBLC AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+UBLC AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs, TWY guide
+lines and visual docking/parking guidance
+system of aircraft stands
+Sign boards during taxing at all intersections with TWY and all 
+holding PSN.
+Guide line at Apron.
+Nose-in guidance at aircraft stands.
+See UBLC AD 2.24.3-1.
+2 RWY and TWY markings and LGT RWY - 14/32: ID, THR, TDZ, RCL, side strips, aiming point markings.
+Lights: RWY edge, RWY end.
+TWY: Center line markings, holding PSN. 
+Lights: TWY edge.
+3 Stop bars Nil 
+4 Remarks Nil
+NilRemarks5
+INS: Nil
+VOR: NilVOR/INS checkpoints4
+NilAltimeter checkpoint location and elevation3
+PCN 150/F/B/X /T
+asphalt
+Concrete and23 MTWY BR
+PCN 150/F/B/X /T
+asphalt
+Concrete and23 MTWY BL
+TWY B3 15 M Concrete and PCN 150/F/B/X/T
+asphalt
+TWY B2 15 M Concrete and PCN 150/F/B/X/T
+asphalt
+TWY B1 15 M Concrete and PCN 150/F/B/X/T
+asphalt
+TWY B 15 M Concrete and PCN 150/F/B/X/T
+asphalt
+Concrete and asphalt PCN 150/F/B/X/T
+TWY ID Width (M) Surface Strength
+ 
+TWY A 23 M Concrete and PCN 150/F/B/X/T
+asphalt
+StrengthSurface
+UBLC AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+RWY NR/Area affected Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c d
+14/TKOF Hill-1108
+Elev: 5880 FT
+395141.2N
+0462238.8E
+Nil
+3
+1 Apron surface and strength
+2 Taxiway width, surface and strength
+
+=== Page 3 ===
+AIP
+AZERBAIJAN
+AD 2 UB
+LC
+ - 3
+10
+ 
+JUL
+ 202
+5
+State Civil Aviation Agency
+AIRAC AMDT 0
+1
+/2
+5
+In approach/TKOF areas
+RWY NR/Area affected
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates
+Remarks
+a
+b
+c
+d
+046
+2536
+.
+2
+E
+32/APCH
+Hill
+-1118
+Elev: 
+4236
+ FT
+3
+94624
+.
+4
+N
+046
+2715
+.
+7
+E
+Nil
+32/APCH
+Hill
+-1104
+Elev: 
+4141
+ FT
+39
+4603
+.
+1
+N
+046
+2725
+.
+7
+E
+Nil
+Nil
+3
+94630
+.
+7
+N
+Hill
+-1117
+Elev: 
+4991
+ FT
+32/APCH
+Nil
+046
+2539
+.
+3
+E
+39
+4757
+.
+3
+N
+Hill-1114
+Elev: 
+4564
+ FT
+32/APCH
+Nil
+046
+2506
+.
+3
+E
+39
+4812.7
+N
+Hill
+-1113
+Elev: 
+4597
+ FT
+32/APCH
+14
+/TKOF
+Hill
+-1104
+Elev: 
+4141
+ FT
+39
+4603
+.
+1
+N
+046
+2725
+.
+7
+E
+Nil
+14
+/TKOF
+Antenna-1983
+Elev: 
+5725
+ FT
+39
+5207
+.
+3
+N
+046
+2230
+.
+0
+E
+Nil
+32
+/
+APCH
+3
+94724
+.
+2
+N
+Nil
+Nil
+046
+2253
+.
+0
+E
+39
+5113
+.0N
+Hill
+-1111
+Elev: 
+5781
+ FT
+32/APCH
+Nil
+046
+2238
+.
+8
+E
+3
+95141
+.
+2
+N
+Hill
+-1108
+Elev: 
+5880
+ FT
+32/APCH
+046
+2743
+.
+4
+E
+Hill
+-1092
+Elev: 
+4810
+ FT
+046
+2715
+.
+7
+E
+Nil
+3
+94624
+.
+4
+N
+Hill
+-1118
+Elev: 
+4236
+ FT
+14
+/TKOF
+Nil
+046
+2539
+.
+3
+E
+39
+4757
+.
+3
+N
+Hill-1114
+Elev: 
+4564
+ FT
+14
+/TKOF
+Nil
+046
+2506
+.
+4
+E
+39
+4812
+.
+7
+N
+Hill
+-1113
+Elev: 
+4597
+ FT
+14
+/TKOF
+32/APCH
+Hill
+-1119
+Elev: 
+5811
+ FT
+39
+4552
+.
+5
+N
+046
+2542
+.
+7
+E
+Nil
+32/APCH
+Hill-1170
+Elev: 
+5722
+ FT
+39
+5209
+.
+5
+N
+046
+2220
+.
+5
+E
+Nil
+32/APCH
+3
+94446
+.
+8
+N
+Nil
+046
+2617
+.
+3
+E
+Hill
+-1226
+Elev:
+ 4938
+ FT
+Nil
+046
+2230
+.
+0
+E
+39
+5207
+.
+3
+N
+Nil
+046
+2226
+.
+5
+E
+39
+5157
+.
+3
+N
+Hill
+-1173
+ 
+Elev: 
+5754
+ FT
+ 
+32/APCH
+ 
+Antenna-1983
+32/APCH
+14
+/
+TKOF
+ FT
+7550
+Elev: 
+-
+1004
+Hill
+Nil
+32/APCH
+ FT
+7550
+Elev: 
+Hill-1004
+Nil
+ FT
+ 6592
+Elev:
+-
+1790
+Hill
+Nil
+32/APCH
+Nil
+ FT
+6592
+Elev: 
+Hill-1790
+14
+/
+TKOF
+Nil
+ FT
+5781
+Elev: 
+Nil
+395157.3N
+ 
+0462226.5E
+ 
+39
+5113
+.
+0
+N
+ 
+046
+2253
+.
+0
+E
+ 
+39
+3842
+.
+6
+N
+ 
+046
+3733
+.
+1
+E
+ 
+3
+93842
+.
+6
+N
+ 
+046
+3733
+.
+1
+E
+ 
+39
+5749
+.
+1
+N
+ 
+046
+1957
+.
+6
+E
+ 
+39
+5749
+.
+1
+N
+ 
+046
+1957
+.
+6
+E
+ 
+Elev: 
+5754
+ FT
+ 
+14
+/
+TKOF
+ 
+Hill
+-1111
+Nil
+0462220.5E
+3
+95209.5N
+ 
+Elev: 
+5725
+ FT
+ 
+14
+/
+TKOF
+ 
+Hill
+-
+1170
+ 
+ 
+Elev: 
+5722
+ FT
+ 
+14
+/
+TKOF
+ 
+Hill
+-1173
+
+=== Page 4 ===
+AD 2 UBLC - 4
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+Slope OF 
+RWY and SWY
+SWY
+dimensions (M)
+CWY
+dimensions (M)
+Strip
+dimensions (M)
+RESA dimen-
+sions (M) OBST free zone
+7 8 9 10 11 12
+88 FT56TDZ 
+ FT5690THR 
+ FT59
+E462114.350
+N395344.22
+E0462219.36
+N395220.87
+Concrete and asphalt
+PCN 150/F/B/X/T
+3000 x 45329.0132
+ FT5701TDZ 
+ FT5676THR 
+ FT59
+E462219.360
+N395220.87
+E462114.350
+N395344.22
+Concrete and asphalt
+PCN 150/F/B/X/T
+3000 x 45148.9914
+654321
+sion APP RWY
+of TDZ of preci-
+highest elevation
+THR elevation and
+THR GUND
+ordinates
+RWY end co-
+THR coordinates
+and surface of RWY
+Strength (PCN)
+of RWY (M)
+DimensionTRUE BRG
+NR
+RWY
+Designations
+ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICSLCUB
+Nil
+vice, etc.)
+Additional information (limitation of ser-10
+ BriefingLachin TWR, LachinATS units provided with information9
+, AMHSWOS, ATISA
+providing information
+Supplementary equipment available for8
+MET SAT charts.WIND/TEMP and 
+, SWH, SWM, 20, P 30, P 40, P 50, P 70, P 85, P 20, U 30, U 50, U 70,U 85S, U 
+briefing or consultation
+Charts and other information available for7
+ENG, AZE, RUS
+Charts, OPMET
+Language(s) used
+Flight documentation6
+Personal consultation. Packet of documents.Briefing/consultation provided5
+ HR0.5
+TR
+Interval of issuance
+Tred forecast4
+9 HR
+Baku
+Period of validity
+Office responsible for TAF preparation3
+H09
+MET Office outside hours
+Hours of service2
+LachinAssociated MET Office1
+ AD 2.11 METEOROLOGICAL INFORMATION PROVIDEDLCUB
+NOTE: Pilots are advised to consult latest NOTAM and AIP SUP on any other impending obstacle. 
+cba
+RemarksCoordinates
+Markings/LGT
+Elevation
+Obstacle type
+In circling area and at AD
+3240 x 260 As specified
+in Annex 14
+3240 x 260 As specified
+in Annex 14
+120 x 90
+120 x 90
+Nil
+Nil
+Nil
+Nil
+RECOMMENDATION:
+For additional information regarding obstacles please contact ais_engineer@azans.az / ais_data@azans.az
++0.88%
++0.34%;
++0.56%;
+For Rwy 14:
++0.88%
++0.34%;
++0.56%;
+For Rwy 32:
+
+=== Page 5 ===
+AIP
+AZERBAIJAN
+AD 2 UBLC - 5
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+3 TWY adge and centre line lighting Taxiway Edge: TWY A
+4 Secondary power supply/switch-over time Secondary power supply to all lighting at AD. Switch-over time: 15 SEC
+5 Remarks Nil
+Anemometer: Nil
+LDI: Nil
+Anamometer location and LGT
+LDI location and LGT2
+Nil
+hours of operation
+ABN/IBN location, characteristics and1
+UBLC AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+NilNilRed
+LIH
+M yellow
+last 600
+M white,
+spacing 60
+3000 MNilNil
+side/3°
+Left
+PAPIGreen
+LIH
+900 M
+CAT I32
+10987654321
+REMARKS
+colour
+LEN (M)
+SWY LGT
+WBAR
+LGT colour
+RWY End
+INTST
+colour
+spacing
+LGT LEN,
+RWY edge
+INTST
+colour,
+spacing,
+LGT Length,
+tre Line
+RWY Cen-
+LEN
+LGT
+TDZ,
+P API
+(MEHT)
+VASIS
+WBAR
+colour
+THR LGT
+INTST
+LEN
+type
+LGT
+APCH
+Designator
+RWY
+ AD 2.14 APPROACH AND RUNWAY LIGHTINGLCUB
+UBLC AD 2.13 DECLARED DISTANCES
+RWY Designator (M) (M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 3 4 5 6
+14 3000 3000 3000 NU Nil
+32
+TORA 
+ 2 
+ NU
+TODA 
+ 
+3000 NilNU NU
+14 Nil Nil Nil Nil Nil 3000 M
+spacing 60
+M white,
+last 600
+M yellow
+LIH
+Red Nil Nil
+82 FT
+
+=== Page 6 ===
+AD 2 UBLC - 6
+10 JUL 2025
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/25 State Civil Aviation Agency
+DME ILN CH 30X H24 395229.9N
+0462206.9E
+28 FT (8.5 m) Coverage 25 NM
+ 
+  
+3°, RDH 50 FT-
+E96022046
+N9.522939H24GP
+Nil-E7
+.
+2110046
+N9.534839H24ILN
+ ILS RWY 32
+LLZ
+7654321
+Remarks
+ting antenna
+DME transmit-
+Elevation of
+antenna coordinates
+Site of transmitting
+operation
+Hours ofFrequencyID
+CAT of ILS/MLS
+MAG VAR
+Type of aid
+UBLC AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+  
+ 
+  
+ 
+   
+ 
+ 
+Fuzuli ApproachAPP
+Nil ATISLachin
+NilLachin TowerTWR
+RemarksHours of operationFrequencyCall signdesignation
+Service
+ AD 2.18 ATS COMMUNICATION FACILITIESLCUB
+NilRemarks7
+NilHours of abblicability6
+ FT MSL00001Transition altitude5
+Fuzuli Approach, English
+Language(s)
+ATS unit call sign4
+Class CAirspace classification3
+UBLC AD 2.17 ATS AIRSPACE
+1 Designation and lateral limits FUZULI TMA
+Area bounded by lines joining points 402000N/0454900E;
+402000N/0474800E; 394542N/0481142E;  393748N/0480448E then along
+  Azerbaijan-Iran (East) up to  385200N/0463158E then along  Azerbai-
+jan-Armenia (East) up to point of origin.
+2 Vertical limits GND to FL195
+  
+ 
+32/14ake off and landing of helicopters is cleared in any part of RWY TRemarks7
+NilAPP and F ATO lighting6
+NilDeclared distance available5
+NILTrue BRG of F ATO4
+Nil
+strength, marking
+TLOF and F ATO area dimensions, surface,3
+NilTLOF and/or F ATO elevation M/FT2
+Nil
+Geoid undulation
+Coordinates TLOF or THR of F ATO1
+ AD 2.16 HELICOPTER LANDING AREALCUB
+UBLC AD 2.20 LOCAL TRAFFIC REGULATIONS
+1 RUN-UP PROCEDURE
+1.1 Run-up and full engine thrust are only permitted on a few numbers of stands or at specially assigned places.
+1.2 Permission for engine run-up shall be requested from “Lachin Tower” on FREQ 133.800 MHz. Stand number and intended engine power 
+thrust should be indicated
+H24
+H24
+H24
+ATIS
+Nil
+133.800 MHZ
+134.200 MHZ
+135.300 MHZ
+135.500 MHZ
+128.300 MHZ
+1 2 3 4 5
+.
+332.00 MHZ
+109.30 MHZ
+
+=== Page 7 ===
+AIP
+AZERBAIJAN
+AD 2 UBLC - 7
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+UB LC
+ 
+AD 2.23 ADDITIONAL INFORMATION
+NIL
+UB LC
+ 
+AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome Chart UB LC
+ 
+AD 2.24.1-1
+Aerodrome Ground Move-
+ment And Aircraft Parking Chart UB LC
+ 
+AD 2.24.3-1
+Aerodrome Obstacle Chart ICAO RWY 14/32 UB LC
+ 
+AD 2.24.4-1
+UBLC AD 2.22 FLIGHT PROCEDURES
+TO BE DEVELOPED.
+Aircraft types ANTONOV 24, ANTONOV 26 and TUPOLEV 134 are not allowed to land and take off at Lachin International Airport due to
+noise abatement, except for ambulance, humanitar, emergency, search and rescue flights.
+.airport administrationpreliminary permission from Lachinobtainment of Irregular public air transportation by helicopters is allowed only after 
+There are no special noise abatement procedures established.
+ AD 2.21 NOISE ABATEMENT PROCEDURELCUB
+8.#Isolated aircraft parking position os available and located at aircraft stand 
+ OTHER INFORMATION9
+Departures are permitted only from RWY 14 direction, and arrivals only onto RWY 32 direction, due to operational and safety requirements.
+RWY 14/32 is restricted to unidirectional use:
+8 RUNWAY OPERATIONAL RESTRICTIONS
+7 HELICOPTER FLIGHTS RESTRICTIONS
+Taxiways in apron area are not equipped with lights indicating median strip. The taxiing lines may be invisible because of snow.
+6 APRON, TAXIING IN WINTER CONDITIONS
+Helicopters are always directed to the parking positions by signalman.
+5 PARKING POSITION FOR HELICOPTERS4.2 
+While taxiing, the crew shall observe the area in front of them and take measures to avoid collisions with aircraft, motor vehicles and other
+obstacles.
+4.3 Movement of aircraft on the apron is subject to prior permission from “Lachin Tower”. However, “Lachin Tower” only provides
+necessary information to maintain an orderly flow of traffic.
+4.4 The aircraft shall not enter or cross the runway without clearance from the “LachinTower”.
+4.5 Taxiing from the holding position to line-up and take-off shall be performed only after clearance given by “Lachin Tower”.
+ 
+ 
+ 
+, the taxi routes published on chart UBLC AD 2.24.3-1 shall be followed.4.1 Unless otherwise instructed by "Lachin Tower
+4 TAXI PROCEDURES
+3.2 The parking position, QNH value and designator of latest received ATIS broadcast shall be reported in the initial call.
+.133.800 MHzTower” on FREQ Lachin3.1 All types of flights shall request clearance for engine start-up from “
+3 START – UP PROCEDURE
+signal system shall be used for communication between signalman and crew.
+handor interphone The Tower”. Lachinin instructions of “specified as Engines can be started before, during or after push back or tow 2.3 
+.133.800 MHzTower” on FREQ Lachin2.2 The clearance for push back or tow shall be requested from “
+2.1 Clearance for push back or tow may only be requested if airplane is ready to carry out the maneuver.
+2 PUSH BACK AND TOW PROCEDURES

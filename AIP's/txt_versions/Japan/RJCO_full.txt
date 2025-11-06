@@ -1,0 +1,2558 @@
+=== Page 1 ===
+AIP Japan
+SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD2-1
+AD 2 AERODROMES
+RJCO AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJCO - SAPPORO
+RJCO AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJCO AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 430703N/1412253E
+2 Direction and distance from (city) 4.1nm N of SAPPORO
+3 Elevation/ Reference temperature 26FT / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change 9° W(2006)
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-G. PUBLIC AD.
+Okadama-cho, Higashi-ku, Sapporo, Hokkaido
+7 Types of traffic permitted
+(IFR/VFR)
+IFR/VFR
+8 Remarks Okadama Airport Office(CAB)
+Okadama-cho, Higashi-ku, Sapporo, Hokkaido
+Tel:011-781-4161
+Fax:011-781-4186
+1 AD Administration 2230 - 1130 Other time 1HR PN
+2 Customs and immigration On request
+Customs: 011-231-1443
+Immigration: 0570-003259 (140#, 310#)
+3 Health and sanitation Quaranti ne(human): On request(0134-23-4162)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office 2230 - 1130 Other time 1HR PN (CAB: Nil)
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24(NEW CHITOSE)
+7 ATS 2230 - 1130 Other time 1HR PN
+8 Fuelling 2100 - 0900
+9 Handling 2130 - 1000
+10 Security 2230 - 1130
+11 De-icing Nil
+12 Remarks HR of Service at CAB OPS Section 2230 - 1130(Daily)
+(EFF:12 JUN 2025) 12/6/25
+
+
+=== Page 2 ===
+RJCO AD2-2  AIP Japan
+   SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD 2.4 HANDLING SERVICES AND FACILITIES
+RJCO AD 2.5 PASSENGER FACILITIES
+RJCO AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJCO AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the modern instituti ons that deal with the weight thing to DH8C
+2 Fuel/ oil types Fuel grades: 
+(CIV) JET A1, AVGAS100,
+(JSDF) JET A1
+3 Fuelling facilities/ capacity (CIV) F uel truck refueling / No limitation
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels At Sapporo City
+2 Restaurants At Sapporo City
+3 Transportation Bus and Taxi
+4 Medical facilities Nil
+5 Bank and Post Office At Sapporo City
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting To be issued later
+2 Rescue equipment To be issued later
+3 Capability for removal of disabled 
+aircraft To be issued later
+4 Remarks Nil
+1
+Types of clearing equipment Snow remove equipments
+(JSDF):To be issued later
+*(CAB) : Snow sweeper x 1, Snow plow x 3, Rotary plow x 2
+2 Clearance priorities To be issued later
+3 Remarks *For NR.2 TWY and  CIVIL APRON
+TWY/APN to measure the coefficient of friction : TWY NR.1, MIDDLE, NR.2, 
+CIVIL APRON
+(EFF:3 NOV 2022) 3/11/22
+
+
+=== Page 3 ===
+AIP Japan
+SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD2-3
+RJCO AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJCO AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJCO AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface : Asphalt and concrete
+Strength : PCR 383/R/A/W/T
+2 Taxiway width, surface and
+strength
+Width:18m
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1
+Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY : 14/32
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point, TDZ,
+                RWY side stripe  
+(LGT) RCLL, REDL, RTHL, RENL,Take off aiming LGT
+TWY : NR1, NR2
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe, Mandatory instruction  
+(LGT) TWY edge LGT, Taxiing guidance sign
+TWY : Middle
+(Marking) TWY CL
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area, Apron TWY CL
+(LGT) Apron flood LGT
+RWY/Area affected Obstacle type  Coor dinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:23 JAN 2025) 23/1/25
+
+
+=== Page 4 ===
+RJCO AD2-4  AIP Japan
+   SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+Airspace for the advisory service concerning low level wind shear
+1 Associated MET Office NEW CHITOSE
+2 Hours of service
+MET Office outside hours
+H24(NEW CHITOSE)
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation prov ided Briefing is available upon inquiry at NEW CHITOSE.
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U 85, U 7,U5, U 3, U 25, U 2/Tr, P S, P 5, P 3, P 25, P SWE, P SWF, P SWG, P SWI,
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Doppler Radar for airport weather (See below figure)
+9 ATS units provided with information TWR, APP
+10 Additional information(limitation of 
+service, etc.)
+Observations / 2200-1130
+Observation is made by the Ministry of Defence
+1NM
+1NM
+1NM
+1NM
+Detection Area for Arriving AircraftDetection Area for Departing Aircraft
+1NM
+1NM
+1NM
+FIELD  ELEV  26ft
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD  ELEV  LEVEL
+32
+14
+1NM
+(EFF:31 OCT 2021) 7/10/21
+
+
+=== Page 5 ===
+AIP Japan
+SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD2-5
+RJCO AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJCO AD 2.13 DECLARED DISTANCES
+RJCO AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+14
+32
+134.85°
+314.85°
+1500×45
+1500×45
+PCR 286/F/D/X/T
+SW20000kg
+(44000lbs)
+DW25000kg
+(55000lbs)
+Asphalt
+430719.87N
+1412229.11E
+104.1ft
+430645.58N
+1412316.16E
+104.0ft
+THR ELEV : 20FT
+THR ELEV : 27FT
+   Slope of RWY Strip
+ Dimensions(M) Remarks
+71 0 1 2
+SEE AD2.24 AD CHART 1620×300
+1620×300
+RWY Grooving 1500mX45m
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+14
+32
+1500
+1500
+1500
+1500
+1500
+1500
+1500
+1500
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+14 Nil Green PAPI
+3.0°/Left
+273m
+45FT
+Nil 1500m
+-
+Coded color
+-
+1500m
+-
+Coded color
+-
+Red Nil
+32 Nil Green PAPI
+3.0°/Left
+251m
+39FT
+Nil 1500m
+-
+Coded color
+-
+1500m
+-
+Coded color
+-
+Red Nil
+Remarks
+10
+RWY THR ID LGT for RWY 14/32 THR
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 6 ===
+RJCO AD2-6  AIP Japan
+   SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJCO AD 2.16 HELICOPTER LANDING AREA
+RJCO AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics and 
+hours of operation ABN:430641N/1412253E, White/Green EV6sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : Nil 
+Anemometer : RWY32, AVBL
+3 TWY edge and center line lighting TWY edge LGT: Blue
+TWY CL LGT: Nil
+4 Secondary power supply/ 
+switch-over time Nil
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+SAPPORO 
+CTR
+Area within a radius of 5nm of SAPPORO ARP
+(4307N/14123E) .
+4000 or 
+below D
+ SAPPORO 
+TOWER
+En
+SAPPORO 
+APPROACH 
+CONTROL 
+AREA
+SEE RJCO ATTACHED CHART E
+SAPPORO 
+APP,
+SAPPORO 
+RADAR,
+SAPPORO 
+DEP
+En
+(EFF:29 MAR 2018) 1/3/18
+
+
+=== Page 7 ===
+AIP Japan
+SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD2-7
+7000
+8000
+11000
+SPE
+RJCO
+ARP
+435029N
+1411646E 434819N
+1413604E
+433624N
+1415958E
+432608N
+1420835E
+432200N
+1415958E
+432714N
+1413742E
+430911N
+1413325E
+431055N
+1413659E
+425916N
+1412018E
+424739N
+1411616E
+424936N
+1404824E424829N
+1403130E
+431009N
+1403947E
+(7)
+(4)
+(5)
+(13) (6)
+(12)
+(11)(10)
+(9)
+(8)
+(1)
+(2)
+(3)
+40NM
+8NM
+۠
+Sapporo Approach Control Area
+(EFF:2 MAR 2017) 2/2/17
+
+
+=== Page 8 ===
+RJCO AD2-8  AIP Japan
+   SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD 2.18 ATS COMMUNICATION FACILITIES
+RJCO AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP/ASR Sapporo Approach/
+Sapporo Radar
+119.225MHz 
+315.9MHz
+121.5MHz
+243.0MHz
+2230-1130
+Other Time 1HR PN
+DEP Sapporo Departure 121.075MHz
+315.9MHz
+2230-1130
+Other Time 1HR PN
+TWR Sapporo Tower 126.2MHz
+118.1MHz
+140.5MHz
+138.05MHz
+304.8MHz
+123.1MHz(1)
+121.5MHz(E)
+2230 - 1130
+Other time 1HR PN
+(1) For rescue only
+GCA-ASR
+   -PAR
+Sapporo GCA 120.3MHz
+133.0MHz
+138.3MHz
+122.35MHz
+304.6MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1130
+Other time 1HR PN
+Glide path 3.0°.
+ASR RWY 14/32.
+PAR RWY14/32
+GND Sapporo Ground 121.8MHz 2230 - 1130
+Other time 1HR PN
+Type of aid
+(VOR declination) ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(9°W/2009)
+SPE 113.9MHz H24 431028.71N
+/
+1411808.58E
+VOR Unusable :
+190°-200° beyond 35nm BLW 7000ft.
+210°-220° beyond 30nm BLW 9000ft.
+220°-230° beyond 25nm BLW 9000ft.
+230°-260° beyond 30nm BLW 9000ft.
+DME SPE 1173MHz
+(CH-86X)
+H24 431029.08N
+/
+1411807.22E
+87ft DME Unusable :
+190°-200° beyond 30nm BLW 7000ft.
+200°-210° beyond 35nm BLW 9000ft.
+210°-250° beyond 30nm BLW 9000ft.
+250°-260° beyond 35nm BLW 9000ft.
+MSAS 1575.42MHz H24 Transmitting antennas are satellite 
+based.
+(EFF:31 OCT 2021) 7/10/21
+
+
+=== Page 9 ===
+AIP Japan
+SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD2-9
+RJCO AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJCO AD 2.21 NOISE ABATEMENT PROCEDURES
+1. All MIL ACFT 48HR PPR to Sapporo BOPS(TEL:011-781-8321 EXT 270)
+2. Civil transient ACFT
+a) PPR to JSDF-G Sapporo AD(TEL:011-781-8321 EXT 366) for AD use application
+b) PPR to CAB Okadama Airport Office(TEL:011-781-4162) for parking
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+TKOF from RWY: Do not start turns until passing DER.
+TKOF from HELISPOTS: Do not start turns until passing abeam DER.
+Nil
+Nil
+(EFF:5 NOV 2020) 5/11/20
+
+
+=== Page 10 ===
+RJCO AD2-10  AIP Japan
+   SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD 2.22 FLIGHT PROCEDURES
+1.1 TAKE OFF MINIMA
+RWY
+REDL & RCLL AVBL REDL or RCLL AVBL REDL & RCLL OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF ALTN 
+AP FILED
+14  0'-500m
+*0'-300m
+0'-400m
+0'-600m
+0'-600m
+0'-800m
+0'-800m
+32 0'-500m
+*0'-300m 0'-600m 0'-800m
+OTHER
+14
+AVBL LDG MINIMA
+32
+NOTE: SIDs are designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+*Applicable when two RVRs available.
+1.2 TAKE OFF MINIMA for RNAV DEPARTURE
+RWY ACFT CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN
+AP FILED
+14/32  A,B,C 400m 400m 400m 400m - 500m
+OTHER 14/32  A,B,C AVBL LDG MINIMA
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 14 ASR RWY 14
+MINIMA THR elev. 20 AD elev. 26 MINIMA THR elev. 20 AD elev. 26
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+224(204) 1000
+520(494) 1600
+A
+500(474)
+1500 520(494) 1600
+BB
+C 580(554) 2400 C 2000 580(554) 2400
+D ---- D ----
+Circling east side of RWY only. Circling east side of RWY only.
+(EFF:28 JAN 2021) 31/12/20
+
+
+=== Page 11 ===
+AIP Japan
+SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD2-11
+RJCO AD 2.23 ADDITIONAL INFORMATION
+PAR RWY 32 ASR RWY 32
+MINIMA THR elev. 27 AD elev. 26 MINIMA THR elev. 27 AD elev. 26
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+227(200) 1000
+520(494) 1600
+A
+540(514)
+1500 540(514) 1600
+BB
+C 580(554) 2400 C 2000 580(554) 2400
+D ---- D ----
+Circling east side of RWY only. Circling east side of RWY only.
+3.  MISSED APCH PROCEDURE FOR PAR/ASR RWY 32 APCH
+Climb via SPE VOR/DME, SPE R350 to 4,000ft, turn left, proceed to SPE VOR/DME and hold.
+Contact SAPPORO TOWER.
+4.  Lost Communication Procedures for arrival aircraft under radar navigational guidance
+If radio communications with Sapporo Radar/GCA are lost 1 minute in the pattern, 15 seconds on surveillance final 
+approach, or  5 seconds on PAR final approach, Mode A/3 Code 7600 and ;
+1. Contact Sapporo Radar/Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to SAPPORO VOR/DME at last assigned altitude or 4,000ft whichever is 
+     higher and execute instrument approach.
+*Make right turn within 12NM from SPE.(RWY32 ONLY)
+5.  Automated Radar Terminal System(ARTS)
+札幌進入管制所の指示のもと、 当該進入管制区を飛行する
+航空機は、 モード A/3 の二次レーダー個別コード及びモー
+ド Cによる応答を指示される。
+二次レーダー個別コードを搭載していない航空機が当該
+コードによる応答を指示された場合は、 管制官に対し、 そ
+の旨通報すること。
+Aircraft flying under control of Sapporo control in the approach 
+control in the approach control area will be instructed to reply 
+with discrete code on Mode A/3 and Mode C.
+If an aircraft with non-discrete code capability be instructed to 
+reply with the discrete code, it shall report a controller 
+accordingly.
+Nil
+(EFF:28 JAN 2021) 31/12/20
+→
+
+
+=== Page 12 ===
+RJCO AD2-12  AIP Japan
+   SAPPORO
+Civil Aviation Bureau,Japan
+RJCO AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (KURIS, SAPPORO REVERSAL, SAPPORO)*
+Standard Departure Chart - Instrument (KURIS REVERSAL)*
+Standard Departure Chart - Instrument (BANKE-RNAV) 
+Standard Departure Chart - Instrument (TOBET EAST-RNAV) 
+Standard Departure Chart - Instrument (TOBET NORTH-RNAV) 
+Standard Arrival Chart - Instrument (MOIWA, RUMOI, KURIS NORTH-RNAV) 
+Standard Arrival Chart - Instrument (MOIWA, RUMOI, KURIS SOUTH-RNAV) 
+Instrument Approach Chart (VOR RWY14)*
+Instrument Approach Chart (VOR RWY32)*
+Instrument Approach Chart (RNP Z RWY14)
+Instrument Approach Chart (RNP Y RWY14 (LPV ONLY))
+Instrument Approach Chart (RNP RWY32)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+*Designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+303132
+23 22 21 20
+26 25 241
+11
+4 53 2 11213
+141516
+1718
+2728
+19
+29
+2 3 4 5
+“DETAIL ”
+251m
+273m
+ABN
+0m
+5.98m 6.41m 6.57m 6.79m 6.92m 6.92m
+8.30m
+RWY 32
+RWY 14
+1,010m240m 500m 640m 860m 1,500m
+3232
+14 14
+RJCO / SAPPORO
+SAPPORO  AD
+LONGITUDINAL PROFILE OF RWY
+REMARKS : RWY  GROOVING  1500mʷ45m
+RWY  SLOPE  AVG 0.154%
+MEHT 11.9m(39ft)
+PAPI  Angle  3.0˃
+MEHT 13.6m(45ft)
+PAPI  Angle  3.0˃
+BLUERED
+RVR
+ARP
+PAR
+No.1
+No.2
+ASR
+WHITE
+MIDDLE  TWY
+JGSDF  APRON
+JGSDF  APRON
+YELLOW
+NR
+1  T
+W
+Y
+AD  CHART
+TRUE NORTH
+RWY THR ID LGT
+WDI
+RVR
+MET
+CIVIL  APRON
+See “DETAIL ”
+NR2  TWY
+(EFF:28 JAN 2021) 31/12/20
+→ RJCO AD2.24-ADC-1
+SAPPORO
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJCO / SAPPORO SID
+KURIS THREE DEPARTURE
+RWY 14: Turn left,....
+RWY 32: Turn right,....
+....Climb via HDG 057˚ to intercept and proceed via SPE R103 to KURIS.
+Cross KURIS at or above 5000FT.
+SAPPORO REVERSAL FOUR DEPARTURE
+RWY 14: Turn left,....
+RWY 32: ....
+....Climb to SPE VOR/DME, via SPE R335, turn left to intercept and proceed 
+via SPE R310 to SPE VOR/DME within SPE 15.0
+DME.
+Cross SPE R335/6.0DME at or below 6000FT,  
+cross SPE R310/6.0DME at or above 10000FT.
+SAPPORO THREE DEPARTURE
+RWY 14: Turn left,....
+RWY 32: ....
+....Climb to SPE VOR/DME.
+RUMOI TRANSITION
+From over SPE VOR/DME, climb via SPE R040 to RUMOI.
+Cross SPE R040/8.0DME at or above 4000FT,cross RUMOI at assigned 
+altitude.
+BEEBA TRANSITION
+From over SPE VOR/DME,  climb via  SPE R069 to BEEBA.
+Cross BEEBA at assigned altitude.
+MOIWA TRANSITION
+From over SPE VOR/DME,  climb via  SPE R325 to 3000FT or above, 
+turn left to intercept and proceed via SPE R203 to MOIWA. 
+Cross MOIWA at or above 7000FT.
+Note: Do not start left turn to MOIWA before SPE VOR/DME.
+(EFF:28 JAN 2021) 31/12/20
+→     RJCO AD2.24-SID-1
+SAPPORO
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SAPPORO
+STANDARD DEPARTURE CHART - INSTRUMENT
+4000
+BEEBA
+RUMOI
+3000
+7000
+   MOIWA
+ 
+D15.0SPE
+RJCO / SAPPORO SID
+040°
+069°
+325°
+335°
+103°
+057°
+057°
+130°
+R203
+203°
+Assigned ALT
+SAPPORO
+VOR/DME
+(SPE)
+KURIS THREE DEPARTURE6000
+5000
+10000
+KURIS
+D17.7 SPE
+SAPPORO VOR/DME
+(SPE)
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+D6.0 SPE
+D36.6 SPE
+RUMOI  TRANSITION
+BEEBA  TRANSITION
+D21.0 SPE
+Assigned ALT
+D8.0 SPE
+SAPPORO THREE DEPARTURE
+MOIWA  TRANSITION
+D15.0 SPE
+SAPPORO REVERSAL FOUR DEPARTURE
+CHANGE : Description of PROC(SID and TRANSITION).
+RJCO AD2.24-SID-2
+(EFF:13 JUN 2024) 13/6/24
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJCO / SAPPORO  SID
+  KURIS REVERSAL FOUR DEPARTURE
+RWY 14 :  Turn left,....
+RWY 32 :  .... 
+....climb direct to SPE VOR/DME, via SPE R325 until passing 
+3000 FT, turn left to intercept and proceed via SPE R305 to  
+SPE VOR/DME within SPE 10.0DME, via SPE R103 to KURIS.
+ Cross SPE R103/10.0DME at or above 6000FT, 
+cross KURIS at or above 7000FT. 
+D10.0SPE
+325°
+103°
+125°
+3000
+6000 KURISD10.0 SPE
+D17.7 SPE
+7000
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC.
+(EFF:13 JUN 2024) 13/6/24
+     RJCO AD2.24-SID-3
+SAPPORO
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJCO / SAPPORO RNAV SID
+RNP1BANKE ONE DEPARTURE
+Note GNSS required.
+VAR 10˚  W
+3000
+YAFFL
+431236.7N
+1412101.3E
+FUUTA
+430907.6N
+1411410.1E
+2000
+BANKE
+430258.6N
+1411535.8E
+500
+MOIWA
+425555.2N
+1411312.6E
+7000
+6.1
+245˚
+325˚
+145˚6.2180˚
+7.3204˚
+RWY14 : Climb on HDG145° at or above 500FT, turn left direct to YAFFL at or above 3000FT,
+               to FUUTA, to BANKE, to MOIWA at or above 7000FT.
+RWY32 : Climb on HDG325° at or above 2000FT, turn left direct to BANKE, to MOIWA 
+               at or above 7000FT.
+Note RWY14 : 6.0% climb gradient required up to 2200FT.
+                        OBST ALT 2822FT located at 7.8NM 266°FM end of RWY14.
+RWY32 : 6.0% climb gradient required up to 4000FT.
+               OBST ALT 3585FT located at 8.4NM 261°FM end of RWY32.
+CHANGE : Description of PROC name. VAR.
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-SID-4
+SAPPORO
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan     RJCO AD2.24-SID-5
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY14
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 145
+(134.8) -9.7 - - +500 - - RNP1
+002 DF YAFFL - - -9.7 - L +3000 - - RNP1
+003 TF FUUTA - 245
+(235.2) -9.7 6.1 - - - - RNP1
+004 TF BANKE - 180
+(170.4) -9.7 6.2 - - - - RNP1
+005 TF MOIWA - 204
+(193.9) -9.7 7.3 - +7000 - - RNP1
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 325
+(314.8) -9.7 - - +2000 - - RNP1
+002 DF BANKE - - -9.7 - L - - - RNP1
+003 TF MOIWA - 204
+(193.9) -9.7 7.3 - +7000 - - RNP1
+RJCO / SAPPORO RNAV SID
+BANKE ONE DEPARTURE
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+SAPPORO
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJCO / SAPPORO RNAV SID
+RNP1TOBET EAST ONE DEPARTURE
+Note GNSS required.
+VAR 10˚  W
+5000
+TOBET
+431437.1N
+1413258.7E
+KURIS
+430918.8N
+1414221.6E
+500
+500
+8.7
+137˚
+145˚
+325˚
+RWY14 : Climb on HDG145° at or above 500FT, turn left direct to TOBET, to KURIS
+               at or above 5000FT.
+RWY32 : Climb on HDG325° at or above 500FT, turn right direct to TOBET, to KURIS 
+               at or above 5000FT.
+Note RWY14 : 6.0% climb gradient required up to 500FT.
+RWY32 : 6.0% climb gradient required up to 500FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001
+003
+VA
+DF
+凟 145
+(134.8)
+KURIS
+凟
+凟
+-9.7
+-9.7
+凟 凟
+凟
++500 凟
+凟
+凟
+凟
+RNP1
+RNP1
+RWY14
+002
+TF
+TOBET 凟凟 -9.7 凟 凟 凟 RNP1凟L
+137
+(127.7) 8.7 +5000
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001
+003
+VA
+DF
+凟 325
+(314.8)
+KURIS
+凟
+凟
+-9.7
+-9.7
+凟 凟
+凟
++500 凟
+凟
+凟
+凟
+RNP1
+RNP1
+RWY32
+002
+TF
+TOBET 凟凟 -9.7 凟 凟 凟 RNP1凟R
+137
+(127.7 ) 8.7 +5000
+CHANGE : Description of PROC name and VAR.
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-SID-6
+SAPPORO
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+TOBET NORTH ONE DEPARTURE RNP1
+RNAV SID RJCO / SAPPORO
+RWY14 : Climb on HDG145° at or above 500FT, turn left direct to TOBET, to RUMOI.   
+RWY32 : Climb on HDG325° at or above 500FT, turn right direct to TOBET, to RUMOI. 
+Note RWY14 : 6.0% climb gradient required up to 500FT.
+RWY32 : 6.0% climb gradient required up to 500FT.
+VAR 10°W 
+RWY14
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001
+002
+VA
+DF
+凟 145
+(134.8)
+TOBET
+凟
+凟 凟
+-9.7
+-9.7
+凟
+凟
+凟 +500 凟
+凟
+凟
+凟
+RNP1
+RNP1凟
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001
+003
+VA
+DF
+凟 325
+(314.8)
+RUMOI
+凟
+凟
+-9.7
+-9.7
+凟 凟
+凟
++500 凟
+凟
+凟
+凟
+RNP1
+RNP1
+RWY32
+002
+TF
+TOBET 凟凟 -9.7 凟 凟 凟 RNP1凟R
+026
+(015.9) 28.5
+L
+凟
+RNP1凟凟-9.7003 TF RUMOI 凟 026
+(015.9) 28.5 凟 凟
+Note GNSS required.
+500
+RUMOI
+434157.6N
+1414344.5E
+500
+145°
+325°
+TOBET
+431437.1N
+1413258.7E
+28.5026˚
+CHANGE : Description of PROC name and VAR.
+(EFF:13 JUN 2024) 13/6/24
+     RJCO AD2.24-SID-7
+SAPPORO
+
+
+=== Page 22 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+41YWR RATS VANROROPPAS / OCJR
+MOIWA NORTH ARRIVAL
+RUMOI NORTH ARRIVAL
+KURIS NORTH ARRIVAL
+RNP1
+Note GNSS required. 
+6000
+RUMOI
+434157.6N
+1414344.5E
+MAMAT
+432729.9N
+1412256.9E
+SOBEE
+432103.9N
+1411346.9E
+KURIS
+430918.8N
+1414221.6E
+MOIWA
+425555.2N
+1411312.6E
+KIROL
+430927.4N
+1410549.3E
+NIKAN
+431330.2N
+1410336.0E
+RUMOI NORTH ARRIVAL
+KURIS NORTH ARRIVAL
+MOIWA NORTH ARRIVAL
+3500
+2800
+6000
+4000
+348°
+4.4
+MORAI
+432356.5N
+1411752.4E
+VAR 10°W 
+20.9
+236˚
+20.9
+236˚
+5.1
+236˚
+4.1
+236˚
+14.6348˚
+23.9
+309˚
+CHANGE : Description of VAR.
+(EFF:13 JUN 2024) 13/6/24
+   RJCO AD2.24-STAR-1
+SAPPORO
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJCO AD2.24-STAR-2
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From MOIWA, to KIROL at or above 6000FT, to NIKAN at or above 4000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MOIWA - - -9.9 - - - - - RNP1
+002 TF KIROL - 348
+(338.3) -9.9 14.6 - +6000 - - RNP1
+003 TF NIKAN - 348
+(338.2) -9.9 4.4 - +4000 - - RNP1
+ From RUMOI, to MAMAT at or above 6000FT, to MORAI at or above 3500FT,
+ to SOBEE at or above 2800FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF RUMOI - - -9.9 - - - - - RNP1
+002 TF MAMAT - 236
+(226.3) -9.9 20.9 - +6000 - - RNP1
+003 TF MORAI - 236
+(226.0) -9.9 5.1 - +3500 - - RNP1
+004 TF SOBEE - 236
+(226.0) -9.9 4.1 - +2800 - - RNP1
+ From KURIS, to SOBEE at or above 2800FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KURIS - - -9.9 - - - - - RNP1
+002 TF SOBEE - 309
+(299.6) -9.9 23.9 - +2800 - - RNP1
+RJCO / SAPPORO RNAV STAR RWY14
+MOIWA NORTH ARRIVAL
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+RUMOI NORTH ARRIVAL
+KURIS NORTH ARRIVAL
+SAPPORO
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+23YWR RATS VANROROPPAS / OCJR
+RUMOI
+434157.6N
+1414344.5E
+MAMAT
+432729.9N
+1412256.9E
+SOBEE
+432103.9N
+1411346.9E
+YACHA
+431303.0N
+1413319.5E
+KURIS
+430918.8N
+1414221.6E
+MOIWA
+425555.2N
+1411312.6E
+OLYMP
+430358.7N
+1410953.4E
+OHKAM
+430906.5N
+1412758.8E
+JODAI
+430519.5N
+1413226.7E
+CLAKY
+425942.2N
+1412500.3E
+BELMI
+430533.8N
+1411532.0E
+JIIMA
+430211.6N
+1412059.1E
+JOZAN
+425949.0N
+1410749.1E
+MOIWA SOUTH ARRIVAL
+RUMOI SOUTH ARRIVAL
+KURIS SOUTH ARRIVAL
+RUMOI SOUTH ARRIVAL
+KURIS SOUTH ARRIVAL
+MOIWA SOUTH ARRIVAL
+MHA 3500
+MAX 210KIAS
+ 
+SOBEE
+ 
+6000
+3500
+1800
+3200
+3000
+6000
+4700
+4000
+MAX 180KIAS
+MAX 180KIAS
+RNP1
+Note GNSS required. 
+VAR 10°W
+20.9
+236˚
+9.3
+236˚
+20.8149˚
+7.6309˚5.5
+235˚
+5.0149˚
+3.9140˚
+5.2140˚4.4
+079˚
+4.4030˚
+5.5325˚
+353˚173˚
+ 
+NOT TO SCALE
+1MIN
+CHANGE : Description of VAR.
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-STAR-3
+SAPPORO
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJCO AD2.24-STAR-4
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From MOIWA, to JOZAN, to OLYMP at or above 6000FT, to BELMI at or above 4700FT,
+ to JIIMA at or above 4000FT, to CLAKY at or above 3200FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MOIWA - -9.9 - - - - - RNP1
+002 TF JOZAN - -9.9 5.5 - - - - RNP1
+003 TF OLYMP - -9.9 4.4 - +6000 - - RNP1
+004 TF BELMI - -9.9 4.4 - +4700 - - RNP1
+005 TF JIIMA - -9.9 5.2 - +4000 - - RNP1
+006 TF CLAKY - -9.9 3.9 - +3200 -180 - RNP1
+ From RUMOI, to MAMAT at or above 6000FT, to SOBEE at or above 3500FT,
+ to JODAI at or above 1800FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF RUMOI - -9.9 - - - - - RNP1
+002 TF MAMAT - -9.9 20.9 - +6000 - - RNP1
+003 TF SOBEE - -9.9 9.3 - +3500 - - RNP1
+004 TF JODAI - -9.9 20.8 - +1800 -180 - RNP1
+Path Waypoint
+Identifier
+Inbound
+Course
+°M(°T)
+Turn
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Navigation
+Specification
+Hold SOBEE 173
+(163.3) L 3500 FL140 RNP1
+ From KURIS, to YACHA at or above 3000FT, to OHKAM, to JODAI at or above 1800FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KURIS - -9.9 - - - - - RNP1
+002 TF YACHA - -9.9 7.6 - +3000 - - RNP1
+003 TF OHKAM - -9.9 5.5 - - - - RNP1
+004 TF JODAI - -9.9 5.0 - +1800 -180 - RNP1
+RNAV STAR RWY32
+MOIWA SOUTH ARRIVAL
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+RJCO / SAPPORO
+KURIS SOUTH ARRIVAL
+Course
+°M(°T)
+-
+309
+(299.6)
+235
+(224.7)
+Course
+°M(°T)
+Speed
+(KIAS)
+-9.9 1.0(-14000) -210(-14000)
+149
+(139.2)
+149
+(139.1)
+-
+325
+(314.7)
+030
+(020.0)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+079
+(068.9)
+140
+(130.2)
+140
+(130.3)
+RUMOI SOUTH ARRIVAL
+Course
+°M(°T)
+-
+236
+(226.3)
+236
+(226.0)
+SAPPORO
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+330˚
+150
+˚
+10NM
+350˚150˚
+144˚
+270°
+180°
+360°
+090°
+MINIMA
+CAT
+600 (574) 600 (574)1500
+2000
+1600
+2400
+––––
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 20 AD elev. 26
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+VOR RWY14
+SAPPORO  APP
+119.225 – 121.075
+315.9
+SAPPORO  VOR/DME
+113.9 SPE
+CH–86X
+SAPPORO  TWR
+118.1 – 126.2 – 140.5
+138.05 – 121.8G
+GCA   AVBL
+CALL
+SAPPORO  APP
+MISSED APPROACH
+At 4.4DME(4.4NM)after passing SPE
+VOR/DME,turn left climb to 4000FT
+via SPE R350, turn left within  SPE
+10.0DME(10NM), proceed to SPE 
+VOR/DME and hold.
+Contact  SAPPORO  APP.
+1371
+231
+SPE
+1700
+4000
+MAPt
+1200
+4.4
+0
+DME to SPE
+NM to THR
+0
+4.4
+350˚
+350˚
+150˚
+144˚
+RJCO / SAPPORO
+Remain within D10.0 SPE (10NM)
+391
+3113
+3525
+1020 535
+417
+499
+387
+434
+SAPPORO
+CITY
+1742
+2713
+OTARU
+CITY
+2499
+3045
+42714882
+634
+798
+425
+VOR to MISSED  APCH  144˚/4.4NM
+KNOTS
+MIN:SEC
+70
+3:46
+90
+2:56
+100
+2:38
+120
+2:12
+140
+1:53
+160
+1:39
+VAR 10˚W 
+090˚ 270˚
+360˚
+180˚
+47005300
+54007300
+MSA 25NM
+SPE
+ÛÝ1ÛÝ(
+EQPT REQUIRED
+–
+CHANGE : ALT restriction at Base Turn Inbound. VAR.
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-IAC-1
+SAPPORO
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+130˚
+310˚ 
+350˚
+130˚324˚
+324˚
+270°
+18
+0°
+360
+°
+090°
+D13.0
+10NM
+VOR RWY32
+SAPPORO  VOR/DME
+113.9 SPE
+CH–86X
+MISSED APPROACH
+At 5.3DME prior to SPE VOR/DME
+climb to  4000FT via SPE R144
+then SPE R350, turn left
+within SPE 10.0
+DME, proceed to
+SPE VOR/DME and hold.
+Contact SAPPORO APP.
+1371
+231
+SPE 4000
+1500
+800
+350˚
+130˚
+324˚
+324˚
+Remain within SPE 13DME
+391
+3113
+3525
+1020 535
+320
+417
+499
+387
+434
+SAPPORO
+CITY
+1742
+2713 
+OTARU
+CITY
+2499
+3045
+42714882
+634
+798
+425
+SDFMAPt
+SAPPORO  TWR
+118.1 – 126.2 – 140.5
+138.05 – 121.8G
+ 
+MINIMA 
+CAT
+620 (594) 620 (594)1500
+2000
+1600
+2400
+––––
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 27 AD elev. 26
+A
+B
+C
+D
+Circling to 
+EAST side of RWY only.
+RJCO / SAPPORO
+090˚ 270˚
+360˚
+180˚
+47005300
+54007300
+MSA 25NM
+SPE
+SAPPORO  APP
+119.225 – 121.075
+315.9
+GCA   AVBL
+CALL
+SAPPORO  APPÛÝ1ÛÝ(
+EQPT REQUIRED
+DME
+4.4 5.3
+0
+9.0
+3.7
+DME to SPE
+NM to THR
+0
+VAR 10˚W EQPT REQUIRED
+CHANGE : VAR.
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-IAC-2
+SAPPORO
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJCO / SAPPORO RNP Z RWY14
+VAR 10°W
+MISSED APPROACH
+Turn left direct to SOBEE and hold at 2800FT.
+Contact SAPPORO APP.
+05.1 NM to THR
+1700
+OLSUT
+(IF)
+CO451
+(LNAV)1700
+730
+(704) MDA RDH50
+14.1
+MINIMA THR elev. 20 AD elev. 26
+CAT
+LNAV/VNAV LNAV CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+440 (414)
+1500
+440 (420) 600 (574)
+1800
+-
+1500 1600
+2400
+AGOVO
+(FAF) 
+OLSUT (IF) 
+NIKAN (IAF) 
+SOBEE (IAF/MAHF) 
+CO451
+2.6
+VDP
+1800
+-- -- -
+Circling to EAST side of RWY only.
+2800
+4000
+1.2
+1200
+(1174)
+AGOVO
+(FAF)
+897
+OLSUT
+25NM to  OLSUT
+5600
+IF
+NIKAN
+7300
+25NM to NIKAN
+RW14
+(MAPt) 
+RW14
+(MAPt)
+ 
+  
+ 2209
+3357
+SAPPORO APP
+119.225 - 121.075
+315.9
+SAPPORO TWR
+118.1 - 126.2 - 140.5
+138.05 - 121.8G
+GCA AVBL
+CALL
+SAPPORO APP
+234°
+5.3
+(224.3°T)
+054°
+5.3
+(044.5°T)
+145°9.0(134.8°T)
+234°
+145°2.6
+(134.9°T)
+145°
+2.5
+(134.9°T)
+054°
+054°
+325°
+090°
+10NM
+145°
+145°
+3.00°
+IF
+SOBEE
+5400
+25NM to SOBEE
+234°
+325°
+180°
+NM to Next Fix 34FAF
+ALT (3.0° APCH Path)
+MAPt5
+1700 706102413431661
+2
+-
+Baro-VNAV not authorized below -15 䰳
+D16.0 SPE
+NIKAN
+D11.0 SPE
+MHA 4000
+MAX 210KIAS
+295°
+115°
+R295
+Using NAVAID
+NOT TO SCALE
+ SOBEE       432103.94N
+(IAF/MAHF)  1411346.88E
+NIKAN    431330.23N
+(IAF)    1410336.03E
+OLSUT    431718.31N
+(IF)    1410844.42E 
+AGOVO    431056.51N
+(FAF)    1411731.35E  
+CO451   430909.92N
+1411957.95E
+RW14       430719.87N
+(MAPt)     1412229.11E 
+SOBEE
+RNAV HLDG
+1MIN
+NOT TO SCALE
+MHA 2800
+MAX 210KIAS
+353°173°
+(LNAV)
+RNP APCH
+CHANGE : OCA(H) FM OLSUT to AGOVO. Missed APCH for using VOR/DME abolished. HLDG pattern for using NAVAID (SOBEE) abolished.
+VOR/DME
+SAPPORO
+113.9   SPE
+CH–86X
+ÛÝ1ÛÝ(
+145°
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-IAC-3
+SAPPORO
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RDH50
+MINIMA
+CAT
+A
+B
+THR elev.20 AD elev.26
+CIRCLING
+MDA(H) VIS
+600(574)
+Circling to EAST side of RWY only.
+C
+D
+LPV
+DA(H) RVR/
+CMV
+342(322)
+1.51.41 0
+OLSUT
+(IF) AGOVO
+(FAF)
+1700
+145°
+NIKAN (IAF)
+4000
+SOBEE (IA F/MAHF)
+2800
+OLSUT (IF)
+CO452
+(MATF)
+VAR 10°W
+OLSUT
+25NM to OLSUT
+5600
+IF
+NIKAN
+7300
+25 NM to NIKAN
+IF
+SOBEE
+5400
+25NM to SOBEE
+D16.0 SPE
+NIKAN
+D11.0 SPE
+MHA 4000
+MAX 210KIAS
+ SOBEE    432103.94N
+(IAF/MAHF)  1411346.88E
+NIKAN    431330.23N
+(IAF)    1410336.03E
+OLSUT    431718.31N
+(IF)    1410844.42E 
+AGOVO    431056.51N
+(FAF)    1411731.35E  
+CO452    430632.83N
+(MATF)     1412333.65E 
+NM to THR
+Using NAVAID
+Direct to CO452, turn left direct to SOBEE 
+and hold at 2800FT.
+Contact SAPPORO APP.
+MISSED APPROACH
+RNP Y RWY14(LPV only)RJCO / SAPPORO
+1700
+NOT TO SCALE
+SOBEE
+RNAV HLDG
+1MIN
+NOT TO SCALE
+MHA 2800
+MAX 210KIAS
+1500
+1800
+1600
+2400
+AGOVO
+(FAF)
+Missed APCH climb gradient MNM 5.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+MSAS CH75888
+M14A
+SAPPORO APP
+119.225 - 121.075
+315.9
+SAPPORO TWR
+118.1 - 126.2 - 140.5
+138.05 - 121.8G
+GCA AVBL
+CALL
+SAPPORO APP
+2209
+VOR/DME
+SAPPORO
+113.9   SPE
+CH–86X
+234°
+5.3
+(22
+4.3°T
+)
+054°
+5.3
+(044.5°T)
+145°9.0
+(134.8°T)
+145
+°
+6.2
+(134.9°T)
+054°
+234°
+234°
+325°
+180°
+295°
+115°
+R295
+353°173°
+10NM
+3.00°
+145°
+054°
+325
+°
+   RNP APCH
+CHANGE : HLDG pattern for using NAVAID(SOBEE) abolished.
+ÛÝ1ÛÝ(
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-IAC-4
+SAPPORO
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCO AD2.24-IAC-5
+INSTRUMENT APPROACH CHART
+RJCO / SAPPORO
+FAS DATA BLOCK
+47300+thgieh ladiospille PTF/PTL0epyt noitarepO
+SBAS service provider identifier 2 FPAP Latitude 430641.1115N
+Airport identifier RJCO FPAP Longitude 1412322.2875E
+0.51000thgieh gnissorc dlohserhT41yawnuR
+Approach performance designator 0 TCH units selector 1
+Route indicator Y Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M14A  length offset 0192
+LTP/FTP latitude 430719.8510N 00.04LAH
+LTP/FTP longitude 1412229.1365E 00.05LAV
+CRC remainder
+Required additional data
+LTP/FTP orthometric height 5.7
+DE9BC9B1
+RNP Y RWY14(LPV only)
+CHANGE : Description of PROC name.
+SAPPORO
+(EFF:13 JUN 2024) 13/6/24
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ 
+MINIMA
+CAT
+A
+B
+THR elev.27 AD elev.26
+CIRCLING
+600(574)
+Circling to EAST side of RWY only.
+C
+D
+LPV
+DA(H) RVR/
+CMV
+328(301)
+1500
+1.30
+1500
+SAPPORO(SPE)
+(MAHF)
+VAR 10°W 
+NM to THR
+Direct to CO253, turn left direct to SPE and 
+hold at 4000FT.
+Contact SAPPORO APP.
+MISSED APPROACH
+RJCO / SAPPORO
+1100
+Baro-VNAV not authorized below -15°
+CLAKY (IAF)
+3200
+MAX 180KIAS OKEBA
+1900
+IKANU(FAF)
+CO252
+RW32(MAPt)
+CO253
+(MATF)
+JODAI (IAF)
+1800
+MAX 180KIAS
+PALSI
+MAX 170KIAS
+ADPIN(IF)
+MAX 170KIAS
+CLAKY       425942.20N
+(IAF)       1412500.34E
+OKEBA       430040.24N
+1412732.82E
+JODAI       430519.54N
+(IAF)       1413226.71E
+PALSI      430338.77N
+1413135.58E
+ADPIN      430209.52N
+(IF)        1412934.15E
+IKANU       430429.45N
+(FAF)      1412622.74E
+CO252      430533.00N
+1412455.68E
+RW32       430645.58N
+(MAPt)    1412316.16E 
+CO253       431329.07N
+(MATF)     1411401.12E
+SPE         431028.71N
+(MAHF)    1411808.58E
+MSA 25NM
+ARP
+6000
+ARP 430703N/1412253E
+MHA 4000
+MAX 220KIAS
+140°
+320°
+SAPPORO
+(SPE)
+NOT TO SCALE
+1MIN
+2.1
+072°
+(062.5°T)
+2.1
+055°
+(044.8°T)
+2.1
+235°
+(224.8°T)
+3.3325°
+(315.0°T)
+1.5325°
+(315.0°T)
+1.7
+325°
+(315.0°T)
+090°
+270°
+NM to Next Fix 2F A F
+ALT (3.0° APCH Path)
+MAPt
+- 1100713
+3
+1032
+5.62.37.1
+ADPIN
+(IF)
+IKANU
+(FAF)
+VDP
+(LNAV)
+CO252
+(LNAV)
+RW32
+(MAPt) 622
+570
+(544)
+1100
+(1074)
+325°
+3.00°
+RDH50 MDA
+325° 325°
+LNAV/VNAV
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+LNAV
+318(291)
+337(310) 1800
+460(433) 1500
+1800
+460(434)
+1500
+1800
+MDA(H) VIS
+1600
+2400
+MSAS CH66537
+ɹɹM32A
+SAPPORO APP
+119.225 - 121.075
+315.9
+SAPPORO TWR
+118.1 - 126.2 - 140.5
+138.05 - 121.8G
+GCA AVBL
+CALL
+SAPPORO APP
+3640
+10NM
+3357
+1742
+210°
+1.8
+(200.3
+°T)
+RNP RWY32
+   RNP APCH
+CHANGE: Missed APCH for using VOR/DME abolished. HLDG pattern for using NAVAID abolished..
+(EFF:13 JUN 2024) 13/6/24
+RJCO AD2.24-IAC-6
+SAPPORO
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCO AD2.24-IAC-7
+INSTRUMENT APPROACH CHART
+RJCO / SAPPORO
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00394
+SBAS service provider identifier 2 FPAP Latitude 430724.3050N
+Airport identifier RJCO FPAP Longitude 1412223.0240E
+Runway 32 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M32A 䶩 length offset 0192
+LTP/FTP latitude 430645.5665N HAL 40.00
+LTP/FTP longitude 1412316.1770E VAL 50.00
+CRC remainder
+Required additional data
+LTP/FTP orthometric height 7.7
+ 56210C49
+RNP RWY32
+CHANGE : Description of FAS DATA BLOCK ITEM(CRC remainder).
+SAPPORO
+(EFF:29 DEC 2022) 29/12/22
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+
+VAR 9˚15´W
+1993
+ELEV  26ft
+ VOR/DME
+SAPPORO
+   113.9  SPE
+CH–86
+43˚07´N–141˚23´E LDG  CHARTRJCO / SAPPORO
+43˚5´
+7´
+9´
+11´
+25´23´21´141˚19´
+PAPI  ANGLE  3.0˃
+.&)5N	GU
+
+NGN5)3
+PAPI  ANGLE  3.0˚
+.&)5N	GU
+
+NGN5)3
+&-&7"5*0/4"/%
+)&*()54*/'&&5
+.&"/4&"-&7&-
+SCALE
+1000 0
+1000 500 1000 2000m
+6000  ft
+SAPPORO  TWR
+ 118.1–126.2–140.5
+ 138.05–121.8G ABN
+391
+214
+265
+295
+32
+14
+ 4920
+ʷ150
+Asph-Conc
+
+ SPE  VOR/DME:143˚/4.4NM  to  THR
+43˚10´29˝N/141˚18´09˝E
+(EFF:28 JAN 2021) 31/12/20
+→ RJCO AD2.24-OTHER-1
+SAPPORO
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMOROPPAS / OCJR
+V$5Û:
+CENTER 凬 430703N/1412253E $53
+凬 430405N/1412108E RADIUS :10
+凬 430520N/1413527E RADIUS : 3NM
+Û Û
+Û
+Û
+Û
+ÛÛ
+Û
+
+
+䷵䢢
+䷶䢢
+
+
+
+䷷䢢
+䷸䢢
+䷹䢢
+䷺
+䷻
+䷼
+䷽
+䷾
+䷿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+** 
+
+
+4
+
+9
+
+
+5
+
+3
+10
+10
+10
+10
+9NM
+5NM
+.5NM 1010
+10
+10
+10
+10
+10
+10
+10
+10
+10
+CHANGE :  VAR.  Update.
+4.5NM
+(EFF:4 SEP 2025) 4/9/25
+RJCO AD2.24-OTHER-2
+SAPPORO
+　
+

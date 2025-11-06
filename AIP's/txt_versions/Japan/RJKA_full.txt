@@ -1,0 +1,3270 @@
+=== Page 1 ===
+AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD2-1
+AD 2 AERODROMES
+RJKA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJKA - AMAMI
+RJKA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJKA AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 282551N/1294245E
+025° / 1.0km FM RWY 03 THR
+2 Direction and distance from (city) 21.87km ENE from Amami city.
+3 Elevation/ Reference temperature 14ft / 33°C(2004-2008)
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change 6° W(2021) / 5’W
+6 AD Administration, address, 
+telephone, telefax, telex, AFS, 
+e-mail and/or Web-site addresses
+KAGOSHIMA PREF PUBLIC AP
+374-4, Kaneku, Nagahama, Wano, Kasari -cho, Amami-city, Kagoshima Pref.
+894-0503 JAPAN.
+Tel:0997-63-0277
+Fax:0997-63-2198
+7 Types of traffic permitted 
+(IFR/VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2300 - 1030
+2 Customs and immigration On request
+Customs: 099-260-3125
+Immigration: 099-222-5658
+3 Health and sanitation Quarantine(human): On request(099-222-8670)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (FUKUOKA)
+7 ATS 2300 - 1030
+Remarks: AFIS provided by Naha Airport Office.
+8 Fuelling 2300 - 1030
+9 Handling 2300 - 1030
+10 Security 2300 - 1030
+11 De-icing Nil
+12 Remarks Nil
+(EFF:1 OCT 2021) 12/8/21
+
+
+=== Page 2 ===
+RJKA AD2-2 AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD 2.4 HANDLING SERVICES AND FACILITIES
+RJKA AD 2.5 PASSENGER FACILITIES
+RJKA AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJKA AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Alll the modern institutions that deal with the weight thing to a MD81 type 
+freighter.
+2 Fuel/ oil types JET A-1, AVGAS100
+3 Fuelling facilities/ capacity Fuelling facilities : Fuel truck x 1, Capacity : 4500l / h
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7R e m a r k s N i l
+1 Hotels Hotels in the city.
+2 Restaurants Available, not continuous
+3 Transportation Buses, taxies
+4 Medical facilities Hospitals in the city.
+5 Bank and Post Office Bank in the city.
+6 Tourist Office Not available
+7 Remarks Nil
+1 AD category for fire fighting CAT 7
+2 Rescue equipment Chemical fire fighting truck x 2
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Not Applicable
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD2-3
+RJKA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJKA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Apron surface and strength Surface: cement-concrete, Strength: PCR 845/R/B/W/T
+2 Taxiway width, surface and
+strength
+T2, T3, T4
+Width : 30m, Surface : Asphalt-concrete, Strength : PCR 803/F/A/X/T
+T1, T5
+Width : :26.5m, Surface : Asphalt-concrete, Strength : PCR 803/F/A/X/T
+P3
+Width : :23m, Surface : Asphalt-concrete, 
+Strength : PCR 803/F/A/X/T & PCR 845/R/B/W/T
+P1, P2, P4
+Width : :23m, Surface : Asphalt-concrete, Strength : PCR 803/F/A/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+1: 282556.91N1294235.33E
+2: 282555.56N1294233.44E
+3: 282554.10N1294232.64E
+5: 282552.47N1294231.91E
+6: 282550.93N1294232.34E
+7: 282549.75N1294230.89E
+8: 282548.65N1294230.29E
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY 03/21
+(Marking)
+RWY designation, RWY CL, RWY THR, RWY middle point, Aiming point, TDZ, 
+RWY side stripe
+(LGT)
+RCLL, REDL, RTHL, WBAR(RWY03), RENL, RTZL(RWY03)
+TWY:
+(Marking)
+TWY CL, RWY HLDG PSN(T1-T5), TWY side stripe
+(LGT) 
+TWY edge LGT, TWY CL LGT, RWY guard LGT(T1-T5), Taxiing gudance 
+sign(T1-T5)
+3 Stop bars Nil
+4 Remarks (Marking)
+Overrun area
+(LGT)
+APN flood LGT
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 4 ===
+RJKA AD2-4 AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD 2.10 AERODROME OBSTACLES
+RJKA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office FUKUOKA
+2 Hours of service
+MET Office outside hours
+H24 (FUKUOKA)
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing is available upon inquiry at FUKUOKA
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5 U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, PSWM, 
+PSW(domestic),  E, C, WE, WF, WG, Wl, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information RADIO
+10 Additional information (limitation of 
+service, etc.)
+Nil
+(EFF:2 JAN 2020) 2/1/20
+
+
+=== Page 5 ===
+AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD2-5
+RJKA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJKA AD 2.13 DECLARED DISTANCES
+RJKA AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+03
+21
+025.75°
+205.75°
+2000×45
+2000×45
+PCR 803/F/A/X/T
+Asphalt Concrete
+PCR 803/F/A/X/T
+Asphalt Concrete
+282521.18N
+1294229.11E
+282619.61N
+1294301.26E
+THR ELEV: 27ft
+TDZ ELEV : 27ft
+THR ELEV: 14ft
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See AD2.24 AD chart 2120×300
+2120×300
+189 × (MNM:153 MAX:298)*
+41 × (MNM:218 MAX:252)*
+*For detail, ask airport administrator
+RWY Grooving:2000×30m
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+03
+21
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+1 2 3 4 56 78 9
+03 PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/LEFT
+415m
+61ft
+900m 2000m
+30m
+Coded color
+(White/Red)
+LIH
+2000m
+60m
+Coded color
+(White/Yellow)
+LIH
+RED Nil
+(*2)
+21 SALS
+(*1)
+360m
+LIH
+Green
+Nil
+PAPI
+3.0°/LEFT
+374m
+61ft
+Nil 2000m
+30m
+Coded color
+(White/Red)
+LIH
+2000m
+60m
+Coded color
+(White/Yellow)
+LIH
+RED Nil
+(*2)
+Remarks
+10
+SALS with APCH LGT beacon(600m and 900m FM RWY THR)(*1)
+Overrun area edge LGT(LEN:60m Color:Red)(*2)
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 6 ===
+RJKA AD2-6 AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJKA AD 2.16 HELICOPTER LANDING AREA
+RJKA AD 2.17 ATS AIRSPACE
+RJKA AD 2.18 ATS COMMUNICATION FACILITIES
+1 ABN/IBN location, characteristics and 
+hours of operation ABN: 282551N/1294222E,White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : Nil
+Anemometer : 
+RWY 03 : 330m FM RWY 03 THR, LGTD
+RWY 21 : 320m FM RWY 21 THR, LGTD
+3 TWY edge and centerline lighting TWY edge and center line lights installed, see AD 2.9
+4 Secondary power supply/   
+switch-over time
+Within 1sec: REDL, RENL, RTHL, WBAR, RCLL and 
+                    Overrun area edge LGT
+Within 15sec: Other Lights
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+Amami
+Information
+Zone
+Area within a radius of 5nm(9km) of Amami ARP 3,000 or 
+below
+E AMAMI RADIO
+En
+Naha
+ ACA
+See ROAH attached chart E Naha APP
+En
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP NAHA APPROACH 124.95MHz
+280.1MHz
+2300 - 1030
+AFIS AMAMI RADIO 118.15MHz(1)
+126.2MHz
+2300 - 1030 Operated by Naha Airport Office.
+(1)Primary
+(EFF:22 FEB 2024) 25/1/24
+
+
+=== Page 7 ===
+AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD2-7
+RJKA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR declina-
+tion)
+ID Frequency Hours of
+operation
+Position of trans-
+mitting antenna 
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(6°W/2015)
+AME 113.95MHz H24 282604.98N
+1294241.07E
+VOR Unusable : 
+260°-280° beyond 20nm BLW 3000ft.
+DME AME 1047MHz
+(CH-86Y)
+H24 282604.98N
+1294241.07E
+43ft DME Unusable : 
+360°-010° beyond 20nm BLW 3000ft.
+260°-280° beyond 15nm BLW 3000ft.
+280°-300° beyond 20nm BLW 3000ft.
+320°-360° beyond 20nm BLW 3000ft.
+ILS-LOC 03 IAM 109.3MHz 2300 - 1030 282626.50N
+1294305.06E
+LOC: 235m (771ft) away FM
+RWY 21 THR, BRG (MAG) 031.90° 
+ILS-DME 03 IAM 991MHz 2300 - 1030 282529.47N
+1294238.89E
+35ft DME: 346m (1135ft) inside FM
+RWY 03 THR, 130m (427ft) SE of 
+RCL.
+ILS-GP 03 - 332.0MHz 2300 - 1030 282529.21N
+1294238.44E
+GP: 333m (1093ft) inside FM
+RWY 03 THR, 120m (394ft) SE of 
+RCL.
+GP Angle 3.0°, HGT of ILS Ref datum 
+16.5m (54ft).
+MSAS 1575.42MHz H24 Transmitting antennas are satelite 
+based.
+REMARKS : 1.LOC beam BRG(MAG) 031.90°
+2.HGT of ILS REF datum 16.5m(54ft)
+3.GP Angle 3.0°
+4.ELEV of ILS-DME 10.4m(35ft)
+ILS
+AMAMI AP
+ILS-LOC
+ANTENNA
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+120m
+130m
+333m
+13m
+2000m 235m
+RWY
+21
+03
+(EFF:9 SEP 2021) 12/8/21
+
+
+=== Page 8 ===
+RJKA AD2-8 AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJKA AD 2.21 NOISE ABATEMENT PROCEDURES
+PPR for transient ACFT to use this AP .
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 9 ===
+AIP Japan
+AMAMI
+Civil Aviation Bureau,Japan
+RJKA AD2-9
+RJKA AD 2.22 FLIGHT PROCEDURES
+RJKA AD 2.23 ADDITIONAL INFORMATION
+RJKA AD 2.24 CHARTS RELATED TO AN AERODROME
+1.TAKE OFF MINIMA
+RWY ACFT CAT
+REDL & RCLL REDL or RCLL or RCL 
+marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN AP 
+FILED
+03 A, B, C, D 400 400 400 400 - 500
+21 A, B, C, D - 400 - 400 - 500
+OTHER
+03
+A, B, C, D AVBL LDG MINIMA
+21
+2.Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Naha Approach are lost for one minute, squawk Mode A/3 Code 7600 and;
+1) Contact Amami Radio.
+2) If unable, proceed in accordance with Visual Flight Rules.
+3) If unable, proceed to Kasari VOR at the last assigned altit ude, or 3,000 feet whichever is higher, and execute instrument
+approach.
+NOTE: Procedures other than above will  be issued when situation requires.
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (RURIK-RNAV)
+Standard Departure Chart - Instrument (USAGI EAST-RNAV)
+Standard Departure Chart - Instrument (YUWAN-RNAV)
+Standard Departure Chart - Instrument (MUCHA-RNAV)
+Standard Departure Chart - Instrument (IKEJI-RNAV)
+Standard Departure Chart - Instrument (PINNE)
+Standard Departure Chart - Instrument (KASARI REVERSAL)
+Standard Arrival Chart-Instrument (KANAH SOUTH, TUMGI-RNAV)
+Standard Arrival Chart-Instrument (KANAH NORTH, YUWAN NORTH-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY03)
+Instrument Approach Chart (ILS Y or LOC Y RWY03)
+Instrument Approach Chart (VOR RWY03)
+Instrument Approach Chart (VOR RWY21)
+Instrument Approach Chart (RNP Z RWY03)
+Instrument Approach Chart (RNP Y RWY03(AR))
+Instrument Approach Chart (RNP Z RWY21) 
+Instrument Approach Chart (RNP Y RWY21(AR))
+Other Chart (VISUAL REP)
+Other Chart (MVA CHART)
+(EFF:22 FEB 2024) 25/1/24
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+123567 P-1P-2
+374m
+T- 1T- 2T- 3
+P-3
+T- 4T- 5
+P-4
+WDI RVR
+ABN
+RADIO
+VOR/DME
+TRUE NORTH
+WDI
+21
+03
+03
+21
+900m
+300m240m60m300m
+500m
+0.73%
+0.28%
+22ft
+(6.82m)(8.22m)
+27ft 14ft
+(4.18m)
+14ft
+(4.18m)
+860m
+LEVEL
+RWY 21
+2000m
+300m
+0
+RWY 03
+900m
+415m
+8
+ARP282551N 1294245E
+RJKA / AMAMI
+AMAMI AP
+LONGITUDINAL PROFILE OF RWY
+REMARKS : RWY GROOVING                          2000m × 30m
+WIDTH & STRENGTH OF RWY            2000m × 45m PCR 803/F/A/X/T
+WIDTH & STRENGTH OF TWY
+T-2,T-3 T-4 30m PCR 803/F/A/X/T T-1,T-5 26.5m     PCR 803/F/A/X/T
+P-3    23m PCR 803/F/A/X/T & PCR 845/R/B/W/T
+P-1,P-2,P-4 23m PCR 803/F/A/X/T
+DIMENSION & STRENGTH OF APRON 190m× 331.5m PCR 845/R/B/W/T
+APCH LGT BCN
+SALS
+SEQUENCED FLASHING LGT (SFL-V)
+ALS
+MEHT 18.5m(61ft)
+PAPI Angle 3.0°
+TAXIING GUIDANCE SIGN RWY GUARD LGT
+OVERRUN AREA EDGE LGT
+APRON FLOOD LGT
+MEHT 18.5m(61ft)
+PAPI Angle 3.0°
+AD  CHART
+CHANGE :  WIND SPEED METER, CEILOMETER added.
+CEILOMETER
+WIND SPEED METER WIND SPEED METER
+(EFF:20 FEB 2025) 20/2/25
+RJKA AD2.24-ADC-1
+AMAMI
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJKA AD2.24-SID-1
+STANDARD DEPARTURE CHART -INSTRUMENT
+2279
+1733
+䢢䢢䢢
+032°
+䢢䢢䢢
+21
+2°
+53.2
+䢢䢢䢢
+029°
+VOR/DME
+AME
+0FT
+KASARI
+113.95   AME
+CH-86Y䢢䢢䢢䢢䢢
+28°26'05"N/129°42'41"E
+  RURIK
+䢢䢢291758.8N
+1301252.4E
+  KA102
+䢢䢢282845.7N
+1294948.9E
+䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇䢳䢴䢻䤑䢴䢲䢩䣇
+䢴䢻䤑䢴䢲䢩䣐
+䢴䢻䤑䢲䢩䣐
+䢴䢺䤑䢶䢲䢩䣐
+䢴䢺䤑䢴䢲䢩䣐
+VAR 6°W
+CHANGE : Navigation Specification(Basic RNP1→RNP1).
+RJKA / AMAMI RNAV SID
+RURIK THREE DEPARTURE RNP1
+     Note GNSS required.
+ Contour 
+Intervals
+ AD elev.14
+4000
+3000
+2000
+1000
+500
+KIKAI AP
+䢯
+䢯
+RWY03 : Climb on HDG032° at or above 500 FT, direct to RURIK at or above 7000FT.
+RWY21 : Climb on HDG212° at or above 500FT, turn left direct to KA102 at or above 4000FT,
+               to RURIK at or above 7000FT.     
+Note RWY03 : 3.5% climb gradient required up to 500FT.
+                        OBST ALT 197FT located at 1.1NM 015° FM end of RWY03.
+         RWY21 : 5.0% climb gradient required up to 500FT.
+500
+7000
+4000
+202468 1 0 1 2
+NM
+505 1 0 1 5 2 0
+KM
+AMAMI
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AMAMI
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY03
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 032
+(025.8) -6.4 - - +500 - - RNP1
+002 DF RURIK -- - 6 . 4- - +7000 - - RNP1
+RWY21
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 212
+(205.8) -6.4 - - +500 - - RNP1
+002 DF KA102 -- - 6 . 4- L +4000 - - RNP1
+003 TF RURIK - 029
+(022.2) -6.4 53.2 - +7000 - - RNP1
+RJKA / AMAMI RNAV SID
+RURIK THREE DEPARTURE
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+RJKA AD2.24-SID-2
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJKA AD2.24-SID-3
+STANDARD DEPARTURE CHART -INSTRUMENT
+1026
+䢢䢢䢢
+21
+2°
+095°/6.7
+091°/5.5
+䢢䢢䢢
+032°
+11.1䢢䢢䢢
+091°
+VOR/DME
+AME
+0FT
+KASARI
+113.95   AME
+CH-86Y䢢䢢䢢䢢䢢
+28°26'05"N/129°42'41"E
+  KA103
+䢢䢢282945.4N
+1300222.2E
+  KA102
+䢢䢢282845.7N
+1294948.9E
+  POMAS
+䢢䢢283014.8N
+1300839.1E
+  KA302
+䢢䢢283006.1N
+1300103.6E
+䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇
+䢴䢺䤑䢶䢲䢩䣐
+䢴䢺䤑䢴䢲䢩䣐
+VAR 6°W
+CHANGE : Navigation Specification(Basic RNP1→RNP1).
+RJKA / AMAMI RNAV SID
+USAGI EAST THREE DEPARTURE RNP1
+     Note GNSS required.
+ Contour 
+Intervals
+ AD elev.14
+4000
+3000
+2000
+1000
+KIKAI AP
+5000
+䢯
+䢯
+RWY03 : Climb on HDG032° at or above 500FT, turn right direct to KA302 at or above 5000FT,
+               to POMAS at or above 6000FT.
+RWY21 : Climb on HDG212° at or above 500FT, turn left direct to KA102 at or above 4000FT,
+               to KA103 at or above 5000FT, to POMAS at or above 6000FT.     
+Note RWY03 : 3.5% climb gradient required up to 500FT.
+                        OBST ALT 197FT located at 1.1NM 015° FM end of RWY03.
+         RWY21 : 5.0% climb gradient required up to 500FT.
+60005000
+4000
+500
+500
+2 0 2 4 6 8 10 12
+NM
+5 0 5 1 01 52 0
+KM
+AMAMI
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AMAMI
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY03
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 032
+(025.8) -6.4 - - +500 - - RNP1
+002 DF KA302 -- - 6 . 4- R +5000 - - RNP1
+003 TF POMAS - 095
+(088.7) -6.4 6.7 - +6000 - - RNP1
+RWY21
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 212
+(205.8) -6.4 - - +500 - - RNP1
+002 DF KA102 -- - 6 . 4- L +4000 - - RNP1
+003 TF KA103 - 091
+(084.8) -6.4 11.1 - +5000 - - RNP1
+004 TF POMAS - 091
+(084.9) -6.4 5.5 - +6000 - - RNP1
+RJKA / AMAMI RNAV SID
+USAGI EAST THREE DEPARTURE
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+RJKA AD2.24-SID-4
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJKA AD2.24-SID-5
+STANDARD DEPARTURE CHART -INSTRUMENT
+1733
+2279
+2116
+228°/29.3䢢䢢䢢
+234°/15.0
+䢢䢢䢢
+032°
+60.6
+䢢䢢䢢
+228°
+238°/15.0䢢䢢䢢
+䢢䢢䢢
+212°
+VOR/DME
+AME
+0FT
+KASARI
+113.95   AME
+CH-86Y䢢䢢䢢䢢䢢
+28°26'05"N/129°42'41"E
+VOR/DME
+TKE
+100FT
+TOKUNOSHIMA
+110.45   TKE
+CH-41Y䢢䢢䢢䢢䢢䢢
+27°49'29"N/128°52'56"E
+VORTAC
+ONC
+200FT
+ERABU
+113.1   ONC
+CH-78X䢢䢢䢢䢢䢢䢢䢢
+27°25'58"N/128°41'56"E
+  KA101
+䢢䢢282112.2N
+1294013.1E
+  KA301
+䢢䢢282031.9N
+1294046.7E
+  ERABU(ONC)
+䢢䢢272558.4N
+1284156.3E
+  PINNE
+䢢䢢274919.0N
+1290526.5E
+  YUWAN
+䢢䢢281109.8N
+1292733.3E
+䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇䢳䢴䢻䤑䢴䢲䢩䣇䢳䢴䢻䤑䢲䢩䣇䢳䢴䢺䤑䢶䢲䢩䣇䢴䢺䤑䢶䢲䢩䣐
+䢴䢺䤑䢴䢲䢩䣐
+䢴䢺䤑䢲䢩䣐
+䢴䢹䤑䢶䢲䢩䣐
+䢴䢹䤑䢴䢲䢩䣐
+VAR 6°W
+CHANGE : Navigation Specification(Basic RNP1→RNP1).
+RJKA / AMAMI RNAV SID and TRANSITION
+YUWAN FOUR DEPARTURE
+PINNE TRANSITION
+ERABU TRANSITION
+RNP1
+     Note GNSS required.
+YUWAN FOUR DEPARTURE
+RWY03 : Climb on HDG032° at or above 700FT, turn right direct to KA301, to YUWAN
+               at or above 4000FT.               
+RWY21 : Climb on HDG212° at or above 500FT, direct to KA101, to YUWAN  at or above 4000FT.
+Note RWY03 : 3.5% climb gradient required up to 700FT.
+                        OBST ALT 197FT located at 1.1NM 015° FM end of RWY03.
+ Contour 
+Intervals
+ AD elev.14
+4000
+3000
+2000
+1000
+KIKAI AP
+700
+PINNE TRANSITION
+From YUWAN at or above 4000FT, to PINNE.
+ERABU TRANSITION
+From YUWAN at or above 4000FT, to ONC.
+䣒䣋䣐䣐䣇䢢䣖䣔䣃䣐䣕䣋䣖䣋䣑䣐
+䣛䣗䣙䣃䣐䢢䣈䣑䣗䣔䢢䣆䣇䣒䣃䣔䣖䣗䣔䣇
+䢯
+䣇䣔䣃䣄䣗䢢䣖䣔䣃䣐䣕䣋䣖䣋䣑䣐
+䢯500
+4000
+202468 1 0 1 2
+NM
+5 0 5 10 15 20
+KM
+AMAMI
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AMAMI
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY03
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 032
+(025.8) -6.4 - - +700 - - RNP1
+002 DF KA301 -- - 6 . 4- R - - - RNP1
+003 TF YUWAN - 238
+(231.2) -6.4 15.0 - +4000 - - RNP1
+RWY21
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 212
+(205.8) -6.4 - - +500 - - RNP1
+002 DF KA101 -- - 6 . 4- - - - - RNP1
+003 TF YUWAN - 234
+(228.1) -6.4 15.0 - +4000 - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF YUWAN - - -6.4 - - +4000 - - RNP1
+002 TF PINNE - 228
+(221.9) -6.4 29.3 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF YUWAN - - -6.4 - - +4000 - - RNP1
+002 TF ONC - 228
+(221.9) -6.4 60.6 - - - - RNP1
+PINNE TRANSITION
+ERABU TRANSITION
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+RJKA / AMAMI RNAV SID and TRANSITION
+YUWAN FOUR DEPARTURE
+RJKA AD2.24-SID-6
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+䢢䢢䢢
+032°
+䢢䢢䢢
+21
+2°
+VOR/DME
+AME
+0FT
+KASARI
+113.95   AME
+CH-86Y䢢䢢䢢䢢䢢
+28°26'05"N/129°42'41"E
+  MUCHA
+䢢䢢282808.7N
+1300022.2E
+䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇
+䢴䢺䤑䢴䢲䢩䣐
+VAR 6°W
+CHANGE : Navigation Specification(Basic RNP1→RNP1).
+RJKA / AMAMI RNAV SID
+MUCHA TWO DEPARTURE RNP1
+     Note GNSS required.
+ Contour 
+Intervals
+ AD elev.14
+4000
+3000
+2000
+1000
+3000
+䢯
+RWY03 : Climb on HDG032° at or above 500FT, turn right direct to MUCHA at or above 3000FT.
+               
+RWY21 : Climb on HDG212° at or above 500FT, turn left direct to MUCHA at or above 3000FT.
+Note RWY03 : 3.5% climb gradient required up to 500FT.
+                        OBST ALT 197FT located at 1.1NM 015° FM end of RWY03.
+500
+500
+䢯
+KIKAI AP
+RWY03
+Serial
+Number
+Path
+Descriptor
+Way point
+Identif ier
+Fly
+Ov er
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Nav igation
+Specif ication
+001 VA - - 032
+(025.8) -6.4 - - +500 - - RNP1
+002 DF MUCHA - - -6.4 - R +3000 - - RNP1
+RWY21
+Serial
+Number
+Path
+Descriptor
+Way point
+Identif ier
+Fly
+Ov er
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Nav igation
+Specif ication
+001 VA - - 212
+(205.8) -6.4 - - +500 - - RNP1
+002 DF MUCHA - - -6.4 - L +3000 - - RNP1
+202468 1 0 1 2
+NM
+505 1 0 1 5 2 0
+KM
+(EFF:16 MAY 2024) 18/4/24
+RJKA AD2.24-SID-7
+AMAMI
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+䢢䢢䢢
+212°
+5.0
+䢢䢢䢢
+179°
+䢢䢢䢢
+032°
+VOR/DME
+AME
+0FT
+KASARI
+113.95   AME
+CH-86Y䢢䢢䢢䢢䢢
+28°26'05"N/129°42'41"E
+  IKEJI
+䢢䢢281541.3N
+1294414.7E
+  KA303
+䢢䢢282039.6N
+1294329.9E
+  KA104
+䢢䢢282316.7N
+1294121.2E
+䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇
+䢴䢺䤑䢴䢲䢩䣐
+VAR 6°W
+CHANGE : Navigation Specification(Basic RNP1→RNP1).
+RJKA / AMAMI RNAV SID
+IKEJI ONE DEPARTURE RNP1
+     Note GNSS required.
+ Contour 
+Intervals
+ AD elev.14
+4000
+3000
+2000
+1000
+500
+䢯
+䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢
+RWY03 : Climb on HDG032° at or above 500FT, turn right direct to KA303, to IKEJI at or
+               above 3000FT.
+RWY21 : Climb on HDG212° at or above 500FT, direct to KA104, turn left direct to IKEJI
+               at or above 3000FT.     
+Note RWY03 : 5.0% climb gradient required up to 500FT.
+         RWY21 : 5.0% climb gradient required up to 500FT.
+3000
+500
+KIKAI AP
+䢯
+202468 1 0 1 2
+NM
+5 0 5 1 01 52 0
+KM
+(EFF:16 MAY 2024) 18/4/24
+RJKA AD2.24-SID-8
+AMAMI
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJKA AD2.24-SID-9
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY03
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 032
+(025.8) -6.4 - - +500 - - RNP1
+002 DF KA303 -- - 6 . 4- R - - - RNP1
+003 TF IKEJI - 179
+(172.5) -6.4 5.0 - +3000 - - RNP1
+RWY21
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 212
+(205.8) -6.4 - - +500 - - RNP1
+002 DF KA104 Y- - 6 . 4 - - - - - RNP1
+003 DF IKEJI - - -6.4 - L +3000 - - RNP1
+RJKA / AMAMI RNAV SID
+IKEJI ONE DEPARTURE
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+AMAMI
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+R228
+RJKA / AMAMI SID
+228˚
+HDG273˚
+PINNE
+PINNE SIX DEPARTURE
+RWY 03 :   Climb RWY HDG to 700FT, turn right HDG273˚ to intercept and proceed...
+RWY 21 :   Climb RWY HDG to AME 3.0DME, turn right,...
+... via AME R228 to PINNE.
+Cross PINNE at or above 6000FT.
+D3.0 AME
+700
+VOR/DME
+KASARI
+0FT
+ÛÝ1ÛÝ(
+113.95     AME
+CH–86Y
+6000
+D49.3 AME
+NOTE RWY03 : 3.5% climb gradient required up to 700FT.
+                          OBST ALT 197FT located at 1.1NM 015˚ FM end of RWY03. 
+ CHANGE : PROC renamed(PINNE SIX DEPARTURE). Note added. ERABU FOUR DEPARTURE abolished.
+(EFF:25 JAN 2024) 28/12/23
+RJKA AD2.24-SID-10
+AMAMI
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+1000
+KIKAI
+AP
+1000
+3000
+RJKA / AMAMI SID
+KASARI REVERSAL THREE DEPARTURE
+    RWY03 凬 Climb RWY HDG to 1000FT,turn right,...
+    RWY21 凬 Climb RWY HDG to 1000FT,turn left,...
+...direct to AME VOR/DME. Cross AME VOR/DME at or above 3000FT.
+VOR/DME
+KASARI
+0FT
+ÛÝ1ÛÝ(
+113.95     AME
+CH–86Y
+NOTE RWY03 : 3.5% climb gradient required up to 1000FT.
+                          OBST ALT 197FT located at 1.1NM 015˚ FM end of RWY03. 
+ CHANGE : PROC renamed(KASARI REVERSAL THREE DEPARTURE). Note added. POMAS FOUR DEPARTURE abolished.
+(EFF:25 JAN 2024) 28/12/23
+RJKA AD2.24-SID-11
+AMAMI
+
+
+=== Page 23 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+KANAH SOUTH ARRIVAL
+TUMGI
+234˚197˚41.1 24.2
+UGAMI
+282745.9N
+1293235.0E
+TUMGI ARRIVAL
+KANAH
+290803.5N
+1294122.3E
+KIKAI AP
+11000
+4000
+284357.1N
+1295300.7E
+VAR 6˚W 
+RJKA / 30YWR RATS VANRIMAMA
+KANAH SOUTH ARRIVAL / TUMGI ARRIVAL RNP1
+Note GNSS required.
+VOR/DME
+KASARI
+0FT
+113.95     AME
+CH–86Y
+4000
+SUKOM
+282028.5N
+1293100.3E
+2300
+MAX 210KIAS
+197˚7.4
+UGAMI
+MHA 4000
+MAX 230KIAS
+1MIN
+NOT TO SCALE
+197˚
+017˚
+ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+(EFF:16 MAY 2024) 18/4/24
+RJKA AD2.24-STAR-1
+AMAMI
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJKA AD2.24-STAR-2
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From KANAH at or above 11000FT, to UGAMI at or above 4000FT, to SUKOM at or above
+ 2300FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KANAH -- - 6 . 3 - - +11000 - - RNP1
+002 TF UGAMI - 197
+(190.9) -6.3 41.1 - +4000 - - RNP1
+003 TF SUKOM - 197
+(190.8) -6.3 7.4 - +2300 -210 - RNP1
+ From TUMGI at or above 4000FT, to UGAMI at or above 4000FT, to SUKOM at or above
+ 2300FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF TUMGI -- - 6 . 3 - - +4000 - - RNP1
+002 TF UGAMI - 234
+(228.0) -6.3 24.2 - +4000 - - RNP1
+003 TF SUKOM - 197
+(190.8) -6.3 7.4 - +2300 -210 - RNP1
+Path Waypoint
+Identifier
+Magnetic
+Variation
+Turn
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Navigation
+Specification
+Hold UGAMI -6.3 R 4000 FL140 -230
+(-14000) RNP1
+RJKA / AMAMI RNAV STAR RWY03
+KANAH SOUTH ARRIVAL
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+TUMGI ARRIVAL
+Outbound
+Time
+(MIN)
+1.0 (-14000)
+Inbound
+Course
+°M(°T)
+197
+(190.8)
+AMAMI
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+KANAH NORTH ARRIVAL
+KYORA
+283758.8N
+1294212.3E
+YUWAN NORTH ARRIVAL
+032˚
+29.8
+˚581
+1.03
+YUWAN
+281109.8N
+1292733.3E
+KIKAI AP
+3500
+11000
+KANAH
+290803.5N
+1294122.3E
+VAR 6˚W 
+RJKA / 12YWR RATS VANRIMAMA
+KANAH NORTH ARRIVAL
+YUWAN NORTH ARRIVAL RNP1
+Note GNSS required.
+VOR/DME
+KASARI
+0FT
+113.95     AME
+CH–86Y
+ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+(EFF:16 MAY 2024) 18/4/24
+RJKA AD2.24-STAR-3
+AMAMI
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJKA AD2.24-STAR-4
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From KANAH at or above 11000FT, to KYORA at or above 3500FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KANAH -- - 6 . 2 - - +11000 - - RNP1
+002 TF KYORA - 185
+(178.6) -6.2 30.1 - +3500 - - RNP1
+ From YUWAN, to KYORA at or above 3500FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF YUWAN -- - 6 . 2 - - - - - RNP1
+002 TF KYORA - 032
+(025.6) -6.2 29.8 - +3500 - - RNP1
+RJKA / AMAMI RNAV STAR RWY21
+KANAH NORTH ARRIVAL
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+YUWAN NORTH ARRIVAL
+AMAMI
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270˚
+180
+˚
+360˚
+090˚
+090˚ 270˚
+360˚
+180˚
+17002900
+19003400
+MSA 25NM
+AME
+Turn initiation within D11.0 AME
+Turn initiation 
+within D11.0 AME
+NM to IAM
+ALT (3.0˚ APCH Path)
+DME to IAM
+NM to THR
+FAF
+1287
+3
+977
+2
+658
+1
+339
+MAPt
+–
+Timing not authorized for defining the MAPt.
+10NM
+032˚
+032˚
+ILS Z or LOC Z RWY03
+         ILS – LOC
+109.3        IAM 
+ILS–GP     332.0
+ILS–DME  
+CH–30X
+RADAR AVBL
+     MISSED APPROACH
+Climb on HDG032˚ to 3000FT,
+turn right, direct to AME
+VOR/DME and hold.
+Contact NAHA APP.
+VOR/DME
+KASARI
+113.95    AME
+ÛÝ1ÛÝ( 603
+6011034
+1123
+1592
+D0.8 IAM
+D4.0 IAM
+AME 
+VOR/DME
+MAPt(LOC)
+LEDUM(FAF)
+KIKAI AP
+227˚
+AME 3000
+RDH 54MDA700
+(686)
+1800
+
+(LOC)LEDUM
+(FAF)
+MAPt
+(LOC)
+VDP
+(LOC)
+227˚
+032˚
+GP3.0˚
+RJKA / AMAMI
+036˚
+216˚
+032˚
+4.0
+3.8
+0.8
+0.7
+0.8
+0.6
+0.2
+0
+Circling to EAST side of RWY only.
+MINIMA 
+CAT
+CAT 䱶
+DA(H)
+227 (200) 280 (266)
+580 (566)
+500 (486)550 800 1600
+2400
+32001200
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 27 AD elev. 14
+A
+B
+C
+D
+VAR 6˚W 
+MAX 230KIAS
+MAX Turning speed 
+200KIAS
+MHA 3000
+LEDUM(FAF) :1(
+EQPT REQUIRED
+DME
+VOR
+032˚
+CH–86Y
+   AMAMI RADIO
+118.15 - 126.2
+        AFIS provided              
+  by Naha Airport Office  
+NAHA  APP
+124.95 – 280.1
+CHANGE : Description of RADAR Service. Missed APCH PROC. 
+NOT TO
+SCALE 
+(EFF:22 FEB 2024) 25/1/24
+RJKA AD2.24-IAC-1
+AMAMI
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+NM to IAM
+ALT (3.0˚ APCH Path)
+FAF
+1287
+3
+977
+2
+658
+1
+339
+MAPt
+–
+270˚
+360˚
+090˚
+032
+˚
+YUWAN
+(IAF)
+VAR 6˚W 
+DME to IAM
+NM to THR
+4.0
+3.8
+9.0
+8.8
+0.8
+0.7
+0.8 0.2
+0.6 0
+AME 
+VOR/DME
+036˚
+216˚
+MAX 230KIAS
+MHA 3000
+090˚ 270˚
+360˚
+180˚
+17002900
+19003400
+MSA 25NM
+AME
+10NM
+VOR/DME
+KASARI
+113.95    AME
+ÛÝ1ÛÝ(
+CH–86Y
+032°
+032°
+ILS Y or LOC Y RWY03
+         ILS - LOC
+109.3     IAM 
+ILS–GP     332.0
+ILS–DME  
+CH–30X
+ 
+    MISSED APPROACH
+Climb on HDG032˚ to 3000FT,
+turn right, direct to AME 
+VOR/DME and hold.
+Contact NAHA APP.
+Circling to 
+EAST side of RWY only.
+603
+601
+KIKAI AP
+1034
+1733
+MAPt(LOC)
+D0.8 IAM
+Timing not authorized for defining the MAPt.
+ 
+  
+AME
+GP 3.0˚
+RDH 54
+1300
+700
+(686) MDA
+
+(LOC)
+VDP
+(LOC)
+LEDUM
+(FAF)
+MAPt
+(LOC)
+032˚
+032˚
+SAMAX(IF)
+D9.0 IAM
+SAMAX
+(IF)
+RJKA / AMAMI
+MINIMA 
+CAT
+DA(H)
+227 (200) 280 (266)
+580 (566)
+500 (486)550 800 1600
+2400
+32001200
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 27 AD elev. 14
+A
+B
+C
+D
+EQPT REQUIRED
+DME
+VOR
+LEDUM(FAF) : 1(
+CAT 䱶
+D4.0 IAM
+LEDUM(FAF)
+1
+(
+MAX 210KIAS
+KA359
+1
+(
+2300
+SUKOM(IAF)
+1
+(
+2300
+MAX 210KIAS
+KA360
+1
+(
+2200
+1
+(
+4000
+IKYUN(IAF)
+1
+(
+3000
+MAX 210KIAS
+302°5.0
+(296.1°T)
+122°4.0(115.8°T)
+122°3.0
+(115.8°T)
+062°
+8.0
+(056.0°T)
+062°
+3.2
+(056.0°T)
+NOTE: For lnitial approach segment;
+(1) RNP1.
+(2) GNSS required.
+Using NAVAID
+   AMAMI RADIO
+118.15 - 126.2
+        AFIS provided              
+  by Naha Airport Office  
+NAHA  APP
+124.95 – 280.1
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+YUWAN
+MAX 230KIAS
+1MIN
+MHA 4000
+228
+˚
+048
+˚
+RNAV HLDG
+NOT TO SCALE
+NOT TO 
+SCALE
+IKYUN
+MAX 210KIAS
+1MIN
+MHA 3000
+RNAV HLDG
+NOT TO SCALE
+013˚ 193˚
+RADAR AVBL
+(EFF:16 MAY 2024) 18/4/24
+RJKA AD2.24-IAC-2
+AMAMI
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270˚
+180˚
+360˚
+090˚
+028˚
+MINIMA 
+CAT
+600 (586) 600 (586)
+640 (626) 640 (626)
+500 (486) 500 (486)
+550 (536) 550 (536)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 27 AD elev. 14
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+VAR 6˚W 
+AME 
+VOR/DME
+036˚
+216˚MAX 230KIAS
+MHA 3000
+090˚ 270˚
+360˚
+180˚
+17002900
+19003400
+MSA 25NM
+AME
+028˚
+028˚
+225˚
+NM to AME
+ALT (3.0˚ APCH Path)
+FAF
+1668
+5
+1433
+4
+1115
+3
+796
+MAPt
+–
+Turn initiation within D11.0 AME
+Timing not authorized for defining the MAPt.
+DME to AME
+NM to THR
+028˚
+10NM
+VOR  RWY03
+KASARI  VOR/DME
+113.95      AME
+603
+601
+1034
+1123
+1592
+KIKAI AP
+RJKA / AMAMI  
+MAX Turning speed 
+200KIAS
+MALKI(FAF)
+D5.8 AME
+MAPt
+D2.0 AME
+MALKI(FAF) : 282046.31N/1294010.37E
+     MISSED APPROACH
+Climb via AME R028 to 3000FT,
+turn right, direct to AME
+VOR/DME and hold.
+Contact NAHA APP.
+AME 3000
+MDA
+700
+(686)
+1700
+1668
+MALKI
+(FAF)
+MAPt
+VDP
+VDP
+D2.2 AME (CAT A)
+D2.3 AME (CAT B)
+D2.5 AME (CAT C)
+D2.6 AME (CAT D)
+225˚
+028˚
+3.0˚
+5.8
+5.0
+2.0
+1.2
+0.7
+0
+ÛÝ1ÛÝ(
+CH–86Y
+EQPT REQUIRED
+DME
+Turn initiation
+within D11.0 AME
+   AMAMI RADIO
+118.15 - 126.2
+        AFIS provided              
+  by Naha Airport Office  
+CHANGE : Description of RADAR Service. Missed APCH PROC.
+NAHA  APP
+124.95 – 280.1
+NOT TO SCALE 
+RADAR AVBL
+(EFF:22 FEB 2024) 25/1/24
+RJKA AD2.24-IAC-3
+AMAMI
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270˚
+180˚
+360˚
+090˚
+NM to AME
+ALT (3.0˚ APCH Path)
+FAF
+1656
+3
+904
+4
+1222
+5
+1541
+MAPt
+–
+AME 
+VOR/DME246˚
+066˚
+MAX 230KIAS
+MHA 3000
+090˚ 270˚
+360˚
+180˚
+17002900
+19003400
+MSA 25NM
+AME Turn initiation 
+within D11.0 AME
+Turn initiation 
+within D11.0 AME
+MAPt
+D0.7 AME
+TECHI(FAF)
+D5.4 AME
+Timing not authorized for defining the MAPt.
+DME to AME
+NM to THR
+EQPT REQUIRED
+DME
+D1.9 AME (CAT A)
+D2.0 AME (CAT B)
+D2.2 AME (CAT C)
+D2.3 AME (CAT D)
+10NM
+052˚
+VOR  RWY21
+603
+601
+1034
+1123
+1592
+KIKAI AP
+216˚
+216˚
+216˚
+AME 3000
+1300
+1656
+052˚
+216˚
+3.0˚
+RJKA / AMAMI  
+VAR 6˚W 
+MAX Turning speed 
+200KIAS
+TECHI(FAF) : 283044.34N/1294543.97E
+     MISSED APPROACH
+Climb via AME R216 to 3000FT,
+turn right, direct to AME
+VOR/DME and hold.
+Contact NAHA APP.
+5.4
+5.0
+0.4
+0
+0.7
+0.3
+TECHI
+(FAF)
+700
+(686)MDA
+MAPt
+VDP
+VDP
+Circling to EAST side of RWY only.
+MINIMA 
+CAT
+660 (646)
+580 (566)
+530 (516)
+660 (646)
+580 (566)
+630 (616) 630 (616)
+530 (516)
+1800
+1500 1600
+2400
+32002000
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 14 AD elev. 14
+A
+B
+C
+D
+216˚
+KASARI  VOR/DME
+113.95      AME
+ÛÝ1ÛÝ(
+CH–86Y
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+   AMAMI RADIO
+118.15 - 126.2
+        AFIS provided              
+  by Naha Airport Office  
+NAHA  APP
+124.95 – 280.1
+CHANGE : Description of RADAR Service. Missed APCH PROC.
+NOT TO SCALE 
+RADAR AVBL
+(EFF:22 FEB 2024) 25/1/24
+RJKA AD2.24-IAC-4
+AMAMI
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1733
+1493
+10NM
+5.0
+302°(296.1°T)
+3.6
+032°
+(02
+5.8°T)
+3.0122°(115.8°T) 5.0032°
+(025
+.8°T
+)
+4.0
+122°(115.8°T
+)
+3.2
+062°
+(056.0°T)
+8.0
+062°
+(056
+.0°T)
+SAMAX
+(IF)
+MAX 210KIAS
+SUKOM(IAF)
+2300
+MAX 210KIAS ASABI
+(FAF)
+KA360
+2200
+IKYUN(IAF)
+3000
+MAX 210KIAS
+KA361
+(MAPt)
+KA359
+2300
+YUWAN
+(IAF)
+4000
+OLTIB
+(MATF)
+KASARI
+(AME)
+(MAHF)
+䢳䢴䢻䤑䢷䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇䢳䢴䢻䤑䢵䢲䢩䣇䢳䢴䢻䤑䢴䢲䢩䣇
+䢴䢺䤑䢵䢲䢩䣐
+䢴䢺䤑䢴䢲䢩䣐
+䢴䢺䤑䢳䢲䢩䣐
+Contour
+Intervals
+AD elev.14
+2000
+1500
+1000
+500
+VAR 6°W
+RNP Z RWY03RJKA / AMAMICHANGE : Description of RADAR Service. Missed APCH PROC.
+NAHA APP
+124.95 – 280.1
+RNP APCH
+MSAS CH68150
+M03A
+AMAMI RADIO
+118.15 - 126.2
+AFIS provided
+by Naha Airport Office
+RADAR  AVBL
+Baro-VNAV not authorized below 0°C
+NOT TO SCALE
+MHA 3000
+MAX 210KIAS
+KASARI
+(AME)
+1MIN
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+YUWAN
+1MIN
+NOT TO SCALE
+MHA 3000
+MAX 210KIAS
+IKYUN
+1MIN
+SUKOM 282028.52N
+(IAF) 1293100.34E
+KA359 281910.25N
+1293404.22E
+YUWAN 281109.84N
+(IAF) 1292733.32E
+KA360 281258.55N
+1293036.41E
+IKYUN 281514.26N
+(IAF) 1294314.97E
+SAMAX 281726.25N
+(IF) 1293808.21E
+ASABI 282154.09N
+(FAF) 1294035.25E
+KA361 282510.36N
+(MAPt) 1294223.15E
+OLTIB 283057.74N
+(MATF) 1294534.44E
+KASARI 282604.98N
+(AME) 1294241.07E
+(MAHF)NM to Next Fix FAF 3 2 MAPt
+ALT(3.0°APCH Path) 1300 1100 782 -
+Missed APCH climb gradient MNM 5.0%
+DA(H) RVR/CMV DA(H) RVR/CMV MDA(H) RVR/CMV MDA(H) VIS
+A 1000 1000
+B
+C 282(255) 640(613) 640(626) 640(626) 2400
+D 292(265) 1200 670(643) 1600 670(656) 1800 670(656) 3200
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to EAST side of RWY only.
+1600
+ MINIMA             THR elev. 27           AD elev. 14
+CAT LPV CIRCLING LNAVLNAV/VNAV
+277(250) 600(586)800 600(573)
+1200
+600(586)
+1200
+360°
+090°
+180°
+ARP:
+ARP
+282551N / 1294245E
+A
+3400
+MSA 25NM
+10123456789 1 0
+KM
+1012345
+NM
+MDA
+700
+(686)
+Þ
+0.2
+RDH 54
+NM to THR
+VDP
+(LNAV)
+1300
+MISSED APPROACH
+Direct to OLTIB, turn right,
+direct to AME and hold at
+3000FT .
+Contact NAHA APP.
+KA361
+(MAPt)
+3.8
+ASABI
+(FAF)
+0
+1300
+SAMAX
+(IF)
+8.8
+1.6NM to MAPt (CAT A,B)
+1.7NM to MAPt (CAT C)
+1.8NM to MAPt (CAT D)
+VDP
+(EFF:22 FEB 2024) 25/1/24
+RJKA AD2.24-IAC-5
+AMAMI
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJKA AD2.24-IAC-6
+INSTRUMENT APPROACH CHART
+RJKA / AMAMI
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00373
+SBAS service provider identifier 2 FPAP latitude 282619.5815N
+Airport identifier RJKA FPAP longitude 1294301.2745E
+Runway 03 Threshold crossing height 00016.5
+Approach performance designator 0 TCH units selector 1
+Route indicator Z Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M03A ԥlength offset 0000
+LTP/FTP latitude 282521.1620N HAL 40.0
+LTP/FTP longitude 1294229.1275E VAL 50.0
+CRC remainder 2C1731A7
+Required additional data
+LTP/FTP orthometric height 8.5
+RNP Z RWY03
+CHANGE : New PROC.
+AMAMI
+(EFF:25 JAN 2024) 28/12/23
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+989
+6561034
+726
+459
+1123
+529
+1105
+988 577
+1463
+603
+1493
+1234
+601
+593
+598
+1247
+587
+844
+624
+10NM
+  6.2032°
+ 14.5033°
+032°䢱1.5
+1.9
+13.1
+203°
+4.5
+9.2
+203°
+TUMGI
+(IAF/MAHF)
+OLTIB
+VESOR
+(FAF)
+KA358
+UPTEM
+(IF)
+RW03
+KA357
+MAX 185KIAS
+䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢷䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇䢳䢴䢻䤑䢵䢲䢩䣇
+䢴䢺䤑䢶䢲䢩䣐
+䢴䢺䤑䢵䢲䢩䣐
+䢴䢺䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.14
+2000
+1500
+1000
+500
+NAHA   APP
+124.95 - 280.1
+RNP  AR
+RF  required.
+AMAMI   RADIO
+118.15 - 126.2
+AFIS provided
+by Naha Airport Office
+RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below 0°C / above 45°C
+VAR 6°W
+RNP Y RWY03(AR)RJKA / AMAMICHANGE : Description of RADAR Service. Missed APCH PROC.
+VESOR(FAF) :282117.56N/1294424.10E
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360°
+270°
+180°
+l
+18003300
+3400 1900
+MSA  RW03  25NM
+KIKAI AP
+NOT TO SCALE
+MHA 3500
+MAX 230KIAS
+TUMGI
+1MIN
+Missed APCH climb gradient MNM 5.0%
+DA(H) RVR/CMV DA(H) RVR/CMV
+A
+B
+C 283(256) 800 381(354) 1000
+D 292(265) 1200 391(364) 1400
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+--
+ MINIMA             THR elev. 27             AD elev. 14
+CAT RNP 0.13
+--
+RNP 0.30
+Authorization Required
+Þ
+1.5
+RDH 54
+NM to THR
+KA358
+TUMGI
+(IAF)
+3500
+MISSED APPROACH
+Climb to 3500FT , to OLTIB,
+to TUMGI and hold. 
+Contact NAHA APP.
+554
+30.2
+RW03
+6.0
+VESOR
+(FAF)
+7.9 0
+KA357
+2000
+UPTEM
+(IF)
+17.1
+2000
+(EFF:22 FEB 2024) 25/1/24
+RJKA AD2.24-IAC-7
+AMAMI
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJKA AD2.24-IAC-8
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -6.4 - - - -
+002 TF - -6.4 - - - 0.3
+003 TF - -6.4 - -185 - 0.3
+004
+RF
+Center:
+KARF2
+r=1.95NM
+-- 6 . 4 R - - 0 . 3
+005
+RF
+Center:
+KARF2
+r=1.95NM
+- -6.4 R - -3.00 0.13
+0.30
+006 TF Y -6.4 - - -3.00/54 0.13
+0.30
+007 TF - -6.4 - - - 1.0
+008 TF - -6.4 - - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold TUMGI R FL140 -230
+(-14000) 1.0
+81
+-
+RW03
+OLTIB
+032
+(025.8)
+032
+(025.8)
+KA357 282236.27N / 1294551.51E
+282117.56N / 1294424.10E
+282309.49N / 1294344.25E
+14.5
+213
+(207.0)
+VESOR - 1.9
+9.2
+283057.74N / 1294534.44E
+RF Arc Center Identifier
+KARF2
+4.5
+1.5
+6.2
+TUMGI 033
+(026.7)
+UPTEM 203
+(196.4) 13.1
+TUMGI
+UPTEM
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+Coordinates
+3500
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Minimum
+Altitude
+(FT)
+554
+- - +3500
+-
+-6.3 3500
++2000
+RJKA / AMAMI RNP Y RWY03(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+CHANGE : PROC renamed. PROC course. UPTEM, KA357, VESOR, KA358, OLTIB established. YANGO, KA353, JOUGO, KA351, HABUH abolished.
+                  RNP Value FM UPTEM to VESOR. RF Arc Center Identifier (KARF2 added, KARF1 deleted). Waypoint Coordinates (RW03). VAR.
+KA357 203
+(196.4)
+2000
+OLTIB
+284357.05N / 1295300.74E
+283124.97N / 1294848.31E
+KA358
+RW03
+282400.82N / 1294144.91E
+282521.18N / 1294229.11E
+VESOR
+KA358 -
+1.0 (-14000)
+TUMGI
+AMAMI
+(EFF:25 JAN 2024) 28/12/23
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+988
+726
+1234
+603
+1123
+989
+601
+1034
+10NM
+9.5
+214°
+(207.1°
+T)
+5.7
+122°
+(115.9°T)
+5.0
+21
+2°
+(205.9°T)
+5.7
+303°
+(296.1°T)
+4.4
+212°
+(205
+.8°T
+)
+KYORA
+(IAF/MAHF)
+ANBOL
+(IF)
+MAX 210KIAS
+TUMGI
+(IAF)
+KA152
+(MAPt)
+BOROS
+(IAF)
+OLTIB
+(FAF)
+KA153
+(MATF)
+䢳䢵䢲䤑䢳䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢷䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇䢳䢴䢻䤑䢵䢲䢩䣇
+䢴䢺䤑䢶䢲䢩䣐
+䢴䢺䤑䢵䢲䢩䣐
+䢴䢺䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.14
+2000
+1500
+1000
+500
+VAR 6°W
+RNP Z RWY21RJKA / AMAMICHANGE : Description of RADAR Service. Missed APCH PROC.
+10123456789 1 0
+KM
+1012345
+NM
+KIKAI AP
+NAHA APP
+124.95 – 280.1
+RNP APCH
+MSAS CH43438
+M21A
+AMAMI RADIO
+118.15 - 126.2
+AFIS provided
+by Naha Airport Office
+RADAR  AVBL
+Baro-VNAV not authorized below 0°C
+NOT TO SCALE
+MHA 3500
+MAX 230KIAS
+TUMGI
+1MIN
+NOT TO SCALE
+MHA 3500
+MAX 230KIAS
+KYORA
+1MIN
+NOT TO SCALE
+MHA 3000
+MAX 210KIAS
+BOROS
+1MIN
+BOROS 283258.61N
+(IAF) 1295353.10E
+TUMGI 284357.05N
+(IAF) 1295300.74E
+KYORA 283758.79N
+(IAF/MAHF) 1294212.30E
+ANBOL 283528.93N
+(IF) 1294804.04E
+OLTIB 283057.74N
+(FAF) 1294534.44E
+KA152 282657.71N
+(MAPt) 1294322.22E
+KA153 282415.35N
+(MATF) 1294152.90ENM to Next Fix MAPt 1 2 3 4 FAF
+ALT(3.0°APCH Path) - 606 924 1242 1561 1700
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV DA(H) CMV MDA(H) CMV MDA(H) VIS
+A 267(253) 1200
+B 277(263) 1300
+C 287(273) 1400 1800 1800 2400
+D 297(283) 1600 2000 2000 3200
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to EAST side of RWY only.
+1600
+ MINIMA             THR elev. 14           AD elev. 14
+CAT LPV CIRCLING LNAVLNAV/VNAV
+600(586)
+1500
+600(586)
+1500
+600(586)
+270°
+090°
+18
+0°
+ARP
+282551N / 1294245E
+A
+ARP:
+3400
+MSA 25NM
+MDA
+700
+(686)
+Þ
+RDH 50
+NM to THR
+1700
+MISSED APPROACH
+Direct to KA153, turn right, direct to 
+KYORA and hold at 3500FT .
+Contact NAHA APP.
+KA152
+(MAPt)
+5.2
+OLTIB
+(FAF)
+10.20
+ANBOL
+(IF)
+212㼻
+1700
+VDP
+(LNAV)
+0.7
+1.0NM to MAPt
+VDP
+(EFF:22 FEB 2024) 25/1/24
+RJKA AD2.24-IAC-9
+AMAMI
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJKA AD2.24-IAC-10
+INSTRUMENT APPROACH CHART
+RJKA / AMAMI
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00333
+SBAS service provider identifier 2 FPAP latitude 282521.1620N
+Airport identifier RJKA FPAP longitude 1294229.1275E
+Runway 21 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Z Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M21A ԥlength offset 0000
+LTP/FTP latitude 282619.5815N HAL 40.0
+LTP/FTP longitude 1294301.2745E VAL 50.0
+CRC remainder A4D8FDB0
+Required additional data
+LTP/FTP orthometric height 4.5
+RNP Z RWY21
+CHANGE : FAS DATA BLOCK and Required additional data established.
+AMAMI
+(EFF:25 JAN 2024) 28/12/23
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+988
+603
+656
+593
+577
+459
+601
+1493
+1105
+1123
+1034
+989
+1234
+726
+529 587
+1247
+624
+1617
+844
+598
+10NM
+ 11.0
+302°
+  5.7212°
+ 10.0017°
+  5.
+2
+212°
+  9.5214°
+  5.0212°
+20.9
+074°
+KA162
+TUMGI
+(IAF/MAHF)
+KA161
+ANBOL
+(IF)
+OLTIB
+(FAF)
+RW21
+KA160
+¼
+䢳䢵䢲䤑䢲䢩䣇䢳䢴䢻䤑䢷䢲䢩䣇䢳䢴䢻䤑䢶䢲䢩䣇䢳䢴䢻䤑䢵䢲䢩䣇
+䢴䢺䤑䢶䢲䢩䣐
+䢴䢺䤑䢵䢲䢩䣐
+䢴䢺䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.14
+2000
+1500
+1000
+500
+VAR 6°W
+RNP Y RWY21(AR)RJKA / AMAMICHANGE : Description of RADAR Service. Missed APCH PROC.
+OLTIB(FAF) :283057.74N/1294534.44E
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360
+°
+270°
+180°
+l
+18002800
+3400 1900
+MSA  RW21  25NM
+KIKAI AP
+NAHA   APP
+124.95 - 280.1 RNP  AR
+AMAMI   RADIO
+118.15 - 126.2
+AFIS provided
+by Naha Airport Office
+RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below 0°C / above 45°C
+NOT TO SCALE
+MHA 3500
+MAX 230KIAS
+TUMGI
+1MIN
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV DA(H) CMV
+A
+B
+C 287(273) 1400 365(351) 1600
+D 297(283) 1600 387(373) 1800
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+--
+ MINIMA             THR elev. 14             AD elev. 14
+CAT RNP 0.14
+--
+RNP 0.30
+Authorization Required
+Þ
+RDH 50
+NM to THR
+TUMGI
+(IAF)
+3500
+MISSED APPROACH
+Climb to 3500FT , to KA160,
+to KA161, to KA162, to
+TUMGI and hold. 
+Contact NAHA APP.
+19.7
+RW21
+5.2
+OLTIB
+(FAF)
+10.20
+ANBOL
+(IF)
+1700
+(EFF:22 FEB 2024) 25/1/24
+RJKA AD2.24-IAC-11
+AMAMI
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJKA AD2.24-IAC-12
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -6.4 - - - -
+002 TF - -6.4 - - - 1.0
+003 TF - -6.4 - - - 1.0
+004 TF Y -6.4 - - -3.00/50 0.14
+0.30
+005 TF - -6.4 - - - 1.0
+006 TF - -6.4 - - - 1.0
+007 TF - -6.4 - - - 1.0
+008 TF - -6.4 - - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold TUMGI R FL140 -230
+(-14000) 1.0
+TUMGI - - +3500
+5.7KA160
+9.5 -
+RW21 212
+(205.8) 5.2 64
+OLTIB 212
+(205.9) 5.0 1700
+ANBOL 214
+(207.1)
+RJKA / AMAMI RNP Y RWY21(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+KA162
+212
+(205.8)
+302
+(296.0)
+017
+(010.7)
+3500TUMGI 074
+(067.1) 20.9
+-
+-KA161
+-
+11.0
+10.0
+282600.04N / 1292858.96E
+Minimum
+Altitude
+(FT)
+3500
+KA160
+Inbound
+Course
+°M(°T)
+213
+(207.0)
+Magnetic
+Variation
+-6.3
+Outbound
+Time
+(MIN)
+1.0 (-14000)
+Waypoint Coordinates
+Coordinates
+CHANGE : PROC course. ANBOL, OLTIB, KA160 established. IMORE, HABUH, KA101 abolished. Waypoint Coordinates (RW21). VAR.
+283551.31N / 1293105.90E
+Waypoint Identifier
+284357.05N / 1295300.74E
+283528.93N / 1294804.04E
+283057.74N / 1294534.44E
+282619.61N / 1294301.26E
+KA161
+KA162
+TUMGI
+ANBOL
+OLTIB
+RW21
+282111.47N / 1294011.84E
+AMAMI
+(EFF:25 JAN 2024) 28/12/23
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJKA AD2.24-OTHER-1
+RJKA / AMAMI Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ᾏୖ
+Over the sea
+䚷ᾏ ୖ
+Over the sea
+➟฼ᓮ ⅉྎ
+Kasarizaki Li ghthouse
+ྡ℩  
+Naze Harbor
+௰ᖸ℩ᓮ ᓁ
+Nakahosezaki Cape
+Remarks
+10NM NW
+10NM NE
+Call sign BRG / DIST from ARP
+315°T / 10.0NM
+045°T / 10.0NM
+CHANGE : Map updated. BRG/DIST from ARP.
+256°T
+231°T
+6.0NM
+11.7NM
+11.4NM
+348°T
+/
+/
+/
+KASARIZAKI
+10NM NE
+5NM from ARP
+AMAMI RADIO
+118.15 - 126.2
+VAR 6W (2021) / 5ƍW
+NAKAHOSEZAKI
+NAZE
+10NM NW
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+AMAMI INFORMATION ZONE
+At or below 3000FT
+AMAMI
+(EFF:21 APR 2022) 21/4/22
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+&
+283316N
+1293600E
+282824N
+1292314E
+281956N
+1293824E
+282240N
+1294002E
+282804N
+1294101E
+283037N
+1293952E
+282253N
+1290853E
+280149N
+1292218E
+280939N
+1293215E
+282406N
+1291748E
+282215N
+1291258E281716N
+1291138E
+281238N
+1291543E 281155N
+1291953E
+281504N
+1292602E
+282130N
+1292605E
+Minimum Vectoring Altitude CHARTRJKA / AMAMICHANGE : Shape of segment. Minimum vectoring altitude.
+30NM
+3000
+3800
+3300
+4300
+CENTER :                                 (ARP)282551N/1294245E
+(EFF:8 AUG 2024) 11/7/24
+RJKA AD2.24-OTHER-2
+AMAMI
+

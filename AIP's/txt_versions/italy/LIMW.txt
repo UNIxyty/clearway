@@ -1,0 +1,1386 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIMW 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIMW AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIMW AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIMW - AOSTA
+L’indicatore di località non può essere usato nel gruppo
+Indirizzo dei Messaggi trasmessi sulla rete del Servizio fisso
+delle Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address
+component of messages transmitted over Aeronautical Fixed
+Telecommunication Network (AFTN)
+LIMW AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIMW AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+45°44'18''N 007°22'03''E
+2 Direzione e distanza dalla città 1.35 NM E Aosta
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+1796 FT / 29° C
+4 Ondulazione del geoide
+ Geoid undulation
+174.8 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2020.0) / 9'E
+6 Autorità amministrativa aeroportuale
+ ENAC - DT Nord-Ovest
+Aeroporto “Sandro Pertini”
+10072 – Caselle Torinese (TO)
+ Tel +39 0115678407/5678413/5676800
+ Fax +39 011 4704320
+ Pec: protocollo@pec.enac.gov.it
+ E-mail: nordovest.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale AVDA S.p.A
+tel  +39 0165 303318;  fax  +39 0165 303321
+e-mail: info@avda-aosta.it
+ Aerodrome operator  
+ Autorità ATS AVDA S.p.A. Cert. ANSP N. ENAC-002
+Designazione ENAC-DES-ATS-002
+AFIU: tel +39 0165 303302;
+ fax +39  0165 303321;
+e-mail: opsoffice@avda-aosta.it
+ ATS authority AVDA S.p.A. Cert. ANSP N. ENAC-002
+Designation ENAC-DES-ATS-002
+AFIU: tel +39 0165 303302;
+ fax +39  0165 303321;
+e-mail: opsoffice@avda-aosta.it
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+8 Note 1. Aeroporto privato aperto al traffico aereo turistico, commerciale nazionale e
+internazionale. Codice di riferimento ANNESSO 14 per infrastrutture di volo: 2C
+(calcolata tenendo conto della correzione di quota e temperatura).
+2. Infrastruttura abilitata per aeromobili di codice C con interasse tra i carrelli
+inferiore a 18 m.
+ Remarks 1. Private AD open to domestic and international commercial and tourist flights. Ref
+code ANNEX 14 flight infrastructure: 2C (elevation and temperature adjusted).
+2. AD enabled for operations with aircraft having a wheel base less than 18 m.
+           
+             
+LIMW AD 2.3 ORARIO DEI SERVIZI
+LIMW AD 2.3 OPERATIONAL HOURS
+            
+                    
+
+=== Page 2 ===
+AD 2 LIMW 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+1 Amministrazione aeroportuale 0700-SS+30 (HJ -/+ 30)
+ Aerodrome Administration  
+2 Dogana ed immigrazione Con preavviso di 3 ore su FPL per la dogana e per l’immigrazione
+Con preavviso di 3 ore prima dell’ETA/ETD tramite:
+tel + 39 0165 303318
+fax +39 0165 303321
+o via mail opsoffice@avda-aosta.it
+ Customs and immigration Prior request on FPL 3 HR in advance for custom and immigration
+Prior notice required 3 HR before ETA/ETD by:
+tel + 39 0165 303318
+fax +39 0165 303321
+or by mail opsoffice@avda-aosta.it
+3 Servizio sanitario 0700-SS+30 (HJ -/+ 30)
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS HJ -/+ 30
+   
+8 Rifornimento AIR BP Italia SpA
+JET A1 e AVGAS 100L
+Orario: HJ -/+ 30
+Altri orari: su richiesta, da inoltrare, 3 ore PN prima del volo
+ Fuelling AIR BP Italia SpA
+JET A1 and AVGAS 100L
+Hours: HJ -/+ 30
+Other hours: O/R, 3 hours PN before the flight
+9 Handling HJ -/+ 30
+ Handling  
+10 Servizi di sicurezza H24
+Solo per i voli di trasporto pubblico passeggeri è richiesto PN 48 HR
+ Security H24
+Only for passenger public transportation flights PN 48 HR is required
+11 De-icing HJ -/+ 30
+ De-icing  
+12 Note 1. De-icing:
+AVDA S.p.A.
+In orari diversi, su richiesta 3 HR PN prima del volo al seguente numero telefonico:
++39 0165 303318
+2. ARO CBO MILANO: vedi GEN 3.1
+3. ATS:
+Da SS +30 a SR -30 il servizo del traffico aereo è fornito solo per voli HEMS o
+traffico elicotteri autorizzati dal gestore AVDA S.p.A
+ Remarks 1. De-icing:
+AVDA S.p.A.
+Other hours on request 3 HR PN before the flight at the following tel number:
++39 0165 303318
+2. ARO CBO MILANO: see GEN 3.1
+3. ATS:
+From SS +30 to SR -30 air traffic service is provided only for HEMS activity or
+helicopter traffic authorized by aerodrome operator AVDA S.p.A.
+LIMW AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIMW AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIMW 1 - 3
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100L / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento JET A1: 2 serbatoi capacità litri 30000; 1 autobotte capacità litri 12000
+AVGAS 100L: 1 serbatoio capacità litri 10000
+ Fuelling capacity JET A1: 2 tanks capacity 30000; 1 tank-truck capacity 12000 litres
+AVGAS 100L: 1 tank capacity 10000 litres
+4 Sistema de-icing 1 Vestergaard A/S Elephant MY - Liquido usato: fluido type II (thickened)
+ De-icing facilities 1 Vestergaard A/S Elephant MY - Fluid used: fluid type II (thickened)
+5 Hangar per aeromobili in transito AVBL O/R
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note 1. Trattore traino alianti
+2. Air Starter Unit - Pressione 45psi - Max flow: 300 pounds/min
+3. Trattore traino aeromobili “towbarless” fino a 50 ton
+4. GPU 28/115, scale, ambulift, trattorini
+ Remarks 1. Gliders towing tractor
+2. Air Starter Unit - Pressure 45psi - Max flow: 300 pounds/min
+3. “Towbarless” aircraft tractor up to 50 ton
+4. GPU 28/115, stairs, ambulift, tractors
+LIMW AD 2.5 SERVIZI PER I PASSEGGERI
+LIMW AD 2.5 PASSENGER FACILITIES
+1 Alberghi Aosta (5Km), Quart (2Km), Pollein (2Km)
+ Hotels Aosta (5Km), Quart (2Km), Pollein (2Km)
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi - autobus - autonoleggio
+ Transportation Taxi - bus public service - car rental
+4 Servizio medico Ospedale L. Parini Aosta (5Km)
+Ospedale Beauregard (4Km)
+ Medical facilities L. Parini Hospital Aosta (5Km)
+Beauregard Hospital (4km)
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIMW AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIMW AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 2 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà Recovery kit disponibile per aeromobili con peso massimo fino a 15 ton, (fasce di
+sollevamento e gru)
+ Capability for removal of disabled aircraft Recovery kit available for aircraft max weight up to 15 ton, (lifting slings and crane)
+4 Note 1. CAT 3 ICAO fino a CAT 4 ICAO disponibili su richiesta
+
+=== Page 4 ===
+AD 2 LIMW 1 - 4
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+ Remarks 1. CAT 3 ICAO to CAT 4 ICAO available on request
+LIMW AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIMW AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Equipaggiamento de/anti ICE
+ Types of clearing equipment De/anti ICE equipment
+2 Priorità Piazzale elicotteri - Helipad - Pista - TWY A- raccordi D, H, F, G - cancelli di
+emergenza - piazzale sosta aeromobili
+ Clearance priorities Helicopter apron - Helipad - Runway - TWY A - Links D, H, F, G - emergency gates -
+apron stand area
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. La rimozione neve viene effettuata come descritto nelle procedure operative
+allegate al Manuale d’Aeroporto
+2. RWY 09/27 trattata con liquido di tipo KFOR nelle operazioni di rimozione del
+ghiaccio o di prevenzione della Formazione
+3. Pista invernale appositamente preparata: non applicabile
+ Remarks 1. Snow removal is carried out as described on the Airport Manual operative
+procedures
+2. RWY 09/27 de-icing/anti-icing with KFOR fluid, in the operations of ice removal or
+prevention of ice formation
+3. Specially prepared winter runway: n/a
+LIMW AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIMW AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron BITUMCONG PCN 15/F/D/W/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 15 M BITUMCONG PCN 43/F/A/X/T
+C 20 M BITUMCONG PCN 47/F/A/X/T
+D 15 M BITUMCONG PCN 45/F/A/X/T
+E 15 M BITUMCONG PCN 43/F/A/X/T
+F 15 M BITUMCONG PCN 36/F/A/X/T
+G 15 M BITUMCONG PCN 35/F/A/X/T
+H 15 M BITUMCONG PCN 41/F/A/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIMW AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIMW AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIMW 1 - 5
+AIRAC effective date 31 OCT 2024
+ENAV - Roma (A11/24)
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+1) Segnaletica: conforme agli standard ICAO, tabelle di identificazione degli stand di
+tipo rifrangente con carattteri gialli su fondo nero
+2) Linee guida per TWY: segnaletica orizzontale gialla continua, luci e tabelle
+indicatrici diurne e notturne/luci interne
+3) Sistema di guida per parcheggio a vista: con segnaletica orizzontale
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+1) Markings: ICAO standard, stands identification schedule reflecting with yellow on
+black-ground
+2) TWY guide lines: continuous yellow horizontal sign, day and night indication lights
+and signs/internal lights
+3) Visual guiding system: with horizontal marking
+2 Illuminazione e segnaletica per RWY e TWY 1) Vedi carta AD in vigore
+2) A fine pista 27 (THR 09) esistono luci blu su ambo i lati ad indicare l'inizio della
+TWY C
+ RWY and TWY markings and lights 1) See AD chart in force
+2) Presence of blu lights on both sides RWY END 27 (THR 09)  indicating the
+beginning of TWY C
+3 Barre d'arresto Vedi carta AD in vigore
+ Stop bars See AD chart in force
+4 Note NIL
+ Remarks  
+
+=== Page 6 ===
+AD 2 LIMW 1 - 6
+AIRAC effective date 31 OCT 2024 AIP - Italia
+(A11/24) ENAV - Roma
+LIMW AD 2.10 OSTACOLI AEROPORTUALI
+LIMW AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIMW AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIMW AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 9H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts / IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Aosta AFIU
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. Sistema “VAISALA”
+2. Aeroporto interessato da fenomeni di wind shear, in prevalenza originati da
+venti con intensità di almeno 15kt e direzione 280°/030° cui si somma un
+contributo di brezza. Possibili effetti orografici nelle vicinanze  dell’aeroporto
+potrebbero interessare le operazioni di avvicinamento, di atterraggio e di decollo
+3. ARO CBO MILANO: vedi GEN 3.1
+4. ITALY MFU: vedi GEN 3.5
+5. Nubi operativamente significative: sono ritenute operativamente significative le
+nubi con altezza della base al di sotto di 10000ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIMW 1 - 7
+AIRAC effective date 05 SEP 2024
+ENAV - Roma (A09/24)
+ Climatological information and additional
+information
+1. “VAISALA” system
+2. Aerodrome affected by wind shear phenomena, mostly originated by winds having
+an intensity of 15kt at least and 280°/030° directions with additional contribution
+from the mountain breeze. Possible terrain induced effects by mountains in the
+surroundings of airport may affect approach, landing and take-off operations
+3. ARO CBO MILANO: see GEN 3.1
+4. ITALY MFU: see GEN 3.5
+5. Clouds of operational significance: clouds with base height below 10000ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+LIMW AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIMW AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+09 NIL 1499 x 30
+PCN 46/F/A/X/T
+ASPH
+45°44'16.61''N
+007°21'28.70''E
+45°44'20.99''N
+007°22'37.75''E
+174.8  FT
+1796.0  FT / 1796.0 FT
+27 NIL 1499 x 30
+PCN 46/F/A/X/T
+ASPH
+45°44'20.99''N
+007°22'37.75''E
+45°44'16.61''N
+007°21'28.70''E
+174.9  FT
+1774.1  FT / 1777.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+09
+Longitudinale: 045%
+Trasversale:1,5%
+Longitudinal:0,45%
+Transversal: 1,5%
+70 x 30 220 x 80 1689 x 140 120 x 80
+27
+Longitudinale: 0,45%
+Trasversale: 1,5%
+Longitudinal: 0,45%
+Transversal: 1,5%
+NIL 144 x 80 1689 x 140 120 x 80
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+09 NIL
+1) Per i decolli da RWY 09 sono disponibili 60 m oltre il fine pista 27/ 60 m beyond RWY end 27
+are available for take-off RWY 09
+27 NIL
+1) Nel lato sud-ovest della RESA, porzione triangolare di dimensioni 25x8 m non disponibile/On
+the south-west side of RESA, triangular portion 25x8 m not available
+2) Per i decolli da RWY 27 sono disponibili 167 m oltre il fine pista 09/ 167 m beyond RWY end
+09 are available for take-off RWY 27
+
+=== Page 8 ===
+AD 2 LIMW 1 - 8
+AIRAC effective date 05 SEP 2024 AIP - Italia
+(A09/24) ENAV - Roma
+LIMW AD 2.13 DISTANZE DICHIARATE
+LIMW AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+09
+START POINT RWY 09
+1499
+1559
+1719
+1779
+1569
+1629
+1499
+-
+27
+START POINT RWY 27
+1499
+1666
+1643
+1810
+1499
+1666
+1499
+-
+NOTE NIL
+REMARKS  
+LIMW AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIMW AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+09 SALS 300 LIH G NIL 4.00°
+lato sinistro/
+left side
+ 
+10.0 NIL
+27 SALS 420 LIH G NIL 5.00°
+entrambi i lati/
+both sides
+ 
+15.4 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+09 749
+450
+300
+30
+30
+30
+W
+W/R
+R
+LIH
+LIH
+LIH
+998
+501
+46
+46
+W
+Y
+LIH
+LIH
+27 749
+450
+300
+30
+30
+30
+W
+W/R
+R
+LIH
+LIH
+LIH
+1007
+492
+46
+46
+W
+Y
+LIH
+LIH
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIMW 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+09 R NIL NIL 2 NIL 1) PAPI RWY 09: protezione 5 km /
+protection 5 km 2) RWY EDGE LIGHTS: luci
+aggiuntive di bordo pista omnidirezionali
+lunghezza 1499 m, spaziatura 46 m,
+colore bianco, intensità LIL / additional
+omnidirectional RWY edge lights, length
+1499 m, spacing 46 m, colour white,
+intensity LIL
+27 R NIL NIL 2 NIL 1) PAPI RWY 27: protezione 5 km /
+protection 5 km 2) PAPI OFF SET 3.6°
+3) RWY EDGE LIGHTS: luci aggiuntive
+di bordo pista omnidirezionali lunghezza
+1499 m, spaziatura 46 m, colore bianco,
+intensità LIL / additional omnidirectional
+RWY edge lights, length 1499 m, spacing
+46 m, colour white, intensity LIL
+LIMW AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIMW AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 45°44'22''N   007°21'51''E
+Caratteristiche: Caratteristiche: NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 45°44'22''N   007°21'51''E
+Characteristics: Characteristics: NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: Illuminato a circa 87 m dalla RCL, 240 m dalla THR RWY 27 lato destro.
+Anemometri:
+1 anemometro a ultrasuoni a circa 94 m dalla RCL, 78 m dalla THR RWY 09 lato
+sinistro
+1 anemometro a ultrasuoni a circa 84 m dalla RCL, 181 m dalla THR RWY 27 lato
+destro
+ LDI location and lights 
+Anamometer location and lights
+LDI: Lighted at about 87 m from RCL, 240 m after THR RWY27 right side
+Anemometers:
+1 ultrasonic anemometer at about 94 m from RCL, 78 m after THR RWY 09 left side
+1 ultrasonic anemometer at about 84 m from RCL, 181 m after THR RWY 27 right
+side
+3 Illuminazione bordo e asse centrale TWY Vedi carta AD in vigore
+ TWY edge and center line lighting See AD chart in force
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+
+=== Page 10 ===
+AD 2 LIMW 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIMW AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIMW AD 2.16 HELICOPTER LANDING AREA
+1 Posizione 45°44’20’’ N 007°22’04’’ E
+ Position  
+2 Elevazione 543 m / 1780 ft
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+Dimensioni: 27 m x 27 m
+Superficie: calcestruzzo
+Resistenza: 10 tonnellate
+Segnaletica: linea bordo bianca spessore 30 cm; triangolo equilatero
+spessore 1 m e lato 9 m
+ Dimensions, surface, strength, marking Dimensions: 27 m x 27 m
+Surface: concrete
+Strength: 10 tons
+Marking: white side stripe marking 30 cm thick; equilateral
+triangle, 9 m side, 1 m thick
+4 Orientamento 09-27
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci ICAO APP PATH 09/27: lunghezza 210 m, 7 luci bianche, fisse, omnidirezionali /HI; 4
+luci bianche, flashing in sequenza direzionale/HI 
+A-PAPI 09/27: 6° MEHT 5.2 m
+FATO: 40 luci verdi, omnidirezionali, sul perimetro  del quadrato /HI
+ 
+AIMING POINT: 6 luci bianche, omnidirezionali, sul perimetro del triangolo /HI
+Vedi anche AD 2 LIMW 2-3
+ Lighting ICAO APP PATH 09/27: length 210 m; 7 steady omnidirectional,
+white lights /HI; 4 sequenced directional flashing, white lights, /HI
+A-PAPI 09/27: 6° MEHT 5.2 m
+FATO: 40 Green, omnidirectional lights on each side of the square/HI
+ 
+AIMING POINT: 6 white, omnidirectional lights on each side of the triangle/HI
+See also AD 2 LIMW 2-3
+7 Note NIL
+ Remarks  
+LIMW AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIMW AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Aosta ATZ
+45°45'55"N 007°16'03"E;
+45°46'39"N 007°27'32"E
+then arc of circle in
+clockwise direction
+radius 4.5 NM centred on
+45°44'18"N
+007°22'03"E till point
+45°42'40"N 007°28'02"E;
+45°41'56"N 007°16'35"E
+then arc of circle in
+clockwise direction
+radius 4.5 NM centred on
+45°44'18"N 007°22'03"E
+till point of origin.
+8000 FT
+AMSL
+G
+Aosta
+Aerodrome INFO
+EN/IT
+15000 FT
+1) WI Milano FIR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+  (RMZ)
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIMW 1 - 11
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIMW AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIMW AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 HJ-/+30
+NIL
+AFIS Aosta Aerodrome INFO 119.950 HJ-/+30 NIL
+AFIS Aosta Aerodrome INFO CH 119.955 HJ-/+30
+1) Spaziatura 8.33 KHz/8.33 KHz
+channel spacing
+LIMW AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIMW AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+ILS RWY 27 LOC
+CAT I
+(1° E-2010.0)
+IAOS
+109.75
+MHZ
+H24
+45°44'23.0''N
+007°22'30.1''E
+NIL NIL
+1) Utilizzabile solo per
+le procedure pubblicate,
+eseguite da operatore
+specificamente
+autorizzato da ENAC.
+Solo in accordo alle
+prescrizioni e alle
+limitazioni stabilite da
+  ENAC /
+Usable for published
+procedures only,
+performed by operator
+specifically authorized by
+Italian Civil Aviation
+Authority (ENAC).
+Only according to
+the prescriptions and
+limitations established
+by ENAC
+
+=== Page 12 ===
+AD 2 LIMW 1 - 12
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+DME-P IAOS CH 34Y H24
+45°44'23.3''N
+007°22'29.9''E
+546 M
+AMSL
+NIL
+1) Utilizzabile solo per
+le procedure pubblicate,
+eseguite da operatore
+specificatamente
+autorizzato da ENAC.
+Solo in accordo alle
+prescrizioni e alle
+limitazioni stabilite da
+ENAC /
+Usable for published
+procedure only,
+performed by operator
+specifically authorized by
+Italian Civil Aviation
+Authority (ENAC).
+Only according to
+the prescriptions and
+limitations established
+by ENAC.
+2) Funzionalità Final
+approach non
+utilizzabile. Per maggiori
+informazioni vedi GEN
+3.4 paragrafo 3.1/
+Final approach mode
+not usable. For more
+information see GEN 3.4
+item 3.1.
+GP -
+333.05
+MHZ
+H24
+45°44'23.0''N
+007°22'30.0''E
+NIL NIL
+Slope 5°
+RDH: 14.34 M
+VOR/DME
+(1° E-2010.0)
+SCS
+109.25
+MHZ
+CH 29Y
+VOR H24
+DME H24
+VOR
+45°44'44.1''N
+007°20'19.3''E
+DME
+45°44'43.7''N
+007°20'19.0''E
+721 M
+AMSL
+NIL
+1) Utilizzabile solo per
+le procedure pubblicate,
+eseguite da operatore
+specificatamente
+autorizzato da ENAC.
+Solo in accordo alle
+prescrizioni e alle
+limitazioni stabilite da
+ENAC /
+Usable for published
+procedure only,
+performed by operator
+specifically authorized by
+Italian Civil Aviation
+Authority (ENAC).
+Only according to
+the prescriptions and
+limitations established
+by ENAC.
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIMW 1 - 13
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NDB
+ 
+SVC
+418.00
+KHZ
+H24
+45°44'43.4''N
+007°42'55.8''E
+NIL 25 NM/18000 FT
+1) Utilizzabile solo per
+le procedure pubblicate,
+eseguite da operatore
+specificatamente
+autorizzato da ENAC.
+Solo in accordo alle
+prescrizioni e alle
+limitazioni stabilite da
+ENAC /
+Usable for published
+procedure only,
+performed by operator
+specifically authorized by
+Italian Civil Aviation
+Authority (ENAC).
+Only according to
+the prescriptions and
+limitations established
+by ENAC.
+LIMW AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIMW AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+1.1. RWY 27 è usata quale pista per gli atterraggi strumentali non di
+precisione
+1.1. RWY 27 is used as runway for non precision strumental
+approaches
+1.2. L’AFIU utilizzerà tale pista solo in caso di:
+a. pista asciutta, componente di vento in coda non maggiore di 7 kt;
+b. pista bagnata, componente di vento in coda non maggiore di 5 kt.
+1.2. AFIU will use that runway only in case of:
+a. dry runway, tail wind component not more than 7 kt;
+b. wet runway, tail wind component not more than 5 kt.
+1.3. Tale criterio non troverà applicazione quando:
+a. la componente in coda superi i limiti dati;
+b. su richiesta di utilizzo di altra pista da parte dei piloti.
+1.3. This will not be applicable when:
+a. tail component exceeds above data;
+b. on pilot’s request of using a different runway.
+1.4. Se il pilota ritiene che la pista indicata dall’AFIU non soddisfi
+completamente le esigenze delle proprie operazioni, può richiedere
+l’uso di un’altra pista compatibilmente con il traffico attualmente in
+circuito
+1.4. If the pilot considers that the runway indicated by AFIU doesn’t
+satisfy his operations needs, it is possible to request the use of another
+runway according to the traffic circuit at the moment
+2 Apron 2 Apron
+2.1. Il rullaggio degli aeromobili verso l’area di rifornimento non può
+essere effettuato in caso di decolli o atterraggi di elicotteri per motivi
+di sicurezza.
+2.1. Taxiing of aircraft toward refuelling area is not allowed in case of
+helicopters take-off or landing for safety reasons
+2.2. Per il parcheggio seguire le informazioni AFIU e le istruzioni
+marshalling.
+2.2. For parking follow AFIU information and marshalling
+instructions
+2.3. Il contatto radio con l’AFIU locale è obbligatorio prima dello startup
+dei motori per tutto il traffico. Il traffico di elicotteri per servizio medico
+di emergenza non è interessato.
+2.3. Radio contact with local AFIU is mandatory for all traffic before
+engines start-up. Helicopter emergency medical service traffic is not
+affected.
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+3.1. La RWY 09/27 è considerata libera dopo l’atterraggio rullando sulla
+TWY F o G, soltanto all’intersezione con la TWY A.
+3.1. RWY 09/27 is considered vacated after landing taxiing via TWY F
+or G, at the intersection with TWY A only.
+4 Procedure applicabili agli aeromobili in condizioni di
+visibilità ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+Non sono consentite operazioni in bassa visibilità Low visibility operations are not allowed
+
+=== Page 14 ===
+AD 2 LIMW 1 - 14
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+NIL
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+NIL NIL
+LIMW AD 2.21 PROCEDURE ANTIRUMORE
+LIMW AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+Ai parcheggi sono consentite solo le prove motori al minimo; prove
+con potenza maggiore verranno condotte al punto attesa H e devono
+essere preventivamente coordinate con l’AFIU
+Only idle engine run-ups are allowed at parking stands; engine run-
+ups exceeding idle power will be carried out at holding position H and
+must be previously coordinated with AFIU
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIMW AD 2.22 PROCEDURE DI VOLO
+LIMW AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+NIL NIL
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+NIL NIL
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+NIL NIL
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIMW 1 - 15
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+NIL NIL
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+NIL NIL
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+NIL NIL
+4.3 Arrivi 4.3 Arrivals
+4.3.1 Traffico VFR in arrivo proveniente da EST: 4.3.1 VFR traffic inbound from the EAST:
+a. obbligo di contatto radio oltre il VRP IVREA (LEW1). Per tale traffico
+IVREA (LEW1) deve essere considerato punto di riporto obbligatorio
+sulla frequenza di Milano FIC/ACC.
+a. mandatory radio contact beyond the VRP IVREA (LEW1). For that
+traffic IVREA (LEW1) shall be considered as a mandatory reporting
+point on Milano FIC/ACC radio frequency.
+b. obbligo di contatto radio oltre il VRP SCOPELLO (MMNW5) sulla
+frequenza di Milano FIC/ACC.
+b. mandatory radio contact beyond the VRP SCOPELLO (MMNW5) on
+Milano FIC/ACC radio frequency.
+4.3.2 Traffico VFR in arrivo proveniente da OVEST: 4.3.2 VFR traffic inbound from the WEST:
+a. obbligo di contatto radio oltre il VRP LA SALLE (MMNW1) sulla
+frequenza di Milano FIC/ACC oppure Aosta AFIU.
+a. mandatory radio contact beyond the VRP LA SALLE (MMNW1), on
+Milano FIC/ACC or Aosta AFIU radio frequency.
+4.3.3 Traffico VFR in arrivo proveniente da NORD: 4.3.3 VFR traffic inbound from the NORTH:
+a. obbligo di contatto radio oltre il VRP GRAN SAN BERNARDO
+(MMNW2), sulla frequenza di Milano FIC/ACC oppure Aosta AFIU.
+a. mandatory radio contact beyond the VRP GRAN SAN BERNARDO
+(MMNW2), on Milano FIC/ACC or Aosta AFIU radio frequency.
+4.3.4 Traffico VFR in arrivo proveniente da NORD-EST: 4.3.4 VFR traffic inbound from the NORTH-EAST:
+a. obbligo di contatto radio oltre il VRP CERVINIA (MMNW3), sulla
+frequenza di Milano FIC/ACC oppure Aosta AFIU.
+a. mandatory radio contact beyond the VRP CERVINIA (MMNW3), on
+Milano FIC/ACC or Aosta AFIU radio frequency.
+4.3.5 Procedura di atterraggio per attività volovelistiche 4.3.5 Glider activities landing procedure
+
+=== Page 16 ===
+AD 2 LIMW 1 - 16
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+Tutti i piloti di alianti che stanno per atterrare devono effettuare le
+seguenti chiamate radio:
+All glider pilots that are going to land must make the following radio
+calls:
+a. per pista 09:
+• riportare prima di entrare nel circuito di traffico aeroportuale e
+procedere al ‘PRENOTAZIONE POINT’
+• riportare quando ci si trova sul ‘PRENOTAZIONE POINT’ a 400m
+sulla verticale della città di Pollein (Sud-ovest della THR RWY 09)
+• riportare quando si inizia la procedura a 300m prima del sorvolo
+del campo
+• normali chiamate di circuito
+a. for RWY 09:
+• report before entering the airport traffic pattern and proceed to
+the ‘PRENOTAZIONE POINT’
+• report when in ‘PRENOTAZIONE POINT’ at 400m to the vertical of
+the town of Pollein (South-west of THR RWY 09)
+• report when starting procedure at 300m before overflying the field
+          
+• normal circuit calls
+b. per pista 27:
+• riportare prima di entrare nel circuito di traffico aeroportuale e
+procedere al ‘PRENOTAZIONE POINT’
+• riportare quando ci si trova sul ‘PRENOTAZIONE POINT’ al traverso
+Nord dell’edificio TWR
+• riportare quando si inizia la procedura a 300m prima del sorvolo
+del campo
+• normali chiamate di circuito
+b. for RWY 27:
+• report before entering the airport traffic pattern and proceed to
+the ‘PRENOTAZIONE POINT’
+• report when in ‘PRENOTAZIONE POINT’ abeam North of the TWR
+building
+• report when starting procedure at 300m before overflying the field
+• normal circuit calls
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+4.5.1 Traffico VFR in sorvolo proveniente da EST: 4.5.1 Overflying VFR traffic coming from the EAST:
+a. obbligo di contatto radio oltre il VRP IVREA (LEW1), sulla frequenza
+di Milano FIC/ACC. Per tale traffico IVREA (LEW1) deve essere
+considerato punto di riporto obbligatorio sulla frequenza di Milano
+FIC/ACC.
+a. mandatory radio contact beyond the VRP IVREA (LEW1) on Milano
+FIC/ACC radio frequency. For that traffic IVREA (LEW1) shall be
+considered as a mandatory reporting point on Milano FIC/ACC radio
+frequency.
+b. obbligo di contatto radio oltre il VRP SCOPELLO (MMNW5) sulla
+frequenza di Milano FIC/ACC.
+b. mandatory radio contact beyond the VRP SCOPELLO (MMNW5) on
+Milano FIC/ACC radio frequency.
+4.5.2 Traffico VFR in sorvolo proveniente da OVEST: 4.5.2 Overflying VFR traffic coming from the WEST:
+a. obbligo di contatto radio oltre il VRP LA SALLE (MMNW1), sulla
+frequenza di Milano FIC/ACC oppure Aosta AFIU.
+a. mandatory radio contact beyond the VRP LA SALLE (MMNW1), on
+Milano FIC/ACC or Aosta AFIU radio frequency.
+4.5.3 Traffico VFR in sorvolo proveniente da NORD: 4.5.3 Overflying VFR traffic coming from the NORTH:
+a. obbligo di contatto radio oltre il VRP GRAN SAN BERNARDO
+(MMNW2), sulla frequenza di Milano FIC/ACC oppure Aosta AFIU.
+a. mandatory radio contact beyond the VRP GRAN SAN BERNARDO
+(MMNW2), on Milano FIC/ACC or Aosta AFIU radio frequency.
+4.5.4 Traffico VFR in transito proveniente da NORD EST: 4.5.4 Overflying VFR traffic coming from the NORTH-EAST:
+a. obbligo di contatto radio oltre il VRP CERVINIA (MMNW3), sulla
+frequenza di Milano FIC/ACC oppure Aosta AFIU.
+a. mandatory radio contact beyond the VRP CERVINIA (MMNW3), on
+Milano FIC/ACC or Aosta AFIU radio frequency.
+L’eventuale traffico originante all’interno della zona definita dai punti
+di riporto sopra indicati deve stabilire al più presto il contatto radio con
+Milano FIC o Aosta AFIU.
+Any traffic departing from the area defined by the above mentioned
+VRP, shall establish radio contact with Milano FIC or Aosta AFIU, as
+soon as possible.
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+Solo traffico di elicotteri autorizzato dal gestore aeroportuale AVDA
+S.p.A.
+Only helicopter traffic, authorized by the aerodrome operator AVDA
+S.p.A.
+4.8 Attività addestrativa 4.8 Training activity
+Per l'utilizzo della procedura in volo strumentale a scopo didattico è
+richiesto preavviso di almeno 12HR alla Società di Gestione AVDA
+S.p.A.
+The intended use of the instrument approach procedure for training
+purposes shall be notified to the aerodrome operator AVDA S.p.A. at
+least 12HR in advance.
+5 LVP 5 LVP
+NIL NIL
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIMW 1 - 17
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIMW AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIMW AD 2.23 ADDITIONAL INFORMATION
+1 DISPOSIZIONI PER L’UTILIZZO DELL’AREA ATTERRAGGIO
+ELICOTTERI
+1 PROVISIONS FOR THE USE OF HELICOPTER LANDING AREA
+1.1. FATO disponibile per VFR, VFR/N 1.1. FATO available for VFR, VFR/N
+1.2. HJ±30:
+il traffico ad ala rotante deve effettuare l’avvicinamento utilizzando la
+RWY 09/27 e non la piazzola elicotteri (Aiming Point)
+1.2. HJ±30:
+rotary wing aircraft shall perform approach operations using RWY
+09/27 instead of using the helicopter landing area (Aiming Point)
+1.3. HN:
+in presenza di traffico ad ala rotante che effettua l’avvicinamento lungo
+il sentiero descritto dall’impianto H-PAPI asservito all’ Aiming Point,
+viene considerata quale posizione attesa di riferimento per eventuale
+altro traffico quella ubicata sul raccordo E
+1.3. HN:
+in case of rotary wing aircraft approaching along the path as described
+by the H-PAPI serving the Aiming Point, any other traffic shall use as
+holding position the one located on TWY E
+1.4. Operazioni di rullaggio elicotteri come segue:
+a. sulle TWY A, C, D, F, G e H: Air taxiing consentito
+b. per motivi di sicurezza non è consentito Air taxiing sull’apron ad
+eccezione di:
+• elicotteri provvisti di pattini
+• HEMS ed elicotteri coinvolti in operazioni di Protezione  Civile
+1.4. Helicopters taxiing OPS as follows:
+a. on TWY A, C, D, F, G e H: Air taxiing allowed
+b. due to safety reasons, Air Taxiing not allowed on apron excepting
+for:
+• skidded helicopters
+• HEMS and helicopters involved in Civil Protection OPS
+2 OPERAZIONI DI RIFORNIMENTO CARBURANTE 2 REFUELLING OPERATIONS
+Non sono consentite le operazioni di rifornimento con passeggeri a
+bordo escluso il Servizio medico di emergenza con elicotteri.
+Refuelling operations with passengers on board are not allowed.
+Helicopter Emergency Medical Service not affected.
+LIMW AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIMW AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIMW 2 - 1
+AERODROME CHART ICAO - HELICOPTER LANDING AREA  AD 2 LIMW 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 09/27  AD 2 LIMW 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIMW 3 - 3
+ICAO VISUAL APPROACH CHART  AD 2 LIMW 5 - 1
+Carte - Charts Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIMW AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIMW AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 18 ===
+AD 2 LIMW 1 - 18
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+

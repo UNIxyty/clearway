@@ -1,0 +1,334 @@
+=== Page 1 ===
+AIP Japan
+ASAHIKAWA(JSDF-G)
+Civil Aviation Bureau,Japan
+RJCA AD2-1
+AD 2 AERODROMES
+RJCA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJCA - ASAHIKAWA(JSDF-G)
+RJCA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJCA AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 434740N/1422154E
+2 Direction and distance from (city) 1.8nm N
+3 Elevation/ Reference temperature 377ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration,address,
+telephone, telefax, telex, AFS, 
+e-mail and/or Web-site addresses
+JSDF-G
+7 Types of traffic permitted(IFR/
+VFR)
+VFR
+8 Remarks Nil
+1 AD Administration 2300 - 0800 MON-FRI EXC HOL, Other time 1HR PN
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office 2300 - 0800 MON-FRI EXC HOL, Other time 1HR PN
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office 2200 - 0800 MON-FRI, Other time on request
+7 ATS 2300 - 0800 MON-FRI EXC HOL, Other time 1HR PN
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+=== Page 2 ===
+RJCA AD2-2 AIP Japan
+ASAHIKAWA(JSDF-G)
+Civil Aviation Bureau,Japan
+RJCA AD 2.4 HANDLING SERVICES AND FACILITIES
+RJCA AD 2.5 PASSENGER FACILITIES
+RJCA AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJCA AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types 100/130(1)  JP-4
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks (1)1HR PN
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+=== Page 3 ===
+AIP Japan
+ASAHIKAWA(JSDF-G)
+Civil Aviation Bureau,Japan
+RJCA AD2-3
+RJCA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJCA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJCA AD 2.10 AERODROME OBSTACLES
+RJCA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+To be issued later
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+1 Associated MET Office ASAHIKAWA
+2 Hours of service
+MET Office outside hours
+2200 - 0800 MON-FRI, Other time on request
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Ja, En
+7 Charts and other information available 
+for briefing or consultation
+S, U
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil(EFF:27 AUG 2009) 27/8/09
+
+=== Page 4 ===
+RJCA AD2-4 AIP Japan
+ASAHIKAWA(JSDF-G)
+Civil Aviation Bureau,Japan
+RJCA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJCA AD 2.13 DECLARED DISTANCES
+RJCA AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+08
+26
+To be 
+issued 
+later
+800×50
+800×50
+SW5000kg(11000lbs)
+Sod
+Nil
+Nil
+Nil
+Nil
+   Slope of RWY Strip
+ Dimensions(M) Remarks
+71 0 1 2
+Not provided 1000×100
+1000×100
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+08
+26
+Remarks
+10
+(EFF:27 AUG 2009) 27/8/09
+
+=== Page 5 ===
+AIP Japan
+ASAHIKAWA(JSDF-G)
+Civil Aviation Bureau,Japan
+RJCA AD2-5
+RJCA AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJCA AD 2.16 HELICOPTER LANDING AREA
+RJCA AD 2.17 ATS AIRSPACE
+RJCA AD 2.18 ATS COMMUNICATION FACILITIES
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 434750N/1422148E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT Nil
+3 TWY edge and centerline lighting Nil
+4 Secondary power supply/    switch-
+over time
+Nil
+5 Remarks Nil
+To be issued later
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+Asahikawa 
+CTR
+Area within a radius of 5nm (9km) of  
+ASAHIKAWA /RJCA ARP(43°48'N142°22'E) 
+excluding the south side of the Line between 
+the intersections of swinging arcs 5nm (9km) 
+in radius from RJCA ARP and RJEC ARP 
+(43°40'N142°27'E)
+3,000 or 
+below
+D ASAHIKAWA
+TOWER
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+TWR Asahikawa Tower 126.2MHz
+140.5MHz
+138.05MHz
+139.8MHz
+123.1MHz(1)
+121.5MHz(E)
+2300-0800(2)
+MON-FRI
+Other time 
+1HR PN
+(1)Rescue only
+(2)EXC HOL and 12/29 - 1/3
+(EFF:28 NOV 2024) 28/11/24
+
+=== Page 6 ===
+RJCA AD2-6 AIP Japan
+ASAHIKAWA(JSDF-G)
+Civil Aviation Bureau,Japan
+RJCA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJCA AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+=== Page 7 ===
+AIP Japan
+ASAHIKAWA(JSDF-G)
+Civil Aviation Bureau,Japan
+RJCA AD2-7
+RJCA AD 2.21 NOISE ABATEMENT PROCEDURES
+RJCA AD 2.22 FLIGHT PROCEDURES
+RJCA AD 2.23 ADDITIONAL INFORMATION
+RJCA AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+=== Page 8 ===
+INTENTIONALLY LEFT BLANK

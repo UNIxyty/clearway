@@ -1,0 +1,362 @@
+=== Page 1 ===
+EIIR AD 2 - 1AIP IRELAND
+Irish Aviation Authority
+EIIR AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+EIIR - INISHEER
+EIIR AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+EIIR AD 2.3 OPERATIONAL HOURS
+1 ARP and its site 530352N 0093039W
+Midpoint RWY 13/31
+2 Direction and distance from (city) Nil
+3 AD Elevation, Reference Temperature & Mean 
+Low Temperature
+40 FT/18.4°C (Max Temp) 1.6°C (MNM Temp)
+4 Geoid undulation at AD ELEV PSN 190ft
+5 MAG VAR/Annual Change 5°W (2014)/11’ decreasing
+6 AD Operator, address, telephone, telefax, 
+email, AFS, Website
+Post: GALWAY AVIATION SERVICES LTD
+CAISLEAN
+INVERIN
+CO. GALWAY
+Phone:+353 91 593034
+Email: info@aerarannislands.ie
+URL: http://www.aerarannislands.ie
+7 Types of traffic permitted (IFR/VFR) VFR
+8 Remarks Nil
+1A D  O p e r a t o r 0800-1600 MAR-SEP (UTC)
+0900-1500 OCT-FEB (UTC)
+2 Customs and immigration Nil
+3 Health and sanitation 0800-1600 MAR-SEP (UTC)
+0900-1500 OCT-FEB (UTC)
+4 AIS Briefing Office See Remarks
+5 ATS Reporting Office (ARO) See Remarks
+6 MET Briefing Office See Remarks
+7A T S Nil
+8 Fuelling Nil
+9 Handling 0800-1600 MAR-SEP (UTC)
+0900-1500 OCT-FEB (UTC)
+10 Security 0800-1600 MAR-SEP (UTC)
+0900-1500 OCT-FEB (UTC)
+11 De-icing Nil
+19 MAY 2022
+AIRAC Amdt 005/22
+19 MAY 2022         
+
+=== Page 2 ===
+EIIR AD 2 - 2 AIP IRELAND
+Irish Aviation Authority
+EIIR AD 2.4 HANDLING SERVICES AND FACILITIES
+NIL
+EIIR AD 2.5 PASSENGER FACILITIES
+EIIR AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+EIIR AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING AND 
+SNOW PLAN
+NIL
+EIIR AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+12 Remarks PPR Minimum 3 hours, Limited parking available - Contact Ad 
+administration via telephone or email.
+PIB AVBL from AIS, Shannon, See Section GEN 3.1.5,
+ARO service is AVBL H24 from AIS Shannon See Section 
+GEN 3.1.5
+Met briefing AVBL from Central Aviation Office, Shannon 
+Airport, See Section GEN 3.5.4
+1 Hotel(s) at or in the vicinity of AD AVBL on Island
+2 Restaurant(s) at or in the vicinity of AD AVBL on Island
+3 Transportation possibilities Transport AVBL on request
+4 Medical facilities Medical Centre located on Island
+5 Bank and Post Office at or in the vicinity of AD Post Office located on Island
+6 Tourist Office Comhar Caomhan Teo
+7 Remarks Nil
+1 AD category for fire fighting CAT 2
+2 Rescue equipment Appropriate to CAT 2
+3 Capability for removal of disabled aircraft Nil
+4 Remarks Nil
+1 Apron surface and strength Surface: Bituminous
+Strength:
+2 Taxiway width, surface and strength Taxiway Width (M) Surface Strength
+A1 6 B i t u m i n o u s -
+3 Altimeter checkpoint location and elevation Location: Runway mid point
+Elevation: 40ft
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+19 MAY 2022
+19 MAY 2022         
+AIRAC Amdt 005/22
+
+=== Page 3 ===
+EIIR AD 2 - 3AIP IRELAND
+Irish Aviation Authority
+EIIR AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND 
+MARKINGS
+EIIR AD 2.10 AERODROME OBSTACLES
+EIIR AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+6 Remarks Nil
+1 Use of aircraft stand ID signs, TWY guide lines 
+and visual docking/parking guidance system at 
+aircraft stands
+Nil
+2 RWY and TWY markings and LGT Runway designators, threshold, transverse strip, centreline.  
+Taxiway centreline and runway holding position. Runway 
+edge, threshold and end lighting.
+3 Stop bars and RWY Guard Lights Nil
+4 Other RWY Protection measures Nil
+5 Remarks Lighting for use in emergency only
+In approach/TKOF areas In circling area and at AD Remarks
+12 3
+RWY/Area 
+affected
+Obstacle type 
+Elevation 
+Markings/LGT
+Coordinates Obstacle type 
+Elevation 
+Markings/LGT
+Coordinates
+abcab
+Control Tower
+21m/69ft AMSL
+LGTD
+530353N
+0093046W
+Pole Light
+20m/66ft AMSL
+Nil
+530354N
+0093033W
+Fence
+20m/66ft AMSL
+Nil
+530348N
+0093033W
+Fence
+20m/66ft AMSL
+Nil
+530349N
+0093036W
+1 Associated MET Office See Section GEN 3.5
+ for information
+2 Hours of service H24
+3 Office responsible for TAF preparation 
+Periods of validity 
+Interval of issuance.
+Nil
+4 Type of landing forecast
+Interval of issuance.
+Nil
+5 Briefing/consultation provided Personal
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available for 
+briefing or consultation
+See Section GEN 3.5 for information
+19 MAY 2022
+19 MAY 2022         
+AIRAC Amdt 005/22
+
+=== Page 4 ===
+EIIR AD 2 - 4 AIP IRELAND
+Irish Aviation Authority
+EIIR AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+EIIR AD 2.13 DECLARED DISTANCES
+8 Supplementary equipment available for 
+providing information
+NIL
+9 ATS units provided with information NIL
+10 Additional information (limitation of service, etc.) NIL
+Designations 
+RWY NR
+TRUE BRG Dimensions of 
+RWY (M)
+Strength (PCN) 
+and surface of 
+RWY and SWY
+THR coordinates
+RWY end 
+coordinates
+THR Geoid 
+undulation
+THR elevation 
+and highest 
+elevation of TDZ 
+of precision APP 
+RWY
+1 2 3 4 5 6
+31 299.49° 500m x 18m Bituminous 530348.06N
+0093026.62W
+530356.28N
+0093050.76W
+190ft
+35ft
+13 119.48° 500m x 18m Bituminous 530356.28N
+0093050.76W
+530348.06N
+0093026.62W
+190ft
+38ft
+Slope of 
+RWY-SWY
+SWY 
+dimensions 
+(M)
+CWY 
+dimensions 
+(M)
+Strip 
+dimensions 
+(M)
+RWY End 
+Safety Area 
+dimensions
+Location and 
+description 
+of Arresting 
+System
+OFZ Remarks
+7 8 9 10 11 12 13 14
+Slope of 
+0.2% up on 
+RWY 31
+Nil Nil 570x60 Nil Nil Nil Nil
+Slope of 
+0.2% down 
+on RWY 13
+Nil Nil 570x60 Nil Nil Nil Nil
+RWY 
+Designator
+TORA TODA ASDA LDA Remarks
+12345 6
+31 500 500 500 500 Nil
+13 500 500 500 500 Nil
+19 MAY 2022
+19 MAY 2022         
+AIRAC Amdt 005/22
+
+=== Page 5 ===
+EIIR AD 2 - 5AIP IRELAND
+Irish Aviation Authority
+EIIR AD 2.14 APPROACH AND RUNWAY LIGHTING
+EIIR AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+EIIR AD 2.16 HELICOPTER LANDING AREA
+NIL
+EIIR AD 2.17 ATS AIRSPACE
+NIL
+EIIR AD 2.18 ATS COMMUNICATION FACILITIES
+EIIR AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+NIL
+RWY
+Designator
+APCH LGT
+type
+LEN INTST
+THR 
+LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ, 
+LGT 
+LEN
+RWY Centre 
+Line LGT 
+Length, 
+spacing, 
+colour, INTST
+RWY edge 
+LGT LEN, 
+spacing, 
+colour, 
+INTST
+RWY End 
+LGT 
+colour 
+WBAR
+SWY 
+LGT 
+LEN (M) 
+colour
+Remarks
+1 2 3 4 5 6 7 8 9 10
+31 Nil Green
+Med
+Nil
+Nil Nil Nil 520
+60
+White
+Med
+Red
+Med
+Nil
+Nil lighting for 
+emergency use 
+only
+13 Nil Green
+Med
+Nil
+Nil Nil Nil 520
+60
+White
+Med
+Red
+Med
+Nil
+Nil lighting for 
+emergency use 
+only
+1 ABN/IBN location, characteristics and hours of 
+operation
+Nil
+2 LDI location and LGT 
+Anemometer location and LGT
+Nil
+3 TWY edge and centre line lighting Nil
+4 Secondary power supply/switch-over time Nil
+5 Remarks WDI located at 530355N 0093043W
+Service 
+Designation
+Call sign Channel SATVOICE 
+No.
+Logon 
+Address
+Hours of 
+Operation
+Remarks
+1234567
+Aerodrome 
+Information
+INISHEER 
+Airport
+123.000MHz - - 0900-1700 
+MAR-SEP 
+(Local Time)
+-
+0900-1500 
+OCT-FEB 
+(Local Time)
+19 MAY 2022
+19 MAY 2022         
+AIRAC Amdt 005/22
+
+=== Page 6 ===
+EIIR AD 2 - 6 AIP IRELAND
+Irish Aviation Authority
+EIIR AD 2.20 LOCAL TRAFFIC REGULATIONS
+Pilots may only land and take off during opening hours and when two-way radio contact has been established with 
+the aerodrome.
+Beware of the intense commercial operations serving the island.
+EIIR AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+EIIR AD 2.22 FLIGHT PROCEDURES
+Standard joining procedures
+EIIR AD 2.23 ADDITIONAL INFORMATION
+3HR Prior Permission Required. Contact AD administration via telephone or email. Refer to EIIR AD 2.2
+Parking for two private aircraft only due to restricted space.
+Caution: Possible low level turbulence with southerly winds 
+EIIR AD 2.24 CHARTS RELATED TO AN AERODROME
+NIL
+19 MAY 2022
+19 MAY 2022       
+AIRAC Amdt 005/22

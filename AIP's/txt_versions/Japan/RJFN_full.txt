@@ -1,0 +1,1399 @@
+=== Page 1 ===
+AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD2-1
+AD 2 AERODROMES
+RJFN AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJFN - NYUTABARU
+RJFN AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJFN AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 320501N/1312705E
+2 Direction and distance from (city) 10.5NM N MIYAZAKI
+3 Elevation/ Reference temperature 259ft / Nil
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-A
+7 Types of traffic permitted
+(IFR/VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7A T S H 2 4
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 2 ===
+RJFN AD2-2 AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD 2.4 HANDLING SERVICES AND FACILITIES
+RJFN AD 2.5 PASSENGER FACILITIES
+RJFN AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJFN AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1PLUS
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks (1)EXP DLY fuel SVC
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:15 AUG 2019) 15/8/19
+
+
+=== Page 3 ===
+AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD2-3
+RJFN AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJFN AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJFN AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: (RWY10/28)
+(LGT) RTHL, TKOF aiming LGT
+TWY: 
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJFN AD2-4 AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office NYUTABARU
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast 
+Interval of issuance
+Nil
+5 Briefing/ consul tation provided Nil
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available 
+for briefing or consultation
+S. U
+8 Supplementary equipment
+available for providing information
+Doppler Radar for airport weather (See below figure)
+9 ATS units provided with information Nil
+10 Additional information(limitation of 
+service, etc.)
+Nil
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+Detection Area for Arriving Aircraft
+Detection Area for Departing Aircraft
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD  ELEV  LEVEL
+28
+10
+Airspace for the advisory service 
+concerning low level wind shear
+(EFF:5 MAR 2015) 5/2/15
+
+
+=== Page 5 ===
+AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD2-5
+RJFN AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJFN AD 2.13 DECLARED DISTANCES
+RJFN AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCN) and
+Surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+10
+28
+To be issued 
+Later
+2700×45
+2700×45
+SW47000kg
+(103635lbs)
+DW101000kg
+(222705lbs)
+DTW146000kg
+(321930lbs)
+TTTW263000kg
+(579915lbs)
+Asphalt Concrete
+Nil
+Nil
+Nil
+Nil
+Slope of RWY
+Strip
+Dimensions
+(M) Remarks
+71 0 1 2
+Nil 3300×450
+3300×450
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 3 4 5 6 7 8 9
+10  PAPI 
+ 3.0 °
+ 360.0m
+52ft
+28 AVBL  PAPI 
+ 3.0 °
+ 370.3m
+60ft
+Remarks
+10
+Nil
+(EFF:5 MAR 2015) 5/2/15
+→
+
+
+=== Page 6 ===
+RJFN AD2-6 AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJFN AD 2.16 HELICOPTER LANDING AREA
+RJFN AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics and 
+hours of operation ABN:320523N/1312748E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: LGTD
+3 TWY edge and center line lighting Nil
+4 Secondary power supply/    switch-
+over time
+Nil
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+ NYUTABARU 
+CTR
+Area within a radius of 5NM of NYUTABARU 
+ARP (32°05'N131°27'E ) 
+6000 or below D NYUTA TOWER
+En
+(EFF:2 NOV 2023) 2/11/23
+
+
+=== Page 7 ===
+AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD2-7
+RJFN AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+123 4 5
+TWR Nyuta Tower 236.8MHz
+126.2MHz
+304.5MHz
+247.0MHz(1)(2)
+138.05MHz(1)
+123.1MHz(1)(2)
+120.1MHz
+243.0MHz(E)
+121.5MHz(E)
+H24 APP service provided by
+1) KOBE CTL: 1300-2200
+2) KAGOSHIMA APP: 2200-1300
+(1) For rescue only
+(2) AVBL on request.
+GCA-ASR
+   -PAR
+Nyuta GCA 335.6MHz
+270.8MHz
+134.1MHz
+125.3MHz
+307.2MHz
+238.8MHz
+289.4MHz
+316.0MHz
+243.0MHz(E)
+121.5MHz(E)
+H24 ASR,PAR RWY 28
+Glide path 3.0°
+GND Nyuta Ground 275.8MHz H24
+MET Nyuta Metro 344.6MHz H24  Pilot forecaster SER(MIL)
+(EFF:24 FEB 2022) 24/2/22
+
+
+=== Page 8 ===
+RJFN AD2-8 AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid ID Frequency Hours of
+operation
+Position of 
+transmitting 
+antenna 
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN NHT 1184MHz
+(CH-97X)
+H24 320449.48N/
+1312713.62E
+263ft Unusable:
+R360-010 beyond 22NM BLW 8,000ft.
+R010-020 beyond 30NM BLW 8,000ft.
+R040-050 beyond 38NM BLW 5,000ft.
+R050-060 beyond 38NM BLW 4,000ft.
+R060-070 beyond 28NM BLW 2,000ft.
+R070-090 beyond 33NM BLW 2,000ft.
+R090-100 beyond 30NM BLW 2,000ft.
+R100-170 beyond 29NM BLW 2,000ft.
+R170-180 beyond 21NM BLW 5,000ft.
+R180-190 beyond 27NM BLW 6,000ft.
+R190-200 beyond 30NM BLW 6,000ft.
+R200-210 beyond 23NM BLW 6,000ft.
+R210-230 beyond 31NM BLW 6,000ft.
+R230-270 beyond 36NM BLW 8,000ft.
+R270-280 beyond 30NM BLW 8,000ft.
+R280-290 beyond 23NM BLW 7,000ft.
+R290-310 beyond 28NM BLW 8,000ft.
+R310-320 beyond 26NM BLW 8,000ft.
+R320-330 beyond 30NM BLW 8,000ft.
+R330-360 beyond 27NM BLW 8,000ft.
+ILS-LOC 28
+ILS-GP 28
+INH
+-
+111.3MHz
+332.3MHz
+H24
+H24
+320512N/
+1312604E
+320451N/
+1312744E
+LOC:330m(1083ft) away FM
+RWY 10 THR, BRG(MAG)289°
+GP:317.5m(1042ft) inside FM
+RWY 28 THR,120m(394ft) S
+of RCL. Angle 3.0°ILS
+Ref datum 16.5m(54ft).
+10
+28
+ILS-LOC
+ANTENNA
+RWY 120m
+317.5m
+2700m330m
+ILS-GP ANTENNA
+REMARKS : 1.LOC beam BRG(MAG) 289˚
+2.HGT of ILS REF datum 16.5m(54ft)
+˚0.3elgnA PG.3
+(EFF:14 JUL 2022) 16/6/22
+
+
+=== Page 9 ===
+AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD2-9
+RJFN AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJFN AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:5 MAR 2015) 5/2/15
+→
+
+
+=== Page 10 ===
+RJFN AD2-10 AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD 2.22 FLIGHT PROCEDURES
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL 
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine
+ ACFT with
+ TKOF ALTN
+ AP FILED
+10 A,B,C,D - - - 0 '-400m - 0 '-500m
+28 A,B,C,D - - - 200 '-2400m - 200 '-2400m
+OTHER
+10 A,B,C,D
+AVBL LDG MINIMA
+28 A,B,C,D
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY28 ASR RWY28
+Missed APCH climb gradient MNM 3.0% Missed APCH climb gradient MNM 4.1%
+MINIMA THR elev. 235 AD elev. 259 MINIMA THR elev. 235 AD elev. 259
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/CMV MDA(H) VIS MDA(H) RVR/CMV MDA(H) VIS
+A
+468(233) 750
+690(431)
+1600
+A
+630(395)
+1200 690(431)
+1600
+B 710(451) B 1300 710(451)
+C
+840(581)
+2400 C 1400
+840(581)
+2400
+D 3200 D 1600 3200
+MINIMA with Missed APCH climb gradient of 2.5% are not established. MINIMA with Missed APCH climb gradient of 2.5% are not estab lished.
+3. PAR/ASR Missed Approach Procedure
+Unless otherwise instructed by ATC, execute each missed approach procedure as follows.
+(1) PAR RWY 28: At guidance limit, climb to 700FT on HDG 289°, turn right HDG 111° to intercept and proceed via NHT R066 
+to ZARON and hold at 5000FT. Contact KAGOSHIMA APP.
+(2) ASR RWY 28: At guidance limit, climb on HDG 289° to NHT  1.9DME(1.0NM FM RWY end), turn right HDG 111° to 
+intercept and proceed via NHT R066 to ZARON and hold at 5000FT. Contact KAGOSHIMA APP .
+4. Lost Communication Procedures for Arrival Aircraft under Radar Navigational Guidance.
+If radio communications with Kagoshima Approach/Radar or NYUTA GCA are lost for 1 minute or 5 seconds(PAR) / 
+15 seconds(ASR) on final approach, squawk Mode A/3 Code 7600 and;
+I 1) Contact Nyuta Tower.
+2) If unable,proceed in accordance with visual flight rules.
+3) If unable,proceed to ZARON at the last assigned altitude or 5,000ft whichever is higher and execute instrument 
+approach.
+II Procedures other than above will be issued when situation required.
+(EFF:28 DEC 2023) 30/11/23
+
+
+=== Page 11 ===
+AIP Japan
+NYUTABARU
+Civil Aviation Bureau,Japan
+RJFN AD2-11
+RJFN AD 2.23 ADDITIONAL INFORMATION
+RJFN AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Standard Departure Chart - Instrument (NIPPO)
+Standard Departure Chart - Instrument (TENSO)
+Standard Departure Chart - Instrument (SAITO)
+Standard Departure Chart - Instrument (TRANSITION)
+Standard Arrival Chart - Instrument (TENSO)
+Instrument Approach Chart (TACAN Z RWY28)
+Instrument Approach Chart (TACAN Y RWY28)
+Instrument Approach Chart (ILS Z or LOC Z RWY28)
+Instrument Approach Chart (ILS Y or LOC Y RWY28)
+Instrument Approach Chart (ILS X or LOC X RWY28)
+(EFF:28 DEC 2023) 30/11/23
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+SID
+NIPPO SEVEN DEPARTURE
+RWY10 : Climb RWY HDG to 700FT, turn left HDG 351°... 
+RWY28 : Climb RWY HDG to 700FT, turn left...
+...to intercept and proceed via NHT R036 to NIPPO. 
+ 
+Note RWY28 : 5.0% climb gradient required up to 4000FT.
+NIPPO
+D45.0 NHT
+036°
+036°
+HDG351°
+700
+309(50)
+28
+10
+RWY
+RWY28 :See TAKE OFF MINIMA
+304(45)700
+RJFN / NYUTABARU
+TACAN
+NYUTABARU
+1184     NHT
+CH-97X
+300FT
+ÛÝ1ÛÝ(
+CHANGE : PROC renamed(NIPPO SEVEN DEPARTURE). PROC course(NIPPO SEVEN DEPARTURE). YATOGI TWO DEPARTURE abolished.
+                  Restriction. Note, OBST added.
+(EFF:28 DEC 2023) 30/11/23
+RJFN AD2.24-SID-1
+NYUTABARU
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY10 : Climb RWY HDG to 700FT, turn left...
+RWY28 : Climb RWY HDG to 700FT, turn left...
+             ...to intercept and proceed via NHT R066, via NHT 35.0DME clockwise 
+             ARC via NHT R086 to TENSO.   
+             Cross NHT R076 at or above 13000FT.
+Note RWY28 : 5.0% climb gradient required up to 4000FT.
+TENSO FOUR DEPARTURE
+SIDRJFN / NYUTABARU
+TENSO
+D70.1 NHT
+700
+309(50)
+28
+10
+RWY
+RWY28 :See TAKE OFF MINIMA
+304(45)
+700
+086°
+066°
+R086
+R066
+NHT R076
+13000
+D35.0 NHT
+     ARC
+TACAN
+NYUTABARU
+1184     NHT
+CH-97X
+300FT
+ÛÝ1ÛÝ(
+CHANGE : PROC renamed. PROC course. Restriction. Note, OBST added.
+(EFF:28 DEC 2023) 30/11/23
+RJFN AD2.24-SID-2
+NYUTABARU
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+SID
+SAITO ONE DEPARTURE
+RWY10 : (Not established) 
+RWY28 : Climb RWY HDG to 700FT, turn right HDG 081°to intercept
+  and proceed via NHT R036 to NIPPO. 
+ 
+Note RWY28 : 5.0% climb gradient required up to 4000FT.
+                        OBST ALT 1871FT located at 6.3NM 334° FM end of
+                        RWY28.
+NIPPO
+D45.0 NHT
+036°
+036°
+HDG081°
+700
+309(50)
+28
+10
+RWY
+RWY28 :See TAKE OFF MINIMA
+304(45)
+RJFN / NYUTABARU
+TACAN
+NYUTABARU
+1184     NHT
+CH-97X
+300FT
+ÛÝ1ÛÝ(
+CHANGE : New PROC.
+(EFF:28 DEC 2023) 30/11/23
+RJFN AD2.24-SID-3
+NYUTABARU
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+ TRANSITION
+ASHIZURI TRANSITION
+From over NIPPO, via SUC R277 to SUC VORTAC.
+NOBEOKA TRANSITION
+MUSASHI TRANSITION
+From over NIPPO, via TFE R178 to TFE VOR/DME.
+From over NIPPO, turn right direct to NHT TACAN.
+ 
+ 
+ 
+MUSASHI TRANSITION
+NOBEOKA TRANSITION
+ASHIZURI TRANSITION
+NIPPO
+358°
+358°
+097° 097°
+TACAN
+NYUTABARU
+1184     NHT
+CH-97X
+300FT
+ÛÝ1ÛÝ(
+VOR/DME
+100 FT
+MUSASHI
+117.7   TFE
+CH-124X
+ÛÝ1ÛÝ(
+VORTAC
+SHIMIZU
+1500FT
+115.2     SUC
+CH-99X
+ÛÝ1ÛÝ(
+CHANGE : PROC course(NOBEOKA TRANSITION). Description of ASHIZURI TRANSITION, MUSASHI TRANSITION. ALT restriction.
+                   SOBO TRANSITION abolished.
+RJFN / NYUTABARU
+D45.9 TFE
+D56.2 SUC
+D45.0 NHT
+(EFF:28 DEC 2023) 30/11/23
+RJFN AD2.24-SID-4
+NYUTABARU
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RATS
+TENSO  ARRIVAL
+   From over TENSO, via NHT R086 to UBSOL. 
+Cross UBSOL at or above 10000FT.
+TENSOUBSOL
+R086
+D30.0 NHT D70.1 NHT
+10000
+266°
+TACAN
+NYUTABARU
+1184     NHT
+CH-97X
+300FT
+ÛÝ1ÛÝ(
+CHANGE : PROC course. UBSOL established. ALT restriction.
+RJFN / NYUTABARU
+(EFF:28 DEC 2023) 30/11/23
+RJFN AD2.24-STAR-1
+NYUTABARU
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180°
+360°
+090°
+090˚ 270˚
+360˚
+180˚
+57006800
+34006300
+MSA 25NM
+NHT
+  TACAN Z RWY28 
+KAGOSHIMA  APP
+121.4 - 362.3
+120.9 - 261.2
+NYUTABARU  TACAN
+CH-97X
+1184    NHT 236.8 - 126.2 - 120.1
+304.5 - 275.8G
+GCA  AVBL
+CALL
+KAGOSHIMA  APP
+NYUTA  TOWER
+ÛÝ1ÛÝ(
+4649
+3638
+4081
+5577
+5164
+3671
+3547
+5705
+4396
+4610
+5650
+10NM
+246˚
+066˚
+D1.5 NHT
+D26.0 NHT
+MHA 5000ZARON (IAF)
+D21.0 NHT
+MISSED APPROACH
+ZARON and hold at 5000FT.
+Contact KAGOSHIMA APP .
+VAR 7˚W (2023)
+D21.0 NHT ARC
+MAPt
+DME to NHT 0.6 1.5 7.0
+MAX 230KIAS
+PAKMU
+ (FAF)
+AKBOX
+ (IF)
+D12.0 NHTD7.0 NHT
+284˚ 284˚ 284˚
+066˚
+R099
+R104
+R066
+HDG 111˚
+HDG 284°
+1214
+ 
+MINIMA 
+CAT
+630 (395)
+690 (431)
+840 (581)
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 235 AD elev. 259
+A
+B
+C
+D
+710 (451)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+NM to THR 0 0.9 6.4
+PAKMU(FAF) : 1(
+NM to NHT
+ALT (3.0° APCH Path)
+23MAPt
+1688733 ɹ1051-
+4
+1370
+5
+2006
+6
+2325
+FAF
+Climb to 700FT on HDG 284°,
+ 
+turn right HDG 111° to intercept 
+and proceed via NHT R066 to
+Timing not authorized for defining the MAPt.
+NHT
+D21.0 NHT 
+     ARC
+MAPt
+PAKMU
+  (FAF)
+3000
+5000
+VDP
+AKBOX
+    (IF)
+NHT
+R104
+ZARON
+  (IAF)
+Û
+Û
+Û
+Û
+
+MDA
+ 700
+(465)
+1.7
+1.1
+12.0
+11.4
+CHANGE : PROC course. Missed APCH course. MINIMA. PAKMU,AKBOX established. NM to THR. ALT(3.0°APCH Path), DME to NHT added.
+                  Missed APCH climb gradient MNM added. VAR.
+RJFN / NYUTABARU
+(EFF:28 DEC 2023) 30/11/23
+RJFN AD2.24-IAC-1
+NYUTABARU
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180°
+360°
+090°
+090˚ 270˚
+360˚
+180˚
+57006800
+34006300
+MSA 25NM
+NHT
+  TACAN Y RWY28 
+KAGOSHIMA  APP
+121.4 - 362.3
+120.9 - 261.2
+NYUTABARU  TACAN
+CH-97X
+1184    NHT 236.8 - 126.2 - 120.1
+304.5 - 275.8G
+GCA  AVBL
+CALL
+KAGOSHIMA  APP
+NYUTA  TOWER
+ÛÝ1ÛÝ(
+4649
+3638
+4081
+5577
+5164
+3671
+3547
+5705
+4396
+4610
+5650
+10NM
+246˚
+066˚
+D1.5 NHT
+D26.0 NHT
+MHA 10000
+ZARON 
+D21.0 NHT
+MISSED APPROACH
+ZARON and hold at 5000FT.
+Contact KAGOSHIMA APP .
+VAR 7˚W (2023)
+MAPt
+DME to NHT 0.6 1.5 7.0
+MAX 230KIAS
+PAKMU
+ (FAF)
+AKBOX
+ (IF)
+D12.0 NHTD7.0 NHT
+284˚ 284˚ 284˚
+066˚
+R099
+R104
+R066
+HDG 111˚
+HDG 284°
+1214
+ 
+MINIMA 
+CAT
+630 (395)
+690 (431)
+840 (581)
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 235 AD elev. 259
+A
+B
+C
+D
+710 (451)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+NM to THR 0 0.9 6.4
+PAKMU(FAF) : 1(
+NM to NHT
+ALT (3.0° APCH Path)
+23MAPt
+1688733 ɹ1051-
+4
+1370
+5
+2006
+6
+2325
+FAF
+Climb to 700FT on HDG 284°,
+ 
+turn right HDG 111° to intercept 
+and proceed via NHT R066 to
+Timing not authorized for defining the MAPt.
+NHT
+D21.0 
+ NHT 
+ ARC
+MAPt
+PAKMU
+  (FAF)
+3000
+10000
+VDP
+AKBOX
+    (IF)
+NHT
+R104
+UBSOL
+  (IAF)
+Û
+Û
+Û
+Û
+
+MDA
+ 700
+(465)
+1.7
+1.1
+12.0
+11.4
+266˚
+266˚
+086˚
+D36.0 NHT
+UBSOL (IAF)
+D30.0 NHT
+MHA 5000
+MAX 230KIAS
+R086
+D21.0 NHT
+ARC
+270°
+NHT
+R086
+266°
+CHANGE : PROC course. Missed APCH course. MINIMA. UBSOL,PAKMU,AKBOX established. NM to THR. ALT(3.0°APCH Path), DME to NHT added.
+                  Missed APCH climb gradient MNM added. VAR.
+RJFN / NYUTABARU
+(EFF:28 DEC 2023) 30/11/23
+RJFN AD2.24-IAC-2
+NYUTABARU
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180
+°
+360°
+090° 289˚
+RJFN / NYUTABARU
+1200
+1300
+1400
+1600
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+435 (200) 660 (425)
+840 (581)
+700 (441)
+750
+1600
+2400
+3200
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 235 AD elev. 259
+A
+B
+C
+D
+090˚ 270˚
+360˚
+180˚
+57006800
+34006300
+MSA 25NM
+NHT
+VAR 7˚W (2021)
+ILS Z or LOC Z RWY28
+KAGOSHIMA  APP
+121.4 - 362.3
+120.9 - 261.2
+ILS - LOC
+111.3  INH 236.8 - 126.2 -120.1
+304.5 - 275.8G
+GCA  AVBL
+CALL
+KAGOSHIMA  APP
+NYUTA  TOWER
+ILS-GP   332.3
+EMERG SAFE ALT 100NM 7900
+4649
+3638
+4081
+5577
+5164
+3671
+3547
+5705
+4610
+4396
+5650
+20NM
+246˚
+066˚
+066˚
+D5.9 NHT
+D5.9 NHT 
+FAF
+NHT R109 
+D1.3NHT
+MAPt
+D1.3 NHT
+MAPt
+D8.0
+NHT
+D8.0
+NHT
+D28.0 NHT
+MHA 5000
+ZARON (IAF)
+D21.0 NHT
+ZARON (IAF)
+R066
+D21.0 NHTNHT
+D21.0 NHT ARC
+RDH54
+GP3.0˚
+MISSED APPROACH
+Climb to 700FT, turn right
+climb via NHT TACAN R066 to 
+ZARON to 5000FT and hold.
+Contact KAGOSHIMA APP .
+289˚
+066˚
+2000700
+6000
+5000
+TACAN
+NYUTABARU
+1184   NHT
+ÛÝ1ÛÝ(
+R066
+TACAN
+EQPT REQUIRED
+D21.0 NHT ARC
+FAF
+CH-97X
+NM to THR 0 0.7 5.3 7.4
+720 (461)
+CHANGE : VAR. PROC renamed. EQPT REQUIRED added. PROC course. MISSED APPROACH course. MSA.
+                  NM to THR added. MDA(H) for CIRCLING.
+(EFF:14 JUL 2022) 16/6/22
+RJFN AD2.24-IAC-3
+NYUTABARU
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180°
+360°
+090°
+RJFN / NYUTABARU
+1200
+1300
+1400
+1600
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+435 (200) 660 (425)
+840 (581)
+700 (441)
+750
+1600
+2400
+3200
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 235 AD elev. 259
+A
+B
+C
+D
+090˚ 270˚
+360˚
+180˚
+57006800
+34006300
+MSA 25NM
+NHT
+VAR 7˚W (2021)
+R091
+R066
+R094
+ 
+ILS - LOC
+111.3  INH
+GCA  AVBL
+CALL
+NYUTA  TOWER
+ILS-GP  332.3
+EMERG SAFE ALT 100NM 7900
+4649
+3638
+4081
+5577
+5164
+3671
+3547
+5705
+4610
+4396
+5650
+20NM
+246˚
+066˚
+066˚
+289˚
+D5.9 NHT
+D1.3 NHT
+MAPt D8.0
+NHT D15.0
+NHT
+D23.0 NHT D38.0 NHT
+HYUGA (IAF)
+D30.0 NHT
+D28.0 NHT
+MHA 5000
+MHA 9000
+ZARON
+D21.0 NHT
+271˚
+091˚
+D5.9 NHT 
+FAF
+R094
+D23.0 NHT
+D1.3 NHT
+MAPt
+D8.0
+NHT
+D15.0
+NHT
+HYUGA (IAF)
+R091
+D30.0 NHTNHT
+RDH54
+GP3.0˚
+MISSED APPROACH
+Climb to 700FT, turn right
+climb via NHT TACAN R066 to 
+ZARON to 5000FT and hold.
+Contact KAGOSHIMA APP .
+289˚
+066˚
+2000700
+7000
+10000
+FL150
+10000
+KAGOSHIMA  APP
+121.4 - 362.3
+120.9 - 261.2
+236.8 - 126.2 -120.1
+304.5 - 275.8G KAGOSHIMA  APP
+ILS Y or LOC Y RWY28
+TACAN
+EQPT REQUIRED
+FAF
+TACAN
+NYUTABARU
+1184   NHT
+ÛÝ1ÛÝ(
+CH-97X
+HDG260˚
+HDG260˚
+NM to THR 0 0.7 5.3 7.4 14.4
+720 (461)
+CHANGE : VAR. PROC renamed. EQPT REQUIRED added. PROC course. MISSED APPROACH course. MSA.
+                  NM to THR added. MDA(H) for CIRCLING.
+(EFF:14 JUL 2022) 16/6/22
+RJFN AD2.24-IAC-4
+NYUTABARU
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180°
+360°
+090°
+270°
+090˚ 270˚
+360˚
+180˚
+57006800
+34006300
+MSA 25NM
+NHT
+VAR 7˚W (2021)
+ILS X or LOC X RWY28
+ILS - LOC
+111.3  INH
+GCA  AVBL
+CALL
+NYUTA  TOWER
+ILS-GP   332.3
+EMERG SAFE ALT 100NM 7900
+4649
+3638
+4081
+5577
+5164
+3671
+3547
+5705
+4610
+4396
+5650
+20NM
+246˚
+066˚
+066°
+289˚
+D5.9 NHT
+D1.3 NHT
+D28.0 NHT
+MHA 5000
+D21.0 NHT
+ZARON
+D5.9 NHT 
+FAF
+D1.3 NHT
+MAPt
+NHT
+RDH54
+GP3.0˚
+MISSED APPROACH
+Climb to 700FT, turn right
+climb via NHT TACAN R066 to 
+ZARON to 5000FT and hold.
+Contact KAGOSHIMA APP .
+289˚
+066˚
+2000
+700
+RJFN / NYUTABARU
+1200
+1300
+1400
+1600
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+1600
+2400
+3200
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 235 AD elev. 259
+A
+B
+C
+D
+R066
+289˚
+435 (200) 660 (425)
+860 (601)
+700 (441)
+750
+KAGOSHIMA  APP
+121.4 - 362.3
+120.9 - 261.2
+236.8 - 126.2 -120.1
+304.5 - 275.8G KAGOSHIMA  APP
+TACAN
+EQPT REQUIRED
+FAF
+MAPt
+TACAN
+NYUTABARU
+1184   NHT
+ÛÝ1ÛÝ(
+CH-97X
+NM to THR 0 0.7 5.3
+720 (461)
+CHANGE : MDA(H) for circling.
+(EFF:7 SEP 2023) 7/9/23
+RJFN AD2.24-IAC-5
+NYUTABARU
+

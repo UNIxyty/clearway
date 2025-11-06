@@ -1,0 +1,1388 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIBF 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIBF AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIBF AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIBF - FOGGIA/Gino Lisa
+LIBF AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIBF AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+41°26'00''N 015°32'05''E
+2 Direzione e distanza dalla città 1.6 NM SSW di Foggia
+ Direction and distance from city 1.6 NM SSW of Foggia
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+267 FT / 28.5° C
+4 Ondulazione del geoide
+ Geoid undulation
+154.4 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+2° E (2007.11) / 5'E
+6 Autorità amministrativa aeroportuale ENAC - DT Puglia-Basilicata
+Aeroporto "Karol Wojtyla"
+Viale Enzo Ferrari, 1
+70128 Bari-Palese
+ Tel: +39 080 5361400  Fax: +39 080 5361417
+ E-mail: pugliabasilicata.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Aeroporti di Puglia S.p.A.
+Ufficio Operativo tel +39 0881 650539 fax +39 0881 650522 mobile +39 347
+0723303
+E-mail: supervisorifog@aeroportidipuglia.it
+ Aerodrome operator Aeroporti di Puglia S.p.A.
+Operative Office tel +39 0881 650539 fax +39 0881 650522 cell +39 347 0723303
+E-mail: supervisorifog@aeroportidipuglia.it
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Foggia
+Tel: +39 0881 650401, +39 0881 6504100;
+Fax: +39 0881 650408
+e-mail: ci-foggia@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note 1. Codice di riferimento ANNESSO 14 per infrastrutture di volo: 3C 
+vedi anche tabella 20.6 “Restrizioni locali ai voli”
+2. Per problematiche relative a Safety e Wild-Strike: fax +39 0805800229, e-mail
+safetyfog@aeroportidipuglia.it
+ Remarks 1. Ref code ANNEX 14 flight infrastructure: 3C
+see also item 20.6 “Local flight restrictions”
+2. For problems concerning Safety and Wild-Strike: fax +39 0805800229, e-mail
+safetyfog@aeroportidipuglia.it
+
+=== Page 2 ===
+AD 2 LIBF 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+LIBF AD 2.3 ORARIO DEI SERVIZI
+LIBF AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale H18
+ Aerodrome Administration  
+2 Dogana ed immigrazione 0400-2200 (0300-2100): O/R 48 HR PN all’esercente via mail:
+supervisorifog@aeroportidipuglia.it o telefono +39 3470723303
+ Customs and immigration 0400-2200 (0300-2100): O/R 48 HR PN to aerodrome operator by mail:
+supervisorifog@aeroportidipuglia.it or phone +39 3470723303
+3 Servizio sanitario Disponibile 7/7 in presenza dei voli schedulati
+ Health and sanitation Available 7/7 in conjuction with scheduled flights
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+   
+7 ATS 0730-1530 (0630-1630)
+   
+8 Rifornimento 0400-2200 (0300-2100). Altri orari su richiesta con 30 minuti di
+preavviso ad Aeroporti di Puglia via telefono: +39 347 0723303 o via mail
+supervisorifog@aeroportidipuglia.it
+ Fuelling 0400-2200 (0300-2100). Other HR O/R with 30 minutes PN to Aeroporti di Puglia by
+phone: +39 347 0723303 or by mail supervisorifog@aeroportidipuglia.it
+9 Handling 0400-2200 (0300-2100)
+ Handling  
+10 Servizi di sicurezza Disponibili dalle 0400 alle 2200 (0300-2100) controllo passeggeri e bagagli
+ Security Available 0400-2200 (0300-2100) passenger and luggage check
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+LIBF AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIBF AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci Carrelli - scale O/R
+ Cargo-handling facilities Trolleys - ladders O/R
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento JET A1: 68000 litri
+AVGAS 100LL: 9000 litri
+ Fuelling capacity JET A1: 68000 litres
+AVGAS 100LL: 9000 litres
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+Piccole riparazioni tramite Soc. Alidaunia tel +39 0881 617961
+ Repair facilities for visiting aircraft Minor repairs by Soc. Alidaunia tel +39 0881 617961
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIBF 1 - 3
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIBF AD 2.5 SERVIZI PER I PASSEGGERI
+LIBF AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città (km 2,500)
+ Hotels In town (km 2,500)
+2 Ristoranti Nelle vicinanze dell'aeroporto
+ Restaurants Nearby the aerodrome
+3 Trasporti Servizio urbano - taxi; Navetta Apt/FF.S e bus di collegamento tra gli aeroporti
+pugliesi (servizio regionale per passeggeri muniti di biglietto aereo)
+ Transportation Bus Service - taxi; Apt/FF.S shuttle and bus connecting aerodromes of Puglia
+(regional service for passengers with flight ticket)
+4 Servizio medico Assicurato dal servizio regionale 118 attivato da Aeroporti di Puglia S.p.A.
+ Medical facilities Assured by regional service 118 activated by Aeroporti di Puglia S.p.A.
+5 Banca e ufficio postale Bancomat; ufficio postale in città
+ Bank and Post office Cash dispenser; post office in town
+6 Ufficio turistico INFOPOINT Provincia di Foggia
+ Tourist office Provincia di Foggia INFOPOINT
+7 Note NIL
+ Remarks  
+LIBF AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIBF AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 5 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Il servizio antincendio è assicurato come segue: 
+0500-2200 (0400-2100)
+2. CAT 6 ICAO per gli aeromobili è accettata in conformità con
+ENAC
+ Remarks 1. Fire fighting service assured as follows:
+0500-2200 (0400-2100)
+2. CAT 6 ICAO aircraft is accepted in compliance with ENAC
+(Italian CAA)
+LIBF AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIBF AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Tappeto antifod, spazzatrice
+ Types of clearing equipment Fod boss sweeper, sweeper
+2 Priorità Pista, vie di rullaggio, apron
+ Clearance priorities Runway, taxiways, apron
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+
+=== Page 4 ===
+AD 2 LIBF 1 - 4
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+5 Note 1. De-icing pista
+Non applicabile
+2. Diffusione del Runway Condition Report in conformità con l’ICAO Global Reporting
+Format
+3. Piste invernali appositamente preparate
+Non applicabile
+4. Piano di rimozione neve
+Non applicabile
+5. L’aderenza della pista 15/33 è misurata una volta l’anno in condizioni di pista
+bagnata con skiddometro: coefficiente minimo di attrito G=0.50 a 65 km/h
+ Remarks 1. Runway de-icing
+Not applicable
+2. Runway Condition Report is disseminated according to ICAO Global Reporting
+Format
+3. Specially prepared winter runways
+Not applicable
+4. Snow removal plan
+Not applicable
+5. RWY 15/33 adherence is measured once a year in wet conditions with
+skiddometer: minimum friction coefficient is G=0.50 at 65 km/h
+LIBF AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIBF AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron - Stands 1-2 CONC PCN 120/R/B/W/T
+Apron - Stands 3-6 ASPH PCN 63/F/A/W/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+TWY A 18 M BITUMCONG PCN 53/F/B/X/T
+TWY B 18 M BITUMCONG PCN 41/F/A/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIBF AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIBF AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi carte AD e APDC in vigore
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See AD and APDC chart in force
+ 
+2 Illuminazione e segnaletica per RWY e TWY Segnali d'obbligo e RWY GUARD LIGHTS disponibili
+ RWY and TWY markings and lights Mandatory instruction signs, and RWY GUARD LIGHTS available
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIBF 1 - 5
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIBF AD 2.10 OSTACOLI AEROPORTUALI
+LIBF AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIBF AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIBF AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24HR
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO ROMA, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO ROMA, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato
+IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts
+IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+AFIU Foggia, Amendola APP
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO ROMA: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le  nubi con altezza della base al di sotto di 6100ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO ROMA: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 6100ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+
+=== Page 6 ===
+AD 2 LIBF 1 - 6
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+LIBF AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIBF AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+15 NIL 1735 x 47
+PCN 95/F/A/W/T
+ASPH
+41°26'28.74''N
+015°31'48.57''E
+41°25'37.20''N
+015°32'18.44''E
+154.5  FT
+259.5  FT / NIL
+33 NIL 1735 x 47
+PCN 95/F/A/W/T
+ASPH
+41°25'40.58''N
+015°32'16.48''E
+41°26'28.74''N
+015°31'48.57''E
+154.4  FT
+265.9  FT / 266.6 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+15
+Vedi AOC in vigore
+/ See AOC in force
+NIL 60 x 180 1855 x 280 90 x 90
+33
+Vedi AOC in vigore
+/ See AOC in force
+NIL 60 x 180 1855 x 280 240 x 150
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+15 NIL
+1) Per i decolli per pista 15 sono disponibili 150 m oltre il fine pista 33/ 150 m
+beyond RWY end 33 are available for take-off RWY 15
+2) RESA RWY 15 parzialmente pavimentata/ RESA RWY 15 partially paved
+33 NIL
+1) DTHR 114 m
+2) Per i decolli per pista 33 sono disponibili 96 m oltre il fine pista 15/ 96 m beyond RWY end
+15 are available for take-off RWY 33
+3) RESA RWY 33 parzialmente pavimentata/ RESA RWY 33 partially paved
+LIBF AD 2.13 DISTANZE DICHIARATE
+LIBF AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+15
+INT TAKE OFF - B
+START POINT RWY 15
+1735
+1498
+1885
+1795
+1558
+1945
+1735
+1498
+1885
+1735
+-
+-
+33
+START POINT RWY 33
+1735
+1831
+1795
+1891
+1735
+1831
+1621
+-
+NOTE Start Point e Intersection Take-off sono utilizzabili solo su richiesta del pilota all’AFIU
+REMARKS Start Point and Intersection Take-off are available only on pilot's request to AFIU
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIBF 1 - 7
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+
+=== Page 8 ===
+AD 2 LIBF 1 - 8
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+LIBF AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIBF AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+15 NIL NIL NIL G NIL 3° lato sinistro/
+left side
+15.0 NIL
+33 SALS 420 LIH G NIL 3° lato sinistro/
+left side
+12.0 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+15 NIL NIL NIL NIL 1135
+600
+60
+60
+W
+Y
+NIL
+NIL
+33 NIL NIL NIL NIL 114
+1021
+600
+60
+60
+60
+R
+W
+Y
+LIH
+LIH
+LIH
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+15 R NIL NIL AVBL NIL NIL
+33 R NIL NIL AVBL NIL NIL
+LIBF AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIBF AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 41°26'02''N   015°32'38''E
+Caratteristiche: Caratteristiche: rotante a luci bianco-verde alternate
+Orario: HN +/-30
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 41°26'02''N   015°32'38''E
+Characteristics: Characteristics: revolving white-green alternating lights
+Hours: HN +/-30
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 500m a SW dalla TWR. Illuminato.
+2) 450 m dopo THR 33, 350 m lato destro RCL. Illuminato
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 500 m SW from TWR. Lighted.
+2) 450 m after THR 33, 350 m right side RCL. Lighted.
+3 Illuminazione bordo e asse centrale TWY TWY A: bordo TWY sino al punto attesa, asse TWY dal punto attesa alla RWY
+TWY B: bordo TWY sino alla RWY
+ TWY edge and center line lighting TWY A: TWY edge up to holding position, center line lights from holding position to
+RWY
+TWY B: TWY edge to RWY
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIBF 1 - 9
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+4 Alimentatore secondario/Tempo di 
+intervento
+GEIA/ 15 secondi
+ Secondary power supply/Switch over time GEIA/ 15 seconds
+5 Note 1. Segnalazioni di emergenza: lampada ADB
+ Remarks 1. Emergency lights: ADB lamp
+LIBF AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIBF AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIBF AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIBF AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Foggia ATZ
+41°30'10"N 015°32'20"E;
+41°22'41"N 015°35'17"E
+then arc of circle in
+clockwise direction
+radius 4.0 NM centred on
+41°26'10"N 015°32'40"E
+till point of origin.
+2000 FT
+AMSL
+G
+Foggia
+Aerodrome INFO
+EN/IT
+7000 FT
+1) WI Amendola CTR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+  (RMZ)
+LIBF AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIBF AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 0730-1530 (0630-1630)
+NIL
+
+=== Page 10 ===
+AD 2 LIBF 1 - 10
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+APP Amendola APP 118.855
+MON-FRI 0700-1800
+(0600-1700)
+1) HR:
+L'orario di servizio di Amendola APP/
+Radar può essere esteso per ragioni
+operative. Quindi, al di fuori dell'orario
+operativo pubblicato di Amendola
+APP/Radar, il CTR di Amendola
+deve essere attraversato solo previo
+coordinamento con Roma ACC/FIC/
+SCCAM, che informerà  anche il
+traffico che intende attraversare il
+sopracitato spazio aereo circa l'effettiva
+fornitura del servizio di controllo
+di avvicinamento/Amendola APP/Radar
+hours of service may be extended
+for operational reasons. Therefore,
+outside published Amendola APP/Radar
+operational hours, Amendola CTR must
+be crossed only previous coordination
+with Roma ACC/FIC/SCCAM, which will
+also inform traffic intending to cross
+the above mentioned airspace about
+the actual provision of approach control
+service
+2) SAT, HOL e/and JUN 24  non
+disponibile/ not available
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIBF 1 - 11
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+APP Amendola Radar 118.855
+MON-FRI 0700-1800
+(0600-1700)
+1) HR:
+L'orario di servizio di Amendola
+APP/Radar può essere esteso per
+ragioni operative. Quindi, al di
+fuori dell'orario operativo pubblicato
+di Amendola APP/Radar, il CTR di
+Amendola deve essere attraversato
+solo previo coordinamento con Roma
+ACC/FIC/SCCAM, che informerà anche
+il traffico che intende attraversare il
+sopracitato spazio aereo circa l'effettiva
+fornitura del servizio di controllo
+di avvicinamento/Amendola APP/Radar
+hours of service may be extended
+for operational reasons. Therefore,
+outside published Amendola APP/Radar
+operational hours, Amendola CTR must
+be crossed only previous coordination
+with Roma ACC/FIC/SCCAM, which will
+also inform traffic intending to cross
+the above mentioned airspace about
+the actual provision of approach control
+service
+2) SAT, HOL e/and JUN 24 non
+disponibile/not available
+3) TUE-FRI 0700-0900 (0600-0800)
+Il servizio di avvicinamento è fornito
+senza l’utilizzo del radar solo in
+condizioni VMC. Il servizio radar è
+disponibile in fase tattica e a discrezione
+ATC /Approach control service provided
+without radar if VMC only. Radar
+available on tactical basis and at ATC
+discretion
+AFIS Foggia Aerodrome INFO 120.100 0730-1530 (0630-1630) NIL
+
+=== Page 12 ===
+AD 2 LIBF 1 - 12
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+LIBF AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIBF AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Foggia
+Gonio
+Homer
+NIL
+0700-1900
+(0600-1800)
+41°25'41.2''N
+015°32'05.2''E
+NIL
+limitazioni a/limitations at 30
+NM
+060°/150° MRA 2000 FT
+150°/060° MRA 5000 FT
+1) Disponibile su
+richiesta sulla frequenza
+di emergenza /
+Available on request
+on emergency frequency
+121.500 MHz e sulla
+frequenza AFIS/ and on
+AFIS frequency 120.100
+MHz
+VOR/DME
+(4° E-2020.0)
+BAR
+116.40
+MHZ
+CH 111X
+VOR H24
+DME H24
+VOR
+41°08'39.3''N
+016°46'35.2''E
+DME
+41°08'39.3''N
+016°46'35.7''E
+37 M
+AMSL
+80 NM/25000 FT
+limitazioni a/limitations at 40
+NM
+120°/300° MRA 7000 FT
+300°/120° MRA 4000 FT
+1) MAINT:
+primo/first THU di
+ogni mese/each month:
+0900-1100 (0800-1000)
+VOR/DME
+(2° E-2005.0)
+FGG
+115.80
+MHZ
+CH 105X
+VOR H24
+DME H24
+VOR
+41°25'46.1''N
+015°31'52.9''E
+DME
+41°25'46.4''N
+015°31'52.5''E
+93 M
+AMSL
+40 NM/25000 FT
+limitazioni a/limitations at 25
+NM MRA 5000 FT
+1) MAINT:
+primo/first TUE di
+ogni mese/each month
+0900-1100 (0800-1000)
+LIBF AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIBF AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+2.1 Ordinato movimento degli aeromobili sui piazzali 2.1 Orderly movement of aircraft on aprons
+L' ordinato movimento degli aeromobili sul piazzale è assicurato in
+collaborazione tra ENAV S.p.a e l'esercente in accordo alle disposizioni
+del Codice della Navigazione ( Art. 691 Bis e 705) con le seguenti
+modalità:
+Orderly movement of aircraft on aprons is carried out in cooperation
+between ENAV S.p.a and Aerodrome Operator Aeroporti di Puglia
+according to the Italian Air navigation dispositions ( Art. 691 Bis and
+705) with following instructions:
+2.1.1 Orario di servizio 2.1.1 Operational hours
+0600-2200 (0500-2100) 0600-2200 (0500-2100)
+2.1.2 Nominativo di chiamata e frequenza 2.1.2 Call sign and frequency
+Foggia Informazioni: 120.100 MHz Foggia Information: 120.100 MHz
+2.1.3 Area di applicazione 2.1.3 Application Area
+Stand 1,2,3,4,5,6
+(See AIP AD2 LIBF APDC)
+Stand 1,2,3,4,5,6
+(See AIP AD2 LIBF APDC)
+2.1.4 Servizi forniti 2.1.4 Services provided
+a. Aeromobile in partenza
+istruzione per il push back e/o rullaggio
+a. Departing aircraft
+push back and/or taxi instructions
+b. Aeromobile in arrivo: b. Arriving aircraft:
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIBF 1 - 13
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+• istruzioni per il rullaggio
+• assegnazioni parcheggio
+• taxi instructions
+• stand allocations
+c. Servizio di Follow me
+Servizio fornito su richiesta dei piloti o dell' ATS
+d. Marshalling
+Il servizio di marshalling è obbligatorio per tutti gli aeromobili in
+arrivo e partenza
+c. Follow me service
+Service provided on Pilot or ATS request
+d. Marshalling
+Marshallin service is mandatory for all arriving and departing aircraft
+2.1.5 Limitazione/regolamentazione sui piazzali 2.1.5 Limitations/regulations on aprons
+Aeromobili in partenza:
+• dovranno ricevere il segnale "All Clear" dallo staff di terra prima di
+richiedere a Foggia AFIU l'autorizzazione allo start-up
+Departing aircraft
+• shall receive the signal "All Clear" from ground staff before
+requesting to Foggia AFIU the authorization to start- up
+• riceveranno lo start-up solo dopo la comunicazione "AICRAFT
+READY" da parte del gestore aeroportuale all'ATS
+• start-up will be provided only after "AIRCRAFT READY"
+communication by aerodrome operator to ATS
+NOTE
+La condizione di "Aircraft Ready" significa
+(1) Operazioni di handling completate e confermate
+dall'agente di rampa
+(2) Porte e stive chiuse
+(3) Scale retratte e o rimosse
+(4) Trattore push-back agganciato (piazzole nose -in)
+REMARKS
+The condition of "Aircraft Ready" means
+(1) Handling operations completed and confirmed by Ramp
+agent
+(2) Aircraft's holds and doors closed
+(3) Stairs retracted or removed
+(4) Push back tractor hitched to the aircraft (nose-in stand)
+(5) Aircraft Safety Area libera da persone, mezzi ed ostacoli (5) Aircraft Safety Area clear from persons, vehicles and
+obstacles
+2.1.6 Movimentazioni degli aeromobili sul piazzale 2.1.6 Aircraft movements on apron
+Self manouvering: l'ingresso e l'uscita verso/da gli stands avviene
+direttamente dall' Apron taxiway E
+Self manouvering: Entry to and exit from stand through apron taxiway
+E
+2.1.7 Piazzali a regolamentazione speciale 2.1.7 Aprons subject to special regulation
+La "fuel area" è utilizzabile per gli aeromobili che necessitano di
+rifornimento carburante AVGAS 100LL obbligatoriamente come segue:
+“Fuel area” usable for ACFT needing fuel type AVGAS 100LL necessarily
+as follows:
+a. solo in rullaggio o a traino
+b. un solo movimento alla volta
+c. servizio di marshalling obbligatorio per gli aeromobili in rullaggio
+a. only taxiing or in tow
+b. only one movement at a time
+c. marshalling service compulsory for taxiing ACFT
+d. velivoli di massima apertura alare 15 m
+e. elicotteri di ‘fuori tutto’ massimo 13 m
+f.elicotteri entrata/uscita via TWY C
+Vedi APDC e note in vigore
+d. aircraft with max wing span 15 m
+e. helicopters with max outer dimensions 13 m
+f.helicopters entry/exit via TWY C
+See APDC and remarks in force
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+TWY A utilizzabile in entrata e uscita da aeromobili di dimensioni uguali
+o inferiori al codice ICAO C (max apertura alare 36 m).
+TWY A available to entry and exit for aircraft up to ICAO code C (max
+wingspan 36 m).
+TWY B utilizzabile in entrata e uscita da aeromobili di dimensioni uguali
+o inferiori al codice ICAO C (max apertura alare 36 m).
+TWY B available to entry and exit for aircraft up to ICAO code C (max
+wingspan 36 m).
+APRON TWY E utilizzabile in entrata e uscita da aeromobili di
+dimensioni uguali o inferiori al codice ICAO C (max apertura alare 36
+m).
+APRON TWY E available to entry and exit for aircraft up to ICAO code
+C (max wingspan 36 m).
+4 Procedure applicabili agli aeromobili in condizioni visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+Le procedure si applicano quando il valore generale di visibilità è uguale
+o inferiore a 1500m.
+These procedures are applied when general visibility value is equal or
+less than 1500m.
+4.1 Criteri per l'attivazione delle LVP 4.1 Criteria for initiation of LVP
+Le LVP non sono disponibili. LVP procedures are not available
+4.2 Utilizzo delle piste 4.2 Runway operations
+NIL NIL
+4.3 Minime operative di aeroporto 4.3 Aerodrome operating minima
+• avvicinamenti ed atterraggi non consentiti con valori di visibilità
+inferiori a 1500m
+• Approach and landing operations are not allowed With RVR values
+less than 1500m
+• Take off operations are not allowed with RVR values less
+
+=== Page 14 ===
+AD 2 LIBF 1 - 14
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+• decolli non consentiti con valori di visibilità inferiori ad 800m than 800m
+4.4 Attività di addestramento 4.4 Training actvities
+Non consentite durante le AWO Training activities are not allowed during AWO
+4.5 Movimentazione al suolo 4.5 Ground movement
+Durante le AWO è consentito il movimento di un aeromobile per volta
+sull'area di movimento.
+During AWO in Movement Area only one aircraft operation at a time
+is allowed
+Obblighi di riporto
+In condizioni di visibilità ridotta tutti i piloti devono riportare a Foggia
+AFIU:
+Aeromobili in partenza
+• di aver raggiunto le RHP, qualora non diversamente istruiti dall'AFIU
+• di essere decollati
+Aeromobili in arrivo
+• la pista libera non appena liberata
+• di aver raggiunto lo stand assegnato
+Mandatory report
+In condition of reduced visibility all pilots must report to Foggia AFIU:
+Departing Aircraft
+• to have reached the RHP, if not otherwise instructed by AFIU
+• to have taken off
+Arriving aircraft
+• runway vacated as soon as the aircraft is out of the runway
+• to have reached the assigned stand
+4.6 Contingency 4.6 Contingency
+NIL NIL
+4.7 Avaria radio in area di manovra 4.7 Radio failure on the maoneuvring area
+Vedi table 20.8 See table 20.8
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Atterraggio consentito solo ad aeromobili con apertura alare fino
+a 36 m esclusi e con larghezza del carrello principale fino a 9 m esclusi
+(codice 3C ICAO, Annesso 14)
+6.1. Landing allowed only to aircraft with wingspan up to but not
+including 36 m and outer main gear wheel span up to but not including
+9 m (code 3C ICAO, Annex 14)
+6.2. AD aperto al traffico commerciale e turistico sia nazionale che
+internazionale e ai charter autorizzati
+6.2. AD open to tourist and commercial traffic, both international and
+domestic and to authorized charter flights
+6.3. Le operazioni di take-off non sono consentite con visibilità inferiore
+ad 800 m a causa dell’alimentatore secondario non disponibile
+6.3. Take-off operations not allowed with visibility less than 800 m due
+to secondary power supply not available
+NOTA
+il traffico civile VFR dovrà attenersi alle procedure per i voli VFR
+contenute nella successiva Tabella 22 punto 4
+REMARK
+VFR civil traffic shall follow the procedures for VFR flights
+reported in the following Table 22 point 4
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+Fly Services:
+orario di servizio 0730-1530 (0630-1630), Cell +39 3495706016
+WEB: www.flyservice.eu
+email: fogfbo@flyservice.eu
+Fly Services:
+orario di servizio 0730-1530 (0630-1630), Cell +39 3495706016
+WEB: www.flyservice.eu
+email: fogfbo@flyservice.eu
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+Ogni qualvolta un aeromobile che operi sull’area di manovra si trovi in
+una situazione di avaria radio dovrà comportarsi come segue:
+Whenever an aircraft moving in Manouvering Area has a radio failure,
+it must behave as follows:
+aeromobile in partenza:
+continuerà sul raccordo concordato fino alla posizione attesa pista e
+attenderà l’arrivo del follow-me per rientrare al parcheggio
+departing aircraft
+the aircraft will proceed along the taxiway agreed up to RHP and will
+wait for the follow- me car to return back to the stand
+aeromobile in arrivo:
+libererà la pista e attenderà l’arrivo del follow-me per rientrare al
+parcheggio.
+arriving aircraft
+the aircraft will clear the runway and will wait the follow-me car to
+reach the stand
+LIBF AD 2.21 PROCEDURE ANTIRUMORE
+LIBF AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+Provvedimento ENAC 1/2007 del 16.01.2007
+Oltre a quanto riportato nella presente tabella si rimanda alla
+descrizione delle procedure di INITIAL CLIMB, SID, STAR e alla sezione
+ENR 1.5 per la normativa generale.
+Provision of Italian CAA n. 1/2007 dated 16.01.2007
+In addition to what hereafter is stated see also the description of
+INITIAL CLIMB, SID, STAR and procedures in ENR 1.5 for general
+provisions.
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIBF 1 - 15
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+Agli aeromobili in atterraggio è proibito l’uso della spinta inversa
+(reverse thrust) oltre i livelli minimi riportati nel manuale di volo,
+eccetto che per motivi operativi o di sicurezza.
+The use of reverse thrust over minimum levels, as reported in the
+flight manual, is forbidden to landing airplanes, except for safety or
+operational reasons.
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+L’A.P.U. dovrà essere acceso non prima di 60 minuti dall’orario
+schedulato di partenza dell’aeromobile e spento non oltre 20 minuti
+dall’arrivo. L’uso per un periodo più lungo deve essere autorizzato
+dall’autorità aeroportuale.
+No auxiliary power unit shall be turned on 60 minutes earlier than the
+estimated off-block time and turned off 20 minutes later than the on
+block time. A longer period for the auxiliary power unit use must be
+authorized by the airport authority.
+3.3 Prove Motori 3.3 Engine run ups
+a. Ogni prova motori dovrà essere effettuata sulla TWY B a distanza di
+sicurezza dalla pista di volo.
+Le attività devono essere coordinate e supervisionate dal Gestore
+previa autorizzazione della TWR.
+a. Engine run-ups shall be carried out on TWY B at a safe distance
+from the runway.
+The activities must be coordinated and supervised by Aerodrome
+Operator after TWR authorization.
+b. Fatto salvo quanto previsto nel precedente paragrafo a)  per gli
+elicotteri Alidaunia, è tassativamente vietato effettuare prove motori
+sul piazzale di sosta aeromobili.
+c. Le prove motori sono altresì vietate dalle ore 2100 alle
+0500 (2000-0400), salvo per gli aeromobili che devono essere
+immediatamente impiegati.
+b. Except for Alidaunia helicopteristic activity reported in the above
+paragraph a), engine run-ups are strictly forbidden on the apron.
+c. Engine run-ups are forbidden from 2100 to 0500 (20000400),
+except for aircraft which must be immediately employed for
+intervening cause.
+d. Le prove motori devono essere effettuate in accordo con quanto
+previsto sui manuali tecnici e per il più breve tempo possibile.
+L’orientamento dell’aeromobile deve essere tale da ridurre la
+generazione di rumore verso le zone abitate e l’utenza aeroportuale.
+d. Engine run-ups must be carried out according to technical manuals
+and last as short as possible. The aircraft shall be placed in order to
+minimize noise towards built-up areas and airport users.
+e. L’accesso all’area designata sarà vietato al personale sprovvisto
+di indumenti protettivi (cuffie antirumore, dispositivi di protezione
+individuale).
+f.Prima della prova motori, gli operatori dovranno controllare che
+l’area sia libera da oggetti estranei che possano invadere l’area di
+manovra e causare anche danno alle persone.
+e. The access to the area defined is forbidden to staff without suitable
+cloths and equipment for protective use (noise abatement headset,
+workers’ protection devices).
+f.Before the engine run-ups, operators shall check that the area is
+free of foreign objects, which could invade the manoeuvring area
+and also cause damage to people.
+4 Attività addestrativa 4 Training activity
+L’eventuale attività addestrativa può essere svolta entro l’orario di
+apertura dell’aeroporto.
+Any training activity shall be carried within aerodrome opening hours.
+LIBF AD 2.22 PROCEDURE DI VOLO
+LIBF AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+Circuito di traffico ad Ovest della pista Traffic circuit West of RWY
+2 PROCEDURE PER I VOLIIFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: vedi tabella 24 STAR description: see table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+
+=== Page 16 ===
+AD 2 LIBF 1 - 16
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Vedere tabella 24 See table 24
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+In caso di radioavaria la radioassistenza designata su cui iniziare la
+discesa per l’atterraggio è FGG VOR
+In the event of radio failure, the radio aid designated to descend for
+landing is FGG VOR
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Descrizione delle SID: vedere tabella 24 SID description: see table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+Vedere ENR 6.3-11 Carte d’Area VFR See ENR 6.3-11 VFR Area Charts
+4.1.1.  VRP per volare da/per l’aeroporto di Foggia/Gino Lisa:
+a. N:
+▪ FOCI DEL FORTORE (BAN1)
+▪ S. SEVERO (BAN2)
+▪ 2NM NORTH OF LUCERA (BAN3)
+▪ Punto d’attesa VFR: 2NM NORTH OF LUCERA (BAN3)
+▪ Segmento da FOCI DEL FORTORE (BAN1) a S. SEVERO (BAN2)
+non disponibile durante i periodi di attivazione della zona LI R304
+b. SW:
+• ARIANO IRPINO (BASW1)
+• ORSARA DI PUGLIA (BASW2)
+• TROIA (BASW3)
+• Punto d’attesa VFR: TROIA (BASW3)
+c. SE:
+• TRANI (BASE1)
+• 2NM SOUTH OF CANOSA (BASE2)
+4.1.1. VRPs to fly from/to Foggia/Gino Lisa aerodrome:
+a. N:
+• FOCI DEL FORTORE (BAN1)
+• S. SEVERO (BAN2)
+• 2NM NORTH OF LUCERA (BAN3)
+• VFR holding point: 2NM NORTH OF LUCERA (BAN3)
+• Segment from FOCI DEL FORTORE (BAN1) to S. SEVERO (BAN2)
+not available during activation periods of zone LI R304
+b. SW:
+• ARIANO IRPINO (BASW1)
+• ORSARA DI PUGLIA (BASW2)
+• TROIA (BASW3)
+• VFR holding point: TROIA (BASW3)
+c. SE:
+• TRANI (BASE1)
+• 2NM SOUTH OF CANOSA (BASE2)
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIBF 1 - 17
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+• STORNARA (BASE3)
+d.  S:
+• LAGO DI LAVELLO (BAS1)
+• STORNARA (BASE3)
+• Punto d’attesa VFR: STORNARA (BASE3)
+• STORNARA (BASE3)
+d. S:
+• LAGO DI LAVELLO (BAS1)
+• STORNARA (BASE3)
+• VFR holding point: STORNARA (BASE3)
+4.1.2. Il traffico VFR locale può operare solo ad Ovest dell’aeroporto
+di FOGGIA/Gino Lisa
+4.1.2. Local VFR traffic shall fly West of FOGGIA/Gino Lisa aerodrome
+only
+4.1.3. Per evitare interagenze con le procedure strumentali di FOGGIA/
+Gino Lisa i piloti debbono:
+a. Se in arrivo, stabilire e mantenere contatto radio con Amendola APP,
+prima di entrare nel CTR. In funzione delle informazioni di traffico
+ricevute, evitare di interessare le zone di avvicinamento e partenza
+strumentale di Foggia, effettuando attese VFR sui punti previsti
+lungo la rotta seguita. Se non diversamente istruiti, il contatto radio
+con l’AFIU di Foggia deve essere stabilito lasciando i punti d’attesa
+VFR e, comunque, prima di entrare nell’ATZ di Foggia
+b. Se in uscita, lasciando l’ATZ di Foggia, stabilire e mantenere contatto
+radio con Amendola APP fino a lasciare il CTR di Amendola
+4.1.3. To avoid interaction with FOGGIA/Gino Lisa instrument
+procedures, pilot shall:
+a. If inbound, establish and maintain radio contact with Amendola APP
+before entering CTR boundaries. Depending on traffic information
+received, avoid Foggia instrument approach and departure zones
+by holding over VFR holding points established along the followed
+route. Unless otherwise instructed, radio contact with Foggia AFIU
+shall be established leaving the VFR holding points and, in any case,
+before entering Foggia ATZ
+b. If outbound, leaving Foggia ATZ contact Amendola APP and maintain
+radio contact until leaving Amendola CTR
+NOTA
+Le succitate norme non esentano i piloti in VFR dall’obbligo di
+provvedere alla propria separazione da altro traffico aereo
+REMARK
+The above rules do not exempt pilots in VFR from the duty to provide
+their own separation from other traffic
+4.2 Attività di circuito 4.2 Circuit activity
+Vedere Tabella 22.1 See Table 22.1
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+VFR notturno consentito come segue: Night VFR allowed as follows:
+4.7.1. Atterraggio consentito solo su RWY 33 4.7.1. Landing allowed only on RWY 33
+4.7.2. Circuito di traffico: a ovest della RWY 2) 4.7.2. Traffic circuit: west of RWY
+Punti di ingresso: STORNARA (BASE3), TROIA (BASW3), 2 NM NORTH
+OF LUCERA (BAN3)
+Entry points: STORNARA (BASE3), TROIA (BASW3), 2 NM NORTH OF
+LUCERA (BAN3)
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+5 LVP 5 LVP
+NIL NIL
+LIBF AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIBF AD 2.23 ADDITIONAL INFORMATION
+1. L’aeroporto di Foggia/Gino Lisa è sprovvisto di apposita area TLOF
+per gli elicotteri civili. Le operazioni di decollo e atterraggio avverranno
+esclusivamente sulla RWY 15/33
+1. Foggia/Gino Lisa aerodrome is not provided with specific TLOF for
+civil helicopters. Take-off and landing operations will take place only
+on RWY 15/33
+LIBF AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIBF AD 2.24 CHARTS RELATED TO THE AERODROME
+
+=== Page 18 ===
+AD 2 LIBF 1 - 18
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIBF 2 - 1
+AERODROME PARKING DOCKING CHART ICAO  AD 2 LIBF 2 - 3
+AERODROME PARKING DOCKING CHART ICAO DESCRIPTION
+TABLES
+ AD 2 LIBF 2 - 5
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 15/33  AD 2 LIBF 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIBF 3 - 3
+STAR RWY 15/33  AD 2 LIBF 4 - 1
+STAR RWY 15/33 DESCRIPTION TABLES  AD 2 LIBF 4 - 3
+ICAO VISUAL APPROACH CHART  AD 2 LIBF 5 - 1
+ICAO INSTRUMENT APPROACH CHART VOR RWY 33  AD 2 LIBF 5 - 3
+SID VOR RWY 15  AD 2 LIBF 6 - 1
+SID VOR RWY 15 DESCRIPTION TABLES  AD 2 LIBF 6 - 3
+SID VOR RWY 33  AD 2 LIBF 6 - 5
+SID VOR RWY 33 DESCRIPTION TABLES  AD 2 LIBF 6 - 7
+Carte - Charts Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIBF AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIBF AD 2.25 Visual segment surface (VSS) penetration

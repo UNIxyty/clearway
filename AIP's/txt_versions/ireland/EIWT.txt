@@ -1,0 +1,622 @@
+=== Page 1 ===
+EIWT AD 2 - 1AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+EIWT – WESTON
+EIWT AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+EIWT AD 2.3 OPERATIONAL HOURS
+1 ARP and its site 532108N 0062918W
+Midpoint RWY 07/25
+2 Direction and distance from (city) 8 NM W of Dublin
+3 AD Elevation, Reference Temperature & Mean 
+Low Temperature
+156 ft /22.3°C (Max Temp) 1.3°C (MNM Temp)
+4 Geoid undulation at AD ELEV PSN 185 ft
+5 MAG VAR/Annual change 2° W (2024) 11’ decreasing
+6 AD Operator, address, telephone, telefax, 
+email, AFS, Website
+Post: Weston Aviation Academy Ltd,
+Weston Airport,
+Lucan,
+Co. Dublin.
+W23XHF8
+Ireland.
+Phone: Weston ADMIN Office + 353 1 621 73 00
+AFS: EIWTZTZX
+Email: info@westonairport.com
+URL: http://www.westonairport.com
+7 Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Remarks Nil
+1 AD Operator Winter 0830-1700 UTC
+Summer 0700-1900 UTC
+Variations promulgated by NOTAM, please check. 
+2 Customs and immigration 24 HR PN required to AD Operator
+3 Health and sanitation As per AD Operator
+4 AIS Briefing Office See Remarks
+5 ATS Reporting Office (ARO) 20 minutes prior to AD Opening
+6 MET Briefing Office See Remarks
+7 ATS 20 minutes prior to AD Opening
+8 Fuelling As per AD hours
+9 Handling Yes
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 2 ===
+EIWT AD 2 - 2 AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.4 HANDLING SERVICES AND FACILITIES
+EIWT AD 2.5 PASSENGER FACILITIES
+EIWT AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+10 Security Yes
+11 De-icing Nil
+12 Remarks PIB AVBL from AIS, Shannon see GEN 3.1.5.
+MET briefing AVBL from Central Aviation Office, Shannon 
+Airport see GEN 3.5.4.
+1 Cargo handling facilities: Yes. Contact AD Operator EIWT AD 2.2
+2 Fuel/oil types Jet A1; Avgas 100LL
+3 Fuelling facilities/capacity 1 Jet A1 Truck – 9000L;
+1 Jet A1 Storage Tank - 150,000L;
+1 Avgas Truck – 9,000L;
+2 Avgas Storage Tanks - 50,000L
+4 De-icing facilities Nil
+5 Hangar space available for visiting aircraft Yes. Contact AD Operator EIWT AD 2.2
+6 Repair facilities for visiting aircraft Yes. Contact AD Operator EIWT AD 2.2
+7 Remarks Handling services AVBL within AD ADMIN Hours of service by 
+arrangement with the AD
+1 Hotel(s) at or in the vicinity of AD Local Bookings Available visit the following link for details
+URL: http://www.westonairport.com
+2 Restaurant(s) at or in the vicinity of AD AVBL at AD and locally
+3 Transportation possibilities Taxis and Chauffeur services from the AD by phone/fax/email 
+request.
+4 Medical facilities First Aid at AD. Hospital within 7 miles.
+5 Bank and Post Office at or in the vicinity of AD AVBL in Lucan, Celbridge & Leixlip. 
+6 Tourist Office AVBL in Lucan and Dublin
+7 Remarks Business and Corporate Pilot Lounges available
+1 AD category for fire fighting CAT 3, CAT 4 AVBL (24HR PPR)
+2 Rescue equipment Appropriate to CAT 4
+2 - 6x6 Cobra with support equipment 
+3 Capability for removal of disabled aircraft Capability for CAT 2 ACFT
+4 Remarks Nil
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 3 ===
+EIWT AD 2 - 3AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING AND 
+SNOW PLAN
+1 Type(s) of clearing equipment Tractor driven plough
+2 Clearance priorities RWY 07/25, Taxiways and Apron
+3 Use of material for movement area surface 
+treatment
+Not Applicable
+4 Specially prepared winter runways Not Applicable
+5 Remarks EIWT - RFFS are responsible for the assessment and 
+reporting of Runway Surface Conditions. Following 
+assessment the information is passed to ATS who are 
+responsible for the dissemination of the relevant information to 
+AIS (via SNOWTAM) and Operators as appropriate. 
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 4 ===
+EIWT AD 2 - 4 AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATION DATA
+1 Apron surface and strength Surface: Bitumen/Macadam / Strength: PCN 45/F/A/W/T
+2 Taxiway width, surface and strength TWY WIDTH SURFACE STRENGTH
+A 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+B 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+C1 30 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+C2 30 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+C3 30 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+C4 30 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+D 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+E 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+F 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+G 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+H 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+J 16 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+K 7 M Bitumen/
+Macadam
+PCN 45/F/A/W/T
+3 Altimeter checkpoint location and elevation Nil
+4 VOR checkpoint Nil
+5 INS checkpoint Nil
+6 Remarks Nil
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 5 ===
+EIWT AD 2 - 5AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND 
+MARKINGS
+EIWT AD 2.10 AERODROME OBSTACLES
+EIWT AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Use of aircraft stand ID signs, TWY guide lines 
+and visual docking/parking guidance system of 
+aircraft stands
+Nil (Parking positions by ATC)
+2 RWY/TWY markings and LGT RWY
+Marked: Designator, C/L, THR, Tranverse Stripe and side 
+stripe
+Lighted: Nil
+TWY
+Marked: RWY Holding Position, C/L
+Lighted: Nil
+3 Stop bars Nil
+4 Other RWY Protection measures Signage on taxiways (detailed runway entry signs)
+5 Remarks Nil
+In Area 2
+OBST ID/
+Designation 
+OBST Type OBST Position ELEV/HGT Markings/Type, 
+Colour
+Remarks
+abcde f
+https://www.westonairport.ie/airport-technical-information
+In Area 3
+OBST ID/
+Designation 
+OBST Type OBST Position ELEV/HGT Markings/Type, 
+Colour
+Remarks
+abcde f
+https://www.westonairport.ie/airport-technical-information
+1 Associated MET Office Central Aviation Office, Shannon Airport see GEN 3.5.4.
+2 Hours of service Winter 0830-1700 UTC
+Summer 0700-1900 UTC
+Variations promulgated by NOTAM, please check
+3 Office responsible for TAF preparation 
+Periods of validity 
+Interval of issuance.
+Weston TAF not AVBL.
+Dublin TAF AVBL see GEN 3.5
+4 Type of landing forecast
+Interval of issuance.
+Nil
+5 Briefing/consultation provided Personal
+6 Flight documentation
+Language(s) used
+Charts and Tabular
+English
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 6 ===
+EIWT AD 2 - 6 AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+EIWT AD 2.13 DECLARED DISTANCES
+7 Charts and other information available for 
+briefing or consultation
+From Central Aviation Office, Shannon Airport.
+
+6-hourly synoptic chart;
+
+6-hourly prognostic chart (surface); prognostic chart of 
+significant weather; prognostic chart of wind/temperature at 
+upper levels; prognostic chart of tropopause levels.
+8 Supplementary equipment available for 
+providing information
+Automatic Weather Station.
+9 ATS units provided with information EIWT TWR
+10 Additional information (limitation of service, 
+etc.)
+Refer to GEN 3.5.4.2 to request additional information
+Designations 
+RWY NR
+TRUE & 
+MAG BRG
+Dimensions 
+of RWY 
+(M)
+Strength (PCN) and 
+surface of RWY and 
+SWY
+THR coordinates
+RWY end coordinates
+THR Geoid undulation
+THR elevation and 
+highest elevation of 
+TDZ of precision APP 
+RWY
+1 2 3 4 5 6
+07 063°
+065°
+924 x 23 PCN45/F/A/W/T
+Bitumen/Macadam
+532101.48N 
+0062940.17W
+532115.03N
+0062855.66W
+185 ft
+155 ft
+25 243°
+245°
+924 x 23 PCN 45/F/A/W/T
+Bitumen/Macadam
+532115.03N
+0062855.66W
+532101.48N
+0062940.17W
+185 ft
+152 ft
+Slope of 
+RWY-SWY
+SWY 
+dimensions 
+(M)
+CWY 
+dimensions
+(M) 
+Strip 
+dimensions
+(M) 
+RWY End 
+Safety Area 
+dimensions
+(M)
+Location and 
+description 
+of Arresting 
+System
+OFZ Remarks
+7 8 9 10 11 12 13 14
+Refer to 
+Aerodrome 
+Obstacle 
+Chart - Type 
+A(AD 2.24-2)
+- - 1501 x 80 - - - -
+457 x 23 457 x 150 1501 x 80 - - - -
+RWY Designator TORA (M) TODA (M) ASDA (M) LDA (M) Remarks
+1 2 3 4 5 6
+07 924 924 924 924 Nil
+25 924 1381 1381 924 Nil
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 7 ===
+EIWT AD 2 - 7AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.14 APPROACH AND RUNWAY LIGHTING
+EIWT AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+EIWT AD 2.16 HELICOPTER LANDING AREA
+As per Chart EIWT AD 2.24-1
+EIWT AD 2.17 ATS AIRSPACE
+RWY
+Designator
+APCH LGT
+type
+LEN INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+PAPI
+TDZ
+Length
+RWY Centre 
+Line LGT 
+Length, 
+spacing, 
+colour, INTST
+RWY edge 
+LGT LEN, 
+spacing, 
+colour, 
+INTST
+RWY End 
+LGT 
+colour 
+WBAR
+SWY 
+LGT 
+LEN (M) 
+colour
+Remarks
+1 2 3 4 5 6 7 8 9 10
+07 Nil Nil Nil Nil Nil Nil Nil Nil Nil
+25 Nil Nil Nil Nil Nil Nil Nil Nil Nil
+1 ABN/IBN location, characteristics and hours of 
+operation
+Nil
+2 LDI location and LGT 
+Anemometer location and LGT
+Nil
+Anemometer adjacent and 50m West of TWY A 
+3 TWY edge and centre line lighting Nil
+4 Secondary power supply/switch-over time Nil
+5 Remarks Windsock - NW THR 25, S of THR 07
+1 Designation and lateral limits Weston Area of Responsibility.
+532403N 0063626W, 532324N 0062406W, arc 4.0NM radius 
+centre 532110N 0062938W, 532006N 0062312W, 532034N 
+0063056W, 532127N 0063758W, arc 5.0NM radius centre 
+532110N 0062938W.
+2 Vertical limits 2000 ft
+3 Airspace classification C
+4 ATS unit call sign Language(s) Weston Tower
+English.
+5 Transition altitude 5000 ft
+6 Hours of Applicability Winter 0830-1700 UTC
+Summer 0700-1900 UTC
+Variations promulgated by NOTAM, please check
+7 Remarks Nil
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 8 ===
+EIWT AD 2 - 8 AIP IRELAND
+AIRNAV IRELAND
+EIWT AD 2.18 ATS COMMUNICATION FACILITIES
+EIWT AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+EIWT AD 2.20 LOCAL TRAFFIC REGULATIONS
+Landing, take-off, manoeuvring on the Aerodrome outside published opening hours (see EIDW AD 2.3) is not 
+permitted unless such permission has been obtained in advance or in the event of an emergency.
+EIWT AD 2.21 NOISE ABATEMENT PROCEDURES
+Local restrictions are also available on Weston Airport website:
+URL: http://www.westonairport.com
+EIWT AD 2.22 FLIGHT PROCEDURES
+1. Arrival Procedures
+1.1 Standard VFR Arrival Procedures for fixed wing are:
+Runway 25/07 Route North of Maynooth towards Leixlip. Maintain 1500 ft. QNH. By the Industrial Complex turn right 
+towards the airfield and enter the AOR. Report overhead the airfield at 1500 ft. QNH. Join the circuit in use but 
+remaining at 1500 ft. QNH until position in the circuit has been established. Then descend to 1000 ft. QNH.
+Standard VFR Arrival Procedures for Helicopters are:
+Runway 25/07 Route north of Maynooth towards Leixlip. Maintain 1000ft QNH. By the Industrial Complex turn right 
+towards the airfield and position for right turn for landing north area when Runway 25 active or position for left turn 
+for landing north area when Runway 07 active. Runway 25/07 will be available for landings on request.
+Service 
+designation
+Call sign Channel SAT VOICE No. Logon 
+Address
+Hours of 
+Operation
+Remarks
+1 2 3 4 5 6 7
+TWR Weston Tower 122.400 MHz - - As per AD 
+Operator EIWT 
+AD 2.3
+Nil
+GND Weston Ground 119.425 MHz - -
+ATIS Weston 
+Information
+118.875 MHz - -
+Type of 
+Aid(MAG VAR) 
+Type of 
+Supported 
+OPS 
+(Declination)
+ID Frequency Hour of 
+Operation
+Position of 
+transmitting 
+antenna 
+coordinates
+Elevation of 
+DME 
+transmitting 
+Antenna
+Remarks
+1 2 3 4 5 6 7
+DVOR/DME
+2°W 2024
+WST 114.7MHz
+94X
+H24 532110.0N
+0062938.1W
+200ft Designated 
+Operational 
+Coverage 
+30NM. DME 
+Power Density 
+below 
+-89dBw/m° 
+between R308 
+to R312 at 
+15nm, 5000’.
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 9 ===
+EIWT AD 2 - 9AIP IRELAND
+AIRNAV IRELAND
+Note:
+i. Care must be taken not to penetrate the R15, R16 or the Dublin CTA/CTR. RTF contact with Baldonnel 
+should not be attempted while on the ground at Weston.
+ii. Aircraft must avoid over-flying the Technology Campus and the Industrial Complex.
+Weston VFR Route from the East
+Dublin Visual Approach Chart (EIDW AD 2.24-44) shows a Weston VFR Route along a DVOR/DME visual track to 
+Weston Airport from the East. This track follows the inbound course of the Radial 098 to Weston DVOR/DME (‘WST’ 
+114.7 CH94X). Aircraft utilising this track must at all times exercise due caution with regard to the following:
+a. The routing along the inbound course is strictly VFR and Visu al Flight Rules apply at all times;
+b. Pilots must maintain awareness of the proximity of Restricted  Areas EIR15 and EIR23 south of the VFR 
+route;
+c. ATS will be provided by Dublin ATC and transfer of communicat ions to Weston ATC will be at the discretion 
+of Dublin ATC;
+d. Routing crosses EIP11 vertical limits GND to 1000ft AMSL and in close proximity to EIP18 vertical limits 
+surface to 550 ft AMSL, pilots must exercise caution accordingly.
+Special VFR is available within Weston AOR in accordance with SERA.5010 and the provisions of S.I. No. 266 of 
+2019.
+1.2 IFR Arrival Procedures (Dublin CTA requires RNAV1 standard f or IFR Operations)
+Non-RNAV aircraft must request DATCC to radar vector to the start point of the approach.
+Non-RNAV equipped aircraft will be assigned a clearance based on conventional navigation aids and/or vectoring.
+1.2.1 Entry Points
+As all EIWT procedures operate within the EIDW (Dublin) CTA/CTR, consult EIDW charts in planning all arrivals and 
+departures at EIWT. Unless preflight co-ordination has been affected, entry to controlled airspace shall be made at 
+an approved entry point. The procedures described below are designed to integrate IFR arrivals to, or departures 
+from Weston into the Dublin CTA air traffic management strategy.
+1.2.2 Clearance to enter the Dublin CTA and CTR
+To enter the EIDW (Dublin) CTA/CTR, consult EIDW charts. Arriving IFR traffic for EIWT may be cleared to a RNAV 
+hold from which there is no Weston Instrument Approach Procedure (IAP). In this instance aircraft will be radar 
+vectored to intercept the appropriate IAP for EIWT.
+1.2.3 Initial Approach Procedures:
+  • With Radar Control:
+In order to expedite the flow of traffic, aircraft may receive radar vectors on to final approach.
+  • Without Radar Control:
+When arriving traffic cannot be sequenced by radar, aircraft will be cleared to join the appropriate IAF for EIWT from 
+the associated hold. This procedure is not available to non-RNAV equipped aircraft.
+1.2.4 Communications Failure procedures for arriving aircraft to  EIWT:
+Aircraft experiencing communications failure in the Dublin CTA/CTR shall set transponder code A7600 and comply 
+with standard ICAO procedures, supplemented by the following:
+  • Traffic radar vectored on the arrival route:
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 10 ===
+EIWT AD 2 - 10 AIP IRELAND
+AIRNAV IRELAND
+Aircraft being radar vectored on the arrival route should proceed in the most expeditious manner and complete the 
+IAP appropriate to EIWT and land at EIWT.
+  • Traffic radar vectored to final approach:
+Aircraft being radar vectored to final approach should join, in the most expeditious manner, and complete the IAP 
+appropriate to EIWT and land at EIWT.
+If unable to comply with the above, carry out the appropriate missed approach procedure for the EIWT IAP in use. 
+Upon completion, aircraft should follow the stated IAP to EIDW in accordance with the relevant EIDW IAP chart.
+1.2.5 Procedures for missed approach from EIWT IAP in the event of radio failure:
+All aircraft (including non-RNAV aircraft) should execute the missed approach procedure in accordance with the 
+relevant EIWT IAP chart. Upon completion, aircraft should follow the stated IAP to EIDW in accordance with the 
+relevant EIDW IAP chart.
+2. Departure Procedures
+2.1 SIDs (Standard Instrument Departures)
+RNAV Equipped Aircraft 
+SID for RWY07 has been developed in accordance with ICAO Doc 8168 (PANS OPS) and comply with 
+EUROCONTROL guidelines for the design of Terminal Procedures for Area Navigation. The supporting navigation 
+infrastructure is GNSS and INS/IRS as permitted by the Aircraft Flight Manual (AFM) and/ or approved by the 
+appropriate regulatory authority. Use of DME/DME is acceptable where navigation accuracy of +/- 1NM can be 
+maintained. Operators which have obtained operational and airworthiness approval from their Competent Authority 
+may operate the RNAV SID procedures in accordance with the conditions of approval. If the RNAV equipment fails, 
+or navigation accuracy of +/-1 NM cannot be maintained, inform ATC as soon as possible.
+2.2 RWY07- PESIT 1A SID07 is only  available when Dublin Airport (EIDW) is using Runway 10 L/R.
+If the aircraft cannot comply with the SID, then Weston ATS shall inform the Dublin Traffic Manager as to the nature 
+of the restriction the departure is operating under. The Dublin Traffic Manager will take this restriction into 
+consideration when issuing the new departure clearance.
+2.3 Standard Departure Routes for fixed wing and helicopters are :
+Visual Departure Route to West
+  • Runway 25: 
+Climb straight ahead to 650 ft. QNH. Turn right no later than reaching end of reservoir to follow M4 motorway 
+climbing to 1000 ft. QNH and exit controlled airspace. Remain South of Maynooth.
+  • Runway 07: 
+Climb straight ahead to 650ft. QNH and join the Weston circuit climbing to 1000ft. QNH downwind. At the 
+end of the downwind leg turn right no later than reaching end of reservoir to follow the M4 motorway. Remain 
+South of Maynooth.
+Note:
+i. Departing traffic wishing to penetrate the R15, R16, or the Dublin CTA/CTR should follow the Standard 
+Departure Route to Maynooth, and establish RTF by Maynooth for appropriate clearance.
+ii. Care must be taken not to penetrate the R15, R16 or the Dublin CTA/CTR. RTF contact with Baldonnel 
+should not be attempted while on the ground at Weston.
+iii. Aircraft must avoid over-flying the Technology Campus and the Industrial Complex.
+3. Rules and Procedures for Navigation within the Weston Area of  Responsibility
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 11 ===
+EIWT AD 2 - 11AIP IRELAND
+AIRNAV IRELAND
+Rules and procedures for navigation within the Weston Area of Responsibility of the Dublin CTR are available from 
+the manager, Weston aerodrome and compliance with these is mandatory. Some of the principal Rules and 
+Procedures are as follows:
+  • A flight plan is mandatory;
+  • A mode C transponder is mandatory;
+  • A maximum of three aircraft only may operate in the visual t raining circuit simultaneously;
+  • Adhere to the circuit in use as specified by ATS;
+  • Adhere to the circuit procedures as provided at 2 below;
+4. Circuit Procedures
+4.1 Caution: A left circuit off RWY 25 or right circuit off RWY 07 may result in an inadvertent penetration of EIR15. By 
+arrangement between Weston and the Military these circuits will only be available for use when clearance from the 
+Military ATS, Casement Aerodrome has been obtained by Weston ATS; this is subject to military activity. When 
+permission is granted by the Military ATS for use of the above RWY25/07 circuits it is based on the premise that 
+aircraft will remain North of the railway line at all times. At all other times at Weston, circuits to RWY 25 shall be right-
+hand and circuits to RWY 07 shall be left-hand.
+4.2 All altitudes are based on QNH.
+4.3 When RWY 25 left circuit is in use the standard circuit will  be:
+Runway 25 – Left Circuit
+  • After take-off climb straight ahead to 650ft QNH, no later t han the end of the reservoir begin a gentle RIGHT 
+turn climbing to 1000 ft QNH.
+  • Avoid any helicopter activity in the HELI Training area besi de the VOR, on your right.
+  • On reaching 1000 ft QNH turn LEFT onto the crosswind leg, an d continue the turn onto the downwind leg 
+making sure you are north of the railway line at all times.
+  • Turn left onto base leg when abeam the SPA Hotel remaining c lear of Lucan village.
+  • Establish finals no lower than 650 ft. QNH.
+4.4 When RWY 25 right circuit is in use the standard circuit wil l be:
+Runway 25 – Right Circuit
+  • After take-off climb straight ahead to 650ft QNH, no later t han the end of the reservoir begin a gentle RIGHT 
+turn climbing to 1000 ft QNH.
+  • Avoid any helicopter activity in the HELI Training area besi de the VOR, on your right.
+  • On reaching 1000 ft QNH turn right onto the downwind leg.
+  • Downwind to be flown South of Leixlip at 1000 ft. QNH
+  • Turn right onto base leg when abeam the SPA Hotel.
+  • Establish finals no lower than 650 ft. QNH
+4.5 When RWY 07 left circuit is in use the standard circuit will  be:
+Runway 07 – Left Circuit
+  • After take-off and established in a positive climb, upon pas sing the end of the runway (NO EARLIER), begin 
+03 OCT 2024
+AIRAC Amdt 009/24
+
+=== Page 12 ===
+EIWT AD 2 - 12 AIP IRELAND
+AIRNAV IRELAND
+a gentle LEFT turn (to clear the housing estate on the right), climbing to 1000 ft QNH.
+  • On reaching 1000 ft QNH, turn left onto downwind (Do not ove rfly Leixlip town)
+  • Downwind to be flown South of Leixlip at 1000 ft. QNH
+  • Turn left onto base leg before reaching end of reservoir avo iding over-flight of the Technology Campus.
+  • Establish finals no lower than 650 ft. QNH.
+4.6 When RWY 07 right circuit is in use the standard circuit wil l be:
+Runway 07 – Right Circuit
+  • After take-off and established in a positive climb, upon cro ssing the end of the runway (NO EARLIER), begin 
+a gentle LEFT turn (to clear the housing estate on the right), climbing to 1000ft QNH.
+  • Upon passing 650 ft QNH, turn RIGHT onto crosswind leg.
+  • Downwind to be flown to the North of Railway line at all tim es
+  • Turn right onto base leg before abeam the Technology Campus.
+  • Establish finals no lower than 650 ft. QNH
+EIWT AD 2.23 ADDITIONAL INFORMATION
+Weston is a busy VFR airfield located 8 NM from Dublin airport and 3 NM from Casement Military Airport. There 
+have been instances of inadvertent penetration of controlled and restricted airspace by aircraft operating to/from 
+Weston.
+An aircraft which is unsure of position when flying in proximity to Weston should take action to avoid inadvertent 
+penetration of controlled and restricted airspace. If during a flight, a pilot becomes aware that an aircraft has 
+inadvertently penetrated controlled or restricted airspace, then Dublin ATC or Baldonnel ATC, as appropriate, must 
+be contacted, without delay, and provided with relevant information.
+Every operator of aircraft using Weston aerodrome must ensure that aircraft are operated in a manner calculated to 
+cause the least disturbance practicable to areas surrounding the airport.
+Prior permission for use of Weston must be obtained. Filing of a flight plan does not constitute prior permission. A 
+Booking-in Form or Booking-out Form, as appropriate, is mandatory for use of Weston. These are available from the 
+Weston Operations Office
+URL: http://www.westonairport.ie
+EIWT AD 2.24 CHARTS RELATED TO AERODROME
+Name Page 
+Aerodrome Chart – ICAO EIWT AD 2.24-1
+Aerodrome Obstacle Chart RWY 07/25 - ICAO TYPE A EIWT AD 2.24-2
+RNAV Standard Departure Chart - Instrument (SID) RWY 07 - ICAO E IWT AD 2.24-3
+Instrument Approach Chart VOR B RWY 07/25 - ICAO EIWT AD 2.24-5
+Instrument Approach Chart VOR D RWY 07/25 - ICAO EIWT AD 2.24-7
+03 OCT 2024
+AIRAC Amdt 009/24

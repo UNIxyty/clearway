@@ -1,0 +1,978 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIQN 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIQN AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIQN AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIQN - RIETI
+LIQN AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIQN AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+42°25'36''N 012°51'00''E *
+2 Direzione e distanza dalla città 1.34 NM NW di Rieti
+ Direction and distance from city 1.34 NM NW of Rieti
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+1278 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+2° E (2008.1) / 5'E
+5 Autorità amministrativa aeroportuale ENAC - Direzione Territoriale Lazio
+Aeroporto "Leonardo Da Vinci"
+00054 Fiumicino (Roma)
+ Tel. +39 06 65953139
+ E-mail: laziofco.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale ENAC Servizi s.r.l. Tel: +39 06 44596205
+ Aerodrome operator  
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Rieti
+Tel: +39 0746 256900/05;
+ Fax +39 0746 256912
+e-mail: ci-rieti@enav.it
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. MON AD aperto solo agli operatori di base previa disponibilità del servizio
+antincendio
+ Remarks 1. MON AD open only to base operators previous availability of fire fighting service
+LIQN AD 2.3 ORARIO DEI SERVIZI
+LIQN AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale a) Orario invernale:
+Dall'ultima domenica di OCT al 31 DEC: 0800-1600
+Dal 01 JAN al giorno precedente l'ultima domenica di MAR: 0900-1700
+b)Orario estivo: 0800-1800
+ Aerodrome Administration a) Winter period:
+From last SUN of OCT until 31 DEC: 0800-1600
+From 01 JAN until the day before last SUN of MAR: 0900-1700
+b)Summer period: 0800-1800
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+
+=== Page 2 ===
+AD 2 LIQN 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+   
+7 ATS a) Orario invernale:
+Dall'ultima domenica di OCT al 31 DEC: 0800-1600
+Dal 01 JAN al giorno precedente l'ultima domenica di MAR: 0900-1700
+b)Orario estivo: 0800-1800
+  a) Winter period:
+From last SUN of OCT until 31 DEC: 0800-1600
+From 01 JAN until the day before last SUN of MAR: 0900-1700
+b)Summer period: 0800-1800
+8 Rifornimento NIL
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. MON AD aperto solo agli operatori di base previa disponibilità del servizio
+antincendio
+2. ARO CBO ROMA: vedi GEN 3.1
+ Remarks 1. MON AD open only to base operators previous availability of fire fighting service
+2. ARO CBO ROMA: see GEN 3.1
+LIQN AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIQN AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio NIL / 1080-1100 oil
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note 1. Oli non disponibili per Aeromobili Militari
+ Remarks 1. Oils not available for Military ACFT
+LIQN AD 2.5 SERVIZI PER I PASSEGGERI
+LIQN AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti In città
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIQN 1 - 3
+AIRAC effective date 11 JUL 2024
+ENAV - Roma (A07/24)
+ Restaurants In town
+3 Trasporti Taxi O/R
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Servizio medico non disponibile per Aeromobili Militari
+2. Bar (dispenser automatico)
+ Remarks 1. Medical facilities not available for Military ACFT
+2. Bar (automatic dispenser)
+LIQN AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIQN AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale NIL
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Presidio antincendio. Vedere note
+ Rescue equipment Fire fighting support. See notes
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Non disponibile per Aeromobili Militari
+2. Presidio antincendio assicurato in accordo alla "Disciplina generale della protezione
+antincendio per Aeroporti di aviazione generale e Aviosuperfici" ENAC
+ Remarks 1. Not Available for Military ACFT
+2. Fire fighting support compliant with the provision of "Disciplina generale della
+protezione antincendio per Aeroporti di aviazione generale e Aviosuperfici" ENAC
+regulation
+LIQN AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIQN AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIQN AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIQN AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+NIL NIL NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+
+=== Page 4 ===
+AD 2 LIQN 1 - 4
+AIRAC effective date 11 JUL 2024 AIP - Italia
+(A07/24) ENAV - Roma
+ TWY width, surface and strength Identificativo
+della TWY
+Larghezza 
+(M)
+Superficie Resistenza
+Designator 
+of TWY
+Width (M) Surface Strength
+NIL NIL NIL NIL
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIQN 1 - 5
+AIRAC effective date 11 JUL 2024
+ENAV - Roma (A07/24)
+LIQN AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIQN AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY Segnalatori di bordo e soglia RWY in PVC.
+ RWY and TWY markings and lights PVC RWY edge and threshold markers.
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIQN AD 2.10 OSTACOLI AEROPORTUALI
+LIQN AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIQN AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIQN AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / O/R
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO ROMA, telefono Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO ROMA, telephone Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / Italiano, Inglese
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts / Italian, English
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+
+=== Page 6 ===
+AD 2 LIQN 1 - 6
+AIRAC effective date 11 JUL 2024 AIP - Italia
+(A07/24) ENAV - Roma
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+AFIU Rieti
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO ROMA: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative le
+nubi con altezza della base al di sotto di 5000ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO ROMA: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 5000ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+LIQN AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIQN AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+16L NIL 809 x 40
+NIL
+Grass
+42°25'47.55''N
+012°51'03.80''E
+1277.6 FT / NIL
+34R NIL 809 x 40
+NIL
+Grass
+42°25'28.62''N
+012°51'11.34''E
+1279.1 FT / NIL
+16R NIL 809 x 50
+NIL
+Grass
+42°25'50.04''N
+012°50'59.76''E
+1272.6 FT / NIL
+34L NIL 809 x 50
+NIL
+Grass
+42°25'28.01''N
+012°51'08.56''E
+1277.7 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+16L NIL NIL 130 x 80 NIL 100 x 100
+34R NIL NIL 30 x 80 NIL NIL
+16R
+Longitudinale/
+Longitudinal:
+vedi/see AOC
+NIL 130 x 80 929 x 80 100 x 100
+34L
+Longitudinale/
+Longitudinal:
+vedi/see AOC
+NIL 30 x 80 929 x 80 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+16L NIL
+1) RWY utilizzabile dagli Alianti / RWY for Gliders use
+2) DTHR: 200m
+34R NIL 1) RWY utilizzabile dagli Alianti / RWY for Gliders use
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIQN 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+16R NIL
+1) RWY utilizzabile dagli Aeromobili/ RWY for ACFT use
+2) DTHR: 100 m
+3) Elevazione Testata: 387.6 m /
+ HEAD Elevation: 387.6 m
+34L NIL 1) RWY utilizzabile dagli Aeromobili / RWY for ACFT use
+LIQN AD 2.13 DISTANZE DICHIARATE
+LIQN AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+16L 809 939 809 609
+34R 809 839 809 809
+16R 809 939 809 709
+34L 809 839 809 809
+NOTE
+REMARKS
+NIL
+LIQN AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIQN AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+16L NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+34R NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+16R NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+34L NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+16L NIL NIL NIL NIL NIL NIL NIL NIL
+34R NIL NIL NIL NIL NIL NIL NIL NIL
+16R NIL NIL NIL NIL NIL NIL NIL NIL
+34L NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 8 ===
+AD 2 LIQN 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+16L NIL NIL NIL NIL NIL NIL
+34R NIL NIL NIL NIL NIL NIL
+16R NIL NIL NIL NIL NIL NIL
+34L NIL NIL NIL NIL NIL NIL
+LIQN AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIQN AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 390 m dopo THR RWY 34L, 280 m lato sinistro RCL. Illuminato.
+2) 310 m dopo THR RWY 34L, 280 m lato sinistro RCL. Illuminato.
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 390 m after THR RWY 34L, 280 m left side RCL. Lighted.
+2) 310 m after THR RWY 34L, 280 m left side RCL. Lighted.
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIQN AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIQN AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIQN 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+7 Note NIL
+ Remarks  
+LIQN AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIQN AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Rieti ATZ
+Circular area centered on
+42°25'34"N 012°51'01"E
+within a 5.0 NM radius.
+7500 FT
+AMSL
+G
+Rieti Aerodrome
+INFO
+EN/IT
+NIL
+1) WI Roma FIR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+(RMZ)
+LIQN AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIQN AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 Vedi note/See remarks
+1) Orario invernale/Winter period:
+Dall'ultima domenica di OCT al 31
+DEC/From last SUN of OCT until 31
+DEC: 0800-1600
+Dal 01 JAN al giorno precedente
+l'ultima domenica di MAR/From 01
+JAN until the day before last SUN of
+MAR: 0900-1700
+Orario estivo/Summer period:
+0800-1800
+AFIS Rieti Aerodrome INFO 123.050 Vedi note/See remarks
+1) Orario invernale/Winter period:
+Dall'ultima domenica di OCT al 31
+DEC/From last SUN of OCT until 31
+DEC: 0800-1600
+Dal 01 JAN al giorno precedente
+l'ultima domenica di MAR/From 01
+JAN until the day before last SUN of
+MAR: 0900-1700
+Orario estivo/Summer period:
+0800-1800
+
+=== Page 10 ===
+AD 2 LIQN 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIQN AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIQN AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Rieti
+Gonio
+Homer
+NIL
+Vedi note/
+See remarks
+42°25'34.7''N
+012°50'53.4''E
+NIL
+limitazioni a/limitations at
+10 NM
+270°/320° MRA 9500 FT
+limitazioni a/limitations at
+30 NM
+000°/130° MRA 11500 FT
+130°/270° MRA 9500 FT
+320°/360° MRA 9500 FT
+ 
+1) Orario invernale/
+Winter period:
+Dall'ultima domenica di
+OCT al 31 DEC/From last
+SUN of OCT until 31 DEC:
+0800-1600\
+Dal 01 JAN al giorno
+precedente l'ultima
+domenica di MAR:
+0900-1700
+Orario estivo/Summer
+period: 0800-1800
+2) Disponibile a richiesta
+su tutte le frequenze
+AFIS e di emergenza /
+AVBL O/R on all AFIS and
+emergency frequency
+LIQN AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIQN AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+1.1. RWY 16R/34L utilizzabile da aeromobili civili con peso non
+superiore a 2000 kg AUW
+1.1. RWY 16R/34L is usable for civil ACFT whose weight does not
+exceed 2000 kg AUW
+NOTA
+I trainatori dovranno decollare sempre da pista 34L. Gli aeromobili
+ed i trainatori in presenza di vento uguale o superiore a 8kt frontali
+potranno decollare anche da RWY 16R. Dopo il decollo la virata dovrà
+essere effettuata a sinistra
+REMARK
+Towing ACFT shall take-off always from RWY 34L. In case of head wind
+of 8kt or more, both ACFT and towing ACFT could also takeoff from
+RWY 16R. After take-off left turn shall be performed
+1.2. Pista secondaria: RWY 16L/34R per atterraggio alianti 1.2. Secondary RWY: RWY 16L/34R for gliders landing
+1.3. Non è consentita l’utilizzazione contemporanea della pista
+principale e di quella secondaria
+1.3. Simultaneus operations on both main and secondary RWY are not
+allowed
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Traffico non consentito ad Ovest dell’aeroporto durante
+l’attivazione del BOX ACRO RIETI (Vedi ENR 5.5.2)
+6.1. Traffic not allowed West of the aerodrome during activation of BOX
+ACRO RIETI (See ENR 5.5.2)
+6.2. Traffico non consentito: 6.2. Traffic not allowed:
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIQN 1 - 11
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+a. HR: 0900-0959, 1200-1259 e 1500-1559 in presenza di effettiva
+attività aeroscolastica o di voli officina VDS (Volo da Diporto
+Sportivo) (Vedi tabella 22, punto 4.8 ‘Attività addestrativa’)
+b. In presenza di attivita' VDS di base impegnato in operazioni
+di decollo o atterraggio (Vedi Tabella 22, punto 1 'Generalita’,
+sottopunto 3)
+c. In presenza di attivita' VDS non di base impegnato in operazioni di
+decollo o atterraggio per manutenzione presso G.A.S. S.R.L. (Vedi
+Tabella 22, punto 1 'Generalita’, sottopunto 3)
+a. 0900-0959, 1200-1259 and 1500-1559 during actual training
+activity ultra light machine (ULM) test flights (See table 22, point
+4.8 ‘Training activity’)
+b. During based ULM activity performing take off or landing operations
+(See Table 22, point 1 'General', subpoint 3)
+c. During no based ULM activity performing take off or landing
+operations for maintenance at G.A.S. S.R.L. (See Table 22, point 1
+'General', subpoint 3)
+NOTA
+Aeromobili di Stato, elicotteri del servizio medico, voli soccorso
+e del servizio antincendio esentati dalle restrizioni in 1) e 2)
+REMARK
+State flights, medical service helicopters, rescue and fire
+fighting service flights are exempted from restrictions 1) and
+2)
+6.3. Attività HEMS attestata sull’elisuperficie Ospedale S. Camillo De
+Lellis di Rieti a SE dell’aeroporto
+6.3. HEMS activity on Rieti’s hospital ‘S. Camillo De Lellis’ helipad SE
+of the airport
+6.4. Gli aeromobili in arrivo o sorvolo devono prestare particolare
+attenzione in presenza di attività alianti ad Est dell’aeroporto (Vedi
+tabella 22, punto 1 “Generalità”)
+6.4. ACFT arriving or flying over must pay particular attention during
+gliders activity East of the aerodrome (See table 22, point 1 “General”)
+6.5. Gli aeromobili in arrivo o sorvolo devono prestare particolare
+attenzione in presenza di attività addestrativa elicotteri dei Carabinieri,
+anche al di fuori dell’orario di servizio aeroportuale (Vedi tabella 22,
+punto 4.8 “Attività addestrativa”)
+6.5. ACFT arriving or flying over must pay particular attention during
+training activity of Carabinieri helicopters, even beyond the aerodrome
+operational hours (See table 22, point 4.8 “Training activity”)
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+Contattare preventivamente Rieti AFIS (Rieti Aerodrome INFO freq.
+123.050 MHz) prima di interessare l’ATZ per informazioni sulle
+restrizioni locali ai voli
+Contact in advance Rieti AFIS (Rieti Aerodrome INFO freq. 123.050
+MHz) before entering the ATZ for the information about local flight
+restrictions
+LIQN AD 2.21 PROCEDURE ANTIRUMORE
+LIQN AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIQN AD 2.22 PROCEDURE DI VOLO
+LIQN AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+1.1. Attività di volo con aeromobili a motore:
+a. Gli aeromobili a motore, compresi i trainatori, devono decollare e
+atterrare sulla pista principale (16R/34L) (Vedi NOTA tabella 20.1
+“Uso preferenziale delle piste”)
+b. Gli aeromobili a motore potranno effettuare attività locale solo a
+Ovest dell’aeroporto
+c. Lo sgancio del traino è effettuato nella parte Est del campo (Limiti:
+NORD - Rivodutri, SUD - S.Giovanni Reatino). Dopo lo sgancio il
+velivolo trainatore, per portarsi all’atterraggio, dovrà inserirsi nel
+circuito di traffico aeroportuale
+1.1. Engine ACFT flying activity:
+a. Engine ACFT, as well as towing ACFT shall take-off and land on the
+main RWY (16R/34L) (See REMARK table 20.1 “Runway preferential
+use”)
+b. Engine ACFT may carry out local activity West side of the aerodrome
+only
+c. The tow releasement is carried out East side of the field (Limits:
+NORD - Rivodutri, SUD - S.Giovanni Reatino). After the releasement,
+the towing ACFT will land joining the AD traffic circuit
+1.2. Attività di volo con alianti:
+a. Gli alianti devono atterrare sulla RWY secondaria (16L/34R)
+b. Dopo lo sgancio, gli alianti potranno effettuare volo veleggiato
+solamente ad Est dell’aeroporto
+1.2. Gliding activity:
+a. Gliders shall land on the secondary RWY (16L/34R)
+b. After the releasement, gliders may carry out soaring flight at East
+of the aerodrome only
+1.3. Attivita' VDS (Volo da Diporto Sportivo)
+a. attivita' soggetta alle sottoelencate condizioni e consentita
+esclusivamente per finalita' aeroscolastica, di voli officina o per
+operazioni di decollo o atterraggio
+• solo uno alla volta
+1.3. Ultra Light Machines (ULM) activity
+a. activity subject to the underlisted restrictions and allowed only for
+training purposes, test flights or for performing take-off or landing
+operations:
+• one at a time only
+
+=== Page 12 ===
+AD 2 LIQN 1 - 12
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+• solo ad Ovest dell'aeroporto
+• ad un'altezza massima di 1000ft AGL previa approvazione AFIU
+• West of the aerodrome only
+• maximum height 1000ft AGL previous AFIU approvation
+NOTE
+1. Per manutenzione apparecchi VDS non di base contattare G.A.S.
+s.r.l.: tel + 39 0746257777 fax +39 0746280588 mail info@gas-
+srl.com
+REMARK
+1. For not based ULM maintenance contact G.A.S. s.r.l.: phone +39
+0746257777 fax +39 0746280588 mail info@gas-srl.com
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+Circuiti di traffico:
+a. Aeromobili a motore: Ovest della RWY 16R/34L RWY 16R a destra
+- RWY 34L standard
+b. Alianti: Est della RWY 16L/34R RWY 16L standard - RWY 34R a
+destra
+Traffic circuit:
+a. Engine ACFT: West of RWY 16R/34L RWY 16R right - RWY 34L
+standard
+b. Gliders: East of RWY 16L/34R RWY 16L standard - RWY 34R right
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+Per decolli RWY 16R vedere NOTA tabella 20.1 “Uso preferenziale delle
+piste”
+For departures RWY 16R see REMARK table 20.1 “Runway preferential
+use”
+4.5 Sorvoli 4.5 Overflying
+4.5.1. Vietato il sorvolo dell’aeroporto ad una altitudine inferiore a
+3800 ft (2500 ft AGL)
+4.5.1. The aerodrome cannot be overflown below 3800 ft (2500 ft AGL)
+4.5.2. Vietato il sorvolo al di sotto di 1200 ft AGL della ciminiera alta
+80 m AGL posizionata 1300 m prima della testata RWY 34L – 390 m
+a sinistra RCL e provvista di segnaletica diurna ICAO
+4.5.2. Chimney HGT 80 m AGL PSN 1300 m before head RWY 34L
+– 390 m left side RCL, provided with day ICAO signalling cannot be
+overflown below 1200 ft AGL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+4.7.1.  VFR/N non consentito 4.7.1. VFR/N not permitted
+4.8 Attività addestrativa 4.8 Training activity
+4.8.1. BOX ACRO RIETI (vedi ENR 5.5.2)
+A Nord-Ovest dell’aeroporto è istituita una zona per l’addestramento
+acrobatico. Contattare AeC Rieti per coordinamento attività
+4.8.1. BOX ACRO RIETI (see ENR 5.5.2)
+North-West of the aerodrome an area for aerobatic training activity
+has been established. Contact AeC Rieti for activity coordination
+4.8.2. Attività aeroscolastica VDS non avanzato dell’AeC Rieti
+(Autorizzazione ENAC DA Ciampino 0110230/CCI del 27/09/ 2013) E’
+consentita nei giorni di apertura dell’aeroporto negli orari 0900-0959,
+1200-1259 e 1500-1559 ed è soggetta all’approvazione di Rieti AFIS
+(Rieti Aerodrome INFO freq. 123.050 MHz)
+4.8.2. Not advanced ultra light machine training activity of AeC
+Rieti (Authorization ENAC DA Ciampino 0110230/CCI del 27/09/ 2013)
+Is is allowed during opening days of the aerodrome HR 0900- 0959,
+1200-1259 and 1500-1559 and it is subject to the approval of Rieti
+AFIS (Rieti Aerodrome INFO freq. 123.050 MHz)
+4.8.3. Attività addestrativa elicotteri dei Carabinieri
+Da piazzola elicotteri CFS in area aeroportuale e ATZ
+4.8.3. Training acitivity of Carabinieri helicopters
+From CFS helicopter landing area within aerodrome area and ATZ
+LIQN AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIQN AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIQN AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIQN AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIQN 2 - 1
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIQN 1 - 13
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+Carte - Charts Pagine - Pages
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 34L/16R  AD 2 LIQN 3 - 1
+LIQN AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIQN AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 14 ===
+AD 2 LIQN 1 - 14
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+

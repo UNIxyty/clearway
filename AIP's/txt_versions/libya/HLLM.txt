@@ -1,0 +1,727 @@
+=== Page 1 ===
+ 
+AIP                                                                                                                                                                          AD 2 HLLM-1 
+LIBYA                                                                                                                                                                      13 AUG 02 
+ 
+HLLM AD 2.1 AERODROME LOCATION INDICATOR AND NAME 
+HLLM - TRIPOLI / Mitiga International  
+HLLM AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA 
+1 ARP coordinates and site at AD N325340 E0131640 (WGS-84) 
+2 Direction and distance from (city) 4.3 NM (8 km) east of Tripoli 
+3 Elevation/Reference temperature 36 ft 
+4 Geoid undulation at AD ELEV PSN Nil 
+5 MAG VAR/Annual change 2.51°E (2019) 
+6 AD Administration, address, telephone, 
+telefax, AFS 
+Mitiga airport 
+Tel: 00218-21-3501052, 3501053 
+Fax: 00218-21-3502314 
+7 Types of traffic permitted (IFR/VFR) IFR + VFR 
+8 Remarks Available PPR 
+ 
+HLLM AD 2.3 OPERATIONAL HOURS 
+1 AD Administration SUN-THU 0600-1300 UTC 
+2 Customs and immigration H24 
+3 Health and sanitation H24 
+4 AIS Briefing Office H24 
+5 ATS Reporting Office (ARO) H24 
+6 Met Briefing Office H24 
+7 ATS H24 
+8 Fuelling H24 
+9 Handling H24 
+10 Security H24 
+11 De-icing Nil 
+12 Remarks Nil 
+ 
+HLLM AD 2.4 HANDLING SERVICES AND FACILITIES 
+1 Cargo handling facilities Available 
+2 Fuel/oil types Jet A1- AvGas 100 LL / Nil 
+3 Fuelling facilities/capacity Available 
+4 De-icing facilities Nil 
+5 Hangar space for visiting aircraft Available 
+6 Repair facilities for visiting aircraft Nil 
+7 Remarks Nil 
+ 
+HLLM AD 2.5 PASSENGER FACILITIES 
+1 Hotels Mitiga Hotel / Alwafa Hotel 
+2 Restaurants Available 
+3 Transportation Taxi and buses 
+4 Medical facilities First Aid at airport  One general hospital (medical 
+center) 
+ 5 Bank and Post Office Available 
+6 Tourist Office Available 
+7 Remarks Nil 
+ 
+    
+ 
+ 
+ 
+    LIBYA C.A.A                                                                                                                                              AMDT 04/2002 
+
+=== Page 2 ===
+            AD 2 HLLM-2                                                                                                                                                     AIP 
+            13 AUG 20                                                                                                                                                        LIBYA 
+ 
+HLLM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES 
+              
+1 AD category for fire fighting Within  AD HR CAT 6 
+2 Rescue equipment Nil 
+3 Capability for removal of disabled aircraft Nil 
+4 Remarks Nil 
+ 
+HLLM AD 2.7 SEASONAL AVAILABILITY - CLEARING 
+1 Types of clearing equipment Nil 
+2 Clearance priorities Nil 
+3 Remarks Nil 
+ 
+HLLM AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA 
+1 Apron surface and strength Asphalt PCN 100 F/B/W/T 
+2 Taxiway width, surface and strength 30 m, Asphalt, PCN 100 F/B/W/T 
+3 Altimeter checkpoint location and elevation At apron, elevation 11 m 
+4 VOR checkpoints Nil 
+5 INS checkpoints Nil 
+6 Remarks NIL 
+ 
+HLLM AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS 
+1 Use of aircraft stand ID signs, TWY guide 
+lines and visual docking/parking guidance 
+system of aircraft stands 
+ 
+Nil 
+2 RWY and TWY markings and LGT Nil 
+3 Stop bars Nil 
+4 Remarks Nil 
+ 
+HLLM AD 2.10 AERODROME OBSTACLES 
+ 
+In approach/TKOF areas In circling area and at AD Remark
+s 1 2 3 
+RWY NR. 
+Area 
+affected 
+Obstacle type 
+Elevation 
+Markings/LGT 
+         Coord. 
+(Dist from THR ) 
+Obstacle 
+type 
+Elevation 
+Markings/LGT 
+Coord.      
+ 
+ 
+ 
+ 
+Nil 
+a b c a b 
+ 
+10 
+Obstacle 
+120m 
+Nil 
+ 
+N325428 
+E0131500 
+2325m(THR10) 
+ 
+ 
+Nil 
+ 
+Nil 
+ 
+28 
+ 
+Nil 
+ 
+Nil 
+ 
+Nil 
+ 
+Nil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            AMDT 04/2020                                                                                                                                            LIBYA C.A.A 
+
+=== Page 3 ===
+              
+                   AIP                                                                                                                                                         AD 2 HLLM-3 
+                     LIBYA                                                                                                                                                        13 AUG 20  
+  
+HLLM  AD 2.11 METEOROLOGICAL INFORMATION PROVIDED 
+ 
+1 Associated MET Office Tripoli 
+2 Hours of service 
+MET Office outside hours H24 
+3 Office responsible for TAF preparation 
+Periods of validity Mitiga 
+4 Trend forecast 
+Interval of issuance METAR / TAF 
+5 Briefing/consultation provided Personal 
+6 Flight documentation language(s) used English 
+7 Charts and other information available for 
+briefing or consultation SIG 
+8 Supplementary equipment available for 
+providing information Nil 
+9 ATS units provided with information Nil 
+10 Additional information (limitation of service, 
+etc.) Nil 
+ 
+HLLM AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS 
+ 
+Designations 
+RWY NR 
+True Bearing Dimensions of 
+RWY (m) 
+Strength 
+(PCN) and 
+surface of 
+RWY and 
+SWY 
+THR coor 
+RWY end coor. 
+THR geoid 
+undulation 
+THR elevation 
+and highest 
+elevation of 
+TDZ of 
+precision APP 
+RWY 1 2 3 4 5 6 
+10 105°  
+ 
+0033 x 04 
+ 
+ 
+Asphalt 
+N325344.8  
+E0131613.3 
+THR 03 ft 
+28 285° N325316.2 
+E0131817.8 THR 62 ft 
+Designations    
+RWY NR 
+Slope of 
+ RWY - SWY 
+SWY 
+dimensions 
+(m) 
+CWY 
+dimensions 
+(m) 
+STRIP 
+dimensions 
+(m) 
+   OFZ 
+1 7 8 9 10 11 
+10 Nil 250× 04 Nil  ×0363 300 Nil 
+28 Nil 250× 04 Nil  ×0363 300 Nil 
+ 
+Designations    
+RWY NR           Remarks 
+ 
+ 
+               1 12            
+03 -  21 RWY  closed.          2195    ×  30                                       × 
+                    
+ 
+HLLM AD 2.13 DECLARED DISTANCES 
+ 
+RWY 
+Designator 
+TORA 
+(m) 
+TODA 
+(m) 
+ASDA 
+(m) 
+LDA 
+(m) 
+Remarks 
+1 2 3 4 5 6 
+10 0033 0033 0243 0033 Nil 
+28 0033 0033 0243 0033 Nil 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  LIBYA C.A.A                                                                                                                                       AMDT 04/2020 
+
+=== Page 4 ===
+ 
+AD 2 HLLM-4                                                                                                                                                             AIP 
+31 AUG 20                                                                                                                                                                 LIBYA 
+ 
+HLLM AD 2.14 APPROACH AND RUNWAY LIGHTING 
+ 
+RWY 
+Designator 
+APC
+H 
+LGT 
+Type 
+LEN 
+INTS
+T 
+THR 
+LGT 
+color 
+WBAR 
+VASIS 
+(MEH) 
+PAPI 
+    TDZ, 
+LGT 
+LEN 
+RWY   
+centre 
+Line 
+LGT 
+Length, 
+spacing 
+color 
+INTST 
+RWY 
+edge 
+LGT 
+LEN, 
+spacing 
+color 
+INTST 
+RWY 
+End 
+LGT 
+color 
+WBAR 
+SWY 
+LGT LEN 
+(m) 
+color 
+Remarks 
+1 2 3 4 5 6 7 8 9 10 
+ 
+10 
+ 
+ SALS LIL 
+ 
+ SALS LIL 
+ 
+ 
+Yes 
+Green 
+Red 
+ 
+ 
+ 
+ 
+PAPI-L 
+  3.00° 
+ 
+ 
+ 
+Nil 
+ 
+ 
+ 
+Nil 
+ 
+ 
+Yes  
+LIL / 
+LIM 
+ 
+ 
+ 
+Nil 
+ 
+ 
+ 
+Nil 
+ 
+ 
+ 
+Nil 
+ 
+28 
+PAPI-Left 
+3.00° 
+HLLM AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY 
+ 
+1 ABN/IBN location, characteristics and hours 
+of operation Nil 
+2 LDI location and LGT 
+Anemometer location and LGT Nil 
+3 TWY edge and  
+centre line lighting 
+TWY              Yes 
+Centre line     Nil 
+4 Secondary power supply/ 
+Switch-over time 
+Nil 
+5 Remarks Nil 
+ 
+HLLM AD 2.16 HELICOPTER LANDING AREA 
+ 
+1 Coordinates TLOF or THR of FATO 
+Geoid undulation 
+Nil 
+2 TLOF and / or FATO elevation (m/ft) Nil 
+3 TLOF and / or FATO area dimensions, 
+surface, Strength, marking  
+Nil 
+4 True BRG of FATO Nil 
+5 Declared distance available  Nil 
+6 APP and FATO lighting  Nil 
+7 Remarks Nil 
+ 
+HLLM AD 2.17 ATS AIRSPACE 
+ 
+1 Designation and lateral limits Mitiga CTR  
+A circle with radius of 5 NM centered on Mitiga Airport  
+N325340 E0131640 
+ 2 Vertical limits GND - 3000 
+3 Airspace classification C 
+4 ATS unit  
+call sign language(s) 
+Mitiga TWR 
+Nil 
+5 Transition altitude/Transition level 5000 ft / FL70 
+6 Remarks Nil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AMDT 04/2020                                                                                                                                                LIBYA C.A.A  
+
+=== Page 5 ===
+ 
+AIP                                                                                                                                                           AD 2 HLLM-5 
+LIBYA                                                                                                                                                      13 AUG 20  
+ 
+HLLM AD 2.18 ATS COMMUNICATION FACILITIES 
+ 
+Service 
+designation 
+Call sign Frequency Hours of operation Remarks 
+1 2 3 4 5 
+ 
+TWR 
+ 
+Mitiga Tower  
+126.300MHZ 
+ 
+120.200 MHZ 
+H24 
+ 
+H24 
+      Primary           
+ 
+Secondary 
+GND Ground  121.900 MHZ HO Nil 
+ATIS Mitiga ATIS  126.400 MHZ HO Nil 
+ 
+HLLM AD 2.19 RADIO NAVIGATION AND LANDING AIDS 
+ 
+Type of aid, 
+MAG VAR 
+CAT of ILS/MLS 
+(For VOR/ILS/MLS, 
+give declination) 
+ID Frequency Hours of 
+operation 
+Position of 
+transmitting 
+antenna 
+coordinates 
+Elevation 
+of DME 
+transmitting 
+antenna 
+Remarks 
+1 2 3 4 5 6 7 
+MITIGA DVOR/DME    
+2.51°E MTG 113.400 MHz  H24 N325336.03 
+    E0131626.88 
+ 
+32ft Nil 
+Tajoura 
+L 
+RJ 357KHz H24 N325256 
+E0131941 
+Nil Nil 
+   ILS RWY 28 CAT II 
+LOC 
+2.510 E 
+ 
+I-MTG 
+110.5MHz H24 N325345.60 
+E0131606.64 
+ NIL 
+GP  329.6MHz H24 N325313.51 
+E0131806.56 
+ Glideslope30 
+ 
+HLLM AD 2.20 LOCAL TRAFFIC REGULATIONS 
+ 
+ 20.1     Airport regulation                                                                       20.5     Apron - taxiing during winter conditions 
+             General:                                                                                                    Not applicable 
+             Aerodrome restricted to aircraft capable of                                  20.6     Taxiing-limitations 
+             maintaining two-way radio communications                                             Nil. 
+             with ATC.                                                                                      20.7     School and training flights - technical test 
+20.2     Taxiing to and from stands                                                                      flights - use of runways 
+            a) Arriving flights will be allocated a stand number                                   Nil. 
+                by the ground controller and assistance                                    20.8     Helicopter traffic - limitation 
+                from “FOLLOW ME” vehicle can be                                                       Nil. 
+                requested via the ground controller.                                          20.9     Removal of disabled aircraft from runways 
+           b)  Departing IFR flights shall contact the TWR                                           When an aircraft is wrecked on a runway, it is 
+                to obtain ATC clearance before commencing                                         the duty of the owner or user of such aircraft to 
+                taxiing.                                                                                                     have it removed as soon as possible. If a 
+20.3      Parking area for small aircraft                                                                 wrecked aircraft is not removed from the runway 
+             (General aviation)                                                                                     as quickly as possible by the owner or user, 
+              General aviation aircraft shall not be guided by                                        the aircraft will be removed by the aerodrome 
+              marshallers to the parking area for small aircraft.                                     authority at the owner's or user's expense. 
+20.4       Parking area for helicopters 
+              As directed by ATC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AMDT 04/2020                                                                                                                                       LIBYA C.A.A  
+
+=== Page 6 ===
+ 
+    AD 2 HLLM-6                                                                                                                                                                                                       AIP  
+    13 AUG 20                                                                                                                                                                                                        LIBYA  
+ 
+HLLM AD 2.21 NOISE ABATEMENT PROCEDURES 
+Non Noise Certificated subsonic airplane 
+(NNC) operations restricted daily between 
+ sunset/sunrise. 
+                                                                                                                                                                                                                                                                
+HLLM AD 2.22 FLIGHT PROCEDURES 
+22.1      Communication failure 
+              In the event of communication failure the pilot 
+              shall act in accordance with the communication 
+              procedures in ANNEX 2. For the TRIPOLI FIR, 
+              information concerning the associated navigation 
+             aids and the routing is given on page ENR 
+             1.6-2. 
+ 
+22.2    Procedures for VFR flights within 
+           Mitiga CTR 
+ 
+Provided traffic conditions so permit ATC clearance 
+for VFR flights will be given under the conditions 
+described below: 
+ 
+a)  A flight plan requesting ATC clearance, containing 
+     items 7 to 18 and indicating the purpose 
+     of the flight, shall be submitted. 
+ 
+b)  ATC clearance shall be obtained immediately 
+     before the aircraft enters the area concerned. 
+ 
+c)  Position reports shall be submitted in accordance 
+     with 3.6.3 of ANNEX 2. 
+ 
+d)  Deviation from the ATC clearance may only 
+     be made when prior permission has been 
+     obtained. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e)   The flight shall be conducted with vertical 
+visual reference to the ground unless the 
+flight can be conducted in accordance with 
+the Instrument Flight Rules. 
+ 
+f)   Two-way radio communication shall be maintained 
+on the frequency prescribed. Information 
+about the appropriate frequency can be 
+obtained from Tripoli Information. 
+ 
+g)  The pilot-in-command shall be the holder of 
+      an International VHF licence. 
+ 
+ 
+22.3    Procedures for VFR flights within 
+        Mitiga CTR 
+ 
+a)   Flight plan shall be filed for the flight concerned. 
+ 
+b)    ATC clearance shall be obtained from the 
+       Control Tower. 
+ 
+c)    Deviation from ATC clearance may only be 
+       made when prior permission has been 
+      obtained. 
+ 
+d)    The flight shall be conducted with vertical 
+        visual reference to the ground. 
+ 
+e)    Two-way radio communication  shall be established  
+       on the frequency prescribed before takes place in control zone  
+ 
+HLLM AD 2.23 ADDITIONAL INFORMATION 
+ 
+Nil 
+ 
+HLLM AD 2.24 CHARTS RELATED TO THE AERODROME 
+ 
+ 
+ 
+AERODROME CHART - ICAO  
+ 
+INSTRUMENT APPROACH CHART - ICAO - DVOR DME RWY 10   
+ 
+INSTRUMENT APPROACH CHART - ICAO - DVOR DME RWY 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AMDT 04/2020 
+ 
+ 
+AD 2 HLLM-7 
+ 
+AD 2 HLLM-9 
+ 
+AD 2 HLLM-11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                 LIBYA C.A.A 
+
+=== Page 8 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTENTIONALLY 
+BLANK 
+
+=== Page 10 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTENTIONALLY 
+BLANK 
+
+=== Page 12 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTENTIONALLY 
+BLANK 

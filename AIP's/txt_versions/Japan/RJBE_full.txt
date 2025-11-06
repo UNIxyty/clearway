@@ -1,0 +1,2772 @@
+=== Page 1 ===
+AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD2-1
+AD 2 AERODROMES
+RJBE AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJBE - KOBE
+RJBE AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJBE AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 343758N/1351326E
+091°/1.25km from RWY 09 THR
+2 Direction and distance from (city) 8K m(4.3nm) S from Sannomiya Station
+3 Elevation/ Reference temperature 18ft / 31°C (2009-2013)
+4 Geoid undulation at AD ELEV PSN 121ft
+5 MAG VAR/ Annual change 8°W (2022) / 5' W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+ e-mail and/or Web-site addresses
+Kansai Airports Kobe
+1, Kobekuko, Chuo-ku, Kobe city, Hyogo pref., 650-0048 Japan
+Tel: 078-306-4195   Fax: 078-306-4196
+E-mail: ukb-ops@kobe.kansai-airports.co.jp
+Web: http://www.kansai-airports.co.jp/
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Kobe Airport Branch(CAB)
+1, Kobekuko, Chuo-ku, Kobe city, Hyogo pref., 650-0048 Japan
+Tel: 078-304-3800   Fax: 078-304-3806
+1 AD Administration 2200-1400
+2 Customs and immigration Customs: On request (078-333-3040)
+Immigration: 2330-1030
+3 Health and sanitation Quaranti ne(human): On request (078-381-7315)
+Quarantine(animal): On request (078-222-8990)
+Quarantine(plant): 0000-1000
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (KANSAI)
+7 ATS 2200-1400
+8 Fuelling 2200-1400
+9 Handling 2200-1400
+10 Security 2200-1400
+11 De-icing Nil
+12 Remarks Nil
+(EFF:12 JUN 2025) 12/6/25
+
+
+=== Page 2 ===
+RJBE AD2-2 AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD 2.4 HANDLING SERVICES AND FACILITIES
+RJBE AD 2.5 PASSENGER FACILITIES
+RJBE AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJBE AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Fuel grades: Jet A1
+3 Fuelling facilities/ capacity Fuel truc k refueling / Ask AD Administration
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Hotels in Kobe city
+2 Restaurants At Airport
+3 Transportation Railways, Buses and Taxi
+4 Medical facilities Hospit al in Kobe city 4km
+5 Bank and Post Office Bank in Kobe city / Post Office in Kobe city
+6 Tourist Office Tourist office in Kobe city
+7 Remarks Nil
+1 AD category for fire fighting Fire protection:
+Scale of protection ICAO required: CAT 9
+Available: CAT 9
+2 Rescue equipment Chemical fire fighting truck × 3
+Water-supply truck
+Emergency medical equipments conveyance truck
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Snow remove equipments:None
+2 Clearance priorities Nil
+3 Remarks Seasonal avai lability: All seasons
+Snow removal will be commenced, if the RWY and TWY are covered with a
+depth of 3cm snow or more.
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD2-3
+RJBE AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJBE AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Apron surface and strength Apron: Spot NR1 - 10
+Surface: cement-concrete, Strength: PCR 1132/R/B/W/T
+Apron: Spot NR11 - 15
+Surface: cement-concrete, Strength: PCR 1026/R/B/W/T
+2 Taxiway width, surface and 
+strength
+TWY P1 - P3, P5
+Width:30m, Surface: asphalt-concrete, Strength: PCR 1039/F/B/X/T
+TWY P4
+Width:30m, Surface: cement-concrete, Strength: PCR 1132/R/B/W/T
+TWY T1, T6
+Width:32m, Surface: asphalt-concrete, Strength: PCR 1039/F/B/X/T
+TWY T2 - T5
+Width:34m, Surface: asphalt-concrete, Strength: PCR 852/F/B/X/T
+TWY W1
+Width:9m, Surface: asphalt-concrete, Strength: PCR 190/F/B/X/T
+TWY W2
+Width:18m, Surface: asphalt-concrete, Strength: PCR 417/F/B/X/T
+TWY W3
+Width:23m, Surface: asphalt-concrete, Strength: PCR 513/F/B/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+1 : 343811.41N 1351353.34E
+2 : 343811.22N 1351351.00E
+2R : 343810.72N 1351351.82E
+2L : 343810.60N 1351350.24E
+3 : 343810.92N 1351348.47E
+4 : 343810.71N 1351345.73E
+4R : 343810.26N 1351346.95E
+4L : 343809.97N 1351345.38E
+5 : 343810.50N 1351342.99E 
+6 : 343810.28N 1351340.26E
+6R : 343810.42N 1351340.72E
+6L : 343809.49N 1351339.22E
+7 : 343810.19N 1351337.71E
+7L : 343809.72N 1351337.60E
+8 : 343810.10N 1351335.65E
+9 : 343809.96N 1351333.89E
+10 : 343808.89N 1351332.85E
+11 : 343809.64N 1351329.78E
+12 : 343809.48N 1351327.70E
+13 : 343809.12N 1351325.37E
+14 : 343808.39N 1351322.40E
+15 : 343808.21N 1351320.05E
+6 Remarks Nil
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Aircraft stand identification sign: Spot NR 3 - 7, 11 - 13
+2 RWY and TWY markings and 
+LGT
+RWY: RWY 09/27
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point,
+                Aiming point, TDZ, RWY side stripe
+(LGT) RCLL, REDL, RTHL, RENL, RTZL(RWY09), WBAR(RWY09)
+TWY: All
+(Marking) TWY CL, TWY side stripe 
+(LGT) TWY edge LGT
+TWY: T1 - T6, P1 - P5
+(LGT) TWY CL LGT
+TWY: T1 - T6
+(Marking) RWY HLDG PSN 
+(LGT) RWY guard LGT, Taxiing guidance sign
+TWY: P2
+(LGT) Taxiing guidance sign
+3 Stop bars Nil
+4 Remarks (Marking) Overrun,  ACFT  parking position, Apron TWY CL
+(LGT) Apron flood LGT
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 4 ===
+RJBE AD2-4 AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD 2.10 AERODROME OBSTACLES
+The following obstacles in Obstacle data (Area2) shift locations.
+RJBE AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area2 See Obstacle data
+OBST ID Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+28001789
+28001790
+ 
+28001794
+28001795
+28001796
+28001797
+28001798
+28001799
+28001800
+28001801
+28001802
+28001803
+28001804
+28001806
+28006558
+28006559
+28006560
+Cranes See Remarks 420ft Marking/LIM
+Above horizontal SFC
+19 cranes exist in the area 
+bounded by straight lines 
+connecting following points:
+a) 343906N/1351440E
+b) 343927N/1351341E
+c) 343943N/1351331E
+d) 343950N/1351352E
+e) 343940N/1351420E
+In Area3 To be developed
+1 Associated MET Office KANSAI
+2 Hours of service
+MET Office outside hours
+H24 (KANSAI)
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Brie fing is available upon inquiry at KANSAI
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S
+6, U85, U7,U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG,PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, ATIS
+10 Additional information(limitation of 
+service, etc.)
+Nil
+(EFF:20 FEB 2025) 20/2/25
+
+
+=== Page 5 ===
+AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD2-5
+RJBE AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJBE AD 2.13 DECLARED DISTANCES
+RJBE AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+09 084.61° 2500 ×60 PCR 1039/F/B/X/T
+Asphalt Concrete
+343753.91N
+1351237.12E
+121ft
+THR ELEV: 21.2ft
+TDZ ELEV: 21.2ft
+27 264.61° 2500 ×60 PCR 1039/F/B/X/T
+Asphalt Concrete
+343801.53N
+1351414.84E
+122ft
+THR ELEV: 20.8ft
+Slope of RWY Strip
+Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See AD2.24 AD Chart 2620×300 200 × (MNM:180 MAX:300)* RWY grooving:2500mX40m
+See AD2.24 AD Chart 2620×300  40 × 300
+*For detail, ask airport administrator
+RWY grooving:2500mX40m
+RWY 
+Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+12 3 4 5 6
+09
+TWY:T2
+27
+TWY:T5
+2500
+1985
+2500
+1985
+2500
+1985
+2500
+1985
+2500
+1985
+2500
+1985
+2500
+2500
+Nil
+Nil
+TORA, TODA and ASDA for TWY indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+09 PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+431m
+66ft
+900m 2500m
+30m
+Coded color
+LIH
+2500m
+60m
+Coded color
+LIH
+Red Nil
+(*2)
+27 SALS
+(*1)
+420m
+LIH
+Green
+-
+PAPI
+3.0°/Left
+491m
+74ft
+- 2500m
+30m
+Coded color
+LIH
+2500m
+60m
+Coded color
+LIH
+Red
+Nil
+(*2)
+Remarks
+10
+SALS with APCH LGT BCN(600m and 900m FM RWY 27 THR)(*1)
+Overrun area edge LGT(LEN:60m Color:Red)(*2) 
+CGL for RWY 27
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 6 ===
+RJBE AD2-6 AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJBE AD 2.16 HELICOPTER LANDING AREA
+1 ABN/IBN location, characteristics 
+and hours of operation  ABN: 343819N/1351357E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: Nil
+Anemometer: 417m FM RWY09 THR, LGTD
+ 414m FM RWY27 THR, LGTD
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/
+switch-over time
+Within 1 sec: REDL, RENL, RTHL, WBAR, RCLL and Overrun area edge LGT 
+Within 15 sec: Other Lights 
+5 Remarks WDI LGT
+1 Coordinates TLOF or THR of FATO
+Geoid undulation
+W-HELIPAD: 343802.10N/1351305.32E
+C-HELIPAD: 343802.90N/1351315.52E
+E-HELIPAD: 343805.95N/1351354.61E
+2 TLOF and/or FATO elevation W-HELIPAD: 13ft
+C-HELIPAD, E-HELIPAD: 12ft
+3 TLOF and FATO area dimensions,
+surface, strength, marking
+TLOF and FATO area dimensions: 24m×20m
+Surface:
+W-HELIPAD, C-HELIPAD: Asphalt
+E-HELIPAD: Concrete
+Strength: 12ton
+Marking: See AIP AD2.24 AD chart
+4 True BRG of FATO 084.61°/264.61°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7R e m a r k s
+W-HELIPAD:
+• MAX helicopter type: EC25
+• daytime and VMC use only
+C-HELIPAD:
+• MAX helicopter type: EC25
+• daytime and VMC use only
+E-HELIPAD:
+• MAX helicopter type: EC25
+• daytime and VMC use only
+(EFF:20 MAR 2025) 20/3/25
+
+
+=== Page 7 ===
+AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD2-7
+RJBE AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit
+call sign
+Language
+Remarks
+12 3 4 6
+KOBE
+CTR
+The airspace bounded by the lines connecting the 
+following points:
+(1)344120N/1351756E, (2)344035N/1350815E
+thence to point(1).
+The line connecting point (1) to point (2) is the minor 
+arc with a radius of 5NM KOBE ARP.
+--------
+2000
+D
+KOBE 
+TWR
+EnThe airspace bounded by the lines connecting the 
+following points:
+(1)344120N/1351756E, (2)344035N/1350815E
+thence to point(1).
+The line connecting point (2) to point (1) is the major 
+arc with a radius of 5NM KOBE ARP.
+--------
+2500
+KOBE
+PCA
+1. The airspace bounded by the lines connecting the
+following points:
+(1)343931N/1350740E , (2)343918N/1350445E ,
+(3)343508N/1350515E , (4)343523N/1350814E
+thence to point(1).
+The line connecting point(4) to point(1) is the minor arc
+with a radius of 5NM KOBE ARP .
+4000
+-------
+800
+C
+KANSAI
+APP
+KANSAI
+RADAR
+KANSAI
+DEP
+En
+See
+attached
+chart
+2. The airspace bounded by the lines connecting the
+following points:
+(2)343918N/1350445E , (5)343901N/1350107E ,
+(6)343449N/1350137E , (3)343508N/1350515E
+thence to point(2).
+5000
+-------
+1200
+3. The airspace bounded by the lines connecting the
+following points:
+(5)343901N/1350107E , (7)343850N/1345842E ,
+(8)343437N/1345912E , (6)343449N/1350137E
+thence to point(5).
+5000
+-------
+1800
+4. The airspace bounded by the lines connecting the
+following points.
+(7)343850N/1345842E , (9)343835N/1345531E ,
+(10)343420N/1345600E , (8)343437N/1345912E
+thence to point(7).
+The line connecting point(9) to point(10) is the minor
+arc with a radius of 15NM KOBE VOR(KCE).
+5000
+-------
+2500
+KANSAI TCA See RJBB AD2.17 
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 8 ===
+RJBE AD2-8 AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+ASR Kansai Radar 121.15MHz
+120.85MHz
+125.5MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1400 APP service provided
+by KANSAI APP .
+TCA Kansai TCA 121.1MHz
+125.3MHz
+270.8MHz
+2300 - 1030
+TWR Kobe Tower 118.5MHz(1)
+126.2MHz
+121.5MHz(E)
+2200 - 1400 (1) Primary
+GND Kobe Ground 122.075MHz 2200 - 1400
+ATIS Kobe Airport 128.075MHz 2200 - 1400
+KOBE
+AIRPORT
+KOBE
+VOR/DME(KCE)
+KOBE CTR
+MYODANI
+ICHINOTANI
+JUNCTION
+2NM
+2NM
+TARUMI
+MAIKO
+OOISO
+HAYA
+SHIZAKI
+SIOJI
+NOJIMA
+   KCE
+15DME
+4000
+800
+5000
+12005000
+18005000
+2500
+(1)(2)
+(5)
+(9)
+(10)
+(8) (6)
+(3)
+(4)
+⚄ᡞ≉ู⟶ไ༊
+Kobe Positive Control Area
+(1)343931N1350740E (5)343901N1350107E (9)343835N1345531E
+(2)343918N1350445E (6)343449N1350137E (10)343420N1345600E
+(3)343508N1350515E
+(4)343523N1350814E
+(7)343850N1345842E
+(8)343437N1345912E
+(7)
+Point list
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 9 ===
+AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD2-9
+RJBE AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+ 
+Type of aid
+(VOR declination)
+ID Frequency
+Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(8°W/2019)
+KCE 111.25MHz H24 343751.58N
+1351342.45E
+VOR Unusable:
+360°-030° beyond 20nm BLW 6000ft.
+320°-330° beyond 20nm BLW 3000ft.
+350°-360° beyond 20nm BLW 5000ft.
+DME KCE 1136MHz
+(CH-49Y)
+H24 343751.58N
+1351342.45E
+43.6ft DME Unusable:
+360°-010° beyond 20nm BLW 6000ft.
+010°-020° beyond 15nm BLW 6000ft.
+020°-030° beyond 20nm BLW 6000ft.
+310°-330° beyond 15nm BLW 3000ft.
+330°-350° beyond 20nm BLW 5000ft.
+350°-360° beyond 15nm BLW 5000ft.
+ILS-LOC 09
+(CAT-I)
+IKO 109.15MHz 2200-1400 343802.24N
+1351423.96E
+BRG(MAG) 092°
+233m away FM RWY27 THR
+OPR: CAB
+ILS-GP 09 - 331.25MHz 2200-1400 343750.96N
+1351251.37E
+GP angle 3.0°
+HGT of ILS Ref datum 59ft.
+353m inside FM RWY09 THR
+125m S of RCL
+ILS-DME 09 IKO 1115MHz
+(CH-28Y)
+2200-1400 343750.48N
+1351251.55E
+39ft 356m inside FM RWY09 THR
+140m S of RCL
+MSAS 1575.42MHz H24 Transmitting antennas are satellite 
+based
+09
+27
+RUNWAY
+ANTENNA
+ILS-LOC
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+REMARKS凬1几LOC beam傍BRG(MAG)
+2几HGT of ILS REF datum
+3几GP Angle
+4几ELEV of ILS-DME 10.255m (34ft)
+3.0°
+18m (59ft)
+092°
+ILS FOR RWY 09
+2500m
+356m
+233m
+140m
+125m
+353m
+(EFF:16 JUL 2020) 16/7/20
+
+
+=== Page 10 ===
+RJBE AD2-10 AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+1.1 定期便または緊急事態以外の航空機の取扱い
+当空港の使用について、 航空機の運航者は、 空港管理者の許
+可を得ること。
+1.1 Aircraft operations other than scheduled flights or in
+an emergency
+On use of this airport, aircraft  operator is required to obtain
+the prior permission of the authority.
+1.2 補助動力装置 (APU) の使用制限
+　 航空機が固定電源設備付きのスポ ッ ト を使用する場合は、
+管理者が特に認める場合を除き、次に掲げる時間を超えて補
+助動力装置の使用を控えるよ う 努めなければな ら ない。
+(1) 出発予定時刻前の 30 分間
+(2) 到着後、 固定電源設備または航空機用電源車が使用可能
+と なるまでに必要とする最小限の時間
+(3) 航空機が点検整備のための補助動力を必要とする場合は
+最小限の時間
+注 ： スポ ッ ト 3 ～ 6 は固定電源設備が設置されている。
+1.2 Restrictions about the use of auxiliary power units
+(APU)
+When an aircraft is using an ai rcraft parking stand with fixed
+electric power facilities, efforts shall be made to avoid using
+the APU outside the time perio ds specified below except
+when specifically acknowledged by the authority as
+necessary.
+(1) 30 minutes prior to the estimated off-block time
+(2) The minimum time required for switching over to the fixed 
+electric power facilities or an electric power vehicle for 
+aircraft, after arrival at the parking stand
+(3) The minimum time required for aircraft maintenance 
+purposes if needed
+Note: Stands 3-6 are equipped with fixed electric power unit.
+Nil
+Nil
+Nil
+Nil
+6.1 誘導路交差地点の翼端ク リ ア ラ ンス
+                                                         （AD1.1 .6.8 参照 )
+誘導路上の停止位置に待機中の航空機と後方の誘導路を
+走行する航空機の翼端ク リ ア ラ ンスは以下のとお り であ
+る。  
+6.1 Wing tip clearance at the TWY intersection 
+                                    (REF. AD1.1.6.8)
+Wing tip clearance at the TWY intersection between the 
+aircraft holding at the stop marking on the TWY and the other 
+aircraft taxiing behind it are as follows.
+When B773 holding at the stop marking on TWY T2-T5
+Wing Span (WS) of aircraft 
+taxiing on P1-P5 WS < 15.2m 15.2m<=WS<32.2m WS=>32.2m Legend: 
+*A : wing tip clearance >= 15m  
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5mWing tip clearance *A *B *C
+(EFF:25 APR 2019) 25/4/19
+
+
+=== Page 11 ===
+AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD2-11
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+10. Remarks
+RJBE AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+TKOF and LDG for E-HELIPAD, C-HELIPAD and W-HELIPAD:
+Fly along the parallel taxiway. Do not fly over the buildings in airport island and fuelling facilities.
+Nil
+Nil
+1. For all jet aircraft, in order to reduc e aircraft noise in the vicinity of airport, the following procedures shall be 
+applied unless compliance of the procedures adversely affects the safety of aircraft operations. 
+In case that the aircraft is unable to take these procedures, pilots should execute alternative procedures 
+which are considered to be practically equivalent.
+(1) For take off
+Nil
+(2) For landing to RWY09/27
+a) Delayed Flap Approach Procedure
+Extend final landing flaps after leaving 1,500feet.
+b) Make gear down after leaving 2,500feet.
+(3) Reverse Thrust
+Nil
+2. Preferential Runways Procedures
+Nil
+3. Noise Preferential Routes
+Nil
+騒音軽減運航方式
+1. すべてのジ ェ ッ ト 機に対し て、 空港周辺における航空機騒音軽減のため、 運航の安全に支障のない範囲で、
+   以下の方式が適用される。 ただ し、 これらの方式による こ とができない航空機は実効的にこれら と同等と認め
+   られる代替方式を実施する ものとする。
+　( 1 )離 陸について
+     な し
+　 (2) 着陸について （滑走路 09/27）
+        a) 　 デ ィ レ イ ド ・ フ ラ ッ プ進入方式
+　           1500 フ ィ ー ト 通過後、 最終着陸フ ラ ッ プ角とする こ と
+        b) 　 2500 フ ィ ー ト 通過後、 脚下げを行 う こ と
+　( 3 ) リバ ース･スラストについて
+     な し
+2. 優先滑走路方式
+   な し
+3. 優先飛行経路
+  な し
+(EFF:25 APR 2019) 25/4/19
+→
+
+
+=== Page 12 ===
+RJBE AD2-12 AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD 2.22 FLIGHT PROCEDURES
+RJBE AD 2.23 ADDITIONAL INFORMATION
+1. TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine
+ ACFT with
+ TKOF ALTN
+AP FILED
+09
+A,B,C,D
+400m 400m 400m 400m - 500m
+27 - 400m - 400m - 500m
+OTHER
+09
+A,B,C,D AVBL LDG MINIMA
+27
+ 
+2. Lost Communication Procedures for Arrival Aircraft under radar navigational guidance.
+If radio communications with Kansai Approach/Radar are lost for 1 minute, squawk Mode A/3 Code 7600 and ;   
+(I) 1)
+2)
+3)
+Contact Kobe Tower
+If unable, proceed in accordance with Visual Flight Rules.
+If unable, proceed to SIOJI at the last assigned altitude or 3,000FT whichever is higher and execute Instrument
+Approach.
+(II) Procedures other than above will  be issued when situation required.
+3. Circling approach to Runway 27
+An aircraft shall commence circling to RWY27 at or below 1,500ft, and maintain at or bellow 1,500ft during circling. If unable to
+comply with the restriction above, advise KOBE TOWER as soon as possible.
+   滑走路 27 への周回進入について 
+航空機は、 RWY27 への周回を 1,500ft 以下で開始し、 かつ周回中は 1,500ft 以下を維持し なければな ら ない。
+も し、 維持する こ とが不可能な場合は、 すみやかに神戸タワーに通報する こ と。
+4. Missed approach
+In case of missed approach, arriving aircraft may be instructed to maintain 1,500ft by KOBE TOWER due to traffic flying over
+the KOBE airport.
+進入復行
+進入復行した際、到着機は神戸空港上空を飛行する交通の関係で神戸タワーから 1,500ft を維持するよう指示される場
+合がある。
+1. Vessel (Max 200ft/MSL) will occasionally pass in the vicinity of the airport.
+  空港周辺を船舶 （最高 200ft） が通過する場合がある。
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 13 ===
+AIP Japan
+KOBE
+Civil Aviation Bureau,Japan
+RJBE AD2-13
+RJBE AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (KOBE)
+Standard Departure Chart - Instrument (TRANSITION)
+Standard Departure Chart - Instrument (RNAV TRANSITION1)
+Standard Departure Chart - Instrument (RNAV TRANSITION2)
+Standard Departure Chart - Instrument (MUKRI)
+Standard Arrival Chart - Instrument (OMBIP , KAGAWA)
+Standard Arrival Chart - Instrument (AVKUL, TRACY)
+Instrument Approach Chart (ILS Z or LOC Z RWY09)
+Instrument Approach Chart (ILS Y or LOC Y RWY09)
+Instrument Approach Chart (RNP RWY09)
+Other chart (VISUAL REP)
+Other chart (LDG CHART) 
+Other chart (MVA CHART) 
+(EFF:20 MAR 2025) 20/2/25
+→
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+ABC
+RJBE / KOBE AD CHART
+CEILO METER
+Designation
+TWR
+ATIS
+Call Sign
+Kobe Tower
+Kobe Airport
+FREQ  (MHz)
+118.5, 126.2
+128.075
+OVERRUN AREA EDGE LGT
+PAPI Angle 3.0˚
+MEHT 20.0m(66ft)
+PAPI Angle 3.0˚
+MEHT 22.5m(74ft)
+REMARKS : RWY GROOVING 2500m × 40m
+RWY STRENGTH   PCR 1039/F/B/X/T
+WIDTH & STRENGTH OF TWY
+T2, T3, T4, T5 34m PCR 852/F/B/X/T
+T1, T6 32m PCR 1039/F/B/X/T
+P1  thru P3, P5 30m PCR 1039/F/B/X/T
+P4 30m PCR 1132/R/B/W/T
+W1   9m PCR 190/F/B/X/T
+W2 18m PCR 417/F/B/X/T
+W3 23m PCR 513/F/B/X/T
+APRON 905m × 190m
+ARP
+343758N/1351326E
+THR343802N/1351415E
+THR343754N/1351237E
+SEQUENCED FLASHING LGT
+ALS
+GS
+430.9m
+600m
+RWY HLDG PSN MARKINGS
+and RWY GUARD LIGHTS
+6.45m
+(21.2ft)
+0.17%
+4.79m
+(15.7ft) 4.66m
+(15.3ft)
+6.35m
+(20.8ft)
+RWY 27
+0m 990m 2027m 2500m
+0.36%
+RWY 09
+900m
+300m
+APRON FLOOD LGT
+W-HELIPAD
+C-HELIPAD
+E-HELIPAD
+CGL
+WIND SPEED METER RWY GUARD LGT (T1-T6)
+RVR
+SALS
+POL
+APCH LGT BCN
+OVERRUN AREA EDGE LGT
+VAR 8˚W(2022)
+Annual Change 5
+´W
+T1 T2 T3 T4 T5 T6 WDI
+ABN
+See DETAIL A
+DETAIL A
+Apron Spot1-A,B,C
+10 9 8 7 6543 21
+VOR/DME(KCE) 120m300m490.5m
+TWR
+2P1P
+W3
+5P4P3P
+WDI
+RWY HLDG PSN markings are
+located on TWY T1 THRU T6
+RWY guard lights are located on
+TWY T1 THRU T6
+Their locations are 75m off the
+RWY centerline.
+RWY GUARD LGT
+(FLASHING YELLOW)
+RWY GUARD LGT
+0.9m
+0.9m
+2.525m
+0.9m
+TWY
+RWY SIDE
+COMMON WAYS OF ITS MARKINGS AND LGT
+LONGITUDIAL PROFILE OF RWY
+KOBE AP
+(FLASHING YELLOW)
+W1     W2 7L 6L 6R 4L 4R 2L 2R
+420m 180m 300m
+7L 6L 6R 4L 4R 2L 2R
+234567
+WIND SPEED METER
+Kobe Ground 122.075GND
+CHANGE : Spot FM 11 to 15 established. REMARKS APRON.
+0.08%
+4.44m
+(14.6ft)
+1410m
+0.04%
+Administration officeFIRE STN
+TERMINAL
+     BLDG
+1112131415
+(EFF:20 MAR 2025) 20/2/25
+RJBE AD2.24-ADC-1
+KOBE
+
+
+=== Page 16 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJBE / KOBE SID
+KOBE SIX DEPARTURE
+RWY09: Turn right, climb via YOE R274 to intercept and proceed via 
+KIE R333, via KCE R272 to MAIKO.
+RWY27:  Climb via KCE R272 to MAIKO.
+MAIKO
+D11.5 KCE
+D25.2 YOE
+D10.6 KIE
+D9.0 KCE
+D13.9 KIE
+KCE R272
+YOE R274
+272˚
+274˚
+333˚
+KIE R333
+VOR/DME
+KOBE
+111.25  KCE
+CH-49Y           
+0FT
+ÛÝ1ÛÝ( VOR/DME
+YAO
+114.6  YOE
+CH-93X           
+ÛÝ1ÛÝ(
+100FT
+CH
+VOR/DME
+KANSAI
+111.6  KIE
+-53X           
+ÛÝ1ÛÝ(
+0FT
+CHANGE : PROC renamed. Note added. 
+Note RWY09 : 5.0% climb gradient required up to 500FT.
+         RWY27 : 5.0% climb gradient required up to 500FT.
+KANSAI
+INTL AP
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-SID-1
+KOBE
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT 
+RJBE / KOBE TRANSITION
+KIBI TRANSITION
+From over MAIKO, proceed via KCE R272 to KAWAT, via OYE R114 to OYE 
+VOR/DME.
+Cross KAWAT at or above 7000FT.
+YABUU TRANSITION
+From over MAIKO, proceed via KCE R272 to KAWAT, via KCE 33.3DME 
+clockwise ARC via OMBIP, to intercept and proceed via YME R215 to YME VOR/DME.
+Cross KAWAT at or above 7000FT, cross KCE R330 at or above 8000FT.
+KAGAWA TRANSITION
+From over MAIKO, proceed via KCE R272 to KAWAT, via KTE R058 to KTE 
+VOR/DME.
+Cross KAWAT at or above 7000FT.
+OMBIP TRANSITION
+From over MAIKO, proceed via KCE R272 to KAWAT, 
+ 
+Cross KAWAT at or above 7000FT.
+MAIKOKAWAT
+OMBIPKIBI TRANSITION
+YABUU TRANSITION
+272˚ R2727000
+KAGAWA TRANSITION
+OMBIP TRANSITION
+900FT
+VOR/DME
+MIYAZU
+112.6  YME
+CH-73X            
+2400FT
+ÛÝ1ÛÝ(
+VOR/DME
+KOBE
+111.25  KCE
+CH-49Y           
+0FT
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+CH-47X
+VOR/DME
+KAGAWA
+108.4   KTE
+700FT
+CH–21X
+ÛÝ1ÛÝ(
+294˚
+238˚
+D33.3 KCE
+D33.3 KCE
+D37.3 OYE
+D34.2 KTE
+D11.5 KCE
+CHANGE : YABUU TRANSITION, OMBIP TRANSITION established. TAMBA TRANSITION, AYAYA TRANSITION abolished. PROC course.
+                  ALT restriction at KAWAT .
+via KCE 33.3DME clockwise ARC to OMBIP.
+035˚
+D24.4 YME
+R330
+D33.3 KCE ARC
+8000
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-SID-2
+KOBE
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+NOITISNART VANREBOK / EBJR
+VAR 8˚W
+SOUJA TRANSITION
+WASYU TRANSITION / TANTA TRANSITION RNP1
+44.6
+282˚
+280˚/6.4
+SOUJA
+WASYU
+SHION
+ 
+SOUJA TRANSITION
+ATKAS
+SOUJA TRANSITION
+From MUKRI, to ATKAS, to GUMID, to SOUJA.
+WASYU TRANSITION
+From MUKRI, to ATKAS, to SHION at or above 5000FT, to WASYU.
+TANTA TRANSITION
+From MUKRI, to ATKAS, to TANTA.
+WASYU TRANSITION
+ 
+CHANGE : TANTA TRANSITION, MUKRI, ATKAS, GUMID established. WENDY TRANSITION, WENDY abolished.
+                   PROC course. ALT restriction at SHION. 
+Note GNSS required.
+5000
+MUKRI
+GUMID
+TANTA
+15.3
+290˚ 36.2
+279˚
+25.7
+260˚
+23.8
+230˚TANTA TRANSITION
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-SID-3
+KOBE
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+KOBE
+STANDARD DEPARTURE CHART-INSTRUMENT
+NOITISNART VANREBOK / EBJR
+SOUJA TRANSITION
+WASYU TRANSITION
+TANTA TRANSITION
+Serial
+Number
+Path
+Descriptor 
+Waypoint 
+Identifier
+Fly
+Over
+Course
+M˚(˚T)
+Magnetic
+Variation
+Distance
+(NM)
+Tur n 
+Direction
+Altitude
+(FT) 
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MUKRI  -8.2
+-8.2002 TF  ATKAS 6.4 RNP1
+RNP1
+280
+(271.9)
+-8.2003 TF GUMID 36.2 RNP1279
+(270.9)
+-8.2004 TF SOUJA 15.3 RNP1290
+(282.2)
+Serial
+Number
+Path
+Descriptor 
+Waypoint 
+Identifier
+Fly
+Over
+Course
+M˚(˚T)
+Magnetic
+Variation
+Distance
+(NM)
+Tur n 
+Direction
+Altitude
+(FT) 
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MUKRI  -8.2
+-8.2002 TF  ATKAS 6.4 RNP1
+RNP1
+280
+(271.9)
+-8.2003 TF SHION 25.7 RNP1260
+(251.4)
+-8.2004 TF WASYU 44.6 RNP1282
+(273.6)
+Serial
+Number
+Path
+Descriptor 
+Waypoint 
+Identifier
+Fly
+Over
+Course
+M˚(˚T)
+Magnetic
+Variation
+Distance
+(NM)
+Tur n 
+Direction
+Altitude
+(FT) 
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MUKRI -8.2
+-8.2002 TF  ATKAS 6.4 RNP1
+RNP1
+280
+(271.9)
++5000
+-8.2003            TF  TANTA 23.8 RNP1 (221.4)
+230
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+MUKRI
+ATKAS
+GUMID
+SOUJA
+343345.5N / 1345419.2E
+343358.2N / 1344630.9E
+343425.8N / 1340234.0E
+343738.6N / 1334422.5E
+SHION
+WASYU
+TANTA
+342542.1N / 1341657.4E
+342817.5N / 1332301.1E
+341604.9N / 1342729.2E
+CHANGE : TANTA TRANSITION, MUKRI, ATKAS, GUMID established. WENDY TRANSITION, WENDY abolished. PROC course. VAR.
+                   ALT restriction at SHION. Navigation Specification. Waypoint Coordinates added. 
+RJBE AD2.24-SID-4
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+NOITISNART VANREBOK / EBJR
+VAR 8˚W 
+MIDER TRANSITION / SANDA  TRANSITION / MIYAZU TRANSITION RNP1
+5.0
+027˚
+32.4
+044˚
+18.6
+085˚
+ 
+9.5336˚
+6.6 
+050˚
+23.4
+085˚
+6.2
+050˚
+MIYAZU(YME)
+MIDER
+MIDER TRANSITION
+REVUE
+SANDA
+HYOGO
+TRIPY
+ASAGI
+MIYAZU TRANSITION
+SANDA  TRANSITION
+MIDER TRANSITION
+From MUKRI, to LANID at or above 6000FT, to REVUE, to HYOGO, to SANDA, to MIDER.
+SANDA  TRANSITION
+From MUKRI, to LANID at or above 6000FT, to REVUE, to HYOGO, to SANDA.   
+MIYAZU TRANSITION
+From MUKRI, to LANID at or above 6000FT, to PORUS at or above 7000FT, to TRIPY , to ASAGI, to YME. 
+LANID
+6000
+ 
+Note GNSS required.
+PORUS
+7000 9.5336˚
+8.3357˚
+MUKRI
+CHANGE : MUKRI, LANID, PORUS established. STEEL abolished. Note. PROC course.
+                   ALT restriction at LANID, PORUS. DIST FM MUKRI to TRIPY. 
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-SID-5
+KOBE
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+KOBE
+STANDARD DEPARTURE CHART-INSTRUMENT
+NOITISNART VANREBOK / EBJR
+MIDER TRANSITION
+Serial
+Number
+Path
+Descriptor 
+Waypoint 
+Identifier
+Fly
+Over
+Course
+˚M(˚T)
+Course
+˚M(˚T)
+Course
+˚M(˚T)
+Magnetic
+Variation
+Distance
+(NM)
+Tur n 
+Direction
+Altitude
+(FT) 
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MUKRI  -8.2
+-8.2002 TF  LANID 8.3 RNP1
+RNP1
+357
+(349.2)
+-8.2003 TF REVUE 5.0 RNP1027
+(018.9)
+-8.2004 TF HYOGO 6.6 RNP1050
+(041.6)
+-8.2005 TF SANDA 18.6 RNP1085
+(076.4)
+-8.2006 TF MIDER 23.4 RNP1085
+(077.1)
++6000
+SANDA  TRANSITION
+Serial
+Number
+Path
+Descriptor 
+Waypoint 
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Tur n 
+Direction
+Altitude
+(FT) 
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MUKRI  -8.2
+-8.2002 TF  LANID 8.3 RNP1
+RNP1
+357
+(349.2)
+-8.2003 TF REVUE 5.0 RNP1027
+(018.9)
+-8.2004 TF HYOGO 6.6 RNP1050
+(041.6)
+-8.2005 TF SANDA 18.6 RNP1085
+(076.4)
++6000
+MIYAZU TRANSITION
+Serial
+Number
+Path
+Descriptor 
+Waypoint 
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Tur n 
+Direction
+Altitude
+(FT) 
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MUKRI  -8.2
+-8.2002 TF  LANID 8.3 RNP1
+RNP1
+357
+(349.2)
+-8.2004 TF TRIPY 9.5 RNP1336
+(327.8)
+-8.2005 TF ASAGI 6.2 RNP1050
+(041.6)
+-8.2006 TF YME 32.4 RNP1044
+(035.7)
++6000
+-8.2003 TF          PORUS 9.5 RNP1 336
+(327.9) +7000
+CHANGE : MUKRI, LANID, PORUS established. STEEL abolished. PROC course. VAR.
+                   DIST FM MUKRI to TRIPY. Navigation Specification. 
+RJBE AD2.24-SID-6
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+KOBE
+STANDARD DEPARTURE CHART-INSTRUMENT
+NOITISNART VANREBOK / EBJR
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+MUKRI
+LANID
+REVUE
+HYOGO
+343345.5N / 1345419.2E
+344152.2N / 1345226.6E
+344636.4N / 1345425.3E
+345130.6N / 1345944.0E
+MIDER
+PORUS
+TRIPY
+350101.4N / 1354933.6E
+344956.9N / 1344615.6E
+345801.2N / 1344003.4E
+SANDA 345550.2N / 1352143.9E
+ASAGI 350237.2N / 1344502.4E
+YME 352850.5N / 1350813.3E
+CHANGE : Waypoint Coordinates added. 
+RJBE AD2.24-SID-7
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+ 
+RNP1
+  
+ 
+SPEED
+RJBE / KOBE RNAV SID
+MUKRI ONE DEPARTURE
+Note GNSS required.
+VAR 8°W
+RWY09 : SHALL NOT EXCEED 210KIAS UNTIL PASSING 3000FT.
+MUKRI
+LEMET
+3000
+TARUP
+500 500
+257°/2.5
+KANSAI
+INTL AP
+280°
+7.7
+273° 093°
+RWY09 : Climb on HDG093° at or above 500FT, turn right direct to TARUP, 
+                to LEMET at or above 3000FT, to MUKRI.
+RWY27 : Climb on HDG273° at or above 500FT, turn left direct to TARUP,                
+                to LEMET at or above 3000FT, to MUKRI.
+Note RWY09 : 5.0% climb gradient required up to 500FT.
+         RWY27 : 5.0% climb gradient required up to 500FT.
+CHANGE : New PROC.
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-SID-8
+KOBE
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJBE AD2.24-SID-9
+STANDARD DEPARTURE CHART-INSTRUMENT
+ 
+ 
+VA 兠兠 兠 兠 兠兠
+DF 兠兠 兠 R 兠兠兠
+TF 兠兠 兠 兠
+TF 兠兠 兠 兠 兠
+VA 兠兠 兠 兠 兠兠
+DF 兠兠 兠 L 兠兠兠
+TF 兠兠 兠 兠
+TF 兠兠 兠 兠 兠
+RJBE / KOBE RNAV SID
+MUKRI ONE DEPARTURE
+RWY09 
+Serial
+Number
+    Path
+Descriptor
+Waypoint
+ Identifier
+  Fly
+Over
+Course
+ °M(°T)
+Magnetic
+Variation
+Distance
+   (NM)
+   Turn
+Direction
+Altitude
+  (FT)
+Speed
+(KIAS)
+Vertical
+ Angle
+  Navigation
+Specification
+001
+002
+003
+004
+TARUP
+LEMET
+MUKRI
+   093
+(084.6)
+   257
+(248.5)
+   280
+(272.0)
+-8.2
+-8.2
+-8.2
+-8.2
+2.5
+7.7
++500
++3000
+RNP1
+RNP1
+RNP1
+RNP1
+RWY27
+Serial
+Number
+    Path
+Descriptor
+Waypoint
+ Identifier
+  Fly
+Over
+Course
+ °M(°T)
+Magnetic
+Variation
+Distance
+   (NM)
+   Turn
+Direction
+Altitude
+  (FT)
+Speed
+(KIAS)
+Vertical
+ Angle
+  Navigation
+Specification
+001
+002
+003
+004
+TARUP
+LEMET
+MUKRI
+   273
+(264.6)
+   257
+(248.5)
+   280
+(272.0)
+-8.2
+-8.2
+-8.2
+-8.2
+2.5
+7.7
++500
++3000
+RNP1
+RNP1
+RNP1
+RNP1
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+TARUP
+LEMET
+343423.6N / 1350626.5E
+343329.7N / 1350340.2E
+MUKRI 343345.5N / 1345419.2E
+CHANGE : New PROC.
+KOBE
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJBE / KOBE STAR
+OMBIP ARRIVAL
+From over OMBIP, proceed via KCE 33.3DME counterclockwise ARC to intercept and 
+proceed via KCE R283 to TRACY , via KIE R311 to intercept and proceed via KCE R273 
+to SIOJI. 
+   Cross SIOJI at or above 3000FT.
+KAGAWA ARRIVAL
+From over KTE VOR/DME, proceed via KTE R054 to intercept and proceed via KCE R283 
+to TRACY , via KIE R311 to intercept and proceed via KCE R273 to SIOJI.
+cross SIOJI at or above 3000FT.
+Cross KCE R283/30.5DME(KTE R054/40.3DME) at or above 4000FT,
+OMBIP ARRIVAL
+KAGAWA ARRIVAL
+VOR/DME
+KOBE
+111.25  KCE
+CH-49Y           
+0FT
+103˚
+093˚
+KIE R311 
+KCE R273
+KCE R283
+D17.7 KCE
+D19.8 KIE
+D23.1 KCE
+D26.2 KIE
+D12.9 KCE
+SIOJI
+D33.3 KCE
+OMBIP
+TRACY
+3000
+CH
+VOR/DME
+KANSAI
+111.6  KIE
+-53X           
+0FT
+D33.3 KCE ARC
+D33.3 KCE 131˚
+CH
+VOR/DME
+KAGAWA
+108.4  KTE
+-21X           
+700FT
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+4000R288
+054˚
+CHANGE : New PROC.
+131˚
+KIE R311
+ 
+311˚
+TRACY
+D31.0 KIE
+MHA 3000
+MAX 230KIAS
+D26.2 KIE
+D30.5 KCE
+D40.3 KTE
+KANSAI
+INTL AP
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-STAR-1
+KOBE
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+RJBE / KOBE RNAV STAR RWY09
+AVKUL ARRIVAL / TRACY ARRIVAL RNP1
+Note GNSS required.
+VAR 8°W
+AVKUL ARRIVAL
+AVKUL
+TRACY SIOJI
+3000
+MAX 240KIAS
+TRACY ARRIVAL
+KANSAI
+INTL AP
+NOT TO SCALE
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MHA 3000
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+TRACY
+085°
+35.7
+115°
+10.6
+311°
+131°
+AVKUL ARRIVAL
+ From AVKUL, to TRACY, to SIOJI at or above 3000FT.
+TRACY ARRIVAL
+  From TRACY, to SIOJI at or above 3000FT.CHANGE : New PROC.
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-STAR-2
+KOBE
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+KOBE
+STANDARD ARRIVAL CHART-INSTRUMENT
+ 
+IF 兠兠 -8.2 兠兠兠 兠 兠 RNP1
+TF 兠 -8.2 35.7 兠兠兠兠 RNP1
+TF 兠 -8.2 10.6 兠 +3000 -240 兠 RNP1
+IF 兠兠 兠 兠 兠 兠 兠
+TF 兠兠 兠
+-8.2 L 兠
+L 兠
+RJBE / KOBE RNAV STAR RWY09
+AVKUL ARRIVAL
+Serial
+Number
+    Path
+Descriptor
+Waypoint
+ Identifier
+  Fly
+Over
+Course
+ °M(°T)
+Magnetic
+Variation
+Distance
+   (NM)
+   Turn
+Direction
+Altitude
+  (FT)
+Speed
+(KIAS)
+Vertical
+ Angle
+  Navigation
+Specification
+001
+002
+003
+AVKUL
+TRACY
+SIOJI
+   085
+(076.5)
+   115
+(106.7)
+Path Waypoint
+ Identifier
+Inbound
+ Course
+ °M(°T)
+Magnetic
+Variation
+Outbound
+    Time
+    (MIN)
+    Turn
+Direction
+Minimum
+ Altitude
+    (FT)
+Maximum
+  Altitude
+    (FT)
+Speed
+(KIAS)
+  Navigation
+Specification
+Hold TRACY    131
+(123.1)
+1.0(-14000)
+1.5(+14001) 3000 -230(-14000)
+-240(+14001) RNP1TRACY ARRIVAL
+Serial
+Number
+    Path
+Descriptor
+Waypoint
+ Identifier
+  Fly
+Over
+Course
+ °M(°T)
+Magnetic
+Variation
+Distance
+   (NM)
+   Turn
+Direction
+Altitude
+  (FT)
+Speed
+(KIAS)
+Vertical
+ Angle
+  Navigation
+Specification
+001
+002
+TRACY
+SIOJI    115
+(106.7)
+-8.2
+-8.2 10.6 +3000 -240
+RNP1
+RNP1
+Path Waypoint
+ Identifier
+Inbound
+ Course
+ °M(°T)
+Magnetic
+Variation
+Outbound
+    Time
+    (MIN)
+    Turn
+Direction
+Minimum
+ Altitude
+    (FT)
+Maximum
+  Altitude
+    (FT)
+Speed
+(KIAS)
+  Navigation
+Specification
+-8.2Hold TRACY
+   131
+(123.1)
+1.0(-14000)
+1.5(+14001) 3000 -230(-14000)
+-240(+14001) RNP1Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+AVKUL
+TRACY
+343135.4N / 1340338.7E
+343949.3N / 1344547.8E
+SIOJI 343645.2N / 1345808.8E
+CHANGE : New PROC.
+RJBE AD2.24-STAR-3
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+NM to IKO
+ALT (3.0˚ APCH Path)
+FAF
+2919
+4
+1283
+5
+1601
+3
+964
+2
+646
+8
+2557
+9
+2875
+7
+2238
+6
+1920
+MAPt
+–
+RJBE / KOBE
+3000
+3000
+2919(LOC)
+1596(LOC)
+RDH59
+PEGDO
+(FAF)
+1600
+(1582) 1270
+(1252) MDA
+SDF
+(LOC)
+VDP
+(LOC)
+MAPt
+(LOC)
+SIOJI
+(IF)
+12.2
+12.0
+DME to IKO
+NM to THR
+9.1
+8.9
+5.0
+4.8
+1.5
+1.3
+0.6
+0.4 0
+0.2
+092˚
+ILS Z or LOC Z RWY09
+092˚
+GP3.0˚
+MISSED APPROACH
+No turn before IKO 0.6DME.
+Timing not authorized for defining the MAPt.
+Climb on course 093˚,
+at or above 500FT turn right,
+direct to TARUP, to LEMET 
+at or above 3000FT, to MUKRI, 
+to TRACY and hold at 3000FT.
+Contact KOBE TOWER.
+ 
+MINIMA 
+CAT
+CAT
+DA(H)
+221 (200) 460 (442)
+580 (562)
+510 (492)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 21 AD elev. 18
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+Circling to 
+SOUTH side of RWY only.
+ 
+092˚
+10NM
+093˚
+092˚
+500
+TARUP
+257°
+MUKRI
+TRACY
+(MAHF)
+2.5
+(248.5°T)
+7.7
+9.3
+(310.9°T)
+   Note 凬䢢For Missed approach segment
+(1)RNP1
+ (2)GNSS required.        
+EQPT REQUIRED
+DMEVAR 8˚W 
+MSA 25NM
+4800
+ARP
+ARP : 343758N/1351326E
+092˚
+272˚
+MHA 3000
+MAX 230KIASD18.0 IKO
+SIOJI
+D12.2 IKO
+LOC Course to 
+RWY09
+ Using NAVAID RNAV HLDG
+NOT TO SCALE
+131˚
+311˚
+TRACY
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+NOT TO SCALE
+MHA 3000
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+ 
+ 
+TARUP   343423.6N
+1350626.5E
+LEMET   343329.7N
+1350340.2E
+MUKRI   343345.5N
+1345419.2E
+TRACY
+(MAHF)
+  343949.3N
+1344547.8E
+CHANGE : New PROC.
+MAPt
+  (LOC)
+D0.6 IKO
+PEGDO
+    (FAF)
+  D9.1 IKO
+SIOJI
+      (IF)
+  D12.2 IKO
+LEMET
+3000
+280°
+(272.0°T)
+319°
+PEGDO(FAF) : 343702.83N/1350149.31E
+KANSAI  RADAR
+121.15 – 120.85
+261.2
+ILS–LOC
+109.15   IKO
+ILS–GP  331.25
+ILS–DME CH–28Y
+KOBE  TOWER
+118.5 – 126.2
+RADAR  AVBL
+ATIS   128.075
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-IAC-1
+KOBE
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180˚
+360˚
+270˚
+NM to IKO
+ALT (3.0˚ APCH Path)
+FAF
+2919
+4
+1283
+5
+1601
+3
+964
+2
+646
+8
+2557
+9
+2875
+7
+2238
+6
+1920
+MAPt
+–
+RJBE / KOBE
+092˚
+333˚
+274˚
+092˚273˚
+3000
+3000
+2919(LOC)
+1596(LOC)
+RDH59
+PEGDO
+(FAF)
+1600
+(1582) 1270
+(1252) MDA
+SDF
+(LOC)
+VDP
+(LOC)
+MAPt
+(LOC)
+SIOJI
+(IF)
+12.2
+12.0
+DME to IKO
+NM to THR
+9.1
+8.9
+5.0
+4.8
+1.5
+1.3
+0.6
+0.4 0
+0.2
+KCE
+092˚
+ILS Y or LOC Y RWY09
+KANSAI  RADAR
+121.15 – 120.85
+261.2
+ILS–LOC
+109.15   IKO
+ILS–GP  331.25
+ILS–DME
+CH–28Y
+KOBE  TOWER
+118.5 – 126.2
+RADAR  AVBL
+ATIS   128.075
+PEGDO
+(FAF)
+D9.1 IKO
+SIOJI
+(IF)
+D12.2 IKO 
+D25.2 YOE 
+D10.6 KIE
+MAPt
+(LOC)
+D0.6 IKO
+1012
+829
+338
+10
+NM
+YOE R274
+KIE R333
+1024
+VOR/DME
+KOBE
+111.25  KCE
+CH-49Y           
+ÛÝ1ÛÝ(
+092˚
+GP3.0˚
+MISSED APPROACH
+No turn before IKO 0.6DME.
+Timing not authorized for defining the MAPt.
+Climb on HDG092˚ to 500FT,
+turn right proceed via YOE R274
+to intercept and proceed via KIE 
+R333, via KCE R273 to SIOJI 
+and hold at 3000FT.
+Contact KOBE TOWER.
+EQPT REQUIRED
+DME
+VOR
+VOR/DME
+YAO
+CH-93X
+114.6 YOE
+ÛÝ1ÛÝ(
+PEGDO(FAF) : 1(
+KANSAI
+INTL AP
+HDG092˚
+VAR 8˚W 
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+221 (200) 460 (442)
+580 (562)
+510 (492)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 21 AD elev. 18
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+Circling to 
+SOUTH side of RWY only.
+090˚ 270˚
+360˚
+4200
+48003000
+MSA 25NM
+KCE
+CH
+VOR/DME
+KANSAI
+111.6  KIE
+-53X           
+ÛÝ1ÛÝ(
+D14.1 KIE
+D9.0 KCE
+3056
+CHANGE : PROC renamed. PEGDO established. MARIN abolished. PROC ALT at PEGDO(FAF), SDF.
+                   ALT(3.0°APCH Path). OCA(H). Missed APCH climb gradient MNM. THR elev. MINIMA for DA(H).
+ 
+092˚
+272˚
+MHA 3000
+MAX 230KIASD18.0 IKO
+NOT TO SCALE
+D12.2 IKO
+SIOJI
+LOC Course to
+RWY09
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-IAC-2
+KOBE
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+NM to Next Fix
+ALT (3.0˚ APCH Path)
+FAF
+2800
+3
+1036
+4
+1354
+2
+717
+7
+2309
+8
+2628
+6
+1991
+5
+1672
+MAPt
+–
+RJBE / KOBE
+3000 2800
+1606
+RDH59
+AKPUN
+(FAF)
+1600
+(1582) 600
+(582) MDA
+BE950
+(LNAV)
+VDP
+(LNAV)
+RW09
+(MAPt)
+SIOJI
+(IF)
+12.0 NM to THR8.5 4.8 1.3 0
+093˚
+RNP RWY09
+3.00˚
+MISSED APPROACH
+Turn right direct to TARUP,
+to LEMET at or above 3000FT, 
+to MUKRI, to TRACY and hold 
+at 3000FT.
+Contact KOBE TOWER.
+ 
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+273 (252) 460 (442)
+580 (562)
+510 (492)800
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LNAV                           CIRCLING
+THR elev. 21 AD elev. 18
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+Circling to 
+SOUTH side of RWY only.
+RNP APCH
+CHANGE : New PROC.
+ 
+10NM
+ RW09  
+(MAPt)
+TARUP
+257°
+MUKRI
+TRACY
+(MAHF)
+2.5
+(248.5°T)
+7.7
+9.3
+(310.9°T)
+ BE950
+4.8
+(084.5°T)
+(084.5°T)
+3.4
+MSA 25NM
+4800
+ARP
+ARP : 343758N/1351326E
+VAR 8˚W 
+ 
+ 
+TARUP   343423.61N
+1350626.45E
+LEMET   343329.67N
+1350340.22E
+MUKRI   343345.50N
+1345419.20E
+TRACY   343949.27N
+1344547.82E
+RW09
+(MAPt)
+  343753.91N
+1351237.12E
+BE950   343726.67N
+1350650.13E
+AKPUN
+  (FAF)
+  343705.19N
+1350218.95E
+ SIOJI
+   (IF)
+  343645.24N
+1345808.77E
+093˚
+273˚
+SIOJI
+NOT TO SCALE
+131˚
+311˚
+TRACY
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+NOT TO SCALE
+MHA 3000
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 230KIAS(at or below FL140)
+MAX 240KIAS(above FL140)
+MHA 3000
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+Baro-VNAV not authorized below -5°C
+093°093°
+3.7
+093°
+(084.4°T)
+AKPUN
+    (FAF)SIOJI
+      (IF)
+LEMET
+3000
+280°
+(272.0°T)
+319°
+093˚
+1200
+KANSAI  RADAR
+121.15 – 120.85
+261.2
+KOBE  TOWER
+118.5 – 126.2
+RADAR  AVBL
+ATIS   128.075
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-IAC-3
+KOBE
+
+
+=== Page 32 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJBE / KOBE Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+୍䝜㇂ 㻶㻾㡲☻㥐
+Ichinotani JR Station
+ྡ㇂ ⚄ᡞᕷႠす⚄䞉ᒣᡭ⥺ྡ㇂㥐
+Myodani Station
+㛗⏣ 㻶㻾᪂㛗⏣㥐
+Nagata JR Station
+࿴⏣ᓁ ᓁ
+Wadamisaki Cape
+䚷ᕸᘬ ᕸᘬබᅬ
+Nunobiki Park
+ℿ὾ 䝝䞊䝞䞊䝝䜲䜴䜵䜲ᦶ⪨䝷䞁䝥
+Nadahama Ramp
+䝫䞊䝖䜰䜲䝷䞁䝗 䝫䞊䝖䜰䜲䝷䞁䝗༡ᇧ㢌
+Port Island Southern Warf of Port Island
+භ⏥䜰䜲䝷䞁䝗 භ⏥䜰䜲䝷䞁䝗༡ᮾ➃
+Rokko Island Southern Edge of Rokko Island
+῝Ụ 㜰⚄㧗㏿㻡ྕ‴ᓊ⥺㻌῝Ụ὾䜲䞁䝍䞊䝏䜵䞁䝆
+Fukae Interchange
+䜲䞊䝇䝖䝫䜲䞁䝖 すᐑ䝶䝑䝖䝝䞊䝞䞊㜵Ἴሐ
+East Point Breakwater of Nishinomiya Yacht Harbor
+304°T / 2.2NM
+294°T / 7.0NM
+291°T / 4.2NM
+Call sign BRG / DIST from ARP Remarks
+CHANGE : VAR.
+012°T / 2.0NM
+276°T 5.5NM/
+359°T / 3.8NM
+4.8NM342°T /
+053°T / 7.2NM
+047°T / 4.4NM
+/ 6.0NM038°T
+KOBE CONTROL ZONE
+FUKAE
+FUFUFUKAKAKAEEE
+CONTROL ZONE
+5NM from ARP
+KOBE TOWER
+KOBE TO
+118.5
+E TO
+5
+5 -
+OWER
+O
+TO
+- 126.2
+VAR 8
+R 8
+888
+
+W(2022) /
+ / 5'W
+㼃㼑㼎
+㼑㼎㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+EAST POINT
+EAEASTST PPOIOINTNT
+ICHINOTANI
+ICICHIHINONOTATANINI
+MYODANI
+MYMYODODO ANANII
+NUNOBIKI
+NUUNOOBIKI
+NADAHAMA
+NANADADAHAHAMAMA
+NAGATA
+NANAGAGATATA
+WADAMISAKI
+WAWADADAMIMISASAS KIKI
+PORT ISLAND
+POPORTRT IISLSLANANDD
+ROKKO
+ROROKKKKOO
+O
+OO
+ ISLAND
+2500
+2000
+(EFF:23 FEB 2023) 26/1/23
+RJBE AD2.24-OTHER-1
+KOBE
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+CGL
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+PAPI ANGLE 3.0˚
+MEHT 22.5m(74ft)
+491m FM THR
+PAPI ANGLE 3.0˚
+MEHT 20.0m(66ft)
+431m FM THR
+ALB
+PALS
+SALS
+ABN
+8200× 200ft8200× 200ft
+Asph–ConcAsph–Conc
+KOBE
+TWR
+118.5–126.2
+VOR/DME
+KOBE
+111.25 KCE
+ÛÝ1ÛÝ(
+CH-49YSCALE
+1000
+500 500 1000 m0
+10000 3000 ft
+PORT ISLANDPORT ISLAND
+RJBE / KOBE LDG CHART
+616616
+660
+330
+660
+330
+41´
+40´
+39´
+38´
+34˚37´
+135˚11´ 12´ 13´ 14´ 15´ 16´
+VAR 8˚W(2022)Annual Change 5
+´W
+CHANGE : VAR.
+(EFF:23 FEB 2023) 26/1/23
+RJBE AD2.24-OTHER-2
+KOBE
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+ muminiMEBOK / EBJR Vectoring Altitude CHART
+VAR 8˚W (2023)
+40NM
+40NM
+50NM
+10NM
+50N
+M
+30NM
+20N
+M20NM
+60NM
+70NM
+80N
+M
+CENTER 凬 342636N/1351511E (No.1 RADAR SITE)
+CENTER 凬 342540N/1351343E (No.2 RADAR SITE)
+凬 341405N/1344851E  RADIUS 凬 3NM
+15000
+12000
+4000
+10000
+11000
+25000
+11000
+8000 3000
+030˚
+080˚
+310˚
+280˚
+270˚
+100˚
+110˚
+140˚
+169˚
+220˚
+200˚
+235˚
+260˚
+300˚
+330˚
+6000
+15000
+20000
+10000
+10000 17000
+8000
+6000
+13000
+020˚
+4500
+5000
+9000
+350˚
+8000
+9000
+7000
+5000
+5000
+3500
+8000
+6000
+8000
+6000
+15NM
+13NM
+13NM
+11.5NM
+1500
+2000
+2100
+3500
+4000
+5000
+䷵
+䷵
+䷶
+䷶
+䷶
+䷷
+䷷
+䷸
+䷸
+䷹
+䷹
+䷺
+䷺
+CHANGE : Update.
+185˚
+169˚
+12000
+205˚210˚
+215˚
+䷹
+9000
+11000
+13000
+䷻
+䷻
+䷼
+15000
+290˚
+94NM
+100NM
+90NM
+15000
+120NM
+9000
+10000
+10000
+12000
+50007000
+320˚
+䷻
+䷼
+10000
+12000
+6000
+11000
+(EFF:20 MAR 2025) 23/1/25
+RJBE AD2.24-OTHER-3
+KOBE
+

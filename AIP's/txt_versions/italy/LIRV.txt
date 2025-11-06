@@ -1,0 +1,1061 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIRV 1 - 1
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRV AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIRV AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIRV - VITERBO
+LIRV AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIRV AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+42°26'07''N 012°03'41''E
+2 Direzione e distanza dalla città 1.62 NM NW Viterbo
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+992 FT / 30° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+4° E (2025.4) / 8'E
+5 Autorità amministrativa aeroportuale Aeronautica Militare - Comando Aeroporto 'T. Fabbri'
+Via Tuscanese 71/H
+01100 Viterbo
+ Centralino +3907613551
+ e-mail: aeromarescialli@aeronautica.difesa.it
+ENAC - Direzione Territoriale Lazio
+Aeroporto "Leonardo Da Vinci"
+00054 Fiumicino (Roma)
+ Tel. +39 06 65953139
+ E-mail: laziofco.apt@enac.gov.it
+ Aerodrome administration authority Italian Air Force - 'T. Fabbri' Aerodrome Command
+Via Tuscanese 71/H
+01100 Viterbo
+ Switchboard +3907613551
+ e-mail: aeromarescialli@aeronautica.difesa.it
+ 
+ Gestore aeroportuale Aeronautica Militare
+ Aerodrome operator Italian Air Force
+ Autorità ATS Aeronautica Militare
+Pratica di Mare ARO-CBO
+Tel +39 06 91292333/2256
+Fax +39 06 91292005
+Email: aerolog.dasas.cbo@aeronautica.difesa.it
+ ATS authority Italian Air Force
+Pratica di Mare ARO-CBO
+Tel +39 06 91292333/2256
+Fax +39  06 91292005
+Email: aerolog.dasas.cbo@aeronautica.difesa.it
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. AD militare aperto al traffico del locale aeroclub e al traffico civile autorizzato
+dall’autorità dell’aviazione civile (ENAC) previo nulla osta dello Stato Maggiore
+dell’Aeronautica
+ Remarks 1. Military AD open to local aeroclub and to civil air traffic authorized by civil aviation
+authority (ENAC) previous consent by “Stato Maggiore Aeronautica”
+LIRV AD 2.3 ORARIO DEI SERVIZI
+LIRV AD 2.3 OPERATIONAL HOURS
+
+=== Page 2 ===
+AD 2 LIRV 1 - 2
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+1 Amministrazione aeroportuale PERIODO INVERNALE:
+MON-THU 0700-SS+30 o 0700-1830 quale dei due si verifichi prima.
+FRI-SAT e festivi 0700-1200, 1300-SS+30 o 1300-1830 quale dei due si verifichi
+prima.
+PERIODO ESTIVO:
+MON-THU 0600-SS+30 o 0600-1730 quale dei due si verifichi prima.
+FRI 0600-1100, 1200-SS+30 o 1200-1730 quale dei due si verifichi prima.
+SAT e HOL 0700-1100, 1200-SS+30 o 1200-1730 quale dei due si verifichi prima.
+ Aerodrome Administration WINTER TIME:
+MON-THU 0700-SS+30 or 0700-1830 whichever is earlier.
+FRI-SAT and HOL 0700-1200, 1300-SS+30 or 1300-1830 whichever is earlier.
+SUMMER TIME:
+MON-THU 0600-SS+30 or 0600-1730 whichever is earlier.
+FRI 0600-1100, 1200-SS+30 or 1200-1730 whichever is earlier.
+SAT and HOL 0700-1100, 1200-SS+30 or 1200-1730 whichever is earlier.
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO-CBO Pratica di Mare
+   
+5 ARO H24 ARO-CBO Pratica di Mare
+   
+6 METEO Briefing Office H24
+   
+7 ATS PERIODO INVERNALE:
+MON-THU 0700-SS+30 o 0700-1830 quale dei due si verifichi prima.
+FRI-SAT e festivi 0700-1200, 1300-SS+30 o 1300-1830 quale dei due si verifichi
+prima.
+PERIODO ESTIVO:
+MON-THU 0600-SS+30 o 0600-1730 quale dei due si verifichi prima.
+FRI 0600-1100, 1200-SS+30 o 1200-1730 quale dei due si verifichi prima.
+SAT e HOL 0700-1100, 1200-SS+30 o 1200-1730 quale dei due si verifichi prima.
+  WINTER TIME:
+MON-THU 0700-SS+30 or 0700-1830 whichever is earlier.
+FRI-SAT and HOL 0700-1200, 1300-SS+30 or 1300-1830 whichever is earlier.
+SUMMER TIME:
+MON-THU 0600-SS+30 or 0600-1730 whichever is earlier.
+FRI 0600-1100, 1200-SS+30 or 1200-1730 whichever is earlier.
+SAT and HOL 0700-1100, 1200-SS+30 or 1200-1730 whichever is earlier.
+8 Rifornimento NIL
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. Servizio informazioni metereologiche fornito da ‘Centro Operativo per la
+Meteorologia (COMET)’ Pratica di Mare
+ Remarks 1. Meteorological information service provided by ‘Centro Operativo per la
+Meteorologia (COMET)’ Pratica di Mare
+LIRV AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIRV AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIRV 1 - 3
+AIRAC effective date 28 NOV 2024
+ENAV - Roma (A12/24)
+2 Tipi di carburante/Olio NIL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+LIRV AD 2.5 SERVIZI PER I PASSEGGERI
+LIRV AD 2.5 PASSENGER FACILITIES
+1 Alberghi NIL
+ Hotels  
+2 Ristoranti NIL
+ Restaurants  
+3 Trasporti NIL
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIRV AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIRV AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Presidio antincendio e di primo soccorso per ACFT civili assicurato da MMT S.R.L.
+nei seguenti orari operativi:
+0630-SS+30 (0530-SS+30) con 30 minuti di preavviso contattando il numero
+telefonico +39 0761254436
+ Remarks 1. First rescue and fire fighting support for civil ACFT assured by MMT S.R.L.
+operational HR:
+0630-SS+30 (0530-SS+30) PN 30 minutes contacting telephone number +39
+0761254436
+LIRV AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIRV AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+
+=== Page 4 ===
+AD 2 LIRV 1 - 4
+AIRAC effective date 28 NOV 2024 AIP - Italia
+(A12/24) ENAV - Roma
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIRV 1 - 5
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRV AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIRV AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+NIL NIL NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A1 NIL NIL NIL
+B1 NIL NIL NIL
+C NIL NIL NIL
+D NIL ASPH PCN 13/F/C/X/T
+D1 NIL ASPH NIL
+E NIL NIL NIL
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIRV AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIRV AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIRV AD 2.10 OSTACOLI AEROPORTUALI
+LIRV AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+NIL
+
+=== Page 6 ===
+AD 2 LIRV 1 - 6
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+LIRV AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIRV AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+Ufficio Meteorologico - COA (COAMET) Poggio Renatico
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+Ufficio Meteorologico - COA (COAMET) Poggio Renatico / 9 HR
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL / NIL
+ Flight documentation and
+language used
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. Ufficio Meteorologico-COA (COAMET) Poggio Renatico 
+tel +39 0532 828195
+e-mail: aerocoa.aso.mwo@aeronautica.difesa.it
+2. TAF emessi
+Orario invernale:
+0700-1500, 0900-1800, 1200-2100, 15002400
+Orario estivo:
+0600-1500, 0900-1800, 1200-2100, 1500-2400
+ Climatological information and additional
+information
+1. Ufficio Meteorologico-COA (COAMET) Poggio Renatico 
+tel +39 0532 828195
+e-mail: aerocoa.aso.mwo@aeronautica.difesa.it
+2. Issued TAF
+Winter time:
+0700-1500, 0900-1800, 1200-2100, 1500-2400
+Summer time:
+0600-1500, 0900-1800, 1200-2100, 15002400
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIRV 1 - 7
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRV AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIRV AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+04C 038.57° 1500 x 30
+PCN 21/F/C/W/T
+ASPH
+42°25'48.09''N
+012°03'20.38''E
+966.2 FT / NIL
+22C 218.58° 1500 x 30
+PCN 21/F/C/W/T
+ASPH
+42°26'26.09''N
+012°04'01.30''E
+992.4 FT / NIL
+04L 038.57° 920 x 24
+PCN 20/F/C/X/T
+ASPH
+42°25'56.97''N
+012°03'22.95''E
+971.1 FT / NIL
+22R 218.57° 920 x 24
+PCN 20/F/C/X/T
+ASPH
+42°26'20.28''N
+012°03'48.04''E
+987.5 FT / NIL
+04R 038.84° 601 x 36
+PCN 15/F/A/W/T
+ASPH
+42°26'06.36''N
+012°03'44.04''E
+977.7 FT / NIL
+22L 218.84° 601 x 36
+PCN 15/F/A/W/T
+ASPH
+42°26'21.26''N
+012°04'00.23''E
+987.5 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+04C NIL 60 x 30 70 x 150 1740 x 150 NIL
+22C NIL 60 x 30 91 x 150 1740 x 150 NIL
+04L NIL 66 x 24 373 x 80 1172 x 80 NIL
+22R NIL 66 x 24 347 x 80 1172 x 80 NIL
+04R NIL NIL 232 x 60 661 x 60 NIL
+22L NIL NIL 301 x 60 661 x 60 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+04C NIL NIL
+22C NIL NIL
+04L NIL NIL
+22R NIL NIL
+04R NIL
+1) Testata in calcestruzzo /
+ head in concrete (100 x 45 m)
+22L NIL
+1) Testata in calcestruzzo /
+ head in concrete (100 x 45 m)
+WARNING: RWY 04R/22L è disponibile solo per uso militare WARNING: RWY 04R/22L available only for military use
+LIRV AD 2.13 DISTANZE DICHIARATE
+LIRV AD 2.13 DECLARED DISTANCES
+
+=== Page 8 ===
+AD 2 LIRV 1 - 8
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+04C
+INT TAKE-OFF A1
+INT TAKE-OFF E
+INT TAKE-OFF B1
+INT TAKE-OFF D
+1500
+132
+290
+720
+1326
+1570
+202
+360
+790
+1396
+1560
+192
+350
+780
+1386
+1500
+-
+-
+-
+-
+22C
+INT TAKE-OFF A1
+INT TAKE-OFF E
+INT TAKE-OFF B1
+INT TAKE-OFF D
+1500
+1368
+1210
+780
+174
+1591
+1459
+1301
+871
+265
+1560
+1428
+1270
+840
+234
+1500
+-
+-
+-
+-
+04L
+INT TAKE-OFF C
+920
+242
+1293
+615
+986
+308
+920
+-
+22R
+INT TAKE-OFF C
+920
+678
+1267
+1025
+986
+744
+920
+-
+04R 601 833 601 601
+22L 601 902 601 601
+NOTE
+REMARKS
+NIL
+WARNING: RWY 04R/22L è disponibile solo per uso militare WARNING: RWY 04R/22L available only for military use
+LIRV AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIRV AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+04C NIL NIL NIL NIL NIL NIL NIL NIL
+22C NIL NIL NIL NIL NIL NIL NIL NIL
+04L NIL NIL NIL NIL NIL NIL NIL NIL
+22R NIL NIL NIL NIL NIL NIL NIL NIL
+04R NIL NIL NIL NIL NIL NIL NIL NIL
+22L NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+04C NIL NIL NIL NIL NIL NIL NIL NIL
+22C NIL NIL NIL NIL NIL NIL NIL NIL
+04L NIL NIL NIL NIL NIL NIL NIL NIL
+22R NIL NIL NIL NIL NIL NIL NIL NIL
+04R NIL NIL NIL NIL NIL NIL NIL NIL
+22L NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIRV 1 - 9
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+04C NIL NIL NIL NIL NIL NIL
+22C NIL NIL NIL NIL NIL NIL
+04L NIL NIL NIL NIL NIL NIL
+22R NIL NIL NIL NIL NIL NIL
+04R NIL NIL NIL NIL NIL NIL
+22L NIL NIL NIL NIL NIL NIL
+WARNING: RWY 04R/22L è disponibile solo per uso militare WARNING: RWY 04R/22L available only for military use
+LIRV AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIRV AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro digitale sonico a circa 700m dalla RWY THR 04L, 700m a sinistra della
+RCL, provvisto di segnaletica notturna ICAO
+Anemometro elettromeccanico in corrispondenza della THR 04C, circa 200m a destra
+della RCL, provvisto di segnaletica notturna ICAO.
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Digital sonic anemometer at about 700m from RWY THR 04L, 700m left side RCL,
+ICAO night signal provided
+Electromechanical anemometer on THR 04C, about 200m right side RCL, ICAO night
+signal provided.
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIRV AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIRV AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+
+=== Page 10 ===
+AD 2 LIRV 1 - 10
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIRV AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIRV AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Viterbo ATZ
+Circular area centered on
+42°26'03"N 012°03'44"E
+within a 5.0 NM radius.
+5000 FT
+AMSL
+G
+Viterbo TWR
+IT/EN
+NIL
+1) WI Roma FIR
+2) Aeroporto controllato/
+Controlled aerodrome
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIRV 1 - 11
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRV AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIRV AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 Vedi note/see remarks
+PERIODO INVERNALE/WINTER
+TIME
+MON-THU 0700-SS+30 o/or
+0700-1830 quale dei due si verifichi
+prima/whichever is earlier.
+FRI-SAT e/and HOL 0700-1200,
+1300 - SS+30 o/or 1300-1830
+quale dei due si verifichi prima/
+whichever is earlier.
+PERIODO ESTIVO/SUMMER TIME
+MON-THU 0600-SS+30 o/or
+0600-1730 quale dei due si verifichi
+prima/whichever is earlier.
+FRI 0600-1100, 1200-SS+30 o/or
+1200-1730 quale dei due si verifichi
+prima/whichever is earlier.
+SAT e/and HOL 0700-1100, 1200-
+SS+30 o/or 1200-1730 quale dei
+due si verifichi prima/whichever is
+earlier.
+TWR Viterbo TWR 122.100 Vedi note/see remarks
+PERIODO INVERNALE/WINTER
+TIME
+MON-THU 0700-SS+30 o/or
+0700-1830 quale dei due si verifichi
+prima/whichever is earlier.
+FRI-SAT e/and HOL 0700-1200,
+1300 - SS+30 o/or 1300-1830
+quale dei due si verifichi prima/
+whichever is earlier.
+PERIODO ESTIVO/SUMMER TIME
+MON-THU 0600-SS+30 o/or
+0600-1730 quale dei due si verifichi
+prima/whichever is earlier.
+FRI 0600-1100, 1200-SS+30 o/or
+1200-1730 quale dei due si verifichi
+prima/whichever is earlier.
+SAT e/and HOL 0700-1100, 1200-
+SS+30 o/or 1200-1730 quale dei
+due si verifichi prima/whichever is
+earlier.
+
+=== Page 12 ===
+AD 2 LIRV 1 - 12
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+TWR Viterbo TWR 127.150 Vedi note/see remarks
+PERIODO INVERNALE/WINTER
+TIME
+MON-THU 0700-SS+30 o/or
+0700-1830 quale dei due si verifichi
+prima/whichever is earlier.
+FRI-SAT e/and HOL 0700-1200,
+1300 - SS+30 o/or 1300-1830
+quale dei due si verifichi prima/
+whichever is earlier.
+PERIODO ESTIVO/SUMMER TIME
+MON-THU 0600-SS+30 o/or
+0600-1730 quale dei due si verifichi
+prima/whichever is earlier.
+FRI 0600-1100, 1200-SS+30 o/or
+1200-1730 quale dei due si verifichi
+prima/whichever is earlier.
+SAT e/and HOL 0700-1100, 1200-
+SS+30 o/or 1200-1730 quale dei
+due si verifichi prima/whichever is
+earlier.
+LIRV AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIRV AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIRV AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIRV AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+RWY 04R/22L disponibile per le sole necessità del traffico militare RWY 04R/22L available for military traffic necessities only
+2 Servizio apron 2 Apron management service
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta(AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Durante i seguenti periodi/orari MON-THU 0730-1500
+(06301400), FRI 0730-1200 (0630-1100) l’attività degli aeromobili
+civili è subordinata ad un PPR da ottenere con 30 minuti di preavviso
+al Comando Aeroporto Viterbo (tel +39 0761 3552395), a causa
+dell’intensa attività dell’aviazione dell’Esercito Italiano
+6.1. During following periods/HR MON-THU 0730-1500 (06301400),
+FRI 0730-1200 (0630-1100) civil ACFT activity is subject to PPR to
+be obtained by ‘Comando Aeroporto Viterbo’ PN 30 minutes (tel +39
+0761 3552395), due to intensive Italian Army aviation activity
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIRV 1 - 13
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIRV AD 2.21 PROCEDURE ANTIRUMORE
+LIRV AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIRV AD 2.22 PROCEDURE DI VOLO
+LIRV AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+4.1.1. L'attività di volo nel circuito di traffico aeroportuale è
+regolamentata come di seguito indicato:
+a. di giorno, in accordo ai minimi VFR riportati in ENR 1.2, 2)
+b. è richiesto il contatto radio bilaterale continuo
+c. in caso di visibilità al suolo inferiore a 5 km e fino a 1500 m, possono
+essere autorizzati ad operare, a discrezione del controllore di TWR,
+fino ad un massimo di 3 aeromobili contemporaneamente, comprese
+operazioni di decollo e atterraggio
+4.1.1. Flight activity in the aerodrome traffic circuit is regulated as
+follows:
+a. during day, according to VFR minima reported in ENR 1.2, 2)
+b. continuous two-way radio contact is required
+c. when the ground visibility is less than 5 km but not less than 1500
+m, a maximum of 3 aircraft may be authorised, at TWR controller
+discretion, to operate simultaneously, including landing and take-
+off operations
+NOTA
+Allo scopo di non superare il numero massimo di tre aeromobili
+nel circuito di traffico di aeroporto, ai voli addestrativi può
+essere richiesto temporaneamente, dal controllore di TWR, di
+atterrare o di lasciare il circuito di traffico di aeroporto per
+attendere in specifiche zone all'interno o al di fuori dell'ATZ.
+REMARK
+For the purpose of never exceed the maximum amount of three
+aircraft in the aerodrome traffic circuit, training flights may
+temporarily be requested, by the TWR controller, either to land
+or to leave the aerodrome traffic circuit to hold in appropriate
+areas either within or outside the ATZ.
+d. fuori dalle nubi in contatto visivo con il suolo e/o con l'acqua
+e. gli aeromobili in decollo devono dare la precedenza agli aeromobili
+in atterraggio
+f.gli aeromobili in addestramento che operano nel circuito di traffico
+di aeroporto devono dare la precedenza agli aeromobili in decollo
+che intendono uscire dal circuito di traffico di aeroporto
+d. clear of cloud and with the surface in sight
+e. departing aircraft shall give way to landing aircraf
+f.training aircraft operating in the aerodrome traffic circuit shall give
+way to departing aircraft intending to leave the aerodrome traffic
+circuit
+4.1.2. In condizioni di visibilità al suolo inferiore a 1500 m, agli
+elicotteri in VFR è fornito solo il servizio informazioni volo aeroportuale.
+4.1.2. When ground visibility is less than 1500 m, VFR helicopters will
+be provided with aerodrome flight information service only.
+4.2 Attività di circuito 4.2 Circuit activity
+RWY 04 a destra
+RWY 22  a sinistra
+RWY 04 right side
+RWY 22 left side
+4.2.1 Pista 04 in uso 4.2.1 RWY 04 in use
+
+=== Page 14 ===
+AD 2 LIRV 1 - 14
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+L’aeromobile in avvicinamento dovrà portarsi su BAGNAIA (RVE1)
+punto <A>, ENE del campo ad una altitudine di 2500 ft (QNH
+di Viterbo) e, se autorizzato, immettersi nel circuito di traffico
+aeroportuale con rotta Ovest (entrata standard a 45°).Il sottovento
+dovrà essere effettuato a 2000 ft di altitudine. Qualora non sia possibile
+autorizzare subito l’ingresso in circuito, Viterbo TWR lo farà orbitare
+su BAGNAIA (RVE1), punto <A>, mantenendo 2500 ft e gli fornirà
+eventuali informazioni di traffico.
+Inbound aircraft shall overfly BAGNAIA (RVE1)  point <A>, ENE of the
+airport, at an altitude of 2500 ft (Viterbo QNH) then, if cleared, join
+the aerodrome traffic pattern Westwards (45° standard entry) to fly
+downwind leg at an altitude of 2000 ft. When an entry clearance into
+the traffic pattern is not allowed,   aircraft shall hold over BAGNAIA
+(RVE1) point <A>, maintaining 2500 ft and shall be given traffic
+information by Viterbo TWR.
+4.2.2 Pista 22 in uso 4.2.2 RWY 22 in use
+L’aeromobile in avvicinamento dovrà portarsi su VETRALLA (RRN2),
+punto <B> Sud del campo ad una altitudine di 2500 ft (QNH locale)
+indi, con rotta N riportate su località CA L’AGLIO ANTICA (RVS1),
+svincolo superstrada (42°22’30”N 012°03’00”E), punto <C>, sempre
+mantenendo 2500 ft (QNH locale) e, se autorizzato, immettersi nel
+circuito di traffico aeroportuale con rotta N (entrata standard a 45°). Il
+sottovento dovrà essere effettuato a 2000 ft di altitudine. Qualora non
+sia possibile autorizzare subito l’ingresso in circuito Viterbo TWR lo farà
+orbitare su CA L’AGLIO ANTICA (RVS1), svincolo superstrada, punto
+<C>, mantenendo 2500 ft e fornirà eventuali informazioni di traffico.
+Inbound aircraft shall overfly VETRALLA (RRN2), point <B> South of
+the airport at an altitude of 2500 ft (Viterbo QNH), then Northwards
+to CA L’AGLIO ANTICA (RVS1), highway spur, point <C>, maintaining
+2500 ft (on local QNH) and if cleared, join the aerodrome traffic pattern
+Northwards (45° standard entry) to fly downwind leg at an altitude of
+2000 ft. When an entry clearance into the traffic pattern is not allowed,
+Viterbo TWR will instruct the aircraft to hold over CA L’AGLIO ANTICA
+(RVS1), highway spur, point <C>, maintaining 2500 ft and shall give
+traffic information.
+4.3 Arrivi 4.3 Arrivals
+Avvicinamenti diretti potranno essere autorizzati dalla TWR con le
+seguenti modalità:
+Straight-in approach will be cleared by TWR as follows:
+4.3.1 Pista 04 in uso 4.3.1 RWY 04 in use
+L’aeromobile in avvicinamento da Sud dovrà portarsi sul punto
+d’ingresso CASTEL DI SALCE (RVSW1)  ad un’altitudine di 2500 ft (QNH
+di Viterbo) e, se autorizzato, proseguire per il punto CASTEL D’ASSO
+(RVSW2) mantenendo 2500 ft (QNH di Viterbo).
+ACFT coming from South will report gate CASTEL DI SALCE (RVSW1)
+at 2500 ft (Viterbo QNH) then, if cleared, will proceed to point CASTEL
+D’ASSO (RVSW2)  maintaining 2500 ft (Viterbo QNH).
+4.3.2 Pista 22 in uso 4.3.2 RWY 22 in use
+L’aeromobile in avvicinamento da Nord dovrà portarsi sul punto di
+ingresso GROTTE SANTO STEFANO (RVN1)  ad una altitudine di 2500
+ft (QNH di Viterbo) e, se autorizzato, proseguire per il punto ROVINE
+DI FERENTO (RVN2)  mantenendo 2500 ft (QNH di Viterbo).
+ACFT coming from North will report gate GROTTE SANTO STEFANO
+(RVN1)  at 2500 ft (Viterbo QNH) then, if cleared, will proceed to point
+ROVINE DI FERENTO (RVN2) maintaining 2500 ft (Viterbo QNH).
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIRV AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIRV AD 2.23 ADDITIONAL INFORMATION
+1. Sfalcio erba
+Circolazione nell' area di movimento con precauzione a causa dei
+lavori per sfalcio erba periodico. Presenza uomini e mezzi.
+1. Grass cutting
+Taxing in movement area with caution due to periodically grass
+cutting. Presence of men and equipment.
+LIRV AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIRV AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME LANDING CHART  AD 2 LIRV 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 04C/22C  AD 2 LIRV 3 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 04L/22R  AD 2 LIRV 3 - 3
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIRV 3 - 5
+ICAO VISUAL APPROACH CHART  AD 2 LIRV 5 - 1
+LIRV AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIRV AD 2.25 Visual segment surface (VSS) penetration

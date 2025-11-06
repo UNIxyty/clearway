@@ -1,0 +1,4543 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIRF 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIRF AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIRF AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIRF - ROMA/Fiumicino
+LIRF AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIRF AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+41°48'01''N 012°14'20''E
+2 Direzione e distanza dalla città 18.9 NM WSW da Roma
+ Direction and distance from city 18.9 NM WSW from Rome
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+14 FT / 30.6° C
+4 Ondulazione del geoide
+ Geoid undulation
+157.6 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2015.0) / 7'E
+6 Autorità amministrativa aeroportuale ENAC - Direzione Territoriale Lazio
+Aeroporto "Leonardo Da Vinci"
+00054 Fiumicino (Roma)
+ Tel. +39 06 65953139
+ E-mail: laziofco.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale SOC. Aeroporti di Roma S.p.A.
+Tel. +39 06 65951
+WEB: www.adr.it
+ Aerodrome operator  
+ Autorità ATS ENAV  S.p.A. - Centro Aeroportuale Fiumicino
+Tel: +39 06 65650200;
+ Fax +39 06 65650251
+E-mail: ci-fiumicino@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR
+8 Note 1. Codice di riferimento ANNEX 14 per infrastrutture di  volo: 4F
+ Remarks 1. Ref code ANNEX 14 flight infrastructure: 4F
+
+=== Page 2 ===
+AD 2 LIRF 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+LIRF AD 2.3 ORARIO DEI SERVIZI
+LIRF AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale H24
+ Aerodrome Administration  
+2 Dogana ed immigrazione H24
+ Customs and immigration  
+3 Servizio sanitario H24
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+   
+7 ATS H24
+   
+8 Rifornimento H24
+ Fuelling  
+9 Handling H24
+ Handling  
+10 Servizi di sicurezza H24
+ Security  
+11 De-icing H24
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+LIRF AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIRF AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci Nastri trasportatori-Trattori-Elevatori-Carrelli
+ Cargo-handling facilities Conveyor belts-Tractors-Elevators-Trolleys
+2 Tipi di carburante/Olio JET A1 / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento Impianto statico ed autobotti
+ Fuelling capacity Underground tank installations and various tank trucks
+4 Sistema de-icing Servizio fornito da Aeroporti di Roma S.p.A.(ADR) a tutti i tipi di aeromobile con
+6 attrezzature semoventi de-icer. Liquido utilizzato acqua calda e fluido tipo II
+(miscelato con diverse percentuali conformemente alla procedura in vigore).
+Il servizio de/anti-icing è prestato da ADR a seguito di richiesta da parte del vettore
+o suo rappresentante all'ufficio ADR Controllo Voli. Le operazioni de/anti-icing sono
+svolte sulla piazzola di sosta aeromobile, o in condizioni gravose nelle RHP 34L e RHP
+25. Il personale ADR non effettua il preflight contamination check e il post de-icing
+check.
+ De-icing facilities Service performed by Aeroporti di Roma S.p.A. (ADR) for all types of aircraft,
+equipment used 6 de-icer. Service performed with hot water and type II fluid
+(different percentage available according to airport procedure).
+The de/anti-icing service is provided by ADR after carrier communicates the request
+to ADR Flight Control office, directly or by its representative. The de/anti-icing
+operations are carried out on the stand, or in severe winter conditions on RHP 34L
+and RHP 25. ADR staff does not perform the preflight contamination check and the
+post de-icing check.
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIRF 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+6 Servizio riparazioni per aeromobili in 
+transito
+Piccole riparazioni
+ Repair facilities for visiting aircraft Minor repairs
+7 Note 1. Rifornimento a clienti con contratto; il pagamento dovrà essere effettuato con
+carnet validi e riconosciuti, o in contanti in valuta internazionale.
+ 
+ Remarks 1. Refuelling only to subscribers; payment by valid and accepted carnet or cash if in
+international currency. 
+LIRF AD 2.5 SERVIZI PER I PASSEGGERI
+LIRF AD 2.5 PASSENGER FACILITIES
+1 Alberghi In aeroporto, a Fiumicino, a Ostia Lido e a Roma città
+ Hotels In airport, Fiumicino, Ostia Lido and Rome
+2 Ristoranti 44 punti ristoro di cui 9 con orario H24
+ Restaurants 44 Food & Beverage, 9 of which HR H24
+3 Trasporti Ferrovia - Autolinee - Taxi
+ Transportation Railway - Bus - Taxi
+4 Servizio medico Pronto soccorso H24
+Medici-Infermieri-Ambulanze-Ospedali di Roma e Provincia
+ Medical facilities First aid treatment H24
+Doctors-Nurses-Ambulances-Hospitals of Rome and surroundings
+5 Banca e ufficio postale In Aerostazione
+ Bank and Post office In Airport
+6 Ufficio turistico In Aerostazione
+ Tourist office In Airport
+7 Note 1. Presenti in aerostazione anche due Farmacie ed un deposito bagagli
+ Remarks 1. In airport there are also two pharmacies and one left luggage facility
+LIRF AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIRF AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 10 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Conforme 10 ICAO
+ Rescue equipment Equal 10 ICAO
+3 Rimozione aeromobili in difficoltà Recovery Kit per aeromobili fino a Code 4E (B747)
+ Capability for removal of disabled aircraft Recovery Kit for aircraft up to Code 4E (B747)
+4 Note 1. Gli operatori aerei che operano o che intendano operare regolarmente
+sull’aeroporto di Roma/Fiumicino con aeromobili ICAO codice F devono essere
+membri dell'IATP (International Airlines Technical Pool). https://www.iatp.com/
+2. Contatti operativi per la richiesta di rimozione:
+Centro Emergenze Aeroportuali +39 06 65953322
+E-mail: csf@adr.it
+3. Test operativi dei vigili del fuoco con presenza di fiamme controllate potranno
+svolgersi dal lunedì al venerdì HR 0700-1600 (0600-1500) nell'area allestita presso
+la sede dei vigili del fuoco adiacente alla TWY CD.
+ Remarks 1. Aircraft operators operating or intending to operate regularly on Roma/Fiumicino
+airport with ICAO code F aircraft must be members of the IATP (International
+Airlines Technical Pool). https://www.iatp.com/
+2. Operational contacts for the removal request:
+Airport Emergency Center +39 06 65953322
+E-mail: csf@adr.it
+3. Fire brigade functional tests with controlled flames can take place from monday to
+friday HR 0700-1600 (0600-1500) in the designated area set up at the fire station
+abeam TWY CD.
+
+=== Page 4 ===
+AD 2 LIRF 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIRF AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIRF AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Equipaggiamento ordinario e sgombero neve composto da:
+- Spazzatrici aeroportuali
+- Turbine
+- Mezzi combinati equipaggiati con lama, spazzolone e soffiante
+- Spargitori de-icing
+- Mezzo spazzolone
+- Mezzi spargisale
+- Spazzatrici equipaggiate con lame
+- Spargisale manuali
+ Types of clearing equipment Ordinary and snow removal equipment composed of:
+- Airport sweepers
+- Turbines
+- Combined vehicles equipped with a blade, brush and blowers
+- De-icing liquid sprayers
+- Brushing vehicle
+- Rock salt spraying vehicles
+- Airport sweeper equipped with snow blade
+- Rock salt manual sprayers
+2 Priorità Pista 16R/34L - piazzale ovest - vie di rullaggio relative
+ Clearance priorities RWY 16R/34L - Apron west side - relevant TWY
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. Ai fini manutentivi il coefficiente di attrito delle piste è misurato ogni 7 giorni
+(standard ICAO), sulla pista 07/25, ogni 15 giorni. Il mezzo di misurazione è il SFT
+(Surface Friction Tester).
+2. La rimozione della neve è garantita come da "Piano Neve Aeroportuale".
+3. Procedura di Global Reporting Format (GRF) attiva sullo scalo. Rif. AIC A1/22
+Global Reporting Format (GRF) per le condizioni della superficie di una pista di
+volo.
+4. Il prodotto utilizzato per il servizio de/anti-icing delle piste è a base di formiato di
+potassio (KFOR).
+5. Piste invernali appositamente preparate: non applicabile.
+ Remarks 1. For maintenance purposes Friction Coefficient is measured every 7 days (ICAO
+standard), every 15 days on RWY 07/25 by means of SFT (Surface Friction Tester).
+2. Snow removal is performed as detailed in the "Airport Snow Removal Plan".
+3. Global Reporting Format (GRF) procedure active at the arodrome. Ref. AIC A1/22
+Global Reporting Format (GRF) for runway surface conditions.
+4. RWYs de/anti-icing product used is potassium formate fluids (KFOR).
+5. Specially prepared winter runways: not applicable.
+LIRF AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIRF AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIRF 1 - 5
+AIRAC effective date 20 MAR 2025
+ENAV - Roma (A03/25)
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron 100 CONC PCN 140/R/D/W/T
+Apron 200 CONC PCN 140/R/D/W/T
+Apron 300 CONC PCN 120/R/C/W/T
+Apron 400 CONC PCN 140/R/D/W/T
+Apron 500 CONC PCN 140/R/D/W/T
+Apron 600 CONC PCN 140/R/D/W/T
+Apron 700 CONC PCN 140/R/D/W/T
+Apron 800 CONC PCN 76/R/B/W/T
+Apron 900 CONC PCN 120/R/B/W/T
+
+=== Page 6 ===
+AD 2 LIRF 1 - 6
+AIRAC effective date 20 MAR 2025 AIP - Italia
+(A03/25) ENAV - Roma
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 30 M BITUMCONG PCN 120/F/A/W/T
+AA 25 M BITUMCONG PCN 96/F/A/W/T
+AB 25 M BITUMCONG PCN 87/F/A/W/T
+AC 30 M BITUMCONG PCN 108/F/A/W/T
+AD-AE 25 M BITUMCONG PCN 120/F/A/W/T
+AF 25 M BITUMCONG PCN 97/F/A/W/T
+AG 30 M BITUMCONG PCN 46/F/A/W/T
+AH 30 M BITUMCONG PCN 77/F/A/W/T
+AK-AL 30 M BITUMCONG PCN 120/F/A/W/T
+B NIL BITUMCONG NIL
+NOTE larghezza e resistenza:
+23 M (tra TWY A e TWY BG) - PCN 91/F/A/W/T;
+30 M (tra TWY BG e TWY G) - PCN 81/F/A/W/T;
+23 M (tra TWY G e TWY N) - PCN 107/F/A/W/T;
+25 M (tra TWY N e TWY DM) – PCN 93/F/A/W/T
+REMARKS width and strength:
+23 M (between TWY A and TWY BG) - PCN 91/F/A/W/T;
+30 M (between TWY BG and TWY G) - PCN 81/F/A/W/T;
+23 M (between TWY G and TWY N) - PCN 107/F/A/W/T;
+25 M (between TWY N and TWY DM) – PCN 93/F/A/W/T
+BA 25 M BITUMCONG PCN 116/F/A/W/T
+BB 30 M BITUMCONG PCN 90/F/A/W/T
+BC-BD-BE 23 M BITUMCONG PCN 120/F/A/W/T
+BF-BG 30 M BITUMCONG PCN 120/F/A/W/T
+C-CD-CE-CH 30 M BITUMCONG PCN 120/F/B/W/T
+CL 60 M BITUMCONG PCN 120/F/B/W/T
+CM 30 M BITUMCONG PCN 81/F/A/W/T
+D NIL BITUMCONG NIL
+NOTE larghezza e resistenza: 23 M (tra TWY G e TWY DM),
+25 M (tra TWY DM e TWY DL) - PCN 70/F/A/W/T;
+32 M (tra TWY DL e TWY DB), 25 M (tra TWY DB e TWY DA)
+- PCN 94/F/A/W/T
+REMARKS width and strength: 23 M (between TWY G and TWY DM)
+25 M (between TWY DM and TWY DL) - PCN 70/F/A/W/T;
+32 M (between TWY DL and TWY DB), 25 M (between TWY DB and TWY DA)
+- PCN 94/F/A/W/T
+DA-DB 25 M BITUMCONG PCN 120/F/A/W/T
+DC 25 M BITUMCONG PCN 98/F/A/W/T
+DD 23 M BITUMCONG PCN 100/F/A/W/T
+DE 23 M BITUMCONG PCN 56/F/A/W/T
+DF 23 M BITUMCONG PCN 95/F/A/W/T
+DG 23 M BITUMCONG PCN 53/F/A/W/T
+DH 25 M BITUMCONG PCN 99/F/A/W/T
+DK-DL-DM 25 M BITUMCONG PCN 120/F/A/W/T
+N 30 M BITUMCONG PCN 120/F/A/W/T
+3 Localizzazione/Elevazione ACL NIL / Vedi carte in vigore
+ ACL location/Elevation NIL / See charts in force
+4 Punto di controllo VOR /INS NIL / Disponibile controllo INS agli stands ove disponibili indicazioni coordinate, o su
+APDC.
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIRF 1 - 7
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+ VOR/INS checkpoints NIL / INS check available at the stands where coordinates indications are available,
+or on APDC.
+5 Note NIL
+ Remarks NIL
+LIRF AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIRF AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Segnaletica: conforme agli standard ICAO, tabelle di identificazione degli stand di
+tipo rifrangente con caratteri gialli su fondo nero
+Linee guida per TWY: segnaletica orizzontale gialla continua e luci di asse, tabelle
+indicatrici diurne e notturne
+Sistemi di guida al parcheggio: le piazzole dotate di sistemi di guida del pilota al
+parcheggio degli aeromobili sono riportate nella APDC. 
+Il sistema di guida al parcheggio disponibile è del tipo: 
+-        T1 A-VDGS
+I sistemi di guida al parcheggio potrebbero non riconoscere aeromobili dipinti con
+colori scuri.
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+Signs: ICAO standard, stands identification reflecting schedules with yellow
+inscriptions on black back-ground
+TWY guide lines: continuous yellow horizontal markings and centre line lights, day
+and night indication signs
+Parking guidance systems: aircraft stands equipped with parking guidance systems
+are depicted on APDC.
+Installed parking guidance equipments are:
+-        Model T1 A-VDGS
+Parking guidance systems may encounter problems in identifying dark colored
+aeroplanes.
+2 Illuminazione e segnaletica per RWY e TWY Vedi carte AD e Aerodrome Ground Movement in vigore.
+ RWY and TWY markings and lights See AD and Aerodrome Ground Movement charts in force.
+3 Barre d'arresto Vedi carta AD in vigore: Barre di arresto sempre accese: AC, A07, BC, BD, C1, CM1,
+DB, DK.
+ Stop bars See AD chart in force: Stop bars permanently switched on: AC, A07, BC, BD, C1,
+CM1, DB, DK.
+4 Note 1. Vedi carta AD e APD in vigore:
+sulle Apron TWY con limitazioni è indicato il max span.
+2. Presso i raccordi di ingresso in pista è presente il Marking RWY AHEAD per fornire
+l'ultima informazione di allerta in condizioni di LVP.
+ Remarks 1. See AD and APD charts in force:
+on Apron TWY with limitations the max span is indicated.
+2. Marking RWY AHEAD is present at the entrance TWY on the RWY to provide the
+latest warning information in LVP conditions.
+
+=== Page 8 ===
+AD 2 LIRF 1 - 8
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+LIRF AD 2.10 OSTACOLI AEROPORTUALI
+LIRF AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+Ostacoli che penetrano le superfici di limitazione degli ostacoli
+Obstacles that penetrate the obstacle limitation surfaces
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900781 ALBERO/
+TREE
+41°51'13.8''N
+012°15'35.7''E
+19 63 28 92 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900782 ALBERO/
+TREE
+41°51'11.0''N
+012°15'34.6''E
+16 52 24 78 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900783 ALBERO/
+TREE
+41°51'05.5''N
+012°15'21.3''E
+19 62 26 84 NO NO TS 16L/34R
+900784 ALBERO/
+TREE
+41°51'17.3''N
+012°15'39.8''E
+19 63 30 98 NO NO AS 16L
+900785 ALBERO/
+TREE
+41°51'09.1''N
+012°15'26.9''E
+16 52 23 74 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900786 ALBERO/
+TREE
+41°51'06.5''N
+012°15'23.2''E
+17 54 22 73 NO NO AS 16L
+900787 ALBERO/
+TREE
+41°51'02.4''N
+012°16'37.1''E
+29 95 51 166 NO NO IHS
+900788 ALBERO/
+TREE
+41°52'36.1''N
+012°15'21.9''E
+22 71 51 168 NO NO IHS
+900789 ALBERO/
+TREE
+41°52'40.5''N
+012°16'07.4''E
+11 35 73 240 NO NO IHS
+900790 ALBERO/
+TREE
+41°52'30.9''N
+012°16'14.0''E
+11 36 70 230 NO NO IHS
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIRF 1 - 9
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+Ostacoli che penetrano le superfici di limitazione degli ostacoli
+Obstacles that penetrate the obstacle limitation surfaces
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900791 ALBERO/
+TREE
+41°50'41.7''N
+012°17'55.2''E
+14 45 75 247 NO NO IHS
+900792 ALBERO/
+TREE
+41°52'53.8''N
+012°15'47.9''E
+21 68 75 246 NO NO IHS
+900793 ALBERO/
+TREE
+41°52'52.3''N
+012°15'52.0''E
+12 40 70 230 NO NO IHS
+900794 ALBERO/
+TREE
+41°47'55.5''N
+012°13'43.2''E
+13 44 15 50 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900795 ALBERO/
+TREE
+41°47'51.6''N
+012°13'45.2''E
+15 50 17 56 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900796 ALBERO/
+TREE
+41°47'47.5''N
+012°13'47.6''E
+17 56 19 62 NO NO AS 07
+900797 ALBERO/
+TREE
+41°51'13.3''N
+012°15'37.1''E
+16 54 24 80 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900798 ALBERO/
+TREE
+41°46'37.1''N
+012°14'24.3''E
+19 61 20 67 NO NO AS 34L
+900799 ALBERO/
+TREE
+41°46'31.3''N
+012°14'26.9''E
+15 51 18 57 NO NO AS 34L
+900800 ALBERO/
+TREE
+41°49'07.3''N
+012°13'19.4''E
+17 55 18 60 NO NO TS 16R/34L
+900801 ALBERO/
+TREE
+41°51'21.2''N
+012°15'31.8''E
+20 65 30 99 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900802 ALBERO/
+TREE
+41°51'24.5''N
+012°15'29.6''E
+21 67 31 101 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+
+=== Page 10 ===
+AD 2 LIRF 1 - 10
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Ostacoli che penetrano le superfici di limitazione degli ostacoli
+Obstacles that penetrate the obstacle limitation surfaces
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900803 ALBERO/
+TREE
+41°51'14.4''N
+012°15'37.0''E
+17 56 27 88 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900804 ALBERO/
+TREE
+41°47'52.8''N
+012°13'44.6''E
+15 48 16 54 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900805 ALBERO/
+TREE
+41°47'53.4''N
+012°13'41.4''E
+13 41 11 37 NO NO Per tabella/For tabel
+OLS: TOCS 25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900806 ALBERO/
+TREE
+41°47'56.8''N
+012°13'42.4''E
+15 51 17 55 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900807 ALBERO/
+TREE
+41°49'08.8''N
+012°13'24.9''E
+11 37 12 38 NO NO Per tabella/For tabel
+OLS: AS 16R - TOCS
+34L
+Per tabella/For tabel
+TOFPA: TOFPA 34L
+900808 ALBERO/
+TREE
+41°51'09.0''N
+012°15'36.9''E
+17 55 23 76 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900809 ALBERO/
+TREE
+41°51'18.8''N
+012°15'35.7''E
+21 67 31 103 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIRF 1 - 11
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+Ostacoli che penetrano le superfici di limitazione degli ostacoli
+Obstacles that penetrate the obstacle limitation surfaces
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900810 ALBERO/
+TREE
+41°51'19.9''N
+012°15'33.2''E
+21 68 31 101 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900811 ALBERO/
+TREE
+41°51'19.3''N
+012°15'37.9''E
+23 75 34 110 NO NO AS 16L
+900812 ALBERO/
+TREE
+41°52'41.4''N
+012°16'14.9''E
+10 31 70 229 NO NO IHS
+900813 ALBERO/
+TREE
+41°52'40.7''N
+012°16'13.9''E
+14 47 76 249 NO NO IHS
+900814 ALBERO/
+TREE
+41°52'34.3''N
+012°16'18.5''E
+11 37 72 237 NO NO IHS
+900815 ALBERO/
+TREE
+41°52'40.5''N
+012°16'08.9''E
+10 31 73 241 NO NO IHS
+900816 ALBERO/
+TREE
+41°52'30.4''N
+012°16'15.2''E
+8 26 68 221 NO NO IHS
+900817 ALBERO/
+TREE
+41°52'14.6''N
+012°16'36.5''E
+9 29 70 230 NO NO IHS
+900818 ALBERO/
+TREE
+41°51'51.0''N
+012°16'55.5''E
+11 37 72 238 NO NO IHS
+900819 ALBERO/
+TREE
+41°51'43.7''N
+012°16'54.8''E
+20 66 76 251 NO NO IHS
+900820 ALBERO/
+TREE
+41°51'55.9''N
+012°17'28.5''E
+17 56 82 269 NO NO IHS
+900821 ALBERO/
+TREE
+41°51'08.7''N
+012°17'31.2''E
+13 43 63 207 NO NO IHS
+900822 ALBERO/
+TREE
+41°51'09.4''N
+012°17'29.2''E
+18 60 76 251 NO NO IHS
+900823 ALBERO/
+TREE
+41°51'06.5''N
+012°16'38.2''E
+24 77 52 172 NO NO IHS
+900824 ALBERO/
+TREE
+41°51'08.3''N
+012°16'38.1''E
+23 76 51 167 NO NO IHS
+900825 ALBERO/
+TREE
+41°46'31.2''N
+012°14'25.5''E
+17 57 20 64 NO NO AS 34L
+900826 ALBERO/
+TREE
+41°50'16.2''N
+012°18'29.4''E
+20 66 83 272 NO NO IHS
+900827 ALBERO/
+TREE
+41°50'44.4''N
+012°17'56.6''E
+18 58 78 256 NO NO IHS
+900828 ALBERO/
+TREE
+41°47'51.1''N
+012°13'50.2''E
+14 45 15 50 NO NO AS 07
+
+=== Page 12 ===
+AD 2 LIRF 1 - 12
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Ostacoli che penetrano la superficie di identificazione degli ostacoli dell’area della traiettoria di volo al decollo
+Obstacles that penetrate the take-off flight path area obstacle identification surface
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900781 ALBERO/
+TREE
+41°51'13.8''N
+012°15'35.7''E
+19 63 28 92 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900782 ALBERO/
+TREE
+41°51'11.0''N
+012°15'34.6''E
+16 52 24 78 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900785 ALBERO/
+TREE
+41°51'09.1''N
+012°15'26.9''E
+16 52 23 74 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900794 ALBERO/
+TREE
+41°47'55.5''N
+012°13'43.2''E
+13 44 15 50 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900795 ALBERO/
+TREE
+41°47'51.6''N
+012°13'45.2''E
+15 50 17 56 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900797 ALBERO/
+TREE
+41°51'13.3''N
+012°15'37.1''E
+16 54 24 80 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900801 ALBERO/
+TREE
+41°51'21.2''N
+012°15'31.8''E
+20 65 30 99 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIRF 1 - 13
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+Ostacoli che penetrano la superficie di identificazione degli ostacoli dell’area della traiettoria di volo al decollo
+Obstacles that penetrate the take-off flight path area obstacle identification surface
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900802 ALBERO/
+TREE
+41°51'24.5''N
+012°15'29.6''E
+21 67 31 101 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900803 ALBERO/
+TREE
+41°51'14.4''N
+012°15'37.0''E
+17 56 27 88 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900804 ALBERO/
+TREE
+41°47'52.8''N
+012°13'44.6''E
+15 48 16 54 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900805 ALBERO/
+TREE
+41°47'53.4''N
+012°13'41.4''E
+13 41 11 37 NO NO Per tabella/For tabel
+OLS: TOCS 25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900806 ALBERO/
+TREE
+41°47'56.8''N
+012°13'42.4''E
+15 51 17 55 NO NO Per tabella/For tabel
+OLS: AS 07 - TOCS
+25
+Per tabella/For tabel
+TOFPA: TOFPA 25
+900807 ALBERO/
+TREE
+41°49'08.8''N
+012°13'24.9''E
+11 37 12 38 NO NO Per tabella/For tabel
+OLS: AS 16R - TOCS
+34L
+Per tabella/For tabel
+TOFPA: TOFPA 34L
+900808 ALBERO/
+TREE
+41°51'09.0''N
+012°15'36.9''E
+17 55 23 76 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+
+=== Page 14 ===
+AD 2 LIRF 1 - 14
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Ostacoli che penetrano la superficie di identificazione degli ostacoli dell’area della traiettoria di volo al decollo
+Obstacles that penetrate the take-off flight path area obstacle identification surface
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900809 ALBERO/
+TREE
+41°51'18.8''N
+012°15'35.7''E
+21 67 31 103 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900810 ALBERO/
+TREE
+41°51'19.9''N
+012°15'33.2''E
+21 68 31 101 NO NO Per tabella/For tabel
+OLS: AS 16L - TOCS
+34R
+Per tabella/For tabel
+TOFPA: TOFPA 34R
+900829 ALBERO/
+TREE
+41°51'19.8''N
+012°15'33.2''E
+20 65 31 101 NO NO TOFPA 34R
+900830 ALBERO/
+TREE
+41°51'12.7''N
+012°15'33.4''E
+7 24 16 51 NO NO TOFPA 34R
+900831 ALBERO/
+TREE
+41°51'10.7''N
+012°15'27.9''E
+6 20 14 45 NO NO TOFPA 34R
+Altri ostacoli considerati pericolosi per la navigazione aerea
+Other obstacles assessed as being hazardous to air navigation
+Height Elevation Segnalazione 
+ICAO
+ICAO Signal
+ID Tipo
+Type
+Coordinate
+Coordinates
+m ft m ft DAY NIGHT
+Note
+Remarks
+1 2 3 4 5 6 7 8 9 10
+900196
+ ALBERO/
+TREE
+41°51'06.5''N
+012°15'23.2''E
+16
+ 52
+ 22
+ 72
+ NO
+ NO
+ Approach LIRF
+16L/34R - 16L
+LIRF AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIRF AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 30H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+Previsioni TREND / 30'
+ Type of landing forecast /
+Interval of issuance
+TREND forecast / 30'
+5 Briefing e consultazione fornita Briefing: ARO CBO ROMA, telefono
+Consultazione: ITALY MFU, telefono
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIRF 1 - 15
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+ Briefing and consultation provided Briefing: ARO CBO ROMA, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato
+IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts
+IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ 
+ 
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Fiume TWR, Roma ACC/FIC
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO ROMA: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Aeroporto occasionalmente interessato da fenomeni di wind shear, più
+frequentemente nei mesi di marzo e novembre. La gran parte degli eventi deriva
+da perturbazioni e venti intensi a grande scala o da temporali. Gli eventi con vento
+da NNE di intensità 15-25 kt prevalgono nei giorni con il cielo sereno; quelli con
+vento da SE e da OSO nei giorni con cielo nuvoloso o attività temporalesca
+4. Per il Servizio Osse rvazioni mediante Radar Meteo vedi GEN 3.5
+5. Nubi operativamente significative: sono ritenute operativamente significative le
+ nubi con altezza della base al di sotto di 5800ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO ROMA: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Aerodrome occasionally affected by wind shear phenomena, more frequently
+occurring in the months of March and November. A great part of the events is due
+to meteorological perturbations and intense large scale winds or to thunderstorms.
+The episodes with wind from NNE with 15-25 kt intensity prevail in clear sky
+days; the ones with wind from SE or WSW prevail in cloudy days or when
+thunderstorm activity occurs
+4. For Ground-Based Weather Radar Service see GEN 3.5
+5. Clouds of operational significance: clouds with base height below 5800ft and
+cumulonimbus or towering cumulus with any base height are considered
+operatively relevant
+LIRF AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIRF AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+07 069.75° 3190 x 45
+PCN 120/F/A/W/T
+BITUMCONG
+41°48'02.22''N
+012°14'12.55''E
+41°48'34.66''N
+012°16'10.11''E
+158.0 FT
+7.0 FT / 7.0 FT
+25 249.77° 3190 x 45
+PCN 120/F/A/W/T
+BITUMCONG
+41°48'34.66''N
+012°16'10.11''E
+5.2  FT / 8.0 FT
+
+=== Page 16 ===
+AD 2 LIRF 1 - 16
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+41°47'58.90''N
+012°14'00.51''E
+157.5  FT
+16L 162.61° 3902 x 60
+PCN 120/F/A/W/T
+BITUMCONG
+41°50'45.49''N
+012°15'41.38''E
+41°48'44.80''N
+012°16'31.89''E
+157.6  FT
+13.8  FT / 14.0 FT
+34R 342.62° 3902 x 60
+PCN 120/F/A/W/T
+BITUMCONG
+41°48'44.80''N
+012°16'31.89''E
+41°50'45.49''N
+012°15'41.38''E
+157.5  FT
+5.7  FT / 6.0 FT
+16R 162.60° 3902 x 60
+PCN 120/F/A/W/T
+BITUMCONG
+41°48'55.86''N
+012°13'34.91''E
+41°46'55.18''N
+012°14'25.45''E
+157.8  FT
+6.6  FT / 7.0 FT
+34L 342.61° 3902 x 60
+PCN 120/F/A/W/T
+BITUMCONG
+41°46'55.18''N
+012°14'25.45''E
+41°48'55.86''N
+012°13'34.91''E
+157.4  FT
+7.6  FT / 8.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+07
+Pendenza longitudinale: 0,0%
+Vedi AOC in vigore
+Longitudinal slope: 0,0%
+See AOC in force
+NIL 60 x 150 3310 x 280 240 x 150
+25
+Pendenza longitudinale: 0,0%
+Vedi AOC in vigore
+Longitudinal slope: 0,0%
+See AOC in force
+NIL 177 x 150 3310 x 280 277 x 150
+16L
+Pendenza longitudinale:
+-0,1%
+Vedi AOC in vigore
+Longitudinal Slope: -0,1%
+See AOC in force
+NIL 60 x 150 4022 x 300 240 x 150
+34R
+Pendenza longitudinale: 0,1%
+Vedi AOC in vigore
+Longitudinal slope: 0,1%
+See AOC in force
+NIL 60 x 150 4022 x 300 240 x 150
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIRF 1 - 17
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+16R
+Pendenza longitudinale: 0,0%
+Vedi AOC in vigore
+Longitudinal slope: 0,0%
+See AOC in force
+NIL 60 x 150 4022 x 300 240 x 150
+34L
+Pendenza longitudinale: 0,0%
+Vedi AOC in vigore
+Longitudinal slope: 0,0%
+See AOC in force
+NIL 60 x 150 4022 x 300 240 x 150
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+07
+Non applicabile
+Not applicable
+1) DTHR 298m
+2) RESA: pavimentata/paved
+25
+Non applicabile
+Not applicable
+1) RESA: pavimentata e erba/paved and grass
+16L
+Si
+Yes
+1) RESA: erba/grass
+34R
+Non applicabile
+Not applicable
+1) RESA: erba/grass
+16R
+Si
+Yes
+1) RESA: erba/grass
+34L
+Non applicabile
+Not applicable
+1) RESA: erba/grass
+LIRF AD 2.13 DISTANZE DICHIARATE
+LIRF AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+07
+INT TAKE-OFF A
+NU
+2983
+NU
+3043
+NU
+2983
+2892
+-
+25
+INT TAKE-OFF BC
+INT TAKE-OFF BD
+3190
+2499
+2430
+3367
+2676
+2607
+3190
+2499
+2430
+3190
+-
+-
+16L
+INT TAKE-OFF DB
+3902
+3620
+3962
+3680
+3902
+3620
+3902
+-
+34R
+INT TAKE-OFF DK
+3902
+3540
+3962
+3600
+3902
+3540
+3902
+-
+16R
+INT TAKE-OFF AC
+3902
+2948
+3962
+3008
+3902
+2948
+3902
+-
+34L 3902 3962 3902 3902
+NOTE Decollo da RWY 07 solo da INT TAKE-OFF A
+REMARKS Take-off RWY 07 only via INT TAKE-OFF A
+LIRF AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIRF AD 2.14 APPROACH AND RUNWAY LIGHTING
+
+=== Page 18 ===
+AD 2 LIRF 1 - 18
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+07 SALS 420 LIH THR
+ G
+NIL 3°
+lato sx
+left side
+21.5 NIL
+25 CAT I 900 LIH THR
+ G
+NIL 3°
+entrambi i lati
+both sides
+20.2 NIL
+16L CAT  II III 900 LIH THR
+ G
+NIL 3°
+entrambi i lati
+both sides
+20.0 900
+34R CAT  II III 900 LIH THR
+ G
+NIL 3°
+entrambi i lati
+both sides
+20.4 900
+16R CAT  II III 900 LIH THR
+ G
+NIL 3°
+entrambi i lati
+both sides
+20.4 900
+34L CAT I 578 LIH THR
+ G
+NIL 3.5°
+entrambi i lati/
+both sides
+ 
+18.3 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+07 299
+1991
+600
+300
+60
+15
+15
+15
+W
+WHITE
+W/R
+R
+LIH
+LIH
+LIH
+LIH
+299
+2291
+600
+60
+60
+60
+R
+W
+Y
+LIH
+LIH
+LIH
+25 2290
+600
+300
+15
+15
+15
+W
+W/R
+R
+LIH
+LIH
+LIH
+2590
+600
+60
+60
+W
+Y
+LIH
+LIH
+16L 3002
+600
+300
+15
+15
+15
+W
+W/R
+R
+LIH
+LIH
+LIH
+3302
+600
+60
+60
+W
+Y
+LIH
+LIH
+34R 3002
+600
+300
+15
+15
+15
+W
+W/R
+R
+LIH
+LIH
+LIH
+3302
+600
+60
+60
+W
+Y
+LIH
+LIH
+16R 3002
+600
+300
+15
+15
+15
+W
+W/R
+R
+LIH
+LIH
+LIH
+3302
+600
+60
+60
+W
+Y
+LIH
+LIH
+34L 3002
+600
+300
+15
+15
+15
+W
+W/R
+R
+LIH
+LIH
+LIH
+3302
+600
+60
+60
+W
+Y
+LIH
+LIH
+
+=== Page 19 ===
+AIP - Italia
+AD 2 LIRF 1 - 19
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+07 R NIL NIL NIL NIL 1) RCL: Le luci dell’asse centrale della
+RWY 07 con spaziatura di 60m sono fornite
+dall’Approach Lighting System della RWY
+07/RWY 07 RCL lighting with a spacing of
+60m are provided by RWY 07 Approach
+Lighting System 2) Le luci sono tutte di
+tipologia LED eccetto avvicinamento ALS/
+all lights are LED type except ALS 3)
+RCL: L'asse centrale della RWY 07 per
+il decollo dall'inizio della pista fino alla
+soglia spostata è fornita dal sistema di
+luci di avvicinamento/RWY 07 center line
+guidance for take-off from the beginning
+of the runway to a displaced threshold is
+provided by approach lighting system
+25 R NIL NIL NIL NIL 1) APCH LGT: CAT I 2) Le luci sono tutte di
+tipologia LED eccetto avvicinamento ALS/
+all lights are LED type except ALS
+16L R NIL NIL NIL NIL 1) APCH LGT: CAT II III 2) Le luci sono tutte
+di tipologia LED eccetto avvicinamento
+ALS/all lights are LED type except ALS
+34R R NIL NIL NIL NIL 1) APCH LGT: CAT II III 2) Le luci sono tutte
+di tipologia LED eccetto avvicinamento
+ALS/all lights are LED type except ALS
+16R R NIL NIL NIL NIL 1) APCH LGT: CAT II III 2) Le luci sono tutte
+di tipologia LED eccetto avvicinamento
+ALS/all lights are LED type except ALS
+34L R NIL NIL NIL NIL 1) APCH LGT: CAT I 2) Le luci sono tutte di
+tipologia LED eccetto avvicinamento ALS/
+all lights are LED type except ALS
+LIRF AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIRF AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 41°47'46''N   012°15'10''E
+Caratteristiche: ABN caratteristiche: luce bianco/verde alternata
+Orario: HN +/-30
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 41°47'46''N   012°15'10''E
+Characteristics: ABN characteristics: revolving white/green alternating light
+Hours: HN +/-30
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 402 m dopo THR RWY 25, 188 m lato destro RCL, illuminato.
+2) 414 m dopo THR RWY 16R, 171 m lato destro RCL, illuminato.
+3) 472 m dopo THR RWY 16L, 184 m lato sinistro RCL, illuminato.
+4) 428 m dopo THR RWY 34R, 185 m lato destro RCL, illuminato.
+5) 353 m dopo THR RWY 34L, 183 m lato sinistro RCL, illuminato.
+6) 419 m dopo THR RWY 07, 124 m lato sinistro RCL, illuminato.
+
+=== Page 20 ===
+AD 2 LIRF 1 - 20
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 402 m after THR RWY 25, 188 m right side RCL, lighted.
+2) 414 m after THR RWY 16R, 171 m right side RCL, lighted.
+3) 472 m after THR RWY 16L, 184 m left side RCL, lighted.
+4) 428 m after THR RWY 34R, 185 m right side RCL, lighted.
+5) 353 m after THR RWY 34L, 183 m left side RCL, lighted.
+6) 419 m after THR RWY 07, 124 m left side RCL, lighted.
+3 Illuminazione bordo e asse centrale TWY Vedi carta AD.
+Tutte le TWY sono dotate di luci di asse centrale e luci di bordo catarifrangenti, tutte
+le apron TWY sono dotate di luci di asse centrale
+ TWY edge and center line lighting See AD chart.
+All TWY equipped with centre line lights and reflective edge lights, all apron TWY
+equipped with centre line lights
+4 Alimentatore secondario/Tempo di 
+intervento
+Disponibile: NR 2 UPS/Immediato: 0s
+ Secondary power supply/Switch over time Available: NR 2 UPS/Immediately: 0s
+5 Note NIL
+ Remarks  
+LIRF AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIRF AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 21 ===
+AIP - Italia
+AD 2 LIRF 1 - 21
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+LIRF AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIRF AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Roma Fiumicino ATZ
+Circular area centered on
+41°48'01"N 012°14'20"E
+within a 5.0 NM radius.
+2000
+FT AGL
+D
+Fiume TWR
+EN/IT
+6000 FT
+1) WI Roma CTR
+2) Per il linguaggio da
+utilizzare per i voli VFR
+fare riferimento alla tabella
+22, punto 4.1 'Informazioni
+generali'/For language to be
+used by VFR flights refer to
+table 22, item 4.1 'General
+information'
+LIRF AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIRF AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 H24
+NIL
+APP Roma Arrivals 125.500 H24 NIL
+APP Roma Arrivals 127.950 Vedi note/See remarks
+1) A discrezione ATC/
+ATC discretion
+APP Roma Departure 130.900 H24 NIL
+APP Roma Departure 131.100 Vedi note/See remarks
+1) A discrezione ATC/
+ATC discretion
+APP Roma Director 131.250 0600-2200 (0500-2100) NIL
+APP Roma Director 119.200 Vedi note/See remarks
+1) A discrezione ATC
+/ATC discretion
+TWR Fiume Delivery 121.800 0600-2200 (0500-2100)
+1) Frequenza richiesta avviamento
+motori, informazioni prevolo e rilascio
+autorizzazioni ATC. Eccezionalmente
+la frequenza può essere usata per
+controllo apparati radio di bordo, solo
+quando tali controlli non possono essere
+effettuati sulla frequenza di compagnia/
+starting-up request, pre flight data
+and ATC clearances delivery frequency.
+Exceptionally the frequency may be
+used for radio checks, only when such
+checks cannot be made on the Company
+frequency
+TWR Fiume Delivery 121.900 2200-0600 (2100-0500) NIL
+TWR Fiume GND 122.125 0600-2200 (0500-2100) 1) A discrezione ATC/ATC discretion
+TWR Fiume GND 121.675 H24 1) A discrezione ATC/ATC discretion
+TWR Fiume GND 121.900 H24 NIL
+TWR Fiume TWR 127.625 0600-2200 (0500-2100)
+1) Frequenza per operazioni su RWY
+16L/34R / Frequency for operations on
+RWY 16L/34R
+
+=== Page 22 ===
+AD 2 LIRF 1 - 22
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+TWR Fiume TWR 118.700 H24 NIL
+TWR Fiume TWR 123.725 H24 1) A discrezione ATC/ATC discretion
+ATIS Fiume Arrival Information 126.125 H24
+1) RWY: Tutte/All
+2) Vedi note ATIS/see ATIS remarks 2
+e/and 4
+3) Disponibile anche telefonicamente al
+numero/Also available via telephone at
+the number + 39 06 65650318
+ATIS
+Fiume Departure
+Information
+121.850 H24
+1) RWY: Tutte/All
+2) Vedi note ATIS/see ATIS remarks 3
+e/and 4
+3) A dicrezione ATC/ATC discretion
+NOTE ATIS 1. Sullo scalo di Fiumicino è attivo il servizio D-ATIS (ATIS via DATALINK) separato per gli arrivi e per le partenze 
+2. Quando sono in atto avvicinamenti ILS paralleli, il messaggio conterrà la seguente frase: "Avvicinamenti paralleli in
+corso. La pista in uso 16L e 16R o 34L e 34R sarà assegnata da Roma Radar"
+3. Informazioni relative alle procedure di assegnazione dell'autorizzazione ATC insieme all'autorizzazione alla messa in
+moto dei motori
+NOTA: Quando la procedura di cui sopra è applicata il messaggio ATIS, oltre alle informazioni normali, conterrà anche
+la notizia dei ritardi
+4. In caso di avaria o manutenzione di una delle frequenze, sarà radiodiffuso un unico messaggio ATIS sulla frequenza
+disponibile con l'aggiunta della seguente informazione: "ATIS SERVICE ON FREQUENCY ... OUT OF SERVICE".
+In tal caso Fiume Torre comunicherà ai piloti la seguente frase: "TERMINAL INFORMATION AVAILABLE ON
+FREQUENCY ..."
+ATIS REMARKS 1. Separated D-ATIS services (ATIS via DATALINK) for arrival and departures are available at Fiumicino airport
+2. Whenever parallel ILS approaches are in progress, the broadcast shall contain the following sentence: "Parallel ILS
+approaches in progress. The RWY in use 16L and 16R or 34L and 34R shall be assigned by Roma Radar"
+3. Information regarding the procedures of ATC clearance assignment togheter with startup engine clearance
+REMARK: When the above procedure is applied, ATIS message, besides normal information, shall also contain notice of
+delays
+4. In the event of radio failure or maintenance of one of the frequencies, an ATIS message will be broadcasted on the
+available frequency containing also the following information: "ATIS SERVICE ON FREQUENCY ... OUT OF SERVICE".
+In this case pilots will be advised by Fiume TWR as follows: "TERMINAL INFORMATION AVAILABLE ON FREQUENCY ..."
+
+=== Page 23 ===
+AIP - Italia
+AD 2 LIRF 1 - 23
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+LIRF AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIRF AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+TVOR/DME
+ 
+(2° E-2005.0)
+CMP
+111.40
+MHZ
+CH 51X
+TVOR H24
+DME H24
+TVOR
+42°07'25.8''N
+012°22'53.5''E
+DME
+42°07'25.5''N
+012°22'53.2''E
+437 M
+AMSL
+Altri Settori/other Sectors:
+25 NM/25000 FT
+Settore/Sector NW: 70
+NM/25000 FT
+limitazioni oltre/limitations
+beyond 17 NM entro/
+limitations within 21 NM
+RDL 050 NU
+limitazioni a/limitations at 25
+NM
+150°/220° MRA 3000 FT
+220°/150° MRA 6000 FT
+1) MAINT:
+secondo FRI di
+ogni mese/second FRI
+each month 0800-1000
+(0700-0900)
+ILS RWY 25 LOC
+CAT I
+(2° E-2005.0)
+FEE
+110.15
+MHZ
+H24
+41°47'55.0''N
+012°13'46.5''E
+NIL NIL
+1) Fascio posteriore non
+utilizzabile/Back beam
+not usable
+DME FEE CH 38Y H24
+41°48'36.3''N
+012°15'54.0''E
+8 M
+AMSL
+limitazioni a/limitations at 25
+NM
+080°/120° MRA 4500 FT
+120°/260° MRA 2000 FT
+260°/080° MRA 4000 FT
+NIL
+GP -
+334.25
+MHZ
+H24
+41°48'35.8''N
+012°15'54.5''E
+NIL NIL
+Slope 3°
+RDH: 17.7 M
+OM -
+75.00
+MHZ
+H24
+41°49'52.8''N
+012°21'02.8''E
+NIL NIL
+1) Temporaneamente
+non utilizzabile/
+Temporarily
+unserviceable
+MM -
+75.00
+MHZ
+H24
+41°48'44.5''N
+012°16'47.1''E
+NIL NIL
+NIL
+DVOR/DME
+(2° E-2005.0)
+FRS
+115.60
+MHZ
+CH 103X
+DVOR H24
+DME H24
+DVOR
+41°38'33.1''N
+013°17'32.5''E
+DME
+41°38'33.3''N
+013°17'32.0''E
+189 M
+AMSL
+40 NM/25000 FT
+limitazioni entro/limitations
+within 15 NM
+RDL 267 MRA 9000 FT
+limitazioni entro/limitations
+within 23 NM
+RDL 272 MRA 13000 FT
+limitazioni a/limitations at 40
+NM
+080°/160° MRA 10000 FT
+160°/230° MRA 20000 FT
+230°/280° MRA 28000 FT
+280°/310° MRA 6000 FT
+310°/345° MRA 13000 FT
+345°/080° MRA 21000 FT
+1) MAINT:
+primo THU di ogni mese/
+first THU each month
+1000-1200 (0900-1100)
+ILS RWY
+34R LOC
+CAT I
+(2° E-2005.1)
+FSS
+111.55
+MHZ
+H24
+41°50'58.2''N
+012°15'36.1''E
+NIL NIL
+1) Fascio posteriore non
+utilizzabile/Back beam
+not usable
+
+=== Page 24 ===
+AD 2 LIRF 1 - 24
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+DME FSS CH 52Y H24
+41°48'56.4''N
+012°16'34.8''E
+7 M
+AMSL
+limitazioni a/limitations at 25
+NM
+080°/100° MRA 4500 FT
+100°/290° MRA 2000 FT
+290°/080° MRA 4000 FT
+NIL
+GP -
+332.75
+MHZ
+H24
+41°48'56.2''N
+012°16'34.2''E
+NIL NIL
+Slope 3°
+RDH: 17.5 M
+OM -
+75.00
+MHZ
+H24
+41°45'02.5''N
+012°18'07.3''E
+NIL NIL
+1) Senza controllo
+a distanza/No remote
+control
+2) Fuori servizio/out of
+service
+MM -
+75.00
+MHZ
+H24
+41°48'16.3''N
+012°16'43.5''E
+NIL NIL
+NIL
+ILS RWY
+16L LOC
+CAT IIIB
+(2° E-2005.0)
+IFLL
+108.10
+MHZ
+H24
+41°48'32.3''N
+012°16'37.1''E
+NIL
+limitazioni a/limitations at 17
+NM MRA 3000 FT
+limitazioni a/limitations at 25
+NM MRA 4000 FT
+1) Fascio posteriore non
+utilizzabile/Back beam
+not usable
+DME IFLL CH 18X H24
+41°50'37.2''N
+012°15'52.8''E
+10 M
+AMSL
+25 NM/10000 FT
+limitazioni a/limitations at 25
+NM
+030°/090° MRA 5000 FT
+090°/140° MRA 6000 FT
+140°/300° MRA 2000 FT
+300°/030° MRA 3000 FT
+NIL
+GP -
+334.70
+MHZ
+H24
+41°50'37.0''N
+012°15'51.8''E
+NIL NIL
+Slope 3°
+RDH: 17.08 M
+OM -
+75.00
+MHZ
+H24
+41°54'37.3''N
+012°14'04.9''E
+NIL NIL
+NIL
+MM -
+75.00
+MHZ
+H24
+41°51'14.0''N
+012°15'29.4''E
+NIL NIL
+NIL
+ILS RWY
+16R LOC
+CAT IIIB
+(2° E-2005.0)
+IFRR
+109.75
+MHZ
+H24
+41°46'43.0''N
+012°14'30.5''E
+NIL NIL
+1) Fascio posteriore non
+utilizzabile/Back beam
+not usable
+DME IFRR CH 34Y H24
+41°48'43.7''N
+012°13'31.7''E
+8 M
+AMSL
+25 NM/10000 FT
+limitazioni a/limitations at 25
+NM
+080°/130° MRA 5000 FT
+130°/300° MRA 3000 FT
+300°/080° MRA 4000 FT
+NIL
+GP -
+333.05
+MHZ
+H24
+41°48'44.0''N
+012°13'33.0''E
+NIL NIL
+Slope 3°
+RDH: 17.5 M
+OM -
+75.00
+MHZ
+H24
+41°52'46.5''N
+012°11'57.9''E
+NIL NIL
+NIL
+MM -
+75.00
+MHZ
+H24
+41°49'37.7''N
+012°13'17.3''E
+NIL NIL
+NIL
+
+=== Page 25 ===
+AIP - Italia
+AD 2 LIRF 1 - 25
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+ILS RWY
+34L LOC
+CAT I
+(2° E-2005.0)
+IFSW
+108.90
+MHZ
+H24
+41°49'06.8''N
+012°13'30.3''E
+NIL
+limitazioni oltre/limitations
+beyond 17 NM MRA 3000 FT
+1) Fascio posteriore non
+utilizzabile/back beam
+not usable
+DME IFSW CH 26X H24
+41°47'03.4''N
+012°14'14.7''E
+7 M
+AMSL
+25 NM/10000 FT
+limitazioni a/limitations at 25
+NM
+080°/100° MRA 4500 FT
+100°/180° MRA 2000 FT
+180°/260° NU
+260°/290° MRA 2000 FT
+290°/080° MRA 4000 FT
+NIL
+GP -
+329.30
+MHZ
+H24
+41°47'03.6''N
+012°14'16.2''E
+NIL NIL
+Slope 3.5°
+RDH: 17.5 M
+VOR/DME
+(3° E-2020.0)
+LAT
+111.20
+MHZ
+CH 49X
+VOR H24
+DME H24
+VOR
+41°32'28.0''N
+012°55'05.0''E
+DME
+41°32'27.9''N
+012°55'04.4''E
+24 M
+AMSL
+60 NM/25000 FT
+limitazioni oltre/limitations
+beyond 15 NM
+RDL 018 NU
+DME
+limitazioni oltre/limitations
+beyond 17 NM
+RDL 024 NU
+limitazioni a/limitations at 25
+NM
+010°/100° NU
+100°/130° MRA 5000 FT
+130°/290° MRA 2500 FT
+290°/330° MRA 5000 FT
+330°/010° MRA 10000 FT
+VOR
+limitazioni oltre/limitations
+beyond 29 NM entro/
+limitations within 35 NM
+RDL 024 MRA 14000 FT
+1) MAINT:
+Primo MON di ogni
+mese: / first MON each
+month:
+0800-1000 (0700-0900)
+VOR/DME
+(3° E-2020.1)
+OST
+114.90
+MHZ
+CH 96X
+VOR H24
+DME H24
+VOR
+41°48'13.6''N
+012°14'15.1''E
+DME
+41°48'14.0''N
+012°14'14.9''E
+11 M
+AMSL
+Settore/sector NW-N: 80
+NM/50000FT altri settori/
+others sectors: 150
+NM/50000 FT
+limitazioni a/limitations at 20
+NM
+000°/030° MRA 3000 FT
+030°/120° MRA 2500 FT
+120°/310° MRA 2000 FT
+310°/360° MRA 3000 FT
+limitazioni a/limitations at 40
+NM
+000°/070° MRA 6000 FT
+070°/120° MRA 7500 FT
+120°/310° MRA 3000 FT
+310°/360° MRA 6000 FT
+1) MAINT:
+primo WED di ogni mese/
+first WED each month
+0700-0900 (0600-0800)
+
+=== Page 26 ===
+AD 2 LIRF 1 - 26
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(2° E-2010.0)
+RMC
+110.80
+MHZ
+CH 45X
+VOR H24
+DME H24
+VOR
+41°48'16.8''N
+012°35'16.8''E
+DME
+41°48'16.7''N
+012°35'16.3''E
+113 M
+AMSL
+40 NM/25000 FT
+limitazioni a/limitations at 40
+NM
+020°/080° MRA 9500 FT
+080°/170° MRA 16000 FT
+170°/350° MRA 5000 FT
+350°/020° MRA 14000 FT
+NIL
+VOR/DME
+(3° E-2020.0)
+TAQ
+111.80
+MHZ
+CH 55X
+VOR H24
+DME H24
+VOR
+42°12'54.2''N
+011°43'57.4''E
+DME
+42°12'54.2''N
+011°43'57.4''E
+23 M
+AMSL
+40 NM/25000 FT
+limitazioni a/limitations at 40
+NM
+000°/140° MRA 10000 FT
+140°/360° MRA 6000 FT
+1) MAINT:
+terzo THU di ogni mese/
+third THU each month
+0930-1100 (0830-1000)
+LIRF AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIRF AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+1.1 Generalità 1.1 General
+Le piste in uso per atterraggi e decolli saranno scelte dall’ATC, secondo
+un sistema preferenziale di piste. Tale sistema si basa sui seguenti
+principi:
+a. Atterraggi e decolli avverranno su piste diverse
+b. Per gli atterraggi sarà scelta, a preferenza, una pista assistita da ILS
+Runway in use for take-off and landing will be selected by ATC,
+according to preferential runway system, based on the following
+principles:
+                                 
+a. Different runways will be used for take-off and landing
+b. A runway provided with ILS will be preferred for landing
+1.2 Criteri di selezione delle piste e loro uso 1.2 Criteria for runway selection and their use
+a. Configurazione di pista preferenziale:
+• RWY 25 per i decolli
+• RWY 16L per gli atterraggi
+• RWY 16R/34L è usata a discrezione ATC come pista parallela per
+gli atterraggi
+b. Aeromobili in partenza che richiedono per il decollo una lunghezza
+maggiore di quella della RWY 25, possono usare RWY 16R/34L
+con orario 0500-2200 (0400-2100) e RWY 16L/34R con orario HR
+2200-0500 (2100-0400)
+c. RWY 16R/34L chiusa a tutte le operazioni HR 2200-0500
+(2100-0400). La chiusura è sospesa per ragioni operative,
+meteorologiche o di sicurezza, le quali saranno gestite tatticamente,
+nonchè negli orari pubblicati di chiusura della RWY 16L/34R. Ogni
+domenica HR 0100-0300 (0000-0200) sarà effettuato il controllo a
+terra dell’ ILS RWY 16R/34L.
+d. Al fine di cambiare la configurazione delle piste da quella
+preferenziale, l’ATC considererà i seguenti punti:
+• disponibilità di piste e vie di rullaggio
+• procedure di avvicinamento strumentale e disponibilità di aiuti
+all’avvicinamento e all’atterraggio
+• condizioni meteorologiche significative
+• componenti di vento, se costantemente eccedenti le seguenti
+misurazioni sulla RWY 16L/34R (o RWY 25 in caso di avaria
+dell’anemometro), che non sono da intendere come un limite
+operativo ma come una linea guida per l’ATC per la selezione delle
+piste: 30kt di compomente stabile di vento al traverso (raffiche
+escluse) e 10kt di componente stabile di vento in coda (raffiche
+escluse)
+a. Preferential RWY configuration:
+• RWY 25 for take-off
+• RWY 16L for landing
+• RWY 16R/34L is used on ATC discretion as parallel RWY for landing
+                
+b. Should departing aircraft require for take-off a RWY longer than
+RWY 25, pilots may request RWY 16R/34L during HR 0500-2200
+(0400-2100) and RWY 16L/34R during HR 2200-0500 (2100-0400)
+                    
+c. RWY 16R/34L closed to all OPS HR 2200-0500 (2100- 0400) except
+for operational, meteorological or safety reasons, which will be
+managed tactically and during RWY 16L/34R published closure
+time.Every Sunday HR 0100-0300 (0000-0200) ILS RWY 16R/34L
+will be subject to ground check
+                              
+d. In order to change RWY configuration from the preferential one, ATC
+will consider the following items:
+• RWY and TWY availability
+• instrument approach procedures and other approach and landing
+aids’ availability
+• significant meteorological conditions
+• wind components if steadily exceeding following speed measured
+on RWY 16L/34R (or RWY 25 in case of anemometer failure),
+which are not to be intended as an operational limitation but
+as a guideline for ATC when selecting RWY in use: 30kt steady
+cross wind component (gusts excluded) and 10kt steady tail wind
+component (gusts excluded)
+
+=== Page 27 ===
+AIP - Italia
+AD 2 LIRF 1 - 27
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+e. Se la pista scelta dall’ATC non fosse ritenuta idonea alle operazioni
+desiderate, i piloti potranno richiedere l’autorizzazione ad usare
+un’altra pista; in tal caso l’aeromobile potrà essere soggetto a ritardi
+f.Allo scopo di contenere i tempi di attesa al decollo e l’occupazione
+delle vie di rullaggio, sono istituite le intersection take-off che
+possono essere utilizzate per il decollo su richiesta dei piloti, o della
+TWR previo consenso dei piloti (vedere distanze dichiarate AOC tipo
+A)
+g. RWY 16L/34R chiusa a tutte le operazioni ogni lunedì HR 0100-0300
+(0000-0200) per controllo a terra dell’ ILS, condizioni meteo e/o
+operative permettendo
+e. When the runway selected by ATC is considered not suitable for the
+desired operation, pilots may request permission to use a different
+runway; in such a case the aircraft may be subject to delay
+f.In order to minimize delays and keep taxiways as clear as possible,
+intersection take-off are established to be used on pilot’s request, or
+assigned by TWR previous pilot’s agreement (see declared distance
+AOC type A)
+g. RWY 16L/34R closed to all operations every Monday HR 0100-0300
+(0000-0200), due to ILS ground check, weather and/or operative
+conditions permitting
+1.3 Norme particolari 1.3 Particular rules
+a. Decolli
+Al fine di contenere l’inquinamento acustico, gli aeromobili descritti
+nel capitolo 2 dell’Annesso 16 ICAO, Volume 1, relativo alla
+Certificazione Acustica, devono decollare da RWY 25 o da RWY
+16L/34R. Soltanto per motivi operativi di forza maggiore si potrà
+utilizzare la RWY 16R/34L
+b. Atterraggi RWY 16L/34R
+• I piloti debbono riportare “pista libera”
+• Piloti che liberano RWY 34R utilizzando le uscite rapide DF e DD
+devono percorrere tali svincoli interamente, fino all’intersezione
+con la via di rullaggio D
+• L’inversione di spinta sopra la minima potenza non può essere
+usata sulla RWY 16L/34R salvo che per motivi di sicurezza
+• Gli aeromobili in atterraggio per RWY 16L/34R saranno istruiti
+quando possibile come segue: 'Procedere secondo lo standard 1'.
+Per standard 1 si intende: 'Mantenere l'ascolto sulla FREQ Fiume
+Ground 121.900 MHz, rullare su D, mantenere posizione su EG'
+c. Atterraggi RWY 16R
+• Gli aeromobili in atterraggio per RWY 16R non possono liberare
+sulla RWY 07 e debbono liberarla sulle uscite rapide TWY AG o AH
+(AE non utilizzabile)
+• L’inversione di spinta sopra la minima potenza non può essere
+usata sulla RWY 16R salvo che per motivi di sicurezza
+• Il traffico in uscita da TWY AH non può girare a destra su TWY A
+in direzione della APN TWY J
+d. Decolli RWY 16R
+• Gli aeromobili che decollano da RWY 16R quando la RWY 25 è in
+uso saranno istruiti dal controllore GND a rullare inizialmente per
+il punto attesa RWY 07 su TWY A e ad attendere fuori dalla RWY
+07/25
+• Quando raggiunto il punto attesa RWY 07 su TWY A i piloti saranno
+istruiti a contattare il controllore di Torre per ricevere l’appropriata
+autorizzazione all’attraversamento della RWY 07/25
+• Lo spegnimento della stop-bar, in aggiunta all’autorizzazione ATC,
+indicherà che l’aeromobile potrà proseguire
+e. Atterraggi RWY 34L
+• Gli aeromobili in atterraggio sulla RWY 34L non possono liberare
+sulla RWY 07 e qualora non siano abili a liberare la pista ai raccordi
+AF e AE, devono proseguire il rullaggio sulla pista e liberare sui
+raccordi AD o AC o AA o AB. Inoltre, al fine di ridurre il tempo di
+occupazione di pista, devono mantenere un’adeguata velocità
+• Gli aeromobili che libereranno la pista dai raccordi AF o AE, se
+istruiti dall’ATC, dovranno fermarsi alla IHP AE1
+• Gli aeromobili che libereranno sui raccordi AD, AC, AB o AA,
+dovranno, una volta riportato “pista libera” , mantenere il
+contatto con il controllore di TWR e proseguire il rullaggio fino alla
+stop-bar prima della RWY 07/25 dove riceveranno l’appropriata
+autorizzazione all’attraversamento della pista. L’autorizzazione
+ATC sarà accompagnata dallo spegnimento della stop-bar rossa.
+Una volta liberata la RWY 07/25, il pilota dovrà mantenere la
+posizione sulla via di rullaggio A, prima del raccordo B, dove il
+contatto radio sarà trasferito al controllore GND per proseguire il
+rullaggio
+• L’inversione di spinta sopra la minima potenza non può essere
+usata sulla RWY 34L salvo che per motivi di sicurezza
+f.Atterraggi RWY 07
+a. Take-off
+Due to application of noise abatement new procedure, aircraft
+provided with Noise Certificate complying with requirements of
+Chapter 2, Volume 1, ICAO Annex 16, will take-off only from RWY
+25 or RWY 16L/34R. RWY 16R/34L may be used only in case of
+technical or safety reasons
+b. Landing on RWY 16L/34R
+• Pilots must report “runway vacated”
+• Pilots vacating RWY 34R through rapid exits DF and DD, must run
+them up till intersecting TWY D
+                    
+• Reverse thrust above idle shall not be used on RWY 16L/34R
+unless required for safety reasons
+• Aircraft landing on RWY 16L/34R will be instructed when possible
+as follows: 'Continue standard 1'. Standard 1 is to intend: 'Monitor
+on Fiume Ground FREQ 121.900 MHz, taxi on D, hold short of EG'
+      
+c. Landing on RWY 16R
+• Aircraft landing on RWY 16R shall not vacate on RWY 07 and the
+required exit points are rapid exit TWY AG or AH (AE not usable)
+• Reverse thrust above idle shall not be used on RWY 16R unless
+required for safety reason
+• Traffic vacating via TWY AH shall not turn right on TWY A towards
+APN TWY J
+d. Take-off RWY 16R
+• Aircraft departing from RWY 16R when RWY 25 in use, will be
+instructed from GND controller to taxi initially for holding point
+RWY 07 on TWY A and wait out of RWY 07/25
+                     
+• When the holding point RWY 07 on TWY A is reached, pilots will be
+instructed to contact the TWR controller to receive the clearance
+to cross RWY 07/25
+• The turning off the stop-bar, plus ATC authorization, means that
+aircraft can proceed
+e. Landing on RWY 34L
+• Landing aircraft on RWY 34L shall not vacate on RWY 07 and
+whenever not able to vacate the runway via TWY AF and AE, must
+continue taxiing on the runway and vacate at TWY AD or AC or AB
+or AA. In addition, to reduce minimum runway occupancy pilots
+must maintain adequate speed
+• Aircraft vacating RWY via AF or AE, if authorized by ATC, shall hold
+short at IHP AE1
+• Aircraft vacating via AD, AC, AB or AA, after having
+reported “runway vacated”, must maintain radio contact with
+TWR controller and continue taxiing till stopbar before RWY 07/25
+where they will receive the clearance to cross the runway. ATC
+clearance will be followed by the turning-off of the stop-bar. When
+RWY 07/25 is vacated pilots must maintain the position on TWY
+A before TWY B and will be instructed to contact GND controller
+to continue taxiing
+             
+                 
+• Reverse thrust above idle shall not be used on RWY 34L unless
+required for safety reasons
+f.Landing RWY 07
+Aircraft crossing RWY 07:
+
+=== Page 28 ===
+AD 2 LIRF 1 - 28
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Aeromobile in attraversamento della RWY 07:
+• in rullaggio su TWY A, fermarsi in corrispondenza degli IHP A4 o
+A5 ed attendere le istruzioni dell’ATC
+• in rullaggio su TWY B, fermarsi in corrispondenza dell’IHP B1 ed
+attendere le istruzioni dell’ATC
+g. RWY 25
+• La posizione attesa RWY 25 BA non è disponibile in caso di RWY
+25 in uso per gli atterraggi
+• Quando un aeromobile codice F è in fase di decollo o atterraggio
+RWY 25, gli aeromobili in partenza da RWY 25 devono attendere
+in corrispondenza dell’IHP B4
+• taxiing on TWY A, hold at IHP A4 or A5 and wait for
+ATC instruction                   
+• taxiing on TWY B, hold at IHP B1 and wait for ATC instruction
+                            
+g. RWY 25
+• Holding position RWY 25 BA is not AVBL in case of RWY 25 in use
+for landing
+• When aircraft code F is departing or approaching RWY 25, aircraft
+departing from RWY 25 shall hold at IHP B4
+NOTA
+I piloti che seguono la procedura ILS per RWY 16R o RWY 16L
+da CMP potrebbero essere colpiti occasionalmente da riflessi
+causati da una stazione di pannelli solari ubicata nel punto
+42°02’32”N 012° 18’ 25”E
+REMARK
+Due to mirrors for solar power station – PSN 42°02’32”N
+012°18’25”E – pilots leaving CMP for ILS RWY 16L or for
+ILS RWY 16R, may occasionally experience sunbeam reflected
+upward
+2 Apron 2 Apron
+2.1 Ordinato movimento degli aeromobili sui piazzali 2.1 Orderly movement of aircraft on aprons
+L’ordinato movimento degli aeromobili sui piazzali è assicurato in
+collaborazione tra ENAV S.p.A. e il Gestore aeroportuale in accordo alle
+disposizioni del Codice della Navigazione (Articolo 691bis e 705) con
+le seguenti modalità:
+The orderly movement of aircraft on apron is provided in cooperation
+with ENAV S.p.A. (Italian Company for Air Navigation) and the
+aerodrome operator according to Italian Air Navigation law provisions
+(Articles 691bis and 705) as follows:
+2.1.1 Orario di Servizio 2.1.1 Operational Hours
+H24 H24
+2.1.2 Nominativo di chiamata e frequenza 2.1.2 Call sign and frequency
+a. Fiume Ground: 121.900 MHz (H24)
+b. Fiume Ground: 122.125 MHz (HX vedi AIP AD 2 LIRF tabella 18)
+c. Fiume Delivery: 121.800 MHz (HX vedi AIP AD 2 LIRF tabella 18)
+d. Gestore aeroportuale (ADR - nominativo: Fiume Ramp):
+121.725 MHz (H24)
+a. Fiume Ground: 121.900 MHz (H24)
+b. Fiume Ground: 122.125 MHz (HX see AIP AD 2 LIRF table 18)
+c. Fiume Delivery: 121.800 MHz (HX see AIP AD 2 LIRF table 18)
+d. Aerodrome operator (ADR - call sign: Fiume Ramp):
+121.725 MHz
+2.1.3 Area di applicazione 2.1.3 Application area
+Vedi APDC See APDC
+2.1.4 Servizi forniti 2.1.4 Services provided
+2.1.4.1 Aeromobili in partenza 2.1.4.1 Departing aircraft
+a. D-DCL: servizio datalink per la departure clearance.
+• Requisiti degli aeromobili
+Applicazioni D-DCL compatibili con lo standard EUROCAE ED -85A
+• Contenuto del messaggio:
+ID di accesso del sistema di terra per la fornitura del servizio è
+LIRF; il campo di testo libero conterrà:
+○ TSE con la seconda parte SID
+○ Altitudine iniziale
+• Procedure DCL via Data Link:
+○ la richiesta DCL viene iniziata dai piloti inviando una richiesta di
+autorizzazione alla partenza (RCD) e deve essere effettuata non
+prima di 25 min prima dell’orario stimato di sblocco (EOBT). Nel
+caso in cui si renda necessario utilizzare per il decollo una pista
+differente da quella in uso, i piloti dovranno richiederla tramite
+il campo RMK (free text) della RCD, es: REQ 16R
+○ alla ricezione di qualsiasi messaggio di “revert to voice",
+il pilota dovrà annullare qualsiasi autorizzazione ricevuta in
+precedenza (se presente) e seguire le procedure per la richiesta
+dell’autorizzazione via radio
+○ il pilota deve monitorare la frequenza della Clearance Delivery
+una volta avviato il processo DCL
+○ i piloti che hanno ricevuto la departure clearance via Data Link
+devono seguire la procedura A-CDM così come descritto in AIP
+AD2 LIRF 1
+a. D-DCL: Datalink Departure Clearance service.
+• Aircraft requirments:
+D-DCL applications compliant with the EUROCAE ED-85A
+• Message content:
+the Login ID of the ground system for the provision of D-DCL
+service is LIRF; free text field will contain:
+○ TSE with the second part of SID
+○ Initial altitude
+• DCL via Data Link procedures:
+○ DCL request is initiated by pilots by sending a request for
+departure clearance download message (RCD) and shall be
+made no earlier than 25 minutes before Estimated Off-Block
+Time (EOBT). If a different runway from the one in use for take-
+off is necessary, pilots should advise by using RMK (free text)
+field of the RCD, eg: REQ 16R
+○  upon receipt of any “revert to voice procedures” message, pilot
+shall cancel any previously received clearance (if any) and follow
+the existing voice procedures for clearance request
+      
+○ pilot shall  monitor the Clearance Delivery Frequency once the
+DCL process is initiated 
+  
+○ pilots who have obtained departure clearance via datalink, shall
+than follow A-CDM procedures as described in AIP AD2 LIRF 1
+
+=== Page 29 ===
+AIP - Italia
+AD 2 LIRF 1 - 29
+AIRAC effective date 10 JUL 2025
+ENAV - Roma (A07/25)
+b. Istruzioni per il push-back e/o il rullaggio
+ 
+b. Push-back and/or taxiing instructions
+2.1.4.2 Aeromobili in arrivo 2.1.4.2 Arriving aircraft
+a. Istruzioni per il rullaggio
+b. Assegnazione parcheggi
+a. Taxiing instructions
+b. Stands allocation
+2.1.4.3 D-ATIS 2.1.4.3 D-ATIS
+Il servizio D‐ ATIS sarà disponibile per gli arrivi e le partenze in
+aggiunta al tradizionale ATIS. I piloti possono richiedere il bollettino
+meteorologico D‐ ATIS tramite i messaggi data link previsti.
+• Requisiti degli aeromobili:
+Applicazioni D-DCL compatibili con lo standard EUROCAE ED -89A
+• Qualora la lunghezza del report superi la lunghezza standard
+consentita dal sistema D‐ ATIS, verrà trasmesso il seguente
+messaggio:
+D‐ ATIS EXCEEDING MESSAGE LENGTH, PLEASE CHECK ATIS
+FREQUENCY
+D‐ ATIS service will be available for arrival and departure in addition to
+traditional ATIS. The pilots can request D‐ ATIS meteorological report
+via data link messages.
+• Aircraft Requirements:
+D-DCL applications compliant with the EUROCAE ED-89A
+• Should the length of the report exceed the standard length allowed
+by the D‐ ATIS system, the following message will be transmitted:
+D‐ ATIS EXCEEDING MESSAGE LENGTH, PLEASE CHECK ATIS
+FREQUENCY
+2.1.4.4 Follow-me 2.1.4.4 Follow-me
+L'assistenza del follow-me sui piazzali è su richiesta del pilota solo in
+casi di contingency
+Follow-me assistence on apron is on pilot's request only for
+contingency reasons
+2.1.4.5 Marshalling 2.1.4.5 Marshalling
+• è obbligatorio sugli stand non equipaggiati con sistemi di guida per
+parcheggio a vista  (A-VDGS) e forniti dal ground handling operator
+• è fornito dall’esercente solo in caso di contingency
+• it is mandatory on stands not equipped with visual docking guidance
+system  (A-VDGS) and provided by the ground handling operator
+• it is provided by aerodrome operator only for contingency reasons
+2.1.5 Limitazioni/regolamentazioni sui piazzali 2.1.5 Limitations/regulations on aprons
+Aeromobili in partenza:
+a. dovranno riportare lo stato “READY” sulla FREQ 121.725 MHz (Fiume
+Ramp) prima di richiedere l’autorizzazione allo start-up (vedi NOTE);
+b. riceveranno lo start-up soltanto dopo la comunicazione “READY” da
+parte del Gestore Aeroportuale all’ATC (vedi NOTA 2).
+NOTE
+1. Lo stato di “READY” significa:
+• porte e stive sono chiuse;
+• area di sicurezza intorno all’aeromobile libera da persone,
+mezzi, equipaggiamenti ed ostacoli;
+• aeromobile completamente pronto al rullaggio;
+• è stata consegnata all’handler la documentazione prevista;
+                  
+• rimorchio per il push-back connesso (solo per nose-in
+stand);
+2. Autorizzazioni ATC ed alla messa in moto saranno emesse
+sulla FREQ 121.800 con orario 0600-2200 (0500-2100), sulla
+FREQ 121.900 con orario 2200-0600 (2100-0500). I piloti
+richiederanno le autorizzazioni al push-back e al rullaggio
+sulla FREQ 122.125 con orario 0600 2200 (0500-2100)
+oppure sulla FREQ 121.900 con orario H24 in accordo alle
+istruzioni ATC;
+3. Accendere la luce anticollisione solo dopo aver ricevuto
+l'autorizzazione al push-back/start-up da ATC.
+Departing aircraft:
+a. shall report “READY” on FREQ 121.725 MHz (Fiume Ramp) prior to
+requesting start-up clearance (see REMARKS);
+b. start-up will be provided only after ATC has received “READY”
+communication by Airport Operator (see REMARK 2).
+REMARKS
+1. “READY ” status means:
+• aircraft doors and holds are closed;
+• Aircraft Safety Area clear from vehicles, equipment,
+obstacles and ground personnel;
+• aircraft fully ready for taxiing;
+• compulsory documentation has been provided to the
+handler;
+• push-back tractor has been connected (applicable only for
+nose-in stands)
+2. ATC and start up clearance will be issued on FREQ
+121.800 HR 0600-2200 (0500-2100), on FREQ 121.900 HR
+2200-0600 (2100-0500). Pilots shall require push-back and
+taxi clearance on FREQ 122.125 HR 0600-2200 (0500-2100)
+or on FREQ 121.900 hours H24 according to ATC instructions;
+ 
+3. It is reccomended to switch on the anticollision lights only
+after obtaining ATC start-up/push-back approval.
+2.1.6 Movimentazione degli aeromobili sui piazzali 2.1.6 Aircraft movement on aprons
+Separazione:
+In riferimento alla sezione AIP ENR 1.1, paragrafo 2.1 la separazione
+dell'aeromobile da altro aeromobile o da altri ostacoli è di
+responsabilità dell'equipaggio di Condotta nel caso di movimentazione
+autonoma.
+Separations:
+With reference to AIP section ENR 1.1, item 2.1 the separation of
+the aircraft from another aircraft or other obstacles is under the
+responsibility of the Flight crew in the case of autonomous movement.
+Push-back:
+Gli aeromobili che usano il Push-back per lasciare le loro piazzole
+devono osservare le seguenti procedure:
+Push-back:
+Aircraft using Push-back for leaving their stands shall comply with the
+following procedures:
+
+=== Page 30 ===
+AD 2 LIRF 1 - 30
+AIRAC effective date 10 JUL 2025 AIP - Italia
+(A07/25) ENAV - Roma
+• dopo l’autorizzazione alla messa in moto e alla partenza sulla
+frequenza delivery, gli aeromobili che necessitano di push-back
+saranno istruiti come segue: ‘Mantenere l’ascolto sulla FREQ Ground
+121.900 MHz (H24) o sulla FREQ 122.125 MHz (0500-2100)’, in
+attesa di chiamata per il push-back sull’appropriata frequenza;
+• iniziare la procedura di messa in moto in accordo a quanto previsto
+dal Manuale di Aeroporto.
+• after start up and departure clearance on delivery frequency, aircraft
+requiring push-back will be instructed as follows: ‘Monitor on Ground
+FREQ 121.900 MHz (H24) or FREQ 122.125 MHz (0500- 2100)’,
+waiting for a call on the appropriate frequency for push-back;
+• begin start up procedure according to the Aerodrome Manual.
+2.1.7 Piazzole fuori dalla vista del Controllore in Torre: 2.1.7 Aircraft stands out of sight of ATC's Operator:
+a. Quadrante 100: 101,102,103,104,105,106,107,108
+b. Quadrante 200: 223,224
+c. Quadrante 300: 307, 308, 309, 310, 311, 312, 313, 314, 315, 316,
+317
+d. Quadrante 500: 510
+e. Quadrante 600: 601,602,603,604,605,606,607,608,613,614
+f.Quadrante 700: 704,705,706
+g. Quadrante 800: 841, 842, 843, 844, 845, 846, 847, 848, 849, 850,
+851, 852
+Il pilota deve confermare la conclusione delle manovre di parcheggio
+attraverso le frequenze GROUND 121.900 MHz (H24) o 122.125 MHz
+0600 - 2200 (0500-2100)
+a. Block 100: 101,102,103,104,105,106,107,108
+b. Block 200: 223,224
+c. Block 300: 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317
+             
+d. Block 500: 510
+e. Block 600: 601,602,603,604,605,606,607,608,613,614
+f.Block 700: 704,705,706
+g. Block 800: 841,842,843,844,845,846,847,848,849,850,851,852
+Pilot shall confirm when parking manoeuvres have been completed
+using GROUND frequencies 121.900 MHz (H24) or 122.125 MHz 0600
+- 2200 (0500-2100)
+2.2 Procedure di partenza A-CDM 2.2 A-CDM departure procedures
+2.2.1 Introduzione 2.2.1 Introduction
+La procedura Airport CDM coordina il processo di Turn-Round, è
+incorporata nella gestione europea Air Traffic Flow and Capacity
+Management (ATFCM) ed inizia a EOBT-3h. Si applica a tutte le
+operazioni a terra fino al decollo.
+Airport CDM procedure coordinates the Turn-Round process and
+is incorporated into the European Air Traffic Flow and Capacity
+Management (ATFCM). The procedure starts at EOBT-3 hours and is
+applied to all the operations until Take- Off.
+Le milestone più importanti del processo A-CDM sono quelle legate
+all'inserimento del TOBT ed all'emissione del TSAT.
+A-CDM Milestone approach is mainly based on TOBT and TSAT.
+Il TOBT  - Target Off-Block Time - Tempo stimato, calcolato da un
+Aircraft Operator/Ground Handler (AO/GH), in cui un aeromobile sarà
+'ready'.
+TOBT - Target Off-Block Time - Estimated time, calculated by an
+Aircraft Operator/Ground Handler (AO/GH), when an aircraft will be
+'ready'.
+Il TSAT - Target Start-Up Approval Time - Tempo limite in cui è attesa
+l'approvazione alla messa in moto, calcolato in base a tutti i parametri
+rilevanti come CTOT, taxi time, ecc.
+TSAT - Target Start-Up Approval Time - Calculated time at which start-
+up clearance can be expected at the latest. TSAT includes all relevant
+parameters such as CTOT, variable taxiing time etc.
+I TSAT sono consultabili tramite il servizio web FAST (Fiumicino Airport
+Sharing Tool) accessibile con un account rilasciato da Aeroporti di
+Roma seguendo le istruzioni indicate al sito internet http://www.adr.it/
+web/aeroporti-di-roma en-/airport-cdm
+TSAT enquiries are available via FAST (Fiumicino Airport Sharing Tool)
+web service for which an account can be obtained by Aeroporti di Roma
+on website http://www.adr.it/web/ aeroporti-di-roma-en-/airport-cdm
+2.2.2 Milestones 2.2.2 Milestones
+a. EOBT - 3h (M1)
+Il FPL viene controllato considerando l'Airport Slot - Scheduled
+Off-Block Time (SOBT); altri controlli includono l'aeroporto di
+destinazione e il tipo di aeromobile. In caso di incoerenze il volo
+non sarà inserito nella sequenza pre-partenza e sarà presentato un
+allarme sulla piattaforma A-CDM locale. AO/GH dovrà intraprendere
+le opportune azioni per risolvere l'allarme il più presto possibile.
+b. EOBT - 2h (M2)
+Il TOBT è l'orario stimato al quale un volo pianifica di essere “pronto
+a muovere”. Per i voli per i quali è previsto il turnaround, il sistema
+genera automaticamente un TOBT all'ingresso in FIR o ad EOBT-2h
+secondo le regole:
+• TOBT = ELDT+EXIT+MTT - per i voli in arrivo non ancora atterrati;
+• TOBT = ALDT+EXIT+MTT - per voli già atterrati;
+• TOBT = AIBT+MTT-per i voli al parcheggio.
+I voli per i quali non è previsto il turnaround o i voli con tempo di
+sosta superiore a 2 ore entreranno nella sequenza pre-partenza
+con un TOBT uguale all'EOBT. In entrambi i casi AO/GH potrà
+inserire un TOBT manuale in accordo alle seguenti regole:
+• TOBT>orario attuale +3';
+• TOBT>ALDT+EXIT+RTT - per i voli già atterrati;
+• TOBT>AIBT+RTT - per i voli al parcheggio;
+• EOBT-15'<TOBT<EOBT+15'.
+a. EOBT - 3h (M1)
+ATC flight plans will be checked against their Airport Slot - Scheduled
+Off-Block Time (SOBT); other checks include the destination airport
+and the aircraft type. If they do not correspond the flight will not
+enter the pre-departure sequence and an alert is risen on the local
+A-CDM platform. AO/GH must take the appropriate actions to solve
+the alerts as earliest as possible.
+b. EOBT - 2h (M2)
+TOBT is the time when the aircraft is planned to be "ready to move".
+At FIR Entry (for turnaround flights) or at EOBT-2h, the system will
+automatically generate a TOBT as follows:
+              
+• TOBT = ELDT+EXIT+MTT - for inbound flights not yet landed;
+• TOBT = ALDT+EXIT+MTT - for flights already landed;
+• TOBT = AIBT+MTT-for acft at the parking stand.
+Flights not subject to turnaround or aircraft with a ground time
+greater than 2 hours will enter the pre-departure sequence with
+a TOBT=EOBT. In both cases the AO/GH can input a manual TOBT
+that should comply with following rules:
+• TOBT>Actual time +3';
+• TOBT>ALDT+EXIT+RTT - for landed flights;
+• TOBT>AIBT+RTT - for acft at the parking stand;
+• EOBT-15'<TOBT<EOBT+15'.
+
+=== Page 31 ===
+AIP - Italia
+AD 2 LIRF 1 - 31
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+Tale regola si applica solo ai voli non soggetti a CTOT, per voli
+regolati si applica la regola TOBT+EXOT<CTOT. A EOBT-2h viene
+inviato a NMOC un messaggio T-DPI-t contenente il TTOT.
+c. EOBT -40': Emissione del TSAT (M9)
+Ad EOBT-40' il TOBT viene confermato e viene emesso il TSAT.
+La variazione del TOBT è a cura di AO/GH. Il TOBT può essere
+modificato senza limiti fino all'emissione del TSAT, dopodiché può
+essere emendato per un massimo di 3 volte, quindi il volo perderà
+la priorità nella sequenza prepartenza. A EOBT-40' verrà inviato a
+NMOC un messaggio T-DPI-s contente il TOBT, il TTOT e il TSAT.
+d. ARDT (Actual Ready Time) (M12)
+I voli in partenza devono essere "READY" entro TOBT+5'
+e devono contattare il Controllo voli ADR sulla frequenza
+121.725 MHz per ottenere l'ARDT.
+Il Controllo Voli ADR, dopo aver verificato con le telecamere che il
+volo è "READY", emetterà l'ARDT e comunicherà al pilota l'attuale
+TSAT.
+Se il volo non è "READY" a TOBT+5' il TOBT sarà automaticamente
+cancellato dalla piattaforma A-CDM. Un nuovo TOBT deve essere
+inserito entro 5' altrimenti verrà emesso dal NMOC un FLS con il
+commento "SUSPENDED BY DEPARTURE AIRPORT. PLEASE SEND
+DLA/CHG OR UPDATE TOBT OF THE FLIGHT" (es. TOBT 1000, no
+ARDT entro 1005, no aggiornamento TOBT => FLS a 1010).
+Per de-sospendere il volo sarà necessario aggiornare l'EOBT. Se il
+volo è soggetto ad un CTOT, alla ricezione dell'ARDT verrà inviato un
+messaggio DPI a NMOC per richiedere un miglioramento del CTOT.
+Non è necessario l'invio di un REA per richiedere un
+miglioramento del CTOT.
+e. ASAT e AOBT (M14/M15)
+Una volta ottenuto l'ARDT il traffico in partenza dovrà monitorare la
+frequenza ATC "Fiume Delivery" (121.800 MHz o 121.900 MHz 2200
+- 0600 (2100-0500)) la quale fornirà l'ATC clearance in accordo al
+TSAT ed alla situazione di traffico in atto.
+Nel caso di variazioni al TSAT, i piloti saranno informati dall'agente di
+rampa o dall'operatore aereo attraverso altri mezzi di comunicazione
+interni. I piloti devono astenersi dal richiedere aggiornamenti del
+TSAT all' ATC per evitare il congestionamento della frequenza in uso.
+Il traffico in partenza dovrà lasciare il parcheggio entro ASAT+5'. Ad
+AOBT verrà inviato a NMOC un messaggio A-DPI con l'ultimo TTOT.
+Nel caso in cui si renda necessario utilizzare per il decollo una
+pista differente da quella in uso, i piloti devono informare
+FIUME Delivery 20min prima del TOBT.
+Se un traffico non è abile a lasciare il parcheggio entro ASAT+5 o
+deve tornare al parcheggio dovrà informare l'ATC sull'appropriata
+frequenza. L'ATC rimuoverà il volo dalla sequenza di partenza e sarà
+inviato a NMOC un C-DPI che causerà la sospensione del volo con
+il commento 'SUSPENDED BY DEPARTURE AIRPORT. PLEASE SEND
+DLA/CHG OR UPDATE TOBT OF THE FLIGHT''. In questo caso il
+processo deve ricominciare con l'inserimento di un nuovo TOBT.
+This rule applies only for flights without CTOT, for regulated flights
+the rule to apply is TOBT+EXOT<CTOT. At EOBT-2h a T-DPI-t
+message will be sent to NMOC containing the TTOT.
+c. EOBT -40': TSAT issue time (M9)
+At EOBT-40' TOBT is confirmed and TSAT is issued. TOBT must be
+updated by AO/GH for any change. TOBT can be updated as often
+as desired until TSAT issue time, after that TOBT may be updated up
+to a maximum of 3 times, then the flight will lose priority in the pre-
+departure sequence. At EOBT-40', a T-DPI-s message will be sent
+to NMOC containing TOBT, TTOT, TSAT.
+d. ARDT (Actual Ready Time) (M12)
+Departing traffic must be "READY" within TOBT+5' and must
+contact ADR Flight Control Unit on frequency 121.725 MHz
+to obtain the ARDT.
+ADR Flight Control Unit, after the check of "READY" status with the
+cameras, will issue the ARDT and will provide the pilot with the
+current TSAT.
+If the aircraft is not "READY" within TOBT + 5', TOBT will be
+automatically deleted by A-CDM platform. A new TOBT must
+be inserted in the platform within 5 minutes, otherwise a FLS
+will be triggered by NMOC with the comment "SUSPENDED BY
+DEPARTURE AIRPORT. PLEASE SEND DLA/CHG OR UPDATE TOBT
+OF THE FLIGHT". (e.g TOBT=1000, no ARDT within 1005, no TOBT
+update => FLS at 1010).
+To de-suspend the flight the EOBT must be updated. If the flight is
+subject to a CTOT, at ARDT a DPI message will be sent to NMOC in
+order to try to get a CTOT improvement.
+There's no need to request a REA message to get a CTOT
+improvement.
+e. ASAT and AOBT (M14/M15)
+Once the ARDT has been obtained, departing traffic shall monitor
+ATC frequency "Fiume Delivery" (121.800 MHz or 121.900 MHz 2200
+- 0600 (2100-0500)) in order to receive the ATC Clearance according
+to TSAT and current traffic situation.
+If TSAT is changed, pilot will be informed thereof by the handling
+agent or by the aircraft operator via other internal reporting
+channels. Pilots should refrain from asking TSAT updates to ATC to
+avoid frequency congestion.
+Departing traffic must leave the stand within ASAT+5'. At AOBT an
+A-DPI message will be sent to NMOC containing latest TTOT.     
+If a different RWY from the one in use for take-off is
+necessary, pilots should advice FIUME Delivery 20min before
+TOBT.
+If traffic is unable to leave the stand ASAT+5', or must return to
+the stand, it must inform ATC on the appropriate frequency. ATC
+will remove the flight from the pre-departure sequence and a C-DPI
+message will be sent to NMOC, that in turn issues a FLS message
+with the comment SUSPENDED BY DEPARTURE AIRPORT. PLEASE
+SEND DLA/CHG OR UPDATE TOBT OF THE FLIGHT'. In this case the
+process has to be started over with a new TOBT.
+2.2.3 TOBT: regole e responsabilità 2.2.3 TOBT: Rules and Responsibilities
+Responsabilità per TOBT
+AO/GH è responsabile del corretto aggiornamento e della
+coerenza del TOBT.
+AO/GH deve notificare gli MTT/RTT e le loro variazioni per ogni tipo di
+aeromobile ad ADR attraverso l'email cdm@adr.it
+Correzione/Cancellazione del TOBT
+Se il TOBT viene modificato il nuovo orario deve essere almeno 3 min
+successivo al tempo di inserimento.
+Se il TOBT non può essere rispettato deve essere aggiornato il
+prima possibile senza farlo scadere.
+Inserimento TOBT
+Il TOBT può essere inserito sulla piattaforma A-CDM disponibile per
+tutti gli utenti accreditati attraverso una piattaforma web. Le richieste
+di accreditamento alla piattaforma A-CDM possono essere richieste
+inviando un'email a cdm@adr.it
+Responsibility for TOBT
+AO/GH is responsible of correct update and coherence of TOBT.
+                                
+AO/GH must notify the MTT/RTT and subsequent changes for each
+aircraft type, to ADR via email cdm@adr.it.
+TOBT Correction/Deletion
+If TOBT is changed the new TOBT must be at least 3 min later than
+the present time.
+If TOBT can no longer be met it must be updated as soon as
+possible, preventing it from expiring.
+TOBT input
+TOBT can be put into A-CDM platform available for all registered users
+through a web platform. An account to access A-CDM platform can be
+obtained via cdm@adr.it
+2.2.4 Sospensione della procedura A-CDM 2.2.4 A-CDM procedure suspension
+In caso di avarie dei sistemi A-CDM la procedura sarà sospesa e:
+a. in ATIS sarà inserito il messaggio “A-CDM out of service”;
+b. per sospensioni oltre le 12 ore verrà emesso NOTAM;
+c. AO/GH saranno informati dal Gestore Aeroportuale ADR;
+d. sarà adottato lo schema di taxi time standard;
+e. per ottenere miglioramenti di CTOT potrà essere richiesto all'ATC
+l'invio di un REA.
+Le operazioni saranno gestite secondo le 'PROCEDURE DI PARTENZA
+NON A-CDM' (vedi sotto).
+In case of A-CDM system failure the procedure will be suspended and:
+a. "A-CDM out of service" will be announced via ATIS;
+b. a NOTAM will be issued if the suspension lasts more than 12h;
+c. AO/GH will be informed by Aerodrome Operator ADR;
+d. a standard Taxi Time Scheme will be adopted;
+e. REA messages can be asked to ATC to request a CTOT improvement.
+                     
+Operations will follow 'NON A-CDM DEPARTURES PROCEDURES' (see
+below).
+
+=== Page 32 ===
+AD 2 LIRF 1 - 32
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+2.2.5 PROCEDURE DI PARTENZA NON A-CDM - Avarie o
+sospensioni
+2.2.5 NON A-CDM DEPARTURE PROCEDURES - failure or
+suspension
+Quando 'pronti' i piloti dovranno contattare il Controllo Voli ADR sulla
+frequenza 121.725 MHz, per ottenere l'ARDT ed essere rilasciati a
+TWR. L'ATC gestirà la sequenza delle partenze in accordo a EOBT/ARDT.
+When 'ready' all departing aircraft must contact ADR Flight Control Unit
+on frequency 121.725 MHz, in order to obtain ARDT and be released
+to TWR. ATC will manage departure sequence according EOBT/ARDT.
+2.2.6 Coordinamenti con NMOC 2.2.6 Coordination with the NMOC
+Un collegamento diretto con il Network Manager Operation Center
+(NMOC) consente uno scambio di dati continuo e completamente
+automatico attraverso i messaggi DPI (Dep Planning Info) e API
+(Arr Planning Info), presi in considerazione per consentire previsioni
+anticipate altamente accurate del traffico e dei tempi di atterraggio/
+partenza e un calcolo più preciso ed efficiente del CTOT grazie all'uso di
+tempi di decollo target locali. Di seguito è riportato l'insieme completo
+dei messaggi scambiati:
+1. Flight Update Message (FUM)
+2. General Arrival Planning Information (G-API)
+3. Predicted Departure Planning Information (P-DPI)
+4. Early Departure Planning Information (E-DPI)
+5. Target Departure Planning Information (T-DPI)
+6. ATC Departure Planning Information (A-DPI)
+7. Cancel Departure Planning Information (C-DPI)
+A direct connection with the network manager operation center
+(NMOC) enables a permanent and fully automatic data exchange
+through DPI (Dep Planning Info) and API (Arr Planning Info) messages
+taken into account to enable highly accurate early predictions of
+traffic and landing/departure times and a more accurate and efficient
+calculation of CTOT due to the use of local target take-off times. The
+following is the complete set of messages exchanged:
+1. Flight Update Message (FUM)
+2. General Arrival Planning Information (G-API)
+3. Predicted Departure Planning Information (P-DPI)
+4. Early Departure Planning Information (E-DPI)
+5. Target Departure Planning Information (T-DPI)
+6. ATC Departure Planning Information (A-DPI)
+7. Cancel Departure Planning Information (C-DPI)
+2.2.7 Contatti email 2.2.7 Email contacts
+ENAV: acdm.lirf@enav.it
+ADR: cdm@adr.it
+ENAV: acdm.lirf@enav.it
+ADR: cdm@adr.it
+
+=== Page 33 ===
+AIP - Italia
+AD 2 LIRF 1 - 33
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+a. Gli aeromobili in atterraggio per RWY 16L/34R saranno istruiti
+quando possibile come segue: ‘Procedere secondo lo standard 1’.
+Per standard 1 si intende : ‘Mantenere l’ascolto sulla FREQ Fiume
+Ground 121.900 MHz, rullare su D, mantenere posizione su EG’
+b. All’interno dell’ Area Apron (vedere AD 2 LIRF 2-9) è prescritto il
+rullaggio con precauzione a causa dei mezzi di rampa in movimento
+c. I piloti in atterraggio o in decollo per RWY 16L/34R dovranno
+ottenere specifica autorizzazione dalla torre prima di utilizzare la via
+di rullaggio D
+d. Procedure di entrata ed uscita per l’aeromobile B777: parcheggi
+505, 507 e 509 utilizza le vie di rullaggio D – CF, start-up al traverso
+del 507
+e. Gli aeromobili codice D/E in rullaggio da/per l’hangar devono essere
+trainati fino a/da IHP H2
+f.I raccordi AG e AH sono ad uscita rapida dalla RWY 16R . I raccordi
+AF e AD sono ad uscita rapida dalla RWY 34L. I raccordi DE, DG, DH
+sono ad uscita rapida dalla RWY 16L. I raccordi DF, DD e DC sono
+ad uscita rapida dalla RWY 34R
+g. Rullaggio con cautela nell’area in prossimità dell’intersezione della
+TWY D con l’apron TWY NG a causa della presenza di una stazione
+dei vigili del fuoco che riduce la visibilità
+h. Uso preferenziale TWY per ingresso/uscita in Apron:
+a. Aircraft landed on RWY 16L/34R will be instructed when possible as
+follows: ‘Continue standard 1’. Standard 1 is to intend: ‘Monitor on
+Fiume Ground FREQ 121.900 MHz, taxi on D, hold short of EG’
+                     
+b. It is prescribed to taxi with caution inside the Apron Area (see AD 2
+LIRF 2-9), due to ramp vehicles in movement
+c. Pilots landing and departing on RWY 16L/34R before using TWY D
+must obtain a specific authorization from the TWR
+                        
+d. Entry and exit procedures for aircraft B777: parking bays 505, 507
+and 509 aircraft should use TWY D – CF, start-up abeam 507
+                       
+e. Aircraft code D/E taxiing to/from hangars should be towed until/
+from IHP H2
+f.TWY intersections AG and AH are RWY 16R rapid exits. TWY
+intersections AF and AD are RWY 34L rapid exits. TWY intersections
+DE, DG and DH are RWY 16L rapid exits. TWY intersections DF, DD
+and DC are RWY 34R rapid exits
+g. Taxi with caution on area in proximity of intersection TWY D and
+apron TWY NG due to presence of firestation building reducing
+visibility
+h. Preferential use of TWY to enter/exit in Apron:
+Traffico in arrivo/Arriving Traffic RWY 16L/34R RWY 16R/34L
+100 TWY D - U TWY A - H – BT – B - DM – U
+200 TWY D - EG TWY A - H
+300 TWY D - EG TWY A - H
+400 TWY D - EG TWY A - H
+500 pari/even TWY D - EG TWY A - H
+500 dispari/odd TWY D - CF TWY A - H
+600 TWY D - H TWY A - H
+700 TWY D - H TWY A - M/V
+800 TWY D - H TWY A - V / W / Y
+900 TWY D - H TWY A - J
+Traffico in partenza/Departing Traffic RWY 25 RWY 16R/34L
+100 TWY U - DM TWY DM - B - A
+200 TWY NG - N - B TWY N - B - A
+300 TWY NG - N - B TWY G - B - A
+400 TWY NG - N - B/ P - B TWY G - B - A
+500 pari/even TWY NG - N - B TWY G - B - A
+500 dispari/odd TWY P - B TWY G - B - A
+600 TWY R - B TWY R/T - B - A
+700 TWY T - B TWY V / M - A
+800 TWY V / W / Y
+- A - H - BT - B
+TWY V / W / Y - A
+900 TWY J - A - H - BT - B TWY J - A
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+aeroportuale ridotta (RAVP)
+4 Reduced airport visibility procedures (RAVP)
+4.1 Minimi operativi di aeroporto 4.1 Aerodrome operating minima
+Per piste 16L, 16R sono consentite operazioni di:
+• atterraggio con RVR pari o superiore a 75 m su tutti i trasmissometri
+• decollo con RVR pari o superiore a 75 m sul trasmissometro STOP
+END o trasmissometro più prossimo
+Per piste 34R, 34L sono consentite operazioni di:
+• atterraggio con RVR pari o superiore a 550 m su tutti i trasmissometri
+• decollo con RVR pari o superiore a 550 m sul trasmissometro STOP
+END o trasmissometro più prossimo
+Per pista 25 sono consentite operazioni di:
+For runways 16L, 16R following operations are permitted:
+• landing with RVR equal to or greater than 75 m on all
+trasmissometers
+• take off with RVR equal or grater than 75m on the STOP END
+trasmissometer or nearest trasmissometer
+For runways 34R, 34L following operations are permitted:
+• landing with RVR equal to or greater than 550 m on all
+trasmissometers
+• take off with RVR equal to or greater than 550 m on the STOP END
+trasmissometer or nearest trasmissometer
+
+=== Page 34 ===
+AD 2 LIRF 1 - 34
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+• atterraggio con RVR pari o superiore a 550 m su tutti i trasmissometri
+• decollo con RVR pari o superiore a 125 m sul trasmissometro MID
+o trasmissometro più prossimo
+In caso di indisponibilità di tutti i valori RVR, non sono consentite
+operazioni di volo con VIS inferiore a 550 m
+For runway 25 following operations are permitted:
+• landing with RVR equal to or greater than 550 m on all
+trasmissometers
+• take off with RVR equal to or greater than 125 m on the STOP END
+trasmissometer or nearest trasmissometer
+In case of unavailability of all RVR values, flight operations with VIS
+lower than 550 m are not allowed.
+4.2 Minime operativi per il rullaggio 4.2 Aerodrome operating minima
+Con RVR minore o uguale a 75 m, nessuna operazione di rullaggio
+è consentita e l’aeromobile manterrà la posizione in attesa di
+miglioramento delle condizioni di visibilità
+With RVR equal to or lower than 75 m, no taxi operation is
+permitted. Aircraft shall maintain position waiting for visibility
+conditions improvement.
+4.3 Movimentazione al suolo (Ref. LVP Chart) 4.3 Ground movement (Ref. LVP Chart)
+In condizioni di scarsa visibilità è prevedibile una riduzione
+della capacità aeroportuale a causa delle restrizioni applicate alla
+movimentazione al suolo.
+a. Aeromobili in arrivo
+Gli aeromobili dovranno liberare:
+• Pista 16R: al raccordo AG, accedendo in Apron attraverso la IHP
+V1 (TWY V) o W1 (TWY W) o J1 (TWY J) (riportare raggiunta la IHP
+A2 se si accede al piazzale 900 attraverso J1); se impossibilitati ai
+raccordi AH (riportare raggiunta la IHP A2 per l’accesso in Apron
+attraverso IHP V1 o W1) o AK/AL (riportare raggiunta le IHP A1
+per ulteriori istruzioni)
+• Pista 16L: preferibilmente al raccordo DG, se impossibilitati al
+raccordo DH. Procedere autonomamente fino alla IHP D7 (o D6
+se liberata via DH) e riportare quando raggiunta. Seguire poi le
+istruzioni della TWR fino al raggiungimento dell’IHP EG1 dove,
+con visibilità inferiore a 150 m, bisognerà attendere il follow-
+me per essere scortati al parcheggio. In caso di impossibilità
+ad utilizzare i raccordi DG o DH, liberare la pista attraverso la
+TWY DL. Comunicare alla TWR il raggiungimento della IHP DL1 ed
+attendere lo spegnimento della stessa e le istruzioni della TWR per
+continuare il rullaggio via TWY D
+b. Aeromobili in partenza
+Pista 25:
+• gli aeromobili rulleranno unicamente via TWY T (IHP T1) o TWY P
+(IHP P1) - TWY B - TWY BA;
+• le TWY BC e BD non sono utilizzabili;
+Pista 16R: utilizzata in caso di indisponibilità della pista 25 o per
+esigenze operative:
+• gli aeromobili rulleranno via TWY M (IHP M1) - TWY A - TWY AA/AB
+o via TWY H (IHP H1) – TWY A – TWY AA/ AB o via TWY J (IHP J1)
+- TWY A - TWY AA/AB;
+• la TWY AC non è utilizzabile.
+Pista 16L: utilizzata in caso di indisponibilità della pista 25 e della pista
+16R o per esigenze operative:
+• se la pista viene utilizzata solo per i decolli, gli aeromobili in partenza
+rulleranno via IHP D1 - TWY D - TWY DA;
+• se la pista viene utilizzata per operazioni miste (partenze e arrivi)
+gli aeromobili in partenza rulleranno via TWY P (IHP P1) – TWYB -
+TWY CM, fino alla stop bar CM1 per successive istruzioni;
+• la TWY DB non è utilizzabile.
+c. Obblighi di riporto
+In condizioni di visibilità ridotta tutti i piloti devono riportare a Fiume
+TWR:
+• raggiunto le RHP/IHP, qualora non diversamente istruiti dalla
+TWR;
+• la pista libera non appena liberata l’area sensibile dell’ILS
+identificata dalla fine dell’alternanza di luci verdi/gialle delle luci
+asse TWY;
+• raggiunto lo stand assegnato
+In case of poor visibility conditions a reduced airport capacity can be
+expected due to restrictions applied on ground movements.           
+                   
+a. Arriving aircraft
+Landing aircraft shall vacate:
+• RWY 16R: TWY AG, entering the apron via IHP V1 (TWY V) or W1
+(TWY W) or J1 (TWY J) (report reaching IHP A2 if entering the
+apron 900 via J1), if unable at TWY AH (report reaching IHP A2
+if entering the apron via V1 o W1) or AK/AL (report reaching IHP
+A1 if entering the apron via V1 o W1 for further instructions)
+• RWY 16L: preferably at TWY DG, if unable at TWY DH. Proceed
+autonomously to the IHP D7 (or D6 if vacated via DH) and report
+when reaching. Follow then TWR instructions until reaching IHP
+EG1 where, if visibility is less than 150 m, they will need to wait
+for the follow-me vehicle to be escorted to the parking stand. If
+unable to use TWY DG or DH, vacate the RWY via TWY DL. Report
+to the TWR to have reached IHP DL1 and wait until it is turned off
+and comply with TWR instructions to continue taxiing via TWY D
+                                              
+b. Departing aircraft
+RWY 25:
+• aircraft shall taxi via TWY T (IHP T1) or TWY P (IHP P1) - TWY B
+- TWY BA;
+• TWY BC and BD shall not be used;
+RWY 16R: to be used in case of RWY 25 unavailability or for operational
+reasons:
+• aircraft shall taxi via TWY M (IHP M1) - TWY A - TWY AA/AB or via
+TWY H (IHP H1) – TWY A – TWY AA/AB or via TWY J (IHP J1) - TWY
+A - TWY AA/AB;
+• TWY AC shall not be used.
+RWY 16L: to be used in case of RWY 25 and RWY 16R unavailability
+or for operational reasons:
+• if the RWY is used for take off only, departing aircraft shall taxi via
+IHP D1 - TWY D - TWY DA;
+• if the RWY is used for mixed operations (departures and arrivals)
+departing aircraft shall taxi via TWY P (IHP P1) - TWY B - TWY CM,
+until reaching stop bar CM1 for further instructions;
+• TWY DB shall not be used.
+c. Mandatory reports
+In reduced visibility conditions all pilots shall report to Fiume TWR:
+• reaching RHP/IHP, unless otherwise instructed by TWR;                   
+• when ILS sensitive area has been vacated as identified by the end
+of the green/yellow colour coded TWY centerline lights;                    
+• reaching the stand.
+
+=== Page 35 ===
+AIP - Italia
+AD 2 LIRF 1 - 35
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+4.4 Contingencies 4.4 Contingencies
+Radar di Superficie (SMR) fuori servizio e/o Avaria Totale delle Stop
+Bar a servizio della pista.
+Qualora le condizioni siano tali da non permettere alla TWR il
+monitoraggio visivo di tutta o parte dell’area di manovra, è consentito
+un solo movimento per volta e l’assistenza del followme è sempre
+obbligatoria.
+Surface Movement Radar (SMR) out of service and/or total failure of
+Runway Stop Bars.
+Whenever conditions are such that all or part of the manoeuvring
+area cannot be visually monitored from the TWR, only one aircraft
+movement at a time is allowed and follow-me assistance is always
+mandatory.
+4.5 Avaria radio sull’area di manovra 4.5 Radio failure on the manoeuvring area
+Vedi tabella 20.8 See table 20.8
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+Al fine di ottimizzare la capacità di aeroporto sono applicate le seguenti
+procedure:
+1. Ai piloti è richiesto di attenersi scrupolosamente alle istruzioni ATC
+2. Si consente all'ATC di applicare nel tratto finale dell'avvicinamento
+la minima separazione radar, o la separazione minima in relazione
+alla categoria della turbolenza di scia se:
+• la pista in uso per gli atterraggi è la RWY 16L o la 34R
+• tutti gli aeromobili liberino la pista utilizzata per l'atterraggio alla
+massima velocità possibile, commisurata con la safety e in accordo
+con le procedure operative standard, e utilizzando la TWY di uscita
+rapida opportuna tra quelle descritte di seguito
+• per la pista in uso siano disponibili le TWY di uscita rapida
+3. Un'occupazione prolungata di pista può comportare che l'aeromobile
+che segue nella sequenza venga istruito per il "go around". Al fine di
+ridurre il tempo di occupazione della pista, dovranno essere seguite
+le seguenti procedure:
+• i piloti dovranno pianificare l'atterraggio e la decelerazione in pista,
+utilizzando le distanze RWY THR indicate in tabella sottostante, per
+liberare in maniera sicura e rapida allo scopo di ridurre i ritardi e
+massimizzare l’utilizzo
+• non dovrà essere richiesto all'ATC di estendere il rullaggio sulla pista
+per accorciare i percorsi a terra e uscire più vicini all'area di sosta
+assegnata
+• i piloti non in grado di liberare la pista dalla TWY di uscita
+rapida appropriata definita di seguito, dovranno proseguire all’uscita
+seguente evitando di rallentare
+In order to maximize airport capacity following procedures are applied:
+1. Pilots are requested to strictly comply with ATC instructions
+2. ATC is allowed to guide ACFT on final approach using minimum radar
+separation or separation minimum according to wake turbulence
+category if:
+• RWY in use for landing is RWY 16L or RWY 34R
+• all ACFT exit the RWY at the fastest speed commensurate with
+safety and standard operating procedures using the most suitable
+rapid exit TWY among those described below
+  
+• rapid exit for RWY in use are available
+3. An extended RWY occupancy may result in the subsequent ACFT
+being instructed to “go around”. In order to reduce RWY occupancy
+time, the following procedures apply:
+• pilots shall pre-plan their landing and roll out using the distances
+RWY THR indicated in the table below, to target the rapid exit TWY
+that provides for a safe and expeditious exit reducing delays and
+maximizing utilization at all times
+• tactical requests to extend the landing roll to shorten ground taxi
+and exit nearer to parking stands shall not be made to ATC
+• pilots unable to vacate the RWY via the suitable rapid exit TWY
+as defined below shall notify continue to the next exit avoiding to
+reduced speed
+EXIT DE (30°) DG (30°) DH (30°)
+RWY 16L 1176 m
+Light
+1766 m
+Medium
+2516 m
+Medium-Heavy
+EXIT AG (30°) AH (30°)
+RWY 16R 1991 m
+Light-Medium
+2455 m
+Medium-Heavy
+EXIT DF (30°) DD (30°) DC (30°)
+RWY 34R 1173 m
+Light-Medium
+1765 m
+Medium
+2516 m
+Heavy
+EXIT AF (30°) AE (90°) AD (30°) AC (30°)
+RWY 34L 1283 m
+Light-Medium
+1667 m
+Light-Medium
+2150 m
+Medium-Heavy
+2875 m
+Heavy
+NOTA
+1. Distanza corrispondente all'inizio del marking di centre line
+rapid exit taxiway (rif ICAO Doc 9157 part 2).
+2. Al fine di ridurre i ritardi e di ottimizzare l'uso della pista,
+il punto di uscita richiesto per la RWY 16R è l'uscita rapida
+TWY AG (AE non utilizzabile).
+3. AE non è una TWY di uscita rapida.
+REMARK
+1. Distance corresponding to the beginning of marking of centre
+line rapid exit taxiway (ref ICAO Doc 9157 part 2)
+2. In order to reduce delays and maximize RWY utilization, the
+required exit point for RWY 16R is rapid exit TWY AG (AE not
+usable)
+3. TWY AE is not a rapid exit TWY.
+4. Utilizzo della pista nel tempo strettamente necessario in decollo:
+Alla ricezione dell’autorizzazione all’allineamento i piloti dovranno
+assicurarsi, compatibilmente con la sicurezza e le procedure
+operative standard, di essere in grado di rullare e posizionare
+correttamente l’aeromobile presso il punto attesa e allinearsi sulla
+pista non appena l’aeromobile che lo precede abbia iniziato la corsa
+di decollo o di atterraggio
+5. Per quanto sia possibile i controlli di cabina devono essere terminati
+prima di allinearsi e i controlli da effettuare in pista devono essere
+ridotti al minimo tempo necessario
+4. Minimum take off RWY occupancy time:
+On receipt of line up clearance, pilots should ensure, in accordance
+with safety and standard operating procedures, that they are able to
+taxi and correctly position the ACFT at authorized holding position
+and line up on the RWY as soon as the preceding ACFT has started
+its take off roll or landing run
+5. Whenever possible, cockpit checks should be completed prior to line
+up and any checks requiring completing while on the RWY should
+be kept to the minimum required
+
+=== Page 36 ===
+AD 2 LIRF 1 - 36
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+6. I piloti devono assicurarsi di essere in grado di cominciare la corsa
+di decollo immediatamente dopo aver ricevuto l’autorizzazione al
+decollo
+7. I piloti non in grado di uniformarsi a questi requisiti dovranno
+notificarlo all’ATC il prima possibile una volta in contatto con la torre
+8. Quando istruiti da Fiume Ground allo "standby 118.700", i piloti
+dovranno selezionare la frequenza TWR 118.700 MHz, mantenere
+l'ascolto radio e attendere di essere chiamati dalla TWR
+9. Minime di separazione di pista ridotte (RRSM)
+RRSM tra aeromobili che utilizzano la stessa pista può essere
+applicata solo durante le ore diurne (da SR+30 a SS-30) in accordo
+alle specifiche sotto elencate nel punto 9.1 e 9.2, una volta verificato
+che tutte le seguenti condizioni siano soddisfatte:
+a. le minime di turbolenza di scia devono essere applica
+b. la visibilità deve essere almeno di 5Km ed il ceiling non inferiore
+a 1000ft
+c. la componente in coda non dovrà superare i 5Kt
+d. il sistema di sorveglianza di torre deve essere disponibile
+e. l’azione frenante non dovrà essere condizionata da contaminanti
+in pista come ghiaccio, fango, neve ed acqua
+6. Pilots should ensure that they are able to start the take off roll
+immediately after take off clearance is issued
+7. Pilots not able to comply with these requirements should notify ATC
+as soon as possible once transferred to TWR
+8. When instructed by Fiume Ground to "standby 118.700", pilots shall
+select the TWR frequency 118.700 MHz, maintain listening watch
+and wait for the tower to initiate communications soon
+9. Reduced runway separation minima (RRSM)
+RRSM between aircraft using the same RWY may only be applied
+during daylight hours (FM SR+30 TO SS-30) according to specific
+regulation described hereunder at point 9.1 and 9.2, provided that
+all of the following conditions of use are met:
+a. wake turbulence separation minima shall be applied
+b. visibility shall be at least 5Km and ceiling not lower than 1000ft
+c. tailwind component shall not exceed 5Kt
+d. the tower surveillance system must be available
+e. the braking action shall not be adversely affected by RWY
+contaminants such as ice, slush, snow and water
+9. 1  Partenze
+I decolli con RRSM possono essere consentiti da RWY25 solo quando
+l’aeromobile in partenza, precedente, sia in volo, abbia superato
+un punto distante aleno 2400m dalla posizione di allineamento del
+successivo aeromobile e i due aeromobili siano autorizzati per due
+distinte procedure iniziali di salita.
+9. 1  Departure
+TKOF with RRSM may be allowed from RWY25 only when the
+preceeding departing aircraft is airborne, it has at least passed
+a point distant 2400m from the line-up position of the succeding
+aircraft and the above two aicraft are cleared for distinct initial climb
+procedures.
+9. 2  Arrivi
+Un aeromobile in arrivo potrà essere autorizzato ad atterrare
+con RRSM su una pista temporaneamente occupata da un altro
+aeromobile solo nelle seguenti condizioni:
+a. atterraggi seguendo un atterraggio su RWY 16L/34R o RWY
+16R/34L
+• l’areomobile atterrato precedentemente ha liberato la pista o è
+in movimento ad una distanza di almeno 2400m dalla RWY THR
+e libererà la pista senza il backtracking
+b. atterraggi seguendo una partenza da RWY 16R/34L o RWY 16L
+o RWY25:
+• l’aeromobile in partenza è decollato e si trova ad una distanza
+di almeno 2400m dalla RWY THR
+9. 2  Arrival
+An arriving aircraft may be cleared for landing with RRSM on
+a runway temporarily occupied by another aircraft in following
+conditions only:
+a. landing following a landing on RWY 16L/34R or RWY 16R/34L
+• the preceeding landed aircraft has vacated the RWY or it is in
+motion at a distance of 2400m at least from the RWY THR and
+will vacate the runway without backtracking
+b. landing following a departure on RWY 16R/34L or RWY 16L or
+RWY25:
+• the departing aircraft has taken off and it is at a distance of
+2400m at least from RWY THR
+NOTA
+ACFT saranno avvisati delle procedure RRSM in atto attraverso
+ATIS
+REMARK
+ACFT will be advised of RRSM procedures in progress through
+ATIS
+6 Restrizioni locali ai voli 6 Local flight restrictions
+1. Traffico aereo ammesso:
+• Voli di linea
+• Voli charter
+• Atterraggi tecnici e voli di posizionamento
+2. Sistema di Multilaterazione (MLAT)
+L’aeroporto di Roma Fiumicino è dotato di un sistema avanzato per
+il controllo della movimentazione al suolo (A-SMGCS) che consente
+agli aeromobili di essere monitorati dall’ATC in area di movimento
+H24 ed in ogni condizione meteorologica; i piloti devono utilizzare il
+loro transponder in accordo a quanto riportato in AIP Italia ENR 1.6
+1. Air traffic allowed:
+• Scheduled flights
+• Charter flights
+• Technical landing and positioning flights
+2. Multilateration System (MLAT)
+Roma Fiumicino airport is equipped with Advanced Surface
+Movement Ground Control System (A-SMGCS) enabling aircraft to
+be tracked by ATC over the movement area H24 and in all weather
+conditions; pilots shall operate their transponder according to AIP
+Italia ENR 1.6
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+1. In fascia oraria notturna HR 2200-0500 (2100-0400) i voli
+dell’Aviazione Generale, compresi gli aerotaxi, sono consentiti senza
+possibilità di sosta dopo tale orario.
+2. In fascia oraria diurna HR 0500-2200 (0400-2100) i voli
+dell’Aviazione Generale, compresi gli aerotaxi, sono consentiti solo
+in caso di PPR negato sullo scalo di CIA e alle seguenti condizioni:
+a. Non sono consentiti arrivi nelle fasce orarie 0800-1030
+(0700-0930) e 1130-1330 (1030-1230).
+1. During nighttime HR 2200-0500 (2100-0400) General Aviation
+flights, including air-taxi, are allowed with no possibility to stop
+beyond that time slot.
+2. During daytime HR 0500-2200 (0400-2100) General Aviation
+flights, including air-taxi, are allowed only when CIA PPR is denied
+and under the following conditions:
+a. Arrivals are not allowed in the time slot 0800-1030 (0700-0930)
+and 1130-1330 (1030-1230).
+
+=== Page 37 ===
+AIP - Italia
+AD 2 LIRF 1 - 37
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+b. È consentita una sosta massima di 12 ore e in accordo alla
+capacità residua delle piazzole disponibili per aviazione generale
+utilizzabili esclusivamente con push-back.
+3. Il PPR di voli ferry-in/ferry-out non sarà autorizzato.
+b. Maximum 12 hours stop is allowed and in accordance with the
+remaining capacity of available general aviation stands that must
+be used with push-back only.
+3. Ferry-in/ferry-out PPR will not be approved.
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+Ogni qual volta un aeromobile che operi in area di manovra si trovi in
+una situazione di avaria radio dovrà comportarsi come segue:
+Aeromobile in partenza:
+continuerà rigorosamente sul percorso assegnato fino al limite
+dell’autorizzazione ricevuta in attesa dell’arrivo del follow-me per
+raggiungere lo stand di parcheggio
+Aeromobile in arrivo:
+• Se al verificarsi dell’avaria ha già ricevuto istruzioni al rullaggio,
+continua rigorosamente sul percorso assegnato, fino al limite
+dell’autorizzazione ricevuta dove attenderà il follow-me per il
+parcheggio, qualora sia stato istruito a raggiungerlo, fino allo stand;
+• Se l’avaria avviene in volo o comunque non sono state ricevute
+istruzioni al rullaggio, l’aeromobile libererà la pista, si fermerà al
+primo IHP disponibile e attenderà il follow-me
+Whenever an aircraft operating in the manoeuvring area experiences
+a communication failure it shall operate as follows:
+Departing aircraft:
+it shall continue strictly on the assigned taxi route until reaching its
+clearance limit position waiting for follow-me car in order to be guided
+to tha parking stand
+Arriving aircraft:
+• if it has already received taxiing instructions when the failure occurs,
+it continues strictly on the assigned route until reaching its clearance
+limit position, waiting for the follow-me car for parking assistance,
+• if the failure occurs during the flight or in case no taxi instructions
+have been received, it will vacate the runway stopping at the first
+available IHP and waiting for follow-me
+LIRF AD 2.21 PROCEDURE ANTIRUMORE
+LIRF AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+Oltre a quanto riportato nella presenta tabella, si rimanda alla
+descrizione delle procedure di INITIAL CLIMB, SID e STAR e alla
+sezione ENR 1.5 per la normativa generale.
+In addition to what hereafter is stated, see also the description of
+INITIAL CLIMB, SID and STAR procedures and ENR 1.5 for general
+provisions.
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+a. RWY 34L
+Quando le condizioni meteorologiche lo consentono, percorrerre il
+tratto sottovento ad Est dell’aeroporto ad un’altezza non inferiore
+a 2000 ft ed iniziare la virata base sorvolando la costa in modo da
+terminare la stessa virata base a 1500 ft a circa 6 NM dalla soglia
+pista. Quando le condizioni di traffico lo consentono, l’ente ATC potrà
+autorizzare l’aeromoblile, se il pilota accetta, a percorrere il tratto
+sottovento ad Est dell’aeroporto ad un’altezza non inferiore a 1000 ft
+e ad effettuare la virata base a Nord-Ovest di Ostia senza sorvolare
+il centro urbano
+b. RWY 34R o 25
+Quando le condizioni meteorologiche lo consentono, sorvolare il
+centro urbano di Ostia ad una altezza non inferiore a 2000 ft
+a. RWY 34L
+When meteorological conditions allow, fly down wind leg East of the
+airport and at a height not lower than 2000 ft and start base turn
+over the shore so as to complete it at 1500 ft at about 6 NM from the
+runway threshold. When traffic conditions allow and if pilot agrees,
+ATC unit may authorize aircraft to fly the down wind leg East of the
+airport at a height not lower than 1000 ft and to make the turn
+North-West of Ostia avoiding to overfly the town
+           
+         
+b. RWY 34R or 25
+When meteorological conditions allow, overfly Ostia town at a height
+not lower than 2000 ft
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+1. NIL   
+NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIRF AD 2.22 PROCEDURE DI VOLO
+LIRF AD 2.22 FLIGHT PROCEDURES
+
+=== Page 38 ===
+AD 2 LIRF 1 - 38
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+1 GENERALITA' 1 GENERAL
+1.1. Attenzione: attività di elicotteri in VFR entro l'ATZ per operazioni
+di sicurezza.
+1.1. Warning: VFR helicopters activity within ATZ due to security
+operations.
+1.2. L’ingresso nell’ATZ di Roma/Fiumicino non è consentito agli
+apparecchi di VDS avanzato.
+1.2. Advanced ultra light machines are not allowed to enter Roma/
+Fiumicino ATZ.
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.1.1 Fuel Planning and Management 2.1.1 Fuel Planning and Management
+Durante le ore di picco (tab.1), la distanza di volo prevista corrisponde
+alla lunghezza nominale della P-RNAV, come pubblicata in AIP-Italia
+AD2 LIRF.
+During peak hours (table 1), the expected flight distance corresponds
+to the nominal length of the P-RNAV, as published in AIP-Italia AD2
+LIRF.
+Tabella 1
+RUSH HOUR (Orario Locale) 
+0630 - 0900
+1100 - 1400
+1630 - 1800
+1900 - 2100
+NOTA:
+estate LT=UTC+2h
+inverno LT=UTC+1h
+ 
+Table 1
+RUSH HOUR (Local Time) 
+0630 - 0900
+1100 - 1400
+1630 - 1800
+1900 - 2100
+Remark:
+summertime LT=UTC+2h
+wintertime LT=UTC+1h
+Al di fuori delle menzionate ore di picco, le distanze nominali di ogni
+P-RNAV possono essere ridotte (distanza di volo prevista) secondo le
+indicazioni contenute nelle tabelle seguenti (tab.2 - tab.3):
+Outside the aforementioned peak hours, the nominal distances of each
+P-RNAV can be reduced (expected flight distance) according to the
+indications contained in the following tables (tab. 2 - tab.3 ):
+Tabella 2 Table 2
+STAR 16
+ STAR TO IAF RUSH HOUR OUT OF RUSH SAVED MILES
+ELKAP 3A ELKAP - SUVOK 112.9 92.9 20
+XIBIL 3A XIBIL - SUVOK 102.9 82.9 20
+GILIO 3A GILIO - SUVOK 96.1 76.1 20
+VALMA 3A VALMA - SUVOK 87.5 67.5 20
+ESINO 3A ESINO - SUVOK 85.4 65.4 20
+RITEB 3A RITEB - EXAMA 76 56 20
+LAT 3A LAT - EXAMA 84 64 20
+MOPUV 3A MOPUV - EXAMA 96.6 76.6 20
+Tabella 3 Table 3
+STAR 34
+ STAR TO IAF RUSH HOUR OUT OF RUSH SAVED MILES
+ELKAP 3C ELKAP - ODULA 139.8 124.8 15
+XIBIL 3C XIBIL - ODULA 129.8 114.8 15
+RITEB 3C RITEB - ODULA 96 81 15
+GILIO 3C GILIO - ODULA 123 108 15
+LAT 3C LAT - ODULA 57.3 37.3 20
+MOPUV 3C MOPUV - ODULA 93.9 73.9 20
+VALMA 3C VALMA - NEVUX 77 62 15
+ESINO 3C ESINO - NEVUX 50 35 15
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+a. Limite dell'autorizzazione
+TAQ VOR o CMP VOR
+b. Descrizione delle Link routes e STAR: vedere tabella 24
+a. Clearance limit
+TAQ VOR or CMP VOR
+b. Link routes and STAR description: see table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+Vedere tabella 24 See table 24
+Avvicinamenti ILS paralleli per RWY 16L e 16R oppure 34L e 34R
+Condizioni
+Possono essere effettuati avvicinamenti paralleli purché:
+a. il servizio radar sia operativo
+Parallel ILS approaches to RWY 16L and 16R or 34L and 34R
+Conditions
+Parallel approaches may be conducted provided that:
+a. radar service is operative
+
+=== Page 39 ===
+AIP - Italia
+AD 2 LIRF 1 - 39
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+b. gli equipaggiamenti ILS siano operativi e gli aeromobili effettuino
+avvicinamenti ILS su entrambe le piste
+c. gli aeromobili siano informati che sono in atto avvicinamenti su
+entrambe le piste
+Separazione
+a. durante la virata di stabilizzazione sui localizzatori paralleli tra gli
+aeromobili verrà assicurata una separazione minima verticale di
+1000 ft oppure una separazione minima radar di 3 NM
+b. nel caso di avvicinamenti paralleli dipendenti la separazione minima
+radar tra gli aeromobili stabilizzati sul localizzatore sarà di:
+• 3 NM tra aeromobili stabilizzati sullo stesso localizzatore
+(con l'aggiunta della separazione longitudinale prevista per la
+turbolenza di scia)
+• 2 NM tra aeromobili successivi su localizzatori adiacenti
+Gli aeromobili saranno informati che sono in corso avvicinamenti su
+entrambe le piste; tale informazione sarà fornita anche attraverso
+l'ATIS
+NOTA
+Allo scopo di ridurre il carico sulle frequenze radiotelefoniche,
+l'EAT viene comunicato solo quando il ritardo previsto sia
+superiore ai 15 minuti.
+b. ILS equipment are operative and the aircraft are making ILS
+approaches on both runways
+c. aircraft are advised that approaches are in progress on both runways
+          
+Separation
+a. a minimum of 1000 ft vertical separation or a minimum of 3 NM
+radar separation will be provided between aircraft during turn-on to
+parallel localizer courses
+b. in case of dependent parallel approaches , the minimum radar
+separation between aircraft established on the localizer course will
+be:
+• 3 NM between aircraft on the same localizer course (with
+additional longitudinal separation as required for wake turbulence)
+       
+• 2 NM between successive aircraft on adjacent localizer course
+Aircraft will be advised that approaches are conducted to both
+runways; this may be accomplished through use of the ATIS
+           
+REMARK
+In order to reduce radiotelephony loading, the EAT is
+transmitted only if it is likely that the delay will be more than
+15 minutes.
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+Vedere ENR 2.1.1.2 See ENR 2.1.1.2
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+In caso di radio avaria:
+a. qualora il pilota abbia ricevuto e confermato un'autorizzazione
+ATC, il punto di riporto designato su cui iniziare la discesa per l'
+atterraggio è lo IAF previsto dalla STAR assegnata
+b. qualora il pilota non abbia ricevuto e confermato l'autorizzazione
+ATC a seguire una STAR il punto di riporto designato su cui iniziare
+la discesa, è:
+• CMP VOR
+In questo caso l'aeromobile in ingresso su CMP effettuerà un
+avvicinamento RWY 16L seguito da circling in caso di vento non
+compatibile con la direzione di atterraggio.
+In the event of radio failure:
+a. if the pilot has received and confirmed the ATC clearance the
+reporting point designated to descend for landing is the IAF linked
+to the assigned STAR
+b. if the pilot hasn't received and confirmed the ATC clearance to follow
+a STAR the reporting point designated to descend for landing is:
+            
+• CMP VOR
+In this case the aircraft entering CMP will carry out an approach for
+RWY 16L followed by circling in case of not compatible wind with the
+landing direction.
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+Operazioni prevolo
+a. Allo scopo di accelerare le operazioni, Fiumicino TWR assegnerà,
+insieme all’autorizzazione alla messa in moto, l'autorizzazione ATC
+comprensiva di:
+• rotta
+• ICP/SID
+• livello di salita iniziale
+• codiceSSR
+Qualora non fosse possibile assegnare l’autorizzazione ATC con quella
+della messa in moto verrà notificato tramite ATIS
+NOTA
+Il messaggio ATIS, oltre alle normali informazioni, conterrà
+anche la notizia di eventuali ritardi alla messa in moto.
+b. quando ritenuto necessario Roma ACC fornirà un’autorizzazione ATC
+dettagliata anziché in forma codificata di SID
+c. le indisponibilità VOR, sia dell' equipaggiamento di terra che di
+bordo, debbono essere segnalate immediatamente all'Ente ATC.
+d. in relazione al controllo della velocità per aeromobili in partenza,
+vale quanto riportato in ENR 2.1.2
+Allineamenti multipli
+Con le modalità indicate per i decolli da punti di decollo intermedi
+(INT TAKE-OFF), istruzioni all’allineamento su punti diversi della stessa
+Pre-flight operations
+a. In order to expedite operations, Fiumicino TWR will assign, together
+with the start-up engine clearance, an ATC clearance including:
+                     
+• route
+• ICP/SID
+• initial climb level
+• SSR code
+When it is not possible to assign the ATC clearance together with the
+start-up engine clearance, it will be notified by ATIS
+REMARK
+ATIS message, in addition to the normal information, shall also
+contain notice of possible start up delays.
+b. when deemed necessary, Roma ACC will provide ATC clearance in
+full details instead of a coded SID
+c. VOR unavailability, due to ground or airborne equipment, shall be
+reported immediately to ATC Unit.                      
+d. rules regarding speed control of departing aircraft are in force
+according to ENR 2.1.2
+Multiple line-ups
+With the methods described for take-off from intermediate takeoffs
+points (INT TAKE OFF), line-up instructions on different points of the
+
+=== Page 40 ===
+AD 2 LIRF 1 - 40
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+pista possono essere date a non più di due aeromobili alle seguenti
+condizioni:
+a. unicamente per RWY 25 e durante le ore del giorno
+b. visibilità di almeno 5 km
+c. l’allineamento deve avvenire dalle intersezioni BC o BD e BA o BB
+d. il read-back del pilota deve contenere il designatore di pista,
+la denominazione della posizione intermedia e il numero della
+sequenza di partenza
+same RWY can be given to no more than two aircraft according to the
+following conditions:
+a. on RWY 25 only and during daylight hours
+b. visibility 5 km or more
+c. line-up shall take place at the intersections BC or BD and BA or BB
+d. pilot’s read-back shall contain RWY indication, intermediate take-off
+point indication and departure sequence number
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+Accensione motore al minimo
+L'accensione del motore al minimo, per prova componenti o APU
+inoperativo, può essere effettuata, limitatamente ad uno alla volta e
+per non più di cinque minuti, su tutte le piazzole, ad eccezione di quelle
+i cui numeri vanno da 101 a 108, da 301 a 313, da 401 a 412, da
+501 a 518, da 601 a 614, da 701 a 711 e da 801 a 807 per le quali
+deve essere ottenuta preventiva autorizzazione da parte del personale
+responsabile della società ADR attraverso la frequenza di compagnia.
+Idling engine ignition
+The idling engine ignition for components or APU inoperative test,
+limited to one at a time and for no more than 5 minutes, can be
+performed on all stands with the exception of 101 to 108, 301 to
+313, 401 to 412, 501 to 518, 601 to 614, 701 to 711 and 801 to
+807, for which prior authorization must be obtained through company
+frequency from the managing body of ADR at Fiumicino aerodrome.
+I piloti non possono utilizzare l'APU sui parcheggi dove è disponibile
+l'apparecchiatura per collegarsi alla corrente elettrica diretta ed al
+condizionamento di cabina.
+Pilots cannot use Auxiliary Power Unit (APU) on parking bay where
+equipment is available to connect with direct electrical power and cabin
+air conditioning.
+Se la suddetta apparecchiatura non è disponibile, è obbligatorio
+utilizzare il generatore di corrente mobile, tenendo spento l'APU.
+If the above mentioned equipment is not available, it is compulsory to
+use mobile ground power, keeping the APU off.
+Se l'aeromobile non è in grado di connettersi con i generatori di
+corrente o di condizionamento di cabina oppure il generatore di
+corrente mobile non è disponibile, oppure (vale solo per i widebodies)
+se la temperatura esterna è troppo elevata o troppo bassa, i piloti
+possono utilizzare l'APU per il tempo strettamente necessario per le
+procedure di partenza e di arrivo da e per il parcheggio assegnato. In
+questi casi il rappresentante di compagnia deve richiedere il permesso
+di tenere acceso l'APU alla società ADR - tel. +39 06-65953022.
+If aircraft is not equipped with connection for electrical power or air
+conditioning or mobile ground power is not available, or (only for wide
+bodies) the outside temperature is too high or too low, pilots may use
+APU for the time strictly needed for departure and arrival procedures
+from and to the assigned gate. In these cases company representative
+must require permission to the ADR office to keep APU on - telephone
+number +39 06-65953022.
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+a. Procedure di salita iniziale e SID: vedere tabella 24
+NOTA
+Le SID sono basate sull'uso delle RDL VOR, quindi è essenziale
+una rapida stabilizzazione sulla RDL VOR assegnata.
+b. Purché il servizio d'avvicinamento radar sia disponibile a Roma ACC
+sarà applicata una separazione minima di 1 minuto tra aeromobili
+successivi in partenza, aventi simili prestazioni di velocità Le
+prescrizioni concernenti le separazioni in caso di turbolenza di scia
+sono mantenute
+a. Initial Climb Procedures and SID: see table 24
+REMARK
+SID are based on use of VOR RDL, therefore a quick
+establishment on the assigned VOR RDL is essential.
+b. Provided that APP radar service is available at Roma ACC, 1 minute
+separation minimum will be provided between successive departing
+aircraft having similar speed performances The prescriptions
+regarding separation in case of wake turbulence are preserved
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+Vedere ENR 2.1.1.2 See ENR 2.1.1.2
+3 PROCEDURE DI SORVEGLIANZA 3 SURVEILLANCE PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso dei sistemi di sorveglianza nel Servizio di Controllo
+di Aeroporto
+3.2.1 Use of surveillance systems in Aerodrome Control
+Service
+Il Servizio di Controllo di Aerodromo è fornito anche tramite
+sorveglianza ATS, secondo quanto pubblicato in AIP ENR 1.6.
+Aerodrome Control Service is provided also by means of ATS
+surveillance, according to the regulation published in AIP ENR
+1.6.
+3.2.2 Uso dei sistemi di sorveglianza per i movimenti di
+superficie
+3.2.2 Use of surveillance systems for surface movements
+Il servizio di sorveglianza per i movimenti di superficie è fornito in
+accordo alla specifica regolamentazione pubblicata in AIP - ENR 1.6.
+Le funzioni sono espletate da Fiumicino TWR sulle relative frequenze
+(vedi tabella 18)
+Surveillance service for surface movements is provided according to
+specific regulation published in AIP - ENR 1.6. Functions are provided
+by Fiumicino TWR on relevant frequencies (see table 18)
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+
+=== Page 41 ===
+AIP - Italia
+AD 2 LIRF 1 - 41
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+4.1 Informazioni generali 4.1 General information
+4.1.1. Linguaggio da utilizzare nelle comunicazioni terra-bordo-terra:
+i piloti in possesso della specializzazione di competenza linguistica in
+inglese devono utilizzare la lingua inglese
+4.1.1. Language to be used in air-ground communication: pilots with
+language proficiency in english shall use the english language
+4.2 Attività di circuito 4.2 Circuit activity
+NIL NIL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+5 LVP 5 LVP
+5.1 Attivazione delle LVP 5.1 Criteria for initiation of LVP
+Le procedure di bassa visibilità (LVP) sono attivate quando:
+•    Il valore di RVR è inferiore a 550m; e/o
+•    La base delle nubi è inferiore a 200ft in accordo al locale riporto
+meteorologico.
+I piloti sono informati dell’attivazione delle LVP tramite trasmissione
+ATIS e/o RTF.
+L’attivazione delle LVP su richiesta del pilota, in condizioni diverse da
+quelle specificate può essere soggetta a ritardo.
+Low Visibility Procedures (LVP) will be in force when:
+•    RVR value is less than 550m; and/or
+•    cloud base height is below 200ft according to the meteorological
+local report.
+Pilots are informed by ATIS and/or RTF when LVP are in force.
+The activation of the LVP at the request of the pilot, under conditions
+different from those specified, may be subject to delay.
+5.2 Utilizzo delle piste durante le LVP 5.2 Use of the runway during LVP
+Sono consentite operazioni in CAT III per RWY 16L e 16R.
+Sono consentite operazioni LVTO per RWY 16L, 16R e 25.
+RWY 16L and 16R are approved for CAT III operations.
+RWY 16L, 16R and 25 are approved for LVTO operations.
+5.3 Operazioni in CAT III per addestramento 5.3 CAT III operations for training
+Gli avvicinamenti e gli atterraggi addestrativi in CAT III con valori di
+RVR/base delle nubi superiori a quelli previsti per l’attivazione delle
+LVP saranno subordinati alle condizioni di traffico in atto o previste.
+La richiesta dovrà essere comunicata dal pilota con congruo anticipo
+all’ATC e contenere esplicita indicazione che l’attività è ai fini
+addestrativi.
+Practice CAT III approaches and landings with RVR/cloud base values
+higher than those for LVP activation will be subject to traffic conditions
+in place or foreseen.
+The request must be communicated by the pilot well in advance to
+the ATC and contain explicit indication that the activity is for training
+purposes.
+5.4 Luci e segnaletica a terra per l’utilizzo nell’ambito delle
+LVP
+5.4 Lights and ground signs for use in LVP
+Vedi Aerodrome chart. See Aerodrome chart.
+LIRF AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIRF AD 2.23 ADDITIONAL INFORMATION
+1 WILDLIFE HAZARD 1 WILDLIFE HAZARD
+1.1. Bird Control UNIT
+Attrezzature/procedure regolarmente gestite da B.C.U. (Bird Control
+Unit) con sorveglianza continua dell'area di movimento, dall'alba al
+tramonto con idonei sistemi di allontanamento.
+1.1. Bird Control UNIT
+Equipment / procedures regularly managed by B.C.U. (Bird Control
+Unit) with continuous surveillance of the movement area, from sunrise
+to sunset with suitable removal systems.
+
+=== Page 42 ===
+AD 2 LIRF 1 - 42
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+1.2. Concentrazione di volatili
+Presenza di volatili nell’area di manovra e nelle vicinanze come
+dettagliato nella tabella sottoriportata.
+1.2. Bird concentration
+Presence of birds on the manoeuvring area and surroundings as
+detailed in the table below.
+Specie
+Species
+Periodo di
+presenza
+Period of
+presence
+Ore di presenza
+Hours of
+presence
+Quota media di
+concentrazione
+dei
+volatili (FT)
+APRX
+Average
+height of bird
+concentration
+(FT)
+Grandezza
+stormi
+Flock size
+Area di
+maggior
+rischio
+Areas with
+the greatest
+hazard
+Distribuzione
+nell’area di
+manovra
+Distribution on
+manoeuvring
+area
+Storno
+European
+Starling
+SEP mid/
+metà MAR
+Tutte le ore
+del giorno
+(max 1000-1300)
+Daylight
+(max 1000-
+1300)
+0-300 20-300
+Sull’area
+Above the
+area
+Area di manovra
+specialmente
+presso le aree
+verdi
+All manoeuvring
+area especially
+above grass
+areas
+ 
+Pavoncella
+Lapwing
+OCT-
+beginning/inizio
+APR
+Tutte le ore
+del giorno
+(max 1000-1300)
+Daylight
+(max 1000-
+1300)
+0-150 15-150
+Sull’area
+Above the
+area
+Testata pista
+16L, 16L/34R,
+25/07, testata
+pista 25
+Head RWY 16L,
+16L/34R, 25/07,
+head RWY 25
+Gabbiano reale
+mediterraneo
+Yellow-legged
+Gull
+Sempre
+Always (max
+JUL-DEC)
+Principalmente al
+mattino
+(0600-0800)
+e nel tardo
+pomeriggio (1600-
+1800)
+Mainly in
+the morning
+(0600-0800)
+and late
+afternoon (1600-
+1800)
+0-900 5-200
+Sull’area
+Above the
+area
+Testate
+(specialmente
+pista 34L) e pista
+16L/34R
+Heads
+(especially RWY
+34L) and RWY
+16L/34R
+Cornacchia grigia
+Hooded Crow
+Sempre
+Always
+Tutte le ore
+del giorno
+Daylight
+0-150 1-10
+Sull’area
+Above the
+area
+Area di manovra
+All manoeuvring
+area
+Rondone
+Common Swift
+APR-JUL
+Tutte le ore
+del giorno
+Daylight
+100-900 20-200
+Pattugliamento
+in cielo
+Patrolling of
+the sky
+Area di manovra
+e corridoi di
+decollo/
+atterraggio
+All manoeuvring
+area and
+landing/takingoff
+corridors
+Piccione
+domestico
+Feral Pigeon
+Sempre
+Always (max
+AUGOCT)
+Principalmente al
+mattino
+(0700-0800)
+Mainly in
+the morning
+(0700-0800)
+0-100 5-60
+Sull’area
+Above the
+area
+Pista 16L/34 R
+RWY 16L/34R
+
+=== Page 43 ===
+AIP - Italia
+AD 2 LIRF 1 - 43
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+2 DOCUMENTI DI AZIONE E ACCETTAZIONE DELLA
+DEVIAZIONE (DAAD), CONDIZIONI SPECIALI (SC) E LIVELLI
+DI SICUREZZA EQUIVALENTE (ELOS)
+2 DEVIATION ACCEPTANCE AND ACTION DOCUMENTS
+(DAAD), SPECIAL CONDITIONS (SC) AND EQUIVALENT LEVEL
+OF SAFETY (ELOS)
+Numero di
+riferimento
+Descrizione 
+DAAD.LIRF.002 Presenza di non conformità sulle
+pendenze delle piazzole in sezioni
+limitate delle piazzole  stesse.
+Rif: CS ADR DSN.E.360 - Slopes
+on Apron
+DAAD.LIRF.010 Assenza di un sistema di
+monitoraggio automatico per le
+luci delle essential taxiways.
+Ref: ADR-DSN.S.890 - Monitoring
+ELOS.LIRF.001 Le RHP di RWY 07/25 poste sulle
+TWY A e BA risultano interferire
+con le superfici di avvicinamento
+in caso di operazioni di atterraggio
+rispettivamente sulle piste 07 e
+25.
+Rif: ADR-DSN.D.335 - Holding
+positions
+Reference
+number
+Description
+DAAD.LIRF.002 Non compliant slopes on limited
+portions of the apron stands.
+  
+Ref: CS ADR DSN.E.360 - Slopes
+on Apron
+DAAD.LIRF.010 Absence of an automatic
+monitoring system for the lights of
+the essential taxiways.
+  
+Ref: ADR-DSN.S.890 - Monitoring
+ELOS.LIRF.001 TWY A and BA RHPs to RWY 07/25,
+infringe respectively RWY 07 and
+RWY 25 approach surfaces.
+ 
+ 
+Ref: ADR-DSN.D.335 - Holding
+positions
+LIRF AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIRF AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIRF 2 - 1
+HOTSPOT MAP (NOT FOR NAVIGATION)  AD 2 LIRF 2 - 3
+LOW VISIBILITY PROCEDURES CHART  AD 2 LIRF 2 - 5
+AIRCRAFT PARKING DOCKING CHART - ICAO  AD 2 LIRF 2 - 7
+AIRCRAFT PARKING DOCKING CHART - ICAO DESCRIPTION
+TABLES
+ AD 2 LIRF 2 - 9
+AERODROME GROUND MOVEMENT CHART  AD 2 LIRF 2 - 11
+AERODROME GROUND MOVEMENT CHART: ACFT CODE F -
+ICAO
+ AD 2 LIRF 2 - 13
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 16R/34L  AD 2 LIRF 3 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 07/25  AD 2 LIRF 3 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 16L/34R  AD 2 LIRF 3 - 5
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIRF 3 - 7
+PRECISION APPROACH TERRAIN CHART RWY 16R  AD 2 LIRF 3 - 9
+PRECISION APPROACH TERRAIN CHART RWY 16L  AD 2 LIRF 3 - 11
+PRECISION APPROACH TERRAIN CHART RWY 34R  AD 2 LIRF 3 - 13
+STAR RNAV1 RWY 16L/R  AD 2 LIRF 4 - 1
+STAR RNAV1 RWY 16L/R DESCRIPTION TABLES  AD 2 LIRF 4 - 3
+STAR RNAV1 RWY 16L/R ATC DISCRETION  AD 2 LIRF 4 - 11
+STAR RNAV1 RWY 16L/R ATC DISCRETION DESCRIPTION
+TABLES
+ AD 2 LIRF 4 - 13
+STAR RNAV1 RWY 34L/R  AD 2 LIRF 4 - 23
+STAR RNAV1 RWY 34L/R DESCRIPTION TABLES  AD 2 LIRF 4 - 25
+STAR RNAV1 RWY 34L/R ATC DISCRETION  AD 2 LIRF 4 - 33
+STAR RNAV1 RWY 34L/R ATC DISCRETION DESCRIPTION
+TABLES
+ AD 2 LIRF 4 - 35
+STAR RWY 16L/R ATC DISCRETION  AD 2 LIRF 4 - 43
+STAR RWY 16L/R ATC DISCRETION DESCRIPTION TABLES  AD 2 LIRF 4 - 45
+STAR RWY 34 L/R ATC DISCRETION  AD 2 LIRF 4 - 47
+STAR RWY 34 L/R ATC DISCRETION DESCRIPTION TABLES  AD 2 LIRF 4 - 49
+
+=== Page 44 ===
+AD 2 LIRF 1 - 44
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+Carte - Charts Pagine - Pages
+STAR CMP/TAQ RWY 07/25  AD 2 LIRF 4 - 51
+STAR CMP/TAQ RWY 07/25 DESCRIPTION TABLES  AD 2 LIRF 4 - 53
+ICAO VISUAL APPROACH CHART  AD 2 LIRF 5 - 1
+ICAO INSTRUMENT APPROACH CHART ILS (CAT.II) OR LOC X
+RWY 16L ATC DISCRETION ONLY
+ AD 2 LIRF 5 - 3
+ICAO INSTRUMENT APPROACH CHART ILS (Cat.II) or LOC W
+RWY 16L
+ AD 2 LIRF 5 - 5
+ICAO INSTRUMENT APPROACH CHART RNP RWY 16L  AD 2 LIRF 5 - 7
+ICAO INSTRUMENT APPROACH CHART RNP RWY 16L
+DESCRIPTION TABLES
+ AD 2 LIRF 5 - 9
+ICAO INSTRUMENT APPROACH CHART ILS (Cat.II) or LOC Z RWY
+16R
+ AD 2 LIRF 5 - 11
+ICAO INSTRUMENT APPROACH CHART ILS (Cat.II) or LOC Y
+RWY 16R ATC DISCRETION ONLY
+ AD 2 LIRF 5 - 13
+ICAO INSTRUMENT APPROACH CHART RNP RWY 16R  AD 2 LIRF 5 - 15
+ICAO INSTRUMENT APPROACH CHART RNP RWY 16R
+DESCRIPTION TABLES
+ AD 2 LIRF 5 - 17
+ICAO INSTRUMENT APPROACH CHART VOR RWY 16R  AD 2 LIRF 5 - 19
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC  RWY 34L  AD 2 LIRF 5 - 21
+ICAO INSTRUMENT APPROACH CHART RNP RWY 34L  AD 2 LIRF 5 - 23
+ICAO INSTRUMENT APPROACH CHART RNP RWY 34L
+DESCRIPTION TABLES
+ AD 2 LIRF 5 - 25
+ICAO INSTRUMENT APPROACH CHART VOR RWY 34L  AD 2 LIRF 5 - 27
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC RWY 34R  AD 2 LIRF 5 - 29
+ICAO INSTRUMENT APPROACH CHART RNP RWY 34R  AD 2 LIRF 5 - 31
+ICAO INSTRUMENT APPROACH CHART RNP RWY 34R
+DESCRIPTION TABLES
+ AD 2 LIRF 5 - 33
+ICAO INSTRUMENT APPROACH CHART VOR RWY 07  AD 2 LIRF 5 - 35
+ICAO INSTRUMENT APPROACH CHART RNP RWY 07  AD 2 LIRF 5 - 37
+ICAO INSTRUMENT APPROACH CHART RNP RWY 07
+DESCRIPTION TABLES
+ AD 2 LIRF 5 - 39
+ICAO INSTRUMENT APPROACH CHART ILS or LOC RWY 25  AD 2 LIRF 5 - 41
+ICAO INSTRUMENT APPROACH CHART VOR RWY 25  AD 2 LIRF 5 - 43
+ICAO INSTRUMENT APPROACH CHART RNP RWY 25  AD 2 LIRF 5 - 45
+ICAO INSTRUMENT APPROACH CHART RNP RWY 25
+DESCRIPTION TABLES
+ AD 2 LIRF 5 - 47
+INITIAL CLIMB PROCEDURES RWY 25  AD 2 LIRF 6 - 1
+INITIAL CLIMB PROCEDURES RWY 25 DESCRIPTION TABLES  AD 2 LIRF 6 - 3
+INITIAL CLIMB PROCEDURES RWY 07 - RWY 25 (ATC
+DISCRETION)
+ AD 2 LIRF 6 - 7
+INITIAL CLIMB PROCEDURES RWY 07 - RWY 25 (ATC
+DISCRETION) DESCRIPTION TABLES
+ AD 2 LIRF 6 - 9
+INITIAL CLIMB PROCEDURES RWY 16R/16L  AD 2 LIRF 6 - 13
+INITIAL CLIMB PROCEDURES RWY 16R/16L DESCRIPTION
+TABLES
+ AD 2 LIRF 6 - 15
+INITIAL CLIMB PROCEDURES RWY 34R/34L  AD 2 LIRF 6 - 21
+INITIAL CLIMB PROCEDURES RWY 34R/34L DESCRIPTION
+TABLES
+ AD 2 LIRF 6 - 23
+INITIAL CLIMB PROCEDURES RNP1 RWY 16 R  AD 2 LIRF 6 - 29
+INITIAL CLIMB PROCEDURES RNP1 RWY 16 R DESCRIPTION
+TABLES
+ AD 2 LIRF 6 - 31
+
+=== Page 45 ===
+AIP - Italia
+AD 2 LIRF 1 - 45
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+Carte - Charts Pagine - Pages
+INITIAL CLIMB PROCEDURES RNAV1 RWY 07  AD 2 LIRF 6 - 33
+INITIAL CLIMB PROCEDURES RNAV1 RWY 07 DESCRIPTION
+TABLES
+ AD 2 LIRF 6 - 35
+SID RNAV NORTH AND WEST BOUND  AD 2 LIRF 6 - 37
+SID RNAV NORTH AND WEST BOUND DESCRIPTION TABLES  AD 2 LIRF 6 - 39
+SID SOUTH BOUND  AD 2 LIRF 6 - 41
+SID SOUTH BOUND DESCRIPTION TABLES  AD 2 LIRF 6 - 43
+SID EAST BOUND  AD 2 LIRF 6 - 47
+SID EAST BOUND DESCRIPTION TABLES  AD 2 LIRF 6 - 49
+OMNIDIRECTIONAL DEPARTURE AREA RWY 34L  AD 2 LIRF 6 - 55
+OMNIDIRECTIONAL DEPARTURE AREA RWY 25  AD 2 LIRF 6 - 57
+OMNIDIRECTIONAL DEPARTURE AREA RWY 16R  AD 2 LIRF 6 - 59
+ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO  AD 2 LIRF 8 - 1
+LIRF AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIRF AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 46 ===
+AD 2 LIRF 1 - 46
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+

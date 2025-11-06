@@ -1,0 +1,8019 @@
+=== Page 1 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-1
+AD 2 AERODROME
+ROAH AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ROAH - NAHA
+ROAH AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+ROAH AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 261136N/1273823E
+197°/1.86km from RWY 18L THR
+2 Direction and distance from (city) 4km (2nm) W of Naha city office
+3 Elevation/ Reference temperature 11ft / 32°C (2004-2008)
+4 Geoid undulation at AD ELEV PSN 103ft
+5 MAG VAR/ Annual change 5°W (2008) / 1.8 ' W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Naha Airport Office (CAB)
+531-3,Ashimine Naha City, Okinawa Pref.
+ 
+Tel:098(857)1101, 098(857)1107
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Nil
+1A D  A d m i n i s t r a t i o n H 2 4
+2 Customs and immigration Customs: H24
+Immigration: 2130-1300
+3 Health and sanitation Quarantine(human): 2215-1230
+Quarantine(animal): 2330-1030
+Quarantine(plant): 2230-1300
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7A T S H 2 4
+8 Fuelling H24
+9 Handling H24
+10 Security 2130 - 1200
+11 De-icing Nil
+12 Remarks Nil
+(EFF:1 OCT 2025) 7/8/25
+
+
+=== Page 2 ===
+ROAH  AD2-2 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.4 HANDLING SERVICES AND FACILITIES
+ROAH AD 2.5 PASSENGER FACILITIES
+ROAH AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+ROAH AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All modern facilities handling weights up to 249,250lb / 113,000kg.
+2 Fuel/ oil types Fuel grades : (CIV) JET A-1, 100/130 (JSDF) JET A-1 PLUS
+Oil grades : Turbine grade on prior arrangement. All piston grades
+3 Fuelling facilities/ capacity Fuel tr uck refueling / Ask AD administration
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair faciliti es for visiting 
+aircraft
+Nil
+7 Remarks Nil
+1 Hotels Hotels in the city
+2 Restaurants At airport
+3 Transportation Monorail, buses and taxis
+4 Medical facilities Hospitals in the city
+5 Bank and Post Office Bank and post office in the city
+6 Tourist Office At airport
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3
+Water supply truck 
+Lighting power supply truck
+Emergency medical equipments conveyance truck
+3 Capability for removal of disabled air-
+craft Ask AD administration
+4 Remarks Nil
+1 Types of clearing e quipment Not applicable
+2 Clearance priorities Not applicable
+3 Remarks Nil
+(EFF:3 OCT 2024) 3/10/24
+
+
+=== Page 3 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-3
+ROAH AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and 
+strength
+Surface: Concrete and asphalt
+Strength: 
+PCR 1132/R/B/W/T...NR1, NR2, NR3, NR4,
+  NR5, NR6, NR7 
+PCR 954/R/B/W/T...WEST apron,
+  TYPHOON EVACUATION apron
+PCR 742/R/B/W/T...RUNUP AREA
+AUW 5700kg/0.28MPa...LIGHT 
+  AIRCRAFT spot
+2 Taxiway width, surface and
+strength
+Surface: Concrete and asphalt
+Strength: 
+PCR 1132/R/B/W/T...
+ A1, A2, A3, A4, A5, A6, E1, E2, E10, N1, 
+     N2, N3, C1, C2, D1, D2 
+PCR 1450/F/D/X/T...
+A7, A8, A9, E9
+PCR 900/F/C/X/T...
+E3, E4, E4C, E5, E6, E7, E8, E8S, W1, 
+     W2, W3, W3C, W4, W5, B
+PCR 816/F/A/X/T...
+J1, J2, R, C, T1, T2, T8, T9
+PCR 1300/F/D/X/T...
+T3, T4, T5, T6, T7
+Width:
+34m   ...E1, E2, E6, E8S, E9, W4 
+30m   ...E3, E4, E4C, E5, E7, E8, W2,
+               W3, W3C, J1, J2, C, T1 - T9 
+28.5m...E10
+26.5m...B, W1, W5
+44.9m...R
+23m   ...Other TWY 
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+ROAH  AD2-4 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+5 INS checkpoints Spot NR
+11     : 261210.16N/1273900.76E
+12     : 261210.09N/1273858.76E
+12M  : 261209.66N/1273858.68E
+13     : 261210.01N/1273856.78E
+13M  : 261209.58N/1273856.59E
+14     : 261209.94N/1273854.80E
+15     : 261208.84N/1273854.34E
+16     : 261209.91N/1273853.41E
+21     : 261215.84N/1273900.38E
+22     : 261216.31N/1273858.00E
+23     : 261216.36N/1273855.70E
+24     : 261217.81N/1273854.77E
+25     : 261219.25N/1273855.50E
+26     : 261219.51N/1273857.85E
+27     : 261219.95N/1273900.35E
+31     : 261225.90N/1273859.91E
+32     : 261226.46N/1273857.58E
+33     : 261226.45N/1273855.26E
+34     : 261227.87N/1273854.30E
+35     : 261229.24N/1273855.08E
+36     : 261229.72N/1273857.04E
+37     : 261231.50N/1273859.89E
+41     : 261234.36N/1273859.19E
+42     : 261236.27N/1273859.72E
+43R  : 261238.15N/1273859.65E
+43     : 261238.72N/1273859.61E
+43L   : 261239.58N/1273858.62E
+44R  : 261241.07N/1273859.52E
+44     : 261241.50N/1273859.55E
+44L   : 261242.50N/1273858.48E
+45C  : 261243.35N/1273859.18E
+45     : 261243.97N/1273858.60E
+46C  : 261245.16N/1273859.10E
+46     : 261245.43N/1273858.53E
+51R  :  261247.61N/1273857.57E
+51     : 261248.12N/1273858.36E
+51L   : 261249.07N/1273857.51E
+52     : 261250.52N/1273857.42E
+57D  :  261254.40N/1273858.52E
+61     : 261255.39N/1273900.89E
+62     : 261256.57N/1273902.92E
+63     : 261257.30N/1273904.91E
+63E  :  261257.53N/1273905.52E
+64     : 261258.02N/1273906.89E
+65     : 261258.74N/1273908.89E
+65E  :  261258.95N/1273909.45E
+66     : 261259.46N/1273910.88E
+71     : 261235.71N/1273853.69E
+72     : 261238.35N/1273853.71E
+73     : 261240.74N/1273853.60E
+74     : 261242.81N/1273853.51E
+98     : 261141.92N/1273830.97E
+99     : 261143.23N/1273830.90E
+100L : 261144.55N/1273830.84E
+100   : 261145.33N/1273830.94E
+100R : 261145.86N/1273830.78E
+101   : 261147.83N/1273832.26E
+102   : 261149.54N/1273832.16E
+103   : 261151.00N/1273832.09E
+104   : 261153.07N/1273833.10E
+105   : 261154.27N/1273832.70E
+106   : 261156.66N/1273832.67E
+ H     : 261158.60N/1273831.87E
+107   : 261201.28N/1273831.75E
+6 Remarks Nil
+(EFF:31 OCT 2024) 3/10/24
+
+
+=== Page 5 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-5
+ROAH AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID 
+signs,TWY guide lines and Visual 
+docking/ parking guidance 
+system of aircraft stands
+• C1, C2, D1, D2, N1, N2, N3 are designated as aircraft stand taxilane intended 
+to provide access to aircraft stands at NR1, NR2, NR3, NR4, NR5, NR6 and 
+NR7 apron.
+• Aircraft stand identification sign : SPOT NR21 - 27, 31 - 37, 41 - 44
+2 RWY and TWY markings and 
+LGT
+RWY : RWY18L/36R, 18R/36L
+(Marking) RWY designation, RWY CL, RWY THR, Aiming point, TDZ, RWY side
+stripe
+(LGT) REDL, RCLL, RTHL, RENL, RTZL, WBAR, 
+Takeoff Hold Lights(RWY status LGT)(RWY 18L/36R, see attached chart)
+TWY: All TWY
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe, Mandatory instruction 
+(LGT) TWY edge LGT, Taxiing guidance sign
+TWY: E1 - E10, W1 - W5, A1 - A9, B, J1, J2, T1 - T9, C, R, 
+ACFT stand taxilane C1, C2, D1, D2, N1 - N3
+(LGT) TWY CL LGT
+TWY: E1 - E10, W1 - W5, T1 - T9
+(LGT) RWY guard LGT
+TWY: E1, E2, E3, E4, E4C, E5, E6, E7, E8, E9, A2 - A4, B, J1, J2, T3 - T7
+(Marking) Intermediate HLDG PSN 
+(See Figure “Marking AIDs and Parkings Area (East side)”)
+TWY: A8, T1, T2
+(Marking) Intermediate HLDG PSN
+(LGT) Intermediate HLDG PSN LGT
+TWY: E1, E2, E3, E4C, E6, E8S, E9, E10, W1, W2, W3C, W4, W5
+(LGT) RWY Entrance LGT (RWY status LGT)
+(See attached chart)
+TWY: T3, T4, T6, T7
+(LGT) Rapid exit TWY indicator LGT
+3 Stop bars Stop bar LGT: T1 - T9
+Stop bar lights Operations
+1) Stop bar lights are installed at eac h taxi holding posit ion associated with
+Runway 18R/36L.
+2) Stop bar lights will be operated when the visibility or the lowest RVR of the
+runway 18R/36L is at or less than 600m.
+3) Stop bar lights on taxiways T1, T2, T8 and T9 are controlled individually by
+ATC.
+4) Stop bar lights on taxiways T3 THRU T7 are not controlled individually by
+ATC.
+5) During the period stop bar lights operated, taxiways T3 THRU T7 are not
+available for departure aircraft.
+4 Remarks (Marking) Overrun area, Stop line(N2, N3)
+(LGT)  Apron flood LGT
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 6 ===
+ROAH  AD2-6 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+MARKING AIDS
+(RWY18R/36L)
+36
+L
+18
+R
+MARKING AIDS
+(RWY18L/36R)
+36
+18
+L
+R
+GP HOLD GP HOLD GP HOLD GP HOLD
+(EFF:23 FEB 2023) 26/1/23
+
+
+=== Page 7 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-7
+Marking AIDs and Parkings Area (West side)
+Marking AIDs and Parkings Area (East side)
+L6 L5
+L1 L2 L3 L4
+L7L8L9
+L10 L11
+1 2
+3 4
+5 6
+H 107 T2T1106105104103102
+100
+100L 100R
+9998 101 102 103 104 105 106 107 H
+W-4 W-3
+B-TWY
+RUNWAY 18L/36R
+MARKING  AIDs  and  PARKING  AREA
+L14 L12 L13
+10198 99 100L 100R
+100
+W-3
+W-3C
+W-3C
+E-4 E-4C
+RUNWAY   18L/36R
+E-4
+W-3
+A-4
+4  STOP
+15
+24 34
+25
+16
+3  STOP 2  STOP 1  STOP
+23
+14
+13
+12
+11
+M-2
+M-1
+12M 13M
+C-2
+22
+21
+C-1
+A-236
+35
+26
+2731
+32
+K-1
+K-2
+33
+E-2
+MARKING  AIDs  and  PARKING  AREA
+43L 44L43R 44R 46C 45C37 41 42
+D1
+D2
+43 44 45 46
+A-3
+W-2
+E-3
+E-4C
+E-4C
+W-3C
+W-3C
+71 72 73 74
+E-1
+W-1
+A1  STOP
+D2  
+STOP
+D1  
+STOP
+(EFF:17 JUN 2021) 17/6/21
+
+
+=== Page 8 ===
+ROAH  AD2-8 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+The Intermediate Holding Position Marking indicates the position where aircraft is to
+hold to prevent collision with other aircraft on the taxiway. The Intermediate  Holding
+Position Lights are collocated with the Intermediate Holding Position Marking and
+synchronized with the taxiway center line lights. The Intermediate Holding Position
+Lights consist of 5 yellow lights and the Intermediate Holding Position Marking is a
+single broken line as illustrated in the figure below;
+YELLOW
+MARKING (YELLOW)
+INTERMEDIATE  HOLDING  
+POSITION LIGHTS  AND
+MARKING
+TAXIWAY  CENTER LINE
+LIGHTS (GREEN)
+1.5m 1.5m 1.5m 1.5m
+WDI
+E9
+A8A9
+E8S E8
+E10
+36
+GP
+ARRESTING  GEAR
+DME
+E9  STOP
+WIND EQPT
+RVR
+EN R
+Intermediate Holding Position Marking and Intermediate Holding Position Lights
+T3
+DME
+GP
+GP HOLD LINE
+GP HOLD LINE
+LOC
+WDI
+PAPI angle 3.00˃
+461m inside FM THR
+MEHT 21m (68.8ft)
+T1T2
+18 R
+C
+CEILO METER
+WIND EQPT
+RVR
+GP HOLD LINE
+The "GP HOLD LINE" is installed on TWY T1 AND T2 , consists of Intermediate holding
+position lights and marking. (see below figure, and AD2.24-ADC-1 AD CHART) REF AD2.20.2.2.1
+for taxiing procedure on the "GP HOLD LINE".
+(EFF:30 NOV 2023) 2/11/23
+
+
+=== Page 9 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-9
+Runway Entrance Lights(REL) and Takeoff Hold Lights(THL)
+Runway Entrance Lights(REL)
+Takeoff Hold Lights(THL)
+RWY HLDG PSN marking
+NOTE: The TWY names and RWY HLDG PSN markings in this ATTACHMENT are depicted only for the TWYs where REL are installed.
+36
+R 
+81
+L 
+E10 E9 E8S
+W5
+E6
+W4
+E4C
+W3C
+E3
+W2
+E2 E1
+W1
+36
+ R
+E10 E9 E8S
+W5
+E6
+W4
+E4C
+W3C
+E3
+W2
+E2 E1
+W1
+81
+L 
+NR7 THL
+NR8 THL
+NR5 THL
+NR6 THL NR4 THL
+NR3 THL
+NR1 THL
+NR2 THL
+NR8 THL
+NR7 THL
+NR6 THL
+NR7 THL
+NR5 THL
+NR4 THL
+NR3 THL
+NR2 THL
+NR1 THL
+(EFF:30 NOV 2023) 2/11/23
+
+
+=== Page 10 ===
+ROAH  AD2-10 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.10 AERODROME OBSTACLES
+ROAH AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office NAHA
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+NAHA
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/consultation provided P ,Ja,En
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available for 
+briefing or consultation
+S
+6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Doppler Radar for Airport Weather (See attached chart)
+9 ATS units provided with information TWR, GCA, APP, ATIS
+10 Additional information(limitation of service, 
+etc.)
+Nil
+(EFF:26 MAR 2020) 27/2/20
+
+
+=== Page 11 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-11
+Airspace for the advisory service concerning low level wind shear (RWY18L)
+2.12NM
+2.06NM
+1.55NM
+Detection Area for
+Arriving Aircraft
+Detection Area for
+      Departing Aircraft
+UPPER LIMIT:1600ft above FIELD ELEV LEVEL
+LOWER LIMIT:FIELD ELEV LEVEL
+1NM
+1NM
+1NM
+1NM
+18
+RWY 18L
+36
+R
+LFIELD ELEV 11ft
+(EFF:26 MAR 2020) 27/2/20
+
+
+=== Page 12 ===
+ROAH  AD2-12 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+Airspace for the advisory service concerning low level wind shear (RWY18R)
+Detection Area for
+Arriving Aircraft
+Detection Area for
+Departing Aircraft
+FIELD ELEV 11ft
+RWY 18R
+1NM
+1NM
+1NM
+1NM
+2NM
+1.86NM
+1.01NM
+1.02NM
+18
+R
+36
+L
+UPPER LIMIT:1600ft above FIELD ELEV LEVEL
+LOWER LIMIT:FIELD ELEV LEVEL
+(EFF:26 MAR 2020) 27/2/20
+
+
+=== Page 13 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-13
+Airspace for the advisory service concerning low level wind shear (RWY36R)
+2.08NM
+1.75NM
+2.17NM
+1NM
+36
+UPPER LIMIT:1600ft above FIELD ELEV LEVEL
+LOWER LIMIT:FIELD ELEV LEVEL
+FIELD ELEV 11ft
+RWY 36R
+  Departing Aircraft
+Detection Area for
+1NM
+1NM
+1NM
+Arriving Aircraft
+Detection Area for
+R
+18
+L
+(EFF:26 MAR 2020) 27/2/20
+
+
+=== Page 14 ===
+ROAH  AD2-14 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+Airspace for the advisory service concerning low level wind shear (RWY36L)
+UPPER LIMIT:1600ft above FIELD ELEV LEVEL
+LOWER LIMIT:FIELD ELEV LEVEL
+Detection Area for
+Departing Aircraft
+Detection Area for
+Arriving Aircraft
+FIELD ELEV 11ft
+RWY 36L
+18
+R
+36
+L
+1NM 1NM
+1NM
+1NM
+2.3NM
+2.29NM
+2.05NM
+(EFF:26 MAR 2020) 27/2/20
+
+
+=== Page 15 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-15
+ROAH AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+18L 177.30° 3000 × 45 PCR 838/F/A/X/T
+Asphalt
+261233.63N/
+1273842.84E
+104FT
+THR ELEV: 10.9FT
+TDZ ELEV: 11.5FT
+36R 357.30° 3000 × 45 PCR 838/F/A/X/T
+Asphalt
+261056.24N/
+1273847.41E
+103FT
+THR ELEV: 9.0FT
+TDZ ELEV: 10.8FT
+18R 177.30° 2700 × 60 PCR 816/F/A/X/T
+Asphalt
+261211.00N/
+1273756.64E
+103FT
+THR ELEV: 16.3FT
+TDZ ELEV: 13.8FT
+36L 357.30° 2700 × 60 PCR 816/F/A/X/T
+Asphalt
+261043.34N/
+1273800.77E
+103FT
+THR ELEV: 14.0FT
+TDZ ELEV: 14.0FT
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+See attached chart 3120 × 300
+3120 × 300
+90×(MNM:195 MAX:300)*
+150×(MNM:190 MAX:290)*
+*For detail, ask airport administrator
+RWY grooving: 3000 × 30m
+See attached chart 2820 × 300
+2820 × 300
+240×300
+240×300
+RWY grooving: 2700 × 40m
+Slope of RWY
+RWY36R RWY18L
+0
+9.0
+0.003%
+275 420 600 900 1180 1355 1570 1700 1900 2055 2190 25601180 2720 3000
+9.1 10.0 10.3 10.8 10.9 10.0 11.8 11.9 11.6 10.6 11.2 11.5 11.4 10.9
+0.20% 0.04% 0.05% 0.01% 0.25%0.16% 0.03% 0.05% 0.18% 0.14% 0.02%
+0.01% 0.06%
+ 
+RWY36L RWY18R 
+0.25% 0.50%
+14.0 14.0
+12.3 12.3
+16.3
+LEVEL
+0 260 460 2460 2700
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 16 ===
+ROAH  AD2-16 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.13 DECLARED DISTANCES
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+18L
+TWY: E2
+TWY: E3, W2
+TWY: E4C, W3C
+TWY: E4
+TWY: W3
+TWY: E5
+TWY: E6, W4
+TWY: E8S, W5
+TWY: E9
+3000
+2904
+2604
+2294
+2018
+1999
+1512
+1321
+606
+258
+3000
+2904
+2604
+2294
+2018
+1999
+1512
+1321
+606
+258
+3000
+2904
+2604
+2294
+2018
+1999
+1512
+1321
+606
+258
+3000 9843ft
+9528ft
+8544ft
+7527ft
+6621ft
+6559ft
+4961ft
+4334ft
+1988ft
+846ft
+36R
+TWY: E9
+TWY: E8S
+TWY: W5
+TWY: E8
+TWY: E7, E6, W4
+TWY: E4C, W3C
+TWY: E3, E2
+3000
+2628
+2310
+2257
+2052
+1558
+606
+296
+3000
+2628
+2310
+2257
+2052
+1558
+606
+296
+3000
+2628
+2310
+2257
+2052
+1558
+606
+296
+3000 9843ft
+8622ft
+7579ft
+7405ft
+6733ft
+5112ft
+1988ft
+971ft
+18R
+TWY: T2
+TWY: T3
+TWY: T4
+TWY: T5
+2700
+2530
+1800
+1500
+1290
+2700
+2530
+1800
+1500
+1290
+2700
+2530
+1800
+1500
+1290
+2700 8859ft
+8301ft
+5906ft
+4922ft
+4232ft
+36L
+TWY: T8
+TWY: T7
+TWY: T6
+TWY: T5
+2700
+2530
+1800
+1500
+1290
+2700
+2530
+1800
+1500
+1290
+2700
+2530
+1800
+1500
+1290
+2700 8859ft
+8301ft
+5906ft
+4922ft
+4232ft
+誘導路の TORA, TODA 及び ASDA は、 誘導路中心線と滑走路中心線の交点から滑走路末端までの距離を示す。
+(TORA, TODA and ASDA for TWY indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.)
+(EFF:8 OCT 2020) 10/9/20
+
+
+=== Page 17 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-17
+ROAH AD 2.14 APPROACH AND RUNWAY LIGHTING
+ROAH AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+18L PALS
+480m
+LIH
+Green
+Green
+PAPI
+3.00°/LEFT
+453m
+70ft
+900m 3000m
+30m
+Coded color 
+(White/Red)
+LIH
+3000m
+60m
+Coded color 
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+36R PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.00°/LEFT
+447m
+70ft
+900m 3000m
+30m
+Coded color 
+(White/Red)
+LIH
+3000m
+60m
+Coded color 
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+18R PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.00°/LEFT
+461m
+68.8ft
+900m 2700m
+30m
+Coded color 
+(White/Red)
+LIH
+2700m
+60m
+Coded color 
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+36L PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.00°/LEFT
+436m
+67.2ft
+900m 2700m
+30m
+Coded color 
+(White/Red)
+LIH
+2700m
+60m
+Coded color 
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+Remarks
+10
+Overrun area edge LGT(LEN:150m Color:Red) (*1)
+Overrun area edge LGT(LEN:192m Color:Red) (*2)
+Overrun area edge LGT(LEN:60m Color:Red) (*3)
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 261248N/1273908E, White/Green EV4.3sec, HO 
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: Nil
+Anemometer : RWY18L: 295m from RWY18L THR, lighted
+ RWY36R: 432m from RWY36R THR, lighted
+ RWY18R: 300m from RWY18R THR, lighted
+ RWY36L: 325m from RWY36L THR, lighted
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply /    
+switch-over time
+Within  1 sec : REDL, RENL, RTHL, WBAR, RCLL, Overrun area edge LGT, 
+Stop bar LGT, Runway Entrance Lights
+　
+Within 15 sec : Other LGT
+5 Remarks Nil
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 18 ===
+ROAH  AD2-18 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.16 HELICOPTER LANDING AREA
+ROAH AD 2.17 ATS AIRSPACE
+1 Coordinates TLOF or THR of FATO
+Geoid undulation
+NORTH HELIPAD: 261156.65N/1273836.18E, Nil
+SOUTH HELIPAD: 261133.49N/1273837.26E, Nil
+2 TLOF and/or FATO elevation NORTH HELIPAD: 15ft
+SOUTH HELIPAD: 14ft
+3 TLOF and FATO area dimensions,
+surface, strength, marking
+TLOF and FATO area dimensions: 37m×22m
+Surface: Asphalt Concrete
+Strength: 21ton
+Marking: TDZ
+4 True BRG of FATO 177.30°/357.30°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7R e m a r k s
+NORTH HELIPAD:
+• MAX helicopter type: EC25
+• HJ use only
+• Civil helicopter use only
+SOUTH HELIPAD:
+• MAX helicopter type: H47
+• HJ use only
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+Naha 
+CTR
+(1) Area within a radius of 5nm of NAHA ARP 
+(2612N/12738E), in the west side of a line 
+extending from 261429N1274125E on 
+052°56'T and 125°31'T
+--------
+2000
+(EXC 2000)
+D Naha Tower
+En
+ 
+(2) Area within a radius of 19nm of NHC 
+VORTAC, in the west side of NHC 015R and 
+in the north side of NHC 315R, excluding 
+area(1) and area within a radius of 5nm of 
+Kadena ARP(2621N/12746E).
+--------
+700
+(EXC 700)
+B
+Naha APP/DEP
+Naha RADAR
+Naha ARR
+En
+Naha 
+PCA See attached chart B
+Naha APP/DEP
+Naha RADAR
+Naha ARR
+Kadena ARR
+En
+Naha 
+ACA See attached chart E
+Naha APP/DEP
+Naha RADAR
+Naha ARR
+Kadena ARR
+En
+Naha 
+TCA See attached chart E Naha TCA
+En
+(EFF:17 APR 2025) 17/4/25
+
+
+=== Page 19 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-19
+那覇特別管制区
+Naha Positive Control Area (Class B)
+NAME LATERAL  LIMITS
+UNIT
+PROVIDING
+SERVICE
+REMARKS
+54
+UPPER LIMIT
+(AMSL)
+LOWER LIMIT
+(AMSL)
+M(ft)
+3
+ୗグ僑♧傻僲僱༊ᇦ
+The area shown below
+2
+㑣ぞ
+Naha
+1
+10000
+3000
+(EXC 3000)10000
+2000
+10000
+2000
+(EXC 2000)
+10000
+400010000
+700
+10000
+1000
+(EXC 1000)
+10000
+SFC 10000
+3143
+10000
+2246
+NHC 19NM
+NHC 30NM
+NHC 20NM
+NHC 10NM
+NHCARP
+NHC R230
+NHC R200
+NHC R175
+NHC R050
+NHC R315 NHC R015
+R-177
+W-174
+W-178A
+Futenma CTR
+Kadena
+CTR
+CAMP
+SCHWAB
+CAMP
+SCHWAB
+W-178
+5NM
+2NM
+262316N
+1270613E
+ᙜヱ✵ᇦ僸㣕⾜傽僮催僎傿僱⯟✵ᶵ僕傎
+ධᇦ๓僑㑣ぞ儆儻兑兠儥僑㐃⤡傽傎
+儗兠兏儙儈兗傎⌧ᅾ఩⨨傎㧗ᗘཬ僙
+ពᅗ僸㏻ሗ傽ᣦ♧僸ཷ傷僱傹僎傏
+凚ᙜヱ✵ᇦ僎㔜」傿僱㑣ぞ⟶ไᅪ僸
+㣕⾜傽僮催僎傿僱⯟✵ᶵ僑ᑐ傽僌僕傎
+㑣ぞ儆儻兑兠儥傱僯ᙜヱ⟶ไᅪෆ僔
+㣕⾜僑ಀ僱ᣦ♧傲Ⓨฟ傻僲僱傏凛
+"MMaircrafts requiring transit of
+Naha Positive Control Area must
+call Naha Approach prior to the
+point of entry to provide aircraft
+identification, position, altitude
+and intention. (Pilots intending to
+fly in the portion of the
+overlapping Naha CTR with Naha
+PCA should maintain contact with
+Naha Approach for ATC
+clearances and instructions.)
+1. 㑣ぞVORTAC僔R050ཬ僙R230
+僔⥺僔໭す働㣕⾜傿僱⯟✵ᶵ凬
+Naha APP 119.1MHz/335.8MHz 
+1. Aircraft operating northwest of
+the Naha VORTAC 050/230
+radials: Naha APP
+119.1MHz/335.8MHz
+2. 㑣ぞVORTAC僔R050ཬ僙R230
+僔⥺僔༡ᮾ働㣕⾜傿僱⯟✵ᶵ凬
+Naha APP 126.5MHz/258.3MHz 
+2. Aircraft operating southeast of
+the Naha VORTAC 050/230
+radials: Naha APP
+126.5MHz/258.3MHz
+(EFF:8 OCT 2020) 10/9/20
+→
+
+
+=== Page 20 ===
+ROAH  AD2-20 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+那覇進入管制区
+Naha Approach Control Area
+(1)
+(2)
+(3)
+(4)
+(10)
+(11)
+(12)
+(13)
+(5)
+(6)
+(7)
+(8)
+(9)
+30NM
+50NM
+KXC
+NHC 60NM
+55NM
+AME
+FL200
+FL250
+Point list
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+282121N/1304450E
+280927N/1284315E
+275507N/1283205E
+270928N/1280014E
+264352N/1283540E
+265648N/1285042E
+273900N/1291757E
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+274201N/1293022E
+280130N/1303045E
+265159N/1264807E
+255229N/1264740E
+252316N/1272802E
+251400N/1272404E
+(EFF:4 NOV 2021) 7/10/21
+
+
+=== Page 21 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-21
+那覇ター ミ ナルコ ン ト ロールエ リ ア
+Naha Terminal Control Area
+NAHA TCA FREQUENCY Naha Terminal Control Area and Naha Positive Control Area
+W-174
+W-178A
+W-178
+W-173Kadena
+CTR
+2000
+10000
+4000
+10000
+4000
+10000
+2000
+3999
+3000
+3999
+NHC 38NM
+NHC 55NM
+NHC R-230
+NHC R-230
+NHC R-050
+NHC R-050
+NHC R-175
+NHC 38NM
+NHC 30NM
+NHC 30NM
+NHC 25NM
+NHC 10NM
+Point list
+(1) 263746.4N1270652.4E
+(2) 262510.8N1270653.4E
+(3) 265952.8N1281002.7E
+(4) 264848.9N1275715.1E
+(5) 262936.9N1281623.3E
+(6) 264431.1N1282830.8E
+(7) 261716.9N1274920.1E
+(8) 261633.7N1274845.0E
+Kadena
+CTR
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)2NM FM
+262316N
+1270613E
+120.0MHz 
+300.7MHz 
+119.175MHz 
+316.0MHz 
+1. Pilots shall pay attention to the boundary between Naha
+ Terminal Control Area and Naha Positive Control Area, and
+shall remain outside Naha Positive Control Area unless
+obtained clearance.
+2. When intending to enter Naha Positive Control Area, pilots
+shall inform Naha TCA of their intention, and shall follow the
+instruction.
+凣几儵儈兑儧儬僕傎㑣ぞ儣兠元儮兏儗兗儬兑兠兏儌兎儆僎
+傍傍㑣ぞ≉ู⟶ไ༊僔ቃ⏺僑␃ព傽傎㑣ぞ≉ู⟶ไ༊僑チྍ䢢
+傍傍僐債ධᇦ傽僐傪傹僎傏䢢
+凤几㑣ぞ≉ู⟶ไ༊僞僔ධᇦ僸せồ傿僱ሙྜ傎儵儈兑儧儬僕䢢
+傍傍㑣ぞ䣖䣅䣃僑僃僔᪨僸㏻ሗ傽ᣦ♧僑ᚑ催傹僎傏䢢
+㑣ぞ儣兠元儮兏儗兗儬兑兠兏儌兎儆僕傎ኴ⥺㒊ཬ僙⥙᥃傷㒊僑傰傪僌
+㑣ぞ≉ู⟶ไ༊僎᥋傽僌傪僱傏䢢
+Naha Terminal Control Area borders on Naha Positive Control Area 
+on bold lines and hatched area.
+ὀព஦㡯䢢 CAUTION 
+(EFF:8 OCT 2020) 10/9/20
+→
+
+
+=== Page 22 ===
+ROAH  AD2-22 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency
+Hours of 
+operation Remarks
+12 3 4 5
+DEP Naha Departure 119.1MHz(1)
+335.8MHz(1)
+126.5MHz(2)
+258.3MHz(2)
+119.65MHz
+228.2MHz
+H24 (1) Primary for airspace 
+northwest of Naha VORTAC 
+R050/R230
+(2) Primary for airspace 
+southeast of Naha VORTAC 
+R050/R230
+APP Naha Approach 119.1MHz(1)
+335.8MHz(1)
+126.5MHz(2)
+258.3MHz(2)
+119.65MHz
+228.2MHz
+121.2MHz
+124.95MHz(3)
+280.1MHz(3)
+H24
+(3) Primary for airspace within 
+55NM from Kasari VOR/DME
+ARR Naha Arrival 118.85MHz(4)
+278.5MHz(4)
+H24 (4) Primary for aircraft landing 
+at Naha Airport
+Kadena Arrival 135.9MHz(5)
+255.8MHz(5)
+285.4MHz
+H24 (5) Primary for aircraft landing 
+at Kadena AB and MCAS 
+Futenma
+ASR Naha Radar 120.0MHz
+121.1MHz
+122.45MHz
+125.55MHz
+119.65MHz
+121.2MHz
+228.2MHz
+257.5MHz
+261.4MHz
+270.6MHz
+287.8MHz
+289.4MHz
+290.3MHz
+297.2MHz
+ 
+310.0MHz
+317.8MHz
+321.5MHz
+363.8MHz
+121.5MHz(E)
+243.0MHz(E)
+H24
+TCA Naha TCA 120.0MHz(6)
+310.0MHz
+122.45MHz
+321.5MHz
+119.175MHz(7)
+300.7MHz(6)
+316.0MHz(7)
+2230-1130 (6) Primary for Naha Terminal
+Control Area northwest of
+Naha VORTAC R050/R230
+(7) Primary for Naha Terminal
+Control Area southeast of
+Naha VORTAC R050/R230
+TWR Naha Tower 118.1MHz
+126.2MHz
+236.6MHz
+308.6MHz
+121.5MHz(E)
+243.0MHz(E)
+118.75MHz
+247.8MHz
+H24
+GND Naha Ground 121.8MHz
+284.6MHz
+121.9MHz
+284.4MHz
+H24
+DLVRY Naha Delivery 122.075MHz
+256.0MHz
+H24
+(EFF:4 NOV 2021) 7/10/21
+
+
+=== Page 23 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-23
+Service
+designation Call sign Frequency
+Hours of 
+operation Remarks
+12 3 4 5
+GCA-ASR
+-PAR
+Naha GCA 119.5MHz
+121.1MHz
+124.7MHz
+261.4MHz
+288.1MHz
+289.4MHz
+296.3MHz
+121.5MHz(E)
+243.0MHz(E)
+119.05MHz
+120.6MHz
+123.85MHz
+236.8MHz
+304.5MHz
+318.2MHz
+0100-1200 GLIDE PATH
+(1) RWY 18L: 3.0° 
+(2) RWY 36R: 3.0°
+(3) RWY 18R: 3.0°
+(4) RWY 36L: 3.0°
+ATIS Naha Airport 127.8MHz
+293.0MHz
+H24
+(EFF:4 NOV 2021) 7/10/21
+→
+
+
+=== Page 24 ===
+ROAH  AD2-24 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting 
+antenna 
+coordinates
+Elevation of
+DME 
+transmitting 
+antenna
+Remarks
+12 34 5 6 7
+VOR
+(5°W/2014)
+NHC 116.5MHz H24 261230.71N/1273834.32E
+TACAN NHC 1199MHz
+(CH-112X)
+H24 261229.51N/1273833.44E 56.8ft TACAN AZM Unusable:
+340°-030° beyond 35nm BLW 3,000ft.
+060°-070° beyond 35nm BLW 3,000ft.
+070°-120° beyond 30nm BLW 3,000ft.
+120°-130° beyond 20nm BLW 3,000ft.
+130°-150° beyond 25nm BLW 3,000ft.
+150°-160° beyond 30nm BLW 3,000ft.
+170°-180° beyond 35nm BLW 3,000ft.
+240°-300° beyond 35nm BLW 3,000ft.
+ILS-LOC 36R IOK 110.3MHz H24 261239.35N/1273840.95E LOC : 177.5m (582ft) away FM RWY 
+18L THR.
+45m(148ft) W of RCL.
+LOC off-set 0.63°
+BRG (MAG) 002°
+ILS-GP 36R - 335.0MHz H24 261106.67N/1273842.59E GP: 328m (1076ft) inside FM RWY 36R 
+THR.
+120m(394ft) W of RCL.
+Angle 3.0°
+HGT of ILS Ref datum 17.4m(57ft).
+ILS-DME 36R IOK 1001MHz
+(CH-40X)
+H24 261107.00N/1273841.98E 28ft DME: 336.4m(1104ft) inside FM RWY 
+36R THR.
+134.9m(443ft) W of RCL.
+ILS-LOC 18R ION 110.15MHz H24 261033.64N/1273803.22E LOC : 301.5m (990ft) away FM RWY 
+36L THR.
+55m(180ft) E of RCL.
+LOC off-set 0.84°
+BRG (MAG) 182°
+ILS-GP 18R - 334.25MHz H24 261200.70N/1273801.29E GP: 322.6m (1058ft) inside FM RWY 
+18R THR.
+115m(377ft) E of RCL.
+Angle 3.0°
+HGT of ILS Ref datum 15.8m(52ft).
+ILS-DME 18R ION 1125MHz
+(CH-38Y)
+H24 261200.55N/1273801.65E 31ft DME: 327.6m(1075ft) inside FM RWY 
+18R THR.
+125m(410ft) E of RCL.
+ILS-LOC 36L IOW 111.7MHz H24 261221.27N/1273756.17E LOC : 316.0m (1037ft) away FM RWY 
+18R THR.
+BRG (MAG) 003°
+ILS-GP 36L - 333.5MHz H24 261053.50N/1273755.98E GP: 317.7m (1042ft) inside FM RWY 
+36L THR.
+120m(394ft) W of RCL.
+Angle 3.0°
+HGT of ILS Ref datum 16.5m(55ft).
+ILS-DME 36L IOW 1015MHz
+(CH-54X)
+H24 261053.81N/1273755.60E 32ft DME: 327.7m(1075ft) inside FM RWY 
+36L THR.
+130m(427ft) W of RCL.
+MSAS - 1575.42MHz H24 Transmitting antennas are satellite 
+based
+(EFF:4 NOV 2021) 7/10/21
+←
+
+
+=== Page 25 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-25
+REMARKS :
+1. LOC OFFSET Angle 0.63°
+2. LOC beam BRG (MAG) 002°
+3. GP Angle 3.0°
+4. HGT of ILS REF datum 17.4m (57ft)
+5. ELEV of ILS-DME 8.48m (28ft)
+ILS-DME ANTENNA
+ILS-GP ANTENNA
+RWY
+ILS-LOC
+ANTENNA
+ILS for RWY 36R
+18L
+36R
+120m
+134.9m
+328m
+336.4m
+929m
+3000m
+177.5m
+45m
+ 
+36L
+18R
+36L
+18R
+55m
+301.5m
+125m
+ILS for RWY18R
+RWY
+ILS-LOC
+ANTENNA
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+115m
+748m322.6m
+327.6m
+ILS for RWY36L
+ILS-DME ANTENNA
+ILS-GP ANTENNA
+ILS-LOC ANTENNA
+RWY
+120m 130m
+327.7m
+317.7m
+2700m 316m
+2700m
+䢳䢰䢢 0.84°
+䢴䢰䢢 182°
+䢵䢰䢢
+䢶䢰䢢
+䢷䢰䢢
+REMARKS : LOC OFFSET Angle
+LOC beam BRG(MAG)
+GP Angle
+HGT of ILS REF datum
+ELEV of ILS-DME
+3.0°
+15.8m(52ft)
+9.3m(31ft)
+003˃
+3.0˃
+REMARKS : LOC beam BRG (MAG)
+GP Angle
+HGT of ILS REF datum
+ELEV of ILS-DME
+16.5m(55ft)
+9.6m(32ft)
+䢳䢰䢢
+䢴䢰䢢
+䢵䢰䢢
+䢶䢰䢢
+(EFF:4 NOV 2021) 7/10/21
+→
+
+
+=== Page 26 ===
+ROAH  AD2-26 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+1.1 定期便以外の航空機の取扱い
+ (1) 定期便以外の航空機による当空港の使用については、 事
+前に空港管理者と調整する こ と。 詳細については、 大阪航空
+局那覇空港事務所航空管制運航情報官に連絡する こ と。
+（電話 ： 098-857-1107）
+ (2) 外国軍用機による当空港の使用については、(1) の空港
+管理者に加え、少なくとも 7 日前までに航空自衛隊駐機場管
+理者と調整すること。詳細については航空自衛隊第 9 航空団
+防衛部に連絡すること。
+（電話 ： 098-857-1191 　 内線 3234）
+1.1 Aircraft other than scheduled flights
+(1) Use of this airport by aircraft other than scheduled 
+flights is all subject to prio r arrangments with the airport
+administrator. 
+Contact JCAB Naha operations for further details.
+ (Tel:098-857-1107)
+(2) Use of this airport by forei gn military aircraft is all subject
+to prior arrangements at least 7 days in advance with Japan
+Air Self Defense Force apron administrator, in addition to the
+airport administrator in (1).
+Contact Defense and Operation Division, 9th Air Wing Japan
+Air Self Defense Force for further details.
+ (Tel:098-857-1191 ext, 3234)
+1.2 管制方式
+  航空機の運航者は、 次に掲げる方式に従 う こ と。
+1.2 ATC Procedures
+ Aircraft operators shall comply with the following procedures.
+(1) 一般事項 (1) General 
+A. パイ ロ ッ ト は、 那覇空港の標準計器出発方式、 標準計
+器到着方式及び計器進入方式に公示される高度制限に
+ついて、 事前確認を徹底し た上で、 確実に高度制限を遵
+守して飛行すること。
+A. Pilots shall certainly pre-check and surely comply with
+altitude restrictions published on standard instrument
+departures, standard instrument arrivals and instrument
+approach procedures at Naha Airport.
+B. 第 6 エプロン内には、 管制塔からの不可視区域が存在
+する。
+B. Invisible areas from control tower exist within APRON
+NR-6.
+  
+(2) 出発機 (2) Departure
+A. 全ての IFR 出発機は、 エンジン始動 5 分前に那覇デ リ
+バリ ーと通信設定し、 次に掲げる事項を通報する こ と。
+a) 航空機呼出符号
+b) 目的地
+c) 要求高度 （代替要求高度がある場合は、当該高度）
+d) 駐機位置 （スポ ッ ト 番号）
+A. All IFR departing aircraft shall contact Naha Delivery 5 
+minutes prior to starting engines and advise the 
+following information.
+a) call sign
+b) destination
+c) proposed flight level/altitude (alternative flight 
+levels/altitudes, if any)
+d) parking position (spot number)
+B. パイ ロ ッ ト は、 プ ッ シ ュバッ ク及び / 又はエンジン始
+動が遅れる場合、 又はそれが予想される場合は、 管制官
+に対し てその旨通報する こ と。 ただ し、 他の航空機の地
+上交通による遅延、 又は出発制御時刻等が付加されたた
+めに生じ る遅延を除 く 。
+B. Pilots shall advise ATC if any delay in push-back and/or 
+engine start-up is experienced or anticipated except 
+when delay has been caused by other ground traffic or 
+departure time restriction such as release time.
+C. 那覇特別管制区を飛行し よ う とする VFR 機は、 地上走
+行前に那覇グラ ン ド／タ ワーに対し て、 当該管制圏を離
+脱する飛行方向又は飛行経路及び要求高度を通報する
+こと。那 覇 グランド／タワ ー は 、那 覇 レ ー ダ ーと通 信 設
+定を行う 周波数及び二次レーダー個別コー ド を指定す
+る。
+C. VFR aircraft intending to operate within the Naha 
+Positive Control area shall advise the Naha ground/
+tower prior to taxi of intended direction or route of flight 
+and proposed altitude to depart from respective Control 
+Zone. The Naha ground/tower will assign a frequency 
+to contact Naha Radar and discrete beacon code.
+(3) イ ン ターセク シ ョ ン ・ デパーチ ャー (3) Intersection departure
+A. 出発機はパイ ロ ッ ト の同意な し に誘導路 E2、 T2 及び T8
+からのイ ン ターセ ク シ ョ ン ・ デパーチ ャーを指示される
+こ とがある。誘導路 E2、T2 及び T8 から出発できない場
+合は、 管制官に対し てその旨通報する こ と。
+A. Departing aircraft may be instructed intersection 
+departure from TWY E2, T2, T8 without pilot's consent. 
+Aircraft unable to depart from TWY E2, T2, T8 shall 
+advise ATC accordingly.
+B. AD1.1.6.3.2.2(2)2) に記載されている出発機間の管制間隔
+は、 次に掲げる誘導路から出発する航空機には適用され
+ない。
+AD1.1.6.3.2.2(2)2) における間隔を必要とする航空機は、 那
+覇グラ ン ド / タ ワーに対し てその旨通報する こ と。
+B. Separation for departure as in AD1.1.6.3.2.2(2)2) will 
+not be applied to aircraft departing from the following 
+TWYs.  Aircraft requiring separation in 
+AD1.1.6.3.2.2(2)2) shall advise “NAHA GROUND/
+TOWER” accordingly.
+(EFF:23 JAN 2025) 23/1/25
+
+
+=== Page 27 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-27
+滑走路
+RWY
+先行機が出発する誘導路
+TWY where a leading aircraft departing
+後続機が出発する誘導路
+TWY where a succeeding aircraft departing
+18L
+E1, W1 E2
+E3 W2
+E4 W3
+E4C W3C
+36R E8S W5
+18R T1 T2
+36L T9 T8
+(4) 到着機 (4) Arrival
+A. 全ての民間 IFR 到着機は、 那覇タ ワー /GCA との最初の
+通信設定時において、 駐機位置 （スポ ッ ト 番号） を通報す
+ること。
+A. All civil IFR arriving ai rcraft shall advise parking 
+position (spot number) on initial contact with Naha 
+Tower/GCA.
+B. 後続機は他の周波数にいる場合がある こ とから、 パイ
+ロ ッ ト は、最寄りの誘導路経由で、又は管制官の指示に従
+い、遅滞な く 滑走路を離脱する こ とによ っ て、滑走路占有
+時間の短縮に努める こ と。
+B. Pilots are encouraged to reduce RWY occupancy time 
+by exiting the RWY without delay at the first available 
+taxiway or as instructed by ATC, for succeeding aircraft 
+which may be on a different frequency.
+C. 全ての到着機は、 管制官から指定された二次レーダー個
+別コー ド を、 着陸するまで変更し ないこ と。 ただ し、 管制
+官から別途指示された場合は、 この限り でない。
+C. All arriving aircraft s hall remain on discrete beacon 
+code assigned by ATC until making a full stop landing, 
+unless otherwise instructed by ATC.
+D. 那覇特別管制区を飛行し よ う とする VFR 機は、 那覇レー
+ダーと通信設定を行 う 前に ATIS を聴取するよ う 努め、 通
+信設定時に ATIS 情報を受信し た旨、 飛行経路及び要求高
+度を通報する こ と。
+D. VFR aircraft intending to operate within the Naha 
+Positive Control area should monitor ATIS broadcast 
+prior to contacting Naha Radar, and advise ATIS code 
+received, route of flight, and proposed altitude on initial 
+contact.
+E. 那覇タワーと通信設定する VFR 機は、 以下の管轄周波数
+に連絡し、 コールサイ ン、 現在位置、 高度及び意図を通報
+し指示を受けること。
+a) 空港標点から東象限を飛行する航空機
+　   (VRP:PARCO CITY,AJA,YONABARU,MABUNI)
+　    Naha TWR:118.1MHz/308.6MHz
+b) 空港標点から西象限を飛行する航空機
+     (VRP:SANDO,DONATSU,MAEJIMA,
+     KERAMA NORTH,KERAMA SOUTH)
+      Naha TWR:118.75MHz/247.8MHz
+E. VFR aircraft should call Naha TWR to provide the 
+aircraft identification, position, altitude and intention 
+using the following frequency.
+a) Aircraft operating east side of Naha Control Zone
+   (VRP:PARCO CITY,AJA,YONABARU,MABUNI)
+    Naha TWR:118.1MHz/308.6MHz
+b) Aircraft operating west side of Naha Control Zone
+   (VRP:SANDO,DONATSU,MAEJIMA,
+     KERAMA NORTH,KERAMA SOUTH)
+    Naha TWR:118.75MHz/247.8MHz
+(5) 視認進入 (5) Visual approach
+A. 視認進入を許可された航空機は、 進入許可発出時の指定
+高度にかかわらず、自機に適用される場周経路高度まで速
+やかに降下する こ と。 ただ し、管制官から別途指示された
+場合は、 この限り でない。
+A. Aircraft cleared for vis ual approach shall descend to 
+appropriate traffic pattern altitude regardless of the 
+assigned altitude when the approach clearance is 
+issued, unless otherwise instructed by ATC.
+B. 視認進入を行う 航空機は、 回転翼機及び後方乱気流区分
+がラ イ ト の固定翼機を除き、騒音軽減のため海上を飛行す
+ること。
+B. Aircraft, except fixed wing aircraft in light wake 
+turbulence category and rotary wing aircraft, shall 
+remain over the water when conducting visual 
+approach due to noise abatement.
+(EFF:23 JAN 2025) 23/1/25
+→
+
+
+=== Page 28 ===
+ROAH  AD2-28 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+(6) CDO (Continuous Descent Operation) (6) CDO (Continuous Descent Operation)
+那覇空港への CDO は次に掲げる方式に従 う こ と。 Pilot Shall comply following procedures when conduct 
+CDO at Naha AP.
+   1) 適用時間
+       THETA, KUKUL, SEIFA, VIGER 通過予定時刻が 0130JST から
+       0555JST の間。
+1)Applicable time
+  ETA at THETA, KUKUL, SEIFA or VIGER 
+  between 1630UTC and 2055UTC.
+   2) 対象経路
+    　 A. 滑走路 36 運用時
+　 　 　 a)OKUMA から RESORT SOUTH ARRIVAL を経由する経路。
+　 　 　 b)GUPTI から GUPTI SOUTH ARRIVAL を経由する経路。
+　 　 　 c)VELNO から VELNO SOUTH ARRIVAL を経由する経路。
+　 　 d)ENTOK から ENTOK SOUTH ARRIVAL を経由する経路。
+2)Routes applicable for CDO
+ A.When RWY36 in use
+ a)Arrival routes via OKUMA and join RESORT 
+           SOUTH ARRIVAL.
+  b)Arrival routes via GUPTI and join GUPTI SOUTH 
+           ARRIVAL.
+  c)Arrival routes via VELNO and join VELNO SOUTH 
+           ARRIVAL.
+  d)Arrival routes via ENTOK and join ENTOK SOUTH 
+           ARRIVAL.
+    　 B. 滑走路 18 運用時
+　 　 　 a)OKUMA から RESORT NORTH ARRIVAL を経由する経路。
+　 　 　 b)GUPTI から GUPTI NORTH ARRIVAL を経由する経路。
+　 　 　 c)VELNO から VELNO NORTH ARRIVAL を経由する経路。
+　 　 d)ENTOK から ENTOK NORTH ARRIVAL を経由する経路。
+ B.When RWY18 in use
+  a)Arrival routes via OKUMA and join RESORT NORTH 
+          ARRIVAL.
+  b)Arrival routes via GUPTI and join GUPTI NORTH 
+          ARRIVAL.
+  c)Arrival routes via VELNO and join VELNO NORTH 
+          ARRIVAL.
+  d)Arrival routes via ENTOK and join ENTOK NORTH 
+          ARRIVAL.
+   3) 実施方式
+     A.CDO の要求及び承認
+      a) 航空機からの CDO の要求及び管制機関からの承認は、次表
+        の CDO 経路名を用いて行 う 。 CDO 経路には高度制限が付加
+        されている こ とに留意する こ と。
+b) 使用滑走路が変更にな った場合、 CDO が再承認されるか、
+中止が指示される。
+3)Procedures
+A.Request and clearance of CDO
+a)CDO route name listed below is used when pilot 
+          requests CDO and when ATC clears CDO. There are 
+          altitude restrictions on CDO routes.
+b)ATC reclears or cancels CDO when RWY in use is 
+          changed. 
+     B.CDO の要求時期
+   航空機は、 降下開始点に到達する時刻の10分前までに、 THETA,
+      KUKUL, SEIFA, VIGER 通過予定時刻及び降下開始点を付し て、
+      管制機関に対し て CDO の要求を行 う こ と。
+B.Timing for requesting CDO
+Pilot should request CDO not later than 10minutes 
+        before reaching Top of Descent(TOD) with position 
+        of TOD and estimated time over THETA, KUKUL, 
+        SEIFA or VIGER.
+Runway 36
+CDR Route name Route
+Runway 36 CDO Number 1
+ONC A582 OKUMA “RESORT SOUTH ARRIVAL”
+[Altitude Restriction]
+Cross HASSA at or above 11,000ft and cross SEIFA at or above 2,000ft.
+Runway 36 CDO Number 2
+GUPTI “GUPTI SOUTH ARRIVAL”
+[Altitude Restriction]
+Cross GUPTI at or above FL200, cross HASSA at or above 11,000ft 
+and cross SEIFA at or above 2,000ft.
+Runway 36 CDO Number 3
+MJC Y57 VELNO “VELNO SOUTH ARRIVAL”
+[Altitude Restriction]
+Cross VIGER at or above 2,000ft.
+Runway 36 CDO Number 4
+ENTOK  “ENTOK SOUTH ARRIVAL”
+[Altitude Restriction]
+Cross ENTOK at or above FL170 and cross VIGER at or above 2,000ft.
+(EFF:23 JAN 2025) 23/1/25
+←
+
+
+=== Page 29 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-29
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+Runway 18
+CDR Route name Route
+Runway 18 CDO Number 1
+ONC A582 OKUMA “RESORT NORTH ARRIVAL”
+[Altitude Restriction]
+Cross CLIFF at or above 2,700ft and cross KUKUL at or above 2,000ft.
+Runway 18 CDO Number 2
+GUPTI “GUPTI NORTH ARRIVAL”
+[Altitude Restriction]
+Cross GUPTI at or above FL200 and cross KUKUL at or above 2,000ft.
+Runway 18 CDO Number 3
+MJC Y57 VELNO “VELNO NORTH ARRIVAL”
+[Altitude Restriction]
+Cross THETA at or above 2,000ft. 
+Runway 18 CDO Number 4
+ENTOK “ENTOK NORTH ARRIVAL”
+[Altitude Restriction]
+Cross ENTOK at or above FL170, cross YEEZY at or above 2,100ft 
+and cross THETA at or above 2,000ft.
+1.3 PDA (parts departing aircraft) reporting to Airport Administration
+In order to secure the safety of aircraft operations and to rectify the issue of falling objects from aircraft operating in the vicinity
+of Naha Airport, aircraft operators are required to notify Air port Administration (Tel 098-857-1107) of any “Parts Departing
+Aircraft” from flights operating to/from Naha Airport, without delay. This information shall be shared by relevant parties in order
+to prevent recurrence of such.
+1.4 補助動力装置 (APU) の使用制限
+　航空機が固定動力設備付きのスポ ッ ト を使用する場合は、
+管理者が特に必要と認める場合を除き、 次に掲げる時間を超
+えて補助動力装置を使用し てはな ら ない。
+(1) 出発予定時刻前の 30 分間
+(2) 到着後、 固定動力設備が使用可能と なるまでの最小限度
+　  の時間
+(3) 航空機が点検整備のため補助動力装置を必要とする場合
+　  は、 それに要する最小限度の時間
+備考 ：
+スポ ッ ト 21 ～ 27 及び 31 ～ 37 は、 固定動力設備が設置され
+ている。
+1.4 Restrictions about the use of auxiliary power
+      units(APU)
+The APU should be operated only within the following time
+period the aircraft is on an airc raft parking stand with fixed
+power facilities. Exceptions  apply when airport authority
+deems it necessary.
+(1)Within 30 minutes prior to the estimated time of 
+    departure(ETD).
+(2)For the minimum time required for switching over to the 
+    fixed power facilities.
+(3)For the minimum time required for aircraft maintenance 
+    purposes, if needed.
+NOTE:
+Aircraft parking stands 21-27 and 31-37 are equipped with
+fixed power facilities.
+2.1 Taxiing procedure
+All aircraft are required to hold at “GP HOLD LINE” on TWY T1 and T2 for RWY18R until receiving taxi clearance to protect the
+ILS glide slope signal.
+2.2  エプロンにおける安全対策について
+1) エプロン内においては、 正確に黄色い導入線に沿っ て走
+行するこ と。
+2) ジ ェ ッ ト ブ ラ ス ト による地上の車両、 設備及び隣接ス
+ポ ッ ト の他の航空機への影響を回避するため、エプロン内
+においては、 エンジン出力を最小にする こ と。
+2.2 Safety measures in Aprons
+1) While operating in the apron area, follow strictly yellow
+guide line.
+2) In order to avoid jet blast damage to ground vehicles,
+equipment and other aircraft in adjacent spots, engine
+power should be kept to minimum within APRON.
+See AD2.9 Marking AIDs and Parkings Area(West side)
+See AD2.9 Marking AIDs and Parkings Area(West side)
+(EFF:23 JAN 2025) 23/1/25
+→
+
+
+=== Page 30 ===
+ROAH  AD2-30 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Nil
+1. Wing tip clearance at the TWY intersection (REF. AD1.1.6.8)
+Wing tip clearance at the TWY intersection between the aircraft holding at the stop marking on the TWY and the other 
+aircraft taxiing behind it are as follows.
+(1) When B744 holding at the stop marking on TWY E1, E2, E3, E4C, E6, E8S, E9
+Wing Span (WS) of aircraft taxiing on 
+TWY A1-A4, A5-A6 or A7-A9 WS=< 51.1m 51.1m <WS=< 68.1m WS > 68.1m
+Wing tip clearance *A *B *C
+(2) When B744 holding at the stop marking on TWY W2
+Wing Span (WS) of aircraft taxiing on 
+TWY B WS=< 52.1m 52.1m <WS=< 69.1m WS
+> 69.1m
+Wing tip clearance *A *B *C
+(3) When B744 holding at the stop marking on TWY T1, T2, T8
+Wing Span (WS) of aircraft taxiing on 
+TWY C WS=< 18.1m 18.1m <WS=< 35.1m WS
+> 35.1m
+Wing tip clearance *A *B *C
+Legend: 
+*A : wing tip clearance >= 15m  
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5m
+2. Restricted TWY
+   Taxiing from E5 to A5, and vice versa, AVBL wheelbase 9.8m or less, YS11, P3, C1, C130 and US1, for example.
+3. 航空機重量制限
+誘導路 A8 及び W5 を使用する A350-900 型機においては、
+航空機重量が下表の値を超えてはな ら ない。
+3.Aircraft weight restriction
+When A350-900 using TWY A8 and W5, aircraft weight
+shall not exceed the values listed in the table below.
+誘導路
+TWY A8 W5
+航空機重量
+Aircraft weight
+(lb) (kg) (lb) (kg)
+533,500 242,000 474,200 215,100
+ 
+Nil
+Nil
+Nil
+(EFF:23 JAN 2025) 23/1/25
+←
+
+
+=== Page 31 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-31
+ROAH AD 2.21 NOISE ABATEMENT PROCEDURES
+ROAH AD 2.22 FLIGHT PROCEDURES
+Nil
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL
+or RCL marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ ACFT with 
+ TKOF ALTN 
+AP FILED
+18L
+A,B,C,D
+400m 400m 400m 400m - 500m
+18R 400m 400m 400m 400m - 500m
+36R 400m 400m 400m 400m - 500m
+36L 400m 400m 400m 400m - 500m
+OTHER
+18L
+18R
+36R
+36L
+A,B,C,D AVBL LDG MINIMA
+2. WX MINIMA CONCERNING PAR APCH PROCEDURE
+PAR RWY 18L PAR RWY 36R
+MINIMA THR ELEV: 11 AD ELEV: 11 MINIMA THR ELEV: 9 AD ELEV: 11
+CAT
+PAR CIRCLING
+CAT
+PAR CIRCLING
+DA(H) RVR/CMV MDA(H) VIS DA(H) RVR/CMV MDA(H) VIS
+A
+211(200) 700 620(609)
+1600
+A 219(210)
+600 620(609)
+1600
+B B 229(220)
+C 2400 C 239(230) 2400
+D 3200 D 249(240) 3200
+Circling to WEST side of RWY only Circling to WEST side of RWY only
+PAR RWY 18R PAR RWY 36L
+MINIMA THR ELEV: 16 AD ELEV: 11 MINIMA THR ELEV: 14 AD ELEV: 11
+CAT
+PAR CIRCLING
+CAT
+PAR CIRCLING
+DA(H) RVR/CMV MDA(H) VIS DA(H) RVR/CMV MDA(H) VIS
+A
+216(200) 550 620(609)
+1600
+A
+214(200) 550 620(609)
+1600
+BB
+C 2400 C 2400
+D 3200 D 3200
+Circling to WEST side of RWY only Circling to WEST side of RWY only
+(EFF:23 JAN 2025) 23/1/25
+→
+
+
+=== Page 32 ===
+ROAH  AD2-32 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+3.  PAR Missed Approach Procedure
+    Unless otherwise instructed by ATC, execute each missed approach procedure as follows.      
+(1) RWY18L: At guidance limit, climb to 1200FT via NHC R182 to NHC15.0DME, climb to 2000FT via NHC 15.0DME
+clockwise ARC to OLVAL and hold. Contact NAHA APP.
+(2) RWY36R : At guidance limit, climb to 1200FT on HDG 003° to NHC 2.4DME, turn left, via NHC R341 to NHC 15.0DME,
+climb to 2000FT via NHC 15.0DME counterclockwise ARC to OLVAL and hold. Contact NAHA APP .
+(3) RWY18R : At guidance limit, turn right, climb to 1200FT via NHC R226 to NHC 15.0DME, climb to 2000FT via NHC
+15.0DME clockwise ARC to OLVAL and hold. Contact NAHA APP .
+(4) RWY36L : At guidance limit, turn left, climb to 1200FT via NHC R308 to NHC 8.5DME, climb to 2000FT via NHC R308 to
+NHC 15.0DME, via NHC 15.0DME counterclockwise ARC to OLVAL and hold. Cross NHC R308/12.0DME at or
+above 1400FT. Contact NAHA APP .
+4. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Naha Approach/Arrival/GCA are lo st for 1 minute, or 5 seconds on final approach(PAR), squawk
+Mode A/3 Code 7600 and :
+(1) Contact Naha Tower.
+(2) If unable, proceed in accordance with Visual Flight Rules.
+(3) If unable,
+Proceed  to OLVAL at the last assigned altitude or 2,000FT whichever is higher and execute Instrument Approach. 
+Note : Procedures other than above will be issued when required.
+5. Trajectorized Airport Traffic Data Processing System (TAPS)
+  那覇アプローチの指示のも と に、当該進入管制区を飛行する航
+空機は、 モー ド A/3 の二次レーダー個別コー ド 及びモー ド C に
+よる応答を指示される。
+  二次レーダー個別コー ド を搭載し ていない航空機が、当該コー
+ド による応答を指示された場合は、 管制官に対し てその旨通報
+すること。
+Aircraft  flying under control of Naha Approach in the Approach
+Control Area will be instructed to reply with discrete beacon
+code on Mode A/3 and Mode C.
+If an aircraft with non-discret e beacon code capability is
+instructed to reply with discrete beacon code, it shall advise ATC
+accordingly.
+6. 場周経路高度 6. Traffic Pattern Altitude
+(1) 東側場周経路 (1) East side
+A. 固定翼機
+最大離陸重量 7000kg 以下･･････････ 1,000ft
+A.FIXED-WING AIRCRAFT
+Maximum take-off weight 7000kg or less·············
+1,000ft
+B. 回転翼機････････････････････････････ 800ft B.ROTARY-WING AIRCRAFT····································
+800ft
+(2) 西側場周経路 (2) West side
+A. 固定翼機 A.FIXED-WING AIRCRAFT
+a) ジ ェ ッ ト 機
+戦闘機及び練習機
+･･････････････ 1,700ft
+その他･･････････････････････････1,000ft
+b) プロペラ機
+最大離陸重量 7000kg 超･････････ 1,000ft
+最大離陸重量 7000kg 以下････････ 700ft
+a) JET
+Fighter and Trainer··········································
+1,700ft
+Others······························································
+1,000ft
+b) PROPELLER
+Maximum take-off weight more than 7000kg····1,000ft
+Maximum take-off weight 7000kg or less···········
+700ft
+B. 回転翼機････････････････････････････ 500ft B.ROTARY-WING AIRCRAFT·····································
+500ft
+(EFF:24 MAR 2022) 24/2/22
+←
+
+
+=== Page 33 ===
+AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH  AD2-33
+ROAH AD 2.23 ADDITIONAL INFORMATION
+1. RWY18L 進入区域の船舶の通過
+　 航空機の運航に影響がある高さの船舶が RWY18L 進入区
+域を通過する場合、 以下の対応が取られる。
+1) NOTAM ROAH 又は ATC によ り船舶の情報提供が行われ
+る。
+2) 以下の場合において、 船舶が A 点～ B 点を通過する間、
+待機が指示される こ とがある。
+a) RWY18L 着陸時
+船舶高 35m(115ft)/MSL 超の場合、PAR 進入を行 う 到着
+機
+船舶高 43m(142ft)/MSL 超の場合、 全ての到着機
+b) RWY36R 出発時及び着陸時
+船舶高 65m(214ft)/MSL 超の場合、 IFR 出発機
+船舶高 96m(315ft)/MSL 超の場合、 IFR 到着機
+　　
+      船舶経路
+1. Passage of vessel across RWY18L approach area
+While vessel with height that affects ACFT operations is
+passing across RWY18L approach area, the following
+action will be taken.
+1) The information of vessel will be provided by NOTAM
+ROAH or ATC.
+2) While vessel is crossing between point A and point B,
+holding instruction may be issued in the following
+situations.
+a) ACFT for landing RWY18L
+When vessel height is above 35m(115ft)/MSL : arrival
+ACFT to conduct PAR APCH
+When vessel height is above 43m(142ft)/MSL : all
+arrival ACFT 
+b) ACFT for take-off/landing RWY36R
+When vessel height is above 65m(214ft)/MSL : IFR
+departure  ACFT 
+When vessel height is above 96m(315ft)/MSL : IFR
+arrival  ACFT
+    VESSEL COURSE
+2. 滑走路上での維持工事
+  滑走路及び空港施設の維持工事のため、 計画的な滑走路閉鎖
+が行われる。
+（NOTAM ROAH 参照）
+2. Schedule maintenance on the RWY
+Scheduled RWY unserviceability due to RWY and facilities 
+maintenance.
+    (See NOTAM ROAH)
+㻝㻤䠨
+㻞㻞㻣㻝㼙
+㻟㻜㻜㻜㼙 㻝㻞㻜㻜㼙
+㻝㻡㻤㻤㼙
+㻭
+㻮
+(EFF:16 JUN 2022) 16/6/22
+
+
+=== Page 34 ===
+ROAH  AD2-34 AIP Japan
+NAHA
+Civil Aviation Bureau,Japan
+ROAH AD 2.24 CHARTS RELATED TO AN AERODROME
+3. その他
+(1) アレステ ィ ングギア ( 型式 ： BAK-12)
+1) 位置
+      滑走路上の以下の場所にアレステ ィ ングギアが装備され 
+      ている。 ( 飛行場面図 　 参照 )
+a) RWY36R 進入端から 250M(820ft) 内側
+b) RWY36R 進入端から 877M(2,877ft) 内側
+c) RWY18L 進入端から 278M(912ft) 内側
+d) RWY36L 進入端から 20M(65.6ft) 外側
+e) RWY36L 進入端から 589.1M(1,931.5ft) 内側
+f) RWY18R 進入端から 20M(65.6ft) 外側
+g) RWY18R 進入端から 589.1M(1,931.5ft) 内側
+2) 通常の運用形態
+      使用 RWY に応じ て、 以下のアレステ ィ ングギアが RWY
+       上に張られた状態にな っ ている。
+            RWY18L: 上記 1) の a)
+            RWY36R: 上記 1) の c)
+       以下のアレステ ィ ングギアが過走帯内に張られた状態に
+       な っ ている。
+            RWY36L: 上記 1) の d)
+            RWY18R: 上記 1) の f)
+(2) ジ ェ ッ ト バリ ア (MEN)
+     MEN が RWY36R 及び RWY18L の過走帯端に設置されてい 
+     る。
+(3) ジ ェ ッ ト バリ ア ( 型式 ： BAK-12/15)
+    BAK-12/15 が RWY36L 及び RWY18R の過走帯端に設置され
+    ている。
+(4) ノ ース及びサウスヘ リパッ ド
+     ノ ースヘ リパッ ド 及びサウスヘ リパッ ドが B TWY 上に設
+　  置されている。
+     ( 飛行場面図 　 参照 )
+3. Other
+(1) Arresting-gear (Type BAK-12)
+1) Location
+Arresting-gears are installed on the RWY as follow. 
+     (See Aerodrome Chart)
+a) 250M(820ft) from RWY36R THR
+b) 877M(2,877ft) from RWY36R THR
+c) 278M(912ft) from RWY18L THR
+d) 20M(65.6ft) from outside RWY36L THR
+e) 589.1M(1,931.5ft) from inside RWY36L THR
+f) 20M(65.6ft) from outside RWY18R THR
+g) 589.1M(1,931.5ft) from inside RWY18R THR
+2) Normal configuration
+The following arresting-gear shall remain in the ready
+     position for the RWY in use.
+RWY18L: paragraph 1) a) above
+RWY36R: paragraph 1) c) above
+The following arresting-gear shall remain in the ready
+     position for the overrun.
+RWY36L: paragraph 1) d) above
+RWY18R: paragraph 1) f) above
+(2) Jet barrier (MEN)
+MENs are located on RWY36R overrun and RWY18L
+overrun end.
+(3) Jet barrier (Type BAK-12/15)
+BAK-12/15s are located on RWY36L overrun and
+RWY18R overrun end.
+(4) North and South Helipad
+North helipad and South helipad are located on B TWY.
+(See Aerodrome Chart)
+Aerodrome/Heliport Chart -1 
+Aerodrome/Heliport Chart -2
+Aerodrome Obstacle Chart - ICAO Type A (RWY18L/36R)
+Aerodrome Obstacle Chart - ICAO Type A (RWY18R/36L)
+Aerodrome Obstacle Chart - ICAO Type B
+Standard Departure Chart - Instrument (NAHA NORTH, LAVON, OLVAL, NAHA SOUTHWEST)
+Standard Departure Chart - Instrument (ESKOB-RNAV)
+Standard Departure Chart - Instrument (KIZNA-RNAV)
+Standard Departure Chart - Instrument (DORIS, GANJU-RNAV)
+Standard Arrival Chart - Instrument (SCUBA, LAVON, LAFTY)
+Standard Arrival Chart - Instrument (IHEYA NORTH, VELNO NORTH-RNAV)
+Standard Arrival Chart - Instrument (RESORT NORTH-RNAV)
+Standard Arrival Chart - Instrument (GUPTI NORTH, ENTOK NORTH-RNAV)
+Standard Arrival Chart - Instrument (IHEYA SOUTH, VELNO SOUTH-RNAV)
+Standard Arrival Chart - Instrument (RESORT SOUTH-RNAV)
+Standard Arrival Chart - Instrument (GUPTI SOUTH, ENTOK SOUTH-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY36R)
+Instrument Approach Chart (ILS Y or LOC Y RWY36R)
+Instrument Approach Chart (ILS X or LOC X RWY36R)
+Instrument Approach Chart (ILS Z or LOC Z RWY36L)
+Instrument Approach Chart (ILS Y or LOC Y RWY36L)
+Instrument Approach Chart (ILS X or LOC X RWY36L)
+Instrument Approach Chart (ILS or LOC RWY18R)
+Instrument Approach Chart (RNP RWY36R)
+Instrument Approach Chart (RNP RWY36L)
+Instrument Approach Chart (RNP RWY18R)
+Instrument Approach Chart (RNP RWY18L)
+Instrument Approach Chart (VOR A or TACAN B)
+Instrument Approach Chart (VOR C)
+Instrument Approach Chart (TACAN D)
+Other Chart (Visual REP)
+Other Chart (MVA CHART)
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+CAB
+ANNUAL  CHANGE 
+1.8' E
+WDI
+E9
+A8 7AA9
+E7 E6
+W4
+W3
+E8S E8
+E10
+36
+W5
+GP
+18
+ARRESTING  GEAR
+PAPI  angle  3.00˚
+MEHT  21.4m (70ft)
+447m  inside  FM  THR RUN  UP
+AREA
+EAST  CHINA  SEA
+JET  BARRIER  AT  OVERRUN
+RUNWAY  GUARD  LIGHTS
+DME
+ARRESTING  GEAR
+SOUTH HELIPAD
+PAR
+A5A6 A4
+NORTH HELIPAD
+B
+3000 × 45m
+WEST  APRON
+B
+TXGS
+LOC
+JET  BARRIER  AT
+  END  OF  OVERRUN
+O  STOP  LINE (OUT)
+I  STOP  LINE (IN)
+NR4  APRON
+NR5  APROND1
+INTL  APRON
+A1
+A2
+ARRESTING  GEAR
+W1
+E2E5
+E4
+E1
+TACAN
+VOR
+N2
+N3
+N1
+Z1
+Z2
+NR6  APR
+ON
+100
+98 99 100L 100R
+101 102 103 104 105 106 107H
+H
+H
+61
+62
+63
+64
+65
+66
+65E
+57D
+63E
+51R
+43L 44R43R 44L
+51L
+5251
+43
+45C 46C
+44 45 46
+36
+35
+34
+33
+32
+31
+25
+24
+26
+27
+23
+22
+21
+11
+12M
+13M
+12
+13
+14
+1615
+CAB  WX OPS
+MET
+INTL
+TERMINAL
+NR3  APRON
+C1C2
+NR2  APRONNR1  APRON
+4  STOP
+3  STOP 2  STOP
+1  STOP
+DOM  TERMINAL
+E9  STOP
+JASDF BOPS
+WDI
+NAHA  AIRPORT
+              ELEV 11ft (3.3m)
+VAR  5˚ W 2008
+AERODROME CHART
+LIGHT AIRCRAFT
+  APRON
+TYPHOON EVACUATION
+APRON
+E2 CLEARING
+E1 CLEARING
+PAPI   angle  3.00˚
+MEHT  21.5m (70ft)
+453m  inside  FM  THR
+4137 42
+CHANGE : Description of HELIPAD.
+CEILOMETER RVR RVR
+CEILOMETER
+TWR
+SEQUENCED FLASHING LIGHTS
+(SFL-V)
+LOC
+612m
+OVERRUN AREA EDGE LGT
+THR LGT
+288m RED
+RED
+GREEN
+T9 T8
+WDI
+T7 T6
+T5 T4 T3
+DME
+GP
+GP HOLD LINE
+RED
+GREEN
+GP HOLD LINE
+LOC
+612m
+OVERRUN AREA EDGE LGT
+288m
+THR LGT
+RED
+WDI
+PAPI angle 3.00°
+461m inside FM THR
+MEHT 21m (68.8ft)
+PAR
+436m inside FM THR
+DME
+GP
+B
+J2 J1
+T1T2
+C
+2700m×60m
+81 R63L
+C
+THR LGT
+GREEN
+300m
+RED
+OVERRUN AREA EDGE LGT
+SEQUENCED FLASHING LIGHTS
+(SFL-V)
+180m
+L
+(E1 ʙ E10 , W1 ʙ W5 , T1ʙT9)
+OVERRUN AREA EDGE LGT
+600m
+SEQUENCED FLASHING LIGHTS (SFL-V)
+300m
+RED THR LGT
+RED
+GREEN
+R
+A3
+ABN
+˒
+36L-18RRUNWAY  GUARD  LIGHTS
+(FLASHING  YELLOW)
+COMMON  WAYS  OF  ITS  MARKING  AND  LIGHTS
+2.1m
+0.5m
+RUNWAY  SIDE
+3m
+TAXIWAY
+RUNWAY  GUARD  LIGHTS
+(FLASHING  YELLOW)
+RED
+STOP BAR LIGHTS
+RUNWAY -HOLDING  POSITION  MARKINGS
+and  STOP  BAR  LIGHTS
+Runway-holding position markings and
+Stop bar lights are located on
+taxiway T1 through T9.
+Runway guard lights are located on
+taxiway T1 through T9:their locations 
+are 75m off the runway centerline.
+CEILOMETER
+RVR
+CEILOMETER
+ 
+RVR
+PAPI angle 3.00°
+MEHT 20.5m (67.2ft)
+JET BARRIER
+AT OVERRUN
+ARRESTING GEAR
+ARRESTING GEAR
+JET BARRIER
+AT OVERRUN
+ARRESTING GEAR
+ARRESTING GEAR
+SEQUENCED FLASHING LIGHTS
+(SFL-V)
+ARP 261136N
+1273823E
+R
+E3
+W2
+W3C
+W3C
+E4C
+W3
+E4
+E4C
+71
+A1 STOP
+NR7  APRON
+D2 72 73 74
+RUNWAY -HOLDING  POSITION  MARKINGS
+and  RUNWAY GUARD  LIGHTS
+18L-36R
+RUNWAY  GUARD  LIGHTS
+(FLASHING  YELLOW)
+COMMON  WAYS  OF  ITS  MARKING  AND  LIGHTS
+1.55m
+RUNWAY  SIDE
+0.15m
+0.9m0.9m
+TAXIWAY
+RUNWAY  GUARD  LIGHTS
+(FLASHING  YELLOW)
+2.1m
+Runway-holding position markings are 
+located taxiway E1 through E10,W1 
+through W5. Runway guard lights are 
+located on taxiway E1 through E10,W1 
+through W5:their locations are 75m off 
+the runway centerline.
+(for taxiway E1 through E10)
+(for taxiway W1 through W5)
+36R-18L
+STOP BAR LIGHTS
+   (T1ʙT9)
+WIND SPEED METER
+WIND SPEED METER
+WIND SPEED METER
+WIND SPEED METER
+RADAR
+SITE
+(EFF:17 APR 2025) 17/4/25
+ROAH AD2.24-ADC-1
+NAHA
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+ AHAN / HAOR AD CHART
+6
+4
+2
+5
+3
+1
+E9
+E9 STOP
+A8 7A9A
+E7 E6
+W4 W3
+E8S
+E8
+E10
+36
+W5
+18
+RUN  UP
+AREA
+A5 4 A6A
+NORTHHELIPAD
+WEST  APRON
+O  STOP  LINE (OUT)
+I  STOP  LINE (IN)
+NR4  APRON
+NR5  APRON
+INTL  APRON
+A1A2
+W1
+E5 E4
+N2
+N3
+N1
+NR6  APRON
+H
+H
+CAB  OPS
+MET INTL
+TERMINAL
+NR3  APRON
+C1C2
+NR2  APRONNR1  APRON
+4  STOP
+3  STOP
+2  STOP
+1  STOP
+DOM  TERMINAL
+Pushback
+Line
+JASDF BOPS
+NAHA  AIRPORT
+             ELEV 11ft (3.3m)
+VAR  5˚ W (2008)
+LIGHT AIRCRAFT
+  APRON
+TYPHOON EVACUATION
+APRON
+E2 CLEARING
+E1 CLEARING
+1009998 100R100L
+101 102
+107
+T1 T2
+A4
+A1
+A2
+44
+46C45C44L44R
+4543
+43L43R
+42
+D1
+D1
+D2
+P2
+D2
+STOP
+41
+34
+33
+32
+31
+25
+24
+26
+27
+23
+22
+2111
+12M
+13M
+12
+13
+14
+16
+15
+C1C2
+1K1M
+2K2M
+N2
+N1
+Z1
+Z2
+61
+62
+63
+63E
+57D
+65E
+64
+65
+66
+8.721SITA 293.0
+Naha Airport
+DLVRY 122.075
+256.0
+121.8(EAST)
+284.6(EAST)
+Naha Delivery
+GND
+118.1(EAST)
+308.6(EAST)
+126.2
+236.6
+Naha Ground
+TWR Naha Tower
+)zHM( ycneuqerFnoitangiseD Call Sign
+L10
+L1 L2 L3 L4
+L11 L12 L13 L14
+L9 L8 L7 L6 L5
+46
+5251L
+51
+51R
+36
+37
+35
+TWR
+121.9(WEST)
+284.4(WEST)
+T8T9 T7 T6 T5 T4 T3
+C-TWYC-TWY
+B-TWY
+B-TWY
+B-TWY
+A3
+A3
+118.75(WEST)
+247.8(WEST)
+ABN
+CAB ˒
+18
+R R
+T2 T1
+J1J2
+J1J2
+103 104 105 106
+L
+E1E2
+R
+36
+L
+E3
+W2
+E4C
+W3
+W3C
+W3C
+E4C
+E4
+STOP
+P1
+71 72 73 74
+A1 STOPNR7  APRON
+A1 STOP
+CHANGE : Description of HELIPAD. 
+SOUTH HELIPAD
+(EFF:17 APR 2025) 17/4/25
+ROAH AD2.24-ADC-2
+NAHA
+
+
+=== Page 37 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SLOPE 1.2%SLOPE 1.2%
+ASPHALT 3000m×45m
+36
+R
+18
+L
+003°→ ←183°
+MAGNETIC VARIATION 6°W - SEP 2025
+ᅜᅵᆅ⌮㝔㛗ᢎㄆ౑⏝5-+V
+NAHA AIRPORT
+RWY : 36R/18L
+DECLARED DISTANCES
+RWY 36R RWY 18L
+3000m TAKE OFF RUN AVAILABLE 3000m
+3000m TAKE OFF DISTANCE AVAILABLE 3000m
+3000m ACCELERATE STOP DISTANCE AVAILABLE 3000m
+3000m LANDING DISTANCE AVAILABLE 3000m
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+!(1 IDENTIFICATION NUMBER
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE RAILROAD
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+H
+H kkkkH
+H H
+H39
+1946
+15 24
+23
+23
+21
+20
+16
+!(2
+!(
+5!(
+1
+!(
+4
+!(
+9
+!(
+8
+!(
+7
+!(
+6
+!(
+3
+!(
+10
+9.1 10 10.3 10.8 10.9 10 11.8 11.9 11.6 10.6 11.2 11.5 11.49 10.9
+Transverse Mercator Projection
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+TYPE A (OPERATING LIMITATIONS)
+AERODROME OBSTACLE CHART-ICAO
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+M
+FT
+75
+50
+25
+0
+200
+150
+100
+50
+VERTICAL
+SCALE
+984313000 12000 11000 10000 9843 13000 120001100010000
+←00→
+!(1
+!(2
+!(3 !(4 !(5 !(6 !(7 !(8
+!(9
+!(10
+100
+200
+100
+200
+10.99
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+500 0 500 1000 1500 2000 2500 3000 m
+HORIZONTAL SCALE
+METRES
+FEET
+(EFF:4 SEP 2025) 4/9/25
+ROAH AD2.24-AOC-1
+NAHA
+CHANGE : Update.
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MAGNETIC VARIATION  6°W - SEP 2025
+ᅜᅵᆅ⌮㝔㛗ᢎㄆ౑⏝5-+V
+H
+H
+H
+29
+26 26 !(13
+!(11 !(12
+NAHA AIRPORT
+RWY : 36L/18R
+DECLARED DISTANCES
+RWY 36L RWY 18R
+2700m TAKE OFF RUN AVAILABLE 2700m
+2700m TAKE OFF DISTANCE AVAILABLE 2700m
+2700m ACCELERATE STOP DISTANCE AVAILABLE 2700m
+2700m LANDING DISTANCE AVAILABLE 2700m
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+!(1 IDENTIFICATION NUMBER
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE RAILROAD
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+TYPE A (OPERATING LIMITATIONS)
+AERODROME OBSTACLE CHART-ICAO
+Transverse Mercator Projection
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+18
+R
+36
+L 2700m×60mASPHALT
+←183°003°→ 16.314
+14 16.314 12.3 12.3
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+METRES
+FEET
+HORIZONTAL SCALE
+1 0 0 0 0 1 0 0 02 0 0 03 0 0 04 0 0 05 0 0 06 0 0 07 0 0 08 0 0 09 0 0 0 f t
+500 0 500 1000 1500 2000 2500 3000 m
+VERTICAL
+SCALE
+50
+100
+150
+200
+0
+25
+50
+75
+FT
+M
+SLOPE 1.2% SLOPE 1.2%
+←0
+8858
+100
+200
+110009000 10000 12000
+0→
+8858
+100
+200
+12000 11000 10000 9000
+!(13!(11
+!(12
+(EFF:4 SEP 2025)
+ROAH AD2.24-AOC-2
+NAHA
+CHANGE : Update.
+4/9/25
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+Ñ(
+H
+H
+kkkk
+H
+H
+H
+H
+H
+H
+H
+Hk k
+H
+k
+H H
+k
+k
+k
+H H
+kk
+H
+k
+k
+H
+H k
+H
+H
+H
+k
+k k
+H
+k k
+k
+kHk
+k
+H
+k
+H H
+kH
+k
+H
+k
+H
+H
+H H
+kH
+H
+H
+H
+H
+H
+H
+H
+k
+kk
+k
+k
+k
+kkkk
+kk HH
+H
+k
+H k
+Hk
+H
+H
+H k
+k
+H
+H
+k
+H
+H
+H
+H
+H
+k k
+k
+H
+k
+k
+H
+HH
+H
+k k
+HH
+H
+HH H H
+H
+k
+k
+k
+k
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+k
+k
+k k
+k
+k
+k
+k
+H
+H
+kkk
+APPROACH SURFACE
+ SLOPE 1:50
+APPROACH SURFACE
+ SLOPE 1:50
+TRANSITIONAL SURFACE
+ SLOPE 1:7
+TRANSITIONAL SURFACE
+ SLOPE 1:7
+TAKE-OFF FLIGHT PATH
+ SLOPE 1.2%
+TAKE-OFF FLIGHT PATH
+ SLOPE 1.2%
+APPROACH SURFACE
+ SLOPE 1:50
+TAKE-OFF FLIGHT PATH
+ SLOPE 1.2%
+TRANSITIONAL SURFACE
+ SLOPE 1:7
+TRANSITIONAL SURFACE
+ SLOPE 1:7
+TAKE-OFF FLIGHT PATH
+ SLOPE 1.2%
+APPROAC
+H SU
+RFACE
+ SLOPE 1:50
+ASPHALT
+ASPHA
+LT
+2700m
+ × 60m
+36
+L
+3000m × 45
+m
+36
+R
+18
+R
+18
+L
+HORIZONTAL SURFACE
+ARP
+CONICAL SURFACE
+SLOPE 1:50
+00
+3°→
+003°→
+←183
+°
+←1
+83°
+SENAGAJIMA
+ISLAND
+TOMIGUSUKU CITY
+KOKUBA RIVER
+NAHA CITY
+NAHA PORT
+OKINAWA PREFECTURAL OFFICE
+NAT
+IONAL 
+ROUTE 
+58
+TOMARI PORT
+14
+16.3
+10.9
+9
+16
+20
+2123
+2324
+15
+46
+19
+26
+29
+39
+26
+269
+251 314
+295
+406
+329350
+218
+379
+230
+307
+264
+306
+328
+335
+304
+201
+318 333
+276
+255
+252
+189
+228245
+234
+199
+237
+339
+295
+197
+64
+7383
+202 188184
+185
+199192
+167
+233
+165
+239
+183
+185
+177
+167
+169
+264
+179
+204
+211173
+199
+179
+161
+159
+217
+212
+174
+165
+208
+184
+171
+184
+328
+167
+191
+191
+202
+221
+162
+85
+89
+64
+310
+303
+207
+334
+260
+369
+353
+308
+295
+363
+353
+211
+274
+307
+311 296
+271267
+207185 206
+236233
+198
+203
+260
+275
+286
+263
+264
+203
+237
+177
+184
+167 160
+196
+175
+177
+186 210
+178
+172
+179
+212169
+175
+225
+234
+192 181173 198
+185
+164
+175
+197
+254
+178
+165
+185
+224
+100
+100
+1
+0 0
+100
+100
+100
+100
+100
+100
+200
+300
+100
+200
+100
+100
+200
+100
+100
+100
+200
+100
+100
+200
+1
+00
+100
+100
+100
+100
+300
+100
+100
+200
+100
+100
+200
+100
+100
+127°42'E
+127°42'E
+127°41'E
+127°41'E
+127°40'E
+127°40'E
+127°39'E
+127°39'E
+127°38'E
+127°38'E
+127°37'E
+127°37'E
+26°14'N 26°14'N
+26°13'N 26°13'N
+26°12'N 26°12'N
+26°11'N 26°11'N
+26°10'N 26°10'N
+26°9'N 26°9'N
+26°8'N 26°8'N
+㕲㐨㸧
+AERODROME OBSTACLE CHART-ICAO
+TYPE B
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+AERODROME ELEVATION 11ft ARP
+0
+330
+300
+270
+24
+0
+210
+180
+150
+120
+90
+60
+30
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330 VAR 6°W 
+SEP 2025
+ANNUAL CHANGE 3′W
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+A
+AERODROME REFERENCE POINT
+26 ° 11 ‘ 36 “ N 127 ° 38 ‘ 23 “ E
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE RAILROAD
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+METRES
+FEET
+HORIZONTAL SCALE
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+500 0 500 1000 1500 2000 2500 3000 m
+p
+(EFF:4 SEP 2025) 4/9/25
+ROAH AD2.24-AOC-3
+NAHA
+CHANGE : Update.
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+ROAH/ NAHA SID
+NAHA NORTH FOUR DEPARTURE
+LAVON ONE DEPARTURE
+RWY18L/18R: (Not established)
+RWY36R : Climb RWY HDG to NHC 2.4DME,...
+RWY36L  : Climb RWY HDG to 500FT,...
+               䚷...turn left, via NHC R341 to EISAR.
+RWY18L : Climb RWY HDG to NHC 4.7DME, turn right, via NHC R196... 
+RWY18R : Climb RWY HDG to 600FT, turn right, via NHC R211...
+                   ... to intercept and proceed via NHC 15.0DME clockwise ARC to LAVON.
+RWY36R : Climb RWY HDG to NHC 2.4DME, turn left, via NHC R341...
+RWY36L  : Climb RWY HDG to 500FT, turn  left, via NHC R308...
+               䚷...to intercept and proceed via NHC 15.0DME counterclockwise ARC to LAVON.
+Note RWY36R/ 36L: 5.0% climb gradient required up to 500FT.
+Note RWY36R/ 36L: 5.0% climb gradient required up to 500FT.
+OLVAL ONE DEPARTURE
+RWY18L : Climb RWY HDG to NHC 4.7DME, turn right, via NHC R196... 
+RWY18R : Climb RWY HDG to 600FT, turn right, via NHC R211...
+                   ... to intercept and proceed via NHC 15.0DME clockwise ARC to OLVAL.
+RWY36R : Climb RWY HDG to NHC 2.4DME, turn left, via NHC R341...
+RWY36L  : Climb RWY HDG to 500FT, turn left, via NHC R308...
+               䚷...to intercept and proceed via NHC 15.0DME counterclockwise ARC to OLVAL..
+Note RWY36R/36L: 5.0% climb gradient required up to 500FT.
+NAHA SOUTHWEST FOUR DEPARTURE
+SCUBA TRANSITION
+From over EISAR, via NHC R341 to 24.1DME, turn right to intercept NHC R344 to SCUBA.
+Cross SCUBA at or above 4000FT.
+RWY18L : Climb RWY HDG to NHC 4.7DME,... 
+RWY18R : Climb RWY HDG to 500FT,...
+                   ... turn right, via NHC R196 to LAFTY.
+RWY36R/36L: (Not established)
+CHANGE:New PROC
+(EFF:26 MAR 2020) 27/2/20
+ROAH AD2.24-SID-1
+NAHA
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP JapanROAH AD2.24-SID-2
+STANDARD DEPARTURE CHART-INSTRUMENT
+ROAH/NAHA SID
+D4.7 NHC
+500
+D2.4 NHC
+EISAR
+D18.0 NHC
+D24.1 NHC
+SCUBA
+D41.0 NHC
+4000
+LAVON
+D15.0 NHC
+OLVAL
+D15.0 NHC
+LAFTY
+D30.1 NHC
+NAHA NORTH FOUR 
+DEPARTURE
+SCUBA TRANSITION
+LAVON ONE 
+DEPARTURE
+OLVAL ONE 
+DEPARTURE NAHA SOUTHWEST 
+FOUR DEPARTURE
+500 for NAHA SOUTHWEST FOUR DEPARTURE
+600 for LAV ON ONE DEP ARTURE
+  OLVAL ONE DEPARTURE
+CHANGE:New PROC
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+26˚12´31˝N/127˚38´34˝E
+344°
+341°
+341°
+R344
+R341
+308°
+R308
+R266
+R241
+R211
+R196
+196°
+211°
+196°
+NAHA
+(EFF:26 MAR 2020) 27/2/20
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+ROAH/NAHA RNAV SID
+ESKOB THREE DEPARTURE RNP1
+Note GNSS required.
+    RWY18L : Climb on HDG183° at or above 500FT, direct to KYANN, to AH801, to ESKOB.
+    RWY18R : Climb on HDG183° at or above 500FT, direct to KYANN, to AH801, to ESKOB.
+                   
+                   
+ESKOB
+261009.5N
+1275727.6E
+500
+183°
+KYANN
+260029.7N
+1273916.8E
+AH801
+260041.6N
+1274429.6E
+003°
+003°500 500
+183°
+500
+KIZNA
+262612.8N
+1273141.7E
+GELMA
+262037.9N
+1272431.2E
+OLVAL
+260411.0N
+1272441.3E
+VAR 6°W 
+  
+H6R00
+261455.3N
+1273836.2E TACAN
+CHINEN
+1176   TIT
+500FT
+CH–89X
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+235
+˃8.5
+581
+˃5.61
+084˃
+30.0
+093˃
+4.7
+056
+˃15.0
+    RWY36R : Climb on HDG003° at or above 500FT, direct to H6R00, turn left direct to KIZNA, to GELMA,
+to OLVAL, to ESKOB.
+    RWY36L : Climb on HDG003° at or above 500FT, turn left direct to KIZNA, to GELMA, to OLVAL, to ESKOB.
+NOTE RWY36R/36L : 5.0ˋ climb gradient required up tp 500FT.
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-SID-3
+NAHA
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAHA
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY18L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 183
+(177.6) -5.6 - - +500 - - RNP1
+002 DF KYANN -- - 5 . 6- - - - - RNP1
+003 TF AH801 - 093
+(087.6) -5.6 4.7 - - - - RNP1
+004 TF ESKOB - 056
+(050.9) -5.6 15.0 - - - - RNP1
+RWY18R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 183
+(177.6) -5.6 - - +500 - - RNP1
+002 DF KYANN -- - 5 . 6- - - - - RNP1
+003 TF AH801 - 093
+(087.6) -5.6 4.7 - - - - RNP1
+004 TF ESKOB - 056
+(050.9) -5.6 15.0 - - - - RNP1
+RWY36R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF H6R00 Y- - 5 . 6 - - - - - RNP1
+003 DF KIZNA -- - 5 . 6- L - - - RNP1
+004 TF GELMA - 235
+(229.0) -5.6 8.5 - - - - RNP1
+005 TF OLVAL - 185
+(179.5) -5.6 16.5 - - - - RNP1
+006 TF ESKOB - 084
+(078.4) -5.6 30.0 - - - - RNP1
+RWY36L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF KIZNA -- - 5 . 6- L - - - RNP1
+003 TF GELMA - 235
+(229.0) -5.6 8.5 - - - - RNP1
+004 TF OLVAL - 185
+(179.5) -5.6 16.5 - - - - RNP1
+005 TF ESKOB - 084
+(078.4) -5.6 30.0 - - - - RNP1
+ROAH/ NAHA RNAV SID
+ESKOB THREE DEPARTURE
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+ROAH AD2.24-SID-4
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan ROAH AD2.24-SID-5
+STANDARD DEPARTURE CHART-INSTRUMENT
+ROAH/NAHA RNAV TRANSITION
+AMAMI TRANSITION / CHERY TRANSITION / YANBARU TRANSITION RNP1
+ESKOB
+261009.5N
+1275727.6E
+VAR 6°W 
+ADDAN
+264110.0N
+1281829.4E
+CHERY
+265556.4N
+1283918.1E
+CHERY TRANSITION
+AMAMI TRANSITION
+YANBARU TRANSITION
+AMAMI
+282637.2N
+1293502.6E
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+TACAN
+CHINEN
+1176   TIT
+500FT
+CH–89X
+034°103.3
+057°
+23.7
+037°36.3
+AMAMI TRANSITION 
+From ESKOB, to ADDAN, to CHERY, to AMAMI. 
+CHERY TRANSITION 
+From ESKOB, to ADDAN, to CHERY. 
+YANBARU TRANSITION 
+From ESKOB, to ADDAN. 
+Note GNSS required.
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+NAHA
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAHA
+STANDARD DEPARTURE CHART-INSTRUMENT
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ESKOB - - -5.6 - - - - - RNP1
+002 TF ADDAN - 037
+(031.2) -5.6 36.3 - - - - RNP1
+003 TF CHERY - 057
+(051.4) -5.6 23.7 - - - - RNP1
+004 TF AMAMI - 034
+(028.3) -5.6 103.3 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ESKOB - - -5.6 - - - - - RNP1
+002 TF ADDAN - 037
+(031.2) -5.6 36.3 - - - - RNP1
+003 TF CHERY - 057
+(051.4) -5.6 23.7 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ESKOB - - -5.6 - - - - - RNP1
+002 TF ADDAN - 037
+(031.2) -5.6 36.3 - - - - RNP1
+ROAH / NAHA RNAV TRANSITION
+AMAMI TRANSITION
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+YANBARU TRANSITION
+CHERY TRANSITION
+ROAH AD2.24-SID-6
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+ROAH/NAHA RNAV SID and TRANSITION
+KIZNA TWO DEPARTURE
+RESORT TRANSITION
+KIZNA TWO DEPARTURE
+           RWY18L/18R: (Not established)
+           RWY36R Climb on HDG003° at or above 500FT, direct to H6R00, turn left direct to KIZNA .
+           RWY36L Climb on HDG003° at or above 500FT, turn left direct to KIZNA .
+           NOTE RWY36R/36L 5.0% climb gradient required up to 500FT.
+500
+VAR 6°W 
+KIZNA TWO DEPARTURE
+RESORT TRANSITION
+From KIZNA, to OKUMA.
+003° 500003°
+H6R00
+261455.3N
+1273836.2E
+KIZNA
+262612.8N
+1273141.7E
+OKUMA
+264017.0N
+1280219.1E
+RESORT TRANSITION
+068˃30.8
+TACAN
+CHINEN
+1176    TIT
+CH–89X
+500FT
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+Note GNSS required.
+RNP1
+ÛÝ1ÛÝ( ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-SID-7
+NAHA
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP JapanROAH AD2.24-SID-8
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY36R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF H6R00 Y- - 5 . 6 - - - - - RNP1
+003 DF KIZNA -- - 5 . 6- L - - - RNP1
+RWY36L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF KIZNA -- - 5 . 6- L - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KIZNA - - -5.6 - - - - - RNP1
+002 TF OKUMA - 068
+(062.7) -5.6 30.8 - - - - RNP1
+ROAH/ NAHA RNAV SID and TRANSITION
+KIZNA TWO DEPARTURE
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+RESORT TRANSITION
+NAHA
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 49 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAHA
+STANDARD DEPARTURE CHART-INSTRUMENT
+ROAH/NAHA RNAV TRANSITION
+KUROUSA TRANSITION
+CHAMP TRANSITION
+YUGAF TRANSITION
+KUROUSA TRANSITION
+From KIZNA, to SCUBA, to TESLA, to CHAMP, to AMAMI.
+CHAMP TRANSITION
+From KIZNA, to SCUBA, to TESLA, to CHAMP.
+YUGAF TRANSITION
+From KIZNA, to VOLVO, to YUGAF, to AMAMI.
+KIZNA
+262612.8N
+1273141.7E
+VAR 6°W 
+YUGAF TRANSITION
+CHAMP TRANSITION
+AMAMI
+282637.2N
+1293502.6E
+SCUBA
+265049.7N
+1272216.6E
+TESLA
+271235.8N
+1274245.8E
+CHAMP
+275507.1N
+1283205.1E
+VOLVO
+271143.7N
+1275039.6E
+YUGAF
+272752.5N
+1280918.8E
+KUROUSA TRANSITION
+63.9
+066°
+95.9057°
+051°051°61.0
+23.2
+28.4
+48.6
+045°
+026°
+347°26.0
+Note GNSS required.
+RNP1
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+ROAH AD2.24-SID-9
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 50 ===
+Civil Aviation Bureau,Japan
+AIP JapanROAH AD2.24-SID-10
+STANDARD DEPARTURE CHART-INSTRUMENT
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KIZNA - - -5.6 - - - - - RNP1
+002 TF SCUBA - 347
+(341.2) -5.6 26.0 - - - - RNP1
+003 TF TESLA - 045
+(039.9) -5.6 28.4 - - - - RNP1
+004 TF CHAMP - 051
+(045.6) -5.6 61.0 - - - - RNP1
+005 TF AMAMI - 066
+(060.2) -5.6 63.9 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KIZNA - - -5.6 - - - - - RNP1
+002 TF SCUBA - 347
+(341.2) -5.6 26.0 - - - - RNP1
+003 TF TESLA - 045
+(039.9) -5.6 28.4 - - - - RNP1
+004 TF CHAMP - 051
+(045.6) -5.6 61.0 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KIZNA - - -5.6 - - - - - RNP1
+002 TF VOLVO - 026
+(020.3) -5.6 48.6 - - - - RNP1
+003 TF YUGAF - 051
+(045.7) -5.6 23.2 - - - - RNP1
+004 TF AMAMI - 057
+(051.9) -5.6 95.9 - - - - RNP1
+ROAH / NAHA RNAV TRANSITION
+KUROUSA TRANSITION
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+YUGAF TRANSITION
+CHAMP TRANSITION
+NAHA
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 51 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+500
+500
+500
+500
+  14.3
+䢢䢢䢢
+236°
+  18.3
+䢢䢢䢢
+230°
+  28.5
+䢢䢢䢢
+243°
+  25.6䢢䢢䢢
+269°
+  36.0䢢䢢䢢
+282°
+  48.6䢢䢢䢢
+284°
+  8.5
+䢢䢢䢢
+235°
+VORTAC
+NHC
+100FT
+NAHA
+116.5   NHC
+CH-112X䢢䢢䢢䢢䢢䢢䢢
+26°12'31"N/127°38'34"E
+VORTAC
+KXC
+100FT
+KUMEJIMA
+116.7   KXC
+CH-114X䢢䢢䢢䢢䢢䢢䢢
+26°22'19"N/126°43'19"E
+  GANJU
+䢢䢢255220.0N
+1264324.0E
+  DORIS
+䢢䢢260430.5N
+1264153.3E   H8L00
+䢢䢢260745.9N
+1273856.3E
+  KARII
+䢢䢢254841.4N
+1272309.1E
+  VIGER
+䢢䢢255743.9N
+1273526.9E
+  TINTO
+䢢䢢260732.7N
+1271013.2E
+  KIZNA
+䢢䢢262612.8N
+1273141.7E
+  H6R00
+䢢䢢261455.3N
+1273836.2E
+  GELMA
+䢢䢢262037.9N
+1272431.2E
+䢳䢺䢵䤑
+䢲䢲䢵䤑䢢
+䢢
+䢲䢲䢵䤑䢢
+䢳䢺䢵䤑䢢
+䢢
+䢢
+䢳䢴䢹䤑䢶䢲䢩䣇䢳䢴䢹䤑䢴䢲䢩䣇䢳䢴䢹䤑䢲䢩䣇䢳䢴䢸䤑䢶䢲䢩䣇
+䢴䢸䤑䢴䢲䢩䣐
+䢴䢸䤑䢲䢩䣐
+VAR 6°W
+CHANGE : Navigation Specification(Basic RNP1 → RNP1).
+ROAH / NAHA RNAV SID
+DORIS TWO DEPARTURE / GANJU TWO DEPARTURE RNP1
+     Note GNSS required.
+DORIS TWO DEPARTURE
+RWY18L : Climb on HDG183° at or above 500FT, direct to H8L00, turn right direct to VIGER, to DORIS.
+RWY18R : Climb on HDG183° at or above 500FT, turn right direct to VIGER, to DORIS.
+RWY36R : Climb on HDG003° at or above 500FT, direct  to H6R00, turn left dire ct to KIZNA, to GELMA, 
+                  to TINTO, to DORIS.
+RWY36L : Climb on HDG003° at or above 500FT, turn  left direct to KIZNA, to GELMA, to TINTO,
+                  to DORIS.
+Note RWY36R/36L : 5.0% climb gradient required up to 500FT.
+ Contour 
+Intervals
+ AD elev.11
+4000
+3000
+2000
+1000
+GANJU TWO DEPARTURE
+RWY18L : Climb on HDG183° at or above 500FT, direct to H8L00, turn right dire ct to VIGER, to KARII,
+                  to GANJU.
+RWY18R : Climb on HDG183° at or above 500FT, tu rn right direct to VIGER, to KARII, to GANJU.
+RWY36R : Climb on HDG003° at or above 500FT, direct  to H6R00, turn left dire ct to KIZNA, to GELMA,
+                  to TINTO, to GANJU.
+RWY36L : Climb on HDG003° at or above 500FT, turn left direct to KIZNA, to GELMA, to TINTO, 
+                  to GANJU.
+Note RWY36R/36L : 5.0% climb gradient required up to 500FT.
+202468 1 0 1 2
+NM
+5 0 5 10 15 20
+KM
+䣆䣑䣔䣋䣕䢢䣖䣙䣑䢢䣆䣇䣒䣃䣔䣖䣗䣔䣇
+䣉䣃䣐䣌䣗䢢䣖䣙䣑䢢䣆䣇䣒䣃䣔䣖䣗䣔䣇
+䢯
+䢯
+䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢
+䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢
+䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢
+䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢䢢
+䢯
+䢯
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-SID-11
+NAHA
+
+
+=== Page 52 ===
+Civil Aviation Bureau,Japan
+AIP JapanROAH AD2.24-SID-12
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY18L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 183
+(177.6) -5.6 - - +500 - - RNP1
+002 DF H8L00 Y - -5.6 - - - - - RNP1
+003 DF VIGER - - -5.6 - R - - - RNP1
+004 TF DORIS - 284
+(278.2) -5.6 48.6 - - - - RNP1
+RWY18R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 183
+(177.6) -5.6 - - +500 - - RNP1
+002 DF VIGER - - -5.6 - R - - - RNP1
+003 TF DORIS - 284
+(278.2) -5.6 48.6 - - - - RNP1
+RWY36R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF H6R00 Y - -5.6 - - - - - RNP1
+003 DF KIZNA - - -5.6 - L - - - RNP1
+004 TF GELMA - 235
+(229.0) -5.6 8.5 - - - - RNP1
+005 TF TINTO - 230
+(224.5) -5.6 18.3 - - - - RNP1
+006 TF DORIS - 269
+(263.3) -5.6 25.6 - - - - RNP1
+RWY36L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF KIZNA - - -5.6 - L - - - RNP1
+003 TF GELMA - 235
+(229.0) -5.6 8.5 - - - - RNP1
+004 TF TINTO - 230
+(224.5) -5.6 18.3 - - - - RNP1
+005 TF DORIS - 269
+(263.3) -5.6 25.6 - - - - RNP1
+ROAH / NAHA RNAV SID
+DORIS TWO DEPARTURE
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+NAHA
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 53 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAHA
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY18L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 183
+(177.6) -5.6 - - +500 - - RNP1
+002 DF H8L00 Y - -5.6 - - - - - RNP1
+003 DF VIGER - - -5.6 - R - - - RNP1
+004 TF KARII - 236
+(230.8) -5.6 14.3 - - - - RNP1
+005 TF GANJU - 282
+(276.0) -5.6 36.0 - - - - RNP1
+RWY18R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 183
+(177.6) -5.6 - - +500 - - RNP1
+002 DF VIGER - - -5.6 - R - - - RNP1
+003 TF KARII - 236
+(230.8) -5.6 14.3 - - - - RNP1
+004 TF GANJU - 282
+(276.0) -5.6 36.0 - - - - RNP1
+RWY36R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF H6R00 Y - -5.6 - - - - - RNP1
+003 DF KIZNA - - -5.6 - L - - - RNP1
+004 TF GELMA - 235
+(229.0) -5.6 8.5 - - - - RNP1
+005 TF TINTO - 230
+(224.5) -5.6 18.3 - - - - RNP1
+006 TF GANJU - 243
+(237.8) -5.6 28.5 - - - - RNP1
+RWY36L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 003
+(357.6) -5.6 - - +500 - - RNP1
+002 DF KIZNA - - -5.6 - L - - - RNP1
+003 TF GELMA - 235
+(229.0) -5.6 8.5 - - - - RNP1
+004 TF TINTO - 230
+(224.5) -5.6 18.3 - - - - RNP1
+005 TF GANJU - 243
+(237.8) -5.6 28.5 - - - - RNP1
+ROAH / NAHA RNAV SID
+GANJU TWO DEPARTURE
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+ROAH AD2.24-SID-13
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 54 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+ROAH/NAHA STAR
+SCUBA ARRIVAL
+From over SCUBA, via NHC R344 to 28.1 DME, turn right to intercept and proceed 
+via NHC R341 to EISAR.
+Cross NHC R344/28.1DME at or above 3000FT, cross EISAR at or above 2000FT.
+LAFTY ARRIVAL
+From over LAFTY, via NHC R196 to VIGER.
+Cross VIGER at or above 2000FT.
+LAVON ARRIVAL
+From over LAVON, via NHC 15.0DME counterclockwise ARC to VIGER.
+Cross VIGER at or above 2000FT.
+(When using NHC TACAN only)
+From over LAVON at or above 5000FT, via NHC 15.0DME counterclockwise ARC to
+VIGER.
+Cross VIGER at or above 4400FT.
+CHANGE: New PROC
+(When using NHC TACAN only)
+From over LAFTY , via NHC R196 to VIGER.
+Cross VIGER at or above 4400FT .
+(EFF:26 MAR 2020) 27/2/20
+ROAH AD2.24-STAR-1
+NAHA
+
+
+=== Page 55 ===
+Civil Aviation Bureau,Japan
+AIP JapanROAH AD2.24-STAR-2
+STANDARD ARRIVAL CHART-INSTRUMENT
+ROAH/NAHA STAR
+SCUBA
+D41.0 NHC
+LAFTY
+D30.1 NHC
+D28.1 NHC
+3000
+EISAR
+D18.0 NHC
+VIGER
+D15.0 NHC
+LAFTY ARRIVAL
+SCUBA ARRIVAL
+2000
+2000
+4400 (When using NHC TACAN only)
+LAVON
+D15.0 NHC
+LAVON ARRIVAL
+R344
+161
+˃
+R341
+R266
+R196
+016
+˃
+MAX240KIAS
+MHA 4000
+D50.0 NHC
+MAX240KIAS
+MHA 3000
+D40.0 NHC
+5000 (When using NHC TACAN only)
+016
+˃
+196
+˃
+CHANGE: New PROC
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+26˚12´31˝N/127˚38´34˝E
+164
+˃
+344
+˃
+164
+˃
+NAHA
+(EFF:26 MAR 2020) 27/2/20
+
+
+=== Page 56 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+81YWR RATS VANRAHAN/HAOR
+IHEYA NORTH ARRIVAL 
+VELNO NORTH ARRIVAL
+Note GNSS required.
+FOCUS
+264032.0N
+1274243.4E
+4000
+KUKUL
+262952.0N
+1273641.6E
+2000
+THETA
+262020.0N
+1273159.3E
+2000
+IHEYA
+270040.2N
+1275409.8E
+IHEYA NORTH ARRIVAL
+VELNO NORTH ARRIVAL
+VELNO
+255347.3N
+1271833.8E
+VAR 6°W 
+MAX240KIAS
+MHA 8000
+D36.0 NHC
+VELNO
+D26.0 NHC
+NHC 
+VORTAC229
+˃
+049
+˃
+TACAN
+CHINEN
+1176    TIT
+CH–89X
+500FT
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+213
+˃
+22.
+6
+212
+˃
+12.
+0
+030
+˃
+29.2
+R229
+Using NAVAID
+RNP1
+RNAV HLDG
+065
+˃
+245
+˃
+IHEYAMHA 8000FT
+MAX 230KIAS(at or below FL140)
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 240KIAS(above FL140 / at or below FL200)
+MAX 265KIAS(above FL200)
+NOT TO SCALE
+NOT TO SCALE
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-STAR-3
+NAHA
+
+
+=== Page 57 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAHA
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From IHEYA, to FOCUS at or above 4000FT, to KUKUL at or above 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF IHEYA -- - 5 . 6 - - - - - RNP1
+002 TF FOCUS - 213
+(206.9) -5.6 22.6 - +4000 - - RNP1
+003 TF KUKUL - 212
+(206.8) -5.6 12.0 - +2000 - - RNP1
+Path Waypoint
+Identifier
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Turn
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Navigation
+Specification
+Hold IHEYA -5.8 1.0 (-14000)
+1.5 (+14001) R 8000 - RNP1
+ From VELNO, to THETA at or above 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF VELNO -- - 5 . 6 - - - - - RNP1
+002 TF THETA - 030
+(024.4) -5.6 29.2 - +2000 - - RNP1
+ROAH / NAHA RNAV STAR RWY18
+IHEYA NORTH ARRIVAL
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+VELNO NORTH ARRIVAL
+Inbound
+Course
+°M(°T)
+245
+(239.1)
+Speed
+(KIAS)
+-230 (-14000)
+-240 (14001-20000)
+-265 (+20001)
+ROAH AD2.24-STAR-4
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 58 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+ROAH/NAHA RNAV STAR RWY18
+RESORT NORTH ARRIVAL
+OKUMA
+264017.0N
+1280219.1E
+Note 1) GNSS required.
+         2) CDO only.
+CLIFF
+263312.5N
+1274453.2E
+2700
+KUKUL
+262952.0N
+1273641.6E
+2000
+VAR 6°W 
+251˃8.1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF OKUMA - - -5.6 - - - - -
+002 TF CLIFF - 251
+(245.7) -5.6 17.1 - +2700 - -
+003 TF KUKUL - 251
+(245.5) -5.6 8.1 - +2000 - -
+From OKUMA, to CLIFF at or above 2700FT, to KUKUL at or above 2000FT.
+TACAN
+CHINEN
+1176    TIT
+CH–89X
+ÛÝ1ÛÝ(
+500FT
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+ÛÝ1ÛÝ(
+042˚
+222˚
+R042
+NHC
+VORTAC
+OKUMA
+D35.0 NHC
+MHA 5000
+MAX 250KIAS
+D45.0 NHC
+251˃17.1
+Using NAVAID
+RNP1
+RNP1
+RNP1
+RNP1
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-STAR-5
+NAHA
+
+
+=== Page 59 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+81YWR RATS VANRAHAN/HAOR
+GUPTI NORTH ARRIVAL 
+ENTOK NORTH ARRIVAL RNP1
+Note 1) GNSS required.  2) CDO only.
+ENTOK
+261914.3N
+1245953.8E
+FL170
+YEEZY
+262018.1N
+1265032.5E
+2100
+KUKUL
+262952.0N
+1273641.6E
+2000
+THETA
+262020.0N
+1273159.3E
+2000
+GUPTI NORTH ARRIVAL
+095˃
+37.2
+ENTOK NORTH ARRIVAL
+VAR 6°W 
+IHEYA
+270040.2N
+1275409.8E
+GUPTI
+290124.5N
+1280918.7E
+FL200
+192
+˃
+121.
+6
+213
+˃
+34.6
+095˃
+99.2
+TACAN
+CHINEN
+1176    TIT
+CH–89X
+500FT
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-STAR-6
+NAHA
+
+
+=== Page 60 ===
+Civil Aviation Bureau,Japan
+AIP Japan ROAH AD2.24-STAR-7
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From GUPTI at or above FL200, to IHEYA, to KUKUL at or above 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF GUPTI -- - 5 . 6 - - +FL200 - - RNP1
+002 TF IHEYA - 192
+(186.4) -5.6 121.6 - - - - RNP1
+003 TF KUKUL - 213
+(206.9) -5.6 34.6 - +2000 - - RNP1
+ From ENTOK at or above FL170, to YEEZY at or above 2100FT, to THETA at or above
+ 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ENTOK -- - 5 . 6 - - +FL170 - - RNP1
+002 TF YEEZY - 095
+(089.0) -5.6 99.2 - +2100 - - RNP1
+003 TF THETA - 095
+(089.8) -5.6 37.2 - +2000 - - RNP1
+ROAH / NAHA RNAV STAR RWY18
+GUPTI NORTH ARRIVAL
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+ENTOK NORTH ARRIVAL
+NAHA
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 61 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+63YWR RATS VANRAHAN/HAOR
+IHEYA SOUTH ARRIVAL 
+VELNO SOUTH ARRIVAL
+Note GNSS required.
+IHEYA
+270040.2N
+1275409.8E
+VELNO
+255347.3N
+1271833.8E
+VELNO SOUTH ARRIVAL
+184
+˃1.73
+210
+˃
+22.6
+081˃
+15.7
+HASSA
+262334.1N
+1275516.0E
+11000
+SEIFA
+260303.9N
+1274448.5E
+2000
+VIGER
+255743.9N
+1273526.9E
+2000
+VAR 6°W 
+MAX240KIAS
+MHA 8000
+D36.0 NHC
+VELNO
+D26.0 NHC
+NHC 
+VORTAC229
+˃
+049
+˃
+R229
+TACAN
+CHINEN
+1176    TIT
+CH–89X
+500FT
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+Using NAVAID
+RNP1
+IHEYA SOUTH ARRIVAL
+RNAV HLDG
+065
+˃
+245
+˃
+IHEYAMHA 8000FT
+MAX 230KIAS(at or below FL140)
+1MIN(at or below FL140)
+1.5MIN(above FL140)
+MAX 240KIAS(above FL140 / at or below FL200)
+MAX 265KIAS(above FL200)
+NOT TO SCALE
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-STAR-8
+NAHA
+
+
+=== Page 62 ===
+Civil Aviation Bureau,Japan
+AIP Japan ROAH AD2.24-STAR-9
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From IHEYA, to HASSA at or above 11000FT, to SEIFA at or above 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF IHEYA -- - 5 . 6 - - - - - RNP1
+002 TF HASSA - 184
+(178.5) -5.6 37.1 - +11000 - - RNP1
+003 TF SEIFA - 210
+(204.6) -5.6 22.6 - +2000 - - RNP1
+Path Waypoint
+Identifier
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Turn
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Navigation
+Specification
+Hold IHEYA -5.8 1.0 (-14000)
+1.5 (+14001) R 8000 - RNP1
+ From VELNO, to VIGER at or above 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF VELNO -- - 5 . 6 - - - - - RNP1
+002 TF VIGER - 081
+(075.4) -5.6 15.7 - +2000 - - RNP1
+ROAH / NAHA RNAV STAR RWY36
+IHEYA SOUTH ARRIVAL
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+VELNO SOUTH ARRIVAL
+Inbound
+Course
+°M(°T)
+245
+(239.1)
+Speed
+(KIAS)
+-230 (-14000)
+-240 (14001-20000)
+-265 (+20001)
+NAHA
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 63 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+ROAH/NAHA RNAV STAR RWY36
+RESORT SOUTH ARRIVAL
+OKUMA
+264017.0N
+1280219.1E
+Note 1) GNSS required.
+         2) CDO only.
+HASSA
+262334.1N
+1275516.0E
+11000
+SEIFA
+260303.9N
+1274448.5E
+2000
+206
+˃
+17.9
+210
+˃
+22.6
+VAR 6°W 
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF OKUMA - - -5.6 - - - - -
+002 TF HASSA - 206
+(200.7) -5.6 17.9 - +11000 - -
+003 TF SEIFA - 210
+(204.6) -5.6 22.6 - +2000 - -
+From OKUMA, to HASSA at or above 11000FT, to SEIFA at or above 2000FT.
+TACAN
+CHINEN
+1176    TIT
+CH–89X
+ÛÝ1ÛÝ(
+500FT
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+ÛÝ1ÛÝ(
+042˚
+222˚
+R042
+NHC
+VORTAC
+OKUMA
+D35.0 NHC
+MHA 5000
+MAX 250KIAS
+D45.0 NHC
+Using NAVAID
+RNP1
+RNP1
+RNP1
+RNP1
+NOT TO SCALE
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-STAR-10
+NAHA
+
+
+=== Page 64 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+63YWR RATS VANRAHAN/HAOR
+GUPTI SOUTH ARRIVAL
+ENTOK SOUTH ARRIVAL RNP1
+Note 1) GNSS required.  2) CDO only.
+GUPTI
+290124.5N
+1280918.7E
+FL200
+IHEYA
+270040.2N
+1275409.8E
+HASSA
+262334.1N
+1275516.0E
+11000
+192
+˃
+121.
+6
+SEIFA
+260303.9N
+1274448.5E
+2000ENTOK
+261914.3N
+1245953.8E
+FL170
+481
+˃1.73
+104˃
+141.4
+210
+˃
+22.6
+GUPTI SOUTH ARRIVAL
+ENTOK SOUTH ARRIVAL
+VIGER
+255743.9N
+1273526.9E
+2000
+VAR 6°W 
+VORTAC
+NAHA
+116.5   NHC
+100FT
+CH–112X
+TACAN
+CHINEN
+1176    TIT
+CH–89X
+500FT
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-STAR-11
+NAHA
+
+
+=== Page 65 ===
+Civil Aviation Bureau,Japan
+AIP JapanROAH AD2.24-STAR-12
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From GUPTI at or above FL200, to IHEYA, to HASSA at or above 11000FT, to SEIFA
+ at or above 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF GUPTI -- - 5 . 6 - - +FL200 - - RNP1
+002 TF IHEYA - 192
+(186.4) -5.6 121.6 - - - - RNP1
+003 TF HASSA - 184
+(178.5) -5.6 37.1 - +11000 - - RNP1
+004 TF SEIFA - 210
+(204.6) -5.6 22.6 - +2000 - - RNP1
+ From ENTOK at or above FL170, to VIGER at or above 2000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ENTOK -- - 5 . 6 - - +FL170 - - RNP1
+002 TF VIGER - 104
+(098.2) -5.6 141.4 - +2000 - - RNP1
+ROAH / NAHA RNAV STAR RWY36
+GUPTI SOUTH ARRIVAL
+&+$1*(1DYLJDWLRQ6SHFLILFDWLRQ%DVLF513ĺ513
+ENTOK SOUTH ARRIVAL
+NAHA
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 66 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA
+MISSED APPROACH
+Climb to 1200FT on HDG 002° to 
+NHC2.4DME, turn left, via NHC 
+R341 to NHC 15.0DME, climb to 
+2000FT via NHC 15.0DME 
+counterclockwise ARC to OLVAL 
+and hold.
+Contact NAHA APP.
+ILS Z or LOC Z RWY36R
+002°
+273°
+5.0
+VIGER(IAF)
+D15.0 NHC
+OLVAL
+D15.0 NHC
+SEIFA(IAF)
+2000
+039°6.2
+2000
+MHA 2000
+MAX 230KIAS
+D21.0 NHC
+R241
+061°
+241°
+LOC OFFSET 0.6°
+341°
+D2.4 NHC
+UTAKI
+(IAF)
+2000
+002
+°
+10NM
+D15.0 NHC ARCNHC
+2700
+1800
+2000 270°
+360°
+180°
+MSA 25NM
+VAR 5°W 
+SEIFA
+D11.0 NHC
+154°
+334°
+NHC VORTAC
+D17.0
+NHC
+MHA 2000
+MAX 230KIAS
+CAUTION : ALTITUDE RESTRICTIONS
+VIGER
+D15.0 NHC
+MAX 230KIAS
+MHA 2000
+196°016°
+NHC 
+VORTAC
+D21.0
+NHC
+NM to IOK 2 FAF
+ALT (3.0° APCH Path)
+MAPt
+NATON(FAF):260705.80N/1273900.65E
+3
+KADENA AD
+FUTENMA AD
+1279
+MAPt(LOC)
+D0.9 IOK
+MINIMA THR elev. 9 AD elev. 11
+CAT
+CAT䊠 LOC CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+292 (283) 410 (399) 620 (609)650
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+(267.7°T)
+ʢ033.7°T)
+0.2
+0
+0.9
+0.7
+2.6
+2.4
+4.0
+3.8
+8.3
+8.1
+DME to IOK
+NM to THR
+DEIJI
+(IF)
+2000
+SDF
+(LOC)
+MAPt
+(LOC)
+1300
+1279(LOC)
+825
+002°
+002°
+900
+(889)480
+(469)MDA
+RDH57
+NHC
+D15.0
+NHC
+2000
+1200
+NATON(FAF)
+D4.0 IOK
+GP3.0°
+HDG002°
+4
+1274955637-
+(086.9°T)
+092°
+5.8
+NATON
+(FAF)
+R196
+VDP
+(LOC)
+1.3
+1.1
+DEIJI(IF)
+D8.3 IOK
+MAX 210KIAS
+260251.8N
+1273915.6E
+260303.9N
+1274448.5E260233.2N
+1273250.4E
+255743.9N
+1273526.9E
+R154
+R196
+090°
+NOTE :For Initial approach segment   
+                from over  SEIFA / VIGER / UTAKI
+               (1)RNP1.
+               (2)GNSS required.
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.1 - 126.2
+308.6 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+ILS-LOC
+110.3   IOK
+ILS-GP 335.0
+ILS-DMECH-40X
+EQ PT REQUIRED
+DME
+VOR
+NHC 
+VORTAC
+D17.0
+NHC
+212°
+032°
+MHA 2000
+MAX 230KIAS
+UTAKI
+D11.2 NHC
+R212
+Using NAVAID
+Using NAVAID
+Using NAVAID
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-IAC-1
+NAHA
+
+
+=== Page 67 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA
+MISSED APPROACH
+Climb to 1200FT on HDG 002° to 
+NHC2.4DME, turn left, via NHC 
+R341 to NHC 15.0DME, climb to 
+2000FT via NHC 15.0DME 
+counterclockwise ARC to OLVAL 
+and hold.
+Contact NAHA APP.
+ILS Y or LOC Y RWY36R
+VIGER(IAF)
+D15.0 NHC
+OLVAL(IAF)
+D15.0 NHC
+2000
+002
+˃
+MHA 2000
+MAX 230KIAS
+D21.0 NHC
+R241
+241°
+061°
+LOC OFFSET 0.6°
+341°
+D2.4 NHC
+NHC D15.0 NHC ARC
+10NM
+002°
+002°
+2700
+1800
+2000 270°
+360°
+180°
+MSA 25NM
+VAR 5°W 
+CAUTION : ALTITUDE RESTRICTIONS
+VIGER
+D15.0 NHC
+MAX 230KIAS
+MHA 2000
+196
+˃
+016
+˃
+NHC 
+VORTAC
+D21.0
+NHC
+NM to IOK 2 FAF
+ALT (3.0° APCH Path)
+MAPt
+NATON(FAF):260705.80N/1273900.65E
+3
+KADENA AD
+FUTENMA AD
+1279
+MAPt(LOC)
+D0.9 IOK
+MINIMA THR elev. 9 AD elev. 11
+CAT
+CAT䊠 LOC CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+292 (283) 410 (399) 620 (609)650
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+0.2
+0
+0.9
+0.7
+2.6
+2.4
+4.0
+3.8
+8.3
+8.1
+DME to IOK
+NM to THR
+DEIJI
+(IF)
+2000
+SDF
+(LOC)
+MAPt
+(LOC)
+1300
+1279(LOC)
+825
+002°
+002°
+900
+(889)480
+(469)MDA
+RDH57
+NHC
+D15.0
+NHC
+2000
+1200
+NATON(FAF)
+D4.0 IOK
+HDG002°
+GP3.0°
+4
+1274955637-
+NATON
+(FAF)
+R189
+R196
+VDP
+(LOC)
+1.3
+1.1
+EQPT REQUIRED
+DME
+VOR
+090°
+R196
+DEIJI(IF)
+D8.3 IOK
+°081
+270°
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.1 - 126.2
+308.6 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+ILS-LOC
+110.3   IOK
+ILS-GP 335.0
+ILS-DMECH-40X
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-2
+NAHA
+
+
+=== Page 68 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA
+MISSED APPROACH
+Climb to 1200FT on HDG 002° to 
+NHC2.4DME, turn left, via NHC 
+R341 to NHC 15.0DME, climb to 
+2000FT via NHC 15.0DME 
+counterclockwise ARC to OLVAL 
+and hold.
+Contact NAHA APP.
+ILS X or LOC X RWY36R
+VIGER(IAF)
+D15.0 NHC
+OLVAL(IAF)
+D15.0 NHC
+4400
+°200
+MHA 2000
+MAX 230KIAS
+D21.0 NHC
+R241
+061
+˃
+241
+˃
+LOC OFFSET 0.6°
+341°
+D2.4 NHC
+NHC
+10NM
+D15.0 NHC ARC
+°200
+°200
+2700
+1800
+2000 270°
+360°
+180°
+MSA 25NM
+VAR 5°W 
+CAUTION : ALTITUDE RESTRICTIONS
+VIGER
+D15.0 NHC
+MAX 230KIAS
+MHA 4400
+196°016°
+NHC 
+VORTAC
+D21.0
+NHC
+NM to IOK 2 FAF
+ALT (3.0° APCH Path)
+MAPt
+NATON(FAF):260705.80N/1273900.65E
+3
+KADENA AD
+FUTENMA AD
+1279
+MAPt(LOC)
+D0.9 IOK
+MINIMA THR elev. 9 AD elev. 11
+CAT
+CAT䊠 LOC CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+292 (283) 410 (399) 620 (609)650
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+0.2
+0
+0.9
+0.7
+2.6
+2.4
+4.0
+3.8
+8.3
+8.1
+DME to IOK
+NM to THR
+DEIJI
+(IF)
+2000
+SDF
+(LOC)
+MAPt
+(LOC)
+1300
+1279(LOC)
+825
+002°
+002°
+900
+(889)480
+(469)MDA
+RDH57
+NHC
+D15.0
+NHC
+2000
+1200
+NATON(FAF)
+D4.0 IOK
+HDG002°
+GP3.0°
+4
+1274955637-
+NATON
+(FAF)
+R189
+R196
+VDP
+(LOC)
+1.3
+1.1
+DEIJI(IF)
+D8.3 IOK
+EQ PT REQUIRED
+TACAN
+090°
+R196
+180°
+270°
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.1 - 126.2
+308.6 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+ILS-LOC
+110.3   IOK
+ILS-GP 335.0
+ILS-DMECH-40X
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-3
+NAHA
+
+
+=== Page 69 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA
+MISSED APPROACH
+Turn left, climb to 1200FT via NHC 
+ R 308 to NHC8.5DME, climb to 2000FT
+via NHC R308 to NHC 15.0DME, via  
+NHC 15.0DME counterclockwise ARC
+to OLVAL and hold.
+Contact NAHA APP.
+ILS Z or LOC Z RWY36L
+308°
+°300
+°300
+VIGER(IAF)
+D15.0 NHC
+OLVAL
+D15.0 NHC
+5.8
+273°
+SEIFA
+(IAF)
+2000
+2000
+UTAKI
+(IAF)
+2000
+D21.0 NHC
+MHA 2000
+MAX 230KIAS
+10NM
+D15.0 NHC ARC
+R241
+061°
+241°
+VIGER
+D15.0 NHC
+MAX 230KIAS
+MHA 2000
+196°016°
+NHC 
+VORTAC
+D21.0
+NHC
+CAUTION :A L T I T U D E RESTRICTIONS
+NHC
+2700
+1800
+2000
+360°
+180°
+270°
+MSA 25NM
+VAR 5°W 
+NM to IOW 23 FAF
+ALT (3.0° APCH Path)
+MAPt
+BOOST(FAF):260653.15N/1273811.59E
+4
+MAPt(LOC)
+D0.6 IOW
+BOOST(FAF)
+D4.0 IOW
+MINIMA THR elev. 14 AD elev. 11
+CAT
+CAT䊠 LOC CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+214 (200) 430 (419) 620 (609)550
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+0.2
+0
+0.6
+0.5
+4.0
+3.8
+8.1
+7.9
+DME to IOW
+NM to THR
+2000MAPt
+(LOC)
+1300
+1282(LOC)
+003°
+003° 700
+(689)MDARDH55
+NHC
+D12.0
+NHC
+2000
+1200
+(267.6°T)
+GP3.0°
+BLISS(IF) D8.1 IOW
+MAX210KIAS
+R196
+(086.9°T)
+092°
+5.0
+12821278959641-
+BLISS
+(IF)BOOST
+(FAF)
+033°
+5.7
+(027.4°T)
+260233.2N
+1273250.4E
+255743.9N
+1273526.9E
+260249.3N
+1273823.0E
+260303.9N
+1274448.5E
+VDP
+(LOC)
+1.4
+1.2
+R196
+EQ PT REQUIRED
+DME
+VOR 090°
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75 - 126.2
+247.8 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+Cross NHC R308/12.0DME at or above
+1400FT.
+D8.5
+NHC
+1400
+ILS-LOC
+111.7   IOW
+ILS-GP 333.5
+ILS-DMECH-54X
+Using NAVAID
+MHA 2000
+MAX 230KIAS
+032°
+212°
+NHC 
+VORTAC
+D17.0
+NHC
+SEIFA
+D11.0 NHC
+154°
+334°
+NHC VORTAC
+D17.0
+NHC
+MHA 2000
+MAX 230KIAS
+R212
+R154
+UTAKI
+D11.2 NHC
+Using NAVAID Using NAVAID
+                
+               
+               
+NOTE :    
+  SEIFA / VIGER / UTAKI
+               (1)RNP1.
+               (2)GNSS required.
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+For Initial approach segment
+ 
+from over
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-IAC-4
+NAHA
+
+
+=== Page 70 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA
+MISSED APPROACH
+Turn left, climb to 1200FT via NHC
+R308 to NHC8.5DME, climb to 2000FT
+via NHC R308 to NHC 15.0DME, via 
+NHC 15.0DME counterclockwise ARC
+to OLVAL and hold.
+Contact NAHA APP.
+ILS Y or LOC Y RWY36L
+308
+˃
+003°003°
+VIGER(IAF)
+D15.0 NHC
+OLVAL(IAF)
+D15.0 NHC
+2000
+D21.0 NHC
+MHA 2000
+MAX 230KIAS
+R241
+241
+˃
+061
+˃
+10NM
+D15.0 NHC
+ ARC
+003°
+VIGER
+D15.0 NHC
+MAX 230KIAS
+MHA 2000
+196
+˃
+016
+˃
+NHC 
+VORTAC
+D21.0
+NHC
+CAUTION : ALTITUDE RESTRICTIONS
+NHC
+2700
+1800
+2000 270˃
+180
+˃
+360
+˃
+MSA 25NM
+VAR 5°W 
+NM to IOW 23 FAF
+ALT (3.0° APCH Path)
+MAPt
+BOOST(FAF):260653.15N/1273811.59E
+4
+MAPt(LOC)
+D0.6 IOW
+MINIMA THR elev. 14 AD elev. 11
+CAT
+CAT䊠 LOC CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+214 (200) 430 (419) 620 (609)550
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+0.2
+0
+0.6
+0.5
+4.0
+3.8
+8.1
+7.9
+DME to IOW
+NM to THR
+2000MAPt
+(LOC)
+1300
+1282(LOC)
+003˃
+003˃
+700
+(689)MDARDH55
+NHC
+D12.0
+NHC
+2000
+1200
+BLISS(IF)
+D8.1 IOW
+GP3.0°
+12821278959641-
+BLISS
+(IF)BOOST
+(FAF)
+R196
+R193
+VDP
+(LOC)
+1.4
+1.2
+EQPT REQUIRED
+DME
+VOR
+R196
+090°
+KADENA AD
+FUTENMA AD
+BOOST(FAF)
+D4.0 IOW
+270˃
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75 - 126.2
+247.8 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+D8.5
+NHC
+1400
+Cross NHC R308/12.0DME at or above
+1400FT.
+ILS-LOC
+111.7   IOW
+ILS-GP 333.5
+ILS-DMECH-54X
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-5
+NAHA
+
+
+=== Page 71 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA ILS X or LOC X RWY36L
+308
+˃
+003°003°
+VIGER(IAF)
+D15.0 NHC
+OLVAL(IAF)
+D15.0 NHC
+4400
+D21.0 NHC
+MHA 2000
+MAX 230KIAS
+061°
+241°
+R241
+10NM
+D15.0 NHC ARC
+003°
+VIGER
+D15.0 NHC
+MAX 230KIAS
+MHA 4400
+196
+˃
+016
+˃
+NHC 
+VORTAC
+D21.0
+NHC
+CAUTION : ALTITUDE RESTRICTIONS
+NHC
+2700
+1800
+2000
+360°
+180°
+270°
+MSA 25NM
+VAR 5°W 
+NM to IOW 23 FAF
+ALT (3.0° APCH Path)
+MAPt
+BOOST(FAF):260653.15N/1273811.59E
+4
+MAPt(LOC)
+D0.6 IOW
+MINIMA THR elev. 14 AD elev. 11
+CAT
+CAT䊠 LOC CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+214 (200) 430 (419) 620 (609)550
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+0.2
+0
+0.6
+0.5
+4.0
+3.8
+8.1
+7.9
+DME to IOW
+NM to THR
+2000MAPt
+(LOC)
+1300
+1282(LOC)
+003°
+003° 700
+(689)MDARDH55
+NHC
+D12.0
+NHC
+2000
+1200
+BLISS(IF)
+D8.1 IOW
+GP3.0°
+12821278959641-
+BLISS
+(IF)BOOST
+(FAF)
+R196
+R193
+VDP
+(LOC)
+1.4
+1.2
+EQPT REQUIRED
+TACAN
+R196
+090°
+KADENA AD
+FUTENMA AD
+BOOST(FAF)
+D4.0 IOW
+270°
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75 - 126.2
+247.8 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+D8.5
+NHC
+1400
+MISSED APPROACH
+Turn left, climb to 1200FT via NHC
+R308 to NHC8.5DME, climb to 2000FT
+via NHC R308 to NHC 15.0DME, via 
+NHC 15.0DME counterclockwise ARC
+to OLVAL and hold.
+Contact NAHA APP.
+Cross NHC R308/12.0DME at or above
+1400FT.
+ILS-LOC
+111.7   IOW
+ILS-GP 333.5
+ILS-DMECH-54X
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-6
+NAHA
+
+
+=== Page 72 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+NM to ION 2 FAF
+ALT (3.0° APCH Path)
+MAPt
+ROAH / NAHA ILS or LOC RWY18R
+MISSED APPROACH
+Turn right, climb to 1200FT, via NHC 
+R226 to NHC 15.0DME, climb to 
+2000FT via NHC 15.0DME clockwise 
+ARC to OLVAL and hold.
+Contact NAHA APP.
+KUKUL(IAF)
+2000
+THETA(IAF)
+2000
+D21.0 NHC
+9.4
+181°
+R241
+061°
+241°
+R226
+LAVON(IAF)
+R266/D15.0 NHC
+4.9
+093°
+182°
+226°
+10NM
+EISAR(IAF)
+D18.0 NHC
+D16.0 NHC
+THETA
+D9.8 NHC
+R341
+D15.0 NHC ARC
+148°
+328°
+NHC
+VORTAC
+NHC
+2700
+1800
+2000 270°
+360°
+180°
+MSA 25NM
+VAR 5°W 
+LOC OFFSET 0.8°
+MHA 2000
+MAX 230KIAS
+MHA 2000
+MAX 230KIAS
+182°
+182°
+EISAR
+D18.0 NHC
+161°
+341°
+NHC 
+VORTAC
+D24.0
+NHC
+MHA 2000
+MAX 230KIAS
+PARTY(FAF):261542.55N/1273743.62E
+CAUTION :
+ALTITUDE RESTRICTIONS
+FUTENMA AD
+3
+MINIMA THR elev. 16 AD elev. 11
+CAT
+CAT䊠 LOC CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+263 (247) 490 (479) 620 (609)600
+Circling to WEST side of RWY only.
+1000
+1200
+1600
+1600
+2400
+3200
+1186- 965646
+700
+(689)
+0.2
+0
+3.7
+3.6
+DME to ION
+NM to THR
+SALSA
+(IF)
+1200
+PARTY
+(FAF)
+RDH52
+NHC
+D15.0
+NHC
+2000
+1200
+8.6
+8.4
+MAPt
+(LOC) 1200
+1186(LOC)
+KUKUL
+D17.4 NHC
+MAX 230KIAS
+MHA 2000
+179°
+359°
+NHC 
+VORTAC
+D23.0
+NHC
+MAPt(LOC) D0.7 ION
+262952.0N
+1273641.6E
+R359
+R341
+R328
+262020.0N
+1273159.3E
+(176.0°T)
+(087.5°T)
+SALSA(IF)
+D8.6 ION
+MAX210KIAS
+262032.6N
+1273725.1E
+2000
+R351
+R288
+OLVAL(IAF)
+D15.0 NHC
+NOTE :    
+                from over KUKUL / THETA
+               (1)
+               (2)GNSS required.
+0.7
+0.6
+GP3.0°
+VDP
+(LOC)
+1.6
+1.4
+MDA
+PARTY(FAF)
+D3.7 ION
+182°
+182°
+EQ PT REQUIRED
+DME
+VOR or TACAN
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75- 126.2
+247.8 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+ILS-LOC
+110.15   ION
+ILS-GP 334.25
+ILS-DMECH-38Y
+Using NAVAID
+Using NAVAID
+Using NAVAID
+1200
+RNP1.
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+For Initial approach segment
+(EFF:16 MAY 2024) 18/4/24
+ROAH AD2.24-IAC-7
+NAHA
+
+
+=== Page 73 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA
+MISSED APPROACH
+RNP RWY36R
+5.7
+092°
+6.1
+039°
+273°
+5.1
+VIGER
+(IAF)
+OLVAL SEIFA
+(IAF)
+2000
+2000
+UTAKI
+(IAF)
+2000
+003°4.2
+LAVON
+GELMA
+KIZNA
+Direct to H6R00, turn left direct to KIZNA 
+235°
+8.5
+10.6197°
+6.5164°
+at or below 1200FT, to GELMA, to 
+LAVON, to OLVAL and hold at 2000FT.
+H6R00
+Contact NAHA APP.
+MSA 25NM
+ARP
+2700
+ARP䠖261136N/1273823E
+10NM
+VAR 6°W 
+SEIFA(IAF) 260303.88N/1274448.52E
+VIGER(IAF) 255743.88N/1273526.92E
+UTAKI(IAF)          260233.15N/1273250.37E
+NAMIE(IF)           260251.55N/1273910.12E
+ISIJI(FAF)           260703.28N/1273858.33E
+H6R50                260833.63N/1273854.10E
+H6R51(MAPt)        261035.10N/1273848.40E
+H6R00 261455.27N/1273836.19E
+KIZNA                262612.82N/1273141.71E
+GELMA               262037.85N/1272431.22E
+LAVON               261013.46N/1272205.31E
+OLVAL(MAHF)         260411.00N/1272441.30E
+CAUTION 
+: ALTITUDE RESTRICTIONS
+NM to Next Fix 12 FAF
+ALT (3.0° APCH Path)
+MAPt
+FUTENMA 
+ɹɹAD
+003°(357.6°T)/1.5
+H6R50
+MINIMA THR elev. 9 AD elev. 11
+CAT
+LNAV/VNAV LNAV CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+410 (401)
+900
+410 (399) 620 (609)1000
+1400
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+㻌
+㻌
+Baro-VNAV not authorized below 0䉝
+(086.9°T) (267.7°T)
+003°(357.6°T)/2.0
+ʢ
+6.753
+
+5˃
+ʢ
+033.1
+˃5
+00 . 4 2 . 4 3 . 9 8.1NM to THR
+NAMIE
+(IF)
+2000
+ISIJI
+(FAF)H6R50
+(SDF)
+(LNAV)H6R51
+(MAPt)
+1300
+821
+003°
+003°
+900
+(889)480
+(469)MDARDH57
+KIZNA
+2000
+1200
+3
+ISIJI(FAF)
+ʢ229.0°T)
+ʢ
+191.8°T)
+ʢ
+158.9
+˃5
+3.00°
+H6R51(MAPt)
+VDP
+(LNAV)
+-4 9 7 8 1 5 1 1 3 3 1300
+NAMIE(IF)
+MAX 210KIAS
+180°
+270°
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.1 - 126.2
+308.6 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+VDP
+0.8NM to MAPt
+746
+635
+155°
+335°
+SEIFA
+1MIN
+NOT TO SCALE
+MAX 230KIAS
+MHA 2000
+213°
+033°
+NOT TO SCALE
+1MIN
+MAX 230KIAS
+MHA 2000
+UTAKI
+1MIN
+NOT TO SCALE
+MAX 230KIAS
+MHA 2000
+MAX 230KIAS
+MHA 2000
+1MIN
+NOT TO SCALE
+VIGER
+OLVAL
+062°
+242° 016° 196°
+KADENA 
+ɹɹAD
+RNP APCH
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-8
+NAHA
+
+
+=== Page 74 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA
+MISSED APPROACH
+Turn left direct to H6L51, to GELMA 
+at or below 1200FT, to LAVON, 
+to OLVAL and hold at 2000FT. 
+RNP RWY36L
+Contact NAHA APP.
+003°003°
+092°
+5.0
+033
+˃
+5.7
+273°
+5.8
+VIGER
+(IAF )
+OLVAL
+SEIFA
+(IAF)
+2000
+2000
+UTAKI
+(IAF)
+2000
+LAVON
+GELMA
+197
+˃
+10.6
+6.5164
+˃
+㻌
+10NM
+NM to Next Fix 12 FAF
+ALT (3.0° APCH Path)
+MAPt
+CAUTION : ALTITUDE RESTRICTIONS
+4.0 3.0
+MINIMA THR elev. 14 AD elev. 11
+CAT
+LNAV/VNAV LNAV CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+370 (356)
+900
+370 (359) 620 (609)1000
+1400
+Circling to WEST side of RWY only.
+900
+1000
+1400
+1600
+2400
+3200
+Baro-VNAV not authorized below 0䉝
+KICKS(FAF)
+(086.9°T)
+ʢ
+027.4°T
+ʣ
+(267.6°T)
+(357.6°T)(357.6°T)
+00 . 9 3 . 9 7.9NM to THR
+2000
+1300
+800
+(789)MDARDH54
+GELMA
+2000
+003°
+003°1200
+SEIFA(IAF)            260303.88N/1274448.52E
+VIGER(IAF)           255743.88N/1273526.92E
+UTAKI(IAF)          260233.15N/1273250.37E
+BLISS(IF)            260249.28N/1273823.04E
+KICKS(FAF)        260650.75N/1273811.71E
+H6L50(MAPt)        260951.15N/1273803.23E
+GELMA  262037.85N/1272431.22E
+LAVON               261013.46N/1272205.31E
+OLVAL(MAHF)         260411.00N/1272441.30EBLISS(IF)
+MAX 210KIAS
+ʢ
+191.8°T)
+ʢ
+158.9°T)
+3.00°
+H6L50(MAPt)
+BLISS
+(IF)
+KICKS
+(FAF)
+H6L50
+(MAPt)
+(LNAV)
+1300981663-
+VDP
+(LNAV)
+090˃
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75 - 126.2
+247.8 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+H6L51
+308
+˃
+7.5ʢ302.8°T)
+H6L51  261634.46N/1273133.01E
+H6L51
+VDP
+0.1NM to MAPt
+MSA 25NM
+ARP
+2700
+ARP䠖261136N/1273823E
+VAR 6°W 
+746
+155°
+335°
+SEIFA
+1MIN
+NOT TO SCALE
+MAX 230KIAS
+MHA 2000
+213°
+033°
+NOT TO SCALE
+1MIN
+MAX 230KIAS
+MHA 2000
+UTAKI
+1MIN
+NOT TO SCALE
+MAX 230KIAS
+MHA 2000
+MAX 230KIAS
+MHA 2000
+1MIN
+NOT TO SCALE
+VIGER
+OLVAL
+062°
+242° 016° 196°
+RNP APCH
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-9
+NAHA
+
+
+=== Page 75 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA RNP RWY18R
+MISSED APPROACH
+Turn right direct to H8R51 at or 
+below 1200FT, to OLVAL and 
+hold at 2000FT.
+Contact NAHA APP.
+KUKUL(IAF)
+2000
+THETA
+(IAF)
+2000
+JOINT(IF)
+MAX210KIAS
+FEVER(FAF)
+OLVAL
+5.0
+093°
+10NM
+H8R51
+4.1
+324°
+9.4181
+˃
+0.3
+381
+˃
+Baro-VNAV not authorized below 0䉝
+MSA 25NM
+ARP
+2700
+ARP䠖261136N/1273823E
+VAR 6°W 
+CAUTION : ALTITUDE RESTRICTIONS
+㻌
+4.8183°
+NM to Next Fix 12 FAF
+ALT (3.0° APCH Path)
+MAPt
+MINIMA THR elev. 16 AD elev. 11
+CAT
+LNAV/VNAV LNAV CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+490 (474)
+1000
+490 (479) 620 (609)1200
+1600
+Circling to WEST side of RWY only.
+1000
+1200
+1600
+1600
+2400
+3200
+KADENA 
+ɹAD
+FUTENMA AD KUKUL 262951.98N
+(IAF)        1273641.55E
+THETA 262020.00N
+(IAF)       1273159.31E
+JOINT 262032.89N
+(IF)        1273733.00E
+FEVER 261544.72N
+(FAF)      1273746.59E
+H8R50 261244.32N
+(MAPt)    1273755.08E
+H8R51 260107.02N
+1272741.24E
+OLVAL 260411.00 N
+(MAHF)    1272441.30E
+(087.5°T)
+H8R50
+(MAPt)
+1200881563-
+ʢ
+175.3°T)
+ʢ
+)T°6.771
+ʢ
+)T°6.771
+00 . 6 3.6 8.4
+JOINT
+(IF)FEVER
+(FAF)
+H8R50
+(MAPt)
+700
+(689)MDARDH52
+H8R51
+2000
+183˃
+183˃1200
+1200
+3.00°
+1200
+VDP
+(LNAV)
+NM to THR
+(318.7°T)
+270˃
+360
+˃
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75- 126.2
+247.8 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+VDP
+0.8NM to MAPt
+1200
+635
+180°
+NOT TO SCALE
+1MIN
+KUKUL
+MAX 230KIAS
+MHA 2000
+360°
+329°
+149°
+1MIN
+THETA
+NOT TO SCALE
+MAX 230KIAS
+MHA 2000
+OLVAL
+1MIN
+062°
+242°
+MAX 230KIAS
+MHA 2000
+NOT TO SCALE
+RNP APCH
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-10
+NAHA
+
+
+=== Page 76 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+430 (419)430 (419)
+ROAH / NAHA RNP RWY18L
+MISSED APPROACH
+Direct to H8L51 at or below 1200FT, to 
+H8L52, to OLVAL and hold at 2000FT.
+Contact NAHA APP.
+KUKUL(IAF)
+2000
+2000
+RYCOM(IF)
+KAMJI(FAF)
+OLVAL
+H8L51H8L52
+5.7
+093°
+4.4
+183°
+3.0
+183°
+9.4177°
+10NM7.9
+7.4
+317
+˃
+287˃
+THETA(IAF)
+Baro-VNAV not authorized below 0䉝
+MSA 25NM
+ARP
+2700
+ARP䠖261136N/1273823E
+VAR 6°W 
+MINIMA THR elev. 11 AD elev. 11
+CAT
+LNAV/VNAV LNAV CIRCLING
+A
+B
+C
+D
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+MDA(H) VIS
+1200
+620 (609)
+1300
+1400
+1600
+Circling to WEST side of RWY only.
+1200
+1300
+1400
+1600
+1600
+2400
+3200
+CAUTION : ALTITUDE RESTRICTIONS
+NM to Next Fix 12 FAF
+ALT (3.0° APCH Path)
+MAPt
+FUTENMA AD
+MAX210KIAS
+H8L50(MAPt)
+(177.6°T)
+(177.6°T)
+1200881563-
+ʢ
+171.0°T)
+ʢ311.2°T)
+ʢ281.5°T)
+00 . 6 3.6 8.0
+RYCOM
+(IF)KAMJI
+(FAF)
+H8L50
+(MAPt)
+700
+(689)MDARDH50
+H8L51
+2000
+183°
+183°1200
+1200
+3.00°
+1200
+VDP
+(LNAV)
+KUKUL         262951.98N
+(IAF)        1273641.55E
+THETA        262020.00N
+(IAF)        1273159.31E
+RYCOM       262034. 70N
+(IF)         1273820.22E
+KAMJI        261608.84N
+(FAF)      1273832.73E
+H8L50 261308.43N
+(MAPt)    1273841.21E
+H8L51 255729.03N
+(MATF)   1273925.15E
+H8L52 255857.80N
+1273119.34E
+OLVAL 260411.00 N
+(MAHF)    1272441.30E
+(087.5°T)
+㻌
+090°
+270°
+NM to THR
+VORTAC
+NAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.1 - 126.2
+308.6 - 236.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+(MATF)
+(MATF) VDP
+0.6NM to MAPt
+1200
+635
+180°
+NOT TO SCALE
+1MIN
+KUKUL
+MAX 230KIAS
+MHA 2000
+360°
+329°
+149°
+1MIN
+THETA
+NOT TO SCALE
+MAX 230KIAS
+MHA 2000
+OLVAL
+1MIN
+062°
+242°
+MAX 230KIAS
+MHA 2000
+NOT TO SCALE
+RNP APCH
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-11
+NAHA
+
+
+=== Page 77 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA VOR A or TACAN B
+MISSED APPROACH
+Climb to 1200FT via NHC R182 to NHC 
+15.0DME, climb to 2000FT via NHC 
+15.0DME clockwise ARC to OLVAL and 
+hold.
+Contact NAHA APP.
+EISAR(IAF)
+D18.0 NHC
+LAVON(IAF)
+D15.0 NHC
+ZAKMI(IF)
+D12.0 NHC
+PARCO(FAF)
+D6.0 NHC
+OLVAL(IAF)
+D15.0 NHC
+NHC
+R182
+D15.0 NHC ARC
+2700
+1800
+2000 270°
+360°
+180°
+MSA 25NM
+VAR 5°W 
+D21.0 NHC
+MAPt
+EISAR
+D18.0 NHCR341
+161°
+341°
+NHC 
+VORTAC
+D24.0
+NHC
+MHA 2000
+MAX 230KIAS
+MHA 2000
+MAX 230KIAS
+MINIMA AD elev. 11
+CAT
+CIRCLING
+A
+B
+C
+D
+MDA(H) VIS
+620 (609)
+Circling to WEST side of RWY only.
+1600
+2400
+3200
+CAUTION : ALTITUDE RESTRICTIONS
+KADENA AD
+FUTENMA AD
+10NM2000
+R341
+R288
+R266
+R241
+061
+䤑
+241
+䤑
+700
+(689)
+6.0 12.0DME to NHC
+2000
+NHC
+D15.0
+NHC
+2000
+179°
+179°1200
+SDF
+1200
+8.1
+MAPt
+179°179°
+MDA
+700
+(689)
+2000
+2000
+2000
+PARCO(FAF)䠖261829.95N/1273753.38E
+ZAKMI
+(IF)PARCO
+(FAF)
+Timing not authorized for defining the MAPt.
+R351
+270°
+EQPT REQUIRED
+DME
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75 - 118.1
+247.8 - 308.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+VORTACNAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-12
+NAHA
+
+
+=== Page 78 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA VOR C 
+MISSED APPROACH
+Climb to 1200FT via NHC R005 to NHC 
+2.4DME, turn left proceed via NHC R341 
+to NHC 15.0DME, climb to 2000FT via 
+NHC 15.0 DME counterclockwise ARC to 
+OLVAL and hold.
+Contact NAHA APP.
+ELIEE(IF)
+D11.3 NHC
+D2.4 NHC
+SIOTY(FAF)
+D5.8 NHC
+MAPt
+D1.8 NHC
+VIGER(IAF)
+R196/D15.0 NHC
+°500
+10NM
+D15.0 NHC A
+RC
+OLVAL(IAF)
+D15.0 NHC
+D21.0 NHC
+MHA 2000
+MAX 230KIAS
+061
+˃
+241
+˃
+VIGER
+D15.0 NHC
+341°
+R341
+005°
+016° 196°
+NHC 
+VORTAC
+D21.0
+NHC
+MHA 2000
+MAX 230KIAS
+NHC
+R196
+2700
+1800
+2000 270°
+360°
+180°
+MSA 25NM
+VAR 5°W 
+SIOTY(FAF)䠖260643.05N/1273829.82E
+CAUTION : ALTITUDE RESTRICTIONS
+KADENA AD
+FUTENMA AD
+MINIMA AD elev. 11
+CAT
+CIRCLING
+A
+B
+C
+D
+MDA(H) VIS
+620 (609)
+Circling to WEST side of RWY only.
+1600
+2400
+3200
+11.31.8 5.8
+2000
+800
+(789)
+R241
+ELIEE
+(IF)
+NHC
+D15.0
+NHC
+2000
+1200
+MAPt
+MDA
+2000
+005°
+005°
+12001200
+Timing not authorized for defining the MAPt.
+180°
+090°
+270°
+EQ PT REQUIRED
+DME
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+VORTACNAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+NAHA TWR
+118.75 - 118.1
+247.8 - 308.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+SIOTY
+(FAF)
+DME to NHC
+°500
+R193
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-13
+NAHA
+
+
+=== Page 79 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ROAH / NAHA TACAN D
+ELIEE(IF)
+D11.3 NHC
+D2.4 NHC
+SIOTY(FAF)
+D5.8 NHC
+MAPt
+D1.8 NHC
+VIGER(IAF)
+R196/D15.0 NHC
+005°
+10NM
+D15.0 NHC ARC
+OLVAL(IAF)
+D15.0 NHC
+D21.0 NHC
+MHA 2000
+MAX 230KIAS
+061°
+241°
+VIGER
+D15.0 NHC
+341°
+005
+˃
+R341
+016° 196°
+NHC 
+VORTAC
+D21.0
+NHC
+MHA 4400
+MAX 230KIAS
+NHC
+R196
+2700
+1800
+2000 270°
+360°
+180°
+MSA 25NM
+VAR 5°W 
+SIOTY(FAF)䠖260643.05N/1273829.82E
+CAUTION : ALTITUDE RESTRICTIONS
+KADENA AD
+FUTENMA AD
+MINIMA AD elev. 11
+CAT
+CIRCLING
+A
+B
+C
+D
+MDA(H) VIS
+700 (689)
+Circling to WEST side of RWY only.
+1600
+2400
+3200
+R241
+005°
+R193
+2000
+4400
+270°
+090°
+180°
+EQ PT REQUIRED
+䠉
+NAHA APP
+119.1 - 335.8(N)
+126.5 - 258.3(S)
+NAHA TWR
+118.75 - 118.1
+247.8 - 308.6
+RADAR AVBL
+ATIS 127.8 - 293.0
+VORTACNAHA
+116.5   NHC
+CH–112X
+ÛÝ1ÛÝ(
+MISSED APPROACH
+Climb to 1200FT via NHC R005 to NHC 
+2.4DME, turn left proceed via NHC R341 
+to NHC 15.0DME, climb to 2000FT via 
+NHC 15.0 DME counterclockwise ARC to 
+OLVAL and hold.
+Contact NAHA APP.
+11.31.8 5.8
+800
+(789)
+ELIEE
+(IF)
+NHC
+D15.0
+NHC
+2000
+1200
+MAPt
+MDA
+005°
+005°
+12001200
+Timing not authorized for defining the MAPt.
+SIOTY
+(FAF)
+DME to NHC
+CHANGE : Description of VAR. 
+(EFF:20 APR 2023) 23/3/23
+ROAH AD2.24-IAC-14
+NAHA
+
+
+=== Page 80 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+ROAH / NAHA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+䝃䞁䝗 䝘䜺䞁䝚ᓥ
+Sando Island
+៞Ⰻ㛫䝜䞊䝇 Ώ჆ᩜᓥ໭➃
+Kerama North North ed ge of island
+๓ᓥ ๓ᓥ
+Maejima Island
+៞Ⰻ㛫䝃䜴䝇 Ώ჆ᩜᓥ༡➃
+Kerama South South ed ge of island
+䝗䞊䝘䝒 䝹䜹䞁♋
+Donatsu Coral reef
+䚷䝟䝹䝁䝅䝔䜱 䝟䝹䝁䝅䝔䜱
+Parco City Shopping mall
+Ᏻㅰ ᅜ㐨䠑䠔ྕ⥺Ᏻㅰᶫ
+AjaB r i d ge
+ᑠ⚘ 䝰䝜䝺䞊䝹ᑠ⚘㥐
+Oroku Station
+୚㑣ཎ ᅜ㐨䠏䠎䠕ྕ⥺୚㑣ཎ஺ཫⅬ
+Yonabaru Intersection
+䛸䜘䜏 䛸䜘䜏኱ᶫ䛸∐㱟ᶫ䛾஺Ⅼ
+Toyomi Intersection
+ᦶᩥோ ᖹ࿴♳ᛕබᅬ
+Mabuni Park
+/
+143°T / 7.5NM
+085°T / 6.2NM
+/ 2.5NM090°T
+Call sign BRG / DIST from ARP Remarks
+CHANGE : Map updated. BRG/DIST from ARP. Visual REP established(Oroku, Parco City, Toyomi).
+083°T / 1.5NM
+311°T 6.6NM/
+043°T / 4.0NM
+5.2NM037°T
+277°T / 15.4NM
+276°T / 10.5NM
+260°T / 16.1NM
+227°T / 7.8NM
+NAHA CONTROL ZONE
+NAHA CONTRO
+Below 2000FT
+SANDO
+SASANDNDOO
+NAHA CONTROL Z
+5NM from ARP
+NAHA TOWER
+NAHA TO
+118.1
+A TO
+1
+1 -
+OWER
+O
+TO
+- 126.2
+VAR 5
+R 5
+555
+
+W(2008) /
+ / 1.8'W
+㼃㼑㼎
+㼑㼎㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+KERAMA SOUTH
+KERAMA SSOUOUTH
+MAEJIMA
+MAMAEJEJIMIMAA
+MABUNI
+MAMABUBUNINI
+AJA
+AJAJJAA
+PARCO CITY
+PAPARCRCOO CICITYTY
+TOYOMI
+TOTOYOYOMIMI
+OROKU
+OROROKOKUU
+UU
+YONABARU
+YOONABARUU
+DONATSU
+DODOONANATSTSSUUU
+KERAMA NORTH
+KERAMA NORO TH
+KADENA 
+A AD
+(EFF:21 APR 2022) 24/3/22
+ROAH AD2.24-OTHER-1
+NAHA
+
+
+=== Page 81 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+ROAH / NAHA Minimum Vectoring Altitude CHART
+VAR 5˚W (2011)
+3000
+300040005000
+30003000
+4000
+5000
+6000
+600070008000
+7000
+4000
+5000
+6000
+7000
+7000
+8000
+9000
+10000
+11000
+8000
+9000
+10000
+3000
+4000
+4000
+4000
+5000
+5000
+6000
+8000
+9000
+11000
+12000
+13000
+6000
+7000
+7000
+6000
+5000
+8000
+8000
+10000
+11000
+12000
+7000
+2000
+2000
+1000
+1500
+2300
+2200
+294˚
+283˚
+279˚
+274˚
+273˚
+270˚
+257˚
+208˚
+186˚ 177˚
+163˚
+117˚
+067˚
+063˚
+058˚
+054˚
+052˚
+015˚
+99NM
+95NM
+87NM
+78NM
+68NM
+64NM
+72NM
+88NM
+56NM
+37NM
+27NM
+(7)
+(5)
+(6)
+(3)
+(1)
+(1)
+(2)
+(3)
+(4)
+(5)
+260301N/1270807E
+260459N/1272121E
+261057N/1273045E
+261640N/1273102E
+261835N/1272422E
+(6)
+(7)
+(8)
+(9)
+CENTER
+261829N/1271524E
+262505N/1271157E
+262154N/1274025E
+263755N/1274900E
+: 261231N/1273834E (NHC)
+: 263759N/1275528E
+RADIUS 3.9NM
+(2)
+(8)
+(4)
+(9)
+11NM
+17NM 24NM
+34NM
+21NM
+27NM
+35NM
+56NM
+29NM
+41NM
+53NM64NM73NM
+37NM50NM60NM69NM77NM
+42NM
+61NM76NM
+44NM
+51NM
+61NM
+68NM
+78NM
+87NM
+95NM
+99NM
+ᶃ
+ᶃ
+2600ᶄ
+ᶄ
+(EFF:26 MAR 2020) 27/2/20
+ROAH AD2.24-OTHER-2
+NAHA
+←
+

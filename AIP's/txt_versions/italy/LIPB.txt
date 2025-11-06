@@ -1,0 +1,1919 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIPB 1 - 1
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPB AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIPB AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIPB - BOLZANO
+LIPB AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIPB AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+46°27'37''N 011°19'35''E
+2 Direzione e distanza dalla città 2.16 NM SSW
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+787 FT / 31.7° C
+4 Ondulazione del geoide
+ Geoid undulation
+162.0 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2020.0) / 8'E
+6 Autorità amministrativa aeroportuale ENAC - DT Nord-Est
+Aeroporto "Marco Polo"
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+Ufficio di Bolzano
+Via Aeroporto Francesco Baracca 1
+39100 Bolzano
+Tel +39 0471 252777 
+e-mail: aero.bolzano@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale ABD AIRPORT SPA
+Tel +39 0471 255255, fax +39 0471 255222
+E-mail: info@bolzanoairport.it, generalaviation@bolzanoairport.it
+Sito web: www.bolzanoairport.it
+ Aerodrome operator ABD AIRPORT SPA
+Tel +39 0471 255255, fax +39 0471 255222
+E-mail: info@bolzanoairport.it, generalaviation@bolzanoairport.it
+Web site: www.bolzanoairport.it
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Bolzano
+Tel: + 39 0471 255311;
+ fax: +39 0471 255302
+e-mail: ci-bolzano@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note 1. Aerodromo aperto al traffico turistico, commerciale nazionale e internazionale 
+ Remarks 1. Aerodrome open to touristic, commercial and international traffic
+
+=== Page 2 ===
+AD 2 LIPB 1 - 2
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+LIPB AD 2.3 ORARIO DEI SERVIZI
+LIPB AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0430-2200 (0330-2100)
+ Aerodrome Administration  
+2 Dogana ed immigrazione MON-FRI 0700-1800 (0600-1700)
+SAT, SUN e HOL 0700-1800 (0600-1700) AVBL O/R contattando via e-mail
+coordinator@bolzanoairport.it o via telefono +39 047 1255204
+ Customs and immigration MON-FRI 0700-1800 (0600-1700)
+SAT, SUN and HOL 0700-1800 (0600-1700) AVBL O/R contacting via e-mail
+coordinator@bolzanoairport.it or by phone +39 047 1255204
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS 0530-2200 (0430-2100)
+   
+8 Rifornimento JET A1
+ABD AIRPORT SPA 
+HR: 0530-2200 (0430-2100)
+Tel: +39 0471255204 
+Email: generalaviation@bolzanoairport.it
+100LL (AVGAS)
+Aeroclub
+HR 0700-1700 (0600-1600)
+Tel: +39 0471250165
+Email: info@aeroclub.bz
+ Fuelling  
+9 Handling 0430-2200 (0330-2100)
+ Handling  
+10 Servizi di sicurezza H24
+ Security  
+11 De-icing Servizio fornito dal gestore
+01 OCT – 30 MAR HR: 0430-2200 (0330-2100)
+ De-icing Service provided by aerodrome operator
+01 OCT – 30 MAR HR: 0430-2200 (0330-2100)
+12 Note 1. 100LL (AVGAS) disponibile solo per soci Aeroclub e per casi eccezionali
+2. ARO CBO MILANO: vedi GEN 3.1
+ Remarks 1. 100LL (AVGAS) available for Aeroclub members and for exceptional cases only
+2. ARO CBO MILANO: see GEN 3.1
+LIPB AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIPB AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / NIL
+ Fuel/Oil types  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIPB 1 - 3
+AIRAC effective date 13 JUN 2024
+ENAV - Roma (A06/24)
+3 Capacità di rifornimento JET A1
+Deposito 89200 litri
+2 autobotti per rifornimento (24000 e 21000 litri)
+100LL
+Deposito da 12000 litri con distributore ad impianto fisso
+ Fuelling capacity JET A1
+89200 litres depot
+2 tank trucks for refuelling (24000 and 21000 litres)
+100LL
+12000 litres depot with fixed pump
+4 Sistema de-icing 2 camion de-icer
+Fluido usato: Tipo I o Tipo II
+Servizio disponibile solo su APRON 200
+ De-icing facilities 2 de-icer trucks
+Fluid used: Type I or Type II
+Service AVBL on APRON 200 only
+5 Hangar per aeromobili in transito Sì O/R
+ Hangar space for visiting aircraft Yes O/R
+6 Servizio riparazioni per aeromobili in 
+transito
+Disponibile solo per Aeroclub
+ Repair facilities for visiting aircraft Available for Aeroclub only
+7 Note 1. Trattore traino alianti
+2. Air Starter Unit - Pressione 45psi - Max flow: 300 pounds/min
+3. Trattore traino aeromobili “towbarless” fino a  75 ton
+4. Fluido de-icing Tipo II disponibile O/R almeno 24h prima
+ Remarks 1. Gliders towing tractor
+2. Air Starter Unit - Pressure 45psi - Max flow: 300 pounds/min
+3. “Towbarless” aircraft tractor up to 75 ton
+4. De-Icing Type II fluid AVBL O/R at least 24h in advance
+
+=== Page 4 ===
+AD 2 LIPB 1 - 4
+AIRAC effective date 13 JUN 2024 AIP - Italia
+(A06/24) ENAV - Roma
+LIPB AD 2.5 SERVIZI PER I PASSEGGERI
+LIPB AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi, autobus
+ Transportation Taxi, bus service
+4 Servizio medico Ospedale a Bolzano, 7 km
+ Medical facilities Hospital in Bolzano, 7 km
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIPB AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIPB AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 5 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà 1) Contatti per rimozione aeromobili in difficoltà:
+0430-2200 (0330-2100) tel: +39 0471 255204
+email: coordinator@bolzanoairport.it.
+2) Trattori con barra di traino universale e dedicata, trattore towbarless.
+3) Gru per aeromobili fino a 100 ton disponibili su richiesta.
+ Capability for removal of disabled aircraft 1) Contacts for removal of disabled aircraft:
+0430-2200 (0330-2100) tel: +39 0471 255204
+email: coordinator@bolzanoairport.it.
+2) Tractors with universal and dedicated towbar, tractor towbarless.
+3) Cranes for aircraft up to 100 ton O/R.
+4 Note
+ 1. Servizio antincendio disponibile HR 0530-2200 (0430-2100)
+ Remarks
+ 1. Fire fighting service available HR 0530-2200 (0430-2100)
+LIPB AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIPB AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrici, attrezzature sgombero neve e antighiaccio
+ Types of clearing equipment Sweepers, snow removal facilities, anti-icing
+2 Priorità Pista 01/19, TWY B, Apron 200
+ Clearance priorities RWY 01/19, TWY B, Apron 200
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. RWY 01/19 de-iced/anti-iced con KFOR
+2. Il coefficiente d'aderenza della pista è misurato una volta al mese a scopi
+manutentivi con mezzo Grip tester Findline Irvine GT 180
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIPB 1 - 5
+AIRAC effective date 08 AUG 2024
+ENAV - Roma (A08/24)
+ Remarks 1. RWY 01/19 de-iced/anti-iced with KFOR
+2. RWY friction coefficient is measured monthly, for maintenance reason, by Grip
+tester type Findline Irvine GT 180
+LIPB AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIPB AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron 100 - Aeroclub ASPH up to 5000Kg
+Apron 200 - Main -
+Stands 201-205
+CONC PCN 120/R/C/W/T
+Apron 200 - Main -
+Stands 206-211
+CONC PCN 119/R/B/W/T
+Apron 300 - Grass GRASS NIL
+Apron 400 CONC PCN 43/R/C/W/T
+CC CONC NIL
+GDF CONC NIL
+MIL CONC NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 16 M ASPH PCN 76/F/C/W/T
+B 16 M ASPH PCN 82/F/D/W/T
+C 8 M ASPH PCN 11/F/B/X/T
+D 20 M GRASS NIL
+E 16 M GRASS NIL
+F 11 M ASPH NIL
+M 15 M ASPH PCN 48/F/B/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. Apron 100 (sosta temporanea) AVBL per aeromobili con MTOW fino a 5000kg:
+• aircraft stand 101 AVBL per aeromobili con MAX apertura alare fino a 18m
+• aircraft stand 102 AVBL per aeromobili con MAX apertura alare fino a 12m
+2. Apron 200 (principale): dimensioni 310x48 m.
+Area dedicata per Aviazione Generale (GA) di 115x45m.
+3. Apron 300 (erba): dimensioni 130x48 m.
+Gli stand sono identificati da piastre numerate e suddivisi in larghezza con coni.
+• aircraft stands 301-302; AVBL per aeromobili con MAX apertura alare fino a 22 m
+e MTOW fino a 5000 kg
+• aircraft stands 303-305; AVBL per aeromobili con MAX apertura alare fino a 15 m
+e MTOW fino a 2000 kg
+4. Apron MIL/GDF/CC non utilizzabili da aeromobili civili
+5. TWY F e M non utilizzabili da aeromobili civili. TWY F utilizzabile solo come "air
+taxiway".
+
+=== Page 6 ===
+AD 2 LIPB 1 - 6
+AIRAC effective date 08 AUG 2024 AIP - Italia
+(A08/24) ENAV - Roma
+ Remarks 1. Apron 100 (temporary stay) AVBL for aircraft with MTOW up to 5000kg:
+• aircraft stand 101 AVBL for aircraft with MAX wingspan up to 18m
+• aircraft stand 102 AVBL for aircraft with MAX wingspan up to 12m
+2. Apron 200 (main): dimensions 310x48 m.
+Dedicated area for General Aviation (GA) of 115x45 m.
+3. Apron 300 (grass): dimensions 130x48 m.
+Stands are marked with numbered plates and divided in width with cones.
+• aircraft stands 301-302; AVBL for aircraft with max wingspan up to 22 m and
+MTOW up to 5000 kg
+• aircraft stands 306-312 303-305; AVBL for aircraft with max wingspan up to 15
+m and MTOW up to 2000 kg
+4. MIL/GDF/CC apron not usable by civil aircraft
+5. TWY F and M not usable by civil aircraft. TWY F usable only as "air taxiway".
+LIPB AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIPB AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carta AD in vigore
+ 
+RGL sempre accese
+ RWY and TWY markings and lights See AD chart in force 
+RGL always on
+3 Barre d'arresto Vedi carta AD in vigore Barre d’arresto sempre spente
+ Stop bars See AD chart in force Stop bars always turned off
+4 Note 1. Punto di attesa intermedio su TWY C (IHP ‘L3’)
+2. Punto di attesa intermedio su TWY D (IHP ‘L2’)
+3. Punto di attesa intermedio su TWY E (IHP ‘L1’)
+4. RGL non disponibili su TWY F
+5. RHP 'D' per RWY 01GLD/19GLD non segnalato
+ Remarks 1. Intermediate Holding Position on TWY C (IHP ‘L3’
+2. Intermediate Holding Position on TWY D (IHP ‘L2’)
+3. Intermediate Holding Position on TWY E (IHP ‘L1’)
+4. RGL not available on TWY F
+5. RHP 'D' for RWY 01GLD/19GLD not marked/signed
+LIPB AD 2.10 OSTACOLI AEROPORTUALI
+LIPB AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIPB AD 2.11 INFORMAZIONI METEOROLOGICHE
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIPB 1 - 7
+AIRAC effective date 13 JUN 2024
+ENAV - Roma (A06/24)
+LIPB AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Testi in linguaggio chiaro abbreviato, carte
+IT / EN
+ Flight documentation and
+language used
+Abbreviated plain language texts, charts
+IT / EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Bolzano AFIU
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le nubi con altezza della base al di sotto di 15000ft e cumulonenbi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 15000ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+
+=== Page 8 ===
+AD 2 LIPB 1 - 8
+AIRAC effective date 13 JUN 2024 AIP - Italia
+(A06/24) ENAV - Roma
+LIPB AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIPB AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+01 010.24° 1432 x 45
+PCN 54/F/A/X/T
+ASPH
+46°27'06.50''N
+011°19'27.09''E
+46°27'52.14''N
+011°19'39.02''E
+162.1 FT
+770.0 FT / NIL
+19 190.24° 1432 x 45
+PCN 54/F/A/X/T
+ASPH
+46°27'52.14''N
+011°19'39.02''E
+46°27'06.50''N
+011°19'27.09''E
+162.1 FT
+786.1 FT / NIL
+01GLD 010.31° 653 x 20
+ 
+Grass
+46°27'17.89''N
+011°19'36.50''E
+46°27'38.69''N
+011°19'41.97''E
+NIL
+771.8 FT / NIL
+19GLD 190.31° 653 x 20
+ 
+Grass
+46°27'30.69''N
+011°19'39.87''E
+46°27'17.89''N
+011°19'36.50''E
+NIL
+776.4 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+01 +0.34% NIL 121 x 150 1552 x 140 241 x 90
+19 -0.34% NIL 150 x 150 1552 x 140 193 x 90
+01GLD
++0.42%
+NIL NIL 713 x 60 NIL
+19GLD
+-0.42%
+NIL NIL 713 x 60 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+01 NIL
+1) L’area pavimentata oltre il fine pista 01 costituita da strip e RESA è utilizzabile per la corsa al
+decollo da RWY 19/The paved area beyond RWY END 01 consisting of strip and RESA is usable
+for RWY 19 take-off run
+2) Superficie/surface RWY 01/19 - informazioni addizionali/additional information: ASPHALT-
+GROOVED
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIPB 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+19 NIL
+1) Il turn-pad oltre il fine pista 19 è utilizzabile per la corsa al decollo da RWY 01/The turn-pad
+beyond RWY END 19 is usable for RWY 01 take-off run
+2) Superficie/surface RWY 01/19 - informazioni addizionali/additional information: ASPHALT-
+GROOVED
+01GLD NIL
+1) La pista in erba è delimitata da segnaletica orizzontale rettangolare di colore bianco, il fine
+pista è segnalato da segnaletica orizzontale rettangolare  di colore bianco-giallo/The grass RWY is
+marked by white flat rectangular  markers, RWY END is marked by white-yellow flat rectangular
+markers
+19GLD NIL
+1) DTHR: 251 m
+2) La soglia spostata è segnalata da segnaletica rettangolare bianco-rossa/Displaced THR is
+marked by white-red rectangular markers
+3) La pista in erba è delimitata da segnaletica orizzontale di colore bianco, il fine pista è segnalato
+da segnaletica rettangolare bianco-rossa/The grass RWY is marked by white flat rectangular
+markers, RWY END is marked by white-red rectangular markers
+LIPB AD 2.13 DISTANZE DICHIARATE
+LIPB AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+01
+START POINT 01
+1432
+1465
+1553
+1586
+1432
+1465
+1432
+-
+19
+START POINT 19
+1432
+1714
+1582
+1864
+1432
+1714
+1432
+-
+01GLD NU NU NU 653
+19GLD 653 653 653 402
+NOTE Disponibile estensione alla corsa al decollo di 33 m da START POINT RWY 01.
+Disponibile estensione alla corsa al decollo di 282 m da START POINT RWY 19.
+RWY 01GLD/19GLD presenta delle restrizioni dell’attività di volo come descritto in tabella 22 – punti
+4.1-4.8.
+REMARKS Runway starter extension of 33 m available from START POINT RWY 01.
+Runway starter extension of 282 m available from START POINT RWY 19.
+RWY 01GLD/19GLD has flight activity restrictions as described in table 22 - items 4.1-4.8.
+LIPB AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIPB AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+01 LEADIN 3400 LIH THR
+ G
+NIL 4.48°
+entrambi i lati
+both sides
+13.8 NIL
+19 NIL NIL NIL THR
+ G
+NIL 4.48°
+entrambi i lati
+both sides
+13.8 NIL
+01GLD NIL NIL NIL NIL NIL NIL NIL NIL
+19GLD NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 10 ===
+AD 2 LIPB 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+01 NIL NIL NIL NIL 955
+477
+282
+56
+56
+56
+W
+Y
+Blue
+LIH
+LIH
+LIH
+19 NIL NIL NIL NIL 282
+955
+477
+56
+56
+56
+R
+W
+Y
+LIH
+LIH
+LIH
+01GLD NIL NIL NIL NIL NIL NIL NIL NIL
+19GLD NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+01 R NIL NIL 2 NIL 1) PAPI 01: -PAPI OPS strumentali: codice
+pista NR 2 -COV di destra ridotta a 5° -COV
+di sinistra ridotta a 8°
+PAPI 01: -PAPI OPS instrument: RWY code
+NR 2 -Right COV reduced to 5° -Left COV
+reduced to 8°
+19 R NIL NIL 2 1 1) PAPI 19: Due apparati come segue:
+-PAPI OPS non strumentali: codice pista
+NR 2 -PAPI OPS condizionate da ostacoli
+ad oltre 4.9 km dalla RWY THR -
+PAPI utilizzabile solo entro 4.9 km dalla
+RWY THR Luci di bordo rosse (direzione
+avvicinamento) / blu (direzione rullaggio)
+addizionali su parte pavimentata RESA
+RWY 01
+PAPI 19: Two sets operative as follows: -
+PAPI OPS non instrument: RWY code NR 2 -
+PAPI OPS affected by OBST beyond 4.9 km
+from the RWY THR -PAPI usable only within
+4.9 km from the RWY THR Additional red
+(approach direction) / blue (taxi direction)
+edge lights on paved part of RESA RWY 01
+01GLD NIL NIL NIL NIL NIL NIL
+19GLD NIL NIL NIL NIL NIL NIL
+LIPB AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIPB AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 46°27'46''N   011°19'47''E
+Caratteristiche: Caratteristiche: rotante a luce bianco/verde alternata
+Orario: O/R
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 46°27'46''N   011°19'47''E
+Characteristics: Characteristics: revolving white/green alternating lights
+Hours: O/R
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIPB 1 - 11
+AIRAC effective date 13 JUN 2024
+ENAV - Roma (A06/24)
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 344 m dopo THR RWY 01, 244 m lato destro RCL. Lighted
+2) 21 m dopo THR RWY 19, 70 m lato destro RCL. Lighted
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 344 m after THR RWY 01, 244 m right side RCL. Lighted
+2) 21 m after THR RWY 19, 70 m right side RCL. Lighted
+3 Illuminazione bordo e asse centrale TWY Vedi carta AD in vigore
+ TWY edge and center line lighting See AD chart in force
+4 Alimentatore secondario/Tempo di 
+intervento
+GEIA / 10 secondi
+ Secondary power supply/Switch over time GEIA / 10 seconds
+5 Note NIL
+ Remarks  
+
+=== Page 12 ===
+AD 2 LIPB 1 - 12
+AIRAC effective date 13 JUN 2024 AIP - Italia
+(A06/24) ENAV - Roma
+LIPB AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIPB AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note Area di atterraggio elicotteri all'interno dell'area militare non utilizzabile da elicotteri
+civili
+ Remarks Helicopter landing area in military restricted area not usable by civil helicopters
+LIPB AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIPB AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Bolzano ATZ
+46°26'38"N 011°26'21"E;
+46°22'07"N 011°24'33"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+46°23'26"N
+011°17'35"E till point
+46°24'45"N 011°10'37"E;
+46°32'12"N 011°12'14"E
+then arc of circle in
+clockwise direction
+radius 1.5 NM centred on
+46°32'04"N
+011°14'23"E till point
+46°33'34"N 011°14'27"E;
+46°33'07"N 011°20'30"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+46°28'10"N 011°19'28"E
+till point of origin.
+6500 FT
+AMSL
+G
+Bolzano
+Aerodrome INFO
+EN/IT
+10000 FT
+1) WI Milano FIR
+2)Zona radio obbligatoria. Vedi
+ENR 2.2/Radio mandatory
+zone. See ENR 2.2 (RMZ)
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIPB 1 - 13
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIPB AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIPB AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 0530-2200 (0430-2100)
+NIL
+AFIS Bolzano Aerodrome INFO 120.600 0530-2200 (0430-2100) NIL
+LIPB AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIPB AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+ILS RWY 01 LOC
+CAT NOCAT
+(2° E-2010.0)
+IBZ
+109.10
+MHZ
+H24
+46°27'20.5''N
+011°19'41.5''E
+NIL
+30 NM
+limitazioni a/limitations at 30
+NM MRA 12000 FT
+1) COV:
+Entro le 10 NM COV
+orizzontale ridotta a +/-
+10°, oltre le 10 NM entro
+le 30 NM COV orizzontale
+ridotta a +/- 5°/Within
+10 NM horizontal COV
+reduced to +/- 10°,
+beyond 10 NM within
+30 NM horizontal COV
+reduced to +/- 5°
+DME-P IBZ CH 28X H24
+46°27'20.6''N
+011°19'41.1''E
+245 M
+AMSL
+30 NM/25000 FT
+limitazioni a/limitations at 30
+NM MRA 12000 FT
+1) COV:
+Entro le 30 NM COV
+orizzontale ridotta a
++/- 5° dal course del
+LOC associato / Within
+30 NM horizontal COV
+reduced +/- 5° from LOC
+associated course
+2)Funzionalità Final
+approach non
+utilizzabile. Per maggiori
+informazioni vedi GEN
+3.4, paragrafo 3.1/
+Final approach mode
+not usable. For more
+information see GEN 3.4,
+item 3.1.
+
+=== Page 14 ===
+AD 2 LIPB 1 - 14
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(3° E-2020.0)
+OZE
+117.05
+MHZ
+CH 117Y
+VOR H24
+DME H24
+VOR
+46°24'18.7''N
+011°17'32.3''E
+DME
+46°24'18.9''N
+011°17'32.9''E
+651 M
+AMSL
+Settore/sector 225°/150°:
+40 NM/25000 FT
+Settore/sector 150°/225°:
+50 NM/25000 FT
+1) MAINT:
+VOR: il primo WED del
+mese / first WED of
+the month: 1000-1100
+(0900-1000)
+2) Limitazioni /
+limitations:
+usabile solo per le
+procedure pubblicate
+/ available only for
+published procedures
+VOR/DME
+(3° E-2020.0)
+VIC
+113.40
+MHZ
+CH 81X
+VOR H24
+DME H24
+VOR
+45°38'14.3''N
+011°40'34.9''E
+DME
+45°38'14.3''N
+011°40'34.3''E
+65 M
+AMSL
+80 NM/50000 FT
+limitazioni a/limitations at 40
+NM
+030°/060° MRA 10000 FT
+060°/230° MRA 5000 FT
+230°/270° MRA 7000 FT
+270°/030° MRA 16000 FT
+1) MAINT:
+VOR
+Primo MON di ogni
+mese / first MON each
+  month: 0900-1100
+(0800-1000)
+DME
+Primo MON di APR e
+OCT/first MON of APR
+and OCT: 0900-1100
+(0800-1000)
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIPB 1 - 15
+AIRAC effective date 31 OCT 2024
+ENAV - Roma (A11/24)
+LIPB AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIPB AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+L'uso contemporaneo delle piste/eliporto è proibito Contemporary use of runways/helipad is prohibited
+2 Apron 2 Apron
+2.1. Ordinato movimento degli aeromobili sui piazzali
+1. Campo di applicazione e limitazioni:
+▪ Le regole di ordinato movimento si applicano solo sugli Apron 200
+e 300.
+▪ Gli Apron 100, 400 e l’area GA all’interno dell’Apron 200 prevedono
+una regolamentazione speciale.
+▪ Tutto l’apron 200 è riservato ad aeromobili con MTOW superiore a
+5000 kg. È obbligatorio un servizio minimo di Handling.
+▪ Gli Apron 100 e 300 sono disponibili per il movimento autonomo
+degli aeromobili solamente HJ ± 30 min.
+2.1. Orderly movement of aircraft on aprons
+1. Scope and limitations:
+▪ The orderly movement does apply only on Aprons 200 and 300.
+ 
+▪ Aprons 100, 400 and GA area within Apron 200 are specially
+regulated.
+▪ The entire Apron 200 is reserved to aircraft with MTOW above
+5000 kg. Minimum handling service is mandatory.
+▪ Aprons 100 and 300 are available for autonomous aircraft
+movement only HJ ± 30 min.
+2. Regolamentazione piazzali 200/300:
+▪ L’ingresso su Apron 300 dovrà avvenire seguendo la segnaletica
+della TWY A. Non è permesso parcheggiare l’aeromobile oltre le
+piastre di identificazione stand. L’uscita dagli stand dovrà avvenire
+in linea retta verso la TWY A e non è prevista una segnaletica
+orizzontale specifica.
+▪ L’ingresso su Apron 200 avverrà generalmente con assistenza
+marshalling. L’uscita dagli stand dell’Apron 200 in self-
+manoeuvring dovrà avvenire con l’angolo di sterzata massimo
+disponibile dell’aeromobile.
+▪ I piloti degli aeromobili in partenza dagli Apron 200 e 300
+comunicheranno all’AFIU lo stato di “AIRCRAFT READY” alla prima
+chiamata.
+2. Regulation Aprons 200/300:
+▪ Entrance on Apron 300 shall follow the marking and signs placed
+on TWY A. Aircraft parking beyond the stand identification plates
+is not permitted. Exit from the stands shall take place in a straight
+line towards TWY A and there is no specific marking available.
+ 
+▪ Entrance on Apron 200 will generally take place with marshalling
+assistance. Exit from self-manoeuvring stands on Apron 200
+should take place with the maximum available aircraft steering
+angle.
+▪ Pilots of aircraft departing from Aprons 200 and 300 shall report
+to AFIU the status of “AIRCRAFT READY” on the first call.
+NOTE
+Lo stato di "AIRCRAFT READY" significa:
+• operazioni di handling concluse
+• porte e stive sono chiuse
+• aircraft safety area (ASA) libera da persone, mezzi,
+equipaggiamenti e ostacoli ad eccezione delle attrezzature
+eventualmente indispensabili per la messa in moto
+dell'aeromobile (GPU, ASU)
+• marshalling presente ove necessario e/o richiesto
+• è stata consegnata all'handler tutta la documentazione
+prevista (se applicabile)
+• rimorchio per push-back connesso (se applicabile)
+REMARKS
+AIRCRAFT READY" status means:
+• handling operations completed
+• aircraft doors and holds are closed
+• aircraft safety area (ASA) clear from vehicles, equipment,
+obstacles and ground personnel with the exception of
+equipment that may be necessary for engine start-up (GPU,
+ASU)
+• marshalling available if requested or needed
+• compulsory documentation provided to handler (if
+applicable)
+• push-back tractor connected (if applicable)
+3. Regolamentazione speciale area GA all’interno dell’Apron 200:
+▪ Il parcheggio di aeromobili nell'area GA al di fuori della
+segnaletica orizzontale del singolo stand richiede il follow-me e
+posizionamento finale con assistenza marshalling.
+▪ Il marshaller fornirà al pilota le informazioni necessari per l'uscita
+dallo stand.
+3. Special regulation GA area inside Apron 200:
+▪ Aircraft parking in the GA area apart the specific aircraft stand
+marking requires follow-me and final positioning with marshalling
+assistance.
+▪ The marshaller provides the pilot with the necessary information
+for the departure from the stand.
+4. Regolamentazione speciale Apron 100/400:
+▪ Il gestore aeroportuale non assegna gli stand di arrivo e di
+partenza.
+▪ La movimentazione dell'aeromobile all'interno dell'area e la
+relativa separazione da ostacoli, veicoli e pedoni avviene sotto la
+responsabilità del pilota.
+4. Special regulation for Aprons 100/400:
+▪ The aerodrome operator does not assign arrival and departure
+stands.
+▪ The movement of the aircraft within the area and their separation
+from obstacles, vehicles and pedestrians takes place under pilot
+responsibility.
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+L'utilizzo della taxiway C è permessa esclusivamente ad aeromobili con
+apertura esterna del carrello principale inferiore a 4.5m
+Use of taxiway C is allowed only for aircraft with an outer main gear
+wheel span less than 4.5m
+
+=== Page 16 ===
+AD 2 LIPB 1 - 16
+AIRAC effective date 31 OCT 2024 AIP - Italia
+(A11/24) ENAV - Roma
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+Qualora le condizioni meteorologiche siano tali da non permettere il
+monitoraggio visivo da parte dell’AFIU di tutta o parte dell’area di
+movimento, si applicheranno le seguenti condizioni:
+    
+1. in area di movimento è consentita la movimentazione di un solo
+aeromobile per volta nella porzione di area di manovra che non è
+visibile dal personale ATS.
+2. L’utilizzo del follow-me o del traino è obbligatorio con visibilità
+inferiore a 400m. Sotto i 75 m di visibilità non è consentita la
+movimentazione a terra di aeromobili.
+If the weather conditions are such as not to allow visual monitoring
+by AFIU of all or part of the movement area, the following conditions
+shall apply:
+        
+1. in the movement area only one aircraft at a time is allowed to move
+in the portion of the manoeuvring area not visible to ATS personnel.
+       
+2. Use of a follow-me vehicle or towing is mandatory with visibility
+less than 400m. Aircraft movement on ground is not allowed with
+a visibility less than 75 m.
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. L'atterraggio degli elicotteri è consentito solo sulle piste 6.1. Helicopters landing is only allowed on runways
+6.2. Attività aviolancistica: è consentita sull'aeroporto con istituzione
+di apposita TSA (zona temporaneamente segregata) disciplinata
+tramite NOTAM. Durante le attivazioni tattiche della TSA (lancio
+paracadutisti in corso) gli aeromobili non facenti parte dell'attività
+potrebbero subire ritardi
+6.2. Parachuting Activity: it is allowed on the airport with the
+establishment of a special TSA (temporary segregated area) regulated
+by NOTAM. During the tactical activation of the TSA (parachute launch
+in progress) the aircraft not part of the activity may be subject to
+delays
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+Tutti i voli di Aviazione Generale diretti all'aeroporto di
+Bolzano, ad eccezione degli aeromobili di base, devono essere
+preventivamente accettati con PPR che sarà rilasciato in
+funzione della capacità aeroportuale e della disponibilità dei
+parcheggi. La richiesta deve essere presentata all’indirizzo e-mail:
+generalaviation@bolzanoairport.it specificando:
+• Tipo di aeromobile
+• Call sign
+• Orario stimato di arrivo (ETA)
+• Orario stimato di partenza (ETD)
+• Origine
+• Destinazione
+All General Aviation flights to Bolzano Airport, with the exception
+of based aircraft, must be previously accepted with PPR that
+will be issued according to aerodrome capacity and parking
+availability. The request must be submitted sending an e-mail to:
+generalaviation@bolzanoairport.it specifying:
+• Aircraft Type
+• Call sign
+• Estimated Time of Arrival (ETA)
+• Estimated Time of Departure (ETD)
+• Origin
+• Destination
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+Ogniqualvolta un aeromobile che operi in area di manovra si trovi in
+una situazione di avaria radio dovrà comportarsi come segue:
+Aeromobile in arrivo che ha ricevuto informazioni per il rullaggio:
+libererà la pista sull’appropriata via di rullaggio dove attenderà il
+follow-me per il parcheggio o, qualora abbia ricevuto informazioni
+come raggiungerlo, fino allo stand.
+Aeromobile in arrivo che non ha ricevuto informazioni per il rullaggio:
+se riceve idoneo segnale luminoso dell’AFIU, libera l’area di
+atterraggio ed attende il follow-me per il successivo rullaggio fino
+al parcheggio. Se non riceve segnali luminosi si ferma in pista, in
+corrispondenza del raccordo A, in attesa del follow-me.
+Aeromobile in partenza:
+continuerà sul percorso di rullaggio fino a raggiungere la prima
+posizione di attesa (RHP o IHP) dove attenderà il follow-me per il
+rientro al parcheggio.
+Whenever an aircraft operating in the manoeuvring area experiences
+a communication failure it shall operate as follows:
+Arriving aircraft that has received taxi information:
+vacate the runway on the appropriate taxiway and wait for the follow-
+me assistance to park or, if the received information is complete, reach
+the aircraft parking stand.
+Arriving aircraft that has not received taxi information:
+if received suitable signals from AFIU, vacate the landing area and wait
+for the follow-me assistance in order to be guided to the parking stand.
+If light signals are not received, stop on the runway near taxiway A
+junction and wait for the follow-me assistance.
+Departing aircraft:
+will continue on the taxiway until reaching the first holding position
+(RHP or IHP) where it will wait for the follow-me to return to the parking
+area.
+LIPB AD 2.21 PROCEDURE ANTIRUMORE
+LIPB AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIPB 1 - 17
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+È suggerito un uso limitato nelle ore 2200-0600 (2100-0500) Limited use suggested between 2200-0600 (2100-0500)
+3.3 Prove Motori 3.3 Engine run ups
+Previo coordinamento col Gestore Aeroportuale (ABD AIRPORT SPA) Prior coordination with the Aerodrome Operator (ABD AIRPORT SPA)
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIPB AD 2.22 PROCEDURE DI VOLO
+LIPB AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA' 1 GENERAL
+Presenza di circuiti di traffico per aeromobili a motore e alianti.
+Vedi procedure per voli VFR.
+Presence of traffic circuits for engine powered aircraft and gliders.
+See procedures for VFR flights.
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+1. Data la classificazione dello spazio aereo (G) e la peculiarità
+dell’orografia circostante l’aeroporto, le operazioni IFR sono
+consentite in accordo alle procedure di arrivo e partenza pubblicate
+e secondo quanto di seguito specificato.
+1. Due to airspace classification (G) and the peculiarity of the
+orography surrounding the airport, IFR operations are allowed in
+accordance with  published arrival and departure procedures and as
+as specified below.
+2. Le operazioni IFR sono limitate ad un aeromobile per volta
+da/per gli aeroporti di Bolzano, Trento/Mattarello e da/per le
+elisuperfici Ospedale di Cles (LIKC), Fiemme (LIKB) e ospedale
+Arco (LIKA), per qualsiasi combinazione di arrivi e/o partenze
+strumentali. Altri traffici attenderanno al suolo o nei circuiti di attesa,
+fino a che l’operazione IFR in atto non sia stata completata.
+2. IFR operation are limited to one aircraft at a time to/from the
+aerodrome of Bolzano, Trento/Mattarello and Cles Hospital helipad
+(LIKC), Fiemme (LIKB) and Arco hospital(LIKA), for any instrument
+arrival and/or departure. Other aircraft shall wait on the ground
+or hold over the holding path until the instrument procedure is
+completed.
+3. L’utilizzo delle procedure strumentali di arrivo e di partenza è
+soggetto a particolari restrizioni ed autorizzazioni (vedi tabella 23).
+3. The use of arrival and departure instrument flight procedures is
+subject to particular restrictions and authorizations (see table 23).
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR:
+Vedere tabella 24
+STAR description:
+See table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+Procedura guidata strumentalmente per forare le nubi LOC
++DME RWY 01
+La procedura può essere eseguita secondo quanto di seguito riportato:
+a. Il segmento finale a vista dal MAPt al campo è consentito se la
+visibilità (il valore misurato dall'operatore AFIU o dichiarato dal
+pilota in volo e riferito alla direzione di atterraggio/decollo) non è
+inferiore a 5km di giorno e 8km di notte.
+b. Istruzioni per il segmento finale a vista RWY 01: al MApt, con le luci
+RWY lead-in in vista, seguire le indicazioni delle luci RWY lead-in
+mantenendo l'allineamento di IBZ LOC e la lettura DME fino a 2NM
+IBZ DME, quindi procedere per l'atterraggio mantenendo il campo
+in vista.
+Nota: presenza di ostacoli orografici sul lato sinistro
+dell’avvicinamento, che forano la superficie VSS ma non la superficie
+di protezione del PAPI (OPS). Mantenere in vista le luci del PAPI RWY
+01 durante la notte.
+Nota: i l PAPI della RWY01 è conforme ai requisiti per la
+procedura strumentale di avvicinamento, vedasi 'Special Condition'
+SC.LIPB.004 in tabella 23 paragrafo 2.
+c. Istruzioni per il segmento finale a vista RWY 19: eseguire la
+procedura in accordo al precedente punto b) fino ad avere il campo
+Instrument Cloud Breaking Procedure LOC+DME RWY 01
+    
+The procedure can be executed according to what is described below:
+a. Visual final segment from MAPt to the field is allowed only if visibility
+(the value measured by AFIU operator or declared by the pilot in
+flight and referred to the landing/take off direction) is not less than
+5km during daylight and 8km during night-time.
+b. Visual final segment instructions for RWY 01: at MAPt, with
+RWY lead-in lights in sight follow RWY lead-in lights indications
+maintaining IBZ LOC course and DME reading until 2NM IBZ DME
+then proceed for landing maintaining the field in sight.
+Remark: orographic obstacles on the left side of the approach,
+which penetrate the VSS surface but not the PAPI protection surface
+(OPS). At night keep the PAPI RWY 01 lights in sight.
+Remark: PAPI RWY 01 is compliant with the requirements to be
+used for instrument approach procedure, see 'Special Condition'
+SC.LIPB.004 in table 23 paragraph 2.
+   
+    
+c. Visual final segment instructions for RWY 19: perform the procedure
+according to item b) above until field is in sight, then join right hand
+
+=== Page 18 ===
+AD 2 LIPB 1 - 18
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+in vista, quindi inserirsi nel circuito di traffico destro (ad Ovest del
+campo). L’atterraggio per RWY 19 di notte è proibito.
+d. È vietato eseguire avvicinamenti notturni con un motore non-
+operativo.
+e. È responsabilità dell'operatore aereo disporre di procedure di
+contingency in caso di improvvisa avaria di qualunque aiuto alla
+navigazione necessario.
+traffic circuit (West of the field). Landing for RWY 19 at night is
+forbidden.
+d. Night approaches with one engine out are prohibited.
+e. It is the responsibility of the aircraft operator to have contingency
+procedures in place for the sudden failure of any necessary
+navigation aid.
+Procedura guidata strumentalmente per forare le nubi RNP
+APCH RWY 01
+La procedura può essere eseguita secondo quanto di seguito indicato:
+a. Il segmento finale a vista dal MAPt al campo è consentito: se
+visibilità (il valore misurato dall'operatore AFIU o dichiarato dal
+pilota in volo e riferito alla direzione di atterraggio/decollo) non è
+inferiore a 5 km di giorno e 8 km di notte.
+b. Istruzioni per il segmento finale a vista per RWY 01: al MAPt, con le
+luci RWY LEAD-IN in vista, assicurarsi di cambiare la guida laterale
+da LNAV a quella più appropriata per mantenere la rotta e seguire le
+indicazioni delle luci RWY LEAD-IN fino all'acquisizione del contatto
+visivo con la pista.
+Nota: presenza di ostacoli orografici sul lato sinistro
+dell’avvicinamento, che forano la superficie VSS ma non la superficie
+di protezione del PAPI (OPS). Mantenere in vista le luci del PAPI RWY
+01 durante la notte.
+c. Istruzioni per il segmento finale a vista per RWY 19: eseguire la
+procedura in accordo al precedente punto b) fino ad avere il campo
+in vista, quindi inserirsi nel circuito di traffico destro (ad Ovest del
+campo). L’atterraggio per RWY 19 di notte è proibito.  
+d. È vietato eseguire avvicinamenti notturni con un motore non-
+operativo.
+e. È responsabilità dell'operatore aereo disporre di procedure di
+contingency in caso di improvvisa avaria di qualunque aiuto alla
+navigazione necessario.
+Instrument guided cloud breaking procedure RNP APCH RWY
+01
+The procedure can be performed according to what is described below:
+a. Visual final segment from MAPt to the field is allowed only: if visibility
+(the value measured by AFIU operator or declared by the pilot in
+flight and referred to the landing/take off direction) is not less than
+5 km during daylight and 8 km during night-time.
+b. Visual final segment instructions for RWY 01:  at MAPt, with RWY
+LEAD-IN lights in sight, be sure to change lateral navigation from
+LNAV to the one suitable to maintain the track and follow RWY LEAD-
+IN lights indications until visual contact with the runway is acquired.
+Remark: orographic obstacles on the left side of the approach,
+which penetrate the VSS surface but not the PAPI protection surface
+(OPS). At night keep the PAPI RWY 01 lights in sight.
+  
+   
+c. Visual final segment instructions for RWY 19: perform the procedure
+according to item b) above until field in sight, then join right hand
+traffic circuit (West of the field). Landing for RWY 19 at night is
+forbidden.
+d. Night approaches with one engine out are prohibited.
+   
+e. It is the responsibility of the aircraft operator to have contingency
+procedures in place for the sudden failure of any necessary
+navigation aid.
+VOR a CAT A/B/C
+La procedura e le connesse procedure proposte/suggerite in ‘VAC
+Bolzano RWY01’, ‘VAC Bolzano RWY19’ e ‘Balked Landing Procedure
+RWY01’ può essere eseguita solo di giorno e richiede:
+- aeromobili di categoria C: l'atterraggio avverrà in VFR dopo aver
+cancellato il piano di volo IFR su OZE VOR.
+- aeromobili di categoria A e B: l'atterraggio per pista 01 avverrà
+in seguito al completamento della procedura descritta nella carta
+VAC Bolzano RWY 01. L'atterraggio per RWY 19 avverrà a seguito di
+effettuazione di circling per RWY 19.
+Come ausilio all'effettuazione della procedura di circling RWY 19 è
+pubblicata la cartina VAC Bolzano RWY 19, che contiene informazioni
+finalizzate a facilitare la pianificazione delle manovre a vista per
+l'atterraggio.
+I limiti di visibilità e ceiling per poter effettuare la procedura sono
+riportati nelle relative carte (AD 2 LIPB 5-7, VAC Bolzano RWY 19, AD
+2 LIPB 5-9, VAC Bolzano RWY 01).
+VOR a CAT A/B/C
+The procedure and proposed/suggested procedures described in ‘VAC
+Bolzano RWY01’, ‘VAC Bolzano RWY19’ and ‘Balked Landing Procedure
+RWY01’ can be performed daylight only and need:
+- CAT C aircraft: landing will take place according to VFR, after
+cancelling IFR flight plan over OZE VOR.
+- CAT A/B aircraft: landing for RWY 01 will take place after completing
+the procedure described in chart VAC Bolzano RWY 01. Landing for
+RWY 19 will take place after completing circling manoeuvres.
+The chart VAC Bolzano RWY 19 is published in order to provide
+information for planning the visual manoeuvres for landing RWY 19.
+Visibility and ceiling limitations to perform the procedure are reported
+on charts (AD 2 LIPB 5-7, VAC Bolzano RWY 19, AD 2 LIPB 5-9, VAC
+Bolzano RWY 01).
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+Il contatto radio con Bolzano AFIU è obbligatorio prima di lasciare lo
+IAF, allo scopo di ricevere qualunque informazione pertinente. In caso
+di radio-avaria e contestuali condizioni IMC, i piloti dovranno dirottare
+sull'aerodromo alternato, inserendo il codice 7600 sul transponder
+SSR.
+Radio contact with Bolzano AFIU is mandatory before leaving the
+IAF, in order to receive any information concerned. In the event of
+radio failure and in IMC, pilots are requested to divert to alternate
+aerodrome, with the SSR transponder set on 7600.
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+Vedere tabella 23. See table 23.
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures and SID
+Procedure di salita iniziale e SID:
+Vedere tabella 24
+Initial Climb Procedures RWY01/19
+Le procedure di decollo diurne in vigore non richiedono l’autorizzazione
+da parte del gestore aeroportuale.
+Initial Climb Procedures RWY01 Cat A/B/C
+Initial Climb Procedures RNP1 RWY01 Cat A/B/C
+Initial Climb Procedures RNP1 RWY19 Cat A/B/C
+Initial Climb Procedures and SID:
+See table 24
+Initial Climb Procedures RWY01/19
+The  current  daytime  departure  procedures  do  not  require
+authorization from the aerodrome operator.
+Initial Climb Procedures RWY01 Cat A/B/C
+Initial Climb Procedures RNP1 RWY01 Cat A/B/C
+Initial Climb Procedures RNP1 RWY19 Cat A/B/C
+
+=== Page 19 ===
+AIP - Italia
+AD 2 LIPB 1 - 19
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+La procedura può essere eseguita con visibilità (il valore dichiarato
+dall’operatore AFIU o dichiarato dal pilota e riferito alla direzione di
+decollo) non inferiore a 600 m.
+Departure procedure can be executed with a visibility (the value
+measured by AFIU operator or declared by the pilot referred to the
+take-off direction) not less than 600 m.
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+4.1.1. Le operazioni VFR CAT (Traffico Aereo Commerciale) sono
+consentite solo con visibilità non inferiore a 5 km.
+4.1.1. VFR CAT (Commercial Air Traffic) operations are allowed only
+with visibility not less than 5 km.
+4.1.2. Nessun traffico VFR è consentito all’interno dell’ATZ di Bolzano
+durante lo svolgimento di un avvicinamento o partenza IFR. Il traffico
+VFR deve contattare Bolzano AFIU sui previsti Visual Reporting Points
+prima dell’ingresso nell’ATZ per ricevere informazioni circa la presenza
+eventuale di traffico IFR. Il traffico VFR, prima di poter interessare
+l'ATZ, dovrà attendere che il traffico IFR abbia lasciato l'ATZ oppure sia
+atterrato. Per le ragioni sopra descritte il traffico VFR potrebbe subire
+ritardi.
+4.1.2. No VFR traffic is allowed within Bolzano ATZ when an IFR
+approach or departure is in progress at Bolzano. VFR traffic shall
+contact Bolzano AFIU over the established Visual Reporting Points
+before entering the ATZ, in order to receive information about existing
+IFR traffic. VFR traffic, before entering in ATZ, shall wait that IFR traffic
+has left the ATZ or has landed. For the reasons described above, VFR
+traffic may be subject to delay.
+4.1.3. Vedi ENR 2.1.1.1.4.3 Norme per il traffico VFR, paragrafo 3) Voli
+che operano nell'area di Bolzano e Trento
+4.1.3. See ENR 2.1.1.1.4.3 Rules for VFR traffic, paragraph 3) Flights
+operating within Bolzano and Trento area
+4.2 Attività di circuito 4.2 Circuit activity
+Aeromobili a motore (incluso motoaliante) esclusivamente ad ovest: Engine powered aircraft (engine-powered glider included) only at
+west:
+a. RWY 01/01GLD: virata a sinistra a 2500 ft QNH
+b. RWY 19/19GLD: virata a destra a 2000 ft QNH
+a. RWY 01/01GLD: left turn at 2500 ft QNH
+b. RWY 19/19GLD: right turn at 2000 ft QNH
+Alianti esclusivamente ad est: Gliders only at east:
+a. RWY 01GLD: solo atterraggio con virata a destra a 1800 ft QNH
+b. RWY 19GLD: virata a sinistra a 1800 ft QNH
+a. RWY 01GLD: landing only with right turn at 1800 ft QNH
+b. RWY 19GLD: left turn at 1800 ft QNH
+NOTA
+Aeromobile trainatore consentito ad est solo con aliante
+agganciato
+REMARK
+Towing aircraft allowed at east only with towed glider
+4.3 Arrivi 4.3 Arrivals
+RWY 19GLD: atterraggio consentito solamente ad alianti non a motore
+e pilota in comando familiarizzato dall’Aeroclub di Bolzano con le
+restrizioni di cui ai punti 4.1-4.8 o nei casi di emergenza.
+Atterraggio alianti preferibilmente su RWY 01GLD. Per dettagli
+riguardanti la familiarizzazione contattare info@aeroclub.bz.
+RWY19GLD: landing allowed only for non-engine powered glider
+and pilot-in-command familiarized by the Aeroclub Bolzano with the
+restrictions referred to items 4.1-4.8 or in emergency cases.
+Preferential landing direction for glider is RWY 01GLD. For details
+regarding familiarization contact info@aeroclub.bz.
+4.4 Partenze 4.4 Departures
+RWY 01GLD: decollo non consentito. RWY 01GLD: take-off not allowed.
+4.5 Sorvoli 4.5 Overflying
+Sorvolo/passaggio basso su sedime aeroportuale non consentito al di
+sotto di 1000 ft QNH ad eccezione dei voli militari e di stato. Ulteriori
+eccezioni sono autorizzate dal gestore aeroportuale.
+Overflying/low pass over aerodrome area non allowed below 1000
+ft QNH with the exceptions of military and state flights. Further
+exceptions are authorized by the aerodrome operator.
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+
+=== Page 20 ===
+AD 2 LIPB 1 - 20
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+4.7 VFR notturno 4.7 VFR/N
+Il VFR notturno non è consentito Night VFR is not allowed
+4.8 Attività addestrativa 4.8 Training activity
+a) RWY 01GLD/19GLD: touch-and-go non consentito
+b) RWY 01GLD/19GLD: volo stazionario non consentito
+c) RWY 01/19: touch-and-go consentito solo agli aeromobili di tipo
+MIL, di stato, SAN, SAR e di base. Ulteriori eccezioni sono autorizzate
+dal gestore aeroportuale.
+a) RWY 01GLD/19GLD: touch-and-go not allowed
+b) RWY 01GLD/19GLD: hovering not allowed
+c) RWY 01/19: touch-and-go allowed only for MIL, state, SAN, SAR and
+based aircraft. Further exceptions are authorized by the aerodrome
+operator.
+5 LVP 5 LVP
+NIL NIL
+LIPB AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIPB AD 2.23 ADDITIONAL INFORMATION
+1. Informazioni aggiuntive riguardanti le procedure
+strumentali di arrivo e di partenza
+Se non diversamente specificato le procedure strumentali di arrivo e
+di partenza possono essere effettuate solo dagli Operatori autorizzati
+dal gestore aeroportuale e dagli Operatori di voli di Stato Italiani
+autorizzati dalle competenti Amministrazioni dello Stato (disposizione
+ENAC NR 140927/SOV/A del 25 ottobre 2001 e NR 05-140052/SOV
+del 1° febbraio 2005).
+L'autorizzazione è obbligatoria per il pilota in comando dell’aeromobile
+e si applica a tutte le tipologie di operazioni (CAT, NCC, NCO) e a tutte
+le tipologie di aeromobili.
+Per ottenere l'autorizzazione, si prega di consultare il sito https://
+ifr-qualification.bolzanoairport.it. Per ulteriori informazioni è possibile
+contattare afo@bolzanoairport.it.
+L’autorizzazione del gestore aeroportuale è conferita mediante
+l'emissione di un certificato, il quale ha una validità di 12 mesi, con
+possibilità di rinnovo. Ogni certificato è strettamente legato al pilota e
+a una specifica categoria di aeromobile; per ogni categoria aggiuntiva
+di aeromobile, è essenziale ottenere un certificato supplementare.
+Per ottenere il certificato di autorizzazione su un determinato
+aeromobile il pilota-in-comando di operazioni di aeromobili
+commerciali e non commerciali deve rispettare le disposizioni stabilite
+da ORO.FC.105 relative al Regolamento UE n. 965/2012. Inoltre, il
+pilota deve accumulare un’esperienza minima di volo sullo stesso
+aeromobile o su un aeromobile nella stessa categoria di avvicinamento
+(Doc ICAO 8168 Volume 1, Sezione 5, Capitolo 1, Punto 1.4.1) o
+superiore.
+L’esperienza minima è di:
+- 100 ore di volo e 10 tratte nei precedenti 120 giorni consecutivi,
+oppure
+- 150 ore di volo e 20 tratte (senza limiti temporali).
+Per conseguire il certificato, il pilota deve superare un questionario
+e rispondere positivamente a domande riguardanti l'operatività
+dell’aeromobile.
+Il rinnovo del certificato può essere effettuato mediante l'esecuzione di
+almeno un decollo, avvicinamento e atterraggio presso l'aeroporto di
+Bolzano, utilizzando l’aeromobile indicato sul certificato, almeno una
+volta durante il periodo di validità del certificato come previsto da
+ORO.FC.105. Questo processo di rinnovo avviene con la presentazione
+di un'autodichiarazione attestante l'adempimento ai requisiti previsti.
+Nel caso in cui il pilota non soddisfi i requisiti per il rinnovo, come
+descritto nel paragrafo precedente, sarà necessario richiedere una
+nuova autorizzazione, superando nuovamente il test.
+Tale autorizzazione non esime l'operatore / pilota dall'ottenere
+un'approvazione o autorizzazione dall'autorità aeronautica
+competente del proprio stato di appartenenza laddove una tale
+autorizzazione / approvazione sia richiesta. Gli operatori CAT e
+NCC hanno facoltà di qualificarsi attraverso la propria struttura di
+addestramento. In tal caso si consiglia comunque di prendere visione
+della documentazione pubblicata sul sito internet.
+1. Additional information regarding arrival and departing
+instrumental procedures
+Unless otherwise specified arrival and departure instrument flight
+procedures can be performed only by Operators approved by the
+aerodrome operator and by Operators conducting Italian State Flights,
+authorized by the competent State administrations (ENAC provisions
+nr. 140927/SOV/A of October 25, 2001 and nr. 05-140052/SOV of
+February 1, 2005).
+Authorization is mandatory for the pilot in command of the aircraft
+and applies to all types of operations (CAT, NCC, NCO), and all types
+of aircraft.
+To obtain the authorization, please refer to the website https://
+ifr-qualification.bolzanoairport.it. For additional information, you can
+contact afo@bolzanoairport.it.
+The aerodrome operator's authorization is granted through the
+issuance of a certificate, which is valid for 12 months, with the
+possibility of renewal. Each certificate is linked to the pilot and a
+specific category of aircraft; for each additional category of aircraft,
+obtaining an additional certificate is essential.
+To obtain the authorization certificate for a specific aircraft, the pilot-in-
+command of commercial and non-commercial aircraft operations must
+adhere to the provisions in ORO.FC.105, related to EU Regulation n.
+965/2012. Additionally, the pilot must accumulate a minimum flight
+experience on the same aircraft or on an aircraft in the same approach
+category (ICAO Doc 8168 Volume 1, Section 5, Chapter 1, Point 1.4.1)
+or higher.
+  
+The minimum experience requirements are as follows:
+- 100 hours of flight time and 10 sectors in the previous consecutive
+120 days, or
+- 150 hours of flight time and 20 sectors (without time limits).
+To acquire the certificate, the pilot must pass a questionnaire and
+respond positively to questions regarding the operation of the aircraft.
+    
+The renewal of the certificate can be carried out by performing at
+least one take-off, approach, and landing at Bolzano airport, using the
+aircraft indicated on the certificate, at least once during the certificate's
+validity period according to ORO.FC.105.
+This renewal process takes place with a self-declaration confirming
+compliance with the specified requirements.
+If the pilot does not meet the renewal requirements, as described
+in the preceding paragraph, it will be necessary to apply for a new
+authorization by successfully completing the test again.
+This authorization does not relieve the operator / pilot to obtain
+an approval or authorization from the competent national aviation
+authority of the state of the operator / pilot if so required. 
+CAT and NCC aircraft operators have the option to qualify through their
+own training structure. In this case, it is still recommended to review
+the documentation published on the website.
+2 DOCUMENTI DI AZIONE E ACCETTAZIONE DELLA
+DEVIAZIONE (DAAD), CONDIZIONI SPECIALI (SC) E LIVELLI
+DI SICUREZZA EQUIVALENTE (ELOS)
+2 DEVIATION ACCEPTANCE AND ACTION DOCUMENTS
+(DAAD), SPECIAL CONDITIONS (SC) AND EQUIVALENT LEVEL
+OF SAFETY (ELOS)
+Numero di
+riferimento
+Descrizione
+SC.LIPB.001 La porzione di pista della soglia 19
+eccede i valori limite di pendenza
+trasversale (pendenza massima
+1.49%).
+Rif. CS ADR-DSN.B.080
+Transverse slopes on runways
+(RWY 01-19)
+Reference
+number
+Description
+SC.LIPB.001 The runway portion of threshold
+19 exceeds the limit values of
+transverse slope (maximum slope
+1.49%).
+Rif. CS ADR-DSN.B.080
+Transverse slopes on runways
+(RWY 01-19)
+
+=== Page 21 ===
+AIP - Italia
+AD 2 LIPB 1 - 21
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+Numero di
+riferimento
+Descrizione
+SC.LIPB.002 Sulla pista in erba non è presente
+la segn letica orizzontale indicante
+l’orientamento.
+Rif. CS ADR-DSN.L.525 Runway
+designation marking (RWY 01-19
+and RWY 01-19 GLD)
+SC.LIPB.003 Sulla pista in erba non è
+presente la segnaletica orizzontale
+indicante la soglia.
+Rif. CS ADR-DSN.L.535 Threshold
+marking (RWY 01-19 GLD)
+SC.LIPB.004 PAPI RWY 01 è costruito e regolato
+in modo tale da poter essere
+utilizzato anche per la procedura
+di avvicinamento IFR LOC+DME.
+Durante l'avvicinamento il pilota,
+seguendo il sentiero corretto di
+discesa, vedrà il PAPI con una luce
+rossa e tre luci bianche.
+     
+Rif. CS ADR.DSN.M.645 Precision
+approach path indicator and
+abbreviated precision
+SC.LIPB.005 Start point disponibili per pista
+01/19 (START POINT RWY 01
+e START POINT RWY 19) con
+estensione per la corsa al decollo.
+I punti di decollo sono misurati dal
+bordo esterno pavimentato.
+      
+Rif. CS ADR.DSN.B.035 Length of
+runway and declared distances
+ELOS.LIPB.001 L’allontanamento delle acque dalle
+superfici non pavimentate (pista
+in erba, taxiway D, taxiway E e
+APRON 300) è assicurato dalla
+capacità drenante del terreno.
+ 
+Rif. CS ADR-DSN.B.080
+Transverse slopes on runways
+(RWY 01-19 GLD)
+Rif. CS ADR-DSN.D.280
+Transverse slopes on taxiways
+(TWY D and E)
+Rif. CS ADR-DSN.E.360 Slopes on
+aprons (APRON 300)
+DAAD.LIPB.001 Portanza insufficiente su una parte
+della porzione livellata della strip.
+Rif. CS ADR-DSN.B.190 Strength
+of runway strips (RWY 01-19)
+Reference
+number
+Description
+SC.LIPB.002 None designation marking on
+grass runway.
+Rif. CS ADR-DSN.L.525 Runway
+designation marking (RWY 01-19
+and RWY 01-19 GLD)
+SC.LIPB.003 None THR marking on grass
+runway.
+Rif. CS ADR-DSN.L.535 Threshold
+marking (RWY 01-19 GLD)
+SC.LIPB.004 PAPI RWY 01 is constructed and
+set to be used also for IFR
+LOC+DME approach procedure.
+During approach the pilot on the
+correct descent path will see one
+red and three white lights of the
+PAPI.
+   
+   
+     
+Ref. CS ADR.DSN.M.645 Precision
+approach path indicator and
+abbreviated precision
+SC.LIPB.005 Start points available for runway
+01/19 (START POINT RWY 01
+and START POINT RWY 19) with
+runway starter extension. The
+start points are measured from the
+outer pavement edge.
+    
+Ref. CS ADR.DSN.B.035 Length of
+runway and declared distances
+ELOS.LIPB.001 Drainage of water on unpaved
+surfaces (grass RWY, TWY D, TWY
+E and APRON 300) is ensured by
+the draining capacity of the soil.
+Rif. CS ADR-DSN.B.080
+Transverse slopes on runways
+(RWY 01-19 GLD)
+Rif. CS ADR-DSN.D.280
+Transverse slopes on taxiways
+(TWY D and E)
+Rif. CS ADR-DSN.E.360 Slopes on
+aprons (APRON 300)
+DAAD.LIPB.001 Insufficient bearing strength on a
+portion of the graded strip.
+Rif. CS ADR-DSN.B.190 Strength
+of runway strips (RWY 01-19)
+LIPB AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIPB AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIPB 2 - 1
+AIRCRAFT PARKING DOCKING CHART ICAO  AD 2 LIPB 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A RWY 01/19  AD 2 LIPB 3 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 01/19 -
+NOT USABLE FOR TAKE-OFF,LANDING
+ AD 2 LIPB 3 - 3
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIPB 3 - 5
+STANDARD INSTRUMENT ARRIVAL CHART (STAR)  AD 2 LIPB 4 - 1
+STANDARD INSTRUMENT ARRIVAL CHART (STAR)
+DESCRIPTION TABLES
+ AD 2 LIPB 4 - 3
+STAR RNP1  AD 2 LIPB 4 - 5
+STAR RNP1 DESCRIPTION TABLES  AD 2 LIPB 4 - 7
+ICAO VISUAL APPROACH CHART  AD 2 LIPB 5 - 1
+
+=== Page 22 ===
+AD 2 LIPB 1 - 22
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+Carte - Charts Pagine - Pages
+ICAO INSTRUMENT APPROACH CHART LOC+DME INSTRUMENT
+GUIDED CLOUD BREAKING PROCEDURE RWY 01 CAT A/B/C
+ACFT
+ AD 2 LIPB 5 - 3
+ICAO INSTRUMENT APPROACH CHART VOR a CAT A/B/C ACFT  AD 2 LIPB 5 - 5
+VAC BOLZANO RWY 19 VISUAL MANOEUVRING (CIRCLING) ON
+PRESCRIBED TRACK TO RWY 19 CAT A/B
+ AD 2 LIPB 5 - 7
+VAC BOLZANO RWY 01 VISUAL APPROACH PROCEDURE TO
+RWY 01 CAT A/B ACFT
+ AD 2 LIPB 5 - 9
+BALKED LANDING PROCEDURE RWY 01 VISUAL APPROACH
+PROCEDURE TO RWY 01 CAT A/B ACFT
+ AD 2 LIPB 5 - 11
+ICAO INSTRUMENT APPROACH CHART RNP APCH INSTRUMENT
+GUIDED CLOUD BREAKING PROCEDURE RWY 01 CAT A/B/C
+ AD 2 LIPB 5 - 13
+ICAO INSTRUMENT APPROACH CHART RNP APCH INSTRUMENT
+GUIDED CLOUD BREAKING PROCEDURE RWY 01 CAT A/B/C
+DESCRIPTION TABLES
+ AD 2 LIPB 5 - 15
+INITIAL CLIMB PROCEDURES RWY 01 CAT A/B/C  AD 2 LIPB 6 - 1
+INITIAL CLIMB PROCEDURES RWY 01 CAT A/B/C DESCRIPTION
+TABLES
+ AD 2 LIPB 6 - 3
+INITIAL CLIMB PROCEDURES RWY 01/19  AD 2 LIPB 6 - 5
+INITIAL CLIMB PROCEDURES RWY 01/19 DESCRIPTION TABLES  AD 2 LIPB 6 - 7
+STANDARD INITIAL DEPARTURE CHART (SID)  AD 2 LIPB 6 - 9
+STANDARD INITIAL DEPARTURE CHART (SID) DESCRIPTION
+TABLES
+ AD 2 LIPB 6 - 11
+INITIAL CLIMB PROCEDURES RNP1 RWY 01 CAT A/B/C  AD 2 LIPB 6 - 13
+INITIAL CLIMB PROCEDURES RNP1 RWY 01 CAT A/B/C
+DESCRIPTION TABLES
+ AD 2 LIPB 6 - 15
+INITIAL CLIMB PROCEDURES RNP1 RWY 19 CAT A/B/C  AD 2 LIPB 6 - 17
+INITIAL CLIMB PROCEDURES RNP1 RWY 19 CAT A/B/C
+DESCRIPTION TABLES
+ AD 2 LIPB 6 - 19
+SID RNP1  AD 2 LIPB 6 - 21
+SID RNP1 DESCRIPTION TABLES  AD 2 LIPB 6 - 23
+Carte - Charts Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIPB AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIPB AD 2.25 Visual segment surface (VSS) penetration

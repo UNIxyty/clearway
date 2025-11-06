@@ -1,0 +1,2197 @@
+=== Page 1 ===
+AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD2-1
+(EFF:1 OCT 2021) 12/8/21
+AD 2 AERODROMES
+RJFE AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJFE - FUKUE
+RJFE AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJFE AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 323959N/1284958E
+APRX 400m SW of AP administration office
+2 Direction and distance from (city) 1.7nm SW of Goto city
+3 Elevation/ Reference temperature 251FT / 34°C (2003-2007)
+4 Geoid undulation at AD ELEV 
+PSN
+99ft
+5 MAG VAR/ Annual change 7° W(2009) / 2.8’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Fukue Airport Administration Office, Nagasaki Prefectual Government 
+2158 Kamioozu, Gotou-city, Nagasaki, 853-0013, JAPAN
+Tel: 0959-72-2400 e-mail: s12080@pref.nagasaki.lg.jp
+7 Types of traffic permitted 
+(IFR/VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2300 - 1030
+2 Customs and immigration On request
+Customs: 095-828-8641
+Immigration: 095-822-5289
+3 Health and sanitation Quarantine(human): On request(095-826-8081)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (FUKUOKA)
+7 ATS 2300 - 1030
+Remarks: AFIS provided by Fukuoka Airport Office.
+8 Fuelling Nil
+9 Handling Nil
+10 Security 2300 - 1030
+11 De-icing Nil
+12 Remarks Nil
+
+
+=== Page 2 ===
+RJFE AD2-2 AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD 2.4 HANDLING SERVICES AND FACILITIES
+RJFE AD 2.5 PASSENGER FACILITIES
+RJFE AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJFE AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Nil
+3 Fuelling facilities/ capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels in Goto city 5km
+2 Restaurants at Airport
+3 Transportation Busses and Taxis
+4 Medical facilities First aid treatment center, Hospital in Goto city 5km
+5 Bank and Post Office in Goto city 5km
+6 Tourist Office in Goto city 5km
+7 Remarks Nil
+1 AD category for fire fighting CAT 7
+2 Rescue equipment Chemical fire fighting truck x 2
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Not AVBL
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:16 MAY 2024) 16/5/24
+
+
+=== Page 3 ===
+AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD2-3
+RJFE AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJFE AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJFE AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface: Asphalt
+Strength: SOUTH : PCR 377/F/B/X/T
+NORTH : PCR 172/F/C/Y/T
+2 Taxiway width, surface and 
+strength
+Surface: Asphalt
+Width & Strength : 
+T1 23m PCR 537/F/D/X/T
+T2 18m PCR 149/F/C/Y/T
+3 ACL and elevation Not AVBL
+4 VOR checkpoints Not AVBL
+5 INS checkpoints (Spot NR)
+3: 323956.09N/1285017.80E
+5: 323956.07N/1285017.79E
+6: 323956.19N/1285017.54E
+6 Remarks Nil
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:RWY03/21 
+(Marking):RWY designation, RWY CL, RWY THR, TDZ, Aiming point, RWY side 
+stripe 
+(LGT): RCLL, REDL, RTHL, RENL, RWY DIST marker LGT,
+TWY:
+(Marking):
+(LGT): TWY edge LGT, TWY CL LGT(TWY T1), Taxiing guidance sign
+3 Stop bars Nil
+4 Remarks (Marking): Overrun area 
+(LGT): Apron flood LGT 
+In approach/TKOF areas
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+In circling area and at AD
+Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Mountain to be developed 1039ft - / LIM above the horizontal surface
+Mountain 324436.0N/1284455.2E 830ft - / LIM above the horizontal surface
+Antenna 323951.8N/1285036.0E 582ft - / LIL above the horizontal surface
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 4 ===
+RJFE AD2-4 AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJFE AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office FUKUOKA
+2 Hours of service
+MET Office outside hours
+H24 (FUKUOKA)
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuanc
+Nil
+5 Briefing/ consultation provided Briefing is available upon inquiry at FUKUOKA
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available for 
+briefing or consultation
+S6,  U85,  U7,  U5,  U3,  U25,  U2/Tr, PS,  P5,  P3,  P25,  PSWE,  PSWF,  
+PSWG,  PSWI,  PSWM,  PSW(domestic),   E,  C,  WE,  WF,  WG,  WI,  W,  N 
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information RADIO
+10 Additional information(limitation of service, 
+etc.)
+Nil
+Designations
+RWY NR
+TRUE BRG
+Dimensions 
+of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+03
+21
+025.75°
+205.75°
+2000×45
+2000×45
+PCR 440/F/B/X/T
+Asphalt Concrete
+PCR 440/F/B/X/T
+Asphalt Concrete
+323929.34N/
+1284941.44E
+372ft
+324027.81N/
+1285014.79E
+322ft
+THR ELEV:223FT
+THR ELEV:273FT
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See AD 2.24 AD Chart 2120×150
+2120×150
+195 ×150
+45 × 150
+RWY Grooving 2000m×30m
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 5 ===
+AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD2-5
+RJFE AD 2.13 DECLARED DISTANCES
+RJFE AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJFE AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJFE AD 2.16 HELICOPTER LANDING AREA
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+03
+21
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+03 SALS
+(*1)
+420m
+LIH
+Green PAPI
+3.0° /Left
+323m
+61FT
+Nil 2000m
+30m
+Coded color
+(White/Red)
+LIH
+2000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil(*2)
+21 SALS
+(*1)
+420m
+LIH
+Green PAPI
+3.0° /Left
+388m
+61FT
+Nil 2000m
+30m
+Coded color
+(White/Red)
+LIH
+2000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil(*2)
+Remarks
+10
+SALS with RAI(LEN:480m)(*1)
+Overrun area edge LGT(LEN:60m,Color:Red)(*2)
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 324010N/1285018E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: Nil 
+Anemometer: RWY03: 210m from RWY 03 THR, LGTD
+RWY21: 260m from RWY 21 THR, LGTD
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/    switch-
+over time
+Within 15 sec: All lights
+5 Remarks WDI LGT
+Nil
+(EFF:24 FEB 2022) 24/2/22
+
+
+=== Page 6 ===
+RJFE AD2-6 AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD 2.17 ATS  AIRSPACE
+RJFE AD 2.18 ATS COMMUNICATION FACILITIES
+RJFE AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Transition
+altitude Remarks
+12 3 4 5 6
+Fukue
+Information
+zone
+Area within a radius of 5NM(9km) of ARP  3,000FT 
+or below E Fukue Radio
+En Nil Nil
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 34 5
+AFIS Fukue Radio 118.35MHz 2300 - 1030 Operated by Fukuoka Airport office.
+Type of aid
+(VOR declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting 
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(8°W / 2022)
+FUE 115.8MHz H24 324006.98N/
+1284936.25E
+VOR/DME Unusable:
+080° - 090° beyond 
+        25nm BLW 4,000ft.
+090° -100° beyond
+         15nm BLW 4,000ft.
+100° -120° beyond
+         10nm BLW 4,000ft.
+120° -140° beyond
+            5nm BLW 4,000ft.
+250° -260° beyond
+         25nm BLW 4,000ft.
+260° -300° beyond
+         15nm BLW 4,000ft.
+300° -360° beyond
+         25nm BLW 4,000ft.
+DME FUE 1192MHz
+(CH-105X)
+H24 324006.98N/
+1284936.25E
+291FT
+LOC 03 IFU 109.7MHz 2300-1030 324034.22N/
+1285018.44E
+LOC 03: 220m (722ft) away 
+FM RWY 21 THR, BRG 
+(MAG) 033°
+LOC-DME 03 IFU 995MHz
+(CH-34X)
+2300-1030 324034.08N/
+1285020.92E
+280FT LOC-DME 03: 244m (801ft) 
+away FM  RWY 21 THR, 
+60m (197ft) E of RCL.
+LOC 21 IFE 110.1MHZ 2300-1030 324003.51N/
+1284956.55E
+LOC 21: 880(2887FT) inside 
+FM RWY 21 THR, 
+102.6m(337FT) W of RCL.
+LOC off-set angle 2.5° 
+BRG(MAG)215.63° 
+LOC-DME 21 IFE 999MHz
+(CH-38X)
+2300-1030 324003.50N/
+1284955.69E
+271FT LOC-DME 21: 
+890m(2920FT) inside FM 
+RWY21 THR. 
+122.6m(402FT) W of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are 
+satellite based.
+(EFF:31 OCT 2024) 31/10/24
+
+
+=== Page 7 ===
+AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD2-7
+RJFE / FUKUE LOC
+FUKUE AP
+RWY
+LOC-ANTENNA
+LOC-DME
+ANTENNA
+60m
+220m
+244m
+2000m
+REMARKS  : 1.LOC beam BRG(MAG)  033°
+2.ELEV  of  LOC-DME      85.1m(280ft) 
+03
+21
+REMARKS  : 1. LOC OFFSET ANGLE 2.5˚
+2. LOC Beam BRG (MAG) 215.63˚
+3. ELEV  of  LOC-DME 82.5m(271ft) 
+03
+21
+35˚
+35˚
+10˚
+10˚
+LOC COURSE
+LOC ANTENNA
+8NM10NM
+1470m
+RWY
+880m
+10m
+20m
+LOC-DME
+ANTENNA
+LOC ANTENNA
+102.6m
+2000m
+LOC for RWY21
+LOC for RWY03
+(EFF:24 FEB 2022) 24/2/22
+
+
+=== Page 8 ===
+RJFE AD2-8 AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJFE AD 2.21 NOISE ABATEMENT PROCEDURES
+Aircraft operations other than scheduled flights or in an emergen cy on use of this airport, aircraft operator is required to
+obtain the prior permission of the airport administrator.
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:16 MAY 2024) 16/5/24
+
+
+=== Page 9 ===
+AIP Japan
+FUKUE
+Civil Aviation Bureau,Japan
+RJFE AD2-9
+RJFE AD 2.22 FLIGHT PROCEDURES
+RJFE AD 2.23 ADDITIONAL INFORMATION
+RJFE AD 2.24 CHARTS RELATED TO AN AERODROME
+1.TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAY ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine
+ACFT with TKOF 
+ALTN AP Filed
+03 A,B,C,D - 400m - 400m - 500m
+21 A,B,C,D - 400m - 400m - 500m
+OTHER
+03 A,B,C,D
+AVBL LDG MINIMA
+21 A,B,C,D
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (NAGASAKI, IKI, FUKUE REVERSAL)
+Standard Departure Chart - Instrument (AGRIT-RNAV)
+Standard Departure Chart - Instrument (OLVIN-RNAV)
+Instrument Approach Chart (LOC RWY03)
+Instrument Approach Chart (VOR RWY03)
+Instrument Approach Chart (LOC Z RWY21)
+Instrument Approach Chart (LOC Y RWY21)
+Instrument Approach Chart (VOR RWY21)
+Instrument Approach Chart (RNP RWY03)
+Instrument Approach Chart (RNP RWY21)
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC  DAEUKUF / EFJR
+m0002m0091m0071m0951m0821m067m066m065m043m042m0
+ 223ft
+ (68.1m)
+RWY 03
+ 232ft
+ (70.6m)
+ 237ft
+ (72.4m)
+ 240ft
+ (73.3m)
+ 243ft
+ (74.2m)
+ 260ft
+ (79.4m)
+ 268ft
+ (81.7m)
+ 270ft
+ (82.3m)
+ 273ft
+ (83.3m)
+ 273ft
+ (83.2m)
+0.8%
+0.8%
+0.91%
+0.85%
+1.0%
+0.75%
+ 230ft
+ (70.0m)
+0.68%
+0.56%
+0.5%
+%1.0
+RWY 21LONGITUDINAL PROFILE OF RWY
+Dimensions of RWY : 2000m × 45m (RWY grooving 2000m × 30m)
+Strength & surface of RWY : PCR 440/F/B/X/T Asphalt Concrete
+MAG BRG : 33˚/213˚
+THR GUND : RWY03/ 372ft, RWY21/ 322ft
+WIDTH & STRENGTH OF TWY
+   T1 23m PCR 537/F/D/X/T
+   T2 18m PCR 149/F/C/Y/T
+STRENGTH OF APRON 
+   SOUTH PCR 377/F/B/X/T
+   NORTH PCR 172/F/C/Y/T
+INS CK point
+3:
+5:
+6:
+323956.09N/1285017.80E323956.07N/1285017.79E323956.19N/1285017.54E
+PAPI angle 3.0°
+MEHT 18.5m(61ft) TAXIING
+GUIDANCE SIGN
+T1
+SOUTH APRON
+WDI
+ABN
+T2
+NORTH APRON
+324027.81N/1285014.79E
+APRON FLOOD LGT
+PAPI angle 3.0°
+MEHT 18.5m(61ft)
+VAR 7˚W(2009)
+Annual change 2.8´W  FUKUE RADIO
+118.35
+388m
+1
+356
+2
+VOR/DME(FUE)
+ELEV. 251ft
+FUKUE AP
+323m
+03
+21
+1   6
+1   6
+2   53   44   3
+4   3 3   4
+5   26   1
+6   1 5   2
+323929.34N/1284941.44E ARP 
+323959N/1284958E
+RTHL RTHLRAI SALS
+300m120m
+900m
+480m
+03
+RAISALS
+300m 120m
+900m
+480m
+21
+WIND SPEED METER
+WIND SPEED METERCEILOMETER
+CHANGE :  WIND SPEED METER, CEILOMETER added.
+(EFF:20 FEB 2025) 20/2/25
+RJFE AD2.24-ADC-1
+FUKUE
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+NAGASAKI FIVE DEPARTURE
+RWY 03 : Climb RWY HDG to 1300FT, turn right HDG128˚...
+RWY 21 : Climb RWY HDG to 1300FT, turn left HDG038˚...
+...to intercept and proceed via FUE R083/OLE R263 to OLE VOR/DME.
+ 
+IKI SIX DEPARTURE
+RWY 03 : Climb RWY HDG to 900FT, turn right...
+RWY 21 : Climb RWY HDG to 1300FT, turn left HDG359˚...
+...to intercept and proceed via FUE R044/IKE R224 to IKE VOR/DME.
+ 
+FUKUE REVERSAL THREE DEPARTURE
+RWY 03 : Climb RWY HDG to 2000FT, turn right...
+RWY 21 : Climb RWY HDG to 2000FT, turn left...
+...direct to FUE VOR/DME.
+ 
+RJFE / FUKUE SID
+1300
+1300
+2000
+2000
+900
+HDG 359˚
+HDG 038˚
+FUE R044/ IKE R224
+044˚
+HDG
+128˚
+FUE R083
+083˚
+NAGASAKI FIVE DEPARTURE
+IKI SIX DEPARTURE
+FUKUE REVERSAL
+THREE DEPARTURE
+VOR/DME
+113.2   IKE
+33Û44´51ÝN/129Û46´37ÝE
+CH-79X
+IKI
+200FT
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+32Û54´19ÝN/129Û55´05ÝE
+VOR/DME
+300FT
+FUKUE
+115.8   FUE
+CH-105X
+32Û40´07ÝN/128Û49´36ÝE
+FUE R083/OLE R263
+CHANGE : PROC renamed(NAGASAKI FIVE DEPARTURE, IKI SIX DEPARTURE). PROC course.
+(EFF:3 OCT 2024) 5/9/24
+RJFE AD2.24-SID-1
+FUKUE
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+1277
+1227
+1511
+1408
+1373
+  4.8
+䢢䢢䢢123°
+  22.1䢢䢢䢢
+092°
+  27.0
+䢢䢢䢢
+065°
+    AGRIT
+䢢䢢324631.8N
+1291848.5E
+    FE101
+䢢䢢323202.1N
+1285145.2E
+    FE300
+䢢䢢324437.0N
+1285237.0E
+  FE100
+䢢䢢323407.6N
+1284638.1E
+䢳䢴䢻䤑䢴䢲䢩䣇䢳䢴䢻䤑䢲䢩䣇
+䢵䢴䤑䢶䢲䢩䣐
+VAR 8°W
+CHANGE : Navigation Specification(Basic RNP1→RNP1).
+RJFE / FUKUE RNAV SID
+AGRIT ONE DEPARTURE RNP1
+Note GNSS required.
+RWY03 : Climb on HDG033° at or above 700FT, direct to FE300, to AGRIT.
+RWY21 : Climb on HDG213° at or above 700FT, direct to FE100, to FE101, to AGRIT.
+ Contour 
+Intervals
+AD elev.251
+4200
+3200
+2200
+1200
+䢯
+䢯䢹䢲䢲
+䢹䢲䢲
+䢲䢵䢵䤑
+䢴䢳䢵䤑
+RWY03
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identif ier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM )
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 033
+(025.6) -7.5 - - +700 - - RNP1
+002 DF FE300 - - -7.5 - - - - - RNP1
+003 TF AGRIT -
+092
+(084.9) -7.5 22.1 - - - - RNP1
+RWY21
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identif ier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM )
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 213
+(205.7) -7.5 - - +700 - - RNP1
+002 DF FE100 - - -7.5 - - - - - RNP1
+003 TF FE101 -
+123
+(115.8) -7.5 4.8 - - - - RNP1
+004 TF AGRIT - 065
+(057.4) -7.5 27.0 - - - - RNP1
+2 02468 1 0 1 2
+NM
+5 0 5 10 15 20
+KM
+(EFF:21 MAR 2024) 22/2/24
+RJFE AD2.24-SID-2
+FUKUE
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+1453
+1688
+1408
+1293
+1511
+1441
+1840
+2547
+1936
+  35.9
+䢢䢢䢢
+044°
+  6.2
+䢢䢢䢢123°
+  3
+0.9䢢䢢䢢
+029°
+6000
+  FE102
+䢢䢢323125.5N
+1285314.7E
+  FE100
+䢢䢢323407.6N
+1284638.1E
+KAMIG
+䢢䢢330002.0N
+1290657.2E
+  OLVIN
+䢢䢢332853.5N
+1293223.3E
+䢳䢴䢻䤑䢶䢲䢩䣇䢳䢴䢻䤑䢴䢲䢩䣇䢳䢴䢻䤑䢲䢩䣇䢳䢴䢺䤑䢶䢲䢩䣇
+䢵䢵䤑䢴䢲䢩䣐
+䢵䢵䤑䢲䢩䣐
+䢵䢴䤑䢶䢲䢩䣐
+VAR 8°W
+CHANGE : Navigation Specification(Basic RNP1→RNP1).
+RJFE / FUKUE RNAV SID
+OLVIN ONE DEPARTURE RNP1
+Note GNSS required.
+RWY03 : Climb on HDG033° at or above 700FT, direct to KAMIG at or above 6000FT, to OLVIN.
+RWY21 : Climb on HDG213° at or above 700FT, direct to FE100, to FE102, to KAMIG
+               at or above 6000FT, to OLVIN.
+ Contour 
+Intervals
+AD elev.251
+4200
+3200
+2200
+1200
+5 0 5 10 15 20
+KM
+202468 1 0 1 2
+NM
+䢯
+䢯
+033°
+213°
+䢹䢲䢲
+䢹䢲䢲䢢䢢䢢
+䢢䢢䢢䢢
+(EFF:21 MAR 2024) 22/2/24
+RJFE AD2.24-SID-3
+FUKUE
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFE AD2.24-SID-4
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY03
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 033
+(025.6) -7.5 - - +700 - - RNP1
+002 DF KAMIG - - -7.5 - - +6000 - - RNP1
+003 TF OLVIN - 044
+(036.3) -7.5 35.9 - - - - RNP1
+RWY21
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 213
+(205.7) -7.5 - - +700 - - RNP1
+002 DF FE100 - - -7.5 - - - - - RNP1
+003 TF FE102 - 123
+(115.8) -7.5 6.2 - - - - RNP1
+004 TF KAMIG - 029
+(021.9) -7.5 30.9 - +6000 - - RNP1
+005 TF OLVIN - 044
+(036.3) -7.5 35.9 - - - - RNP1
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+RJFE / FUKUE RNAV SID
+OLVIN ONE DEPARTURE
+FUKUE
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJFE / FUKUE
+KOBE CONTROL
+118.9 - 303.8
+134.25 - 315.5
+LOC
+109.7  IFU
+LOC-DME  CH-34X
+  FUKUE RADIO
+118.35 NO RADAR
+Turn initiation within D10.0 FUE
+NM to IFU FAF
+2089
+6
+1798
+5
+1479
+4
+1161
+3
+842
+MAPt
+–ALT(3.0˚ APCH Path)
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+Climb to 3000FT on HDG033˚,
+turn right, direct to FUE  
+VOR/DME and hold.
+Contact FUKUE RADIO.
+Circling to 
+WEST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+LOC RWY03
+VOR/DME
+FUKUE
+115.8   FUE
+CH-105X
+ÛÝ1ÛÝ(
+TOMIE(FAF) : 1(
+1070
+1277
+1511
+1408
+FUE
+VOR/DME
+1227
+1034
+HDG033°
+229˚
+MAPt
+D1.9 IFU
+TOMIE(FAF)
+D6.9 IFU 049°
+229°
+10NM
+3000
+
+2500
+700
+(477) MDA
+229˚
+033˚
+3.0˚
+VDP
+VDP
+TOMIE
+(FAF)
+MAPt
+FUE
+033˚
+MHA 3000
+MAX 230KIAS
+270°
+180°
+360°
+090°
+033˚
+033˚
+ 
+MINIMA 
+NM to THR5.7
+D1.9
+D2.0
+D2.1
+D2.2
+IFU(CAT A)
+IFU(CAT B)
+IFU(CAT C)
+IFU(CAT D)
+6.9
+0.7 0
+1.9 1.2 DME to IFU
+CAT
+700 (449)500 (277)
+710 (459)
+1280 (1029)
+1810 (1559)
+530 (307)
+560 (337)
+580 (357)
+800
+1000
+1600
+2400
+32001400
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 223 AD elev. 251
+A
+B
+C
+D
+VAR 8˚W EQPT REQUIRED
+DME
+VOR
+360˚
+180˚
+FUE 26002700
+MSA 25NM
+Turn initiation within D10.0 FUE
+MAX Turning speed 200KIAS
+        AFIS provided              
+by Fukuoka Airport Office  
+CHANGE : PROC course. HLDG pattern. MSA(BTN 180° and 360°). VAR.
+1373
+1303
+NOT TO SCALE
+(EFF:3 OCT 2024) 5/9/24
+RJFE AD2.24-IAC-1
+FUKUE
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJFE / FUKUE
+Turn initiation within D10.0 FUE
+NM to FUE FAF
+1865
+5
+1366
+4
+1048
+MAPt
+–ALT(3.0˚ APCH Path)
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+Climb to 3000FT via FUE  R022,
+turn right, direct to FUE VOR/DME 
+and hold.
+Contact FUKUE RADIO.
+Circling to 
+WEST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+VOR RWY03
+BAHAN(FAF) : 323442.89N/1284757.39E
+1070
+1277
+1511
+1408
+FUE
+VOR/DME
+1227
+1034
+220˚
+MAPt
+D1.7 FUE
+049°
+229°
+10NM
+3000
+18652300
+1100
+(877) MDA
+220˚
+022˚
+022˚ 3.0˚ VDP
+VDP
+BAHAN
+(FAF)
+MAPt
+FUE
+MHA 3000
+MAX 230KIAS
+KOBE CONTROL
+118.9 - 303.8
+134.25 - 315.5
+FUKUE  VOR/DME
+115.8     FUE
+CH-105X
+  FUKUE  RADIO
+118.35 NO RADAR
+ÛÝ1ÛÝ(
+BAHAN
+(FAF)
+D5.6 FUE
+270°
+180
+°
+360°
+090°
+022˚
+022˚
+022˚
+ 
+MINIMA 
+NM to THR5.0
+D2.5
+D2.7
+D2.8
+D3.0
+FUE(CAT A)
+FUE(CAT B)
+FUE(CAT C)
+FUE(CAT D)
+5.6
+1.2 0
+1.7 0.6 DME to FUE
+CAT
+880 (629)880 (657)
+920 (669)
+1280 (1029)
+1810 (1559)
+920 (697)
+970 (747)
+1010 (787)
+1200
+1400
+1600
+2400
+32001800
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 223 AD elev. 251
+A
+B
+C
+D
+VAR 8˚W EQPT REQUIRED
+DME
+360˚
+180˚
+FUE 26002700
+MSA 25NM
+Turn initiation within D10.0 FUE
+MAX Turning speed 200KIAS
+        AFIS provided              
+by Fukuoka Airport Office  
+CHANGE : PROC course. HLDG pattern. Missed APCH course. MSA(BTN 180° and 360°). VAR.
+1373
+1303
+NOT TO SCALE
+(EFF:3 OCT 2024) 5/9/24
+RJFE AD2.24-IAC-2
+FUKUE
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+KOBE CONTROL
+LOC Z RWY21
+118.9 - 303.8
+134.25 - 315.5
+LOC
+110.1   IFE
+LOC-DME  CH-38X
+FUKUE RADIO
+118.35 NO RADAR
+1511
+1277
+1408
+LOC OFFSET 2.5˚
+1070
+1034
+KONGO(FAF)
+D6.3 IFE
+FUE R049
+FUE R083
+D11.5
+ FUE ARC
+MAPt
+D1.3 IFE
+HDG216°
+1227
+10NM
+RJFE / FUKUE
+Circling to WEST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+FAF
+2154
+6
+2075
+5
+1756
+4
+1438
+3
+1120
+2
+801
+MAPt
+–ALT(3.0˚ APCH Path)
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+Climb to 2000FT on HDG216˚,
+turn left, direct to FUE 
+VOR/DME and hold at 3000FT.
+Contact FUKUE RADIO.
+Missed APCH climb gradient MNM 3.0%
+VOR/DME
+FUKUE
+115.8    FUE
+CH-105X
+ÛÝ1ÛÝ(
+KONGO(FAF) : 1(
+FUE VOR/DME
+054°
+234°
+083°
+263°
+
+
+4000
+830
+(579)
+1600
+(1349)
+2200
+D11.5 FUE ARC
+MDA
+VDP
+SDF
+KONGO
+(FAF)
+KAYKN(IF)
+CARCO
+(IAF)
+CARCO
+(IAF)
+D11.5 FUE
+MHA 4000
+MAX 230KIAS
+D17.0 FUE
+MAPt
+FUE
+216˚
+3.0˚ 216˚
+MHA 3000
+MAX 230KIAS
+KAYKN(IF)
+R037/D11.5 FUE
+D11.4 IFE
+270°
+180°
+360°
+090°
+216˚
+216˚
+MINIMA 
+CAT
+570 (319)
+700 (449)
+710 (459)
+1280 (1029)
+1810 (1559)
+900
+1000
+1600
+2400
+32001400
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 273 AD elev. 251
+A
+B
+C
+D
+NM to THR
+5.03 .1
+0 0.8
+3.0
+2.5
+6.3
+5.8
+11.4
+11.0
+DME to IFE
+VAR 8˚W EQPT REQUIRED
+DME
+VOR
+360˚
+180˚
+FUE 26002700
+MSA 25NM
+        AFIS provided
+by Fukuoka Airport Office  
+CHANGE : HLDG pattern. MSA(BTN 180° and 360°). VAR. 
+NM to IFE
+1373
+1303
+NOT TO SCALE
+(EFF:3 OCT 2024) 5/9/24
+RJFE AD2.24-IAC-3
+FUKUE
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+KOBE CONTROL
+LOC Y RWY21
+118.9 - 303.8
+134.25 - 315.5
+LOC
+110.1   IFE
+LOC-DME  CH-38X
+  FUKUE RADIO
+118.35 NO RADAR
+1511
+1277
+1408
+LOC OFFSET 2.5˚
+1070
+1034
+KONGO(FAF)
+D6.3 IFE
+MAPt
+D1.3 IFE
+HDG216
+°
+054˚
+1227
+10NM
+RJFE / FUKUE
+Circling to WEST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Turn initiation within D11.0 FUE
+FAFEFI ot MN
+2154
+6
+2075
+5
+1756
+4
+1438
+3
+1120
+2
+801
+MAPt
+–ALT(3.0˚ APCH Path)
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+Turn initiation within D11.0 FUE
+MAX Turning speed 200KIAS
+Climb to 2000FT on HDG216˚,
+turn left, direct to FUE 
+VOR/DME and hold 
+at 3000FT.
+Contact FUKUE RADIO.
+Missed APCH climb gradient MNM 3.0%
+VOR/DME
+FUKUE
+115.8    FUE
+CH-105X
+ÛÝ1ÛÝ(
+KONGO(FAF) : 1(
+FUE VOR/DME
+054°
+234°
+3000
+
+ 2100
+830
+(579)
+1600
+(1349)
+MDA
+054˚
+VDP
+SDF
+KONGO
+(FAF)
+MAPt
+FUE
+216˚
+216˚
+3.0˚
+MHA 3000
+MAX 230KIAS
+270°
+180°
+360°
+090°
+216˚
+216˚
+ 
+MINIMA 
+CAT
+570 (319)
+700 (449)
+710 (459)
+1280 (1029)
+1810 (1559)
+900
+1000
+1600
+2400
+32001400
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 273 AD elev. 251
+A
+B
+C
+D
+NM to THR
+0.5 1.3
+0 0.8
+3.0
+2.5
+6.3
+5.8
+DME to IFE
+VAR 8˚W EQPT REQUIRED
+DME
+VOR
+360˚
+180˚
+FUE 26002700
+MSA 25NM
+        AFIS provided              
+by Fukuoka Airport Office  
+CHANGE : PROC course. MSA(BTN 180° and 360°). HLDG pattern. VAR. 
+1373
+1303
+NOT TO SCALE
+(EFF:3 OCT 2024) 5/9/24
+RJFE AD2.24-IAC-4
+FUKUE
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Turn initiation within D11.0 FUEMISSED APPROACH
+Timing not authorized for defining the MAPt.
+Climb to 2000FT via FUE R224,
+turn left, direct to FUE 
+VOR/DME and hold 
+at 3000FT.
+Contact FUKUE RADIO.
+3000
+2282
+1407 2200
+1210
+(959)
+1500
+(1249)MDA
+VDP
+VDP
+SDF
+HISAK
+(FAF)
+MAPt
+FUE
+224˚
+224˚
+3.0˚
+061˚
+061
+˚
+KOBE CONTROL
+VOR RWY21
+118.9 - 303.8
+134.25 - 315.5
+FUKUE  VOR/DME
+115.8      FUE
+CH-105X
+  FUKUE  RADIO
+118.35 NO RADAR
+RJFE / FUKUE
+Circling to WEST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+1511
+1277
+1408
+1070
+1034
+HISAK(FAF)
+D6.8 FUE
+MAPt
+D1.7 FUE
+224˚
+224˚
+224˚
+1227
+10NM
+FAFEUF ot MN
+2282
+6
+2044
+5
+1725
+4
+1407
+3
+1089
+MAPt
+–ALT(3.0˚ APCH Path)
+Turn initiation within
+D11.0 FUE
+MAX Turning speed 200KIAS
+ÛÝ1ÛÝ(
+HISAK(FAF) : 1(
+FUE VOR/DME
+054°
+234°
+MHA 3000
+MAX 230KIAS
+270°
+180°
+360°
+090°
+ 
+MINIMA 
+5.3RHT ot MN
+D2.0 FUE (CAT A,B,C)
+D2.1 FUE (CAT D)
+4.0
+6.2
+6.8
+1.20
+0.6 1.7DME to FUE
+CAT
+780 (529)
+1280 (1029)
+1810 (1559)
+780 (529)
+790 (539)
+810 (559)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 273 AD elev. 251
+A
+B
+C
+D
+VAR 8˚W EQPT REQUIRED
+DME
+360˚
+180˚
+FUE 26002700
+MSA 25NM
+        AFIS provided              
+by Fukuoka Airport Office  
+CHANGE :  PROC course. HLDG pattern. Missed APCH course. MSA(BTN 180° and 360°). VAR.
+1373
+1303
+NOT TO SCALE
+(EFF:3 OCT 2024) 5/9/24
+RJFE AD2.24-IAC-5
+FUKUE
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1303
+1373
+1034
+1277
+1511
+1408
+1227
+10NM
+3.6
+033°
+(025
+.6°T)
+5.1
+303°(295.9°T)
+16.4
+225°
+(217.4°T)
+3.2
+033°
+(025.6°T)
+NENCH
+(FAF)
+FE352
+(MAPt)
+CARCO
+(IAF/MAHF)
+FE350
+FE351(IF)
+MAX 185KIAS
+FE353(MATF)
+䢳䢺
+䢲䤑
+䢴䢹䢲䤑
+䢲䢻䢲䤑
+䢵䢸䢲䤑
+䢳䢴䢻䤑䢲䢩䣇䢳䢴䢺䤑䢷䢲䢩䣇䢳䢴䢺䤑䢶䢲䢩䣇
+䢵䢴䤑䢷䢲䢩䣐
+䢵䢴䤑䢶䢲䢩䣐
+䢵䢴䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.251
+2200
+1700
+1200
+700
+KOBE CONTROL
+118.9 - 303.8
+134.25 - 315.5
+RNP  APCH FUKUE RADIO
+118.35
+AFIS provided by
+Fukuoka Airport Office
+NO RADAR
+VAR 8°W
+RNP RWY03RJFE / FUKUECHANGE : Missed APCH for using VOR/DME abolished. HLDG pattern for using NAVAID abolished.
+Baro-VNAV not authorized below -5°C
+FAF 3 2 MAPt
+1700 1642 1323 -
+NM to Next Fix
+ALT (3.0°APCH Path)
+323959N / 1284958E
+A
+ARP:
+2700
+MSA 25NM
+ARP
+10123456789 1 0
+KM
+1012345
+NM
+但
+但
+但
+但
+CARCO 324301.73N
+(IAF/MAHF) 1290247.66E
+FE350 322958.01N
+1285058.81E
+FE351 323211.51N
+(IF) 1284532.01E
+NENCH 323526.53N
+(FAF) 1284723.09E
+FE352 323818.92N
+(MAPt) 1284901.29E
+FE353 324101.43N
+(MATF) 1285033.97E
+但
+MSAS CH88033
+M03A
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV DA(H) CMV MDA(H) CMV MDA(H) VIS
+A 611(388) 900 1200 1200
+B 621(398)
+C 631(408) 1050(827) 1050(827) 1280(1029) 2400
+D 641(418) 1400 1090(867) 1800 1090(867) 1800 1810(1559) 3200
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to WEST side of RWY only.
+ MINIMA             THR elev. 223           AD elev. 251
+CAT LNAV/VNAV CIRCLING LNAV
+1010(787)
+1400
+1010(787)
+1400
+1010(759) 1600
+LPV
+1000
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+CARCO
+1MIN
+Þ
+1.3 NM to THR
+NENCH
+(FAF)
+FE351
+(IF)
+4000
+MISSED APPROACH
+Direct to FE353, turn right direct to CARCO 
+and hold at 4000FT .
+Contact FUKUE RADIO.
+8.1 4.5
+1700 VDP
+(LNA V)
+0
+MDA
+1100
+(877)
+1.1NM to MAPt (CAT-A,B)
+1.2NM to MAPt (CAT-C)
+1.4NM to MAPt (CAT-D)
+VDP
+FE352
+(MAPt)
+FE350
+CARCO
+(IAF)
+2000
+RDH 50
+(EFF:13 JUN 2024) 16/5/24
+RJFE AD2.24-IAC-6
+FUKUE
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+FUKUE
+INSTRUMENT APPROACH CHART
+RJFE / FUKUE
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00987
+SBAS service provider identifier 2 FPAP latitude 324027.7825N
+Airport identifier RJFE FPAP longitude 1285014.8040E
+Runway 03 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M03A ԥlength offset 0000
+LTP/FTP latitude 323929.3105N HAL 40.0
+LTP/FTP longitude 1284941.4435E VAL 50.0
+CRC remainder E0818BF5
+Required additional data
+LTP/FTP orthometric height 67.7
+RNP RWY03
+CHANGE : Description of FAS DATA BLOCK ITEM(CRC remainder).
+RJFE AD2.24-IAC-7
+(EFF:29 DEC 2022) 29/12/22
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1511
+1034
+1303
+1373
+1227
+1277
+1408
+10NM
+5.1320°(312°T)
+3.0
+213°
+(205.7°T)
+3.5
+304°(295.
+9°T)4.0
+213°
+(205.7°T)
+FE151(IF)
+MAX 210KIAS
+FE153(MATF)
+FE150
+FE152
+(MAPt)
+TATAR
+(FAF)
+CARCO
+(IAF/MAHF)
+䢲䢻䢲䤑
+䢳䢺
+䢲䤑
+䢵䢸䢲䤑
+䢳䢴䢻䤑䢳䢲䢩䣇䢳䢴䢻䤑䢲䢩䣇䢳䢴䢺䤑䢷䢲䢩䣇䢳䢴䢺䤑䢶䢲䢩䣇䢵䢴䤑䢷䢲䢩䣐
+䢵䢴䤑䢶䢲䢩䣐
+䢵䢴䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.251
+2200
+1700
+1200
+700
+KOBE CONTROL
+118.9 - 303.8
+134.25 - 315.5
+RNP  APCH FUKUE RADIO
+118.35
+AFIS provided by
+Fukuoka Airport Office
+NO RADAR
+VAR 8°W
+RNP RWY21RJFE / FUKUECHANGE : Missed APCH for using VOR/DME abolished. HLDG pattern for using NAVAID abolished.
+Baro-VNAV not authorized below -5°C
+MAPt 1 2 3 FAF
+- 1055 1373 1691 1700
+NM to Next Fix
+ALT (3.0°APCH Path)
+323959N / 1284958E
+A
+ARP:
+2700
+MSA 25NM
+ARP
+但
+但
+但
+CARCO 324301.73N
+(IAF/MAHF) 1290247.66E
+FE150 324627.07N
+1285816.73E
+FE151 324758.74N
+(IF) 1285432.45E
+TATAR 324422.07N
+(FAF) 1285228.54E
+FE152 324138.23N
+(MAPt) 1285054.97E
+FE153 323855.49N
+(MATF) 1284922.14E
+1 0123456789 1 0
+KM
+1012345
+NM
+MSAS CH85668
+M21A
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV DA(H) CMV MDA(H) CMV MDA(H) VIS
+A 721(448) 900 1000 1000
+B 731(458) 1200 1200
+C 741(468) 930(657) 1400 930(679) 1400 1280(1029) 2400
+D 751(478) 1600 970(697) 1800 970(719) 1800 1810(1559) 3200
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to WEST side of RWY only.
+ MINIMA             THR elev. 273           AD elev. 251
+CAT LNAV/VNAV CIRCLING LNAV
+880(607) 880(629) 880(629) 1600
+LPV
+1200
+Þ
+1.3NM to THR
+TATAR
+(FAF)
+1700
+FE152
+(MAPt)
+2200
+0
+1600
+(1349)MDARDH 50
+4.3 8.3
+CARCO
+(IAF)
+0.5NM to MAPt (CAT-A,B)
+0.7NM to MAPt (CAT-C)
+0.8NM to MAPt (CAT-D)
+VDPMISSED APPROACH
+Direct to FE153, turn left direct to CARCO and
+hold at 4000FT .
+Contact FUKUE RADIO.
+VDP
+(LNAV)
+4000
+FE151
+(IF)
+FE150
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+CARCO
+1MIN
+(EFF:13 JUN 2024) 16/5/24
+RJFE AD2.24-IAC-8
+FUKUE
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFE AD2.24-IAC-9
+INSTRUMENT APPROACH CHART
+RJFE / FUKUE
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +01140
+SBAS service provider identifier 2 FPAP latitude 323929.3105N
+Airport identifier RJFE FPAP longitude 1284941.4435E
+Runway 21 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M21A ԥlength offset 0000
+LTP/FTP latitude 324027.7825N HAL 40.0
+LTP/FTP longitude 1285014.8040E VAL 50.0
+CRC remainder 7B7068FB
+Required additional data
+LTP/FTP orthometric height 82.9
+RNP RWY21
+CHANGE : Description of FAS DATA BLOCK ITEM(CRC remainder).
+FUKUE
+(EFF:29 DEC 2022) 29/12/22
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFE / FUKUE Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ዉ␃ᓥ ᾆ 
+Narushima Harbor
+᳧ᓥ ᓥ
+Kabashima Island
+ி䝜ᓅ 䝺䞊䝎䞊䝃䜲䝖
+Kyonodake Radar site
+⽴⼺ᓥ ᓥ
+Sazaejima Island
+஧ᮏᴋ ༑Ꮠ㊰
+Nihongusu Intersection
+ᐩỤ   
+Tomieko Harbor
+኱℩ᓮ ⅉྎ
+Osezaki Lighthouse
+㯮ᓥ ᓥ
+Kuroshima Island
+㯤ᓥ ᓥ
+Oshima Island 151°T / 6.9NM
+255°T / 12.2NM
+/ 4.0NM179°T
+/
+275°T / 5.2NM
+4.0NM055°T /
+CHANGE : Secondary FREQ abolished.
+053°T / 10.2NM
+304°T / 10.1NM
+Call sign BRG / DIST from ARP Remarks
+230°T / 4.4NM
+029°T 10.8NM
+KYONODAKE 
+KYKYKYONONONODODODAKAKAKEEE 
+FUKUE INFORMATION ZONE
+At
+At
+At
+ or below 3000FT
+KABASHIMA 
+KAKABABASHSHS IMIMAA 
+FUKUE INFORMATION ZON
+FUK
+A
+KUE INFORMATIO
+FUK
+At
+ b l 3000F T
+5NM from ARP
+FUKUE RADIO
+118.35
+RJFE / FUKUE
+FUKUE RADIO
+UKUE RAD
+118.35
+118 35
+VAR 7
+R 7
+777777777
+
+W(2009) /
+/ 2.8’W
+TOMIEKO 
+TOTOTOOMIMIMIEKEKEKOOO O
+NIHONGUSU 
+NININIHOHOHOONGNGNGGUSUSUSUSUUUU
+NARUSHIMA 
+NANANARURURUUSHSHSHS IMIMIMAAAAA 
+OSEZAKI 
+OSOSOSOSEZEZEZAKAKAKIII
+t of measurement used to express elevation is meter(m).
+㼃㼑㼎
+㼑㼎㼎㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+ Web Mercator projection
+䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ
+䠅
+ /
+ Web M
+W
+W
+OSHIMA  
+OSOSOSHIHIHIMAMAAMAA 
+SAZAEJIMA 
+SASASAZAZAZAEJEJEJIMIMIMAA A 
+AAA
+KUROSHIMA  
+KUKUKUROROROSHSHSH
+OOSSS
+HHHIMIMIMAAA 
+(EFF:1 OCT 2021) 9/9/21
+RJFE AD2.24-OTHER-1
+FUKUE
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+   VOR/DME
+FUKUE
+  115.8  FUE
+    CH- 105X
+ LDG  CHARTRJFE / FUKUE
+42˄
+40˄
+32˃38˄
+128˃49˄ 51˄ 53˄
+44˄
+PAPI  ANGLE 3.0˃
+.&)5N	GU
+
+N'.5)3
+PAPI  ANGLE 3.0˃
+.&)5N	GU
+
+N'.5)3
+PAPI  ANGLE 3.0˃
+.&)5N	GU
+
+N'.5)3
+&-&7"5*0/4"/%
+)&*()54*/'&&5
+.&"/4&"-&7&-
+03
+21
+660
+660
+660
+660
+1043
+582 1033
+1280
+847
+SCALE
+ELEV  251ft
+3000  ft
+1000 m500500 0
+1000 0
+VAR   6
+˃W
+(2006)
+ABN
+SALS
+SALS
+RAI
+RAI
+6560
+ʷ150ft
+Asph-Conc
+ 32˚40´07˝N/128˚49´36˝E
+(EFF:5 NOV 2020) 8/10/20
+RJFE AD2.24-OTHER-2
+FUKUE
+←
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMEUKUF / EFJR
+CENTER 凬323959N/1284958E (ARP)
+5000
+7000
+30NM
+322513N
+1285952E
+321535N
+1291026E
+323548N
+1292456E
+CHANGE : Shape of segment.
+(EFF:27 JAN 2022) 30/12/21
+RJFE AD2.24-OTHER-3
+FUKUE
+
+
+=== Page 29 ===
+INTENTIONALLY LEFT BLANK
+

@@ -1,0 +1,5455 @@
+=== Page 1 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-1
+AD 2 AERODROMES
+RJOO AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJOO - OSAKA International
+RJOO AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJOO AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 344704N/1352621E
+2 Direction and distance from (city) 10.5km (5.7nm) NW of JR Osaka station
+3 Elevation/ Reference temperature 39ft / 34°C (2004-2008)
+4 Geoid undulation at AD ELEV PSN Nil
+5 MAG VAR/ Annual change 8°W (2023) / 1'W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Kansai Airports
+Osaka International Airport 555, 3-chome, Nishi-machi, Hotarugaike, Toyonakashi,
+Osaka pref, Japan
+Tel: 06-4865-9571
+Fax: 06-4865-9570
+AFS: RJOOYDYX
+E-mail: itm-ops@kansai-airports.co.jp
+Web-site: http://www.kansai-airports.co.jp/
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Osaka Airport Office (CAB)
+Osaka International Airport 371, 3-chome, Nishi-machi, Hotarugaike, Toyonakashi,
+Osaka pref, Japan
+Tel: 06-6843-1121 (2330-0815UTC MON THRU FRI) 
+1 AD Administration 2200 - 1200
+2 Customs and immigration On request
+Customs: 06-6576-3104, 06-6576-3123
+Immigration: 0570-064259 (210)
+3 Health and sanitation On request
+Quarantine(human): 06-6571-4312
+Quarantine(animal): 072-455-1956
+Quarantine(plant): 06-6571-0801
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (KANSAI)
+7 ATS 2200-1200 
+ (Flight Information Service (except ATIS) and Alerting Service: H24). 
+8 Fuelling H24
+9 Handling 2100-1330
+10 Security 2100-1200
+11 De-icing Nil
+12 Remarks Nil
+(EFF:5 SEP 2024) 8/8/24
+
+
+=== Page 2 ===
+RJOO AD2-2 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.4 HANDLING SERVICES AND FACILITIES
+RJOO AD 2.5 PASSENGER FACILITIES
+RJOO AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJOO AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the modern institutions that  deal with the weight thing to a Boeing 747 type 
+passenger plane.
+2 Fuel/ oil types Fuel grades: JET A-1
+Oil grades: All turbine grades
+3 Fuelling facilities/ capacity Hydrant refueling on terminal apron for turbine fuel. Fuel truck refueling. / No 
+limitations
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Hotel near the Airport.
+2 Restaurants Available but not continuous 0700-2130 hours
+3 Transportation Monorail, busses and taxies
+4 Medical facilities To yonaka city hospital
+5 Bank and Post Office Post office at Airport
+6 Tourist Office At Airport
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fight ing truck x 3, Water supply truck,
+Emergency medical equipments conveyance truck,
+Lighting power supply truck
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Snow removal equipment: Motor graders
+2
+Clearance priorities 1) RWY 14R/32L
+2) TWY A4, B2, B3, B4, C1, C4, C6, E1, E5, W2, W9, W10, Apron TWY BTN 
+E1 and E5
+3) RWY 14L/32R
+4) TWY A1, A2, A3, A5, B1, W1, W3
+3 Remarks 1) Snow removal will be commenced with the order of priority as item 2, 
+if the runways and taxiways are contaminated with 3 cm depth of snow.
+2) Seasonal availability: All seasons
+Any contaminants on RWY centerline, landing strip and other lighting aids 
+shall be removed as and when necessary so as to provide good contact with 
+RWY.
+(EFF:31 MAR 2016) 3/3/16
+
+
+=== Page 3 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-3
+RJOO AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface : Concrete
+Strength : 
+PCR925/R/B/W/T : SPOT NR0, 1
+PCR785/R/B/W/T : SPOT NR2-6, 15, 19, 20, 23, 45, 45W, 
+                                                 46-48, 51-53, 77, 80, 83, 84
+PCR1132/R/B/W/T : SPOT NR7-14, 16, 18
+PCR615/R/B/W/T : SPOT NR17, 21, 22, 24, 25
+PCR502/R/B/W/T : SPOT NR26, 27, 41-44, 70-76, 81, 82
+2 Taxiway width, surface and
+strength
+Width :
+30m : W2-W9(Highspeed Exit) 
+23m : Others
+Surface : 
+Asphalt Concrete and Concrete
+Strength :
+PCR1222/F/D/X/T : A1-A5, B1-B4, C1-C4, C6, C7, W2-W10
+PCR858/R/B/W/T : C5, E-INT, E1-E5, W1, R-INT, R1, R2, R5, R6
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+ 0    344705.56N 1352639.86E
+ 1    344706.54N 1352640.26E
+ 1A  344707.98N 1352640.03E
+ 1B  344706.94N 1352639.60E
+ 2    344714.07N 1352647.61E
+ 2A  344712.98N 1352646.11E
+ 3    344715.89N 1352645.31E
+ 3A  344716.54N 1352644.23E
+ 3B  344715.26N 1352645.42E
+ 4    344718.25N 1352642.65E
+ 4A  344717.32N 1352640.49E
+ 4B  344718.21N 1352641.57E
+ 5    344716.57N 1352638.62E
+ 6    344714.28N 1352637.81E
+ 7    344713.53N 1352636.15E
+ 8    344715.05N 1352634.31E
+ 9    344717.64N 1352635.07E
+ 10  344719.95N 1352632.33E
+ 11  344719.15N 1352629.38E
+ 12  344719.25N 1352626.14E
+ 13  344723.11N 1352628.32E
+ 14  344725.48N 1352625.39E
+ 15  344724.61N 1352622.77E
+ 16  344724.68N 1352619.37E
+ 17  344728.66N 1352621.70E
+ 18  344730.96N 1352618.99E
+ 19  344730.50N 1352615.72E
+ 
+20  344731.56N 1352611.79E
+ 21  344733.17N 1352613.87E
+ 22  344734.14N 1352615.95E
+ 23  344735.52N 1352618.51E
+ 24  344737.79N 1352619.40E
+ 25  344739.76N 1352618.29E
+ 26  344740.87N 1352616.92E
+ 27  344741.02N 1352615.26E
+ 41    344739.21N 1352613.76E
+ 42    344740.12N 1352612.66E
+ 43    344737.95N 1352611.26E
+ 44    344736.87N 1352609.98E
+ 45    344738.84N 1352608.86E
+ 45W 344738.84N 1352609.67E
+ 46    344739.34N 1352609.46E
+ 47    344740.51N 1352610.87E
+ 48    344741.68N 1352612.29E
+ 51    344736.12N 1352602.04E
+ 52    344737.14N 1352600.54E
+ 53    344738.56N 1352558.72E
+ 70    344743.97N 1352603.01E
+ 71    344745.20N 1352604.48E
+ 72    344745.99N 1352605.39E
+ 73    344747.23N 1352606.95E
+ 74    344750.85N 1352603.70E
+ 75    344747.35N 1352559.53E
+ 76    344746.66N 1352558.40E
+ 77    344745.30N 1352557.01E
+ 80    344742.34N 1352555.48E
+ 81    344743.27N 1352554.35E
+ 82    344744.20N 1352553.22E
+ 83    344745.12N 1352552.10E
+ 84    344746.06N 1352550.98E
+6 Remarks Nil
+(EFF:20 FEB 2025) 20/2/25
+
+
+=== Page 4 ===
+RJOO AD2-4 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs,
+TWY guide lines and
+Visual docking/ parking guidance
+system of aircraft stands
+ACFT stand ID sign:
+NR4A, NR4B, NR5 - 10, NR13, NR14, NR17, NR18, NR21 - 23.
+ACFT stand taxilane:
+R1, R2, R5, R6, apron TWY at NR1, NR5, NR6 and NR7 Apron
+Visual docking guidance system:
+NR13, NR14 (See attachment)
+2 RWY and TWY markings and 
+LGT
+RWY: RWY 14R/32L 
+(Marking): RWY designation, RWY CL, RWY THR, Aiming point, TDZ, 
+                 RWY side stripe, RWY middle point
+(LGT): RCLL, REDL, RTHL, RENL, RTZL(RWY32L), WBAR(RWY32L)
+           
+RWY: RWY 14L/32R
+(Marking): RWY designation, RWY CL, RWY THR, Aiming point, TDZ, 
+                 RWY side stripe, RWY middle point
+(LGT): RCLL, REDL, RTHL, RENL, 
+           Takeoff Hold LGT(RWY status LGT) (see attached chart)
+           
+TWY: ALL TWY
+(Marking): TWY CL, TWY side stripe
+(LGT): Taxiway edge LGT, Taxiway CL LGT
+TWY: TWY B4, C1 THRU C7, W1 THRU W10
+(Marking): RWY HLDG PSN, Mandatory instruction
+(LGT): RWY guard LGT
+TWY: TWY A1, B1
+(Marking): Intermediate HLDG PSN
+(LGT): Intermediate HLDG PSN LGT
+TWY: TWY W2
+(LGT): Stop aiming LGT
+SFC painted direction sign and SFC painted LCA sign (See attached chart)
+TWY: TWY B4, C1, C6, C7, W6 THRU W10
+(LGT): RWY Entrance LGT (RWY status LGT)
+(see attached chart)
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT) APN flood LGT
+(EFF:18 MAY 2023) 18/5/23
+
+
+=== Page 5 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-5
+Runway Entrance Lights(REL) and Takeoff Hold Lights(THL)
+14
+R
+14
+L
+32
+R
+C1C7
+W10 W9 W8 W7 W6
+C6
+B4
+NOTE: The TWY names and RWY HLDG PSN markings in this ATTACHMENT are depicted only for the TWYs where REL are installed.
+Runway Entrance Lights (REL)
+Takeoff Hold Lights (THL)
+RWY HLDG PSN marking
+32
+R
+C1
+B4
+(32R)THL
+14
+L
+C7
+W10
+C6
+(14L)THL
+(EFF:29 MAR 2018) 1/3/18
+
+
+=== Page 6 ===
+RJOO AD2-6 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+R1, R2, R5, R6, apron TWY at Apron NR5, NR6, and NR7
+Spots 45, 45W, 46, 47, 48, 51 to 53 and Apron NR7 and NR8
+R-INT. and E-INT.
+:Aircraft stand taxilane
+:Parking areas
+:Intersections
+S3 18
+19
+20
+21
+22
+23
+24
+252627
+E5
+C6 C5
+R2
+R6
+R1
+R-INT
+E-INT
+R5
+A5 A4
+APRON NR7
+APRON NR5
+APRON NR8
+APRON NR6
+STOP LINE
+PRESS HANGAR
+JAL-HANGAR
+POSITION
+42
+43
+44
+41
+515253
+ANTI-NOISE
+WALL
+C4
+45
+46
+47
+48
+45W
+(EFF:25 APR 2019) 25/4/19
+
+
+=== Page 7 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-7
+APRON NR1
+APRON NR2APRON NR3
+APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C3 C2 C1C4
+C5C7
+W10 4W5W6W7W8W
+1B2B3B
+1W2W3W
+A3A4A5 A2 A1
+14
+R
+14
+L
+32
+R
+32
+L
+B4
+W9
+C6
+16
+E5
+E
+E
+R
+E
+R
+R
+ER
+E
+R
+17
+1819
+19
+E
+A3
+E
+RWY
+19
+APN
+APNE
+APNR
+A4
+A4
+E
+R
+19
+RWY
+A3
+A3
+APN
+R
+E
+R
+Surface Painted Direction Sign and Surface Painted Location Sign
+Type of Surface Painted Markings
+1.Type of Surface Painted Markings
+Surface Painted Direction Sign
+This type of marking at a taxiway intersection indicates the designation and direction of taxiway leading out of
+intersection.
+Black inscriptions with an arrow with a yellow background.
+2.On each of the Taxiway A3, A4, C4, behind APRON NR4, beside SPOT20, R1,R6,W9 and APRON Taxiway
+between SPOT43 and SPOT44 surface painted markings are provided (refer attached drawing).
+Fig.2
+Fig.3 Fig.1
+Fig.1
+Fig.2
+Fig.3
+45W
+45
+44
+43
+21
+20
+52 51
+46
+47
+48
+46
+47
+48
+46
+47
+48
+R6 R2 R6 R1
+R6
+R6 20
+-
+44
+20
+-
+44
+APN
+R
+R1R2
+R6
+APN
+R
+R2
+R1R2
+Fig.4
+Fig.4
+(EFF:18 MAY 2023) 18/5/23
+
+
+=== Page 8 ===
+RJOO AD2-8 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+VISUAL DOCKING GUIDANCE SYSTEM
+1. General
+(1) Aircraft parking stands NR13, NR14, are equipped with a visual docking guidanc e system. The pilots of an arriving
+aircraft assigned to park at one of these parking stands can use this system to be guided and stop the aircraft at the
+correct parking position.
+(2) This system is operational only in the automatic mode and in an event of a system failure, the aircraft shall be manually
+guided by a marshaller to the stopping position.
+(3) The visual docking guidance system c onsists of a display screen for pilots  and a laser scanner. The system detects
+and analyses the aircraft type of an approaching aircraft, tracks it through the laser scanner, and displays these results
+on the display screen.
+(4) The display screen indicates the following information:
+a) type of the approaching aircraft
+b) deviation from the lead-in center line
+c) distance to the stopping position
+The above information is provided equally to the pilots on both left seat and right seat.
+2. Aircraft Type lndication
+(1) An operator on ground shall input the aircraft type into t he system before the aircraft  approaches the parking stand.
+Upon accepting the input, the system carries out internal  calibration, stars the laser scanner simultaneously, and
+indicates the aircraft type according to the input. The system then will begin to indicate yellow lead-in arrows scrolling
+upwards prompting the aircraft to proceed. (Fig.1, Fig.2)
+(2) When the laser scanner detects the approaching aircraft, the disp lay screen will indicate the aircraft type, a "T" bar, and
+a lead-in upward arrow in yellow.
+(3) At least until the approaching aircraft arrives at a point 15 meters before the stopping position, the system will identify
+the aircraft type and will compare with the previously input aircraft type. If these data match, the system will continue its
+operation. If they do not match, the display screen will indicate "STOP" with a red border, and "ID FAIL" simultaneously.
+(Fig.3)
+NOTE: At this moment, the pilots must stop the aircraft immediately.
+When the operator re-input the correct aircraft type into th e system and the system finds it correct, it resumes normal
+operations indicating the correct aircraft type on its display screen.
+–200B777
+Fig.2Fig.1
+Fig.1 Fig.2
+STOP
+ID
+FAIL
+Fig.3
+(EFF:16 AUG 2018) 16/8/18
+
+
+=== Page 9 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-9
+3. Taxiing and Lateral Center line Guidance
+(1) While taxiing the aircraft using the system, the pilots  should maneuver the aircraft at a low speed to the stopping
+position. In an event when "SLOW" is indicated on the displa y screen, the pilots should further decelerate the taxiing
+speed to avoid overshooting. (Fig.4)
+(2) Deviation of an upward yellow arrow from the center li ne of "T" indicates the deviation of the approaching aircraft
+relative to the center line of the parking stand either to right or left. Further, an additional flashing red arrow on the either
+side indicates the required direction for the aircraft to turn(Fig.5, Fig.6) and indicate numerical value of remaining
+distance. (Fig.7, Fig.8)
+SLOW
+Fig.4
+B777
+Fig.5
+B777
+Fig.6
+8.0m
+Fig.7
+4.5m
+Fig.8
+(EFF:16 AUG 2018) 16/8/18
+
+
+=== Page 10 ===
+RJOO AD2-10 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+4. Stop Guidance
+(1) When the approaching aircraft is within 20 meters from the stoppi ng position, the shaft of the illuminated "T" will start to
+reduce in its length from the bottom to indicate the approaching rate of the aircraft, indicating the remaining distance to
+the stopping position succes sively. (Fig.9, Fig.10) As the aircraft approac hes the stopping position, the shaft of the
+illuminated "T" retract one row for every 0.3 m.
+At aircraft parking stands when the approaching aircraft is within 30 meters from the stopping position, display of digital
+countdown will start.
+As the aircraft approaches the stopping pos ition, a digital countdown shows the distance to stop position numerically,
+for every 1.0 meters (from 30 to 5 meters to the stop position), for every 0.5 meters (from 5 to 2 meters to the stop
+position) or for every 0.1 meters (from 2 to 0 meters to the stop position).
+When the approaching aircraft is within 20 meter from the stopping position, the shaft of the illuminated "T" will start to
+reduce in its length from the bottom to indicate the approaching rate of the aircraft, indicating the remaining distance to
+the stopping position successively. (Fig.11, Fig.12)
+(2) When the aircraft reaches the stopping position, a message "STOP" will be displayed on the screen with a red border.
+(Fig.13)
+(3) When the aircraft is stopped at the correct stopping position,  a message "OK" will be displayed on the screen in several
+seconds. (Fig.14)
+(4) When the operator applies chocks, and switches on "CHOCK ON" switch, the display screen will display "CHOCK ON."
+(Fig.15) 
+B777
+Fig.9
+B777
+Fig.10
+16.0m
+Fig.11
+1.8m
+Fig.12
+STOP
+Fig.13
+OK
+Fig.14
+CHOCK
+ON
+Fig.15
+(EFF:16 AUG 2018) 16/8/18
+
+
+=== Page 11 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-11
+(5) If the aircraft stops at a position beyond the correct st opping position, a message "TOO FAR" will be displayed on the
+screen. (Fig.16)
+5. Cautions and Safety
+(1) When the system displays an incorrect aircraft type, or w hen such a message as "STOP", "ID FAIL", or "WAIT" appears
+on the display screen, the pilots should stop the aircraft immediately. (Fig.3, Fig.13, Fig.17)
+(2) During heavy fog, rain or snow the visibility for the docking system can be reduced. When the system is activated and
+in capture mode, the display will deactivate the floati ng arrows and show "SLOW" (Fig.18). The message will be
+superseded by the closing rate bar as soon as the system detects the approaching aircraft. The pilot must not proceed
+beyond the bridge, unless the "SLOW" text has been superseded by the closing rate bar.
+TOO
+FAR
+Fig.16
+WAIT
+Fig.17
+SLOW
+Fig.18
+(EFF:16 AUG 2018) 16/8/18
+
+
+=== Page 12 ===
+RJOO AD2-12 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.10 AERODROME OBSTACLES
+RJOO AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area 2 See Obstacle data
+In Area 3 To be developed
+1 Associated MET Office KANSAI
+2 Hours of service MET Office outside 
+hours
+H24 (KANSAI)
+3 Office responsible for TAF preparation 
+Periods of validity
+KANSAI
+30 Hours
+4 Trend forecast Interval of issuance Nil
+5 Briefing/ consultation provided Briefi ng is available upon inquiry at KANSAI
+6 Flight documentation Language(s) used C
+En
+7 Charts and other information available 
+for briefing or consultation
+S
+6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment available for 
+providing information
+Doppler Radar for Airport Weather
+(See below chart)
+9 ATS units provided with information TWR, ATIS
+10 Additional information
+(limitation of service, etc.)
+Nil
+(EFF:11 JUL 2024) 11/7/24
+
+
+=== Page 13 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-13
+1NM
+UPPER LIMIT: 1600ft above FIELD ELEV LEVEL
+LOWER LIMIT: FIELD ELEV LEVEL
+Airspace for the advisory service
+concerning low level wind shear
+Detection Area for Departing Aircraft
+Detection Area for Departing Aircraft Detection Area for Arriving Aircraft
+Detection Area for Departing Aircraft
+Detection Area for Departing Aircraft
+Detection Area for Arriving Aircraft
+Detection Area for Arriving Aircraft
+Detection Area for Arriving Aircraft
+FIELD ELEV 39ft
+1NM
+2NM
+1NM 1NM 1NM 1NM
+1NM
+1NM
+1NM 1NM1NM
+1NM 1NM
+1NM
+1NM
+1NM 1NM
+1NM
+0.5NM
+0.5NM0.5NM
+0.5NM 1NM
+0.5
+NM
+0.5
+NM
+0.5
+NM
+1NM
+1NM
+1NM
+1NM
+1NM 1NM
+(EFF:16 AUG 2018) 16/8/18
+→
+
+
+=== Page 14 ===
+RJOO AD2-14 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+14R 135° 3000x60 PCR 1342/F/C/X/T
+Asphalt Concrete
+344728.77N 
+1352543.34E
+THR ELEV: 46ft
+32L 315° 3000x60 PCR 1342/F/C/X/T
+Asphalt Concrete
+344619.92N 
+1352706.76E
+THR ELEV: 31.2ft
+TDZ ELEV: 30.0ft
+14L 135° 1828x45 PCR 599/F/D/X/T
+Asphalt Concrete
+344742.97N 
+1352543.27E
+THR ELEV: 50ft
+32R 315° 1828x45 PCR 599/F/D/X/T
+Asphalt Concrete
+344701.02N 
+1352634.11E
+THR ELEV: 34ft
+   Slope of RWY Strip
+ Dimensions(M)
+RESA(Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See below figure
+3120x300 91x(MNM:201 MAX:300)* RWY grooving: 3000mx40m
+3120x300 140x(MNM:210 MAX:300)* RWY grooving: 3000mx40m
+1950x150 240x(MNM:137 MAX:150)* RWY grooving: 1828mx30m
+1950x150 147x(MNM:120 MAX:150)*
+*For detail, 
+ask airport administrator
+RWY grooving: 1828mx30m
+14.14
+(46.4)
+12.06
+(39.6) 11.68
+(38.3) 11.15
+(36.6)
+0.29%
+710 870 1030 1490 1570 1890 1990 2110 2630 2750 2890 3000m
+32L
+32R
+14R
+14L
+0
+0 40 120 200 380 720 820 920 1080 1360 1480 1600 1828m
+0.24%
+0.08%
+0.08%
+0.13% 0.26%
+0.24%
+0.37% 0.50% 0.41%
+0.22% 0.18% 0.19% 0.32%
+0.33%
+0.20%
+0.16% 0.21%
+0.18% 0.10% 0.01% 0.02% 0.07% 0.29%
+10.24
+(33.6)
+15.16
+(50)
+15.19
+(50)
+15.13
+(50) 15.03
+(49) 14.56
+(48) 13.75
+(45) 13.38
+(44) 12.88
+(42) 12.23
+(40) 11.61
+(38) 11.40
+(37) 11.17
+(37) 10.44m
+(34ft)
+10.11
+(33.2) 9.14
+(30.0)
+9.26
+(30.4)
+9.44
+(31.0) 9.07
+(29.8)
+9.09
+(29.8)
+9.19
+(30.1)
+9.51m
+(31.2ft)
+(EFF:15 MAY 2025) 15/5/25
+
+
+=== Page 15 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-15
+RJOO AD 2.13 DECLARED DISTANCES 
+RJOO AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+1 2345 6
+14R
+TWY:W9
+TWY:W8
+32L
+TWY:W2
+TWY:W3
+TWY:W4
+TWY:W5
+3000
+1972
+1732
+3000
+2700
+1972
+1941
+1329
+3000
+1972
+1732
+3000
+2700
+1972
+1941
+1329
+3000
+1972
+1732
+3000
+2700
+1972
+1941
+1329
+3000
+3000
+Nil
+Nil
+14L
+TWY:C6
+TWY:C5
+32R
+TWY:C2
+TWY:C3
+1828
+1496
+986
+1828
+1531
+1139
+1828
+1496
+986
+1828
+1531
+1139
+1828
+1496
+986
+1828
+1531
+1139
+1828
+1828
+Nil
+Nil
+誘導路の TORA,TODA 及び ASDA は、 誘導路中心線と滑走路中心線の交点から滑走路末端までの距離を示す。
+(TORA,TODA and ASDA for TWY indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.)
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 3 4 5 6 7 8 9
+14R AGL
+422m
+(*1)
+Green PAPI
+3.0°/Left
+482m
+74ft
+Nil 3000m
+30m
+Coded color
+(White/Red)
+LIH
+3000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+32L PALS
+(CAT l)
+450m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+422m
+64ft
+900m 3000m
+30m
+Coded color
+(White/Red)
+LIH
+3000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+14L AGL
+597m
+Green PAPI
+3.0°/Left
+383m
+61ft
+Nil 1828m
+30m
+Coded color
+(White/Red)
+LIH
+1828m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+32R SALS
+600m
+(*2)
+LIH
+Green PAPI
+3.0°/Left
+309m
+52ft
+Nil 1828m
+30m
+Coded color
+(White/Red)
+LIH
+1828m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+Remarks
+10
+APCH LGT Beacon(570m and 944m FM RWY 14R THR)(*1)
+SALS with APCH LGT beacon(980m FM RWY 32R THR)(*2) 
+Overrun area edge LGT(Color:Red)(*3)
+RWY THR ID LGT for RWY14R/14L THR(Color:White)
+CGL and RLLS for RWY 14R(see below chart)
+Usable area of PAPI is shown in below chart
+(EFF:10 AUG 2023) 10/8/23
+
+
+=== Page 16 ===
+RJOO AD2-16 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+ޓUsable area of PAPI for Runway 14L and Runway 14R is within approximately 
+2.4NM from Runway 14L threshold and approximately 2.6NM from Runway 14R 
+threshold(Hankyu Railway, Takarazuka Line) due to obstruction (mountain).
+㧘㓚ኂ‛
+ጊ
+0/㧔㒋ᕆቲႦ✢㧕એ
+ޕࠆߔߣ
+*#0-;76#-#4#<7-#.+0'
+*#0-;76#-#4#<7-#.+0'
+#24:0/#24:0/
+#24:0/#24:0/
+14L 14L
+14R 14R
+32R32R
+32L32L
+15#-#
++06'40#6+10#.
+#+42146
+15#-#
++06'40#6+10#.
+#+42146
+500 0
+0 10001000
+SCALE
+3000 ft
+500 1000 m
+Usable area of PAPI 
+(EFF:16 AUG 2018) 16/8/18
+←
+
+
+=== Page 17 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-17
+Runway lead-in lighting system for RWY 14 side
+(Nr.1 to Nr.7, Flashing white)
+(EFF:16 AUG 2018) 16/8/18
+→
+
+
+=== Page 18 ===
+RJOO AD2-18 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJOO AD 2.16 HELICOPTER LANDING AREA
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 344702N/1352605E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : Nil
+Anemometer :
+RWY14R : 151m FM RWY 14R THR, LGTD
+RWY32L : 388m FM RWY 32L THR, LGTD
+RWY32R : 388m FM RWY 32R THR, LGTD
+3 TWY edge and center line 
+lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/  
+switch-over time
+Within 1 sec : Runway  Entrance LGT, Takeoff Hold LGT
+Within 15 sec : Other LGT
+5 Remarks Nil
+1 Coordinates TLOF or THR of FATO
+Geoid undulation
+APRON-HELIPAD: 344744.56N/1352551.01E, Nil
+C6-HELIPAD: 344738.58N/1352555.08E, Nil
+C7-HELIPAD: 344746.17N/1352545.87E, Nil
+2 TLOF and/or FATO elevation APRON-HELIPAD: 52ft
+C6-HELIPAD, C7-HELIPAD: 51ft
+3 TLOF and FATO area dimensions,
+ surface, strength, marking
+TLOF and FATO area dimensions:
+APRON-HELIPAD: 20m×20m
+C6-HELIPAD: 23m×23m
+C7-HELIPAD: 16m×16m
+Surface: 
+APRON-HELIPAD: Concrete
+C6-HELIPAD, C7-HELIPAD: Asphalt
+Strength: 7ton
+Marking: See AIP AD2.24 AD chart
+4 True BRG of FATO
+APRON-HELIPAD, C7-HELIPAD
+135.01 °/ 315.01°
+225.01 °
+C6-HELIPAD
+135.01 °/ 315.01°
+045.01 °/ 225.01°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7 Remarks
+APRON-HELIPAD, C6-HELIPAD: 
+• MAX helicopter type: A139
+• only available to specific operator
+C7-HELIPAD:
+• MAX helicopter type: A109
+• only available to specific operator
+(EFF:17 APR 2025) 17/4/25
+
+
+=== Page 19 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-19
+RJOO AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 5
+OSAKA 
+CTR
+Area within a radius of 5NM of OSAKA ARP 
+(3447N/13526E ) ------
+3000
+D
+OSAKA TWR 
+En
+OSAKA 
+PCA
+1. The airspace bounded by the lines connecting the 
+following points.
+(1) 344519N/1353203E, (2) 344223N/1352828E, 
+(3) 344038N/1353034E, (4) 344335N/1353409E
+thence to point(1)
+The line connecting point(1) to point(2) is the minor 
+arc with a radius of 5NM OSAKA ARP
+3000
+------
+700
+C
+KANSAI
+APP
+KANSAI 
+RADAR
+KANSAI 
+DEP
+En
+See
+below
+chart
+2. The airspace bounded by the lines connecting the 
+following points.
+(4) 344335N/1353409E, (3) 344038N/1353034E,
+(5) 343953N/1353128E, (6) 344250N/1353504E
+thence to point(4).
+4000
+------
+1100
+3. The airspace bounded by the lines connecting the 
+following points.
+(6) 344250N/1353504E, (5) 343953N/1353128E,
+(7) 343930N/1353157E, (8) 343714N/1353028E,
+(9) 344005N/1353822E thence to point(6).
+The line connecting point(8) to point(9) is the minor 
+arc with a radius of 4.5NM of 344112N/1353304E.
+5000
+------
+1300
+(EXC1300)
+4. The airspace bounded by the lines   connecting 
+the following points.
+(9) 344005N/1353822E, (8) 343714N/1353028E,
+(10)343317N/1352752E, (11)343639N/1354230E 
+thence to point(9).
+The line connecting point(9) to point(8) is the minor 
+arc with a radius of 4.5NM of 344112N/1353304E.
+ The line connecting point(10) to point(11) is the 
+minor arc with a radius of 9NM of 
+344112N/1353304E
+5000
+------
+3000
+KANSAI ACA See RJBB attached chart
+KANSAI TCA See RJBB attached chart
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 20 ===
+RJOO AD2-20 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+Osaka Positive Control Area
+大阪特別管制区
+NAME LATERAL LIMITS
+UPPER LIMIT
+(AMSL)
+-------------
+LOWER LIMIT
+(AMSL)
+M(ft)
+UNIT
+PROVIDING
+SERVICE
+REMARKS
+12 3 4 5
+Osaka The area shown 
+on the below figure
+Primary:
+Kansai APP
+Kansai Radar
+124.7-120.45
+261.2
+Secondary:
+Osaka Tower
+118.1-126.2 
+236.8
+Pilot of aircraft operaring in this area shall 
+contact KANSAI APP (RADAR) or OSAKA 
+TWR for ATC instructions giving informations 
+on aircraft identification, position, altitude 
+and pilot's intentions.
+当該空港を飛行し よ う とする航空機は、関西
+アプローチ （レーダー） 又は大阪タ ワーに連
+絡し、 コールサイ ン、 現在位置、 高度及び意
+図を通報し指示を受けること。
+OSAKA CTR
+YAO CTR
+IKOMA
+(2) 344223N1352828E
+(3) 344038N1353034E
+(5) 343953N1353128E
+(7) 343930N1353157E
+(8) 343714N1353028E
+(10) 343317N1352752E
+(11) 343639N1354230E
+(9) 344005N1353822E
+(6) 344250N1353504E
+344112N
+1353304E
+(4) 344335N1353409E
+(1) 344519N1353203E
+2NM
+4.5
+NM
+2NM
+9NM
+2NM
+4000
+1100
+5000
+1300
+5000
+3000
+2000
+1300
+3000
+700
+OSAKA INTL
+AIRPORT 
+YAO AIRPORT 
+(EXC 1300)
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 21 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-21
+RJOO AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP/ASR Kansai Approach/
+Kansai Radar
+120.45MHz(1)
+124.7MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1200 (1) Primary
+    APP service provided by
+    KANSAI APP
+DEP Kansai Departure 119.5MHz
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1200
+TWR Osaka Tower 118.1MHz
+126.2MHz
+236.8MHz
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1200
+GND Osaka Ground 121.7MHz
+126.2MHz
+2200 - 1200
+DLVRY Osaka Delivery 118.8MHz 2200 - 1200
+ATIS Osaka INTL Airport 128.6MHz 2200 - 1200
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 22 ===
+RJOO AD2-22 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(7°W / 2014)
+ITE 114.75MHz H24 344819.74N/1352413.18E Unusable :
+000°-010° beyond 20nm BLW 5000ft.
+010°-020° beyond 30nm BLW 5000ft.
+020°-030° beyond 20nm BLW 5000ft.
+030°-060° beyond 20nm BLW 6000ft.
+060°-070° beyond 20nm BLW 5000ft.
+240°-260° beyond 20nm BLW 6000ft.
+260°-270° beyond 15nm BLW 6000ft.
+270°-290° beyond 20nm BLW 6000ft.
+290°-310° beyond 30nm BLW 6000ft.
+310°-340° beyond 20nm BLW 6000ft.
+340°-360° beyond 20nm BLW 5000ft.
+DME ITE 1055MHz
+(CH-94Y)
+H24 344819.74N/1352413.18E 176ft
+ILS-LOC 32L ISK 110.1MHz 2200-1200 344733.87N/1352537.16E LOC : 222m(728ft) away FM 
+RWY 14R THR,
+BRG(MAG)322° 
+ILS-GP 32L - 334.4MHz 2200-1200 344624.67N/1352653.99E
+GP : 333m(1092ft) inside FM 
+RWY 32L THR, 
+126m(413ft) W of RCL. 
+HGT of ILS REF datum 16.5m(54ft).
+ Angle 3.0° 
+ILS-DME32L ISK 999MHz
+(CH-38X)
+2200-1200 344624.57N/1352653.86E 48ft DME: 333m(1092ft) inside FM 
+RWY32L THR, 
+130m(426ft) W of RCL
+MSAS
+1575.42MHz H24 Transmitting antennas are satellite 
+based.
+REMARKS  : 1. ILS-LOC beam BRG(MAG) 322 ˃
+2. HGT of ILS REF datum 16.5m (54 ft)
+3. ILS-GP Angle 3.0 ˃
+4. ELEV of ILS-DME 14.6m (48ft)
+ILS for RWY 32L
+RWY
+ILS-LOC
+ANTENNA
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+126m130m
+333m
+3000m222m
+32
+L
+14
+R
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 23 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-23
+RJOO AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+1. On use of this airport
+In order to cope with the increasing flight  frequencies and to ensure the safety of flight, the following shall apply to an air craft
+operators.
+1.1 Aircraft other than those of scheduled flights being approved by  the Minister of Land, Infrastructure,   Transport and
+Tourism and those which come under the para. 1.2 (a) and (b) below specified are all subject to the prior permission
+of the Administrator Osaka INTL Airport.
+1.2 In principle, the use of this airpor t by light fixed wing aircraft having a ma ximum take off weight of 5700kg or less
+shall not be permitted excepting the aircraft underspecified:
+(a) Aircraft used for operations of:
+(1) Ministry of Land, Infrastructure, Transport and Tourism 
+(2) Japan Coast Guard,
+(3) Police Agency,
+(4) Local Government,
+(5) Police Department,
+(6) Fire Department.
+(b) Aircraft belonging to newspaper offices having their ow n hanger facilities in this airport, including chartered
+aircraft.
+(c) Aircraft which have been registered to  use this airport as a home base.
+(d) Aircraft using this airport with the purpose of aircraft maintainance by  the reason that the concerned aircraft
+operator has now been under the maintenance contract with the maintainance factories located in this airport.
+Note: Whenever the flight plan bound for this  airport is submitted by the aircraft  operator to a airport office or a
+airport branch office before flight is conducted, the concerned airport authority is urged, prior to its acceptance, to
+ascertain whether or not the advance approval has been given the operator concerned.
+1.3 On the control of flight frequencies
+The flight frequency of aircraft is controlled as specified below:
+(a) The total numbers of IFR aircraft permitted to land and to take off are confined to;
+(1) 36 aircraft for an hour
+(2) 93 aircraft within 3 hours on a continuous basis
+(3) 370 aircraft for a day
+(b) The total numbers of IFR aircraft permitted to land are confined to;
+(1) 20 aircraft an hour
+(2) 60 aircraft within 3 hours on a continuors basis.
+Note:Aircraft in an emergency situations are exempted from applying any of the foregoing limitations.
+2. Principal Runway Usage Classification
+Arrival Departure
+RWY 14L/32R Maximum take-off weight at or less than 
+B737-800 (79,243kg)
+Maximum take-off weight at or less than 
+ERJ170 (34,500kg)
+RWY 14R/32L
+B737-800 
+B737-700 
+ 
+Other aircraft 
+described left, 
+maximum take-off 
+weight more than 
+B737-800 (79,243kg)
+Maximum take-off weight more than 
+ERJ170 (34,500kg)(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 24 ===
+RJOO AD2-24 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+3. 補助動力装置 （APU） の使用制限 3. Restrictions about the use of auxiliary power units(APU)
+　航空機が固定電源設備付きのスポ ッ ト を使用する場
+合は、 管理者が特に認める場合を除き、 次に掲げる時間
+を超えて補助動力装置を使用し てはな らない。
+When an aircraft is using an airc raft parking stand with fixed
+electric power facilities, APU shall not be used outside the time
+periods specified below except when specifically acknowledged
+by the authority as necessary.
+(1) 出発予定時刻前の 30 分間 (1)30 minutes prior to the estimated off-block time.
+(2) 到着後、 固定電源設備が使用可能と なるまでに必要
+とする最小限度の時間
+(2)The minimum time required for switching over to the fixed
+electric power facilities, after arrival at the parking stand. 
+(3) 航空機が点検整備のため補助動力装置を必要とする
+場合は最小限度の時間
+(3)The minimum time required for aircraft maintenance purposes
+if needed.
+注 ： スポ ッ ト 4 及び 5 ～ 27 は固定電源設備が設置され
+ている。 　 　
+NOTE: Spot 4 and 5-27 are equipped with fixed electric power
+facilities. 
+4. ATC Procedure
+ATC clearance will be obtained by "Voice radiotelephone(Voice RTF)" or "Departure Clearance by data link(DCL)".
+Shown in detail below (a) or (b).
+CLEARANCE
+FLOW (a) Voice RTF
+(b) DCL
+Refer to ENR 1.5.4.1(Operation for Departure
+Clearance by data link(DCL))
+REQUEST
+CLEARANCE
+Call OSAKA DELIVERY(118.8) at 5 
+minutes before starting engines, with the 
+following information.
+(1)Call sign
+(2)Destination
+(3)Proposed flight level/altitude
+(alternative flight level/altitude, if any)
+(4)Parking position(spot number)
+- Send RCD message at 5 minutes before 
+starting engines.
+- Monitor OSAKA DELIVERY(118.8). 
+NOTE:
+- Start monitoring OSAKA DELIVERY(118.8) 
+once RCD message is sent. In case 
+coordination is required, OSAKA DELIVERY 
+calls the pilot on Voice RTF.
+CALL READY In case that the engines could not be started within 5 minutes after receiving ATC clearance, 
+pilot shall notify OSAKA DELIVERY(118.8) of its delay.
+FOR ADDITIONAL
+REQUEST
+EXCEPT CLEARANCE
+Call OSAKA DELIVERY(118.8) on Voice
+RTF when requesting clearance.
+Call OSAKA DELIVERY(118.8) on Voice RTF
+after receiving an FSM for CDA.
+Nil
+Nil
+Nil
+Nil
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 25 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-25
+6. Taxiing - limitations
+6.1 Safety measures against jet engine blast.  (See attachment)
+1) In case of holding before taking off from RWY 32R, the ai rcraft which wing span is at or less than 35.79m shall follow
+the specific taxiway centerline marking installed on TWY C1.
+2) In order to avoid effect of the blast on RWY 14L, jet aircraft taxiing via TWY W10 are to follow the specific nose-wheel
+guide line installed on TWY W10 when taking off from RWY 14R.
+6.2 Aircraft using TWY C1 and taking off from RWY 32R may be instructed to hold at No.2 stop line illustrated in attachment.
+6.3 While operating within aprons, follow strictly yellow nose wheel guide lines.
+Key to the chart below:
+䷵ Runway holding position marking on TWY W2
+䷶ 2700m position from RWY 14R THR
+䷷ NO.1 Stop line
+䷸ PAPI
+䷹ TKOF power setting position
+*See the back page for more detailed information.
+Taxiing and Taking off Procedure for RWY 32L
+TRUE NORTH
+RWY 14R/32L
+422m
+370m
+䷵䢢
+䷶䢢
+䷷䢢
+䷸䢢
+䷹䢢
+B2
+1W2W3W
+B1
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 26 ===
+RJOO AD2-26 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+#8
+TAXIING HOLDING POSITION ON TWY W2
+40m
+TWY W2
+5m5m
+ᶃ
+ᶃ
+ᶄ
+ᶄ
+15m wing tip clearance
+Note:
+When instructed by ATC, aircraft shall hold between 
+runway holding position marking and the line formed by 
+stop aiming lights so as to keep wing tip clearance 
+from aircraft on TWY B1.
+#8to RWY 32L THR
+Legend: Runway  holding  position  marking
+Stop  aiming  lights ( Type : M-1 Red light)
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 27 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-27
+Intermediate holding position marking
+(No.1 Stop line) on Taxiway B
+No.1
+RWY 14R/32L
+B TWY
+16m
+7.5m
+Centerline
+Intermediate holding position light
+Taxiway edge light
+No.1 Taxiing guidance sign
+Intermediate holding position marking
+4.2m
+0.8m
+Legend:
+7.5m23m
+No.1
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 28 ===
+RJOO AD2-28 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+No.2
+No.2
+A TWY
+23m7.5m 7.5m
+RWY 14L/32R
+20m
+Legend: Intermediate holding position light
+Taxiway edge light
+No.2 Taxiing guidance sign
+Intermediate holding position marking
+4.2m
+0.8m
+Centerline
+Intermediate holding position marking
+(No.2 Stop line) on Taxiway A
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 29 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-29
+3.6m
+0.8m
+Guide line and Guidance sign of TWY C1 & W10
+PROP JET
+TAXIING
+GUIDANCE  SIGN
+Taxiway center line marking for JET aircraft
+Taxiway center line marking for PROP aircraft
+凜Taxiway center line lights are installed.
+Runway holding
+position marking
+W10
+Intermediate holding position
+marking(No.2  Stop line)
+Runway holding
+position marking
+Runway holding
+position marking
+Taxiway center line marking
+(for the aircraft which wing span is at or less than 
+35.80m to hold before taking off from RWY32R)
+Taxiway center line lights
+C1
+A1
+32
+R
+14
+R
+Runway holding
+position marking
+For departure aircraft from runway 14R
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 30 ===
+RJOO AD2-30 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+6.4 Restricted taxiways
+1) A350-900 における注意し て走行すべき誘導路 1) TWY required to pay special attention for A350-900
+㉮⾜⚗Ṇ⤒㊰
+Prohibited Course
+Prohibited Turn Both Way
+Prohibited Turn One Way
+(Opposite turn available
+with oversteering)
+儎兠儴兠儝優儆兎兗儔⟠ᡤ
+Oversteering course
+A350-900僑傰傷僱ὀព傽僌㉮⾜傿僟傳ㄏᑟ㊰
+TWY required to pay special attention for A350-900
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C1C2C3C4C5C7
+W10 W9 W8 W7
+W6 W5 W4
+B1B2B3
+W W W1
+C6 A3A4A5 A1A2
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+R5 R2 R1
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 31 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-31
+2) B767-300 における注意し て走行すべき誘導路 2) TWY required to pay special attention for B767-300
+B767-300僑傰傷僱ὀព傽僌㉮⾜傿僟傳ㄏᑟ㊰
+TWY required to pay special attention for B767-300
+㉮⾜⚗Ṇ⤒㊰
+Prohibited Course
+Prohibited Turn Both Way
+Prohibited Turn One Way
+(Opposite turn available
+with oversteering)
+儎兠儴兠儝優儆兎兗儔⟠ᡤ
+Oversteering  course
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C1C2C3C4C5C7
+W10 W9 W8 W7
+W6 W5 W4
+B1B2B3
+: : W1
+C6 A3A4A5 A1A2
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+R5 R2 R1
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 32 ===
+RJOO AD2-32 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+3) B777-200 における注意し て走行すべき誘導路 3) TWY required to pay special attention for B777-200
+B777-200僑傰傷僱ὀព傽僌㉮⾜傿僟傳ㄏᑟ㊰
+TWY required to pay special attention for B777-200
+㉮⾜⚗Ṇ⤒㊰
+Prohibited Course
+Prohibited Turn Both Way
+Prohibited Turn One Way
+(Opposite turn available
+with oversteering)
+儎兠儴兠儝優儆兎兗儔⟠ᡤ
+Oversteering course
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C1C2C3C4C5C7
+W10 W9 W8 W7
+W6 W5 W4
+B1B2B3
+: : W1
+C6 A3A4A5 A1A2
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+R5 R2 R1
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 33 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-33
+4) B777-300 における注意し て走行すべき誘導路 4) TWY required to pay special attention for B777-300
+B777-300僑傰傷僱ὀព傽僌㉮⾜傿僟傳ㄏᑟ㊰
+TWY required to pay special attention for B777-300
+㉮⾜⚗Ṇ⤒㊰
+Prohibited Course
+Prohibited Turn Both Way
+Prohibited Turn One Way
+(Opposite turn available
+with oversteering)
+儎兠儴兠儝優儆兎兗儔⟠ᡤ
+Oversteering course
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C1C2C3C4C5C7
+W10 W9 W8 W7
+W6 W5 W4
+B1B2B3
+: : W1
+C6 A3A4A5 A1A2
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+R5 R2 R1
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 34 ===
+RJOO AD2-34 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+5) B787-8 における注意し て走行すべき誘導路 5) TWY required to pay special attention for B787-8
+B787-8僑傰傷僱ὀព傽僌㉮⾜傿僟傳ㄏᑟ㊰
+TWY required to pay special attention for B787-8
+㉮⾜⚗Ṇ⤒㊰
+Prohibited Course
+Prohibited Turn Both Way
+Prohibited Turn One Way
+(Opposite turn available
+with oversteering)
+儎兠儴兠儝優儆兎兗儔⟠ᡤ
+Oversteering  course
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C1C2C3C4C5C7
+W10 W9 W8 W7
+W6 W5 W4
+B1B2B3
+: : W1
+C6 A3A4A5 A1A2
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+R5 R2 R1
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 35 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-35
+6) B787-9 における注意し て走行すべき誘導路 6) TWY required to pay special attention for B787-9
+B787-9僑傰傷僱ὀព傽僌㉮⾜傿僟傳ㄏᑟ㊰
+TWY required to pay special attention for B787-9
+㉮⾜⚗Ṇ⤒㊰
+Prohibited Course
+Prohibited Turn Both Way
+Prohibited Turn One Way
+(Opposite turn available
+with oversteering)
+儎兠儴兠儝優儆兎兗儔⟠ᡤ
+Oversteering  course
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C1C2C3C4C5C7
+W10 W9 W8 W7
+W6 W5 W4
+B1B2B3
+: : W1
+C6 A3A4A5 A1A2
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+R5 R2 R1
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 36 ===
+RJOO AD2-36 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+7) B787-10 における注意し て走行すべき誘導路 7) TWY required to pay special attention for B787-10
+B787-10僑傰傷僱ὀព傽僌㉮⾜傿僟傳ㄏᑟ㊰
+TWY required to pay special attention for B787-10
+㉮⾜⚗Ṇ⤒㊰
+Prohibited Course
+Prohibited Turn Both Way
+Prohibited Turn One Way
+(Opposite turn available
+with oversteering)
+儎兠儴兠儝優儆兎兗儔⟠ᡤ
+Oversteering  course
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4 E3 E2 E1
+C1C2C3C4C5C7
+W10 W9 W8 W7
+W6 W5 W4
+B1B2B3
+W3 W2 W1
+C6 A3A4A5 A1A2
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+R5 R2 R1
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 37 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-37
+8) 航空機重量制限 8) Aircraft weight restriction
+下図の区域を使用する A350-900 型機においては、 航空機重量が下表の値を超えてはな ら ない。
+When A350-900 uses area in the figure below, aircraft weight shall not exceed the values listed in the table below.
+航空機重量
+Aircraft weight
+(lb) (kg)
+578,000 262,000
+20
+21
+22
+23
+24
+25
+53
+70
+71
+72
+7374
+75
+76
+77
+8081828384
+52 51 R2
+R5
+R6
+R1
+R-INT
+2627
+45
+45W
+46
+47
+48
+41
+43
+44
+42
+Restricted area
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 38 ===
+RJOO AD2-38 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJOO AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+1.Local flying restrictions:
+1.1 In order to reduce the noise impact in the vicinity of airp ort, no jet airplane fitted with three or more engines shall be
+permitted to operate except in an emergency situation or with prior permission of the airport administrator.
+1.2 No aircraft which produce the noise ex ceeding the maximum allowable levels shown in the following table, shall,
+except in an emergency situation, be permitted to operate. However, A-300 type of aircraft shall not exceed the noise
+level 97dB (A) whenever take off from RWY 32L/R.
+Time(UTC) / Maximun Allowable Noise Level
+22:00 - 11:00 / 107 dB (A)
+11:01 - 12:00 / 100 dB (A) for take off, 107 dB (A) for landing
+Note: (a) All aircraft operators are requested to present  in advance their "Operati on Manuals" to the airport
+authority, giving there in the detailed information on the following items specified for each time bracket
+and aircraft type.
+(1) Maximum takeoff weight calculated for each runway to be used, temperature, and headwind 
+component.
+(2) Flap angle.
+(3) Climb speed.
+(b) The figures of the noise level shown in the above Table will be the value to be measured by the  noise
+monitoring equipment installed at the position 2,400 meter from the threshold of Runway 14R on 315
+DEG magnetic (Kushiro Primary School).
+1.3 Aircraft using taxiway B and departing from runway 32L at  Osaka International Airpor t, in principle, shall make
+Intersection takeoff via taxiway W2. In this case, availa ble runway length is 2700m from runway 14R threshold. In
+case of having intention of making full length takeoff for the operational requirements, the pilot shall advise ATC to that
+effect when he initiates call for ATC clearance and shall follow procedures under specified.
+(a) In principle, departing aircraft shall not hold on taxiway W1.
+(b) In principle, aircraft shal l hold short of NO.1 stop line until receiving taxi clearance.
+(c) Whenever practicable, pilots are urged to make rolling takeoff without stopping at the threshold and to achieve
+takeoff power at position 370m from the threshold with gradual advance of power lever after passing the
+threshold.
+1.4 For landing on Runway 32 and 14: A non-instrument or vis ual approach shall not be made at an angle less than the
+ILS glide path or PAPI indicates.
+1.5 For circling approach to Runway 14:  Weather conditions permitting, an airc raft making circling approach is to be
+requested to maintain an altitude as high as practicable.
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 39 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-39
+2. 騒音軽減運航方式 2. Noise Abatement Operating Procedures
+(1) 　すべてのジ ェ ッ ト機に対して、 空港周辺における航空
+機騒音軽減のため、 運航の安全に支障のない範囲で、 以
+下の方式が適用される。 ただ し、 これらの方式による こ
+とができない航空機は実効的にこれら と同等と認められ
+る代替方式を実施する ものとする。
+(1) For all jet aircraft, in order to reduce aircraft noise in the 
+vicinity of airport, the following procedures shall be 
+applied unless compliance of the procedures adversely 
+affects the   safety of aircraft operations. In case that 
+the aircraft is unable to take these procedures, pilots 
+should execute alternative procedures which are 
+considered to be practically equivalent.
+i) 離陸について
+急上昇方式
+i) For take-off
+Steepest Climb Procedure
+ii) 着陸について ii) For landing
+デ ィ レ イ ド ・ フ ラ ッ プ進入方式及び
+低フ ラ ッ プ角着陸方式
+Delayed Flap Approach Procedure and Reduced 
+Flap Setting Procedure
+iii) リバース･スラ ス ト について (RWY32L 着陸時 )
+19 時から 21 時までの間、 リバース･ス ラ ス ト 使用
+はアイ ドルまでに制限する。
+iii) Reverse Thrust (landing RWY32L)
+Between 1000UTC (1900JST) and 1200UTC 
+(2100JST), the use of reverse thrust is limited to 
+idle except for safety reasons.
+(2) 優先滑走路方式
+なし
+(2) Preferential Runways Procedures
+Nil
+(3) 優先飛行経路
+　 すべての離陸機を対象に、 空港周辺地域における航空
+機騒音の影響を受ける区域の拡大を防止するため、 次の
+よ う な優先飛行経路が運航の安全に支障がない範囲で適
+用される。
+(3) Noise Preferential Routes
+For all departing aircraft, in order to prevent the 
+enlargement of aircraft noise affected area around the 
+airport, the following noise preferential routes are 
+applied except for safety reasons.
+i) 滑走路 32R/32L から離陸する場合
+　 離陸後 ITE VOR/DME 附近上空を通過し、 かつ北
+端を中国縦貫道路、南端を瑞ヶ池及び昆陽池並びに
+西端を武庫川で囲まれる範囲を飛行するよ う 左上
+昇旋回を継続し、ITE VOR/DME 2.2DME を通過し た
+後、 標準計器出発方式に従 う こ と。
+i) Take-off from runway 32R/32L:
+After take-off, execute continuous left climbing 
+turn so as to pass over near ITE VOR/DME and 
+keep flight track within the area defined by 
+Chugoku Express Way at the north end, ponds of 
+Zuga and Koya at the south end, and Muko River 
+at the west end until crossing ITE VOR/DME 
+2.2DME, then proceed via SID.
+ii) 滑走路 14R/14L から離陸する場合
+　 離陸後、阪神高速道路まで直線飛行し、その後旋
+回上昇に移し、 標準計器出発方式に従 う こ と。
+ii) Take-off from runway 14R/14L:
+After take-off, strictly follow extended runway 
+centerline until passing Hanshin Express Way and 
+then execute climbing turn so as to proceed via 
+SID.
+注） 上記地上物標については、 付図を参照のこ と。
+Note: Refer attached chart for the above mentioned 
+landmarks.
+3.6DME
+ISK
+NEW SANYO
+LINE
+CHUGOKU EXPRESS WAY
+HANSHIN
+EXPRESS
+W
+AY
+MEISHIN EXPRESS WAY
+MUKO
+RIVER
+ZUGA-POND
+ITE
+KOYA-POND
+14L
+14R
+32R
+32L
+2.8DME
+ ISK
+ISK
+2.2DME
+ITE
+(EFF:17 APR 2025) 17/4/25
+→
+
+
+=== Page 40 ===
+RJOO AD2-40 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.22 FLIGHT PROCEDURES
+1.TAKE OFF MINIMA
+RWY
+REDL & RCLL
+AVBL
+REDL or RCLL
+AVBL
+REDL & RCLL
+OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF ALTN 
+AP FILED
+32R - 300´-800m - 300´-800m - 300´-800m
+14L - 200´-1600m - 200´-1600m - 200´-1600m
+32L 300´-800m 300´-800m 300´-800m 300´-800m - 300´-800m
+14R - 200´-800m - 200´-800m - 200´-800m
+OTHER
+32R
+AVBL LDG MINIMA
+14L
+32L
+14R
+NOTE: SIDs are designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+ 2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Kansai Approach/Radar are lost for 1 minute, squawk Mode A/3 Code 7600 and, 
+(I) 1. Contact Osaka Tower.
+2. If unable, proceed in accordance with Visual Flight Rules.
+3. If unable, proceed to IZUMI at last assigned altitude or 5,000 feet whichever is higher, and execute instrument
+approach via IZUMI ARRIVAL.
+(II) Procedures other than above will be issued when situation required.
+3. Not withstanding the requirement as mentioned "JET circling to West only" in each approach minimum column of the 
+instrument approach charts of RJOO AIP , Boeing 727 series 100 or lighter jet ACFT may be instructed by ATC to enter into 
+East side traffic circuit during VMC in the daytime.
+4. Operation of Special VFR arrival by fixed wing aircraft NOT authorized except in an emergency situation.
+5. For the purpose of preventing disasters to Petroleum Oil Liquid (POL:See AD2.24 AD chart) facilities, all aircraft making 
+take off, landing or missed approach are requested to avoid flying over and in the vicinity of POL facilities.
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 41 ===
+AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD2-41
+RJOO AD 2.23 ADDITIONAL INFORMATION
+ 
+1. Maintenance works will be in progress all the year round during SR to SS along the edges of RWY 14R/32L and/or 14L/32R 
+and TWY subject to VMC.
+2. Position not visible from control tower.
+1) Spot Nr.4A, 23, 24, 25, 41, 42
+2) Apron Nr.7
+3. Avoidance Flight of Mountainous Areas is shown in attached chart.
+Avoidance Flight of Mountainous Areas at OSAKA INTL Airport 
+For the purpose of avoiding collision at the mountainous area shown on the
+chart, the aircraft taking off from RWY 32 at OSAKA International Airport 
+should turn to the left as soon as possible with due regard to the noise at the
+time of climbing, but without sacrificing the flight safety. 
+Note: The areas of hatching are obstructions which are projecting above the
+plane surface having a 40:1 slope from RWY 14 threshold.
+1nm
+1nm
+2nm
+2nm
+3nm
+3nm
+4nm
+4nm5nm6 nm
+1013
+1604
+Mts.  ROKKO
+1476
+1568
+1436
+1384
+1810
+1098
+931
+855
+1082
+1034
+1180
+1495
+Mts.   MINOO
+Mts.       NAGAO
+Runw
+ay
+14L
+14R
+32R
+32L
+(EFF:17 APR 2025) 17/4/25
+
+
+=== Page 42 ===
+RJOO AD2-42 AIP Japan
+OSAKA INTL
+Civil Aviation Bureau,Japan
+RJOO AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart-1
+Aerodrome/Heliport Chart-2
+Aerodrome Obstacle Chart - ICAO type A (RWY14R)
+Aerodrome Obstacle Chart - ICAO type A (RWY32L)
+Aerodrome Obstacle Chart - ICAO type A (RWY14L)
+Aerodrome Obstacle Chart - ICAO type A (RWY32R)
+Aerodrome Obstacle Chart - ICAO type B
+Standard Departure Chart - Instrument (ASUKA, PANAS)*
+Standard Departure Chart - Instrument (RNAV TRANSITION1)
+Standard Departure Chart - Instrument (IZUMI)*
+Standard Departure Chart - Instrument (EAST REVERSAL)*
+Standard Departure Chart - Instrument (TIGER)*
+Standard Departure Chart - Instrument (MINAC)*
+Standard Departure Chart - Instrument (RNAV TRANSITION2)
+Standard Arrival Chart - Instrument (IZUMI, AGPUK)
+Standard Arrival Chart - Instrument (IKOMA EAST, IKOMA NORTH, HABIK-RNAV)
+Instrument Approach Chart (ILS RWY32L)
+Instrument Approach Chart (LOC RWY32L)
+Instrument Approach Chart (VOR A)
+Instrument Approach Chart (RNP RWY32L)
+Instrument Approach Chart (RNP RWY32R)
+Other Chart (HOLDING PATTERN)
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+*: Designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+(EFF:17 APR 2025) 17/4/25
+←
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+PARKING LOT
+TWR
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+CIRCLING GUIDANCE LIGHTS ARP 344704N
+1352621E
+3000 × 60m Asph-Conc
+APPROACH LIGHTING SYSTEM
+ELEV 34ft
+WDI
+TDZ ELEV 30ft
+WDI
+GP
+ILS-DME
+STOP AIMING
+LGT
+NO.1 STOP
+INTERMEDIATE HOLDING POSITION LIGHT
+SEQUENCED FLASHING LGT
+(SFL-V)
+PAPI Angle 3.0˚
+MEHT 19.5m (64ft)
+422m inside FM THR
+RVR
+ELEV 31ftELEV 46ft
+THR LGT
+POL
+FIRE STN
+ELEV 50ft
+RWY THR ID LGT
+RWY THR ID LGT
+OVERRUN AREA
+EDGE LGT
+APPROACH LIGHT BEACON
+LOC
+ABN
+APPROACH LGT BEACON
+APRON NR5
+WIND
+SPEED
+METER
+1828 × 45m Asph-Conc
+WDI
+PAPI Angle 3.0˚
+MEHT 22.5m(74ft)
+482m inside FM THRPAPI Angle 3.0˚
+MEHT 18.5m(61ft)
+383m inside FM THR
+PAPI Angle 3.0˚
+MEHT 15.8m(52ft)
+309m inside FM THR
+APRON NR6
+APRON NR8
+APRON
+NR7
+E5 E4E 3 E2 E1
+C3 1C2CC4C5C7
+W10 W9 W8 W7 W6 W5 W4
+B3 1B2B
+W3W2 W 1
+C
+6
+A3A4A5 A2 A1
+ANTI NOISE
+WALL
+VAR 8˚W(2023)
+14
+R
+14
+L
+32
+L
+OSAKA INTERNATIONAL AIRPORT
+ELEV 12m(39ft)
+AERODROME CHART
+1
+0
+6
+5
+23 3B
+1B
+1A
+3A4 2A
+78
+910
+1112151619
+20
+21
+22
+23
+2425
+53
+70
+71
+72
+7374
+75
+76
+77
+8081828384 52 51
+2627
+4545W
+46
+47
+48
+41
+44
+42
+43
+13141718
+MARKING AIDS
+RWY GUARD LIGHT
+300m
+263m 334m
+422m148m374m 900m
+380m300m300m
+300m 150m
+90m
+32
+R
+14
+R
+14
+L
+32L
+32
+R
+B4
+NO.2 STOP
+INTERMEDIATE HOLDING POSITION LIGHT
+C7
+4B
+4A
+CHANGE : HELIPAD(C6, APRON, C7) installed.
+CEILOMETER
+WIND SPEED METER
+WIND SPEED METER
+ANNUAL CHANGE 1´W
+WX RADAR SITE
+H
+H
+H
+C7-HELIPAD
+C6-HELIPAD
+APRON-
+HELIPAD
+(EFF:17 APR 2025) 17/4/25
+RJOO AD2.24-ADC-1
+OSAKA INTL
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+APRON NR1
+APRON NR2APRON NR3APRON NR4
+APRON NR5
+APRON NR6
+APRON NR8
+CHANGE : VAR.
+APRON
+NR7
+E5 E4 E3 E2 E1
+1C2C3CC4C5C7
+W10 W9 W8 W7 W6 W5 W4
+1B2B3B
+W3 W2 W1
+C
+6
+A3A4A5 1A2A
+OSAKA INTERNATIONAL AIRPORT
+ELEV 12m(39ft)
+14
+R
+14
+L
+32
+L
+32
+R
+B4
+0
+11B
+1A
+6
+5
+4
+4A
+4B 3A
+2A
+3B 23
+8
+7
+9
+10
+11
+12
+15
+16
+19
+20
+21
+22
+23
+24
+25
+53
+70
+71
+72
+7374
+75
+76
+77
+8081828384
+52 51 R2R5
+R6
+R1
+R-INT E-INT
+2627
+45
+45W
+46
+47
+48 41
+43
+44
+42
+13
+14
+17
+18
+E5
+A3A4A5
+6.821SITA Osaka Intl  Airport
+8.811YRVLD Osaka Delivery
+GND 121.7
+126.2
+118.1
+126.2
+236.8
+Osaka Ground
+TWR Osaka Tower
+RJOO / OSAKA  INTL AD CHART
+)zHM( ycneuqerFnoitangiseD Call Sign
+VAR 8˚W(2023)ANNUAL CHANGE 1´W
+(EFF:5 SEP 2024) 8/8/24
+RJOO AD2.24-ADC-2
+OSAKA INTL
+
+
+=== Page 45 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(EFF:11 JUL 2024) 11/7/24
+RJOO AD2.24-AOC-1
+OSAKA INTLCHANGE : Update
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(EFF:11 JUL 2024) 11/7/24
+RJOO AD2.24-AOC-2
+OSAKA INTL
+CHANGE : Update
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(EFF:11 JUL 2024) 11/7/24
+RJOO AD2.24-AOC-3
+OSAKA INTL
+CHANGE : Update
+
+
+=== Page 49 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(EFF:11 JUL 2024) 11/7/24
+RJOO AD2.24-AOC-4
+OSAKA INTL
+CHANGE : Update
+
+
+=== Page 50 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(EFF:11 JUL 2024) 11/7/24
+RJOO AD2.24-AOC-5
+OSAKA INTL
+CHANGE : Update
+
+
+=== Page 51 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+5000 
+RJOO / OSAKA  INTL SID
+101˚R101
+ASUKAD2.1ITE
+4NM
+FM
+RW
+Yend/
+ASUKA FOUR DEPARTURE
+RWY 32R/32L :  Climb  RWY HDG  to 500FT or  above,  turn  left  within 4NM
+from  RWY end/ITE 2.1DME,...
+RWY 14R/14L :  Climb RWY HDG to 500FT or above, turn  left,...
+ ...via ITE R101 to ASUKA.
+Cross ASUKA at or above 5000FT. 
+Note : When take off RWY 14R/14L, following climb gradient should be maintained until
+           500FT.
+Speed (Knots)
+Rate (Feet/Min)
+60
+300
+90
+450
+120
+600
+150
+750
+180
+900
+210
+1050
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+ASUKA FOUR DEPARTURE
+D31.1 ITE
+PANAS ONE DEPARTURE
+RWY 32R/32L :  Climb  RWY HDG  to 500FT or  above,  turn  left  within 4NM
+from  RWY end/ITE 2.1DME,...
+RWY 14R/14L :  Climb RWY HDG to 500FT or above, turn  left,...
+ ...via ITE R101 to PANAS.
+Note : When take off RWY 14R/14L, following climb gradient should be 
+ɹɹmaintained until           500FT.
+Speed (Knots)
+Rate (Feet/Min)
+60
+300
+90
+450
+120
+600
+150
+750
+180
+900
+210
+1050
+PANAS
+D16.2 ITE
+PANAS ONE DEPARTURE
+CHANGE: New PROC(PANAS ONE DEPARTURE).
+(EFF:25 FEB 2021) 31/12/20
+RJOO AD2.24-SID-1
+OSAKA INTL
+
+
+=== Page 52 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+傍
+From PANAS, to BYODO at or above 6000FT, to REVOL at or above 11000FT, to KMC.
+KOMAZ傍TRANSITION
+ RJOO / OSAKA INTL傍  RNAV TRANSITION 
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF PANAS - - -8.0 - - - - - RNAV1
+002 TF BYODO - -8.0 9.0 - +6000 - - RNAV1027
+(018.6)
+004 TF KMC - -8.0 59.5 - - - - RNAV1027
+(018.7)
+345543.6N
+1354723.1E
+344709.8N
+1354352.5E
+PANAS
+362347.3N
+1362415.3E
+VORTAC
+KOMATSU
+KMC
+6000
+352732.0N
+1360031.9E
+REVOL11000
+003 TF REVOL - -8.0 33.6 - +11000 - - RNAV1027
+(018.6)
+VAR 8°W
+RNAV1
+KOMATSU(KMC)
+BYODO
+ITAMI
+ITE
+VOR/DME
+MIYAZU
+YME
+VOR/DME
+YAO
+YOE
+VOR/DME
+-
+-
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+112.0
+CH–57X
+ÛÝ1ÛÝ(
+112.6
+CH–73X
+ÛÝ1ÛÝ(
+114.75
+CH–94Y
+ÛÝ1ÛÝ(
+114.6
+CH–93X
+ÛÝ1ÛÝ(
+2400FT
+200FT
+100FT
+027°59.
+5
+027°33.
+6
+027°
+9.
+0
+CHANGE : Description of VAR and PROC name.
+(EFF:15 JUN 2023) 18/5/23
+RJOO AD2.24-SID-2
+OSAKA INTL
+
+
+=== Page 53 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+Speed (Knots)
+Rate (Feet/Min)
+60
+300
+90
+450
+120
+600
+150
+750
+180
+900
+210
+1050
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+ÛÝ1ÛÝ(
+5-2226$.$,17/ SID
+,=80,21('(3$5785(
+5:<5/:  Climb RWY HDG to 500FT RUDERYHWXUQOHIWZLWKLQ10
+from RWY end/ITE 2.1DME, via ITE R201 to YODOH,...
+RWY 14R/14/ :  Climb RWY HDG to 500FT or above, turn right HDG230 Û 
+to intercept and proceed via ITE R201 to YODOH,...
+          ...turn left, via YOE R295 to intercept and proceed via ITE R184 to IZUMI.
+          Cross IZUMI at or above 6000FT.
+1RWH: :KHQWDNHRII5:<5/IROORZLQJFOLPEJUDGLHQWVKRXOGEH
+maintained until 500FT.
+R201
+Û
+481°
+D2.1ITE
+41M
+FM
+RW
+Yend/
+6000
+YODOH
+IZUMI
+D21.9 ITE
+D9.4 YOE
+D9.6 ITE
+D9.0 ITE
+D12.1 YOE
++'*Û
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+R184
+YOE R295
+&+$1*('HVFULSWLRQRI352&QDPH
+(EFF:15 JUN 2023) 18/5/23
+RJOO AD2.24-SID-3
+OSAKA INTL
+
+
+=== Page 54 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+D14.0
+ITE
+RJOO / OSAKA INTL
+Speed (Knots)
+Rate (Feet/Min)
+60
+300
+90
+450
+120
+600
+150
+750
+180
+900
+210
+1050
+SID
+EAST REVERSAL FOUR DEPARTURE
+RWY 32R/32L : Climb RWY HDG to  500FT or above,  turn  left within  4NM
+from RWY end/ITE 2.1DME,...
+RWY 14R/14L : Climb RWY HDG to 500FT or above, turn left,...
+...via ITE R101 to 3000FT or above, turn left direct to ITE VOR/DME
+     within ITE 14.0DME.
+Cross ITE VOR/DME at assigned altitude.
+Note :   When take off RWY 14R/14L, following climb gradient should be 
+maintained until 500FT.
+D2.1ITE
+4NM
+FM
+RWYend/
+3000
+R101
+assigned ALT
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+Û
+CHANGE : Description of PROC name.
+(EFF:15 JUN 2023) 18/5/23
+RJOO AD2.24-SID-4
+OSAKA INTL
+
+
+=== Page 55 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+Speed (Knots)
+Rate (Feet/Min)
+60
+300
+90
+450
+120
+600
+150
+750
+180
+900
+210
+1050
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+ÛÝ1ÛÝ(
+5-2226$.$,17/ SID
+TIGER TWO DEPARTURE
+5:<5/:  Climb RWY HDG to 500FT RUDERYHWXUQOHIWZLWKLQ10
+from RWY end/ITE 2.1DME, via ITE R201 until crossing YOE
+R301...
+5:<5/  Climb RWY HDG to 500FT RUDERYHWXUQULJKW+'*Û 
+until crossing YOE R301...
+ ...turn right to intercept and proceed via YOE R291 to TIGER.
+       Cross TIGER at or above 6000FT.
+1RWH: Following climb gradient should be maintained until 2500FT.
+AIP  JAP$1
+Û
+Û
+D2.1ITE
+41M
+FMRWY end/
+6000
+TIGER
+D21.4 YOE
++'*Û
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+R201
+R301
+R291
+&+$1*( Description of PROC name.
+(EFF:15 JUN 2023) 18/5/23
+RJOO AD2.24-SID-5
+OSAKA INTL
+
+
+=== Page 56 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOO AD2.24-SID-6
+STANDARD DEPARTURE CHART -INSTRUMENT
+SUMAR
+TIGER
+D28.9 YOE
+D21.4 YOE
+D19.6 ITE
+D43.1 ITE
+D35.4 KTE
+Û
+Û
+R260
+R291
+9000
+6000
+FL180
+Û
+RJOO / OSAKA  INTL TRANSITION
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+ÛÝ1ÛÝ(
+KAGAWA TRANSITION
+From over TIGER, via YOE R291 to SUMAR, via ITE R260 to intercept and proceed via 
+KTE R057 to KTE VOR/DME. 
+Cross SUMAR at or above 9000FT, cross ITE R260/43.1DME at or above FL180.
+VOR/DME
+KAGAWA
+108.4   KTE
+700FT
+CH–21X
+ÛÝ1ÛÝ(
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+OSAKA INTL
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 57 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOO AD2.24-SID-7
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJOO / OSAKA  INTL TRANSITION
+TOZAN TRANSITION
+ From over TIGER, via KCE R324 to TOZAN, via ASAGI.
+ Cross KCE R324/22.4DME at or above 7000FT, cross KCE R324/47.0DME 
+ at or above 10000FT.
+BUMER TRANSITION
+ From over TIGER, via YOE R291 to intercept and proceed via KCE R311 
+ to BUMER.
+ASAGI TRANSITION
+ From over TIGER, via KCE R324 to ASAGI.
+ Cross KCE R324/22.4DME at or above 7000FT.
+TOZAN
+D53.1 KCE
+D47.0 KCE
+D21.4 YOE
+D22.4 KCE
+D13.7 KCE
+D34.2 KCE
+D24.2 YOE
+D6.6 KCE
+ASAGI 
+BUMER
+BUMER
+TIGER
+TIGER
+KCE
+KCE R311
+10000
+6000
+7000
+324˚
+324˚
+YOE R291
+YOE R291
+TOZAN TRANSITION
+ASAGI TRANSITION
+BUMER TRANSITION
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+34˚35´54˝N/135˚35´37˝E
+VOR/DME
+KOBE
+111.25   KCE
+0FT
+CH–49Y
+34˚37´52˝N/135˚13´42˝E
+311˚
+291˚
+CHANGE : TOZAN TRANSITION. Radial FM KCE.
+OSAKA INTL
+(EFF:21 MAY 2020) 26/3/20
+
+
+=== Page 58 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+Speed (Knots)
+Rate (Feet/Min)
+60
+300
+90
+450
+120
+600
+150
+750
+180
+900
+210
+1050
+VORTAC
+114.2
+CH–89X
+35˚15´55˝N/136˚54´54˝E
+KCC
+NAGOYA
+100FT
+RJOO / OSAKA  INTL SID and TRANSITION
+ MINAC FOUR DEPARTURE
+RWY 32R/32L : Climb RWY HDG to 500FT or above, turn  left within  4NM
+ from RWY end/ITE 2.1DME,...
+RWY 14R/14L : Climb RWY HDG to 500FT or above, turn left,...
+    ...via ITE R101 to intercept and proceed via KCE R077 to MINAC.
+        
+Note:  When take off RWY14R/14L, following climb gradient should be maintained 
+            until 500FT.
+NAGOYA TRANSITION
+From over MINAC, via KCE R077 to YOKKA, via KCC R243 to KCC VORTAC. 
+4NM FM RWY end/
+D2.1
+ ITE R101 101˚
+R077
+077˚
+077˚
+063˚
+R243
+MINAC
+YOKKA
+D27.0 KCC
+D64.9 KCE
+D49.8 KCE
+MINAC FOUR DEPARTURE
+NAGOYA  TRANSITION
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+34˚48´20˝N/135˚24´13˝E
+VOR/DME
+KOBE
+111.25   KCE
+0FT
+CH–49Y
+34˚37´52˝N/135˚13´42˝E
+CHANGE : PROC renamed. Radial FM KCE.
+(EFF:21 MAY 2020) 26/3/20
+RJOO AD2.24-SID-8
+OSAKA INTL
+
+
+=== Page 59 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOO AD2.24-SID-9
+STANDARD DEPARTURE CHART-INSTRUMENT
+凟IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟
+凟
+凟
+凟
+凟
+45.3
+ASUKA
+SHTLE (084.9)
+093
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+0DJQHWLF
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+10
+-8.0
+-8.0
+凟IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟
+凟
+凟
++FL200
+凟
+33.0
+0,1AC
+GUJYO (036.7)
+045
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+Û0Û7
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+0DJQHWLF
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+10
+-8.0
+-8.0
+RJOO / OSAKA INTL RNAV TRANSITION
+SHTLE TRANSITION
+From ASUKA, to SHTLE.
+GUJYO TRANSITION
+FURP0,1AC, to GUJYO at or above FL200.
+Û
+45.3
+Û33.0
+SHTLE TRANSITION
+GUJYO TRANSITION
+GUJYO TRANSITION / SHTLE TRANSITION RNAV1
+GUJYO
+352150.5N
+1363438.5E
+345526.3N
+1361026.4E
+344602.7N
+1360154.7E
+344951.0N
+1365653.8E
+FL200
+0,1AC
+SHTLE
+ASUKA
+V25'0(
+YAO
+114.6   YOE
+100FT
+CH–93X
+ÛÝ1ÛÝ(
+V25'0(
+KOBE
+111.25   KCE
+0FT
+CH–49Y
+ÛÝ1ÛÝ(
+V25'0(
+CHUBU
+117.8   CBE
+0FT
+CH–125X
+ÛÝ1ÛÝ(
+V25'0(
+IT$0,
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+NOTE '0('0(,RU or GNSS required.
+2 ) RADAR service required.
+–E0D lacitirC
+–'0(*$3
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+V$5Û:
+CHANGE : Description of VAR.
+OSAKA INTL
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 60 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+STANDARD DEPARTURE CHART-INSTRUMENT
+ITE
+YOE
+KIE
+KCE
+ 
+DME
+SHODO
+1178      STD
+2500FT
+CH–91X
+VOR/DME
+KAGAWA
+108.4   KTE
+700FT
+CH–21X VOR/DME
+KOBE
+111.25   KCE
+0FT
+CH–49Y
+DME
+AWAJI
+1190   AJD
+900FT
+CH–103X
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+VAR 8˚W 
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+RNAV TRANSITION
+RNAV1MAIKO TRANSITION / AWAJI TRANSITION
+223˚24.8
+252˚
+9.6
+MAIKO
+TIGER
+AWAJI
+RJOO / OSAKA  INTL
+NOTE 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Critical DME
+–DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+9.6
+24.8
+TIGER
+MAIKO
+AWAJI
+(244.2)
+(214.6)
+252
+223
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+–
+From TIGER, to MAIKO, to AWAJI.
+ 
+–
+CH
+VOR/DME
+KANSAI
+111.6  KIE
+-53X           
+0FT
+CHANGE : MAIKO TRANSITION established. Waypoint Coordinates added.  
+AWAJI TRANSITION
+MAIKO TRANSITION
+MAIKO TRANSITION
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+9.6
+TIGER
+MAIKO (244.2)
+252
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.2
+-8.2
+–
+From TIGER, to MAIKO.
+AWAJI TRANSITION
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+TIGER
+MAIKO
+344050.4N / 1351016.7E
+343639.7N / 1345949.1E
+AWAJI 341613.1N / 1344246.6E
+RJOO AD2.24-SID-10
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 61 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOO AD2.24-SID-11
+STANDARD DEPARTURE CHART-INSTRUMENT
+ITE
+YOE
+KIE
+KCE
+AYAME TRANSITION
+VOR/DME
+KAGAWA
+108.4   KTE
+700FT
+CH–21X
+VOR/DME
+KOBE
+111.25   KCE
+0FT
+CH–49Y VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+DME
+SHODO
+1178      STD
+2500FT
+CH–91X
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+NOTE 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Critical DME –
+–DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+V$5Û:
+RNAV TRANSITION
+RNAV1AYAME TRANSITION / SOUJA TRANSITION / WASYU TRANSITION
+WASYU
+ 
+TRANSITION
+Û
+15.7
+17.9
+Û
+28.9
+Û
+7.4
+Û
+20.7
+SOUJA TRANSITIONSOUJA
+WASYU
+SUMAR
+TIGER
+AYAME
+SETOH
+RJOO / OSAKA  INTL
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+– 
+–
+–
+– 
+–
+–
+– 
+–
+–
+– 
+–
+–
+– 
+–
+–
+–
+7.4
+28.9
+TIGER
+SUMAR
+AYAME
+(283.2)
+(257.2)
+291
+265
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+Û0Û7
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+IF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+– 
+– 
+–
+–
+–
+– 
+– 
+–
+–
+–
+–
+– 
+–
+–
+–
+– 
+– 
+–
+–
+–
+– 
+– 
+–
+–
+–
+–
+7.4
+28.9
+15.7
+20.7
+TIGER
+SUMAR
+AYAME
+SETOH
+SOUJA
+(283.2)
+(257.2)
+(256.8)
+(284.8)
+291
+265
+265
+293
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+Û0Û7
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+-8.1
+-8.1
+–
+–
+From TIGER, to SUMAR, to AYAME.
+From TIGER, to SUMAR, to AYAME, to SETOH, to SOUJA.
+AYAME  TRANSITION
+SOUJA TRANSITION
+CH
+VOR/DME
+KANSAI
+111.6  KIE
+-53X           
+0FT
+CHANGE : TAKAMATSU TACAN abolished.
+Û20.0
+Û
+ONOPA
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+1
+(
+1
+(
+1
+(
+1
+(
+1
+(
+1
+(
+1
+(
+OSAKA INTL
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 62 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOO AD2.24-SID-12
+STANDARD DEPARTURE CHART-INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+– 
+–
+–
+–
+–
+– 
+–
+–
+–
+–
+– 
+–
+–
+–
+–
+– 
+–
+–
+–
+–
+– 
+–
+–
+7.4
+28.9
+15.7
+17.9
+TIGER
+SUMAR
+AYAME
+SETOH
+ONOPA
+(283.2)
+(257.2)
+(256.8)
+(263.9)
+291
+265
+265
+272
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+-8.1
+-8.1
+–
+RNAV TRANSITIONRJOO / OSAKA  INTL
+From TIGER, to SUMAR, to AYAME, to SETOH, to ONOPA, to WASYU.
+WASYU TRANSITION
+CHANGE : VAR. PROC course. ONOPA established. 
+TF A–––– –20.0WASYU (263.7)
+272006 -8.1 RN V1
+OSAKA INTL
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 63 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJOO / OSAKA INTL STAR
+049˚
+229˚
+321˚
+293˚
+IZUMI ARRIVAL
+From over IZUMI, via ITE 21.9DME counterclockwise ARC to intercept and 
+proceed via ITE R141 to IKOMA.
+Cross  ITE R141/19.0DME at or above 4000FT, cross IKOMA at or above 3500FT.
+AGPUK ARRIVAL
+From over AGPUK, via YOE R113 to intercept and proceed via ITE R141
+to IKOMA.
+Cross AGPUK at or above 9000FT, cross YOE R113/21.0DME at or above 4700FT,
+cross ITE R141/19.0DME at or above 4000FT, cross IKOMA at or above 3500FT.
+R141
+R113ITE R149
+YOE R229
+3500
+4000
+4700
+9000
+IKOMA
+R141/D17.3 ITE
+R113/D25.0 YOE
+D4.9 YOE
+D19.7 ITE
+R141/D19.0 ITE
+D21.9 ITE ARC
+MAX 210KIAS
+MHA 4200
+MAX 230KIAS
+MHA 4400
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+AGPUK ARRIVAL
+AGPUK 
+D22.0 ITE
+ITAMI
+VOR/DME
+(ITE)
+IKOMA
+R141/D17.3 ITE
+D19.0 YOE
+D21.0 YOE
+D12.6 YOE
+IZUMI
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+ÛÝ1ÛÝ(
+IZUMI ARRIVAL
+321˚
+141˚
+R141
+CHANGE : AGPUK ARRIVAL established.
+RJOO AD2.24-STAR-1
+(EFF:7 OCT 2021) 12/8/21
+
+
+=== Page 64 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOO AD2.24-STAR-2
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJOO / R23/L23YWR RATS VANRLTNI  AKASO
+Û
+R138
+Û
+Û
+R141
+Û
+Û
+R351
+Û
+10.5
+2.3
+12.9
+22.8
+5.0
+9.5
+AGPUK
+342908.3N
+1360451.3E
+MIRAI
+343212.6N
+1355358.1E
+6000
+ROKKO
+7000
+KAMEO
+345702.7N
+1352804.2E
+7000
+ABENO
+343532.4N
+1354155.6E
+IKOMA
+343616.7N
+1353914.8E
+OTABE
+343928.9N
+1354539.8E
+V$5Û:
+3500
+350700.6N
+1351800.9E
+ABENOIKOMA
+Û
+Û
+Û Û
+Û
+Û
+KAMEO
+IKOMA NORTH ARRIVAL
+IKOMA EAST ARRIVAL
+IKOMA EAST ARRIVAL / IKOMA NORTH ARRIVAL RNAV1
+Note 1 ) DME/DME/IRU or GNSS required
+2 ) RADAR service required
+MAX 210KIAS for
+IKOMA NORTH 
+ARRIVAL
+MAX 210KIAS for
+IKOMA NORTH 
+ARRIVAL
+ITAMI
+VOR/DME
+(ITE)
+D24.0
+ITE
+MHA 4400
+MAX 210KIAS
+D19.4 ITE
+ITAMI
+VOR/DME
+(ITE)
+D22.0
+ITE
+MHA 4400
+MAX 210KIAS
+D17.3 ITE
+VOR/DME
+KOBE
+111.25   KCE
+0FT
+CH–49Y
+ÛÝ1ÛÝ(
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+ÛÝ1ÛÝ(
+YAO
+VOR/DME
+(YOE)
+D28.0 YOE
+MHA 7000
+MAX 230KIAS
+D22.0 YOE
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+Û
+R087 Û
+MIRAI
+KANSAI
+VOR/DME
+(KIE)
+D41.0 KIEMHA 6000
+MAX 230KIAS
+D34.9 KIE
+Using NAVAID
+Using NAVAID
+CH
+VOR/DME
+KANSAI
+111.6  KIE
+-53X           
+ÛÝ1ÛÝ(
+0FT
+Using NAVAID Using NAVAID
+CHANGE : Description of VAR.
+OSAKA INTL
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 65 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJOO / OSAKA  INTL RNAV STAR RWY32L/32R
+IF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++6000
+– 
++3500
+–
+9.5
+10.5
+2.3
+AGPUK
+MIRAI
+ABENO
+IKOMA
+(288.7)
+(288.6)
+(288.5)
+297
+297
+296
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+-8.0
+IF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+-210
+-210
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++7000
++7000
+– 
+– 
++3500
+–
+12.9
+22.8
+5.0
+2.3
+ROKKO
+KAMEO
+OTABE
+ABENO
+IKOMA
+(140.4)
+(140.5)
+(218.0)
+(288.5)
+148
+148
+226
+296
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+-8.0
+-8.0
+–
+–
+IKOMA EAST ARRIVAL
+From AGPUK, to MIRAI at or above 6000FT, to ABENO, to IKOMA at or above 3500FT.
+IKOMA NORTH ARRIVAL
+From ROKKO at or above 7000FT, to KAMEO at or above 7000FT, to OTABE, to ABENO, 
+to IKOMA at or above 3500FT.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+ITE : 9.9NM to KAMEO – KAMEO
+YME : 19.7NM to OTABE – 13.7NM to OTABE
+–
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+KCC : AGPUK – MIRAI
+Inappropriate Navaids
+DME GAP
+Critical DME
+CHANGE : VAR. KODAI abolished. AGPUK established. PROC course.
+RJOO AD2.24-STAR-3
+(EFF:7 OCT 2021) 12/8/21
+
+
+=== Page 66 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOO AD2.24-STAR-4
+STANDARD ARRIVAL CHART-INSTRUMENT
+Û
+13.0
+Û3.5
+3500
+HABIK
+IKOMA
+343246.8N
+1353914.2E
+IZUMI
+342628.5N
+1352531.3E
+343616.7N
+1353914.8E
+V$5Û:
+VOR/DME
+KOBE
+111.25   KCE
+0FT
+CH–49Y
+ÛÝ1ÛÝ(
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+ÛÝ1ÛÝ(
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+ÛÝ1ÛÝ(
+RJOO / R23/L23Y:R RATS VANRLTNI  AKASO
+1VANRLAVIRRA KIBAH
+Note 1 ) DME/DME/IRU or GNSS required
+2 ) RADAR service required
+凟IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟
+凟
+凟
+凟
+凟
++3500
+凟
+13.0
+3.5
+IZUMI
+HABIK
+IKOMA
+(060.8)
+(000.1)
+069
+008
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+Û0Û7
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+:aypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.0
+-8.0
+-8.0
+From IZUMI, to HABIK, to IKOMA at or above 3500FT.
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+–
+Inappropriate Navaids
+DME GAP
+Critical DME
+Û
+R141
+Û
+IKOMA
+ITAMI
+VOR/DME
+(ITE)
+D22.0
+ITE
+MHA 4400
+MAX 210KIAS
+D17.3 ITE
+YAO
+VOR/DME
+(YOE)
+MHA 4200
+MAX 230KIAS
+Û
+R229
+Û
+IZUMI
+D12.6 YOE
+D19.0 YOE
+CH
+VOR/DME
+KANSAI
+111.6  KIE
+-53X           
+ÛÝ1ÛÝ(
+0FT
+Using NAVAID Using NAVAID
+CHANGE : Description of VAR and PROC name.
+OSAKA INTL
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 67 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+INSTRUMENT APPROACH CHART
+180˚
+090˚
+270˚
+EQPT REQUIRED
+DME
+VOR
+090˚ 270˚
+360˚
+180˚
+42004300
+49004300
+MSA 25NM
+ITE
+YAO AP
+322˚
+322˚
+184˚
+ILS RWY32L
+KANSAI  APP
+120.45 - 124.7
+261.2
+ ILS-LOC
+110.1     ISK
+ILS-GP   334.4
+ILS-DME  
+CH-38X
+OSAKA  TOWER
+118.1 - 236.8
+126.2 - 121.7G
+RADAR  AVBL
+ATIS   128.6
+1015
+1568
+3056
+1812
+1569
+1936
+2232
+2228
+2106
+2099
+255
+290
+ITE
+3500
+3500
+10.6
+10.4
+DME to ISK
+NM to THR 0
+0.2 14.4
+14.2
+GP 3.0˚
+RDH 54
+MIDOH
+(FAF)
+IKOMA
+(IF)
+322° 
+RJOO / OSAKA INTL
+Climb to 5000FT on HDG322˚, 1.0DME 
+prior to ITE VOR/DME, turn left HDG145˚
+to intercept and proceed via ITE R184
+to IZUMI and hold.
+Contact KANSAI APP.
+408
+422
+301
+522
+552
+MIDOH (FAF)
+D10.6 ISK
+MIDOH (FAF) : 343857.74N/1353600.86Eto IZUMI
+D1.0 ITE
+IKOMA (IF)
+D14.4 ISK
+HDG145˚
+ITE R184
+ÛÝ1ÛÝ(
+322° 
+10NM
+ITAMI
+VOR/DME
+114.75     ITE
+CH-94Y
+MISSED APPROACH
+VAR 7˚W 
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+281 (250)
+590 (551)
+660 (621)
+-
+590 (551)
+610 (571)
+760 (721)
+700
+1600
+2400
+3200
+RVR/
+CMV
+MDA(H)
+TOTAL AREA WEST of RWY VIS
+CIRCLING
+93 .vele DA13 .vele RHT
+A
+B
+C
+D
+JET circling to WEST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM  4.0%
+HDG322˚
+VOR/DME
+YAO
+114.6   YOE
+CH–93X
+ÛÝ1ÛÝ(
+MHA 4200
+MAX 230KIAS
+049˚
+R229
+229˚
+IZUMI
+D12.6 YOE
+D19.0 YOE
+2143
+CHANGE : MDA(H) for Circling(TOTAL AREA).
+NOT TO SCALE
+RJOO AD2.24-IAC-1
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 68 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOO AD2.24-IAC-2
+INSTRUMENT APPROACH CHART
+090˚ 270˚
+360˚
+180˚
+42004300
+49004300
+MSA 25NM
+ITE
+EQPT REQUIRED
+DME
+VOR
+180˚
+090˚
+270˚
+322˚
+322˚
+LOC RWY32L
+KANSAI  APP
+120.45 - 124.7
+261.2
+110.1     ISK
+ILS-DME    CH-38X
+ILS - LOC OSAKA  TOWER
+118.1 - 236.8
+126.2 - 121.7G
+RADAR  AVBL
+ATIS   128.6
+1015
+1568
+3056
+1812
+1569
+1936
+2232
+2228
+2106
+2099
+255
+290
+ITE
+35002433
+978
+MDA
+850
+(819)
+2300
+(2269)
+0.6
+0.5
+0.2
+0
+1.2
+1.0
+3.0
+2.8
+7.6
+7.4
+DME to ISK
+NM to THR
+14.4
+14.2
+NATEN
+(FAF)
+SDF
+VDP
+MAPt
+IKOMA
+(IF)
+322˚
+3.0˚ 322˚
+RJOO / OSAKA INTL
+     MISSED APPROACH
+Climb to 5000FT on HDG322˚, 1.0DME 
+prior to ITE VOR/DME, turn left HDG145˚
+to intercept and proceed via ITE
+R184 to IZUMI and hold.
+Contact KANSAI APP.
+Timing not authorized for defining the MAPt.
+408
+422
+301
+522
+552
+NATEN (FAF)
+D7.6 ISK
+IKOMA (IF)
+D14.4 ISK
+MAPt
+ISK 0.6DME
+NM to ISK
+ALT (3.0˚ APCH Path)
+FAF
+2433
+4
+1297
+3
+978
+2
+660
+5
+1615
+6
+1934
+7
+2252
+MAPt
+–
+ÛÝ1ÛÝ(
+10NM
+ITAMI
+VOR/DME
+114.75     ITE
+CH-94Y
+D1.0 ITE
+NATEN (FAF) : 1(
+184˚
+to IZUMI
+HDG145˚
+ITE R184
+YAO AP
+VAR 7˚W 
+ 
+MINIMA 
+CAT MDA(H)
+390 (359)
+1200
+1300
+1400
+1600
+RVR/
+CMV
+93 .vele DA13 .vele RHT
+A
+B
+C
+D
+JET circling to WEST side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM  3.2%
+HDG
+322˚
+VOR/DME
+YAO
+114.6   YOE
+CH–93X
+ÛÝ1ÛÝ(
+MHA 4200
+MAX 230KIAS
+049˚
+R229
+229˚
+IZUMI
+D12.6 YOE
+D19.0 YOE
+590 (551)
+660 (621)
+590 (551)
+610 (571)
+760 (721)
+1600
+2400
+3200
+MDA(H)
+TOTAL AREA WEST of RWY VIS
+CIRCLING
+2143
+CHANGE : MDA(H) for Circling(TOTAL AREA).
+NOT TO SCALE
+-
+OSAKA INTL
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 69 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+INSTRUMENT APPROACH CHART
+EQPT REQUIRED
+DME
+090˚ 270˚
+360˚
+180˚
+42004300
+49004300
+MSA 25NM
+ITE
+180˚
+090˚
+270˚
+321˚
+321˚
+VOR A
+KANSAI  APP
+120.45 - 124.7
+261.2
+OSAKA  TOWER
+118.1 - 236.8
+126.2 - 121.7G
+RADAR  AVBL
+ATIS   128.6
+1015
+1568
+3056
+1812
+1569
+1936
+2232
+2228
+2106
+2099
+255
+290
+ITE
+3500
+2500
+1500
+MDA
+970
+(931)
+2500
+(2461)
+4.4 6.1 10.7 3 .71ETI ot EMD
+KYUHO
+(FAF)
+SDF
+MAPt
+IKOMA
+(IF)
+321˚
+321˚
+RJOO / OSAKA INTL
+     MISSED APPROACH
+Climb to 5000FT on HDG321˚, 1.0DME 
+prior to ITE VOR/DME, turn left HDG145˚
+to intercept and proceed via ITE R184 
+to IZUMI and hold.
+Contact KANSAI APP.
+Timing not authorized for defining the MAPt.
+408
+422
+301
+522
+552
+KYUHO (FAF)
+D10.7 ITE
+IKOMA (IF)
+D17.3 ITE
+MAPt
+D4.4 ITE
+D1.0 ITE
+ÛÝ1ÛÝ(
+CH-94Y
+HDG 321˚
+ITAMI   VOR/DME
+114.75     ITE
+10NM
+KYUHO (FAF) : 1(
+184˚
+to IZUMI
+HDG145˚
+ITE R184
+YAO AP
+VAR 7˚W 
+MINIMA 
+CAT
+A
+B
+C
+D
+JET circling to WEST side of RWY only.
+VOR/DME
+YAO
+114.6   YOE
+CH–93X
+ÛÝ1ÛÝ(
+MHA 4200
+MAX 230KIAS
+049˚
+R229
+229˚
+IZUMI
+D12.6 YOE
+D19.0 YOE
+AD elev. 39
+590 (551)
+660 (621)
+-
+590 (551)
+610 (571)
+760 (721)
+1600
+2400
+3200
+MDA(H)
+TOTAL AREA WEST of RWY VIS
+CIRCLING
+2143
+CHANGE : OCA/+ BTN KYUHO and SDF. MDA(H) for Circling(TOTAL AREA).
+NOT TO SCALE
+RJOO AD2.24-IAC-3
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 70 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1015
+3056
+1569
+1812
+2107
+10NM
+4.2323°(315.
+3°T)
+7.8
+185°(1
+77.2
+°T)
+5.0
+053°
+(044.9°T)
+3.0323°(315.2°T)
+5.2
+233°
+(225.0°T)
+3.8
+233°
+(22
+4.8°T)
+323°(315.2°T) / 2.0
+5.0323°(315
+.2°T)
+13.0170°(162.2°
+T)
+RW32L
+(MAPt)
+KOSAK(IF)
+O2L50
+O2L51
+O2L53
+IKOMA
+(IAF)
+CEREZ
+(IAF)
+UMEDA(FAF)
+O2L52
+GAMBA
+(IAF)
+䢳䢵䢷䤑䢶䢲䢩䣇䢳䢵䢷䤑䢵䢲䢩䣇䢳䢵䢷䤑䢴䢲䢩䣇䢳䢵䢷䤑䢳䢲䢩䣇
+䢵䢶䤑䢷䢲䢩䣐
+䢵䢶䤑䢶䢲䢩䣐
+䢵䢶䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.39
+2000
+1500
+1000
+500
+KANSAI APP
+120.45 - 124.7
+261.2             
+RNP APCH
+MSAS CH68881
+M32A
+OSAKA TOWER
+118.1 - 236.8 
+126.2 - 121.7G
+RADAR AVBL
+ATIS 128.6
+Baro-VNAV not authorized below -10°CVAR 8°W
+RNP RWY32LRJOO / OSAKA INTL
+CHANGE : O2L53 established. MSAS CH added. Minimum TEMP for Baro-VNAV. HLDG Pattern. PROC ALT at FAF. Missed APCH for Using VOR/DME abolished.
+                  OCA/H BTN KOSAK and UMEDA. LPV established. MINIMA. NM to THR at VDP.
+Missed APCH climb gradient MNM 6.0%
+TOTAL AREA WEST of RWY
+A 289(258) 1000 1400 1400
+B 299(268) 1100 1500 1500
+C 309(278) 1200 1600 1600 660(621) 610(571)
+2400
+D 318(287) 1400 1800 1800 - 760(721) 3200
+JET circling to WEST side of RWY only.
+Missed APCH climb gradient of 6.0% up to 2400FT.
+590(551)
+LPV LNAV
+510(479)
+LNAV/VNAV
+510(479)
+CAT
+ MINIMA             THR elev. 31           AD elev. 39
+VISDA(H) RVR/CMV DA(H) RVR/CMV MDA(H)
+590(551) 1600
+RVR/CMV
+CIRCLING
+MDA(H)
+GAMBA 344253.77N
+(IAF) 1354007.31E
+CEREZ 343542.15N
+(IAF) 1353123.25E
+IKOMA 343616.68N
+(IAF) 1353914.81E
+KOSAK 343914.59N
+(IF) 1353540.54E
+UMEDA 344247.16N
+(FAF) 1353124.04E
+O2L53 344412.28N
+1352941.17E
+RW32L 344619.92N
+(MAPt) 1352706.76E
+O2L50 344918.47N
+1352330.31E
+O2L51 344636.88N
+1352014.66E
+O2L52 343415.50N
+1352503.53E
+IZUMI 342628.54N
+(MAHF) 1352531.28E
+NM to Next Fix MAPt 2 3 4 FAF
+ALT(3.0°APCH Path) - 722 1041 1359 1678
+NOT TO SCALE
+MHA 4200
+MAX 230KIAS
+IZUMI
+1MIN
+YAO AP
+to IZUMI
+3500
+3500
+3500
+3000
+36
+0°
+090°
+ARP
+344704N / 1352621E
+A
+ARP:
+4900
+MSA 25NM
+1012345
+NM
+10123456789 1 0
+KM
+Þ
+1.4
+RDH 54
+NM to THR
+3000
+MISSED APPROACH
+Climb to 5000FT , to O2L50,
+to O2L51, to O2L52,
+to IZUMI and hold. 
+Contact KANSAI APP.
+KOSAK
+(IF)
+RW32L
+(MAPt)
+3.0
+VDP
+(LNAV)
+5.00
+O2L53
+(SDF)
+(LNAV)
+1678
+10.0
+UMEDA
+(FAF)
+1041
+1300
+(1269)780
+(749)
+1600
+MDA
+(EFF:16 MAY 2024) 18/4/24
+RJOO AD2.24-IAC-4
+OSAKA INTL
+
+
+=== Page 71 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+INSTRUMENT APPROACH CHART
+RJOO / OSAKA INTL
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00469
+SBAS service provider identifier 2 FPAP latitude 344728.7535N
+Airport identifier RJOO FPAP longitude 1352543.3300E
+Runway 323 Threshold crossing height 00016.5
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M32A ԥlength offset 0000
+LTP/FTP latitude 344619.8985N HAL 40.0
+LTP/FTP longitude 1352706.7455E VAL 50.0
+CRC remainder D799CA35
+Required additional data
+LTP/FTP orthometric height 9.6
+RNP RWY32L
+CHANGE : FAS DATA BLOCK, Required additional data established.
+RJOO AD2.24-IAC-5
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 72 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOO AD2.24-IAC-6
+INSTRUMENT APPROACH CHART
+2107
+1812
+1015
+1569
+3056
+10NM
+4.2326°(317.6°T)5.2
+053°
+(044.9°T)
+12.9171°(162.7
+°T)
+5.0
+233°
+(225.0°T)
+5.8323
+°
+(315.2°T)
+323°(315.2°T)䢱2.0
+3.8
+233°
+(224.9°T)
+3.0323°(315.2°T)
+8.0185°(177
+.2°T)
+RW32R
+(MAPt)
+TENMA
+(FAF)
+O2R52
+GAMBA
+(IAF)
+3500
+IKOMA
+(IAF)
+3500
+CEREZ
+(IAF)
+3500
+KIKYO(IF)
+3000
+O2R51
+O2R53
+O2R50
+䢳䢵䢷䤑䢶䢲䢩䣇䢳䢵䢷䤑䢵䢲䢩䣇䢳䢵䢷䤑䢴䢲䢩䣇䢳䢵䢷䤑䢳䢲䢩䣇
+䢵䢶䤑䢷䢲䢩䣐
+䢵䢶䤑䢶䢲䢩䣐
+䢵䢶䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.39
+2000
+1500
+1000
+500
+KANSAI APP
+120.45 - 124.7
+261.2             
+RNP APCH
+MSAS CH94098
+M32B
+OSAKA TOWER
+118.1 - 236.8 
+126.2 - 121.7G
+RADAR AVBL
+ATIS 128.6
+Baro-VNAV not authorized below -10°CVAR 8°W
+RNP RWY32RRJOO / OSAKA INTL
+CHANGE : O2R53 established. MSAS CH added. Minimum TEMP for Baro-VNAV. HLDG Pattern. ALT(3.0°APCH Path). PROC ALT.
+                   Missed APCH for Using VOR/DME abolished. OCA/H. LPV established. MINIMA. NM to THR at VDP.
+1012345
+NM
+10123456789 1 0
+KM
+NOT TO SCALE
+MHA 4200
+MAX 230KIAS
+IZUMI
+1MIN
+YAO AP
+to IZUMI
+36
+0°
+090°
+ARP
+344704N / 1352621E
+A
+ARP:
+4900
+MSA 25NM
+GAMBA 344253.77N
+(IAF) 1354007.31E
+CEREZ 343542.15N
+(IAF) 1353123.25E
+IKOMA 343616.68N
+(IAF) 1353914.81E
+KIKYO 343921.64N
+(IF) 1353549.46E
+TENMA 344328.44N
+(FAF) 1353051.45E
+O2R53 344453.44N
+1352908.61E
+RW32R 344701.02N
+(MAPt) 1352634.11E
+O2R50 344925.51N
+1352338.94E
+O2R51 344643.97N
+1352023.23E
+O2R52 343425.29N
+1352502.95E
+IZUMI 342628.54N
+(MAHF) 1352531.28E
+NM to Next Fix MAPt 2 3 4 FAF
+ALT(3.0°APCH Path) - 720 1039 1357 1675
+Missed APCH climb gradient MNM 6.0%
+A 400(366) 1200 1400 1400
+B 410(376) 1300 1500 1500
+C 419(385) 1400 1600 1600 2400
+D 429(395) 1600 1800 1800 760(721) 3200
+1600
+CMV
+CIRCLING
+ MINIMA             THR elev. 34           AD elev. 39
+VISDA(H) CMV DA(H) CMV MDA(H)
+Circling to WEST side of RWY only.
+Missed APCH climb gradient of 6.0% up to 2500FT.
+LPV LNAV
+530(491)
+LNAV/VNAV
+530(496)
+CAT MDA(H)
+570(531)
+Þ
+1.5
+RDH 50
+NM to THR
+3000
+MISSED APPROACH
+Climb to 5000FT , to O2R50,
+to O2R51, to O2R52,
+to IZUMI and hold. 
+Contact KANSAI APP.
+KIKYO
+(IF)
+RW32R
+(MAPt)
+3.0
+VDP
+(LNAV)
+5.00
+O2R53
+(SDF)
+(LNAV)
+1675
+10.8
+TENMA
+(FAF)
+1039
+1200
+(1161)760
+(721)
+1600
+MDA
+OSAKA INTL
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 73 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOO AD2.24-IAC-7
+INSTRUMENT APPROACH CHART
+RJOO / OSAKA INTL
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00478
+SBAS service provider identifier 2 FPAP latitude 344742.9515N
+Airport identifier RJOO FPAP longitude 1352543.2590E
+Runway 321 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M32B ԥlength offset 0000
+LTP/FTP latitude 344700.9970N HAL 40.0
+LTP/FTP longitude 1352634.0960E VAL 50.0
+CRC remainder 49D4256C
+Required additional data
+LTP/FTP orthometric height 10.6
+RNP RWY32R
+CHANGE : FAS DATA BLOCK, Required additional data established.
+OSAKA INTL
+(EFF:16 MAY 2024) 18/4/24
+
+
+=== Page 74 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+172˚ 352˚
+225˚
+045˚229˚
+049˚
+RJOO / OSAKA  INTL HLDG PATTERN
+D14.0 ITE
+D7.8 ITE
+SANDA
+MHA 5000
+MAX 230KIAS
+ITE R352
+D35.0 YOE
+D28.7 YOE
+D33.0 YOE
+KAINA
+D26.8 YOE
+MIKAN
+MHA 5000
+MAX 230KIAS
+MHA 5000
+MAX 230
+KIAS
+YOE R225
+YOE R229
+VOR/DME
+ITAMI
+114.75    ITE
+200FT
+CH–94Y
+34˚48´20˝N/135˚24´13˝E
+VOR/DME
+YAO
+114.6   YOE
+100FT
+CH–93X
+34˚35´54˝N/135˚35´37˝E
+RJOO AD2.24-OTHER-1
+(EFF:21 MAY 2020) 26/3/20
+→
+
+
+=== Page 75 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OSAKA INTL
+RJOO / OSAKA INTL Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ᕝす ከ⏣⚄♫
+Kawanishi Shrine
+䚷▼ᶫ 㜰ᛴ▼ᶫ㜰኱๓㥐
+Ishibashi Station
+༓㔛 ༓㔛䜲䞁䝍䞊䝏䜵䞁䝆
+Senri Interchange
+྿⏣ ྿⏣䝆䝱䞁䜽䝅䝵䞁
+Suita Junction
+ย᰿ᒣ ୰ᅜ㇏୰䜲䞁䝍䞊䝏䜵䞁䝆
+Toneyama Interchange
+᭷ᒸ JRఀ୹㥐
+Arioka Station
+㫽㣫 㫽㣫኱ᶫ
+Torikai Bridge
+㬆ᑿ ⏥Ꮚᅬ⌫ሙ
+Naruo Baseball ground
+Call sign BRG / DIST from ARP Remarks
+CHANGE : VAR.
+077°T / 5.2NM
+339°T 4.9NM/
+063°T / 3.0NM
+1.5NM013°T /
+225°T / 5.4NM
+037°T / 1.2NM
+/ 6.8NM103°T
+255°T 0.9NM/
+SENRI
+SESENRNRII
+OSAKA CONTROL ZONE
+At
+At
+At
+ or below 3000FT
+KAWANISHI
+KAKAWAWANINISHSHII
+ZO
+O
+ AKA CONTROL Z
+OSA
+OSAKA CONTROL
+OSA
+5NM from ARP
+OSAKA TOWER
+OSAKA T
+118.1
+A T
+1
+1 -
+OWER
+TO
+A T
+- 126.2
+VAR 8
+R 8
+8888888
+
+W(2023) /
+ / 1'W
+TORIKAI
+TOTORIRIKAKAII
+NARUO
+NANARURUUOOO
+ARIOKA
+ARARARIOIOIOOKAKAKAA
+ISHIBASHI
+ISISHIHIBABASHSHII
+㼃㼑㼎
+㼑㼎㼎㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+SUITA
+SUSUITITAA
+TONEYAMA
+TOTONENEYAYAMAMAA
+RJOO AD2.24-OTHER-2
+(EFF:5 SEP 2024) 8/8/24
+
+
+=== Page 76 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOO AD2.24-OTHER-3
+ELEV  39ft
+LDG  CHARTRJOO / OSAKA  INTL
+34˚44䯩
+48䯩
+50䯩
+25䯩 27䯩23 27䯩2321䯩 135˚29䯩
+PAPI  ANGLE  3.0° 
+MEHT  19.5m (64 ft) 
+422m  FM  THR
+PAPI  ANGLE  3.0° 
+MEHT  22.5m (74 ft) 
+482m  FM  THR
+PAPI  ANGLE 3.0° 
+MEHT15.8m (52ft) 
+309m  FM  THR
+PAPI  ANGLE  3.0° 
+MEHT  18.5m (61 ft) 
+383m  FM  THR
+ELEVATIONS AND 
+HEIGHTS IN FEET 
+MEAN SEA LEVEL
+6000  ft30000
+ABN 88
+ALB
+CGL
+32L
+32R
+14R
+14L
+ 6000
+×150ft
+ Asph-Conc
+   9840
+×200ft
+SCALE
+1
+2
+3
+4 5 6
+7
+364
+ALB
+285
+180
+1320
+1320
+1320
+660
+660
+200
+660
+1568
+1589
+1186
+1034
+982
+OSAKA  TOWER
+118.1-126.2-236.8
+ 
+1到7 RUNWAY  LEAD - IN  LIGHTING  SYSTEM
+Flashing  white.
+䯩
+VAR 8˚W(2023)ANNUAL CHANGE 1´WCHANGE : VAR.
+OSAKA INTL
+(EFF:5 SEP 2024) 8/8/24
+
+
+=== Page 77 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMLTNI AKASO / OOJR
+VAR 8˚W (2023)
+30NM
+50NM
+35NM
+45NM
+ITE 45N
+M
+20NM
+40NM
+MN01
+50NM
+35NM
+15NM
+5NM
+60NM
+70NM
+80NM
+100NM
+CENTER凬 344752N/1352550E  (No.1 RADAR SITE)
+CENTER凬 344659N/1352600E  (No.2 RADAR SITE)
+25000
+10000
+6000
+5000
+4000
+3500
+(2) (3)
+(4)
+060˚
+070˚
+300˚
+120˚
+140˚
+160˚
+170˚180˚200˚
+245˚
+270˚
+310˚
+4000
+4000
+8000
+10000
+15000
+8000
+8000
+6000
+3000
+8000
+20000
+15000
+7000
+3500
+12000
+8000
+䷵䢢
+䷷䢢
+䷶䢢
+2500
+5000
+10000
+䷵䢢 4100 (1) 342930N/1353527E
+(2) 342925N/1355432E
+(3) 342918N/1360849E
+(4) 342924N/1361335E
+䷶䢢 5000
+䷷䢢 7000
+(1)
+CHANGE : Update(BTN 245° and 300°).
+(EFF:20 MAR 2025) 23/1/25
+RJOO AD2.24-OTHER-4
+OSAKA INTL
+

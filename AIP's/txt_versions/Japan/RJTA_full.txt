@@ -1,0 +1,1036 @@
+=== Page 1 ===
+AIP Japan
+ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD2-1
+AD 2 AERODROMES
+RJTA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJTA - ATSUGI
+RJTA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJTA AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 352717N 1392700E
+2 Direction and distance from (c ity) 4NM ENE FM Atsugi city
+3 Elevation/ Reference temperature 205ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-M
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7 ATS To be issued later
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:9 NOV 2017) 12/10/17
+
+
+=== Page 2 ===
+RJTA AD2-2  AIP Japan
+   ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD 2.4 HANDLING SERVICES AND FACILITIES
+RJTA AD 2.5 PASSENGER FACILITIES
+RJTA AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJTA AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types 115/145 JP-5
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3
+Capability for removal of disabled  
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD2-3
+RJTA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJTA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJTA AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not Available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6R e m a r k s N i l
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual 
+docking/ parking guidance 
+system of aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:01/19
+(LGT) RTHL,RWY DIST marker LGT
+TWY:
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks Apron flood LGT
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJTA AD2-4  AIP Japan
+   ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJTA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office ATSUGI
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast 
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Ja, En
+7 Charts and other information 
+available for briefing or consultation
+S, U
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of 
+service, etc.)
+Nil
+Designations
+RWY NR
+TRUE BRG
+Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undula-
+tion
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+01 359.13° 2438×45
+SW 41000kg(90200lbs)
+DW 82000kg(180400lbs)
+DTW 152000kg(334400lbs)
+Concrete
+352637.12N
+1392701.09E THR ELEV:172ft
+19 179.13° 2438×45
+SW 41000kg(90200lbs)
+DW 82000kg(180400lbs)
+DTW 152000kg(334400lbs)
+Concrete
+352756.25N
+1392659.64E THR ELEV:205ft
+   Slope of RWY 
+Strip
+ Dimensions(M)
+Remarks
+71 0 1 2
+To be developed
+2558×300
+Nil
+2558×300
+(EFF:11 JUL 2024) 13/6/24
+
+
+=== Page 5 ===
+AIP Japan
+ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD2-5
+RJTA AD 2.13 DECLARED DISTANCES
+RJTA AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJTA AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJTA AD 2.16 HELICOPTER LANDING AREA
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+01 AVBL PAPI
+3.0°
+278m
+47ft
+19 AVBL PAPI
+3.0°
+283m
+39ft
+Remarks
+10
+Nil
+1 ABN/IBN location , characteristics 
+and hours of operation
+ABN: 352709N/1392616E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:LGTD
+3 TWY edge and center line lighting TWY edge LGT:AVBL
+4 Secondary power supply/    switch-
+over time
+Nil
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+(EFF:13 JUL 2023) 13/7/23
+
+
+=== Page 6 ===
+RJTA AD2-6  AIP Japan
+   ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD 2.17 ATS AIRSPACE
+RJTA AD 2.18 ATS COMMUNICATION FACILITIES
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+ATSUGI 
+CTR
+(1)Area within a radius of 5 nm of ATSUGI ARP 
+(35°27'N139°27'E ), in the west side of a west parallel 
+line of a line at a distance of 1.7 nm of a line extending 
+from the ARP on 000°T and 180°T and in the west side 
+of a west parallel line of a line at a distance of 3.6 nm of 
+a line extending from the ARP on 040°T and 220° T. 
+(2)Area within a radius of 5 nm of ATSUGI ARP. 
+6000 or below
+1700 or above 
+6000 or below 
+D Atsugi Tower
+En
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+TWR Atsugi Tower 340.2MHz
+128.7MHz
+360.2MHz
+236.8MHz
+243.0MHz(E)
+121.5MHz(E)
+123.1MHz(1)
+ 2100 - 1300
+Other time 1HR PN
+APP provided by Yokota APP
+(1)For rescue only
+GND Atsugi Ground 299.7MHz
+141.2MHz
+ 2100 - 1300
+Other time 1HR PN
+GCA-ASR
+      -PAR
+Atsugi GCA 335.6MHz
+310.6MHz
+305.1MHz
+291.5MHz
+285.8MHz
+270.8MHz
+258.6MHz
+139.55MHz
+134.1MHz
+128.7MHz
+125.3MHz
+123.1MHz(1)
+141.2MHz
+243.0MHz(E)
+121.5MHz(E)
+ 2300 - 0745
+EXC FRI0746 - 
+SUN2259
+Other time 1HR PN
+ ASR, PAR RWY 01/19
+Glide slope 3.0°
+Maintenance period: 
+2300 FRI-0745 SAT in VMC.
+ATIS Atsugi Airport 246.8MHz  2100 - 1300
+(EFF:1 APR 2025) 20/2/25
+
+
+=== Page 7 ===
+AIP Japan
+ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD2-7
+RJTA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJTA AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN NJA 1185MHz
+(CH-98X)
+H24 352644N1392714E 211ft Unusable:
+010°-020° beyond 15nm BLW 3000ft.
+020°-030° beyond 25nm BLW 3000ft.
+030°-040° beyond 20nm BLW 3000ft.
+040°-050° beyond 18nm BLW 3000ft.
+050°-060° beyond 17nm BLW 3000ft.
+060°-090° beyond 14nm BLW 3000ft.
+090°-100° beyond 29nm BLW 3000ft.
+100°-110° beyond 24nm BLW 4000ft.
+110°-120° beyond 26nm BLW 4000ft.
+120°-130° beyond 33nm BLW 4000ft.
+ILS-LOC 01 IAG 111.3MHz H24 352807N1392700E  LOC: 316.5m (1038.2ft) away FM 
+RWY19 THR. BRG(MAG)007°
+ILS-GP 01 - 332.3MHz H24 352645N1392656E  GP: 237m (777.7ft) inside FM 
+RWY01 THR, 135.2m (443.5ft) W of 
+RCL.
+GP Angle 3.0°.
+HGT of ILS Ref datum 14.0m(46ft)
+MM 01 - 75MHz H24 352607N1392702E  0.5nm FM RWY 01 THR
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:11 JUL 2024) 13/6/24
+
+
+=== Page 8 ===
+RJTA AD2-8  AIP Japan
+   ATSUGI
+Civil Aviation Bureau,Japan
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJTA AD 2.21 NOISE ABATEMENT PROCEDURES
+RJTA AD 2.22 FLIGHT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+1 .WX MINIMA CONCERNING PAR APCH PROCEDURE
+PAR RWY01
+MINIMA THR elev. 172 AD elev. 205
+CAT
+ CIRCLING
+DA(H) RVR/CMV MDA(H) VIS
+A
+385(213) 750
+680(475)
+1600
+B 710(505)
+C 730(525) 2400
+D 760(555) 3200
+ PAR RWY19
+MINIMA THR elev. 205 AD elev. 205
+CAT
+ CIRCLING
+DA(H) RVR/CMV MDA(H) VIS
+A
+470(265) 900
+680(475)
+1600
+B 710(505)
+C 730(525) 2400
+D 760(555) 3200
+(EFF:11 JUL 2024) 13/6/24
+
+
+=== Page 9 ===
+AIP Japan
+ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD2-9
+2.  WX MINIMA CONCERNING ASR APCH PROCEDURE
+ASR RWY01
+MINIMA THR elev. 172 AD elev. 205
+CAT
+ CIRCLING
+MDA(H) RVR/CMV MDA(H) VIS
+A
+740(568)
+1400
+740(535)
+1600
+B 1500
+C 1600 2400
+D 1800 760(555) 3200
+ ASR RWY19
+MINIMA THR elev. 205 AD elev. 205
+CAT
+CIRCLING
+MDA(H) RVR/CMV MDA(H) VIS
+A
+680(475)
+1500
+680(475)
+1600
+B 710(505)
+C 1800 730(525) 2400
+D 2000 760(555) 3200
+3. TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL
+or RCL marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN 
+AP FILED
+01 A,B,C,D - - 400m 400m - 500m
+19 A,B,C,D - - 400m 400m - 500m
+OTHER
+01 A,B,C,D
+AVBL LDG MINIMA
+19 A,B,C,D
+4. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with ATSUGI GCA are lost for 1 minute in pattern or 5 seconds (PAR)/15 seconds (ASR) on final 
+approach, squawk Mode A/3 Code 7600 and ;
+(I) 1. Contact YOKOTA Approach.
+2. If unable,proceed in accordance with visual flight rules.
+3. If unable,proceed direct NJA at last assigned altitude or 3,600ft whichever is higher and proceed via SYONA, 
+execute one turn in holding at SYONA then execute instrument approach. 
+(For approaches to RWY19, add: “Circle to RWY19.”) 
+(II) Procedures other than above will be issued when situation required.
+(EFF:11 JUL 2024) 13/6/24
+
+
+=== Page 10 ===
+RJTA AD2-10  AIP Japan
+   ATSUGI
+Civil Aviation Bureau,Japan
+RJTA AD 2.23 ADDITIONAL INFORMATION
+RJTA AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Standard Departure Chart - Instrument (ZUSHI)
+Standard Departure Chart - Instrument (YOKOTA)
+Instrument Approach Chart (ILS Z or LOC Z RWY 01)
+Instrument Approach Chart (ILS Y or LOC Y RWY 01)
+Instrument Approach Chart (TACAN RWY 01)
+ 
+(EFF:11 JUL 2024) 13/6/24
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJTA / ATSUGI SID
+CHANGE : New PROC. 
+ZUSHI ONE DEPARTURE
+RWY01Climb RWY HDG to NJA 6.0DME, via NJA R352 to 13.0DME, turn right,
+               direct to NJA TACAN, via NJA R179 to ZUSHI.
+               Cross NJA R352/10.5DME at or above 3000FT, cross ZUSHI at
+               assigned altitude.
+NOTE  RWY01 : 4.0% climb gradient required up to 500FT.
+OBST ALT 321FT locate at 0.5NM 357˚ FM end of RWY01.
+RWY19Climb RWY HDG to 600FT, via NJA R190 to 9.0DME, via NJA R179
+               to ZUSHI.
+               Cross ZUSHI at assigned altitude.
+D13.0 NJA
+D10.5 NJA
+D6.0 NJA
+D9.0 NJA
+D23.6 NJA
+600
+ZUSHI
+3000
+Assigned ALT
+352°
+R352
+190°
+179°
+TACAN
+ATSUGI
+ÛÝ1ÛÝ(
+NJA
+CH-98X
+200FT
+(EFF:11 JUL 2024) 13/6/24
+RJTA AD2.24-SID-1
+ATSUGI
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJTA / ATSUGI SID
+RWY01Climb RWY HDG to NJA 6.0DME, via NJA R352 to YOK TACAN.
+               Cross NJA R352/10.5DME at or above 3000FT, cross YOK TACAN at or
+               above 9000FT(at or above 6000FT for PROP).
+YOKOTA TWO DEPARTURE
+RWY19Climb RWY HDG to 600FT, via NJA R190 to 9.0DME, turn left,
+               via NJA R155 to NJA TACAN, via NJA R352 to YOK TACAN.
+               Cross NJA R155/9.0DME at or above 6000FT, cross YOK TACAN at or
+               above 9000FT(at or above 6000FT for PROP).
+NOTE  RWY01 : 4.0% climb gradient required up to 500FT.
+OBST ALT 321FT locate at 0.5NM 357˚ FM end of RWY01.
+D10.5 NJA
+D6.0 NJA
+D9.0 NJA
+600
+3000
+TACAN
+ATSUGI
+ÛÝ1ÛÝ(
+NJA
+CH-98X
+200FT
+D9.0 NJA190°
+335°
+6000
+352°
+9000(6000 for PROP)
+TACAN
+YOKOTA
+ÛÝ1ÛÝ(
+YOK
+CH-85X
+400FT
+CHANGE : PROC abolished(HATSU TWO DEPARTURE). PROC renamed(YOKOTA TWO DEPARTURE).
+                  PROC course. Note added. ALT restriction established. 
+(EFF:11 JUL 2024) 13/6/24
+RJTA AD2.24-SID-2
+ATSUGI
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+118.3-270.6 (above 5000)
+123.8-261.4 (SFC to 5000)
+ILS Z or LOC Z RWY01
+YOKOTA  APP      ILS - LOC
+111.3  IAG 
+ GP 332.3
+ATSUGI  TOWER
+128.7 - 236.8
+340.2 - 360.2
+RADAR  AVBL
+CALL
+YOKOTA  APP
+RJTA / ATSUGI
+CHANGE : NM to NJA. NM to THR.
+MINIMA
+CAT
+CAT 䱶
+DA(H)
+378 (206) 580 (408)
+760 (555)
+730 (525)
+680 (475)
+750
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 172 AD elev. 205
+A
+B
+C
+D
+Timing not authorized for defining the MAPt.
+Contact  YOKOTA APP.
+Climb on HDG007˚ to 1000FT, turn right to 
+intercept and proceed via NJA R188 to 
+RUMED, turn right, via NJA 11.0DME
+clockwise ARC to SYONA and hold at 
+3600FT.
+MISSED APPROACH
+MM
+NJA
+2000
+GP3.0°
+007°
+007°
+RUMED
+   (IF)
+PUKUK
+  (FAF)
+ SDF
+(LOC)
+ VDP
+(LOC) MAPt
+ (LOC)
+RDH 46
+600
+(428)
+1000
+ (828)
+DME to NJA
+NM to THR
+11.0
+10.9
+4.1
+4.0
+1.6
+1.5
+1.4
+1.2
+0.6
+0.5
+0.2
+0
+ 1500
+ 1486
+   682
+710 (505)
+360°
+090°
+270°
+10NM
+432
+378
+327
+406
+486
+D0.6 NJA
+MAPt(LOC)
+D4.1 NJA
+PUKUK(FAF)
+D11.0 NJA
+SYONA
+R188/D11.0 NJA
+RUMED(IF)
+D16.0 NJA
+D11.0 NJA
+     ARC
+007°
+188°
+007°
+R219
+HDG 007°
+039°
+219°
+MHA3600
+MAX230KIAS
+VAR8°W(2024)
+3100
+2400
+6600
+MSA 25NM
+NJA 270°
+180°
+360°
+EQPT REQUIRED
+TACAN
+NM to NJA
+ALT(3.0°APCH Pathʣ
+FAF 3 2 MAPt
+1486 1135 816 ʵ
+R188
+TACAN
+ATSUGI
+ÛÝ1ÛÝ(
+NJA
+CH-98X
+PUKUK(FAF) : 1(
+MDA
+   (LOC)
+   (LOC)
+(EFF:8 AUG 2024) 8/8/24
+RJTA AD2.24-IAC-1
+ATSUGI
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ILS Y or LOC Y RWY01
+     ILS - LOC
+111.3  IAG 
+ GP 332.3
+ATSUGI  TOWER
+128.7 - 236.8
+340.2 - 360.2
+RADAR  AVBL
+CALL
+YOKOTA  APP
+RJTA / ATSUGI
+118.3-270.6 (above 5000)
+123.8-261.4 (SFC to 5000)
+YOKOTA  APP
+MINIMA
+CAT
+CAT䱶
+DA(H)
+378 (206) 580 (408)
+760 (555)
+730 (525)
+680 (475)
+750
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 172 AD elev. 205
+A
+B
+C
+D
+Timing not authorized for defining the MAPt.
+Contact  YOKOTA APP.
+Climb on HDG007˚ to 1000FT, turn right 
+to intercept and proceed via NJA R188 
+to RUMED, turn right, via NJA
+11.0DME clockwise ARC to SYONA
+and hold at 3600FT.
+MISSED APPROACH
+MM
+NJA
+2000
+GP3.0°
+007°
+007°
+RUMED
+   (IF) PUKUK
+  (FAF)
+ SDF
+ VDP
+(LOC) MAPt
+ (LOC)
+RDH 46
+600
+(428)
+1000
+ (828)
+DME to NJA
+NM to THR
+11.0
+10.9
+4.1
+4.0
+1.6
+1.5
+1.4
+1.2
+0.6
+0.5
+0.2
+0
+ 1500
+ 1486
+   682
+SYONA
+  (IAF)
+3600
+D11.0 NJA
+ARC
+710 (505)
+CHANGE : NM to NJA. PROC ALT at FAF.
+360°
+090°
+270°
+10NM
+432
+378
+327
+406
+486
+D0.6 NJA
+MAPt(LOC)
+D4.1 NJA
+PUKUK(FAF)
+D11.0 NJA
+SYONA(IAF)
+R188/D11.0 NJA
+RUMED(IF)D11.0 NJA ARC
+007°
+188°
+007°
+R219
+HDG 007°
+VAR8°W(2024)
+3100
+2400
+6600
+MSA 25NM
+NJA 270°
+180°
+360°
+EQPT REQUIRED
+TACAN
+NM to NJA
+ALT(3.0°APCH Pathʣ
+FAF 3 2 MAPt
+1486 1135 816 ʵ
+R188
+TACAN
+ATSUGI
+ÛÝ1ÛÝ(
+NJA
+CH-98X
+R199
+D11.0 NJA
+SYONA(IAF)
+D16.0 NJA
+039°
+219°
+MHA3600
+MAX230KIAS
+NOT TO SCALE ATSUGI
+ TACAN
+  (NJA)
+PUKUK(FAF) : 1(
+MDA
+   (LOC)
+   (LOC)
+(EFF:8 AUG 2024) 8/8/24
+RJTA AD2.24-IAC-2
+ATSUGI
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+TACAN RWY01
+ATSUGI  TACAN
+CH-98X  NJA
+ATSUGI  TOWER
+128.7 - 236.8
+RADAR  AVAILABLE
+CALL
+YOKOTA  APP
+MINIMA
+CAT
+1300
+1400
+1600
+32001600
+CMV VIS
+CIRCLING
+THR elev. 172 AD elev. 205
+A
+B
+C
+D
+YOKOTA  APP
+118.3-270.6 (above 5000)
+ÛÝ1ÛÝ(123.8-261.4 (SFC to 5000)
+360
+°
+090°
+270°
+10NM
+432
+378
+365
+406D0.9 NJA
+MAPt
+D6.0 NJA
+ESDUS(FAF)
+D11.0 NJA
+SYONA(IAF)
+R188/D11.0 NJA
+RUMEDD11.0 NJA
+     ARC
+188°
+018°
+R219
+VAR8°W(2024)
+3100
+2400
+6600
+MSA 25NM
+NJA 270°
+180°
+360°
+R209
+018°
+349
+257
+R188
+R018
+R198/D11.0 NJA
+ADKET(IF)
+NM to NJA
+ALT(3.0°APCH Pathʣ
+FAF 3 2 MAPt
+2090 1135 816 ʵ
+54
+14531771
+D11.0 NJA
+SYONA(IAF)
+D16.0 NJA
+039°
+219°
+MHA3600
+MAX230KIAS
+NOT TO SCALE ATSUGI
+ TACAN
+  (NJA)
+Timing not authorized for defining the MAPt.
+Contact  YOKOTA APP.
+Climb to 1000FT via NJA R018, turn 
+right to intercept and proceed via NJA 
+R188 to RUMED, turn right, via NJA
+11.0DME clockwise ARC to SYONA
+and hold at 3600FT.
+MISSED APPROACH
+NJA
+3.0°
+018°
+ADKET
+   (IF) ESDUS
+  (FAF)
+ SDF
+ VDP
+ MAPt
+MDA
+620
+(448)
+800
+ (628)
+DME to NJA
+NM to THR
+11.0
+10.9
+6.0
+5.9
+3.0
+2.9
+1.4
+1.3
+0.9
+0.8
+0.1
+0
+ 
+SYONA
+  (IAF)
+3600
+D11.0 NJA ARC
+018°2000
+600(428)
+680(475)1200
+2400
+710(505)
+730(525)
+760(555)
+340.2 - 360.2
+RJTA / ATSUGI
+MDA(H) MDA(H)RVR/
+CHANGE : PROC course. Missed APCH course. HLDG pattern(SYONA). ALT(3.0° APCH Path) established. MSA. VAR.                  ADKET, ESDUS, RUMED established. DME to NJA established. NM to THR established. THR elev. MINIMA.
+ESDUS(FAF) : 1(
+(EFF:11 JUL 2024) 13/6/24
+RJTA AD2.24-IAC-3
+ATSUGI
+

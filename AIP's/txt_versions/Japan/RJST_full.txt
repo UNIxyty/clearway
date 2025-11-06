@@ -1,0 +1,1187 @@
+=== Page 1 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-1
+AD 2 AERODROMES
+RJST AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJST - MATSUSHIMA
+RJST AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJST AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 382411N/1411243E
+2 Direction and distance from (cit y) 6.6 NM W FM Ishinomaki city
+3 Elevation/ Reference temperature 7ft / Nil
+4 Geoid undulation at AD ELEV PSN Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address, 
+telephone, telefax, telex, AFS, e-
+mail and/or Web-site addresses
+JSDF-A
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7A T S H 2 4
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 2 ===
+RJST AD2-2 AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD 2.4 HANDLING SERVICES AND FACILITIES
+RJST AD 2.5 PASSENGER FACILITIES
+RJST AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJST AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1 PLUS
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:26 APR 2018) 26/4/18
+
+
+=== Page 3 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-3
+RJST AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJST AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJST AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and 
+strength
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1
+Use of aircraft stand ID signs, TWY 
+guide lines and Visual docking/ 
+parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:RWY07/25
+(LGT)RTHL, TKOF aiming LGT 
+TWY:
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coor dinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJST AD2-4 AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office MATSUSHIMA
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast 
+Interval of issuance
+Nil
+5 Briefing/ consul tation provided Nil
+6 Flight documentation
+Language(s) used
+Ja,En
+7 Charts and other information available 
+for briefing or consultation
+S,U
+8 Supplementary equipment
+available for providing information
+Doppler Radar for Airport Weather (See below figure)
+9 ATS units provided with information Nil
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+(EFF:10 SEP 2020) 10/9/20
+
+
+=== Page 5 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-5
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD ELEV  LEVEL
+Airspace for the advisory service
+concerning low level wind shear
+25
+071NM
+1NM
+1NM
+Detection Area for Arriving and Departing Aircraft
+1NM
+1NM
+1NM
+1NM
+(EFF:10 SEP 2020) 10/9/20
+
+
+=== Page 6 ===
+RJST AD2-6 AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD ELEV  LEVEL
+Airspace for the advisory service 
+concerning low level wind shear
+33
+15
+1NM
+1NM
+1NM
+Detection Area for Arriving and Departing Aircraft
+1NM
+1NM
+1NM
+1NM
+(EFF:10 SEP 2020) 10/9/20
+
+
+=== Page 7 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-7
+RJST AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJST AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR
+TRUE BRG
+Dimensions of
+RWY(M)
+Strength(PCN) and
+Surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+07
+25
+15
+33
+To be issued
+Later
+2700×45
+2700×45
+1500×45
+1500×45
+SW26300kg
+(58000lbs)
+DW65100kg
+(143500lbs)
+Concrete
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Slope of RWY
+Strip
+Dimensions
+(M) Remarks
+71 0 1 2
+Nil
+Nil
+Nil
+Nil
+3300×450
+3300×450
+1620×200
+1620×200
+Nil
+RWY Designa-
+tor
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+12 3 4 5 6
+(EFF:10 SEP 2020) 10/9/20
+→
+
+
+=== Page 8 ===
+RJST AD2-8 AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJST AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJST AD 2.16 HELICOPTER LANDING AREA
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+07 AVBL PAPI
+3.0°
+(*1)
+43ft
+25 PAPI
+3.0°
+(*2)
+38ft
+15
+33
+Remarks
+10
+(*1)879ft from RWY07 APCH END and 51ft S side from RWY edge
+(*2)784ft from RWY25 APCH END and 51ft S side from RWY edge
+RWY THR ID LGT for RWY07 THR(Color:White)
+1 ABN/IBN location, characteristics 
+and hours of operation
+ABN:382459N/1411314E, White/Green EV 2sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+Nil
+3 TWY edge and centerline lighting TWY edge LGT:AVBL
+4 Secondary power supply/switch-
+over time
+Nil
+5 Remarks WDI LGT,  OBST LGT
+Nil
+(EFF:30 OCT 2025) 30/10/25
+
+
+=== Page 9 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-9
+RJST AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+MATSUSHIMA
+CTR
+Area within a radius of 5nm of
+MATSUSHIMA ARP(38°24'N141°13'E )
+5.000 or below D MATSUSHIMA
+TOWER
+MATSUSHIMA 
+ACA
+See below Figure E
+MATSUSHIMA 
+TCA
+See below Figure E
+ᯇᓥ㐍ධ⟶ไ༊䢢
+Matsushima Approach Control Area
+RJSU  ARP
+040˚30´T fm IXE
+6000
+10000
+FL140
+030˚T
+007˚T
+025˚T
+5.5nm
+5.5nm
+5nm
+4nm
+4nm
+4nm
+YTE
+39˚N
+SDE
+MXT
+293˚T
+113˚T
+092˚T 1.7nm
+55nm
+15nm
+030˚T fm SDE
+(EFF:10 SEP 2020) 10/9/20
+→
+
+
+=== Page 10 ===
+RJST AD2-10 AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+MATSUSHIMA CTZ
+KASUMINOME CTZ
+䷵䢢
+䷶䢢
+䷷䢢
+䷸䢢
+䷹䢢
+䷺䢢
+䷾䢢
+䷻䢢
+6000
+4000䷵ 6000
+2000
+䷶ 6000
+3500
+䷷ 6000
+3000
+䷸
+6000
+5001
+䷹ 10000
+4000䷺ 10000
+2000䷻ 10000
+3000䷼
+10000
+5001䷽ 10000
+5000䷾䢢
+13NM
+20NM
+18NM
+25NM
+30NM
+4NM
+4NM
+SDE
+260°
+230°
+010°
+080°
+130
+°
+113°
+T  fm  SDE
+030°
+T  fm  YTE
+290°
+300°
+007°
+T  fm  SDE
+5.5NM
+䷽䢢
+䷼䢢
+Matsushima Terminal Control Area
+ᯇᓥ儣兠元儮兏儗兗儬兑兠兏儌兎儆
+(EFF:10 SEP 2020) 10/9/20
+←
+
+
+=== Page 11 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-11
+RJST AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+APP/ASR
+TWR
+DEP
+GCA-ASR
+  -PAR
+GND
+TCA
+Matsushima
+Approach/
+Matsushima Radar
+Matsushima Tower
+Matsushima
+Departure
+Matsushima
+Radar
+Matsushima Ground
+Matsushima TCA
+261.2MHz
+120.1MHz
+315.0MHz
+243.0MHz(E)
+121.5MHz(E)
+236.8MHz
+126.2MHz
+304.6MHz
+138.05MHz(1)
+247.0MHz(1)(2)
+123.1MHz(1)
+243.0MHz(E)
+121.5MHz(E)
+362.3MHz
+120.1MHz
+335.6MHz
+270.8MHz
+134.1MHz
+125.3MHz
+307.0MHz
+300.7MHz
+316.0MHz
+238.8MHz
+302.4MHz
+243.0MHz(E)
+121.5MHz(E)
+275.8MHz
+123.85MHz
+H24
+H24
+H24
+H24
+H24
+2300 - 1100
+SUN - THU
+(EXC HOL)
+(1)For rescue only.
+(2)AVBL on request.
+ASR/PAR RWY 07/25.
+ 
+ 
+Glide path 3.0° RWY 07/25.
+(EFF:15 MAY 2025) 17/4/25
+
+
+=== Page 12 ===
+RJST AD2-12 AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid ID Frequency
+Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN MXT 1177MHz
+(CH-90X)
+H24 382414N/1411332E Unusable:
+050°-060° beyond 30nm BLW 5,000ft.
+060°-070° beyond 31nm BLW 5,000ft.
+070°-080° beyond 29nm BLW 4,000ft.
+080°-090° beyond 33nm BLW 4,000ft.
+090°-100° beyond 28nm BLW 4,000ft.
+100°-110° beyond 32nm BLW 4,000ft.
+110°-120° beyond 35nm BLW 4,000ft.
+(EFF:10 SEP 2020) 10/9/20
+←
+
+
+=== Page 13 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-13
+RJST AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJST AD 2.21 NOISE ABATEMENT PROCEDURES
+RWY 15/33 CLSD for JET TYPE ACFT during night except emergency.
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:10 SEP 2020) 10/9/20
+→
+
+
+=== Page 14 ===
+RJST AD2-14 AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD 2.22 FLIGHT PROCEDURES
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL 
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine
+ACFT with
+TKOF ALTN
+AP FILED
+07 A,B,C,D - - 400m 400m - 500m
+25 A,B,C,D - - 400m 400m - 500m
+OTHER
+07 A,B,C,D
+AVBL LDG MINIMA
+25 A,B,C,D
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 07 PAR RWY 25
+MINIMA        THR ELEV:5 AD ELEV:7 MINIMA        THR ELEV:4 AD ELEV:7
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS DA(H) RVR/
+CMV MDA(H) VIS
+A
+205(200) 750
+560(553) 1600
+A
+204(200) 800
+560(553) 1600
+BB
+C
+600(593)
+2400 C
+600(593)
+2400
+D 3200 D 3200
+Circling to South side and RWY25 only. Circling to South side and RWY07 only.
+Designed in accordance with provisional standards for
+FLIGHT PROCEDURE DESIGN.
+ASR RWY 07 ASR RWY 25
+MINIMA        THR ELEV:5 AD ELEV:7 MINIMA        THR ELEV:4 AD ELEV:7
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+640(633)
+1000
+640(633)
+1600
+A
+580(573)
+1500 580(573) 1600
+B
+1200
+B
+C 2400 C 1800
+600(593)
+2400
+D 1600 3200 D 2000 3200
+Circling to South side and RWY25 only. Circling to South side and RWY07 only.
+Designed in accordance with provisional standards for
+FLIGHT PROCEDURE DESIGN.
+(EFF:15 MAY 2025) 17/4/25
+
+
+=== Page 15 ===
+AIP Japan
+MATSUSHIMA
+Civil Aviation Bureau,Japan
+RJST AD2-15
+RJST AD 2.23 ADDITIONAL INFORMATION
+RJST AD 2.24 CHARTS RELATED TO AN AERODROME
+3. PAR/ASR Missed Approach Procedure 
+Unless otherwise instructed by ATC, execute each missed approach procedure as follows.
+(1)  PAR RWY07: At guidance limit, climb to 600FT on HD G 067°, turn left, to intercept and proceed via MXT R008 to
+MOLLI and hold at 4000FT. Contact MATSUSHIMA APP.
+ PAR RWY25: At guidance limit, climb on HDG 247° until 1nm , turn right, to intercept and proceed via MXT R008 to
+MOLLI and hold at 4000FT. Contact MATSUSHIMA APP.
+(2)  ASR RWY07: At guidance limit, climb to 700FT on HD G 067°, turn left, to intercept and proceed via MXT R008 to
+MOLLI and hold at 4000FT. Contact MATSUSHIMA APP.
+ ASR RWY25: At guidance limit, climb on HDG 247° until 1nm , turn right, to intercept and proceed via MXT R008 to
+MOLLI and hold at 4000FT. Contact MATSUSHIMA APP.
+4. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with MATSUSHIMA Radar are lost for 1 minute in the pattern  or 5 seconds (PAR)/15 seconds (ASR)
+on final approach, squawk Mode A/3 Code 7600 and ；
+(I)  1. Contact MATSUSHIMA Radar /Tower.
+2. If unable, proceed in accordanc e with visual flight rules.
+3. If unable, proceed to TACAN IAF at last assigned altit ude or 4,000 feet whichever is higher, and execute TACAN
+approach.
+(II) Procedures other than above will be issued when situation required.
+5. Automated  Radar  Terminal  System (ARTS)
+When instructed by ATC, aircraft flying in and out of Mats ushima approach control area in principle will reply on 4096
+Code (Mode A/3) with automatic altitude reporting capabilit y (Mode C) ; Aircraft not equipped with the said transponder
+shall report ATC to that effect.
+　 松島進入管制区を航行する航空機は , 管制機関の指示があった場合 , 原則と し て自動高度通報機能を有する 4096 コー ド に
+よる応答装置を作動させる こ と。 上記指示を受けた当該応答装置を有し ない航空機は , 管制機関に対し その旨を通報する こ
+と。
+Woods 700ft FM APCH end of RWY33.
+Standard Departure Chart - Instrument (MATSUSHIMA-REVERSAL, SOUTH)
+Standard Departure Chart - Instrument (NORTH, RIASU)
+Standard Departure Chart - Instrument (WEST)
+Instrument Approach Chart (TACAN Z RWY25)
+Instrument Approach Chart (TACAN Y RWY25)
+(EFF:15 MAY 2025) 17/4/25
+
+
+=== Page 16 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+HYAKURI TRANSITION
+RJST / MATSUSHIMA SID and TRANSITION
+MATSUSHIMA REVERSAL THREE DEPARTURE
+RWY07 : Climb RWY HDG to 600FT, turn right HDG 182°... 
+RWY25 : Climb RWY HDG to 600FT, turn left HDG 092°...
+...to intercept and proceed via MXT R137 to 20.0DME, turn left, direct to
+MXT TACAN.
+Cross MXT TACAN at assigned altitude. 
+ Note RWY07 : 4.0% climb gradient required up to 600FT.
+                        OBST ALT 919 FT located at 5.8NM 080° FM end of RWY07.
+SOUTH FIVE DEPARTURE
+RWY07 : Climb RWY HDG to 600FT, turn right HDG 182°... 
+RWY25 : Climb RWY HDG to 600FT, turn left HDG 092°...
+...to intercept and proceed via MXT R137 to MATSU.
+Cross MATSU at or above FL150 for HYAKURI TRANSITION. 
+Cross MATSU at or above FL210 for DAIGO TRANSITION. 
+ Note RWY07 : 4.0% climb gradient required up to 600FT.
+                        OBST ALT 919 FT located at 5.8NM 080° FM end of RWY07.
+From over MATSU, via HUC R036 to HUC VORTAC.
+Note : This TRANSITION is for TACAN equipped aircraft only.
+DAIGO TRANSITION
+From over MATSU, via GOT R047 to GOT TACAN.
+䚷
+MATSU
+D30.0 MXT
+D130.5 HUC
+D104.2 GOT
+D20.0 MXT
+MATSUSHIMA REVERSAL THREE DEPARTURE
+SOUTH FIVE DEPARTURE
+HYAKURI TRANSITION
+DAIGO TRANSITION
+137°
+137°
+227°
+216°
+R137
+HDG 092°
+HDG 182°
+600
+600
+Assigned ALT
+FL150 for HYAKURI TRANSITION 
+FL210 for DAIGO TRANSITION 
+TACAN
+DAIGO
+1187     GOT
+1500FT
+CH–100X
+ÛÝ1ÛÝ(
+VORTAC
+HYAKURI
+113.3    HUC
+200 FT
+CH–80X
+ÛÝ1ÛÝ(
+TACAN
+MATSUSHIMA
+MXT1177
+CH–90X
+ÛÝ1ÛÝ(
+CHANGE : PROC renamed(MATSUSHIMA REVERSAL THREE DEPARTURE, SOUTH FIVE DEPARTURE). PROC course(MATSUSHIMA REVERSAL THREE DEPARTURE, SOUTH FIVE DEPARTURE). 
+                  ALT restriction for RWY07. Note added(HYAKURI TRANSITION). Note(MATSUSHIMA REVERSAL THREE DEPARTURE, SOUTH FIVE DEPARTURE).
+(EFF:28 DEC 2023) 30/11/23
+RJST AD2.24-SID-1
+MATSUSHIMA
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+MIYAKO TRANSITION
+RJST / MATSUSHIMA SID and TRANSITION
+NORTH FOUR DEPARTURE
+RWY07 : Climb RWY H DG to 600FT, turn left,... 
+RWY25 : Climb RWY HDG to 600FT, turn left HDG 021°...
+...to intercept and proceed via MXT R051 to RIASU.
+Cross RIASU at or above FL160 for MIYAKO TRANSITION. 
+Cross RIASU at or above FL180 for MISAWA TRANSITION.  
+ Note RWY07 : 5.0% climb gradient required up to 1500FT.
+                        OBST ALT 1585FT located at 7.4NM 060° FM end of RWY07.
+RIASU THREE DEPARTURE
+RWY07 : Climb RWY H DG to 600FT, turn right,... 
+RWY25 : Climb RWY HDG to 600FT, turn left HDG 030°...
+...to intercept and proceed via MXT R075 to 30.0DME, via MXT 30.0DME
+counterclockwise ARC to RIASU.
+Cross RIASU at or above FL160 for MIYAKO TRANSITION. 
+Cross RIASU at or above FL180 for MISAWA TRANSITION. 
+ Note RWY07 : 6.0% climb gradient required up to 1500FT.
+                        OBST ALT 919 FT located at 5.8NM 080° FM end of RWY07.
+From over RIASU, via MQE R200 to MQE VOR/DME.
+MISAWA TRANSITION
+From over RIASU, via MIS R182 to MIS VORTAC.
+020°
+002°
+RIASU
+D30.0 MXT
+D67.0 MQE
+D116.6 MIS
+FL160 for MIYAKO TRANSITION 
+FL180 for MISAWA TRANSITION 
+075°
+051°
+600
+600
+R051
+R075
+HDG 030°HDG 021°
+NORTH FOUR DEPARTURE
+RIASU THREE DEPARTURE
+MIYAKO TRANSITIONMISAWA TRANSITION
+D30.0 MXT ARC
+VORTAC
+MISAWA
+115.4    MIS
+CH–101X
+ÛÝ1ÛÝ(
+VOR/DME
+MIYAKO
+116.6   MQE
+600FT
+CH–113X
+ÛÝ1ÛÝ(
+TACAN
+MATSUSHIMA
+MXT1177
+CH–90X
+ÛÝ1ÛÝ(
+CHANGE : PROC renamed(NORTH FOUR DEPARTURE, RIASU THREE DEPARTURE). PROC course(NORTH FOUR DEPARTURE, RIASU THREE DEPARTURE). EAST REVERSAL TWO DEPARTURE abolished.
+                  ALT restriction for RWY07. Note(NORTH FOUR DEPARTURE, RIASU THREE DEPARTURE).
+(EFF:28 DEC 2023) 30/11/23
+RJST AD2.24-SID-2
+MATSUSHIMA
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+SENDAI TRANSITION
+RJST / MATSUSHIMA SID and TRANSITION
+WEST FOUR DEPARTURE
+RWY07 : Climb RWY HDG to 600FT, turn right HDG 309°... 
+RWY25 : Climb RWY H DG to 600FT, turn right,...
+...to intercept and proceed via MXT R264 to DAIWA.
+Cross DAIWA at or above 8000FT. 
+ Note RWY07 : 4.0% climb gradient required up to 600FT.
+                        OBST ALT 919FT located at 5.8NM 080° FM end of RWY07.
+From over DAIWA, via SDE R357 to SDE VOR/DME.
+600
+264°
+R264
+177°
+DAIWA
+D17.0 MXT
+D11.9 SDE HDG 309°
+8000
+TACAN
+MATSUSHIMA
+MXT1177
+CH–90X
+ÛÝ1ÛÝ(
+VOR/DME
+100FT
+SENDAI
+116.3 SDE
+CH–110X
+ÛÝ1ÛÝ(
+600
+WEST FOUR DEPARTURE
+SENDAI TRANSITION
+CHANGE : PROC renamed(WEST FOUR DEPARTURE). PROC course(WEST FOUR DEPARTURE). NIIGATA TRANSITION abolished. ALT restriction for RWY07. Note(WEST FOUR DEPARTURE). 
+(EFF:28 DEC 2023) 30/11/23
+RJST AD2.24-SID-3
+MATSUSHIMA
+
+
+=== Page 20 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJST / MATSUSHIMA
+MATSUSHIMA  APP MATSUSHIMA         TACAN MATSUSHIMA   TOWER
+TACAN Z RWY25
+120.1 - 261.2 - 362.3
+MXT 126.2 - 236.8
+CH-90X 304.6 - 275.8G
+ 
+MINIMA 
+CAT
+510 (503)
+560 (553)1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 4 AD elev. 7
+A
+B
+C
+D
+Circling to South side and RWY07 only.
+NM to MXT
+ALT (3.0° APCH Path)
+23MAPt
+1606697 ɹ969-
+4
+1287
+5
+1924
+6
+2243
+FAF
+MXT
+MAPt
+SEBRO
+  (FAF)
+2400VDP
+OLKUN
+    (IF)
+MIHAR
+  (IAF)
+2243SDF
+SDF
+7000
+1701
+Û
+Û
+Û
+Û
+MDA
+ 1700
+(1693)
+ 2200
+(2193)
+ 2400
+(2393)
+DME to MXT 0.1
+NM to THR 0
+1.0
+0.9
+1.7
+1.6
+5.3
+5.2
+7.0
+6.9
+10.0
+9.9
+15.0
+14.9
+25.0
+24.9
+MISSED APPROACH
+MOLLI and hold at 4000FT.
+Contact MATSUSHIMA APP .
+Climb to 600FT on HDG 232°,
+turn right HDG 053° to intercept 
+and proceed via MXT R008 to
+Timing not authorized for defining the MAPt.
+No turn before MAPt.
+600 (593)
+VAR 8˚W (2023)
+090˚ 270˚
+360˚
+180˚
+36006100
+28005200
+MSA 25NM
+MXT
+MOLLI
+D17.0 MXT MHA 4000
+MAX 230KIAS
+MAPt
+D1.0 MXT
+MIHAR(IAF)
+D25.0 MXT
+MIHAR
+D25.0 MXT
+MHA 7000
+MAX 230KIAS
+D31.0 
+MXT
+MXT TACAN
+NOT TO SCALE
+HDG232°
+D23.0 
+MXT
+360°
+270°
+090°
+180
+°
+2038
+1661
+1838
+886
+1510
+1447
+1736
+008°
+053° 232°
+232°
+232°
+008°188°
+232°
+052°
+R052
+R008
+SEBRO(FAF) : 382919.86N / 1411939.06E
+SENDAI
+CITY
+CHANGE : PROC renamed. PROC course. Missed APCH PROC. MINIMA. PROC ALT established. HLDG pattern. OLKUN, SEBRO established. ALT(3.0°APCH Path) established.
+                  THR ELEV . Circling restriction. DME to MXT , NM to THR added. VAR. MSA. 
+GCA  AVBL
+CALL
+MATSUSHIMA  APP
+10NM
+SEBRO(FAF)
+D7.0 MXT
+1614
+OLKUN(IF)
+D15.0 MXT
+(EFF:28 DEC 2023) 30/11/23
+RJST AD2.24-IAC-1
+MATSUSHIMA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MATSUSHIMA  APP MATSUSHIMA                      TACAN MATSUSHIMA   TOWER
+TACAN Y RWY25
+120.1 - 261.2 - 362.3
+MXT 126.2 - 236.8
+CH-90X
+RJST / MATSUSHIMA
+ 
+MINIMA 
+CAT
+510 (503)
+560 (553)1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 4 AD elev. 7
+A
+B
+C
+D
+Circling to South side and RWY07 only.
+NM to MXT
+ALT (3.0° APCH Path)
+23MAPt
+1606697 ɹ969-
+4
+1287
+5
+1924
+6
+2243
+FAF
+MXT
+MAPt
+SEBRO
+  (FAF)
+2900VDP
+OLKUN
+    (IF)
+MOLLI
+  (IAF)
+2243SDF
+SDF
+4000
+1701
+Û
+Û
+Û
+MDA
+ 1700
+(1693)
+ 2200
+(2193)
+ 2400
+(2393)
+DME to MXT 0.1
+NM to THR 0
+1.0
+0.9
+1.7
+1.6
+5.3
+5.2
+7.0
+6.9
+10.0
+9.9
+15.0
+14.9
+MISSED APPROACH
+MOLLI and hold at 4000FT.
+Contact MATSUSHIMA APP .
+Climb to 600FT on HDG 232°,
+turn right HDG 053° to intercept 
+and proceed via MXT R008 to
+Timing not authorized for defining the MAPt.
+No turn before MAPt.
+188°
+D15.0 MXT
+ɹARC
+600 (593)
+VAR 8˚W (2023)
+090˚ 270˚
+360˚
+180˚
+36006100
+28005200
+MSA 25NM
+MXT
+MOLLI(IAF)
+D17.0 MXT
+MHA 4000
+MAX 230KIAS
+MAPt
+D1.0 MXT
+HDG232°
+D23.0 
+MXT
+360
+°
+270°
+090°
+180°
+2038
+1661
+1838
+886
+1510
+1447
+1736
+008°
+053° 232°
+232°
+008°188°
+R008
+SEBRO(FAF) : 382919.86N / 1411939.06E
+SENDAI
+CITY
+D15.0 MXT ARC
+044°
+4922
+4102
+CHANGE : Correction of misdescription(Course FM MOLLI to OLKUN deleted).
+304.6 - 275.8G
+GCA  AVBL
+CALL
+MATSUSHIMA  APP
+10NM
+SEBRO(FAF)
+D7.0 MXT
+1614
+OLKUN(IF)
+D15.0 MXT
+(EFF:28 DEC 2023) 28/12/23
+RJST AD2.24-IAC-2
+MATSUSHIMA
+

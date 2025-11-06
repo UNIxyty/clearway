@@ -1,0 +1,2420 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIPX 1 - 1
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPX AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIPX AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIPX - VERONA/Villafranca
+LIPX AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIPX AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+45°23'47''N 010°53'16''E
+2 Direzione e distanza dalla città 2.70 NM SW di Verona
+ Direction and distance from city 2.70 NM SW of Verona
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+240 FT / 29.3° C
+4 Ondulazione del geoide
+ Geoid undulation
+146.4 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2015.1) / 8'E
+6 Autorità amministrativa aeroportuale ENAC - DT Nord-Est
+Aeroporto "Marco Polo"
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+Ufficio di Verona
+Aeroporto “Valerio Catullo”
+37066, Caselle di Sommacampagna (VR)
+Tel +39 045 8095647
+ e-mail: aero.verona@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Aeroporto Valerio Catullo di Verona Villafranca S.p.a.
+37060 Caselle di Sommacampagna (VR)
+Centralino: tel: +39 045 8095611
+e-mail: reception@aeroportoverona.it
+web: www.aeroportoverona.it
+Capo Scalo di Servizio:
+tel +39 045 8095938
+cell +39 335 308299
+e-mail: css@aeroportoverona.it
+ Aerodrome operator Aeroporto Valerio Catullo di Verona Villafranca S.p.a.
+37060 Caselle di Sommacampagna (VR)
+Switchboard: tel +39 045 8095611
+e-mail: reception@aeroportoverona.it
+web: www.aeroportoverona.it
+Terminal and Operations Supervisor:
+tel +39 045 8095938
+mobile +39 335 308299
+e-mail: css@aeroportoverona.it
+ Autorità ATS ENAV S.p.A. - Centro Aeroportuale Verona
+tel +39 041 2612500
+fax +39 041 2612401
+e-mail: ci-veronavillafranca@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+
+=== Page 2 ===
+AD 2 LIPX 1 - 2
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+8 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIPX 1 - 3
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPX AD 2.3 ORARIO DEI SERVIZI
+LIPX AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale H24
+ Aerodrome Administration  
+2 Dogana ed immigrazione H24
+ Customs and immigration  
+3 Servizio sanitario H24
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO-CBO Milano
+   
+5 ARO H24 ARO-CBO Milano
+   
+6 METEO Briefing Office H24 ARO-CBO Milano
+   
+7 ATS H24
+   
+8 Rifornimento CARBOIL (ENI, KUWAIT PETROLEUM ITALIA, TAMOIL, AIR BP)
+HR: 0600-2300 (0500-2200), altri HR con 2 ore PN
+tel + 39 045 8619001, fax + 39 045 8619040
+cell +39 337 1142980, +39 337 1132257, + 39 336 892281, +39 393 1240965
+ Fuelling CARBOIL (ENI, KUWAIT PETROLEUM ITALIA, TAMOIL, AIR BP)
+HR: 0600-2300 (0500-2200), other HR 2 hours PN
+tel + 39 045 8619001, fax + 39 045 8619040
+mobile +39 337 1142980, +39 337 1132257, + 39 336 892281, +39 393 1240965
+9 Handling H24
+- AGS HANDLING
+E-MAIL: OPSVRN@AGSHANDLING.IT
+TELEFONO E FAX: +39 045 8095381
+CELL: +39 348 2873237
+INDIRIZZO SITA: VRNAGXH
+VHF FREQ: 131.615MHZ
+SERVIZI FORNITI: HANDLING PAX E MERCI
+- GH VERONA
+E-MAIL: OPS-CTRL@GHVERONA.IT
+TELEFONO: +39 045 8095679
+INDIRIZZO SITA: VRNKOXH
+VHF FREQ: 131.675MHZ
+SERVIZI FORNITI: HANDLING PAX E MERCI
+H24 SU RICHIESTA
+-AVIAPARTNER SPA
+E-MAIL: VRN.SPV@AVIAPARTNER.AERO
+TELEFONO: +39 347 2830678
+INDIRIZZO SITA: VRNAOXH
+VHF FREQ: NIL
+SERVIZI FORNITI: HANDLING PAX E MERCI
+
+=== Page 4 ===
+AD 2 LIPX 1 - 4
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+ Handling H24
+- AGS HANDLING
+E-MAIL: OPSVRN@AGSHANDLING.IT
+PHONE AND FAX: +39 045 8095381
+MOBILE PHONE: +39 348 2873237
+SITA ADDRESS: VRNAGXH
+VHF FREQ: 131.615MHZ
+SERVICES PROVIDED: PAX AND CARGO HANDLING
+- GH VERONA
+E-MAIL: OPS-CTRL@GHVERONA.IT
+PHONE: +39 045 8095679
+SITA ADDRESS: VRNKOXH
+VHF FREQ: 131.675MHZ
+SERVICES PROVIDED: PAX AND CARGO HANDLING
+H24 ON REQUEST
+-  AVIAPARTNER SPA
+E-MAIL: VRN.SPV@AVIAPARTNER.AERO
+PHONE: +39 347 2830678
+SITA ADDRESS: VRNAOXH
+VHF FREQ: NIL
+SERVICES PROVIDED: PAX AND CARGO HANDLING
+10 Servizi di sicurezza H24
+ Security  
+11 De-icing Disponibile H24 dal 15 Novembre al 15 Marzo
+ De-icing Available H24 from November 15 to March 15
+12 Note 1. Handling H24 disponibile  solo per i voli schedulati.
+2. Handling per voli schedulati:
+a. voli in arrivo
+il gestore aeroportuale assicura lo scarico di passeggeri e bagagli o merci;
+b. voli in partenza
+il gestore aeroportuale assicura i servizi in partenza solo per voli cargo e
+voli dirottati i cui passeggeri e merci sono stati precedentemente controllati
+nell’aerodromo di partenza.
+3. Handling per i voli di Aviazione Generale vedere item 20.7
+ Remarks 1. Handling H24 available for scheduled flights only.
+2. Handling for not scheduled flights:
+a. arrival flights
+the aerodrome operator assures passengers and baggage or freight unloading;
+b. departure flights
+the aerodrome operator assures departure services only for ferry flights and for
+diverted flights whose passengers and baggage have previously been checked in
+by the original aerodrome.
+3. Handling for General Aviation flights see item 20.7
+LIPX AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIPX AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci Trattori , elevatori, carrelli, scale, nastri
+ Cargo-handling facilities Tractors, elevators, trolleys, ladders, belt loaders
+2 Tipi di carburante/Olio JET A1 / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento CARBOIL:
+Tanker JA1: 1 x 275000 litri, 3 x 90000 litri
+Storage JA1: 4 X 42000 litri, 1 X 65000 litri
+ Fuelling capacity CARBOIL:
+Tanker JA1: 1 x 275000 litres, 3 x 90000 litres
+Storage JA1: 4 X 42000 litres, 1 X 65000 litres
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIPX 1 - 5
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+4 Sistema de-icing FLUIDO DE-ICING: TIPO II CLARIANT SAFEWING MPII FLIGHT
+SCORTA DISPONIBILE: 25000 LITRI
+MEZZI DEICER: N.3 FMC-LMD-2000, N.1 CRISTANINI 6000/100
+FORNITORE DEL SERVIZIO: GESTORE AEROPORTUALE
+ De-icing facilities AIRCRAFT DE-ICING FLUID: TYPE II CLARIANT SAFEWING MPII FLIGHT
+AVAILABLE STORAGE: 25000 LITRES
+DEICER RIGS: NR 3 FMC-LMD-2000, NR 1 CRISTANINI 6000/100
+SERVICE PROVIDER: AERODROME OPERATOR.
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note Tutti i voli per il piazzale militare del 3° Stormo, denominato MILITARY APRON, sono
+consentiti con un preavviso di 48 ore, il PPR deve essere richiesto al Base Operation
+Center (BOC) tel: +390456332213, e-mail: aerostormo3.boc@aeronautica.difesa.it.
+Sono disponibili i seguenti servizi aeroportuali:
+RIFORNIMENTO:
+• Tipo di carburante: JP8/F34;
+• Orario di servizio: dal lunedì al sabato 0630-1900 (0530-1800), per
+altri orari domenica e festivi è necessario un preventivo coordinamento
+con il Base Operation Center (BOC), Tel: +390456332213, e-mail:
+aerostormo3.boc@aeronautica.difesa.it
+HANDLING:
+• Mezzi: carrelli elevatori, nastri, hi-loader, k-loader, trattori fino a 70000kg, aerobus
+• Orario di servizio: dal lunedì al giovedì 0700-1530 (0600-1430), venerdì
+0700-1100 (0600-1000). Per altri orari, il sabato, la domenica e i festivi è
+necessario preventivo coordinamento con BOC.
+MARSHALLING AND CROSS SERVICING:
+• Orario di servizio: dal lunedì al sabato 0630-1900 (0530-1800). Per altri orari, la
+domenica e i festivi è necessario un preventivo coordinamento con il BOC.
+Ulteriori servizi di handling ed attrezzature da coordinarsi con la società di gestione
+tramite operationsoffice@aeroportoverona.it.
+ Remarks All flights to VILLAFRANCA MILITARY APRON, allowed 48 hours prior notice, PPR
+must be requested to Base Operations Center (BOC), tel: +390456332213, e-mail:
+aerostormo3.boc@aeronautica.difesa.it. 
+The following services are available:
+FUEL:
+• Type of fuel: JP8/F34
+• Service hours: from Monday to Saturday 0630-1900 (0530-1800). Other HR,
+Sunday and holidays previous coordination with BOC
+HANDLING:
+• Vehicles:Forklifts, belt loaders, hi-loaders, k-loaders, tractors up to 70000kg,
+aerobus 
+• Service hours: from Monday to Thursday 0700-1530 (0600-1430) Friday
+0700-1100 (0600-1000). Other HR, Saturday, Sunday and holidays previous
+coordination with BOC.
+MARSHALLING AND CROSS SERVICING:
+• Service hours: from Monday to Saturday 0630-1900 (0530-1800). Other HR,
+Sunday and holidays previous coordination with BOC.
+Further handling services and facilities in coordination directly with aerodrome
+operator at operationsoffice@aeroportoverona.it
+LIPX AD 2.5 SERVIZI PER I PASSEGGERI
+LIPX AD 2.5 PASSENGER FACILITIES
+1 Alberghi Alberghi in città
+ Hotels Hotels in town
+
+=== Page 6 ===
+AD 2 LIPX 1 - 6
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+2 Ristoranti 200 coperti
+ Restaurants 200 seats
+3 Trasporti Taxi, bus, autonoleggio
+ Transportation Taxi, bus, car rental
+4 Servizio medico Pronto soccorso, medico, ambulanza
+Ospedale a Verona città (km 12) e Villafranca (km 6)
+ Medical facilities First aid, doctor, ambulance
+Hospital in Verona city (km 12) and Villafranca (km 6)
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks NIL
+LIPX AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIPX AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 8 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Numero e tipologia di veicoli, tipologia e quantità di estinguente ed attrezzature
+conformi a CAT 8 ICAO
+ Rescue equipment Type and number of RFFS vehicles, type and amount of extinguishing agents and
+rescue equipment compliant with CAT 8 ICAO
+3 Rimozione aeromobili in difficoltà Coordinatore operazioni aeroportuale:
+Capo Scalo di Servizio
+Tel.: +39 045 8095938
+E-mail: CSS@AEROPORTOVERONA.IT
+Capacità di rimozione aeromobile in difficoltà fino a codice F
+ Capability for removal of disabled aircraft Aerodrome coordinator of operations:
+Duty Airport Supervisor
+Tel.: +39 045 8095938
+E-mail: CSS@AEROPORTOVERONA.IT
+Capability to remove a disabled aircraft up to code F
+4 Note 1. Test operativi dei veicoli dei vigili del fuoco sono effettuati tutti i giorni HR
+0800-0900 (0700-0800) e 2000-2100 (1900-2000)
+ Remarks 1. Fire brigade vehicle functional test performed daily HR 0800-0900 (0700-0800)
+and 2000-2100 (1900-2000)
+LIPX AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIPX AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura 1) Equipaggiamenti del Gestore aeroportuale:
+   a) 2 spazzatrici aspiranti con doppio soffiante laterale e magnete
+   b) 2 spazzole aeroportuali con spazzola rotante, ventola soffiante e lama spalaneve
+   c) 2 mezzi per ssgombero neve con lama spalaneve da 4 metri e capacità di
+aspersione liquido (6000 L) e solido (4 metri cubi)
+   d) 5 lame spalaneve da 4 metri 
+2) Altri mezzi: a richiesta H24 nella stagione invernale
+ Types of clearing equipment 1) Aerodrome operator equipment:
+   a) 2 sweepers with extractor fan, double side blower and magnet
+   b) 2 runway snow sweeper with broom, air blower and snow plow
+   c) 2 snow removal vehicles equipped with a4 metres wide snow plow and liquid
+capacity (6000 L) and solid (4 cubic metres)
+   d) 5 snow plow (4 metres wide)
+2) Other vehicles: on request H24 during winter season
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIPX 1 - 7
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+2 Priorità 1) Pista 04/22
+2) Taxiways P, K, W, Y
+3) Aree monitor e critiche ILS
+4) Viabilità interna di servizio alla Caserma VV.F.
+5) TURNPAD (solo in caso di voli ICAO codice D e superiori programmati nelle
+successive 24 ore)
+6) Apron
+7) Viabilità airside asservita all'Apron
+8) Cancelli di emergenza
+9) Viabilità landside asservita ai Terminal
+10) Viabilità interna asservita al Deposito Rifornitori
+11) TURNPAD e taxiways B, C, F, T
+12) Bretella VV.F.
+ Clearance priorities 1) Runway 04/22
+2) Taxiways P, K, W, Y
+3) ILS critical areas
+4) Fire Brigade vehicle road
+5) TURNPAD (only in case of flights with ICAO code D aircraft or larger scheduled
+within the following 24 hours)
+6) Apron
+7) Airside vehicle roads Apron related
+8) Emergency gates
+9) Landside vehicle roads Terminal related
+10) Fuelling deposit vehicle road
+11) TURNPAD and Taxiways B, C, F, T
+12) RFFS road
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. La rilevazione del coefficiente di aderenza della RWY 04/22 viene effettuata
+mediante "Surface Friction Tester Vehicle" equipaggiato con auto-umidificante. Il
+coefficiente di aderenza della pista viene misurato una volta al mese alla velocità
+di 65km/h.
+2. Interventi correttivi e di mantenimento sono eseguiti quando il coefficiente di
+aderenza è inferiore a: "Surface Friction Tester Vehicle" = 0.60.
+3. Il coefficiente minimo di frizione, al di sotto del quale la pista può essere scivolosa
+se bagnata, è: "Surface Friction Tester Vehicle" = 0.50.In questo caso sarà emesso
+NOTAM.
+4. Il coefficiente di aderenza non è diffuso.
+5. Utilizzo di materiali per il trattamento della pista: KFOR e NAFO.
+6. Diffusione del Runway Condition Report in conformità a ICAO Global Reporting
+Format.
+7. La rimozione della neve è garantita come da "Piano Sgombero Neve" del Gestore
+Aeroportuale.
+8. Piste invernali appositamente preparate: non applicabile.
+
+=== Page 8 ===
+AD 2 LIPX 1 - 8
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+ Remarks 1. The RWY 04/22 friction coefficient is measured with "Surface Friction Tester
+Vehicle" equipped with self-wetting. The RWY friction coefficient is measured once
+a month at a speed of 65 km/h.
+2. Corrective and maintenance actions are undertaken when the friction coefficient
+is below: "Surface Friction Tester Vehicle" = 0.60.
+3. The minimum friction coefficient, below which the RWY may be slippery when wet,
+is: "Surface Friction Tester Vehicle" = 0.50.In this circumstance NOTAM will be
+issued.
+4. Braking coefficient will not be disseminated.
+5. Use of material for movement area surface treatment: KFOR and NAFO.
+6. Runway Condition Report is disseminated according to ICAO Global Reporting
+Format.
+7. Snow removal is assured as per the "Snow Removal Plan" of the aerodrome
+operator.
+8. Specially prepared winter runways: not applicable.
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIPX 1 - 9
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPX AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIPX AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron CONC PCN 110/R/B/W/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+B 15 M ASPH PCN 73/F/A/W/T
+C 23 M ASPH PCN 120/F/A/W/T
+D NIL ASPH NIL
+E NIL ASPH NIL
+F 15 M ASPH PCN 73/F/A/W/T
+G NIL CONC/ASPH NIL
+K 28 M ASPH PCN 70/F/A/W/T
+N NIL CONC/ASPH NIL
+T 15 M ASPH PCN 73/F/A/W/T
+W 23 M ASPH PCN 67/F/A/W/T
+Y 30 M ASPH PCN 100/F/A/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note Il piazzale militare centrale, denominato MILITARY APRON, situato al centro della
+pista in posizione nord-ovest tra le taxiway  TC e TD, ha le seguenti caratteristiche:
+MILITARY APRON
+SUPERFICIE: CONC
+RESISTENZA PCN: 120/R/B/W/T
+TAXIWAY TC
+SUPERFICIE: ASPH
+RESISTENZA PCN: 58/F/X/C/T
+TAXIWAY TD
+SUPERFICIE: ASPH
+RESISTENZA PCN: 60/F/X/C/T
+ Remarks Central military apron located in the center of the runway north west position
+between taxiway TC and TD has following characteristics:
+MILITARY APRON
+SURFACE: CONC
+STRENGTH PCN: 120/R/B/W/T
+TAXIWAY TC
+SURFACE: ASPH
+STRENGTH PCN: 58/F/X/C/T
+TAXIWAY TD
+SURFACE: ASPH
+STRENGTH PCN: 60/F/X/C/T
+LIPX AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIPX AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi carte AD e APD in vigore
+ 
+
+=== Page 10 ===
+AD 2 LIPX 1 - 10
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See AD and APD charts in force
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carte AD e APD in vigore
+ RWY and TWY markings and lights See AD and APD charts in force
+3 Barre d'arresto Vedi carte AD e APD in vigore
+ Stop bars See AD and APD charts in force
+4 Note NIL
+ Remarks  
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIPX 1 - 11
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPX AD 2.10 OSTACOLI AEROPORTUALI
+LIPX AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIPX AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIPX AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24HR
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato
+IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language text
+IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Villafranca TWR, Milano ACC/FIC
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le nubi con altezza della base al di sotto di 9500ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 9500ft and
+cumulonimbus or towering cumulus with any base height are considered
+operatively relevant
+
+=== Page 12 ===
+AD 2 LIPX 1 - 12
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+LIPX AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIPX AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+04 045.69° 3068 x 45
+PCN 87/F/A/W/T
+BITUMCONG
+45°23'15.66''N
+010°52'36.72''E
+45°24'23.74''N
+010°54'15.76''E
+145.4  FT
+219.6  FT / 228.0 FT
+22 225.71° 3068 x 45
+PCN 87/F/A/W/T
+BITUMCONG
+45°24'14.46''N
+010°54'02.24''E
+45°23'14.35''N
+010°52'34.81''E
+146.3  FT
+238.2  FT / 238.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+04
+Vedi AOC in vigore/See AOC in
+force
+NIL 166 x 150 3188 x 300 90 x 90
+22
+Vedi AOC in vigore/See AOC in
+force
+NIL 277 x 150 3188 x 300 240 x 150
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+04 Si Yes 1) DTHR 58 m
+22
+Non applicabile
+Not applicable
+1) DTHR 411 m
+LIPX AD 2.13 DISTANZE DICHIARATE
+LIPX AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+04
+INT TAKE-OFF C
+3068
+2131
+3234
+2297
+3068
+2131
+3010
+-
+22
+INT TAKE-OFF F
+INT TAKE-OFF Y
+3068
+2512
+2669
+3345
+2789
+2946
+3068
+2512
+2669
+2657
+-
+-
+NOTE 1. Gli Intersection Take-off sono utilizzabili soltanto su richiesta del pilota o su richiesta della TWR previo benestare
+del pilota
+REMARKS 1. Intersection Take-off are usable only on pilot’s request or on TWR’s request, previous pilot’s agreement
+LIPX AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIPX AD 2.14 APPROACH AND RUNWAY LIGHTING
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIPX 1 - 13
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+04 CAT  II III 900 LIH G NIL 3°
+wing bar
+entrambi i lati/
+both sides
+ 
+20.2 900
+22 SALS 420 LIH G NIL 3°
+wing bar
+entrambi i lati/
+both sides
+ 
+17.5 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+04 2168
+600
+300
+15
+15
+15
+W
+W/R
+R
+LIH
+LIH
+LIH
+2468
+600
+60
+60
+W
+Y
+LIH
+LIH
+22 2168
+600
+300
+15
+15
+15
+W
+W/R
+R
+LIH
+LIH
+LIH
+410
+2058
+600
+60
+60
+60
+R
+W
+Y
+LIH
+LIH
+LIH
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+04 R NIL NIL NIL NIL 1) ALS CAT III + EFAS
+22 R NIL NIL NIL NIL NIL
+
+=== Page 14 ===
+AD 2 LIPX 1 - 14
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+LIPX AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIPX AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 45°22'58''N   010°52'56''E
+Caratteristiche: Caratteristiche: ABN a luci bianco/verdi alternate, omnidirezionale,
+intensità media 12500CD bianco, 7500CD verde
+Orario: H24
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 45°22'58''N   010°52'56''E
+Characteristics: Characteristics: ABN flashing white/green alternating lights,
+omnidirectional, medium intensity beacon, 12500CD white - 7500CD green
+Hours: H24
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 316 m dopo THR RWY 04, 158 m lato destro RCL
+2) 363 m dopo THR RWY 22, 152 m lato sinistro RCL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 316 m after THR RWY 04, 158 m right side RCL
+2) 363 m after THR RWY 22, 152 m left side RCL
+3 Illuminazione bordo e asse centrale TWY B,C,F,T,K,Y,W,P: asse centrale
+ TWY edge and center line lighting B,C,F,T,K,Y,W,P: centerline
+4 Alimentatore secondario/Tempo di 
+intervento
+AVBL/senza ritardo
+ Secondary power supply/Switch over time AVBL/without delay
+5 Note 1. Lampada per segnalazioni (tipo Salmoiraghi)
+2. Asse centrale RWY Turn Pad testata pista 04
+ Remarks 1. Signal lamp (Salmoiraghi type)
+2. THR04 RWY turn pad centreline
+LIPX AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIPX AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIPX 1 - 15
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPX AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIPX AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Verona Villafranca ATZ
+Circular area centered on
+45°23'38"N 010°53'00"E
+within a 3.0 NM radius.
+2000 FT
+AMSL
+D
+Villafranca TWR
+EN/IT
+6000 FT 1) WI Verona CTR
+LIPX AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIPX AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 H24
+NIL
+APP Milano Radar 135.900 H24 NIL
+APP Milano Radar 124.250 vedi note/see remarks
+1) Frequenza a discrezione ATC/ATC
+discretion frequency
+TWR Villafranca GND 121.755 Vedi note/See remarks
+1) A discrezione ATC/ATC discretion
+2) Spaziatura 8.33 KHz/8.33 KHz
+channel spacing
+TWR Villafranca TWR 118.650 H24 NIL
+ATIS
+Verona Arrival and
+Departure Information
+CH 124.130 H24
+1) Disponibile via tel/available by tel:
++39 0412612404
+2) Spaziatura 8.33 KHz/8.33 KHz
+channel spacing
+LIPX AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIPX AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+
+=== Page 16 ===
+AD 2 LIPX 1 - 16
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+DVOR/DME
+(3° E-2020.0)
+BOA
+117.10
+MHZ
+CH 118X
+DVOR H24
+DME H24
+DVOR
+44°32'13.3''N
+011°17'26.4''E
+DME
+44°32'13.2''N
+011°17'26.9''E
+43 M
+AMSL
+DVOR
+50 NM/40000 FT
+DME
+060°/270° 50 NM/40000 FT
+270°/030° 95 NM/40000 FT
+030°/060° 120 NM/40000 FT
+DVOR/DME
+limitazioni a/limitations at 40
+NM
+000°/060° MRA 6000 FT
+060°/120° MRA 5000 FT
+120°/170° MRA 8000 FT
+170°/300° MRA 9000 FT
+300°/360° MRA 7000 FT
+1) MAINT:
+Secondo TUE di ogni
+mese/second TUE of
+each month: 1330-1500
+(1230-1400)
+DVOR/DME
+(3° E-2022.0)
+BRL
+111.05
+MHZ
+CH 47Y
+DVOR H24
+DME H24
+DVOR
+45°40'23.0''N
+009°40'54.1''E
+DME
+45°40'23.3''N
+009°40'53.6''E
+246 M
+AMSL
+60 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+060°/100° MRA 8000 FT
+100°/300° MRA 6000 FT
+300°/060° MRA 12000 FT
+1) VOR MAINT:
+Primo MON di OCT / First
+MON of OCT: 0730-0900
+(0630-0800)
+2) DME MAINT:
+Primo MON di APR e
+OCT/ First MON of APR
+and OCT: 0730-0900
+(0630-0800)
+DVOR/DME
+(3° E-2022.0)
+BSM
+115.65
+MHZ
+CH 103Y
+DVOR H24
+DME H24
+DVOR
+45°26'21.4''N
+010°19'10.3''E
+DME
+45°26'21.7''N
+010°19'10.6''E
+116 M
+AMSL
+60 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+070°/310° MRA 5000 FT
+310°/070° MRA 10000 FT
+1) MAINT: Terzo TUE
+di/third TUE of FEB
+e/and AUG 0900-1100
+(0800-1000)
+ILS RWY 04 LOC
+CAT IIIB
+(1° E-2005.0)
+IVRN
+111.75
+MHZ
+H24
+45°24'27.8''N
+010°54'21.7''E
+NIL NIL
+1) Fascio posteriore non
+utilizzabile/Back beam
+not usable
+2)MAINT:
+MAY-OCT ogni/every TUE
+0900-1100 (0800-1000)
+NOV-APR ogni/every TUE
+1000-1200 (0900-1100)
+Secondo/second TUE di/
+of JUL e/and OCT
+0900-1300 (0800-1200)
+Secondo/second TUE di/
+of JAN e/and APR
+1000-1400 (0900-1300)
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIPX 1 - 17
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+DME IVRN CH 54Y H24
+45°23'26.1''N
+010°52'41.9''E
+77 M
+AMSL
+25 NM/10000 FT
+limitazioni a/limitations at 25
+NM
+055°/090° MRA 4000 FT
+090°/240° MRA 2000 FT
+240°/270° MRA 4000 FT
+270°/055° MRA 9000 FT
+1)MAINT:
+Secondo/second THU di/
+of MAR,  JUN, SEP
+e/and DEC 1300-1530
+(1200-1430)
+2)Funzionalità Final
+approach non
+utilizzabile. Per maggiori
+informazioni vedi GEN
+3.4/Final approach mode
+not usable. For more
+information see GEN 3.4
+GP -
+333.35
+MHZ
+H24
+45°23'25.6''N
+010°52'42.3''E
+NIL NIL
+1)MAINT: MAY-OCT ogni/
+every TUE 0900-1100
+(0800-1000) NOV-
+APR ogni/every TUE
+1000-1200 (0900-1100)
+Secondo/second TUE di/
+of JUL e/and OCT
+0900-1300 (0800-1200)
+Secondo/second TUE di/
+of JAN e/and APR
+1000-1400 (0900-1300)
+Slope 3°
+RDH: 17.45 M
+MM -
+75.00
+MHZ
+H24
+45°22'55.1''N
+010°52'07.4''E
+NIL NIL
+1)MAINT:
+MAY-OCT ogni/every TUE
+1330-1430 (1230-1330)
+NOV-APR ogni/every TUE
+0830-0930 (0730-0830)
+Secondo/second TUE di/
+of MAY e/and AUG
+1330-1600 (1230-1500)
+Secondo/second TUE di/
+of FEB e/and NOV
+0730-1000 (0630-0900)
+VOR/DME
+(3° E-2020.0)
+SRN
+113.70
+MHZ
+CH 84X
+VOR H24
+DME H24
+VOR
+45°38'45.5''N
+009°01'17.7''E
+DME
+45°38'45.4''N
+009°01'17.1''E
+240 M
+AMSL
+100 NM/50000 FT
+limitazioni a/limitations at 40
+NM
+000°/070° MRA 13000 FT
+070°/090° MRA 10000 FT
+090°/260° MRA 4000 FT
+260°/360° MRA 12000 FT
+1) MAINT:
+Secondo THU di ogni
+mese / second THU
+each month: 0830-1130
+(0730- 1030)
+
+=== Page 18 ===
+AD 2 LIPX 1 - 18
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(3° E-2020.0)
+TZO
+117.25
+MHZ
+CH 119Y
+VOR H24
+DME H24
+VOR
+45°33'33.2''N
+009°30'25.2''E
+DME
+45°33'33.5''N
+009°30'25.6''E
+160 M
+AMSL
+60 NM/50000 FT
+limitazioni a/limitations at 40
+NM
+020°/050° MRA 12000 FT
+050°/080° MRA 10000 FT
+080°/100° MRA 5000 FT
+100°/250° MRA 4000 FT
+250°/320° MRA 6000 FT
+320°/020° MRA 14000 FT
+1) MAINT:
+Quarto THU di ogni
+mese / fourth THU
+each month: 0830-1130
+(0730-1030)
+VORTAC
+(1° E-2005.0)
+VIL
+115.80
+MHZ
+CH 105X
+VOR H24
+TACAN H24
+VOR
+45°24'28.4''N
+010°54'22.5''E
+TACAN
+45°24'29.5''N
+010°54'24.0''E
+82 M
+AMSL
+60 NM/40000 FT
+limitazioni a/limitations at 40
+NM
+060°/110° MRA 6500 FT
+110°/140° MRA 4000 FT
+140°/160° MRA 10000 FT
+160°/270° MRA 4000 FT
+270°/300° MRA 7000 FT
+300°/060° MRA 16500 FT
+1) MAINT:
+Secondo e quarto WED
+di ogni mese/second and
+fourth WED each month:
+0800-1000 (0700-0900)
+LIPX AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIPX AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+1.1. La pista 04 è usata quale pista preferenziale per i decolli e gli
+atterraggi.
+1.1. Runway 04 is regarded as preferential runway for take-offs and
+landings.
+1.2. L’ATC considera la sopra citata pista come preferenziale a patto
+che la componente di vento sia:
+MAX 09 kt di vento stabile e misurato in coda.
+Tale criterio preferenziale non troverà applicazione quando la
+componente in coda del vento superi il limite dato
+1.2. ATC will use the above preferential RWY according to the following
+wind component:
+MAX 09 kt steady and measured tail wind component.
+Such preferential criterion will not be applied when the tail wind
+component is greater than given limit.
+1.3. Se la RWY indicata dall’ATC non fosse ritenuta idonea alle
+operazioni desiderate, i piloti potranno richiedere    l’autorizzazione ad
+usare un’altra pista; in tal caso l’aeromobile potrà essere soggetto a
+ritardi.
+1.3. If the RWY selected by ATC is not considered suitable for the
+operation desired, pilots may request permission to use a different
+runway; in such case the aircraft may be subject to delay.
+2 Apron
+Ordinato movimento degli aeromobili sui piazzali
+2 Apron
+Orderly movement of aircraft on aprons
+L'ordinato movimento degli aeromobili sul piazzale è assicurato in
+collaborazione tra ENAV S.p.A. e il gestore aeroportuale in accordo alle
+disposizioni del Codice della Navigazione (Articolo 691bis e 705) con
+le seguenti modalità:
+The orderly movement of traffic on apron is provided in cooperation
+with ENAV S.p.A. (Italian Company for Air Navigation) and the
+aerodrome operator according to Italian Air Navigation law provisions
+(Articles 691bis and 705) as follows:
+2.1 Orario di Servizio 2.1 Operational hours
+H24 H24
+2.2 Nominativo di chiamata e frequenza 2.2 Call sign and frequency
+a. Villafranca GND: 121.750 MHz (in caso di mancata risposta
+contattare la TWR 118.650 MHz)
+b. Gestore Aeroportuale (nominativo: Villa Apron):
+131.500 MHz
+a. Villafranca GND: 121.750 MHz (in case of no replay contact TWR
+118.650 MHz)
+b. Aerodrome Operator (call sign: Villa Apron):
+131.500 MHz
+2.3 Area di applicazione 2.3 Area di applicazione
+a. Piazzale Principale (1)
+b. Piazzali Militari (2)
+a. Main Apron (1)
+b. Military Aprons (2)
+NOTE
+(1) vedi AD 2 LIPX APDC
+REMARKS
+(1) see AD 2 LIPX APDC
+
+=== Page 19 ===
+AIP - Italia
+AD 2 LIPX 1 - 19
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+(2) I Piazzali Militari sono soggetti a regolamentazione
+speciale (vedere seguente punto 2.7)
+(2) Military Aprons are subject to special regulation (see
+following point 2.7)
+2.4 Servizi forniti 2.4 Services provided
+a. Aeromobili in partenza:
+• istruzioni per il push-back e/o rullaggio.
+b. Aeromobili in arrivo:
+• istruzioni per il rullaggio
+• assegnazione parcheggi
+c. Follow-me
+L’assistenza del follow-me è obbligatoria sul piazzale principale:
+• con valori di RVR inferiori a 400 m;
+• per elicotteri.
+d. Marshalling:
+è assicurato per tutti gli aeromobili in da/per il piazzale principale.
+a. Departing aircraft:
+• push-back and/or taxiing instructions.
+b. Arriving aircraft:
+• taxiing instructions
+• stand allocation
+c. Follow-me
+Follow-me assistance is mandatory on main apron:
+• with RVR less than 400 m;
+• for helicopters.
+d. Marshalling:
+it is assured for all aircraft from/to main apron.
+2.5 Limitazioni/regolamentazioni sul Piazzale Principale 2.5 Limitations/regulations on Main apron
+Aeromobili in partenza:
+a. dovranno ricevere il segnale “all clear” dallo staff di terra prima di
+richiedere a Villafranca TWR l’autorizzazione allo start-up;
+b. riceveranno lo start-up soltanto dopo la comunicazione “AIRCRAFT
+READY” da parte del Gestore Aeroportuale all’ATC.
+Departing aircraft:
+a. shall receive the signal “all clear” from ground staff before
+requesting start-up clearance to Villafranca TWR;
+b. start-up will be provided only after ATC has received “AIRCRAFT
+READY” communication by Airport Operator.
+NOTA
+Lo stato di "AIRCRAFT READY" significa:
+• porte e stive sono chiuse;
+• Aircraft Safety Area libera da persone, mezzi,
+equipaggiamenti e ostacoli;
+• l’aeromobile è completamente pronto al rullaggio;
+• è stata consegnata all’handler la documentazione prevista
+• trattore per il push-back connesso (nose-in stand).
+REMARK
+"AIRCRAFT READY" status means:
+• aircraft doors and holds are closed;
+• Aircraft Safety Area clear from vehicles, equipment,
+obstacles and ground personnel;
+• aircraft fully ready for taxi;
+• compulsory documentation provided to handler
+• push-back tractor connected (nose-in stand).
+2.6 Movimentazione sui piazzali 2.6 Traffic movement on aprons
+a. Piazzale principale:
+gli stands degli aeromobili possono essere raggiunti via:
+• Apron TWY P: piazzole da 31 a 37;
+• Apron Taxilane R: piazzole da 11 a 14 e da 21 a 23;
+• Apron Taxilane M: piazzole da 41 a 47;
+• Apron Taxilane J: piazzole da 51 a 57 e 48.
+b. Piazzole Self-manoeuvring:
+l’uscita dallo stand avviene attraverso la Apron Taxilane M.
+c. Piazzole Push-back:
+la manovra termina sugli IHP M1/M2, IHP J1 o IHP R1.
+Prima di iniziare le operazioni, i piloti devono richiedere
+l’approvazione a Villafranca TWR.
+La manovra è eseguita sotto la responsabilità del pilota e degli
+operatori di handling.
+a. Main apron:
+aircraft stands may be reached via:
+• Apron TWY P: stands from 31 to 37;
+• Apron Taxilane R: stands from 11 to 14 and from 21 to 23;
+• Apron Taxilane M: stands from 41 to 47;
+• Apron Taxilane J: stands from 51 to 57 and 48.
+b. Self-manoeuvring stands:
+stand exit through Apron Taxilane M.
+c. Push-back stands:
+the manoeuvre ends on IHP M1/M2, IHP J1 or IHP R1.
+Before starting operations, pilots must request approval to
+Villafranca TWR.
+The manoeuvre is performed under pilot and handling operators
+responsibility.
+2.7 Piazzali a regolamentazione speciale 2.7 Apron subject to special regulation
+a. I Piazzali Militari sono gestiti da Aeronautica Militare;
+b. l’assistenza del follow-me è obbligatoria sui piazzali sino alla TWY T;
+c. i piloti degli aeromobili in partenza devono richiedere a Villafranca
+TWR l’autorizzazione a muovere dalla posizione di parcheggio
+quando pronti a rullare a seguito del follow-me.
+a. Military Aprons are managed by Italian Air Force;
+b. follow-me assistance is mandatory on Aprons until TWY T;
+c. pilots of departing aircraft shall request to Villafranca TWR the
+permission to move from the parking position when ready to taxi
+behind follow-me.
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+3.1. TWY W utilizzabile in entrambe le direzioni (uscita/entrata pista/
+piazzale)
+3.1. TWY W is usable in both directions (exit/entrance runway/apron)
+
+=== Page 20 ===
+AD 2 LIPX 1 - 20
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+3.2. TWY B, F e T utilizzabili per operazioni di aeromobili fino a codice
+ICAO D con Outer Main Gear Wheel Span (OMGWS) fino a 9m esclusi
+e wheel base fino a 18m esclusi
+3.2. TWYs B, F and T are available for operations of aircraft up to ICAO
+D with Outer Main Gear Wheel Span (OMGWS) up to but not including
+9m and wheel base up to but not including 18m
+3.3. TWY Y utilizzabile solo in entrata dal piazzale alla pista 3.3. TWY Y is available as entry from apron to runway only
+3.4. Il follow-me è obbligatorio per aeromobili di codice ICAO F 3.4. Follow-me is mandatory for aircraft ICAO code F
+3.5. Durante il rullaggio sulla apron TWY P, gli aeromobili di codice
+ICAO F devono tenere il motore esterno alla minima potenza
+3.5. ICAO Code F aircraft during taxiing on apron TWY P must keep
+external engine on idle power
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+4.1 Minime operative di aeroporto 4.1 Aerodrome operating minima
+Per pista 04 sono consentite operazioni di:
+• atterraggio con RVR pari o superiore a 75 m;
+• decollo con RVR pari o superiore a 550 m sul trasmissometro stop
+END o trasmissometro più prossimo.
+Per pista 22 sono consentite operazioni di:
+• atterraggio con RVR pari o superiore a 1500 m su tutti
+i trasmissometri;
+• decollo con RVR pari o superiore a 75 m sul trasmissometro stop END
+o trasmissometro più prossimo.
+In caso di indisponibilità di tutti i valori RVR, non sono
+consentite operazioni di volo con visibilità inferiore a 550 m, ad
+eccezione dell'atterraggio per pista 22 non consentito con visibilità
+inferiore a 1500 m.
+For runway 04 the following operations are allowed:
+•  landing with RVR equal to or greater than 75 m;
+•  take-off with RVR equal to or greater than 550 m on the stop END
+transmissometer or nearest transmissometer.
+For runway 22 the following operations are allowed:
+•  landing with RVR equal to or greater tha 1550 m on all
+transmissometers;
+•  take-off with RVR equal to or greater than 75 m on the stop END
+transmissometer or nearest transmissometer.
+In case of unavailability of all RVR values, flight operations with
+visibility less than 550 m are not allowed, except that landing for
+runway 22 is not allowed with visibility less than 1500 m.
+4.1.1 Minime operative per il rullaggio 4.1.1 Taxiing minima
+Con RVR pari a 75 m è  consentita la movimentazione di un solo
+aeromobile alla volta con l’assistenza del follow-me.
+Con RVR inferiore a 75 m è  consentita la movimentazione di un solo
+aeromobile con l’assistenza del follow-me verso gli stand.
+With RVR of 75 m, only one aircraft is allowed to move at a time with
+follow-me assistance.
+With RVR less than 75 m, only one aircraft is allowed to move with
+follow-me assistance to the stands.
+4.2 Movimentazione al suolo (Rif. LVP Chart) 4.2 Ground movement (Ref. LVP Chart)
+In condizioni di scarsa visibilità è prevedibile una riduzione
+della capacità aeroportuale a causa delle restrizioni applicate alla
+movimentazione al suolo
+In case of poor visibility conditions a reduced airport capacity can be
+expected due to restrictions applied on ground movements.
+Qualora le condizioni meteorologiche siano tali da non permettere alla
+TWR il monitoraggio visivo di tutta o parte dell’area di manovra, la
+movimentazione degli aeromobili sarà ridotta ad un solo movimento
+alla volta nella porzione di area di manovra che non è  visibile dalla
+TWR. 
+Quando il valore di RVR misurato in uno qualsiasi dei trasmissometri
+disponibili, è  inferiore a 550 m, è  consentita la movimentazione di un
+aeromobile alla volta in accordo ai seguenti percorsi:
+Whenever meteorological conditions are such that all or part of the
+manoeuvring area cannot be visually monitored from the TWR, ground
+movements shall be reduced at one aircraft at a time in the portion of
+the manoeuvring area that is not visible from the TWR.
+When the RVR value measured in any of the available
+transmissometers is less than 550 m, only one aircraft movement at
+a time is allowed according to the following paths:
+a. Aeromobile in arrivo
+L' aeromobile in arrivo deve liberare la pista 04 sulla TWY K.
+Con RVR inferiore a 400 m:
+• per il piazzale principale procede al seguito del followme allo stand
+assegnato;
+• per il piazzale militare procede al seguito del follow-me sulla Apron
+TWY P al RHP P e dopo autorizzazione ATC entra in pista via TWY
+Y, libera la pista via TWY C attraversa la TWY T sino al piazzale
+militare centrale o via TWY T e TWY TB fino al piazzale militare
+area sud.
+a. Arriving aircraft
+Landing aircraft shall vacate the RWY 04 via TWY K.
+With RVR less than 400 m:
+• to main apron will proceed behind the follow-me vehicle to the
+assigned stand;
+• to military remote stand will proceed behind the follow-me vehicle
+via Apron TWY P to RHP P and after ATC clearance will enter the
+RWY via TWY Y, vacate the RWY via TWY C and cross TWY T to
+military apron or via TWY T and TWY TB to south area central
+military apron.
+b. Aeromobile in partenza
+L'aeromobile deve accedere alla pista 22:
+• dal piazzale principale via TWY K;
+• dal piazzale militare attraversa o percorre un tratto di TWY T
+prosegue sulla TWY C sino all'RHP C e dopo autorizzazione ATC
+entra in pista, libera via TWY W e procede sulla Apron TWY P sino
+all'RHP K sulla TWY K.
+b. Departing aircraft
+Aircraft shall enter RWY 22:
+• from main apron via TWY K;
+• from military apron cross or travel through TWY T, proceed on TWY
+C till RHP C and after ATC clearance enter onto the RWY, vacate
+via TWY W and proceed on Apron TWY P to RHP K on TWY K.
+c. Mancati decolli:
+in caso di mancato decollo, l'aeromobile prosegue il rullaggio fino
+alla testata pista RWY04 utilizzando il turn pad per l'inversione e
+prosegue verso il piazzale aeromobili secondo le istruzioni di ATC.
+c. Aborted take-off:
+in case of aborted takeoff, the aircraft is to taxi on therunway until
+THR04, use the turn pad to perform a 180-degree turn and proceed
+to the apron following ATC instructions.
+
+=== Page 21 ===
+AIP - Italia
+AD 2 LIPX 1 - 21
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+d. L’assistenza del follow-me è obbligatoria sul piazzale principale con
+valori di RVR inferiori a 400 m.
+d. Follow-me assistance is mandatory on main apron with RVR less
+than 400 m.
+e. L’assistenza del Follow-me sul piazzale militare è sempre
+obbligatoria.
+e. Follow-me assistance on military apron is always mandatory.
+f.Obblighi di riporto
+In condizioni di visibilità ridotta tutti i piloti devono riportare a
+Villafranca TWR:
+• raggiunto le RHP/IHP, qualora non diversamente istruiti dalla
+TWR;
+• la pista libera non appena liberata l’area sensibile dell’ILS
+identificata dalla fine dell’alternanza di luci verdi/gialle delle luci
+asse TWY;
+• raggiunto lo stand assegnato.
+f.Mandatory reports
+In reduced visibility conditions all pilots shall report to Villafranca
+TWR:
+• arriving aircraft/aborted take-off, from TWY K to the stand
+• when ILS sensitive area has been vacated as identified by the end
+of the green/yellow colour coded TWY centerline lights;
+• reaching the stand.
+4.3 Contingencies 4.3 Contingencies
+NIL NIL
+4.4 Avaria radio sull’area di manovra 4.4 Radio failure on the manoeuvring area
+Vedi tabella 20.8 See table 20.8
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+Al fine di garantire un' occupazione minima di RWY, se
+non diversamente istruiti da 'Villafranca TWR':
+In order to guarantee minimum RWY occupancy, unless otherwise
+instructed by 'Villafranca TWR':
+1. Aeromobili in partenza
+• per quanto possibile, i controlli pre-volo devono essere completati
+prima dell’ allineamento, altri controlli dopo l’ allineamento devono
+essere effettuati il più rapidamente possibile
+• i piloti devono rispettare l'autorizzazione ATC per l'allineamento
+senza alcun ritardo
+• la corsa di decollo deve iniziare immediatamente dopo
+l'autorizzazione al decollo.
+1. Departing aircraft
+• as far as possible, pre-flight checks shall be completed before line-
+up, other checks after lineup shall be carried out as quickly as
+possible
+• pilots shall comply with ATC clearance to line-up without any delay
+       
+• take-off run shall start immediately after take-off clearance.
+Se non sono in grado di conformarsi, i piloti devono informare
+'Villafranca TWR' prima di allinearsi
+If unable to comply, pilots shall inform 'Villafranca TWR' prior to lining-
+up
+2. Aeromobili in arrivo
+• devono liberare la pista il più rapidamente possibile.
+2. Arriving aircraft
+• shall vacate the runway as quickly as possible.
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. L’Apron e la parte principale della Apron TWY P, fino alla posizione
+di attesa RWY 22 esclusa, non sono visibili dalla torre per la presenza
+di ostacoli
+6.1. Apron and main portion of Apron TWY P, up to holding position
+RWY 22 excluded, are not visible from the TWR due to obstruction
+6.2. In caso di dirottamento sull’aeroporto di Verona Villafranca, i voli
+commerciali e di Aviazione Generale saranno accettati dal Gestore
+Aeroportuale secondo la disponibilità degli stands. I voli di linea hanno
+la priorità circa la disponibilità degli stands
+6.2. In case of diversion to Verona Villafranca AD, commercial and
+General Aviation flights will be accepted by the Aerodrome Operator
+in accordance with aircraft stands availability. Scheduled flights have
+priority concerning aircraft stands availability
+6.3. Disposizioni per aeromobili di Stato e militari
+Generalità:
+Tutti i voli di Stato e militari devono contattare in anticipo uno dei
+seguenti agenti di Handling al fine di ottenere assistenza a terra:
+6.3. Provisions for State and Military aircraft
+General:
+All State and Military flights must contact in advance one of the
+following handling agents in order to obtain ground assistance:
+a. AGS HANDLING
+Orario operativo: H24 per i voli di linea
+e-mail: opsvrn@agshandling.it
+tel e fax: +39 045 8095381
+cell: +39 348 2873237
+b. DELTA AEROTAXI
+Orario operativo: 0800-2000; H24 su richiesta
+e-mail: verona@deltaflr.it
+cell: +39 327 9099301
+c. GH VERONA
+Orario operativo: H24 per i voli di linea
+e-mail: ops-ctrl@ghverona.it
+SITA: VRNKOXH
+tel: +39 045 8095679
+d. SKY SERVICES
+Orario operativo: 0800-2000; H24 su richiesta
+e-mail: vrn@skyservices.it
+nominativo di frequenza: SKY SERVICES VERONA
+a. AGS HANDLING
+Operating hours: H24 for scheduled flights
+e-mail: opsvrn@agshandling.it
+tel and fax: +39 045 8095381
+mobile: +39 348 2873237
+b. DELTA AEROTAXI
+Operating hours: 0800-2000; H24 on request
+e-mail: verona@deltaflr.it
+mobile: +39 327 9099301
+c. GH VERONA
+Operating hours: H24 for scheduled flights
+e-mail: ops-ctrl@ghverona.it
+SITA: VRNKOXH
+tel: +39 045 8095679
+d. SKY SERVICES
+Operating hours: 0800-2000; H24 on request
+e-mail: vrn@skyservices.it
+frequency call sign: SKY SERVICES VERONA
+
+=== Page 22 ===
+AD 2 LIPX 1 - 22
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+FREQ: 131.900 MHz
+tel: +39 045 8600870/8095823
+cell: +39 393 0135673
+FREQ: 131.900 MHz
+tel: +39 045 8600870/8095823
+mobile: +39 393 0135673
+6.4. Limitazioni per aeromobili ICAO codice D e E in arrivo e partenza
+Percorsi di rullaggio per/da gli apron militari:
+6.4. Limitations for arriving and departing aircraft ICAO code D and E
+Taxiing routing to/from military apron:
+• In caso di utilizzo della RWY04, l'aeromobile in arrivo diretto al
+piazzale militare, libera via TWY K perraggiungere la RHP P e, dopo
+l'autorizzazione ATC, procede via TWY Y in pista e libera via TWY C
+fino al piazzale militare.
+• In caso di utilizzo della RWY04, l'aeromobile in partenza dal piazzale
+militare, dopo autorizzazione ATC, entra in pista via TWY C, effettua
+il backtrack fino alla testata pista RWY04 utilizzando il turn pad per
+l'allineamento RWY04.
+• In case of use of RWY 04, an arriving ACFT headingto themilitary
+apron is to vacate via TWY K, reach RHP P and, after ATC clearance,
+procede onto the RWY via TWY Y, vacate via TWY C and proceed to
+the military apron.                           
+• In case of use of RWY 04, an ACFT departing from the military
+apron is to proceed after ATC clearance via TWY C onto the RWY and
+backtrack until THR04, use the turn pad to perform a 180-degree
+turn to line up on RWY04.
+• In caso di utilizzo della RWY22, l'aeromobile in arrivo diretto al
+piazzale millitare, prosegue il rullaggio fino alla testata pista RWY04
+ove effettua l'inversione su turn pad per successivo back track fino
+a TWY C ove libera la pista proseguendo il rullaggio fino al piazzale
+militare.
+• In caso di utilizzo della RWY22, l'aeromobile in partenza dal piazzale
+militare, dopo autorizzazione ATC, entra in pista via TWY C, prosegue
+il rullaggio sulla RWY04 e libera via TWY W fino al RHP K.
+• In case of use of RWY22, an arriving ACFT heading to the military
+apron is to proceed on the runway until THR04, use the turn pad
+to perform a 180-degree turn and backtrack on the RWY, vacate via
+TWY C and proceed to the military apron.
+• In case of use of RWY22, an ACFT departing from the military apron
+is to proceed after ATC clearance via TWY C onto the runway, taxi
+via RWY04, vacate via TWY W and proceed to RHP K.
+6.5. Le operazioni di aeromobili di codice ICAO F sono vietate eccetto
+che per An124-100 consentite con le seguenti limitazioni:
+• uso del follow-me obbligatorio
+• dopo atterraggi o decolli di un aeromobile tipo An124-100
+deve essere effettuata obbligatoriamente un'ispezione dal gestore
+aeroportuale prima di ogni altro movimento
+• durante il rullaggio i motori esterni devono essere tenuti al minimo
+• percorsi di rullaggio:
+6.5. Operations with ACFT ICAO code F forbidden except type
+An124-100 allowed with following limitations:
+• use of follow-me vehicle is mandatory
+• after landing or take-off of aircraft type An124-100 the inspection of
+RWY 04/22 by AD operator is mandatory before other movements
+• during taxiing external engines must be kept on idle power
+• taxiing routing:
+RWY 04
+• L'aeromobile in arrivo diretto al piazzale principale libera la pista via
+TWY K fino all'aircraft stand 53 oppure 55.
+• L'aeromobile in arrivo diretto al piazzale militare libera la pista via
+TWY K fino a raggiungere la RHP P e, dopo l'autorizzazione ATC,
+entra nella RWY22 via TWY W, prosegue il rullaggio per RWY22 e
+libera via TWY C fino al piazzale militare.
+• L'aeromobile in partenza dal piazzale principale è trainato sulla ACFT
+taxilane J all'IHP J1 e successivamente, dopo autorizzazione ATC,
+entra in pista via TWY K ed effettua il backtrack fino alla testata pista
+RWY04 utilizzando il turn pad per effettuare l'allineamento RWY04.
+• L'aeromobile in partenza dal piazzale militare, dopo autorizzazione
+ATC, entra in pista via TWY C, effettua il backtrack fino alla testata
+pista RWY04 utilizzando il turn pad per effettuare l'allineamento
+RWY04.
+RWY 04
+• An arriving ACFT heading to the main apron is to vacate the runway
+via TWY K and proceed to stand 53 or stand 55.
+• An arriving ACFT heading to the military apron is to
+vacate via TWY K, reach RHP P and, after ATC clearance, proceed
+via TWY W onto the runway, taxi on RWY22, vacate via TWY C and
+proceed to the military apron.
+• An ACFT departing from the main apron is towed onto aircraft
+taxilane J to IHP J1 and then from RHP K, after ATC clearance, the
+aircraft is to backtrack on the runway until THR04 and use the turn
+pad to perform a 180-degree turn to line up on RWY04.
+• An ACFT departing from the military apron is to proceed after ATC
+clearance via TWY C onto the runway, backtrack on the runway until
+THR04 and use the turn pad to perform a 180-degree turn to line
+up on RWY04.
+RWY22
+• L'aeromobile in partenza dal piazzale principale viene trainato
+sulla taxilane J all'IHP J1 e dal RHP K, dopo autorizzazione ATC,
+effettua l'allineamento in pista via TWY K.
+• L'aeromobile in partenza dal piazzale militare, dopo autorizzazione
+ATC, entra nella RWY04 via TWY C, prosegue il rullaggio sulla RWY04
+e libera via TWY W fino al RHP K.
+• L'aeromobile in arrivo diretto al piazzale principale prosegue il
+rullaggio per pista RWY22 fino
+all'inversione su turnpad in testata RWY04, prosegue poi con il
+backtrack in pista e libera via TWY K fino allo stand 53 oppure 55.
+• L'aeromobile in arrivo diretto al piazzale militare prosegue il rullaggio
+in pista fino all'inversione su turn pad in testata RWY04, effettua poi
+il backtrack in pista e libera via TWY C fino al piazzale militare.
+RWY22
+• An ACFT departing from the main apron is towed onto taxilane J to
+IHP J1 and from RHP K, after ATC clearance, is to line up on the
+runway via TWY K.
+• An ACFT departing from the military apron is to proceed after ATC
+clearance via TWY C onto the runway, proceed on RWY04, vacate
+via TWY W and reach RHP K.
+• An arriving ACFT heading to the main apron is to proceed on the
+runway until THR04 and use the turn pad to perform a 180-degree
+turn, backtrack on the runway, vacate via TWY K and proceed to
+stand 53 or stand 55.
+• An arriving ACFT heading to the military apron is to proceed on the
+runway until THR04 and use the turn pad to perform a 180-degree
+turn, backtrack on the runway, vacate via TWY C and proceed to the
+military apron.
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+7.1 Generalità 7.1 General
+
+=== Page 23 ===
+AIP - Italia
+AD 2 LIPX 1 - 23
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+a. I voli di Aviazione Generale con codice ICAO “B” o superiore diretti
+all’aeroporto di Verona/Villafranca devono essere coordinati con
+Assoclearance
+a. General Aviation flights to Verona/Villafranca AD with aircraft ICAO
+code “B” or above must be coordinated with Assoclearance
+b. Tutti i voli di Aviazione Generale diretti all’aeroporto di Verona/
+Villafranca devono essere preventivamente accettati con PPR. La
+richiesta di autorizzazione deve essere presentata almeno 3 HR
+prima dell’orario stimato di arrivo (ETA) ad una soltanto delle società
+di handling sottoelencate e secondo le preferenze indicate nel punto
+7.2, specificando:
+• tipo di aeromobile
+• registrazione e/o call sign
+• orario stimato di arrivo (ETA)
+• orario stimato di partenza (ETD)
+• origine
+• destinazione
+b. All General Aviation flights to Verona/Villafranca AD must be
+previously accepted with PPR. The clearance request must be
+submitted at least 3 HR before the estimated time of arrival (ETA)
+only to one of the handling agent reported below and according to
+preferences provided in subpoint 7.2, sending:
+             
+• aircraft type
+• registration and/or call sign
+• estimated time of arrival (ETA)
+• estimated time of departure (ETD)
+• origin
+• destination
+c. Si richiede ai voli di Aviazione Generale di indicare i seguenti dati
+nell’item 18 del FPL:
+• conferma del PPR da parte della società di handling
+• società di handling scelta per l’assistenza a terra
+c. General Aviation flights are requested to indicate the following data
+in item 18 of the FPL:
+• PPR confirmation by the handling agent
+• handling agent chosen for the ground assistance
+d. Ogni richiesta circa l’estensione dell’autorizzazione aeroportuale
+concessa deve essere avanzata in tempo debito alla società di
+handling; in caso di indisponibilità degli stand, l’operatore deve
+rispettare l’autorizzazione precedentemente concessa
+d. Any request concerning extension of assigned AD clearance must
+be forwarded in due time to handling agent; in case of stand
+unavailability, the operator must respect the clearance previously
+assigned
+7.2. Società di handling per i voli di Aviazione Generale
+a. AGS HANDLING
+• OPR HR: H24 O/R
+• email: opsvrn@agshandling.it
+• tel/fax: +39 045 8095381
+• SITA: VRNAGXH
+• cellulare: +39 348 2873237
+• VHF FREQ: 131.615MHz
+• servizi forniti: handling passeggeri e merci
+b. ARGOS V.P.H.
+• OPR HR: H24 O/R
+• email: Verona lipx@aviavip.com
+• email: Centro controllo operazioni H24 Roma occ@aviavip.com
+• tel: Centro controllo operazioni H24 Roma +39 06 79340563
+• cellulare: Verona +39 344 2456120
+• cellulare: Centro controllo operazioni H24 Roma +39
+3487476727 / +39 3492967775
+c. DELTA AEROTAXI
+• OPR HR: 0800-2000; H24 O/R
+• e-mail: verona@deltaflr.it
+• cellulare: +39 327 9099301
+d. GH VERONA
+• OPR HR: H24 O/R
+• email: ops-ctrl@ghverona.it
+• tel: +39 045 8095679
+• SITA: VRNKOXH
+• VHF FREQ: 131.675MHz
+• servizi forniti: handling passeggeri e merci
+7.2. Handling agents for General Aviation flights
+a. AGS HANDLING
+• OPR HR: H24 O/R
+• email: opsvrn@agshandling.it
+• phone/fax: +39 045 8095381
+• SITA: VRNAGXH
+• mobile phone: +39 348 2873237
+• VHF FREQ: 131.615MHz
+• services provided: handling pax and cargo
+b. ARGOS V.P.H.
+• OPR HR: H24 O/R
+• email: Verona lipx@aviavip.com
+• email: Operations control center H24 Rome occ@aviavip.com
+• phone: Operations control center H24 Rome +39 06 79340563
+• mobile phone: Verona +39 344 2456120
+• mobile phone: Operations control center H24 Roma +39
+3487476727 / +39 3492967775
+c. DELTA AEROTAXI
+• OPR HR: 0800-2000; H24 O/R
+• e-mail: verona@deltaflr.it
+• mobile: +39 327 9099301
+d. GH VERONA
+• OPR HR: H24 O/R
+• email: ops-ctrl@ghverona.it
+• phone: +39 045 8095679
+• SITA: VRNKOXH
+• VHF FREQ: 131.675MHz
+• services provided: handling pax and cargo
+
+=== Page 24 ===
+AD 2 LIPX 1 - 24
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+e. SKY SERVICES
+• OPR HR: 0800-2000; H24 O/R
+• e-mail: vrn@skyservices.it
+• call sign: Sky Services Verona
+• VHF FREQ: 131.900MHz
+• tel: +39 045 8600870/8095823
+• cellulare: +39 393 0135673
+e. SKY SERVICES
+• OPR HR: 0800-2000; H24 O/R
+• e-mail: vrn@skyservices.it
+• call sign: Sky Services Verona
+• VHF FREQ: 131.900MHz
+• phone: +39 045 8600870/8095823
+• mobile phone: +39 393 0135673
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+Ogniqualvolta un aeromobile che opera sull’area di manovra si trovi in
+una situazione di avaria radio, indipendentemente dalle condizioni di
+visibilità in atto, dovrà comportarsi come segue:
+Every time an aircraft operating on the manoeuvring area experiences
+a radio failure, regardless of visual conditions, it shall operate as
+follows:
+Aeromobile in partenza
+Continuerà sul percorso assegnato, ponendo particolare attenzione
+nell'evitare ogni deviazione, fino a raggiungere la posizione
+corrispondente alla sua clearance limit, dove rimarrà in attesa del
+follow-me per ritornare al parcheggio
+Departing aircraft
+It shall continue taxiing along assigned route, paying attention to
+avoid every deviation, until reaching its corresponding clearance limit
+position, where it shall wait for the follow-me vehicle to go back to
+the parking apron
+Aeromobile in arrivo/mancato decollo
+Libererà la pista e l’area sensibile sulla TWY K e rimarrà in attesa del
+follow-me per il parcheggio o in accordo alla LVP chart in LVP
+Arriving aircraft/aborted take-off
+It shall vacate the RWY and the sensitive area on TWY K and it shall
+wait for the follow-me vehicle to the parking stand or in accordance
+with the LVP chart in LVP
+LIPX AD 2.21 PROCEDURE ANTIRUMORE
+LIPX AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+Ai piloti è richiesto di attenersi rigorosamente alle procedure di salita
+iniziale sia sul piano orizzontale che su quello verticale entro i limiti dei
+criteri di prestazione dell'aeromobile, in aggiunta a quanto specificato
+in ENR 1.5, a causa dei requisiti antirumore
+Pilots are requested to strictly adhere to initial climb procedures
+both on horizontal and vertical plane within the limits of aircraft
+performance criteria, in addition to what is specified in ENR 1.5, due
+to noise abatement requirements
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+E' obbligatorio per tutti gli aeromobili in atterraggio l’uso della spinta
+inversa che non superi i limiti minimi indicati nel manuale di volo degli
+aeromobili, eccetto che per motivi di sicurezza.
+Il reverse non è consentito sull’apron
+It is compulsory for all landing aircraft the use of reverse not exceeding
+minimum limits indicated in the aircraft flight manual, except for safety
+reasons.
+Power back is not allowed on apron
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+a. tutte le prove motori devono essere coordinate con la Sala Operativa
+del Gestore (SOG) e supervisionate dal nucleo Safety;
+• OPR HR: H24
+• email: operationsoffice@aeroportoverona.it
+• tel: +39 045 8095618
+a. all engine run-ups must be coordinated with the Operations office
+(SOG) of the Aerodrome operator and supervised by the Safety unit;
+• OPR HR: H24
+• email: operationsoffice@aeroportoverona.it
+• phone: +39 045 8095618
+b. solo le prove motori al minimo sono consentite presso gli stand dei
+parcheggi se preventivamente coordinate con la Sala Operativa del
+Gestore (SOG) e supervisionate dal nucleo Safety
+b. only idle engine run-ups are allowed at parking stands if previously
+coordinated with the Operations office (SOG) of the Aerodrome
+operator and supervised by the Safety unit
+c. le prove motori che superano il minimo (parziali o a pieno motore)
+devono essere coordinate in anticipo, almeno 6 ore prima, con la
+Sala Operativa del Gestore (SOG) e supervisionate dal nucleo Safety
+c. engine run-ups exceeding idle (partial or full power) are to be
+previously coordinated, at least 6 hours in advance, with the
+
+=== Page 25 ===
+AIP - Italia
+AD 2 LIPX 1 - 25
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+Operations office (SOG) of the Aerodrome operator and supervised
+by the Safety unit
+d. HR 2300-0500 (2200-0400): le prove motori che superano la
+potenza minima sono vietate, eccetto che per aeromobili da
+utilizzarsi subito e per aeromobili tipo EMBRAER 195.
+d. HR 2300-0500 (2200-0400): engine run-ups that exceed idle power
+are forbidden, except for aircraft to be immediately employed and
+for aircraft type EMBRAER 195.
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIPX AD 2.22 PROCEDURE DI VOLO
+LIPX AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+NIL NIL
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: vedere tabella 24
+Rotte diverse potranno essere autorizzate a discrezione di Milano ACC
+STAR description: see table 24
+Other routes can be cleared at Milano ACC discretion
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+Vedere tabella 24 See ENR 2.1.2
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+Vedere ENR 2.1.2 See ENR 2.1.2
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+In caso di avaria radio:
+a. Provare a stabilire un contatto sulle seguenti frequenze:
+• Milano ACC: 135.900 MHz – 124.250 MHz
+• Emergency: 121.500 MHz
+• TWR: 118.650 MHz – 121.750 MHz
+In the event of radio failure:
+a. Try to establish contact on alternative frequencies:
+• Milano ACC: 135.900 MHz – 124.250 MHz
+• Emergency: 121.500 MHz
+• TWR: 118.650 MHz – 121.750 MHz
+b. Se ancora non è possibile stabilire un contatto:
+• squawk A7600
+• autorizzazione all’avvicinamento già ricevuta: continuare
+l’avvicinamento come concordato
+• autorizzazione all’avvicinamento non ricevuta:
+b. If still unable to establish contact:
+• squawk A7600
+• approach clearance already received: continue approach
+accordingly.
+• approach clearance not received:
+aeromobili equipaggiati RNAV
+mantenere il livello assegnato e procedere lungo la STAR assegnata,
+o la STAR prevista se non assegnata, fino ad ABLID, BOLVO or
+RIVEV quindi discendere alla minima altitudine di attesa ed iniziare
+l’avvicinamento per l’atterraggio;
+RNAV equipped aircraft
+maintain assigned level and proceed along assigned STAR, or expected
+STAR if not assigned, until ABLID, BOLVO or RIVEV then descend to
+minimum holding altitude and start approach for landing.
+aeromobili non equipaggiati RNAV
+mantenere il livello assegnato e procedere in accordo al piano di volo
+in vigore fino a PEVIK; quindi iniziare la discesa e l’avvicinamento per
+l’atterraggio.
+no RNAV equipped aircraft
+maintain assigned level and proceed according current flight plan to
+PEVIK, then descend and approach for landing.
+NOTA
+Se è stato emesso un EAT, l’avvicinamento dovrà iniziare
+all’EAT
+REMARK
+If EAT has been issued, approach shall start at EAT
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+
+=== Page 26 ===
+AD 2 LIPX 1 - 26
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+a. Procedure di salita iniziale: vedere tabella 24
+b. Descrizione delle SID: vedere tabella 24
+a. Initial climb procedures: see table 24
+b. SID description: see table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+Il Servizio di Controllo di aeroporto è fornito con l'ausilio del Sistema
+di Sorveglianza in accordo a quanto pubblicato in AIP
+Aerodrome Control Service is provided by means of ATS Surveillance
+System according to regulation published in AIP
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+Vedere ENR 6.3 Carte d’Area VFR See ENR 6.3 VFR Area Charts
+4.2 Attività di circuito 4.2 Circuit activity
+Il circuito di traffico di Verona/Villafranca è standard per pista 04 e
+pista 22
+Verona/Villafranca traffic circuit is standard for RWY 04 and RWY 22
+NOTA
+Villafranca TWR potrà assegnare circuiti di traffico diversi da
+quelli specificati in relazione al traffico in atto ed alla situazione
+meteo
+REMARK
+Villafranca TWR may assign different traffic circuits in relation
+to the current traffic and the meteorological conditions
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+4.7.1. VFR/N è consentito in accordo a quanto previsto in ENR 1.2: 4.7.1. VFR/N is allowed according to rules reported in ENR 1.2:
+4.7.2. Attività di circuito: vedi punto 4.2 precedente 4.7.2. Traffic circuit: see item 4.2 above
+4.8 Attività addestrativa 4.8 Training activity
+Touch and go RWY 04/22 non consentito Touch and go RWY 04/22 not allowed
+5 LVP 5 LVP
+5.1 Attivazione delle LVP 5.1 Criteria for initiation of LVP
+Le procedure di bassa visibilità (LVP) sono attivate quando:
+• Il valore di RVR è inferiore a 550m; e/o
+• La base delle nubi è inferiore a 200ft in accordo al locale riporto
+meteorologico.
+I piloti sono informati dell’attivazione delle LVP tramite trasmissione
+ATIS e/o RTF.
+Low Visibility Procedures (LVP) will be in force when:
+• RVR value is less than 550m; and/or
+• cloud base height is below 200ft according to the meteorological
+local report.
+Pilots are informed by ATIS and/or RTF when LVP are in force.
+
+=== Page 27 ===
+AIP - Italia
+AD 2 LIPX 1 - 27
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+L’attivazione delle LVP su richiesta del pilota, in condizioni diverse da
+quelle specificate può essere soggetta a ritardo.
+The activation of the LVP at the request of the pilot, under conditions
+different from those specified, may be subject to delay.
+5.2 Utilizzo delle piste durante le LVP 5.2 Use of the runway during LVP
+Sono consentite operazioni in CAT III per RWY 04.
+Sono consentite operazioni LVTO per RWY 22.
+RWY 04 is approved for CAT III operations.
+RWY 22 is approved for LVTO operations.
+5.3 Operazioni in CAT III peraddestramento 5.3 CAT III operations for training
+Gli avvicinamenti e gli atterraggi addestrativi in CAT III con valori di
+RVR/base delle nubi superiori a quelli previsti per l’attivazione delle
+LVP saranno subordinati alle condizioni di traffico in atto o previste.
+La richiesta dovrà essere comunicata dal pilota con congruo anticipo
+all’ATC e contenere esplicita indicazione che l’attività è ai fini
+addestrativi.
+Practice CAT III approaches and landings with RVR/cloud base values
+higher than those for LVP activation will be subject to traffic conditions
+in place or foreseen.
+The request must be communicated by the pilot well in advance to
+the ATC and contain explicit indication that the activity is for training
+purposes.
+5.4 Luci e segnaletica a terra per l'utilizzo nell'ambito delle
+LVP
+5.4 Lights and ground signs for use in LVP
+Vedi Aerodrome chart See Aerodrome chart
+LIPX AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIPX AD 2.23 ADDITIONAL INFORMATION
+1 OPERAZIONI DI RIFORNIMENTO 1 AIRCRAFT REFUELLING OPERATIONS
+1.1 Generalità 1.1 General
+Tutte le operazioni di rifornimento degli aeromobili sono effettuate
+sotto la diretta responsabilità del vettore, attraverso la designazione
+di una persona qualificata  definita “Supervisore Rifornimento” (rif.
+Decreto Ministeriale 30/06/2011, ENAC ‘Regolamento per la
+costruzione e l’esercizio degli aeroporti’ capitolo 10.6, EU-OPS 1.305)
+All aircraft refuelling operations are carried out under the direct
+responsibility of the carrier, through the designation of a qualified
+person known as the “Refuelling Supervisor” (ref. Ministerial Decree
+30/06/2011, ENAC ‘Regolamento per la costruzione e l’esercizio degli
+aeroporti’ chapter 10.6, EU-OPS 1.305)
+1.2 Supervisore Rifornimento 1.2 Refuelling Supervisor
+Persona designata dal vettore, il cui compito è coordinare e
+sovrintendere al fine di assicurare conformità a tutte le procedure di
+rifornimento.
+Nel solo caso di operazioni di rifornimento senza passeggeri a bordo,
+secondo specifici accordi contrattuali, il vettore può delegare il compito
+di supervisione delle attività di rifornimento dal comandante, un altro
+membro dell’equipaggio o da personale di terra qualificato del vettore
+stesso a personale qualificato per le attività di rifornimento o ad altro
+personale della società di handling.
+Le operazioni di rifornimento degli aeromobili non possono essere
+effettuate in assenza del Supervisore Rifornimento
+Person designated by the carrier, whose task is to coordinate and
+supervise in order to ensure compliance with all refuelling procedures.
+In the sole case of refuelling operations without passengers on board,
+according to specific contractual agreements, the carrier may delegate
+refuelling supervision duties from pilot in command, another member
+of crew or the carrier’s own ground qualified personnel to either
+qualified refuelling handler personnel or to handler staff.
+Aircraft refuelling operations may not be carried out in the absence of
+the Refuelling Supervisor
+1.3 Aree rifornimento 1.3 Refuelling areas
+Le operazioni di rifornimento devono essere effettuate all’aria aperta,
+sul piazzale ed entro i confini dell’ Aircraft Safety Area (ASA), ciascuna
+appositamente segnalata ed equipaggiata a quello scopo
+Refuelling operations must be carried out in the open air, on the apron
+and within the boundaries of the Aircraft Safety Area (ASA), each one
+specifically marked and equipped for that purpose
+1.4 Zona di sicurezza 1.4 Safety zone
+Durante le operazioni di rifornimento, deve esserci una zona di
+sicurezza istituita intorno all’aeromobile, consistente in un’area
+circolare con un raggio di 6 metri intorno ai serbatoi di carburante
+dell’aeromobile, alle bocche d’aerazione, all’ equipaggiamento e ai
+veicoli impiegati durante il rifornimento
+During refuelling operations, there must be a safety zone set up around
+the aircraft, composed of a circular area with a radius of 6 metres
+around the aircraft fuel tanks, vents and the equipment and vehicles
+employed during refuelling
+1.5 Rifornimento senza passeggeri a bordo 1.5 Refuelling without passengers on board
+Tutti gli stand sul piazzale sono idonei per il rifornimento degli
+aeromobili senza passeggeri a bordo
+All stands on the apron are suitable for refuelling aircraft without
+passengers on board
+1.6 Le operazioni di rifornimento con passeggeri sia a bordo
+che in fase di imbarco/sbarco
+1.6 Refuelling operations with passengers either on board, or
+embarking/disembarking
+a. non tutti gli stand sul piazzale sono idonei per il rifornimento di
+aeromobili con passeggeri a bordo
+a. not all stands on the apron are suitable for refuelling aircraft with
+passengers on board
+b. non sono consentite operazioni contemporanee di rifornimento di
+due aeromobili posti su stand adiacenti se entrambi gli aeromobili
+hanno passeggeri a bordo, o se i passeggeri sono in fase di imbarco/
+sbarco
+b. simultaneous refuelling operations of two aircraft placed on adjacent
+stands are not permitted if both aircraft have passengers on board,
+or the passengers are embarking/disembarking
+c. le richieste per effettuare operazioni di rifornimento ad un
+aeromobile con passeggeri a bordo o in imbarco/sbarco devono
+c. requests to perform refueling operations to an aircraft with
+passengers on board or embarking/disembarking must be made by
+the Aircraft Operator to Aerodrome Operator as follows:
+
+=== Page 28 ===
+AD 2 LIPX 1 - 28
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+essere formulate da parte dell’Operatore aereo al Gestore secondo
+le seguenti modalità:
+• in forma permanente, da parte dell’Operatore aereo
+inviando direttamente o attraverso il proprio Handler di
+riferimento una e-mail indirizzata alla Sala Operativa del
+Gestore (operationsoffice@aeroportoverona.it) per l’approvazione e
+l’inserimento in elenco degli Operatori aerei autorizzati;
+• on a permanent basis: the Aircraft Operator must send an e-
+mail, either directly or via its Handler, to Office Operations
+(operationsoffice@aeroportoverona.it) for approval and addition to
+the list of approved Aircraft Operators;
+oppure
+• in tattico, da parte dell’Operatore aereo inviando direttamente o
+attraverso il proprio Handler di riferimento, con un anticipo di
+almeno 120’, una e-mail indirizzata alla Sala Operativa del Gestore
+(operationsoffice@aeroportoverona.it);
+or
+• at short notice: the Aircraft Operator must send an e-
+mail, either directly or via its Handler, to Office Operations
+(operationsoffice@aeroportoverona.it) at least 120' in advance;
+• in tattico, per necessità operative non precedentemente notificate,
+contattando la Sala Operativa del Gestore via frequenza VHF T/B/
+T 131.500 MHz.
+• at short notice due to operational needs that have not previously
+been notified: the Aircraft Operator must contact Office Operations
+via VHF frequency T/B/T 131.500 MHz.
+1.7 Scarico carburante 1.7 Defueling
+Non sono consentite le operazioni di scarico carburante con passeggeri
+a bordo o in caso di imbarco/sbarco
+Defuelling operations are prohibited with passengers either on board
+or embarking/disembarking
+1.8 Incendio 1.8 Fire
+L’equipaggio, una volta al corrente di un incendio durante il
+rifornimento, informa la torre di controllo e attiva le procedure proprie
+della compagnia
+Flight crew, once aware of a fire during refuelling, informs the control
+TWR and activates its own company procedures
+1.9 Perdita di carburante 1.9 Fuel spillage
+L’equipaggio, una volta al corrente di una perdita di carburante durante
+il rifornimento, informa il Gestore Aeroportuale e attiva le procedure
+proprie della compagnia
+Flight crew, once aware of fuel spillage during refuelling, informs
+Aerodrome Operator and activates its own company procedures
+2 OPERAZIONI DI AEROMOBILI SENZA EQUIPAGGIO (UAS) 2 UNMANNED AIRCRAFT OPERATIONS (UAS)
+Le operazioni di aeromobili senza equipaggio sono condotte per
+specifiche attività autorizzate. Le operazioni UAS sul sedime
+aeroportuale sono subordinate al traffico aereo con equipaggio che si
+svolge sull’aeroporto e nelle sue vicinanze.
+Unmanned aircraft operations are performed for specific authorized
+activities. UAS operations on the aerodorome are subordinated to the
+manned air traffic on the aerodrome and in its vicinity.
+LIPX AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIPX AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIPX 2 - 1
+HOTSPOT MAP (NOT FOR NAVIGATION)  AD 2 LIPX 2 - 3
+LOW VISIBILITY PROCEDURES CHART  AD 2 LIPX 2 - 5
+AIRCRAFT PARKING DOCKING CHART ICAO  AD 2 LIPX 2 - 7
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 04/22  AD 2 LIPX 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIPX 3 - 3
+PRECISION APPROACH TERRAIN CHART RWY 04  AD 2 LIPX 3 - 5
+STAR RNAV1 RWY 04  AD 2 LIPX 4 - 1
+STAR RNAV1 RWY 04 DESCRIPTION TABLES  AD 2 LIPX 4 - 3
+STAR RWY 04  AD 2 LIPX 4 - 7
+STAR RWY 04 DESCRIPTION TABLES  AD 2 LIPX 4 - 9
+ICAO VISUAL APPROACH CHART
+  AD 2 LIPX 5 - 1
+ICAO INSTRUMENT APPROACH CHART ILS Z RWY 04  AD 2 LIPX 5 - 3
+ICAO INSTRUMENT APPROACH CHART ILS Z RWY 04
+DESCRIPTION TABLES
+ AD 2 LIPX 5 - 5
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC Y RWY 04  AD 2 LIPX 5 - 7
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC Y RWY 04
+DESCRIPTION TABLES
+ AD 2 LIPX 5 - 9
+ICAO INSTRUMENT APPROACH CHART RNP RWY 04  AD 2 LIPX 5 - 11
+ICAO INSTRUMENT APPROACH CHART RNP RWY 04
+DESCRIPTION TABLES
+ AD 2 LIPX 5 - 13
+VOR RWY 04  AD 2 LIPX 5 - 17
+
+=== Page 29 ===
+AIP - Italia
+AD 2 LIPX 1 - 29
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+Carte - Charts Pagine - Pages
+INITIAL CLIMB PROCEDURES AND SID RNAV 1 RWY 04  AD 2 LIPX 6 - 1
+INITIAL CLIMB PROCEDURES AND SID RNAV 1 RWY 04
+DESCRIPTION TABLES
+ AD 2 LIPX 6 - 3
+INITIAL CLIMB PROCEDURES AND SID RWY 04  AD 2 LIPX 6 - 7
+INITIAL CLIMB PROCEDURES AND SID RWY 04 DESCRIPTION
+TABLES
+ AD 2 LIPX 6 - 9
+INITIAL CLIMB PROCEDURES AND SID RWY 22  AD 2 LIPX 6 - 11
+INITIAL CLIMB PROCEDURES AND SID RWY 22 DESCRIPTION
+TABLES
+ AD 2 LIPX 6 - 13
+ATC SURVEILLANCE MINIMUM ALTITUDE CHART ICAO  AD 2 LIPX 8 - 1
+LIPX AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIPX AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 30 ===
+AD 2 LIPX 1 - 30
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+

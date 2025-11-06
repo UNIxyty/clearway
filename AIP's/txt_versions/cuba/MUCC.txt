@@ -1,0 +1,4155 @@
+=== Page 1 ===
+AIP-CUBA AD 2 MUCC 1 - 1
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+AD 2 AERODROMOS AD 2 AERODROMES
+MUCC AD 2.1 INDICADOR DE LUGAR Y NOMBRE DEL AERODROMO
+MUCC AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+MUCC - CAYO COCO / Jardines del Rey Intl.
+MUCC AD 2.2 DATOS GEOGRAFICOS Y ADMINISTRATIVOS DEL AERODROMO
+MUCC AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordenadas del ARP y
+emplazamiento en el AD
+  ARP coordinates and site at AD
+222740N 0781943W
+Punto centro de
+Mid point of RWY 08/26
+2 Dirección y distancia desde (ciudad)
+  Direction and distance from (city) 38°, 65 KM FM Ciudad de Morón
+3 Elevación/temperatura de referencia
+  Elevation / Reference temperature
+(Mean Low temperature)
+Elev: 13 FT (4 M) / T: 32.4° C (Mean Low T: NIL)
+4 Ondulación geoidal en AD ELEV PSN
+  Geoid undulation at AD ELEV PSN -72 FT (-22 M)
+5 MAG VAR/Cambio anual
+  MAG VAR / Annual change 8° W (2025) / -0.10°
+6 Administración, dirección, teléfono,
+telefax, télex, AFS del AD
+  AD Administration, address, telephone,
+telefax, telex, AFS
+ECASA
+Aeropuerto Internacional“Jardines del Rey”.
+Cayo Coco, Ciego de Avila, Cuba 
+  
+Tel: (53-33) 30 9302
+email: mario@avi.ecasa.avianet.cu
+7 Tipos de tránsito permitidos (IFR/VFR)
+  Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Observaciones
+  Remarks NIL
+MUCC AD 2.3 HORAS DE FUNCIONAMIENTO
+MUCC AD 2.3 OPERATIONAL HOURS
+1 Administración del AD
+  AD Administration
+1200/2359 UTC DLY.
+Horario de Verano/Summer Time: 1100/2300 UTC DLY
+ 
+2 Aduanas e inmigración
+  Customs and immigration
+1200/2359 UTC DLY.
+Horario de verano / Summer time: 1100/2300 UTC DLY.
+3 Dependencias de sanidad
+  Health and sanitation
+1200/2359 UTC DLY.
+Horario de verano / Summer time: 1100/2300 UTC DLY.
+4 Oficina de notificación AIS
+  AIS Briefing Office H24
+5 Oficina de notificación ATS (ARO)
+  ATS Reporting Office (ARO) H24
+6 Oficina de notificación MET
+  MET Briefing Office H24
+
+=== Page 2 ===
+AD 2 MUCC 1 - 2
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+7 ATS
+  ATS
+1200/2359 UTC DLY.
+Horario de Verano / Summer Time: 1100/2300 UTC DLY
+8 Abastecimiento de combustible
+  Fuelling
+1200/2359 UTC DLY.
+Horario de verano / Summer time: 1100/2300 UTC DLY.
+9 Servicios de escala
+  Handling
+1200/2359 UTC DLY.
+Horario de verano / Summer time: 1100/2300 UTC DLY.
+10 Seguridad
+  Security H24
+11 Descongelamiento
+  De-icing NIL
+12 Observaciones
+  Remarks
+Fuera de estas horas O /R 48HR BFR. Para DLA FLT, AD OPN TIL
+0500UTC, Horario de verano 0400UTC previa coordinación.
+Out of these hours O /R 48HR BFR. For DLA FLT, AD OPN TIL
+0500UTC, Summer Time 0400UTC previous coordination.
+MUCC AD 2.4 INSTALACIONES Y SERVICIOS DE ESCALA
+MUCC AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Instalaciones de manipulación de la
+carga
+  Cargo-handling facilities
+Portacontenedores, cinta transportadora, elevadoras y
+carretillas a granel.  
+Plataforma elevadora
+Max altura :Hasta 5.6 m
+Max peso :Hasta 7 ton
+Carriage containers, conveyor belts,
+elevators and bulk wheelbarrows. / 
+Highloader 
+Max height:  Up to 5.6 m
+Max weight: Up to 7 ton
+2 Tipos de combustible/lubricante
+  Fuel / oil types
+Combustible: JET A1
+Lubricante: NIL
+Fuel: JET A1
+Oil: NIL
+3 Instalaciones/capacidad de
+reabastecimiento
+  Fuelling facilities/capacity
+Camiones cisternas 155 000 Lts
+Capacidad de Almacenaje 400 000 Lts
+Capacity trucks 155 000 Lts
+Storage Capacity 400 000 Lts
+4 Instalaciones de descongelamiento
+  De-icing facilities NIL
+5 Espacio de hangar para aeronaves
+visitantes
+  Hangar space for visiting aircraft
+NIL
+6 Instalaciones para reparaciones de
+aeronaves visitantes
+  Repair facilities for visiting aircraft
+NIL
+
+=== Page 3 ===
+AIP-CUBA AD 2 MUCC 1 - 3
+05 FEB 2025
+AIS-CUBA AIP AMDT 01/25
+7 Observaciones
+  Remarks
+Instalaciones y equipos para la asistencia en tierra
+GPU: 115v CA/ 90Kva. 
+GPU: 28v CD.
+ASU: 42 psi/ 248 lb/ min.
+Agua Potable.
+Descarga de baños.
+Facilities and equipment for ground handling.
+GPU: 115v AC/ 90Kva.
+GPU: 28v DC.
+ASU: 42 psi/ 248 lb/ min.
+Drinking water vehicle.
+Toilet flushing.
+MUCC AD 2.5 INSTALACIONES Y SERVICIOS PARA LOS PASAJEROS
+MUCC AD 2.5 PASSENGER FACILITIES
+1 Hoteles
+  Hotels
+Hoteles en el polo turístico.
+Hotels in the tourist resort.
+2 Restaurantes
+  Restaurants
+No disponible
+Not available
+3 Transporte
+  Transportation
+Taxis y ómnibus
+Taxis and buses
+4 Instalaciones y servicios médicos
+  Medical facilities
+Primeros auxilios en el AD.
+First aids at AD.
+5 Oficinas bancarias y de correos
+  Bank and Post Office
+Banco: En los hoteles.
+Oficinas de correos: En los hoteles
+Bank: In the hotels.
+Post: In the hotels
+6 Oficina de turismo
+  Tourist Office
+En los hoteles y en el propio aeropuerto
+In the Hotels and in the own airport
+7 Observaciones
+  Remarks
+Cafetería en el AD.
+Cafeteria in the AD.
+MUCC AD 2.6 SERVICIOS DE SALVAMENTO Y DE EXTINCIÓN DE INCENDIOS
+MUCC AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 Categoría del AD para la extinción de
+incendios
+  AD category for fire fighting
+CAT 9
+2 Equipo de salvamento
+  Rescue equipment
+Disponible, acorde a la categoría del AD.
+Available, according to airport category.
+3 Capacidad para retirar aeronaves
+inutilizadas
+  Capability for removal of disabled
+aircraft
+NIL
+4 Observaciones
+  Remarks
+Existen en la ciudad equipos para el retiro de aeronaves
+inutilizadas.
+There are in the city equipment to remove disabled aircraft.
+MUCC AD 2.7 DISPONIBILIDAD SEGÚN LA ESTACIÓN DEL
+AÑO – REMOCIÓN DE OBSTACULOS EN LA SUPERFICIE
+MUCC AD 2.7 SEASONAL AVAILABILITY — CLEARING
+
+=== Page 4 ===
+AD 2 MUCC 1 - 4
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+No se aplica / Not applicable
+MUCC AD 2.8 DATOS SOBRE LA PLATAFORMA,
+CALLES DE RODAJE Y EMPLAZAMIENTOS /
+POSICIONES DE VERIFICACIÓN DE EQUIPO /
+MUCC AD 2.8 APRONS, TAXIWAYS AND
+EMPLACEMENT / EQUIPMENT CHECK LOCATIONS DATA
+1 superficie y resistencia de la
+plataforma
+  Apron surface and strength
+Designación Superficie Resistencia
+Designator Surface Strength
+1 Concreto
+Concrete NIL
+2 Anchura, superficie y resistencia de las
+calles de rodaje
+  Taxiway width, surface and strength
+Designación Anchura Superficie Resistencia
+Designator
+of TWY
+Width Surface Strength
+A 23 M Asfalto
+Asphalt NIL
+B 23 M Asfalto
+Asphalt NIL
+3 Emplazamiento y elevación ACL
+  Altimeter checkpoint location and
+elevation
+NIL
+4 Puntos de verificación VOR
+  VOR checkpoints NIL
+5 Puntos de verificación INS
+  INS checkpoints NIL
+6 Observaciones
+  Remarks PCR ver / see AIRAC AIP-SUP 02/25
+MUCC AD 2.9 SISTEMA DE GUIA Y CONTROL DEL
+MOVIMIENTO EN LA SUPERFICIE Y SEÑALES
+MUCC AD 2.9 SURFACE MOVEMENT GUIDANCE
+AND CONTROL SYSTEM AND MARKINGS
+1 Uso de signos ID en los puestos de
+aeronaves Líneas de guía TWY y
+sistemas de guía visual de atraque
+y estacionamiento de los puestos de
+aeronaves
+  Use of aircraft stand ID signs, TWY
+guide lines and visual docking/parking
+guidance system of aircraft stands
+Señales de guía de rodaje en la intersección con TWY y RWY y en
+puntos de espera.
+Líneas de guía en la plataforma. Guía de estacionamiento proa
+hacia adentro en los puestos de ACFT.
+Taxing guidance sings at intersection with TWY and RWY and at
+holding positions.
+Guide lines at apron. Nose-in guidance at ACFT stands.
+2 Señales y LGT de RWY y TWY
+  RWY and TWY markings and LGT
+RWY: Designación, THR, TDZ y eje señalados. Bordes y extremos
+de pista iluminados. Posee faja lateral de pista
+TWY: Eje y puntos de espera señalados. Bordes iluminados.
+RWY: Designation, THR, TDZ and center line marked. Edges and
+runway ends lighted. It possesses lateral strip of runway
+TWY: Center line and holding position marked. Edges lighted.
+3 Barras de parada
+  Stop bars and runway guard lights
+NIL
+NIL
+4 Otra protección de pista NIL
+
+=== Page 5 ===
+AIP-CUBA AD 2 MUCC 1 - 5
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+  Other runway protection measures
+5 Observaciones
+  Remarks NIL
+MUCC AD 2.10 OBSTÁCULOS DEL AERÓDROMO
+MUCC AD 2.10 AERODROME OBSTACLES
+En el Área 2 / In Area 2
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+En las áreas de aproximación/TKOF / In approach/TKOF areas
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+CC3 VOR / DME NAVAID 222803N 0781843W 9 M / 6 M NIL 26/APCH
+ 
+En el Área 3 / In Area 3
+OBST ID / Designación
+Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation
+OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+MUCC AD 2.11 INFORMACION METEOROLÓGICA PROPORCIONADA
+MUCC AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Oficina MET asociada
+  Associated MET Office Jardines del Rey
+2 Horas de servicio
+Oficina MET fuera de horario
+  Hours of service
+MET Office outside hours
+H24
+3 Oficina responsable de la preparación
+TAF
+Períodos de validez
+  Office responsible for TAF preparation
+Period of validity
+MWO La Habana
+H24
+4 Tipo de pronóstico de aterrizaje
+Intervalo de emisión NIL
+
+=== Page 6 ===
+AD 2 MUCC 1 - 6
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+  Trend forecast
+Interval of issuance
+5 Aleccionamiento/consulta
+proporcionados
+  Briefing/consultation provided
+Consulta personal (P)
+Personal consultation (P)
+6 Documentación de vuelo
+Idioma(s) utilizado(s)
+  Flight documentation
+Language(s) used
+Cartas, METAR, TAF, SIGMET, Texto Español-Inglés.
+Charts, METAR, TAF, SIGMET, Plain Text, Spanish-English
+7 Cartas y demás información disponible
+para aleccionamiento o consulta
+  Charts and other information available
+for briefing or consultation
+S, U85, U70, U50, U30, U20, P85, P70, P50, P40, P30, P20,
+SWH, SWM, T
+8 Equipo suplementario disponible para
+proporcionar información
+  Supplementary equipment available for
+providing information
+Telefax, Estación de trabajo de la red METEONET
+Telefax, Work station of METEONET network
+9 Dependencias ATS que reciben
+información
+  ATS units provided with information
+TWR Jardines.
+10 Información adicional (limitación de
+servicio, etc.)
+  Additional information (limitation of
+service, etc.)
+NIL
+MUCC AD 2.12 CARACTERÍSTICAS FÍSICAS DE LAS PISTAS
+MUCC AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designadores
+RWY
+BRG GEO
+y MAG
+Dimensiones
+de RWY
+Resistencia (PCN)
+y superficie de
+RWY y SWY
+Coordenadas THR
+Coordenadas
+RWY end
+ondulación
+geoidal THR
+Elevación THR
+y elevación
+máxima de
+TDZ de RWY
+APP precisión
+RWY
+Designator
+TRUE &
+MAG BRG
+Dimension
+of RWY (M)
+Strength (PCN)
+and surface of
+RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation
+and highest
+elevation of
+TDZ of precision
+APP RWY
+1 2 3 4 5 6
+08 071.00° GEO
+079.00° MAG 3000 x 45
+Asfalto
+Asphalt
+SWY: NIL
+222723.54N
+0782032.58W
+END: NIL
+GUND: -22 M
+THR 3 M
+TDZ: NIL
+26 251.00° GEO
+259.00° MAG 3000 x 45
+Asfalto
+Asphalt
+SWY: NIL
+222755.26N
+0781853.36W
+END: NIL
+GUND: -22 M
+THR 4 M
+TDZ: NIL
+
+=== Page 7 ===
+AIP-CUBA AD 2 MUCC 1 - 7
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+Designadores
+RWY
+Pendiente
+de RWY-
+SWY
+Dimensiones
+SWY
+Dimensiones
+CWY
+Dimensiones
+de franja
+Dimensiones
+del RESA
+Localización/
+descripción
+del sistema
+de retención
+OFZ
+RWY
+Designator
+Slope of
+RWY-SWY
+SWY
+dimensions
+(M)
+CWY
+dimensions
+(M)
+Strip
+dimensions
+(M)
+RESA
+dimensions
+(M)
+Location/
+description
+of arresting
+system
+OFZ
+1 7 8 9 10 11 12 13
+08 +0.033% 60 x 45 NIL 3240 x 300 90 x 90 NIL NIL
+26 -0.033% 60 x 45 NIL 3240 x 300 90 x 90 NIL NIL
+Designadores
+RWY
+Observaciones
+RWY
+Designator Remarks
+1 14
+08
+PCR ver/ see AIRAC AIP-SUP 02/25
+Slope of RWY-SWY
++0.115% +0.48% -0.25%
+(60M SWY) (580M) (1020M)
++0.154% -0.08% -0.21%
+(1080M) (320M) (60M SWY)
+26
+PCR ver/ see AIRAC AIP-SUP 02/25
+Slope of RWY-SWY
++0.21% +0.08% +0.154%
+(60M SWY) (320M) (1080M)
++0.25% -0.48% -0.115%
+(1020M) (580M) (60M SWY)
+MUCC AD 2.13 DISTANCIAS DECLARADAS
+MUCC AD 2.13 DECLARED DISTANCES
+Designador
+RWY
+Observaciones
+RWY
+Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+08 3000 3000 3060 3000 NIL
+26 3000 3000 3060 3000 NIL
+MUCC AD 2.14 LUCES DE APROXIMACIÓN Y DE PISTA
+MUCC AD 2.14 APPROACH AND RUNWAY LIGHTING
+
+=== Page 8 ===
+AD 2 MUCC 1 - 8
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+Designador
+RWY
+Tipo LGT APCH
+y LEN INTST
+Color LGT
+THR WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN Longitud,
+espaciado,
+color, INTST
+LGT eje RWY
+RWY
+Designator
+APCH LGT type
+LEN INTST
+THR LGT
+colour WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN RWY Centre
+Line LGT
+Length, spacing,
+colour, INTST
+1 2 3 4 5 6
+08
+SALS
+SIMPLE
+420 M
+LIM
+Verde
+Green
+PAPI
+Left side/3°
+19.79 M
+NIL NIL
+26 NIL Verde
+Green
+PAPI
+Left side/3°
+19.79 M
+NIL NIL
+Designador
+RWY
+Longitud, espaciado,
+color, INTST
+LGT borde RWY
+Color LGT extremo
+RWY WBAR
+LEN (M) LGT SWY
+color
+Observaciones
+RWY
+Designator
+RWY edge LGT LEN,
+spacing colour INTST
+RWY End LGT
+colour WBAR
+SWY LGT LEN
+colour
+Remarks
+1 7 8 9 10
+08
+3000 M, 50 M
+Blanco
+White
+LIL
+YCZ 600 M
+Rojo
+Red NIL NIL
+26
+3000 M, 50 M
+Blanco
+White
+LIL
+YCZ 600 M
+Rojo
+Red NIL NIL
+MUCC AD 2.15 OTRAS LUCES, FUENTE SECUNDARIA DE ENERGÍA
+MUCC AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 Emplazamiento, características y horas
+de funcionamiento ABN/IBN
+  ABN/IBN location, characteristics and
+hours of operation
+ABN: En el edificio de la torre.
+ABN: At tower building
+2 Emplazamiento LDI Y LGT y
+Anemómetro y LGT
+  LDI location and LGT Anemometer
+location and LGT
+Anemómetros ultrasónicos: 
+1-400M FM THR RWY 08 y 100M FM RWY CL.
+2-200M FM THR RWY 26 y 100M FM RWY CL.
+Ultrasonic anemometers:
+1-400M FM THR RWY 08 and 100M FM RWY CL.
+2-200M FM THR RWY 26 and 100M FM RWY CL.
+3 Luces de borde y eje de TWY
+  TWY edge and centre line lighting
+Borde de TWY/Taxiway edge:
+A BLUE
+B BLUE
+  
+Eje de TWY/Taxiway centre line:
+A No disponible.
+Not available.
+B No disponible.
+Not available.
+
+=== Page 9 ===
+AIP-CUBA AD 2 MUCC 1 - 9
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+4 Fuente auxiliar de energía/tiempo de
+conmutación
+  Secondary power supply/switch-over
+time
+Fuente auxiliar de energía para todas las luces del AD.
+Tiempo de conmutación: 14 SEC. /
+Secondary power supply to all lighting at AD.
+Swith-over time: 14 SEC.
+5 Observaciones
+  Remarks NIL
+MUCC AD 2.16 ÁREA DE ATERRIZAJE DE HELICÓPTEROS
+MUCC AD 2.16 HELICOPTER LANDING AREA
+No se aplica / Not applicable
+MUCC AD 2.17 ESPACIO AÉREO ATS
+MUCC AD 2.17 ATS AIRSPACE
+Designación y
+límites laterales
+Límites
+verticales
+Clasificación
+del espacio
+aéreo
+Distintivo de
+llamada de la
+dependencia
+ATS Idioma (s)
+Altitud de
+transición
+Horas de
+aplicabilidad
+Observaciones
+Designation
+and lateral limits
+Vertical limits Airspace
+classification
+ATS unit
+call sign
+Language(s)
+Transition
+altitude
+Hours of
+applicability
+Remarks
+1 2 3 4 5 6 7
+ATZ
+Circulo centrado
+en / Circular
+area centered on
+222740N 0781943W
+(ARP MUCC) en un
+radio de / withing a
+radius 3 NM.
+  1500
+FT AGL
+  
+  GND   
+D Jardines TWR
+Español, Inglés
+Spanish,
+English
+3000 FT
+AMSL
+1200/2359
+UTC DLY.
+Horario de
+Verano/
+Summer Time:
+1100/2300
+UTC DLY.
+NIL
+CTR
+Circulo centrado
+en / Circular
+area centered on
+222740N 0781943W
+(ARP MUCC) en un
+radio de / withing a
+radius 20 NM.
+  FL065   
+  GND   
+D Jardines TWR
+Español, Inglés
+Spanish,
+English
+3000 FT
+AMSL
+1200/2359
+UTC DLY.
+Horario de
+Verano/
+Summer Time:
+1100/2300
+UTC DLY.
+NIL
+MUCC AD 2.18 INSTALACIONES DE COMUNICACIONES ATS
+MUCC AD 2.18 ATS COMMUNICATION FACILITIES
+Designación
+del servicio
+Distintivo de llamada Frecuencia SATVOICE Dirección
+de
+conexión
+Horas de
+funcionamiento
+Observaciones
+Service
+designation
+Callsign Frequency SATVOICE Logon
+address
+Hours of operation Remarks
+1 2 3 4 5 6 7
+126.900 MHZ H24
+5562.000 KHZ H24
+A/G MUCC Radio Boyeros
+8876.000 KHZ
+NIL NIL
+H24
+NIL
+
+=== Page 10 ===
+AD 2 MUCC 1 - 10
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+Designación
+del servicio
+Distintivo de llamada Frecuencia SATVOICE Dirección
+de
+conexión
+Horas de
+funcionamiento
+Observaciones
+Service
+designation
+Callsign Frequency SATVOICE Logon
+address
+Hours of operation Remarks
+1 2 3 4 5 6 7
+APP Jardines TWR 123.600 MHZ NIL NIL 1200-2359 UTC
+DLY. Horario de
+Verano / Summer
+Time: 1100-2300
+UTC DLY.
+NIL
+118.800 MHZ 1200-2359 UTC
+DLY. Horario de
+Verano / Summer
+Time: 1100-2300
+UTC DLY.
+TWR Jardines TWR
+121.500 MHZ
+NIL NIL
+1200-2359 UTC
+DLY. Horario de
+Verano/Summer
+Time: 1100-2300
+UTC DLY
+Para
+emergencia 
+solamente / For 
+emergency use
+only 121.500
+MHZ
+MUCC AD 2.19 RADIOAYUDAS PARA LA NAVEGACIÓN Y EL ATERRIZAJE
+MUCC AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo de ayuda
+MAG VAR
+Tipo de
+ILS/MLS
+ID Frecuencia Horas de
+funcionamiento
+Coordenadas
+del
+emplazamiento
+de la antena
+transmisora
+Elevación
+de la antena
+transmisora
+del DME
+Servicio
+volume
+radio
+de GBAS
+referencia
+Punto
+Observ.
+Type of aid
+MAG VAR
+CAT of
+ILS/MLS
+ID Frequency Hours of
+operation
+Site of
+transmitting
+antenna
+coordinates
+Elevation
+of DME
+transmitting
+antenna
+Service
+volume
+radius
+from GBAS
+reference
+Point
+Remarks
+1 2 3 4 5 6 7 8
+LOC
+08° W (2025)
+ILS CAT I
+ICJ 108.900
+MHZ
+H24 222801.61N
+0781833.51W
+NIL NIL  
+Cobertura /
+Coverage:
+Sector
+±10º:25NM
+(46.3 KM)
+Sector
+±35º: 17NM
+(31.5KM)
+
+=== Page 11 ===
+AIP-CUBA AD 2 MUCC 1 - 11
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+Tipo de ayuda
+MAG VAR
+Tipo de
+ILS/MLS
+ID Frecuencia Horas de
+funcionamiento
+Coordenadas
+del
+emplazamiento
+de la antena
+transmisora
+Elevación
+de la antena
+transmisora
+del DME
+Servicio
+volume
+radio
+de GBAS
+referencia
+Punto
+Observ.
+Type of aid
+MAG VAR
+CAT of
+ILS/MLS
+ID Frequency Hours of
+operation
+Site of
+transmitting
+antenna
+coordinates
+Elevation
+of DME
+transmitting
+antenna
+Service
+volume
+radius
+from GBAS
+reference
+Point
+Remarks
+1 2 3 4 5 6 7 8
+GP
+08° W (2025)
+ILS CAT I
+ICJ 329.300
+MHZ
+H24 222723.24N
+0782020.59W
+NIL NIL  
+Angulo / Angle
+3º
+Altura punto
+referencia
+ILS / Height
+ILS Reference
+Point:15.84 M 
+Altura del
+punto C /
+Height of C
+point: 30 M
+DME ICJ CH 26X H24 222723.24N
+0782020.59W
+12 M
+(39 FT)
+NIL  
+Antena DME
+instalada entre
+las antenas
+A1 y A2 del
+GP, en el
+mismo mástil. /
+Antenna
+DME installed
+between the
+antennas A1
+and A2 of the
+GP, in the
+same mast.
+           A
+VOR/DME
+08° W (2025)
+UCJ 117.800
+MHZ
+CH 125X
+H24 222802.68N
+0781843.08W
+30 M
+(98 FT)
+NIL  
+Cobertura /
+Coverage 200
+NM 
+AE
+MUCC AD 2.20 REGLAMENTO LOCAL DEL AERODROMO
+MUCC AD 2.20 LOCAL AERODROME REGULATIONS
+Aeródromo cerrado para aeronaves NORDO. Aerodrome closed for NORDO aircraft.
+Aeronaves con máximo peso de despegue de 25TON o
+más, tienen prohibido hacer giros de 180º en cualquier
+lugar de la pista, excepto al final de la pista 08/26.
+Aircraft with maximum take off of weight 25TON and more
+are prohibited to make 180º turn at any place of runway,
+except at the end of runway 08/26.
+Se prohíbe la puesta en marcha de motores antes y durante
+el proceso de empuje y/o remolque de las aeronaves
+estacionadas que requieran de este servicio para su salida.
+The engine start-up is prohibited before and during the
+process of pushing and / or pulling of parked aircraft that
+require this service for their departure. Exceptions are those
+
+=== Page 12 ===
+AD 2 MUCC 1 - 12
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+Se exceptúan aquellas aeronaves que tengan el APU
+(Grupo auxiliar de energía) inoperativo y necesiten utilizar
+el ASU (Unidad de Arranque Neumático) para poner en
+marcha un motor.
+aircraft that have inoperative APU (Auxiliary power unit) and
+need to use the ASU (Automated Start Unit) to start engine
+MUCC AD 2.21 PROCEDIMIENTOS DE ATENUACION DEL RUIDO
+MUCC AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL NIL
+MUCC AD 2.22 PROCEDIMIENTOS DE VUELO
+MUCC AD 2.22 FLIGHT PROCEDURES
+Circuito de tránsito izquierdo, a menos que el ATC indique
+otro.
+Left traffic circuit, unless the ATC indicates another one.
+Tiempo estimado de arribo:
+Todas las Aeronaves con no más de 40 minutos y no
+menos de 20 minutos antes del arribo deben informar a
+la Estación Aeronáutica de Radio Boyeros a través de la
+frecuencia de 126.900 MHz la hora prevista de llegada
+(ETA), cantidad de pasajeros, carga, correo o alguna otra
+información adicional necesaria para el servicio a prestar
+en Rampa.
+Estimated time of arrival:
+All Aircraft with not more than 40 minutes and not
+less than 20 minutes before the arrival should inform
+to the Aeronautical Station of Radio Boyeros through
+the frequency 126.900 MHz the estimated time of arrival
+(ETA), quantity of passengers, loads, mail or some other
+necessary additional information for the service to lend in
+Apron.
+Después de comunicar la hora prevista de llegada (ETA)
+a dicha estación aeronáutica, cada aeronave (procediendo
+VFR o IFR) recibirá del radioperador la rampa y posición
+de estacionamiento asignada por el Departamento de
+Control de Rampas pertenecientes a la Subdirección de
+Operaciones en Tierra.
+After communicating the estimated time of arrival (ETA)
+to this aeronautical station, each aircraft (proceeding VFR
+or IFR) will receive from the radioperator the apron
+and parking position assigned by the Aprons Control
+Department belonging to the Assistant Director of Ground
+Operations.
+Los cambios que surjan de ultima hora les serán
+informados a la tripulación posterior a su aterrizaje en
+118.800 MHz por la Torre de Control.
+Changes which arise lately will be informed to the crew
+members after their landing in 118.800 MHz by the Control
+Tower.
+MUCC AD 2.23 INFORMACION ADICIONAL
+MUCC AD 2.23 ADDITIONAL INFORMATION
+Concentraciones de aves en las
+proximidades del aeropuerto.
+Bird concentration in the vicinity of the airport.
+La presencia de aves diarias en el aeropuerto, está
+enmarcada fundamentalmente en horario diurno, con la
+incidencia de Auras Tiñosas, Garzas, Palomas Torcazas,
+Gavilanes, con un comportamiento que varía con los
+períodos de lluvias y sequias.
+The daily presence of birds at the airport is framed mainly
+during the daytime, with the incidence of Turkey Vultures,
+Herons, Wood Pigeons, Sparrowhawks, with a behavior
+that varies with the rainy and drought periods.
+En los períodos migratorios esta presencia no varía en
+la superficie del aeródromo, pero sí en su espacio aéreo
+a baja altura (hasta 100 m aproximadamente), ya que el
+territorio constituye un corredor de aves que vienen y van
+a la masa continental de América del Norte. Estas aves
+varían en tamaño desde Golondrinas, Patos, Sevillas, etc,
+que son de tamaños medios.
+In migratory periods, this presence does not vary on the
+surface of the aerodrome, but it does vary in its airspace at
+low heigth (up to approximately 100 m), since the territory
+constitutes a corridor for birds that come and go to the
+continental mass of North America. These birds vary in size
+from Swallows, Ducks, Sevillas, etc., which are medium in
+size.
+Las Auras Tiñosas inician su actividad aproximadamente a
+las 14:00 UTC, con incremento en las horas del mediodía
+(16:00-18:00) y se encuentran los mismo en la pista
+the Turkey Vultures begin their activity at approximately
+14:00 UTC, with an increase in the hours of noon (16:00-
+18:00) and are the same on the runway eating waste
+
+=== Page 13 ===
+AIP-CUBA AD 2 MUCC 1 - 13
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+comiendo desechos de restos de moluscos y reptiles, a
+alturas desde la superficie hasta 50 m.
+from remains of molluscs and reptiles, to heights from the
+surface up to 50 m.
+En el horario nocturno la actividad de aves no es
+significativa, solo algunas especies como Lechuzas y
+pequeñas aves, con un índice de tolerancia de riesgo 2D
+(menor, improbable).
+At night the activity of birds is not significant, only some
+species such as Barn Owls and small birds, with a risk
+tolerability index 2D (lower, unlikely).
+Aviso de inspección rutinaria de aeronavegabilidad
+por parte de la Autoridad Aeronáutica.
+Warning of routine airworthiness inspection
+on behalf of the Aeronautical Authority.
+En cumplimiento con el manual OACI-Manual de Vigilancia
+de la Seguridad Operacional - Capítulo 2, se comunica a
+los operadores nacionales y extranjeros de la realización
+de inspecciones rutinarias de aeronavegabilidad por parte
+de la Autoridad Aeronáutica. Se exceptúan aeronaves en
+vuelos de Estado.
+In accomplishment with the ICAO-Manual of Surveillance
+of the Operational Safety - Chapter 2, national and
+foreign operators are communicated about the realization
+of routine airworthiness inspections on behalf of the
+Aeronautical Authority. Aircrafts in State flights are
+excluded.
+COORDENADAS DE LOS PUNTOS DE RECORRIDO / WAYPOINTS COORDINATES AD MUCC
+Punto de recorrido/
+Waypoint name
+Latitud (N) Longitud (W) Propósito / Purpose
+BIMBI 22º42’24.89’’ 078º16’30.09’’ SID RWY08
+BONUV 22º41’22.69’’ 078º25’43.75’’ SID RWY26
+CC400 22º29’57.83’’ 078º32’24.43’’ STAR RWY08, ILS RWY08, LOC RWY08, RNP
+RWY08, VOR RWY08
+CC401 22º18’34.59’’ 078º28’11.77’’ STAR RWY08, ILS RWY08, LOC RWY08, RNP
+RWY08, VOR RWY08
+CC402 22º36’33.97’’ 078º11’45.44’’ STAR RWY26, RNP RWY26, VOR RWY26
+CC403 22º25’10.79’’ 078º07’32.45’’ RNP RWY26, VOR RWY26
+CC408 22º25’54.20’’ 078º25’11.85’’ ILS RWY08, LOC RWY08, RNP RWY08, VOR
+RWY08
+CC426 22º29’24.32’’ 078º14’14.60’’ RNP RWY26, VOR RWY26
+DAVKU 22º30’52.40’’ 078º09’38.85’’ STAR RWY26, RNP RWY26, VOR RWY26
+KASEN 22º15’09.37’’ 078º04’54.08’’ ILS RWY08, LOC RWY08, RNP RWY08, VOR
+RWY08
+LEXOT 22º12’56.17’’ 078º28’48.07’’ RNP RWY26, VOR RWY26
+PIDNO 22º39’03.92’’ 078º07’30.22’’ SID RWY08
+RESEB 22º41’56.65’’ 078º32’21.67’’ SID RWY26, STAR RWY08
+SIDMA 22º45’45.79’’ 078º12’31.97’’ STAR RWY26
+VOKAD 22º24’16.23’’ 078º30’18.01’’ STAR RWY08, ILS RWY08, LOC RWY08, RNP
+RWY08, VOR RWY08
+MUCC AD 2.24 CARTAS RELATIVAS AL AERODROMO
+MUCC AD 2.24 CHARTS RELATED TO AN AERODROME
+Charts Pages
+AD2 MUCC ADC.pdf AD 2 MUCC 2 - 1
+AD2 MUCC APDC.pdf AD 2 MUCC 3 - 1
+AD2 MUCC AOC.pdf AD 2 MUCC 4 - 1
+AD2 MUCC SID CCO RWY08.pdf AD 2 MUCC 5 - 1
+AD2 MUCC SID CCO RWY26.pdf AD 2 MUCC 5 - 5
+AD2 MUCC STAR CDO RWY08.pdf AD 2 MUCC 6 - 1
+AD2 MUCC STAR CDO RWY26.pdf AD 2 MUCC 6 - 5
+AD 2 MUCC ILS RWY08.pdf AD 2 MUCC 7 - 1
+
+=== Page 14 ===
+AD 2 MUCC 1 - 14
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+Charts Pages
+AD 2 MUCC LOC RWY08.pdf AD 2 MUCC 7 - 3
+AD2 MUCC RNP RWY08.pdf AD 2 MUCC 7 - 5
+AD2 MUCC RNP RWY26.pdf AD 2 MUCC 7 - 9
+AD 2 MUCC VOR RWY08.pdf AD 2 MUCC 7 - 13
+AD 2 MUCC VOR RWY26.pdf AD 2 MUCC 7 - 15
+AD 2 MUCC VAC.pdf AD 2 MUCC 9 - 1
+AD2 MUCC CONCENT AVES(BIRDS).pdf AD 2 MUCC 10 - 1
+MUCC AD 2.25 PENETRACIÓN DE LA SUPERFICIE DEL SEGMENTO VISUAL (VSS)
+MUCC AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+No se aplica / Not applicable
+
+=== Page 15 ===
+ESCALA / SCALE
+1:10 000
+0100 100 200 300 400 m
+VAR 8º W - 2020REGIMEN VARIACIONANUAL /ANNUAL RATE OF CHANGE 06´ W
+SWY
+60 x 45
+SWY
+60 x 45
+ELEV
+3
+ELEV
+4
+EN CONSTRUCCION /
+UNDER CONTRUCTION
+WDI
+WDI
+SISTEMA SENCILLO DE ILUMINACION 
+DE APROXIMACION / SIMPLE APPROACH 
+LIGHTING SYSTEM
+26
+FRANJA / SR
+TIP
+ 3240 x 300
+RESA
+90 x 90
+RESA
+90 x 90
+ARP
+PLANO DE AERODROMO - OACI /
+AERODROME CHART - ICAO 
+CAYO COCO / Jardines del Rey Intl 22º27’40’’N
+078º19’43’’W
+ELEV 4 TWR 118.80
+ESCALA / SCALE
+1:20 000
+0200 200 400 600 800 m
+CALLES DE RODAJE ANCHO /
+TAXIWAYS WIDE 23
+ELEV Y DIMENSIONES EN METROS
+BRG SON MAG /
+ELEV AND DIMENSIONS IN METRES
+BRG ARE MAG
+SEÑALES Y AYUDAS LUMINOSAS RWY 08/26 Y CALLES DE RODAJE DE SALIDA / MARKING AND LIGHTING AIDS RWY 08/26 AND EXIT TAXIWAYS  
+SFC: ASPH CONC
+PAPI 3º
+MEHT 19.79
+SFC: CONC HIDRAULICO /
+       HYDRAULIC CONC
+PAPI 3º
+MEHT 19.79
+3000x 45 ASFALTO / ASPHAL
+T 
+26
+08
+VOR/DME
+UCJ 117.8  
+CH 125X
+22º28’02.68’’N
+078º18’43.08’’W
+JARDINES
+DEL REY
+08
+GP 333.8
+ILS/GP/DME
+22º27’23.24’’N
+078º20’20.59’’W
+ICJ 108.9
+ILS/LLZ
+22º28’01.61’’N
+078º18’33.51’’W
+A
+B
+PLATAFORMA /
+APRON
+2
+12
+TWR
+TERMINAL
+ADUANA / CUST
+ARO/AIS/MET
+Esc. 1/150DETALLE 1
+DETALLE 2Esc. 1/20
+DETALLE 3Esc. 1/40
+BARRA DE ALINEACIÓNDETALLE 4
+DETALLE 5
+Esc. 1/20
+Esc. 1/20
+Esc.1/400DETALLE 6
+UDETALLE 7Esc.1/1000
+4
+1
+PARQUEO / CAR PARK
+INCINERADOR / 
+INCINERATOR
+PLATAFORMA / 
+APRON  ENSA
+PLANTA DE TRATAMIENTO /
+PROCESSING FACILITIES
+BOMBEROS / 
+FIRE STATION
+COMBUSTIBLE / FUEL
+RWY DIRECCION
+DIRECTION
+22º27’23.54’’N
+078º20’32.58’’W
+22º27’55.26’’N
+078º18’53.36’’W
+RESISTENCIA
+STRENGTH
+PCN 57/F/B/X/T
+RWY, TWY
+N
+079º
+259º
+-22.21
+-22.25
+08
+26
+THR
+12
+8
+9
+10
+11
+12
+RVR
+AIP-CUBA AD 2 MUCC 2 - 1
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 17 ===
+PLANO DE ESTACIONAMIENTO
+Y ATRAQUE DE AERONAVES - OACI /
+AIRCRAFT PARKING / DOCKING  CHART - ICAO
+ELEV
+APN
+NIL
+CAYO COCO / Jardines del Rey IntlTWR  118.80
+COORDENADAS INS DE PUESTOS DE ESTACIONAMIENTO DE AERONAVES /
+INS COORDINATES FOR AIRCRAFT STANDS
+PLATAFORMA / APRON
+8      22º27’53.79’’N  078º19’49.70’’W
+9      22º27’54.40’’N  078º19’47.51’’W
+10      22º27’55.29’’N  078º19’45.12’’W
+11      22º27’56.04’’N  078º19’42.71’’W
+12      22º27’56.74’’N  078º19’40.56'’W
+ESCALA / SCALE
+1:10 000
+0100 100 200 300 400 m
+TWY ANCHO / WIDE 23 M
+RESISTENCIA / STRENGTH TWY
+PCN 57/F/B/X/T
+PUESTOS ESTACIONAMIENTO
+AERONAVES / AIRCRAFT STAND
+LUCES CALLES DE RODAJE /
+TAXIWAY LIGHT
+RODAJE - PUNTO DE ESPERA /
+TAXI - HOLDING POSITION
+LIMITE DEL SERVICIO ATC /
+ATC SERVICE BOUNDARY
+LEYENDA / LEGEND
+5
+THR 08 THR 26RWY 08 / 26
+VAR 8º W - 2020REGIMEN VARIACION
+ANUAL /
+ANNUAL RATE
+OF CHANGE 06
+’W
+ARP
+A
+B
+PLATAFORMA /
+APRON
+2 12
+TWR
+TERMINAL
+ADUANA / CUST
+ARO/AIS/MET
+8
+Esc. 1/150DETALLE 1DETALLE 2Esc. 1/20
+DETALLE 3Esc. 1/40BARRA DE ALINEACIÓNDETALLE 4DETALLE 5Esc. 1/20Esc. 1/20Esc.1/400DETALLE 6
+UDETALLE 7Esc.1/1000
+41
+PARQUEO / CAR PARK
+BOMBEROS /
+FIRE STATION
+9 10 11 12
+RWY 08 RWY 26
+SUBESTACIÓN ELÉCTRICA /
+ELECTRICAL SUBSTATION
+AIP-CUBA AD 2 MUCC 3 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 19 ===
+Camino / Roads
+Zona de parada / Stopway
+1
+0 500 1000 1500 2000
+1000 2000 3000 4000 5000 60000
+1:15000
+100 200
+500
+2500300400
+1000 7000 8000
+0
+25
+50
+75
+100
+0
+50
+100
+150
+200
+250
+300
+1:1 500
+Y/
+Construcción / Construction
+3000
+3000
+3060
+3000
+3000
+3000
+3060
+3000
+Eje central de las áreas de trayectoria de despegue /
+Take-oﬀ ﬂight path areas center line
+1 9.3
+0 3000 3300 3600
+0
+30
+60
+1
+08
+26079º 259º 60 x 4560 x 45
+3 4
+Curva de nivel / Level curve
+Línea de contorno / Contour line
+No.
+CA
+YO COCO / JARDINES DEL REY INTLPLANO DE OBSTACULOS DE AERODROMO - OACI TIPO A / AERODROME OBSTACLE CHART - ICAO TYPE A
+RWY 08/26
+AMDT 103-24
+(Nuevo formato eAIP /
+New format eAIP)
+AIP-CUBA AD 2 MUCC 4 - 1
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 21 ===
+ P I D N O 1
+ 6 6 0
+ 3 3 0
+ 6 6 0
+ 9 8 0
+ 2 4 °   0 0 '   0 0 "   N
+ 0 7 8 °   4 7 '   4 5 "   W
+ 2 2 ° 4 2 ' 2 4 . 8 9 " N
+ 0 7 8 ° 1 6 ' 3 0 . 0 9 " W
+ Z E U S S
+ B I M B I
+ B I M B I 4
+ 0 7 9 °
+ 3 4 7 °
+""
+"ì
+""
+ß
+ 8 2 . 5
+ 0 1 5 °
+ 0 4 5 °
+"
+"ì
+""
+ß 7 8 . 3
+"
+"ì
+""
+ß 6 9 . 0
+ 2 2 ° 3 9 ' 0 3 . 9 2 " N
+ 0 7 8 ° 0 7 ' 3 0 . 2 2 " W
+ 2 3 °   5 7 '   0 0 "   N
+ 0 7 7 °   5 6 '   4 7 "   W
+ 2 3 °   3 3 '   4 4 "   N
+ 0 7 7 °   2 1 '   3 5 "   W
+ P I D N O
+ D Y N A H  E N A M O
+ 4 5 9
+ ( 4 4 6 )
+ 1 2 8 3
+ ( 1 2 7 0 )
+ 1 0 8
+ ( 9 5 )
+ 3 3 0
+ C A R T A   D E   S A L I D A   N O R M A L I Z A D A   -   V U E L O   P O R   I N S T R U M E N T O S   ( S I D )   -   O A C I   /  
+ S T A N D A R D   D E P A R T U R E   C H A R T   -   I N S T R U M E N T   ( S I D )   -   I C A O
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ R N A V   C C O   R W Y   0 8
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+BIMBI4, PIDNO1
+Especificación de NAV/
+NAV Specification: RNAV-1
+TA 3000 FT
+ A D   M U C C
+ 7 8 ° 0 0 ' W
+ 7 8 ° 0 0 ' W
+ 2 3 ° 0 0 ' N 2 3 ° 0 0 ' N
+ C A
+FALLA DE COM / COM FAILURE:
+ D e n t r o   d e   l o s   5   M I N   A F T   T K O F ,   s i   c o n s i d e r a   n o  
+ c o n v e n i e n t e   c o n t i n u a r   e l   F L T ,   a c t i v e   S S R   7 6 0 0 ,  
+ C O N T   e n   S I D   y / o   R T E   a s i g n a d a ,   a s c i e n d a   a   F L  
+ 1 6 0   o   F L   R E Q     e n   F P L ,   e l   q u e   s e a   m e n o r . 1 0   M I N  
+ A F T   T K O F ,   a s c i e n d a   a   F L   R E Q   e n   F P L   s i   e s   s u p e r i o r    
+ a   F L   1 6 0 ,   E X C   A C F T   s o b r e v o l a n d o   Z E U S S ,   D Y N A H  
+ O   E N A M O   q u e   a s c e n d e r á n   s o l o   h a s t a   F L 2 6 0 .  
+ / W I   5   M I N   A F T   T K O F ,   a n d   i f   i t   i s   n o t   c o n v e n i e n t   t o  
+ f i n i s h   t h e   F L T ,   a c t i v e     S S R   7 6 0 0 ,   C O N T   o n   a s s i g n e d  
+ S I D   a n d / o r   R T E ,   c l i m b   t o   F L 1 6 0   o r   t h e   R E Q   F L   i n   F P L ,  
+ w h i c h e v e r   i s   l o w e r .   1 0   M I N   A F T   T K O F   c l i m b   t o   t h e   R E Q  
+ F L   i n   F P L     i f   i t   i s   h i g h e r   t h a n   F L 1 6 0 ,   E X C   A C F T   o v e r f l y i n g  
+ Z E U S S ,   D Y N A H ,   o r   E N A M O   c l i m b   o n l y   t o   F L 2 6 0 .
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D  
+ H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ 2 0 2 0
+ V A R   8 ° W
+H
+ 1 0
+ 0  4  8  1 2  1 6  2 0  2 4 2
+ N M
+ 0  8  1 6  2 4  3 2  4 0  4 8 4
+ K M
+ESCALA / SCALE 1:750 000
+ 1 6
+ 1 4
+ 2 8
+ D F
+ D F
+ 2 5 N M
+&
+ 2 3 0 °
+ A R P
+ 2 2 ° 2 7  4 0   N
+ 0 7 8 ° 1 9  4 3   W
+ M S A
+ 2 5   N M
+& 2 3 0 0
+ 1 5 0 °
+ 1 5 0 0
+!«D
+ 2 0 0 0
+AIP-CUBA AD 2 MUCC 5 - 1
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 22 ===
+AD 2 MUCC 5 - 2
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+
+=== Page 23 ===
+SALIDA BIMBI4 (RWY08) BIMBI4 DEPARTURE (RWY08)
+Ascienda en derrota 079°, a 2000 FT vire a la izquierda
+directo a BIMBI y continúe por transición asignada.
+Climb on 079° track, at 2000 FT turn left direct to BIMBI
+and continue by assigned  transition.
+TRANSICION: 
+ZEUSS: Desde  BIMBI  proceda  en derrota 347° hasta
+ZEUSS.
+TRANSITION:
+ZEUSS:  From  BIMBI  proceed  on  347°  track  to
+ZEUSS.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+BIMBI4 SID RWY08 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+ (°)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+001 CA - - 079 
+(071.0) -7.5 - - @2000 - - - RNAV-1 
+002 DF BIMBI - - -7.5 - L - - - - RNAV-1 
+SALIDA PIDNO1  (RWY 08) PIDNO1 DEPARTURE (RWY 08)
+Ascienda en derrota 079°, a 2000 FT vire a la izquierda
+directo a PIDNO  y continúe por  transición asignada.
+Climb on 079° track, at 2000 FT turn left direct to PIDNO
+and continue by assigned  transition.
+TRANSICIONES: 
+ENAMO: Desde PIDNO proceda en derrota 045° hasta
+ENAMO.
+DYNAH: Desde PIDNO proceda en derrota 015° hasta
+DYNAH.
+TRANSITIONS:
+ENAMO: From PIDNO proceed on 045° track  to ENAMO.
+DYNAH: From PIDNO proceed on 015°  track  to DYNAH.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO  / CCO RNAV  DEPARTURE CODING TABLE.
+PIDNO1 SID RWY 08   
+Número
+ de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation
+(°) 
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+001 CA - - 079 
+(071.0) -7.5 - - @2000 - - - RNAV-1 
+002 DF PIDNO - - -7.5 - L - - - - RNAV-1 
+AIP-CUBA AD 2 MUCC 5 - 3
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 25 ===
+ C A
+ 6 6 0
+ 2 0 0 0
+   2 2 °   4 1 '   5 6 . 6 5 "   N
+ 0 7 8 °   3 2 '   2 1 . 6 7 "   W
+   2 4 °   0 0 '   0 0 "   N
+ 0 7 8 °   4 7 '   4 5 "   W
+ R E S E B
+ Z E U S S
+ R E S E B 2
+ 2 5 9 °
+ 3 5 7 °
+ D F
+""
+"ì
+""
+ß
+ 7 9 . 1
+ B O N U V 1
+ D F
+ 0 2 7 °
+ 0 5 6 °
+"
+"ì
+""
+ß 7 9 . 9 ""ì""ß
+ 7 8 . 9
+   2 2 °   4 1 '   2 2 . 6 9 "   N
+ 0 7 8 °   2 5 '   4 3 . 7 5 "   W
+   2 3 °   5 7 '   0 0 "   N
+ 0 7 7 °   5 6 '   4 7 "   W
+   2 3 °   3 3 '   4 4 "   N
+ 0 7 7 °   2 1 '   3 5 "   W
+ B O N U V
+ D Y N A H
+ E N A M O
+ 4 5 9
+ ( 4 4 6 )
+ 1 2 8 3
+ ( 1 2 7 0 )
+ 3 3 0
+ 3 3 0
+ 6 6 0
+ 9 8 0
+ C A R T A   D E   S A L I D A   N O R M A L I Z A D A   -   V U E L O   P O R   I N S T R U M E N T O S   ( S I D )   -   O A C I   /  
+ S T A N D A R D   D E P A R T U R E   C H A R T   -   I N S T R U M E N T   ( S I D )   -   I C A O
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ R N A V   C C O   R W Y   2 6
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+BONUV1, RESEB2
+Especificación de NAV/
+NAV Specification: RNAV-1
+TA 3000 FT
+ A D   M U C C
+ 7 8 ° 0 0 ' W
+ 2 3 ° 0 0 ' N
+ 7 8 ° 0 0 ' W
+ 2 3 ° 0 0 ' N
+ 2 8
+ 1 6
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D  
+ H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ 2 0 2 0
+ V A R   8 ° W
+H
+ 1 0
+ 1 4
+FALLA DE COM / COM FAILURE:
+ D e n t r o   d e   l o s   5   M I N   A F T   T K O F ,   s i   c o n s i d e r a     n o   c o n v e n i e n t e  
+ c o n t i n u a r   e l   F L T ,   a c t i v e   S S R   7 6 0 0 ,   C O N T   e n   S I D   y / o   R T E  
+ a s i g n a d a ,   a s c i e n d a   a   F L   1 6 0   o   F L   R E Q   e n   F P L ,   e l   q u e   s e a   m e n o r .
+ 1 0   M I N   A F T   T K O F ,   a s c i e n d a   a   F L   R E Q   e n   F P L   s i   e s   s u p e r i o r
+   a   F L   1 6 0 ,   E X C   A C F T   s o b r e v o l a n d o   Z E U S S ,   D Y N A H   o   E N A M O  
+ q u e   a s c e n d e r á n   s o l o   h a s t a   F L 2 6 0 .   /   W I   5   M I N   A F T   T K O F ,   a n d
+   i f   i t   i s   n o t   c o n v e n i e n t   t o   f i n i s h   t h e   F L T ,   a c t i v e   S S R   7 6 0 0 ,   C O N T  
+ o n   a s s i g n e d   S I D   a n d / o r   R T E ,   c l i m b   t o   F L 1 6 0   o r   t h e   R E Q   F L   i n   F P L ,  
+ w h i c h e v e r   i s   l o w e r .   1 0   M I N   A F T   T K O F   c l i m b   t o   t h e   R E Q  
+ F L   i n   F P L     i f   i t   i s   h i g h e r   t h a n   F L 1 6 0 ,   E X C   A C F T   o v e r f l i y i n g  
+ Z E U S S ,   D Y N A H ,   o r   E N A M O   c l i m b   o n l y   t o   F L 2 6 0 .
+ESCALA / SCALE 1:750 000
+ 0  4  8  1 2  1 6  2 0  2 4 2
+ N M
+ 0  8  1 6  2 4  3 2  4 0  4 8 4
+ K M
+ 2 5 N M
+«D
+ A R P
+ 2 2 ° 2 7  4 0   N
+ 0 7 8 ° 1 9  4 3   W
+ M S A
+ 2 5   N M
+ 1 5 0 0
+ 2 3 0 0
+ 1 5 0 ° 2 3 0 °(!Ñ
+& &
+AIP-CUBA AD 2 MUCC 5 - 5
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 26 ===
+AD 2 MUCC 5 - 6
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+
+=== Page 27 ===
+SALIDA BONUV1  (RWY 26) BONUV1 DEPARTURE  (RWY 26)
+Ascienda en derrota 259°, a 2000 FT vire a la derecha
+directo a BONUV y continúe por  transición asignada.
+Climb on 259° track, at 2000 FT turn  right direct to BONUV
+and continue by assigned  transition.
+TRANSICIONES: 
+DYNAH: Desde BONUV proceda en derrota 027° hasta
+DYNAH.
+ENAMO: Desde BONUV proceda en derrota 056° hasta
+ENAMO.
+TRANSITIONS:
+DYNAH: From BONUV proceed on 027°  track  to DYNAH.
+ENAMO: From BONUV proceed on 056° track  to ENAMO.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO  /  CCO RNAV  DEPARTURE CODING TABLE.
+BONUV1 SID RWY 26    
+Número
+ de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+ ( °)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+001 CA - - 259 
+(251.0) -7.5 - - @2000 - - - RNAV-1 
+002 DF BONUV - - -7.5 - R - - - - RNAV-1 
+SALIDA RESEB2  (RWY 26) RESEB2 DEPARTURE  (RWY 26)
+Ascienda en derrota 259°, a 2000 FT vire a la derecha
+directo a RESEB y continúe por  transición asignada.
+Climb on 259°  track, at 2000 FT turn right direct to RESEB
+and continue by assigned  transition.
+TRANSICION: 
+ZEUSS: Desde  RESEB  proceda  en  derrota  357° hasta
+ZEUSS.
+TRANSITION:
+ZEUSS: From  RESEB  proceed  on  357°  track  to
+ZEUSS.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO  / CCO RNAV  DEPARTURE CODING TABLE.
+RESEB2 SID RWY 26     
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+(°)
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+001 CA - - 259 
+(251.0) -7.5 - - @2000 - - - RNAV-1 
+002 DF RESEB - - -7.5 - R - - - RNAV-1 
+AIP-CUBA AD 2 MUCC 5 - 7
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 29 ===
+ M O C A   1 1 0 0
+"
+"ì
+""
+ß 1 1 . 9 R E S E B 1
+ T F
+ 4 . 2   N M
+188°008°
+ F L   M
+ N M
+ 0 4 0
+ 1   M
+ I N
+ 3 3 0
+ 6 6 0
+"
+"ì
+""
+ß 8 3 . 1
+"
+"ì
+""
+ß
+ 8 1 . 7
+""ì"" ß 8 3 . 2
+ 1 8 8 °
+ 1 6 7 °
+ 2 1 1 °
+ 2 3 9 °
+ M O C A   1 1 0 0
+ M O C A   1 1 0 0
+ M
+ O C A   1 1 0 0
+ 2 2 ° 2 9 ' 5 7 . 8 3 " N
+ 0 7 8 ° 3 2 ' 2 4 . 4 3 " W
+ 3 0 0 0
+ 1 5 . 6   N M   t o   T H R 0 8
+ 2 3 ° 3 3 ' 4 4 " N
+ 0 7 7 ° 2 1 ' 3 5   W
+ 2 3 ° 5 7 ' 0 0 " N
+ 0 7 7 ° 5 6 '   4 7 " W
+ 2 4 ° 0 0 ' 0 0 " N
+ 0 7 9 ° 0 4 ' 1 2 " W
+ 2 2 ° 4 1 ' 5 6 . 6 5 " N
+ 0 7 8 ° 3 2 ' 2 1 . 6 7 " W
+ 2 7 . 5   N M   t o   T H R 0 8
+ 2 2 ° 2 4 ' 1 6 . 2 3 " N
+ 0 7 8 ° 3 0 ' 1 8 . 0 1 " W
+ 1 5 0 0
+ 9 . 6   N M   t o   T H R 0 8
+ 2 2 ° 1 8 ' 3 4 . 5 9 "   N
+ 0 7 8 ° 2 8 ' 1 1 . 7 7 " W
+ 3 0 0 0
+ 1 5 . 6   N M   t o   T H R 0 8
+ I A F
+ C C 4 0 0
+ E N A M O
+ D Y N A H U R S U S
+ R E S E B
+ I A F / I F
+ V O K A D  I A F
+ C C 4 0 1 4 5 9
+ ( 4 4 6 )
+ 1 2 8 3
+ ( 1 2 7 0 )
+ 3 3 0
+ 6 6 0
+ 6 6 0
+ 9 8 0
+ 7 8 ° 0 ' W
+ 7 8 ° 0 ' W
+ 7 9 ° 0 ' W
+ 7 9 ° 0 ' W
+ 2 3 ° 0 ' N  2 3 ° 0 ' N
+ C A R T A   D E   L L E G A D A   N O R M A L I Z A D A   -   V U E L O   P O R   I N S T R U M E N T O S   ( S T A R )   -   O A C I   /  
+ S T A N D A R D   A R R I V A L   C H A R T   -   I N S T R U M E N T   ( S T A R )   -   I C A O
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ R N A V   C D O   R W Y   0 8
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+RESEB1
+Especificación de NAV / 
+NAV Specification: RNAV-1
+ A D   M U C C
+TA 3000 FT
+ 1 0
+ 1 6
+ 1 4
+ 1 4
+ 3 9
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D  
+ H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ 2 0 2 0
+ V A R   8 ° W
+H
+ 2 8
+ESCALA / SCALE 1:750 000
+ N M
+ 5  0  5  1 0  1 5  2 0  2 5 2 . 5
+ K M
+ 1 0  0  1 0  2 0  3 0  4 0  5 0 5
+FALLA DE COM / COM FAILURE:
+ A c t i v e   S S R   7 6 0 0   y   p r o c e d a   s e g ú n   A n e x o   2   y   D o c .   4 4 4 4   d e   l a   O A C I .   /
+ A c t i v e   S S R   7 6 0 0   a n d   p r o c e e d   a c c o r d i n g   I C A O   A n n e x   2   a n d   D o c .   4 4 4 4 .
+ 2 5 N M
+ A R P
+ 2 2 ° 2 7  4 0   N
+ 0 7 8 ° 1 9  4 3   W
+ M S A
+ 2 5   N M
+ 1 5 0 0
+ 2 3 0 0
+ 3 3 0 ° 0 5 0 °& &!>
+AIP-CUBA AD 2 MUCC 6 - 1
+05 FEB 2025
+AIS-CUBA AIP AMDT 01/25
+
+=== Page 30 ===
+AD 2 MUCC 6 - 2
+05 FEB 2025
+AIP-CUBA
+AIP AMDT 01/25 AIS-CUBA
+
+=== Page 31 ===
+LLEGADA RESEB1 (RWY 08) RESEB1 ARRIVAL (RWY 08) 
+Desde RESEB proceda en derrota 188° hasta CC400, a
+3000 FT o superior.
+From RESEB proceed on 188° track to CC400, at 3000 FT
+or above.
+TRANSICIONES:
+DYNAH: Desde DYNAH proceda en derrota 211° hasta
+RESEB.
+ENAMO: Desde ENAMO proceda en derrota 239° hasta
+RESEB.
+URSUS: Desde URSUS proceda en derrota 167° hasta
+RESEB.
+TRANSITIONS:
+DYNAH: From DYNAH proceed on 211°  track  to RESEB.
+ENAMO: From ENAMO proceed on 239°  track  to RESEB. 
+URSUS: From URSUS proceed on 167°  track  to RESEB.
+TABLA DE CODIFICACIÓN DE LA LLEGADA RNAV CDO /  CDO RNAV  ARRIVAL  CODING TABLE.
+RESEB1 STAR RWY 08  
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course
+°MAG
+ (°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 08 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF RESEB - - -7.5 - 27.5 - - - - RNAV-1 
+002 TF CC400 - 188
+(180.2) -7.5 11.9 15.6 - +3000 - - RNAV-1 
+CODIFICACIÓN DE ESPERA CON FUNCIONALIDAD / CODING TABLE FOR HOLDING WITH 
+FUNTIONALITY. MUCC STAR RWY 08 
+Descriptor 
+de trayectoria/ 
+Path Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum 
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum 
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed  
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination 
+(°)
+Especificación   
+de navegación/
+Navigation 
+Specification
+Espera/
+Holding RESEB 188
+(180.2) R /4.2NM FL040 FL140 -230 -7.5 RNAV-1 
+AIP-CUBA AD 2 MUCC 6 - 3
+05 FEB 2025
+AIS-CUBA AIP AMDT 01/25
+
+=== Page 33 ===
+ 4 . 2   N M  F L   M
+ N M
+ 0 4 0
+ 1   M
+ I N
+ M
+ O C A   1 0 0 0  T F
+ 3 3 0
+ 6 6 0
+ 3 3 0
+ S I D M
+ A 1 1 8 3 °
+183°
+ 1 9 9 °
+ 1 5 5 °
+ 2 3 2 °
+003°
+"
+"ì
+""
+ 9 . 2
+"
+"ì
+""
+ß
+ 7 2 . 5 °
+"
+"ì
+""
+ß 8 7 . 9
+"
+"ì
+"" ß
+ 6 7 . 0
+ M
+ O C A   1 0 0 0 M O C A   1 0 0 0
+ M O C A   1 0 0 0
+ 2 3 ° 3 3 ' 4 4 " N
+ 0 7 7 ° 2 1 ' 3 5 " W
+ 2 3 ° 5 7 ' 0 0 " N
+ 0 7 7 ° 5 6 ' 4 7 " W
+ 2 4 ° 0 0 ' 0 0 " N
+ 0 7 9 ° 0 4 ' 1 2 " W
+ E N A M O U R S U S
+ 2 2 ° 2 5 ' 1 0 . 7 9 " N
+ 0 7 8 ° 0 7 ' 3 2 . 4 5 " W
+ 3 0 0 0
+ 1 5 . 1   N M   t o   T H R 2 6
+ 2 2 ° 3 0 ' 5 2 . 4 0 " N
+ 0 7 8 ° 0 9 ' 3 8 . 8 5 " W
+ 1 5 0 0
+ 9 . 1   N M     t o   T H R 2 6
+ 2 2 ° 4 5 ' 4 5 . 7 9 " N
+ 0 7 8 ° 1 2 ' 3 1 . 9 7 " W
+ 2 4 . 3   N M   t o   T H R 2 6
+ 2 2 ° 3 6 ' 3 3 . 9 7 " N
+ 0 7 8 ° 1 1 ' 4 5 . 4 4 " W
+ 3 0 0 0
+ 1 5 . 1   N M   t o   T H R 2 6
+ D Y N A H
+ I A F
+ C C 4 0 2
+ S I D M A
+ I A F
+ C C 4 0 3
+ I A F / I F
+ D A V K U
+ 0
+ 6 6 0
+ 4 5 9
+ ( 4 4 6 )
+ 1 2 8 3
+ ( 1 2 7 0 )
+ 7 8 ° 0 ' W
+ 7 8 ° 0 ' W
+ 2 3 ° 0 ' N  2 3 ° 0 ' N
+ C A R T A   D E   L L E G A D A   N O R M A L I Z A D A   -   V U E L O   P O R   I N S T R U M E N T O S   ( S T A R )   -   O A C I   /  
+ S T A N D A R D   A R R I V A L   C H A R T   -   I N S T R U M E N T   ( S T A R )   -   I C A O
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ R N A V   C D O   R W Y   2 6
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+SIDMA1
+Especificación de NAV / 
+NAV Specification: RNAV-1
+ A D   M U C C
+TA 3000 FT
+ 1 0
+ 1 6
+ 1 4
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D  
+ H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ 2 0 2 0
+ V A R   8 ° W
+H
+ 2 8
+ESCALA / SCALE 1:750 000
+ N M
+ 5  0  5  1 0  1 5  2 0  2 5 2 . 5
+ K M
+ 1 0  0  1 0  2 0  3 0  4 0  5 0 5
+ 2 5 N M
+ A R P
+ 2 2 ° 2 7  4 0   N
+ 0 7 8 ° 1 9  4 3   W
+ M S A
+ 2 5   N M
+ 1 5 0 0
+ 2 3 0 0
+ 3 3 0 ° 0 5 0 °& &!>
+FALLA DE COM / COM FAILURE:
+ A c t i v e   S S R   7 6 0 0   y   p r o c e d a   s e g ú n   A n e x o   2   y   D o c .   4 4 4 4   d e   l a   O A C I .   /
+ A c t i v e   S S R   7 6 0 0   a n d   p r o c e e d   a c c o r d i n g   I C A O   A n n e x   2   a n d   D o c .   4 4 4 4 .
+AIP-CUBA AD 2 MUCC 6 - 5
+05 FEB 2025
+AIS-CUBA AIP AMDT 01/25
+
+=== Page 34 ===
+AD 2 MUCC 6 - 6
+05 FEB 2025
+AIP-CUBA
+AIP AMDT 01/25 AIS-CUBA
+
+=== Page 35 ===
+LLEGADA SIDMA1 (RWY 26) SIDMA1 ARRIVAL (RWY 26)
+Desde SIDMA proceda en derrota 183° hasta CC402, a
+3000 FT o superior.
+From SIDMA proceed on 183° track to CC402, at 3000 FT
+or above.
+TRANSICIONES: 
+DYNAH: Desde DYNAH proceda en derrota 199° hasta
+SIDMA.
+ENAMO: Desde ENAMO proceda en derrota 232° hasta
+SIDMA.
+URSUS: Desde URSUS proceda en derrota 155° hasta
+SIDMA.
+TRANSITIONS:
+DYNAH: From DYNAH proceed on 199° track to SIDMA.
+ENAMO: From ENAMO proceed on 232° track to SIDMA.
+URSUS: From URSUS proceed on 155° track to SIDMA.
+TABLA DE CODIFICACIÓN DE LA LLEGADA RNAV CDO  / CDO RNAV  ARRIVAL  CODING TABLE.
+SIDMA1 STAR RWY 26 
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course/  
+°MAG
+ (°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 26 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF SIDMA - - -7.5 - 24.3 - - - - RNAV-1 
+002 TF CC402 - 183
+(174.5) -7.5 9.2 15.1 - +3000 - - RNAV-1 
+CODIFICACIÓN DE LAS ESPERAS CON FUNCIONALIDAD / CODING TABLE FOR HOLDINGS 
+WITH FUNTIONALITY. MUCC STAR RWY 26 
+Descriptor de 
+trayectoria/ 
+Path Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum 
+altitude  
+(FT)
+Altitud 
+máxima/ 
+Maximum 
+altitude  
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit 
+(KT)
+Declinación
+magnética/
+Magnetic
+declination 
+(°)
+Especificación
+de navegación/
+Navigation 
+Specification
+Espera/
+Holding SIDMA 183
+(174.5) R /4.2NM FL040 FL140 -230 -7.5 RNAV-1 
+AIP-CUBA AD 2 MUCC 6 - 7
+05 FEB 2025
+AIS-CUBA AIP AMDT 01/25
+
+=== Page 37 ===
+ 0 7 9 °
+ 3 4 9 °
+ 1 6 9 °
+ 0 7 9 °
+ 2 5 9 °
+ R - 1 4 3
+ 6 . 0   N M
+ 6 . 0   N M
+ R - 2 8 9
+ M O C A   1 0 0 0
+ M O C A   1 1 0 0
+ U C J   D M E  
+ 8 . 0
+ 2 2 °   2 4 '   1 6 . 2 3 "   N
+ 0 7 8 °   3 0 '   1 8 . 0 1 "   W
+ U C J   R - 2 5 8 /
+ I C J   9 . 7 D M E
+ 1 5 0 0
+ 9 . 6   N M   t o   T H R 0 8 2 2 °   1 8 '   3 4 . 5 9 "   N
+ 0 7 8 °   2 8 '   1 1 . 7 7 "   W
+ U C J
+ R - 2 3 1 / 1 2 . 9   D M E
+ 1 5 . 6   N M   t o   T H R 0 8
+ 3 0 0 0
+ 2 2 °   2 9 '   5 7 . 8 3 "   N
+ 0 7 8 °   3 2 '   2 4 . 4 3 "   W
+ U C J
+ R - 2 8 6 / 1 2 . 8   D M E
+ 1 5 . 6   N M   t o   T H R 0 8
+ 3 0 0 0
+ 2 2 °   2 5 '   5 4 . 2 0 "   N
+ 0 7 8 °   2 5 '   1 1 . 8 5 "   W
+ I C J   4 . 7   D M E
+ 1 5 0 0
+ I A F / I F
+ V O K A D
+ I A F
+ C C 4 0 1
+ I A F
+ C C 4 0 0
+ F A P
+ C C 4 0 8
+ R - 1 0 9
+ 1 0 9 °
+ 2 2 6
+ ( 2 1 3 )
+ 7 8 ° 1 0 ' W
+ 7 8 ° 1 0 ' W
+ 7 8 ° 2 0 ' W
+ 7 8 ° 2 0 ' W
+ 7 8 ° 3 0 ' W
+ 7 8 ° 3 0 ' W
+ 2 2 ° 4 0 ' N
+ 2 2 ° 4 0 ' N
+ 2 2 ° 3 0 ' N
+ 2 2 ° 3 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 1 0 ' N
+ 2 2 ° 1 0 ' N
+ C A R T A   D E   A P R O X I M A C I O N   P O R   I N S T R U M E N T O S   -   O A C I   /  
+ I N S T R U M E N T   A P P R O A C H   C H A R T   -   I C A O
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ I L S
+ R W Y   0 8
+ C A T   A ,   B ,   C ,   D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ A S C I E N D A   H A S T A   1 0 0 0   F T   E N   D E R R O T A   0 7 9 ° ,   V I R E   A   L A
+ D E R E C H A ,   I N T E R C E P T E   R - 1 4 3   V O R / U C J   Y   C O N T I N Ú E
+ H A C I A   P A T R Ó N   D E   E S P E R A   K A S E N   A   F L 0 4 0   Y   E S P E R E
+ I N S T R U C C I O N E S   A T C   /   C L I M B   O N   T R A C K     0 7 9 °   U N T I L
+ 1 0 0 0   F T ,   T U R N   R I G H T   I N T E R C E P T   R - 1 4 3 .   U C J / V O R
+ A N D   C O N T I N U E   T O   K A S E N   H O L D I N G   P A T T E R N  
+ T O   F L 0 4 0   A N D   E X P E C T   A T C   I N S T R U C T I O N S .
+ O C A ( H )
+ C A T - I
+ C I R C U L A R
+ C I R C L I N G
+ A  B  C  D
+ 2 6 0   ( 2 5 0 )   0 . 8   K M
+ D I S T A N C I A
+ D I S T A N C E  N M
+ F A P   -   T H R 0 8       4 . 6
+ V S P   G S   3 . 0 0 %
+ D M E   I C J
+ K T
+ M I N
+ S E C
+ F T
+ M I N
+ 8 0  1 0 0  1 2 0  1 4 0  1 6 0  1 8 0
+ 3 : 2 7  2 : 4 6  2 : 1 8 1 : 5 8  1 : 4 4  1 : 3 2
+ 4 3 0  5 3 0  6 4 0  7 4 0  8 5 0  9 6 0
+ A L T   /   ( H G T )
+ 4 . 0   N M 3 . 0   N M 2 . 0   N M 1 . 0   N M
+ 1 2 7 0
+ ( 1 2 6 0 )
+ 9 5 0
+ ( 9 4 0 )
+ 6 3 0
+ ( 6 2 0 )
+ 3 2 0
+ ( 3 1 0 )
+ 1 0 0 0   ( 9 8 7 )   5 . 4   K M
+ E S C A L A   /   S C A L E   1 : 3 5 0   0 0 0
+ 0  2  4  6  8 1
+ N M
+ 0  4  8  1 2  1 6 2
+ K M
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+ 1 0   N M
+&
+&
+ 1 4 3 °
+ R - 1 4 3
+ F L   M N M
+ 0 4 0
+ 1   M I N
+ K A S E N
+ A L T   M N M
+ 3 0 0 0
+ 1   M I N
+ J A R D I N E S   D E L   R E Y
+ U C J   1 1 7 . 8
+ C H   1 2 5 X
+ "   "               "      "         "             
+ 2 2 °   2 8 '   0 2 . 6 8 "   N
+ 0 7 8 °   1 8 '   4 3 . 0 8 "   W
+ 2 2 °   1 5 '   0 9 . 3 7 "   N
+ 0 7 8 °   0 4 '   5 4 . 0 8 "   W
+ U C J
+ R - 1 4 3   /   1 8 . 1   D M E
+ F L 0 4 0
+ I A F
+ V O R / D M E
+ M A H F
+ K A S E N
+ 3 0   M
+NOTA / REMARK:  D M E   R E Q U E R I D O   /   R E Q U I R E D
+ R - 2 6 9
+ R - 2 4 9
+ 0 7 9 °
+ 0 7 9 °
+ I C J   3 2 9 . 3 0
+ C H 2 6 X
+ 2 2 °   2 7 '   2 3 . 2 4 "   N
+ 0 7 8 °   2 0 '   2 0 . 5 9 "   W
+ I L S / G P / D M E
+ L L Z   I C J   1 0 8 . 9
+ "   "            "      "         "             
+ 2 2 °   2 8 '   0 1 . 6 1 "   N
+ 0 7 8 °   1 8 '   3 3 . 5 1 "   W
+ I L S
+MSA 25 NM
+")-
+"
+ F M   U C J   V O R
+ 1 5 0 0
+ 2 3 0 0
+ 1 3 0 0
+ 1 5 N M R - 2 3 0  R - 1 5 0
+ A L T   M N M 3 0 0 0 1   M I N
+ 1 0 0 0
+ U C J   D M E
+ 8 . 0
+ 5 . 0
+ M O C A   5 0 0
+ 4 . 6
+ 1 0 8
+ ( 9 5 )
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D ,   H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ 2 0 2 0
+ V A R   8 ° W
+H
+ I A F
+¸
+!5
+!5
+ E L E V   1 3
+ O C H   R E F   T H R   R W Y   0 8  
+ E L E V   1 0
+AIP-CUBA AD 2 MUCC 7 - 1
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 39 ===
+ 0 7 9 °
+ 3 4 9 °
+ 1 6 9 °
+ 0 7 9 °
+ 2 5 9 °
+ R - 1 4 3
+ 6 . 0   N M
+ 6 . 0   N M
+ R - 2 8 9
+ M O C A   1 0 0 0
+ M O C A   1 1 0 0
+ U C J   D M E  
+ 8 . 0
+ 2 2 °   2 4 '   1 6 . 2 3 "   N
+ 0 7 8 °   3 0 '   1 8 . 0 1 "   W
+ U C J   R - 2 5 8 /
+ I C J   9 . 7   D M E
+ 1 5 0 0
+ 9 . 6   N M   t o   T H R 0 8
+ 2 2 °   1 8 '   3 4 . 5 9 "   N
+ 0 7 8 °   2 8 '   1 1 . 7 7 "   W
+ U C J
+ R - 2 3 1 / 1 2 . 9   D M E
+ 3 0 0 0
+ 1 5 . 6   N M   t o   T H R 0 8
+ 2 2 °   2 9 '   5 7 . 8 3 "   N
+ 0 7 8 °   3 2 '   2 4 . 4 3 "   W
+ U C J
+ R - 2 8 6 / 1 2 . 8   D M E
+ 3 0 0 0
+ 1 5 . 6   N M   t o   T H R 0 8
+ 2 2 °   2 5 '   5 4 . 2 0 "   N
+ 0 7 8 °   2 5 '   1 1 . 8 5 "   W
+ I C J   4 . 7   D M E
+ 1 5 0 0
+ I A F / I F
+ V O K A D
+ I A F
+ C C 4 0 1
+ I A F
+ C C 4 0 0
+ F A F
+ C C 4 0 8
+ 1 0 8
+ ( 9 5 )
+ 2 2 6
+ ( 2 1 3 )
+ 7 8 ° 1 0 ' W
+ 7 8 ° 1 0 ' W
+ 7 8 ° 2 0 ' W
+ 7 8 ° 2 0 ' W
+ 7 8 ° 3 0 ' W
+ 7 8 ° 3 0 ' W
+ 2 2 ° 4 0 ' N
+ 2 2 ° 4 0 ' N
+ 2 2 ° 3 0 ' N
+ 2 2 ° 3 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 1 0 ' N
+ 2 2 ° 1 0 ' N
+ C A R T A   D E   A P R O X I M A C I O N   P O R   I N S T R U M E N T O S   -   O A C I   /  
+ I N S T R U M E N T   A P P R O A C H   C H A R T   -   I C A O
+ E L E V   1 3
+ O C H   R E F   T H R   R W Y   0 8  
+ E L E V   1 0
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ L O C
+ R W Y   0 8
+ C A T   A ,   B ,   C ,   D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ A S C I E N D A   H A S T A   1 0 0 0   F T   E N   D E R R O T A   0 7 9 °   V I R E  
+ A   L A   D E R E C H A ,   I N T E R C E P T E   R - 1 4 3   V O R / U C J     Y  
+ C O N T I N U E   H A C I A   P A T R Ó N   D E   E S P E R A   K A S E N   A  
+ F L 0 4 0   Y   E S P E R E   I N S T R U C C I O N E S   A T C   /   C L I M B   O N  
+ T R A C K   0 7 9 °   U N T I L   1 0 0 0   F T ,   T U R N   R I G T H ,   I N T E R C E P T  
+ R - 1 4 3   U C J / V O R   A N D   C O N T I N U E   T O   K A S E N   H O L D I N G
+   P A T T E R N   T O   F L   0 4 0   A N D   E X P E C T   A T C   I N S T R U C T I O N S .  
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D ,   H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ O C A ( H )
+ L O C   /   D M E
+ C I R C U L A R   /
+ C I R C L I N G
+ A  B  C  D
+ 3 0 0   ( 2 9 0 )   1 . 2   K M
+ D I S T A N C I A
+ D I S T A N C E  N M
+ F A F   -   T H R 0 8       4 . 6
+ V S P   G S   5 . 2 %
+ D M E   I C J
+ K T
+ M I N
+ S E C
+ F T
+ M I N
+ 8 0  1 0 0  1 2 0  1 4 0  1 6 0  1 8 0
+ 3 : 2 7  2 : 4 6  2 : 1 8  1 : 5 8  1 : 4 4  1 : 3 2
+ 4 3 0  5 3 0  6 4 0  7 4 0  8 5 0  9 6 0
+ A L T   /   ( H G T )
+ 4 . 0   N M  3 . 0   N M 2 . 0   N M  1 . 0   N M
+ 1 2 7 0
+ ( 1 2 6 0 )
+ 9 5 0
+ ( 9 4 0 )
+ 6 3 0
+ ( 6 2 0 )
+ 3 2 0
+ ( 3 1 0 )
+ 1 0 0 0   ( 9 8 7 )   5 . 4   K M
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+ 1 0   N M
+&
+&
+ 1 4 3 °
+ R - 1 4 3
+ F L   M N M
+ 0 4 0
+ 1   M I N
+ K A S E N
+ A L T   M N M
+ 3 0 0 0
+ 1   M I N
+ J A R D I N E S   D E L   R E Y
+ U C J   1 1 7 . 8
+ C H   1 2 5 X
+ "   "               "      "         "             
+ 2 2 °   2 8 '   0 2 . 6 8 "   N
+ 0 7 8 °   1 8 '   4 3 . 0 8 "   W
+ 2 2 °   1 5 '   0 9 . 3 7 "   N
+ 0 7 8 °   0 4 '   5 4 . 0 8 "   W
+ R - 1 4 3
+ 1 8 . 1   D M E   U C J
+ F L 0 4 0
+ I A F
+ V O R / D M E
+ M A H F
+ K A S E N
+ 3 0   M
+ M A P t
+ I C J   D M E  
+ 0 . 1
+NOTA / REMARK:  D M E   R E Q U E R I D O   /   R E Q U I R E D
+MSA 25 NM
+")-
+"
+ F M   U C J   V O R
+ 1 5 0 0
+ 2 3 0 0
+ 1 3 0 0
+ 1 5 N M R - 2 3 0  R - 1 5 0
+ R - 2 6 9
+ R - 2 4 9
+ 0 7 9 °
+ 0 7 9 °
+ I C J   3 2 9 . 3 0
+ C H 2 6 X
+ 2 2 °   2 7 '   2 3 . 2 4 "   N
+ 0 7 8 °   2 0 '   2 0 . 5 9 "   W
+ I L S / G P / D M E
+ L L Z   I C J   1 0 8 . 9
+ "   "            "      "         "             
+ 2 2 °   2 8 '   0 1 . 6 1 "   N
+ 0 7 8 °   1 8 '   3 3 . 5 1 "   W
+ I L S
+ 2 0 2 0
+ V A R   8 ° W
+H
+ 4 . 6
+ A L T   M N M
+ 3 0 0 0
+ 1   M I N
+ 1 0 9 °
+ R - 1 0 9 °
+ 1 0 0 0
+ U C J   D M E
+ 8 . 0
+ M O C A   5 0 0
+ 5 . 0
+ E S C A L A   /   S C A L E   1 : 3 5 0   0 0 0
+ 0  2  4  6  8 1
+ N M
+ 0  4  8  1 2  1 6 2
+ K M
+!5
+!5
+#
+AIP-CUBA AD 2 MUCC 7 - 3
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 41 ===
+22° 24' 16.23" N
+078° 30' 18.01" W
+1500
+9.6 NM to THR08
+22° 18' 34.59" N
+078° 28' 11.77" W
+3000
+15.6 NM to THR08
+22° 29' 57.83" N
+078° 32' 24.43" W
+3000
+15.6 NM to THR08
+22° 25' 54.20" N
+078° 25' 11.85" W
+1500
+IAF/IF
+VOKAD
+IAF
+CC401
+IAF
+CC400
+FAF
+CC408079°
+079°
+169 °
+349°
+4.6
+1000
+5.0
+6.0
+MOCA 500
+MOCA 1100
+MOCA 1000
+TF
+CA
+TF
+78°10'W
+78°10'W
+78°20'W
+78°20'W
+78°30'W
+78°30'W
+22°40'N
+22°40'N
+22°30'N
+22°30'N
+22°20'N
+22°20'N
+22°10'N
+22°10'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 13
+OCH REF THR RWY 08 
+ELEV 10
+CAYO COCO / Jardines del Rey Intl
+RNP (LNAV/VNAV, LNAV)
+RWY 08
+CAT A, B, C, D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 079° HASTA 1000 FT, VIRE A LA
+DERECHA DIRECTO A PATRÓN DE ESPERA KASEN A 
+FL040 Y ESPERE INSTRUCCIONES ATC / CLIMB ON 
+TRACK  079° UNTIL 1000 FT, TURN RIGHT DIRECT TO 
+KASEN HOLDING PATTERN AT FL040 AND EXPECT ATC
+INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+LNAV / VNAV
+CIRCULAR
+CIRCLING
+A B C D
+270 (260) 1.0 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW08   4.6
+VSP GS 3.00°
+NM to RW08
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+3:27 2:46 2:18 1:58 1:44 1:32
+430 530 640 740 850 960
+ALT / (HGT)
+4.0 NM 3.0 NM 2.0 NM 1.0 NM
+1330
+(1320)
+1020
+(1010)
+700
+(690)
+380
+(370)
+ESCALA / SCALE 1:350 000
+0 2 4 6 81
+NM
+0 4 8 12 162
+KM
+Especificación de NAV/
+NAV specification: RNP-APCH
+LNAV 350 (340) 1.4 KM
+APP  123.600
+TWR 118.800
+1000 (987) 5.4 KM
+&
+& &
+&
+079°
+6.0
+10 NM
+TF
+TF
+DF
+079°
+259°
+ALT MNM
+3000
+1 MIN
+VOKAD
+4.1 NM 287°
+107°
+KASEN
+4.2 NM
+FL MNM
+040
+1 MIN
+25 NM TOCC400
+259°
+1300
+IAF
+CC400
+IF
+VOKAD
+IF
+VOKAD
+IAF
+CC401
+349°
+2300
+259°
+169°
+349°
+2500
+1400
+10
+NM
+25
+N
+M
+TO
+VOKAD
+IAF/IF
+VOKAD
+2020
+VAR 8°W
+H
+25NM
+TO
+CC
+401
+(POR LA PERDIDA DE LA CAPACIDAD RNAV): ASCIENDA 
+EN DERROTA 079° HASTA 3000 FT Y SOLICITE 
+INSTRUCCIONES ATC / (FOR LOSS OF RNAV 
+CAPABILITY): CLIMB ON TRACK 079° UNTIL 3000 FT 
+AND REQUEST ATC INSTRUCTION
+NOTA/RMK:
+226
+(213)
+108
+(95)
+169°
+22° 15' 09.37" N
+078°04' 54.08" W
+FL040
+MAHF
+KASEN
+(THR RWY08)
+BBBB!A
+!
+####!A(
+AIP-CUBA AD 2 MUCC 7 - 5
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 42 ===
+AD 2 MUCC 7 - 6
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+
+=== Page 43 ===
+TABLAS DE CODIFICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP INSTRUMENT APPROACH PROCEDURE CODING TABLES. 
+MUCC RWY 08. JARDINES DEL REY INTL. 
+IAF CC400
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course  
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 08 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude 
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF CC400 - - -7.5 - 15.6 - +3000 - - RNP APCH 
+002 TF VOKAD - 169
+(161.0) -7.5 6.0 9.6 - 1500 - - RNP APCH 
+003 TF CC408 - 079
+(071.0) -7.5 5.0 4.6 - @1500 - - RNP APCH 
+004 TF RW08 Y 079
+(071.0) -7.5 4.6 - - +270 - -3.0/50 RNP APCH 
+005 CA - - 079
+(071.0) -7.5 - - - @1000 - - RNP APCH 
+006 DF KASEN Y - -7.5 - - R FL040 -230 - RNP APCH 
+IAF CC401
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor  
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 08 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude 
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF CC401 - - -7.5 - 15.6 - +3000 - - RNP APCH 
+002 TF VOKAD - 349
+(341.1) -7.5 6.0 9.6 - 1500 - - RNP APCH 
+003 TF CC408 - 079
+(071.0) -7.5 5.0 4.6 - @1500 - - RNP APCH 
+004 TF RW08 Y 079
+(071.0) -7.5 4.6 - - +270 - -3.0/50 RNP APCH 
+005 CA - - 079
+(071.0) -7.5 - - - @1000 - - RNP APCH 
+006 DF KASEN Y - -7.5 - - R FL040 -230 - RNP APCH 
+IAF/IF VOKAD
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over  
+Curso/ 
+Course
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 08 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude 
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF VOKAD - - -7.5 - 9.6 - 1500 - - RNP APCH 
+002 TF CC408 - 079
+(071.0) -7.5 5.0 4.6 - @1500 - - RNP APCH 
+003 TF RW08 Y 079
+(071.0) -7.5 4.6 - - +270 - -3.0/50 RNP APCH 
+004 CA - - 079
+(071.0) -7.5 - - - @1000 - - RNP APCH 
+005 DF KASEN Y - -7.5 - - R FL040 -230 - RNP APCH 
+CODIFICACIÓN DE LA ESPERA CON FUNCIONALIDAD / CODING TABLE FOR HOLDING WITH FUNTIONALITY. 
+RNAV MUCC RWY 08 
+Descriptor 
+de trayectoria/ 
+Path Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+Espera/
+Holding KASEN 287
+(279.0) R /4.2NM FL040 FL140 -230 -7.5 RNAV-1 
+Espera/
+Holding VOKAD 079
+(071.0) R /4.1NM 3000 FL140 -230 -7.5 RNAV-1 
+AIP-CUBA AD 2 MUCC 7 - 7
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 45 ===
+22° 25' 10.79" N
+078° 07' 32.45" W
+3000
+15.1 NM to THR26
+22° 36' 33.97" N
+078° 11' 45.44" W
+3000
+15.1 NM to THR26
+22° 30' 52.40" N
+078° 09' 38.85" W
+1500
+9.1 NM to THR26
+22° 29' 24.32" N
+078° 14' 14.60" W
+1500
+IAF
+CC403
+IAF
+CC402
+IAF/IF
+DAVKU
+FAF
+CC426
+259°
+259°
+169°
+349°
+066°
+259°
+079°
+246°
+4.5
+4.6
+6.0
+1000
+MOCA 500
+MOCA 1000
+CA
+TF
+TF
+78°10'W
+78°10'W
+78°20'W
+78°20'W
+78°30'W
+78°30'W
+22°30'N
+22°30'N
+22°20'N
+22°20'N
+22°10'N
+22°10'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 13
+OCH REF THR RWY 26
+ELEV 13
+CAYO COCO / Jardines del Rey Intl
+RNP (LNAV/VNAV, LNAV)
+RWY 26
+CAT A, B, C, D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 259° HASTA 1000 FT, VIRE A LA
+IZQUIERDA DIRECTO A PATRÓN DE ESPERA LEXOT A 
+FL040 Y ESPERE INSTRUCCIONES ATC / CLIMB ON 
+TRACK  259° UNTIL 1000 FT, TURN LEFT DIRECT TO 
+LEXOT HOLDING PATTERN AT FL040 AND EXPECT ATC
+INSTRUCTIONS.
+OCA(H)
+LNAV / VNAV
+CIRCULAR
+CIRCLING
+A B C D
+270 (257) 1.4 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW26   4.6
+VSP GS 3.00°
+NM to RW26
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+3:27 2:46 2:18 1:58 1:44 1:32
+430 530 640 740 850 960
+ALT / (HGT)
+4.0 NM 3.0 NM 2.0 NM 1.0 NM
+1340
+(1327)
+1020
+(1007)
+700
+(687)
+380
+(367)
+ESCALA / SCALE 1:350 000
+0 2 4 6 81
+NM
+0 4 8 12 162
+KM
+Especificación de NAV/
+NAV especification: RNP-APCH
+LNAV 350 (337) 1.8 KM
+(POR LA PÉRDIDA DE CAPACIDAD RNAV): 
+ASCIENDA EN DERROTA 259° HASTA 3000
+FT, Y SOLICITE INSTRUCCIONES ATC / 
+(FOR LOSS OF RNAV CAPABILITY): CLIMB 
+ON TRACK  259° UNTIL 3000 FT AND 
+REQUEST ATC INSTRUCTIONS.      
+NOTA / REMARK
+APP  123.600
+TWR 118.800
+1000 (987) 5.4 KM
+259°
+4.2 NM
+6.0 MOCA 1000
+TF
+TF
+DF
+FL MNM040
+1 MIN
+4.1 NM
+ALT MNM
+3000 
+1 MIN
+169°
+079°
+25
+NM
+TO
+CC402
+1300
+25NM TO CC403
+079°
+349°2300
+1100
+IF
+DAVKU
+IAF
+CC403
+10 NM
+349°
+169°
+IAF/IF
+DAVKU
+25NM
+TO
+DAVKU
+1000
+10 NM
+IAF
+CC402
+IF
+DAVKU
+226
+(213)
+108
+(95)
+22° 12' 56.17" N
+078° 28' 48.07" W
+FL 040
+MAHF
+LEXOT
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+2020
+VAR 8°W
+H
+AIP-CUBA AD 2 MUCC 7 - 9
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 46 ===
+AD 2 MUCC 7 - 10
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+
+=== Page 47 ===
+TABLAS DE CODIFICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP INSTRUMENT APPROACH PROCEDURE CODING TABLES.MUCC RWY 26 JARDINES DEL REY INTL.  
+  IAF CC402
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 26 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF CC402 - - -7.5 - 15.1 - +3000 - - RNP APCH 
+002 TF DAVKU - 169
+(161.0) -7.5 6.0 9.1 - 1500 - - RNP APCH 
+003 TF CC426 - 259
+(251.0) -7.5 4.5 4.6 - @1500 - - RNP APCH 
+004 TF RW26 Y 259
+(251.0) -7.5 4.6 - - +270 - -3.0/50 RNP APCH 
+005 CA - - 259
+(251.0) -7.5 - - - @1000 - - RNP APCH 
+006 DF LEXOT Y - -7.5 - - L FL040 -230 - RNP APCH 
+  IAF CC403
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course  
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 26 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF CC403 - - -7.5 - 15.1 - +3000 - - RNP APCH 
+002 TF DAVKU - 349
+(341.1) -7.5 6.0 9.1 - 1500 - - RNP APCH 
+003 TF CC426 - 259
+(251.0) -7.5 4.5 4.6 - @1500 - - RNP APCH 
+004 TF RW26 Y 259
+(251.0) -7.5 4.6 - - +270 - -3.0/50 RNP APCH 
+005 CA - - 259
+(251.0) -7.5 - - - @1000 - - RNP APCH 
+006 DF LEXOT Y - -7.5 - - L FL040 -230 - RNP APCH 
+  IF DAVKU
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over  
+Curso/ 
+Course
+°MAG
+ (°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 26 
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+001 IF DAVKU - - -7.5 - 9.1 - 1500 - - RNP APCH 
+002 TF CC426 - 259
+(251.0) -7.5 4.5 4.6 - @1500 - - RNP APCH 
+003 TF RW26 Y 259
+(251.0) -7.5 4.6 - - +270 - -3.0/50 RNP APCH 
+004 CA - - 259
+(251.0) -7.5 - - - @1000 - - RNP APCH 
+005 DF LEXOT Y - -7.5 - - L FL040 -230 - RNP APCH 
+CODIFICACIÓN DE LA ESPERA CON FUNCIONALIDAD / CODING TABLE FOR HOLDING WITH FUNTIONALITY. 
+RNAV (GNSS) MUCC RWY 26 
+Descriptor 
+de trayectoria/ 
+Path Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier  
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+Espera/
+Holding LEXOT 066
+(058.2) R /4.2NM FL040 FL140 -230 -7.5 RNAV-1 
+Espera/
+Holding DAVKU 259
+(251.0) R /4.1NM 3000 FL140 -230 -7.5 RNAV-1 
+AIP-CUBA AD 2 MUCC 7 - 11
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 49 ===
+ R - 2 5 8
+ R - 2 5 8
+ 3 4 9 °
+ 1 6 9 °
+ 0 7 8 °
+ R - 2 5 8
+ 2 5 8 °
+ R - 1 4 3
+ 6 . 0  
+ 6 . 0  R - 2 8 9
+ M O C A   1 0 0 0
+ M O C A   1 1 0 0
+ U C J   D M E  
+ 8 . 0
+ 2 2 °   2 4 '   1 6 . 2 3 "   N
+ 0 7 8 °   3 0 '   1 8 . 0 1 "   W
+ U C J
+ R - 2 5 8 / 1 1 . 4   D M E
+ 1 5 0 0
+ 9 . 6   N M   t o   T H R 0 8
+ 2 2 °   1 8 '   3 4 . 5 9 "   N
+ 0 7 8 °   2 8 '   1 1 . 7 7 "   W
+ U C J
+ R - 2 3 1 / 1 2 . 9   D M E
+ 3 0 0 0
+ 1 5 . 6   N M   t o   T H R 0 8
+ 2 2 °   2 9 '   5 7 . 8 3 "   N
+ 0 7 8 °   3 2 '   2 4 . 4 3 "   W
+ U C J
+ R - 2 8 6 / 1 2 . 8   D M E
+ 3 0 0 0
+ 1 5 . 6   N M   t o   T H R 0 8
+ 2 2 °   2 5 '   5 4 . 2 0 "   N
+ 0 7 8 °   2 5 '   1 1 . 8 5 "   W
+ U C J
+ R - 2 5 8 / 6 . 4   D M E
+ 1 5 0 0
+ I A F / I F
+ V O K A D
+ I A F
+ C C 4 0 1
+ I A F
+ C C 4 0 0
+ F A F
+ C C 4 0 8
+ 7 8 ° 1 0 ' W
+ 7 8 ° 1 0 ' W
+ 7 8 ° 2 0 ' W
+ 7 8 ° 2 0 ' W
+ 7 8 ° 3 0 ' W
+ 7 8 ° 3 0 ' W
+ 2 2 ° 4 0 ' N
+ 2 2 ° 4 0 ' N
+ 2 2 ° 3 0 ' N
+ 2 2 ° 3 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 1 0 ' N
+ 2 2 ° 1 0 ' N
+ C A R T A   D E   A P R O X I M A C I O N   P O R   I N S T R U M E N T O S   -   O A C I   /  
+ I N S T R U M E N T   A P P R O A C H   C H A R T   -   I C A O
+ E L E V   1 3
+ O C H   R E F   T H R   R W Y   0 8  
+ E L E V   1 0
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ V O R
+ R W Y   0 8
+ C A T   A ,   B ,   C ,   D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ A S C I E N D A   H A S T A   1 0 0 0   F T   E N   D E R R O T A   0 7 8 °
+ V I R E   A   L A   D E R E C H A ,   I N T E R C E P T E   R - 1 4 3
+ V O R / U C J   Y   C O N T I N U E   H A C I A   P A T R Ó N   D E  
+ E S P E R A   K A S E N   A   F L 0 4 0   Y   E S P E R E  
+ I N S T R U C C I O N E S   A T C   /   C L I M B   O N   T R A C K
+ 0 7 8 °   U N T I L   1 0 0 0   F T ,   T U R N   R I G T H ,   I N T E R C E P T  
+ R - 1 4 3   U C J / V O R   A N D   C O N T I N U E   T O   K A S E N  
+ H O L D I N G   P A T T E R N   T O   F L 0 4 0   A N D   E X P E C T  
+ A T C   I N S T R U C T I O N S .
+ O C A ( H )
+ V O R / D M E
+ C I R C U L A R   /
+ C I R C L I N G
+ A  B  C  D
+ 3 0 0   ( 2 9 0 )   1 . 2   K M
+ D I S T A N C I A
+ D I S T A N C E N M
+ F A F   -   T H R   0 8     4 . 6
+ V S P   G S   5 . 2 %
+ D M E   U C J
+ K T
+ M I N
+ S E C
+ F T
+ M I N
+ 8 0  1 0 0  1 2 0  1 4 0  1 6 0  1 8 0
+ 3 : 2 7  2 : 4 6  2 : 1 8  1 : 5 8  1 : 4 4  1 : 3 2
+ 4 3 0  5 3 0  6 4 0  7 4 0  8 5 0  9 6 0
+ A L T   /   ( H G T )
+ 6 . 0   N M 5 . 0   N M 4 . 0   N M 3 . 0   N M
+ 1 4 0 0
+ ( 1 3 9 0 )
+ 1 0 8 0
+ ( 1 0 7 0 )
+ 7 6 0
+ ( 7 5 0 )
+ 4 4 0
+ ( 4 3 0 )
+ 1 0 0 0   ( 9 8 7 )   5 . 4   K M
+ E S C A L A   /   S C A L E   1 : 3 5 0   0 0 0
+ 0  2  4  6  8 1
+ N M
+ 0  4  8  1 2  1 6 2
+ K M
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+ 1 0   N M
+&
+&
+ 1 4 3 °
+ R - 1 4 3
+ F L   M N M
+ 0 4 0
+ 1   M I N
+ K A S E N
+ A L T   M N M
+ 3 0 0 0
+ 1   M I N
+ J A R D I N E S   D E L   R E Y
+ U C J   1 1 7 . 8
+ C H   1 2 5 X
+ "   "               "      "         "             
+ 2 2 °   2 8 '   0 2 . 6 8 "   N
+ 0 7 8 °   1 8 '   4 3 . 0 8 "   W
+ 2 2 °   1 5 '   0 9 . 3 7 "   N
+ 0 7 8 °   0 4 '   5 4 . 0 8 "   W
+ U C J
+ R - 1 4 3   /   1 8 . 1   D M E  
+ F L 0 4 0
+ I A F
+ V O R / D M E
+ M A H F
+ K A S E N
+ 3 0   M
+ M A P t
+ U C J   D M E
+ 1 . 8
+NOTA / REMARK:  D M E   R E Q U E R I D O   /   R E Q U I R E D
+ R - 2 6 9
+ R - 2 4 9
+ 5 . 0
+ 4 . 6
+ U C J   D M E
+ 8 . 0
+ M O C A   5 0 0
+ 1 0 0 0
+ A L T   M N M 3 0 0 0
+ 1   M I N
+ 2 2 6
+ ( 2 1 3 )
+ 1 0 8
+ ( 9 5 )
+ 1 0 9 °
+ R - 1 0 9
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D ,   H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ 2 0 2 0
+ V A R   8 ° W
+H
+MSA
+25 DME
+"TZ
+!
+ F M   U C J   V O R
+ 1 5 0 0
+ 2 3 0 0
+ 1 3 0 0
+ 1 5 N M R - 2 3 0  R - 1 5 0
+#
+AIP-CUBA AD 2 MUCC 7 - 13
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 51 ===
+ R - 0 7 9
+ 3 4 9 °
+ 1 6 9 °
+ R - 0 7 9
+ 2 5 9 °  R - 1 2 2
+ R - 3 0 2
+ R - 2 1 9
+ 2 1 9 °
+ U C J   D M E   6 . 0
+ 3 0 2 °
+ R - 2 1 9
+ 6 . 0
+ 6 . 0  
+ M O C A   1 0 0 0
+ M O C A   1 0 0 0
+ 2 2 °   2 5 '   1 0 . 7 9 "   N
+ 0 7 8 °   0 7 '   3 2 . 4 5 "   W
+ U C J
+ R - 1 1 3   /   1 0 . 7   D M E
+ 3 0 0 0
+ 1 5 . 1   N M   t o   T H R 2 6
+ 2 2 °   3 6 '   3 3 . 9 7 "   N
+ 0 7 8 °   1 1 '   4 5 . 4 4 "   W
+ U C J
+ R - 0 4 4   /   1 0 . 7   D M E
+ 3 0 0 0
+ 1 5 . 1   N M   t o   T H R 2 6
+ 2 2 °   2 9 '   2 4 . 3 2 "   N
+ 0 7 8 °   1 4 '   1 4 . 6 0 "   W
+ U C J
+ R - 0 7 9   /   4 . 4   D M E
+ 1 5 0 0
+ 2 2 °   3 0 '   5 2 . 4 0 "   N
+ 0 7 8 °   0 9 '   3 8 . 8 5 "   W
+ U C J
+ R - 0 7 9   /   8 . 9   D M E
+ 1 5 0 0
+ 9 . 1   N M   t o   T H R 2 6
+ I A F
+ C C 4 0 3
+ I A F
+ C C 4 0 2
+ F A F
+ C C 4 2 6
+ I A F / I F
+ D A V K U
+ C A R T A   D E   A P R O X I M A C I O N   P O R   I N S T R U M E N T O S   -   O A C I   /  
+ I N S T R U M E N T   A P P R O A C H   C H A R T   -   I C A O
+ E L E V   1 3
+ O C H   R E F   T H R   R W Y   2 6
+ E L E V   1 3
+ C A Y O   C O C O   /   J a r d i n e s   d e l   R e y   I n t l
+ V O R
+ R W Y   2 6
+ C A T   A ,   B ,   C ,   D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ A S C I E N D A   H A S T A   1 0 0 0   F T   E N   D E R R O T A   2 5 9 °   V I R E  
+ A   L A   I Z Q U I E R D A ,   I N T E R C E P T E   R - 2 1 9   V O R / U C J   Y  
+ C O N T I N U E   H A C I A   P A T R Ó N   D E   E S P E R A   L E X O T   A  
+ F L 0 4 0   Y   E S P E R E   I N S T R U C C I O N E S   A T C   /   C L I M B  
+ O N   T R A C K   2 5 9 °   U N T I L   1 0 0 0   F T ,   T U R N   L E F T ,  
+ I N T E R C E P T   R - 2 1 9   U C J / V O R   A N D   C O N T I N U E    
+ T O   L E X O T   H O L D I N G   P A T T E R N   T O   F L 0 4 0   A N D  
+ E X P E C T   A T C   I N S T R U C T I O N S .
+ O C A ( H )
+ V O R / D M E
+ C I R C U L A R   /
+ C I R C L I N G
+ A  B  C  D
+ 3 5 0   ( 3 3 7 )   1 . 8   K M
+ D I S T A N C I A
+ D I S T A N C E N M
+ F A F   -   M A P t       4 . 4
+ V S P   G S   5 . 2 %
+ D M E   U C J
+ K T
+ M I N
+ S E C
+ F T
+ M I N
+ 8 0  1 0 0  1 2 0  1 4 0  1 6 0  1 8 0
+ 3 : 1 8  2 : 3 8  2 : 1 2  1 : 5 3  1 : 3 9  1 : 2 8
+ 4 3 0  5 3 0  6 4 0  7 4 0  8 5 0  9 6 0
+ A L T   /   ( H G T )
+ 4 . 0   N M 3 . 0   N M 2 . 0   N M 1 . 0   N M
+ 1 4 0 0
+ ( 1 3 8 7 )
+ 1 0 8 0
+ ( 1 0 6 7 )
+ 7 6 0
+ ( 7 4 7 )
+ 4 4 0
+ ( 4 2 7 )
+ E S C A L A   /   S C A L E   1 : 3 5 0   0 0 0
+ 0  2  4  6  8 1
+ N M
+ 0  4  8  1 2  1 6 2
+ K M
+ A P P     1 2 3 . 6 0 0
+ T W R   1 1 8 . 8 0 0
+ 1 0 0 0   ( 9 8 7 )   5 . 4   K M
+10 NM
+ J A R D I N E S   D E L   R E Y
+ U C J   1 1 7 . 8
+ C H   1 2 5 X
+ "   "               "      "         "             
+ 2 2 °   2 8 '   0 2 . 6 8 "   N
+ 0 7 8 °   1 8 '   4 3 . 0 8 "   W
+ I A F
+ V O R / D M E
+ 3 0   M
+ M A P t
+ F L   M N M
+ 0 4 0
+ 1   M I N
+ A L T   M N M
+ 3 0 0 0
+ 1   M I N
+ 2 2 °   1 2 '   5 6 . 1 7 "   N
+ 0 7 8 °   2 8 '   4 8 . 0 7 "   W
+ U C J
+ R - 2 1 9   /   1 7 . 7   D M E
+ F L 0 4 0
+ M A H F
+ L E X O T
+ R - 0 6 6
+ R - 0 9 2
+MSA 
+25 DME
+"TZ
+!
+ F M   U C J   V O R
+ 1 5 0 0
+ 2 3 0 0
+ 1 3 0 0
+ 1 5 N M R - 2 3 0  R - 1 5 0
+ U C J   D M E  
+ 6 . 0
+ 4 . 5
+ M O C A   5 0 0
+ 4 . 6
+ 1 0 0 0
+ 2 2 6
+ ( 2 1 3 )
+ 1 0 8
+ ( 9 5 )
+ 7 8 ° 1 0 ' W
+ 7 8 ° 1 0 ' W 7 8 ° 2 0 ' W
+ 7 8 ° 3 0 ' W
+ 7 8 ° 3 0 ' W
+ 2 2 ° 3 0 ' N
+ 2 2 ° 3 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 2 0 ' N
+ 2 2 ° 1 0 ' N
+ 2 2 ° 1 0 ' N
+ H D G   M A G
+ A L T ,   E L E V   Y   /   A N D ,   H G T   E N   /   I N   F T
+ D I S T   E N   /   I N   N M
+ 2 0 2 0
+ V A R   8 ° W
+H
+ I A F
+&
+&
+#B
+ 0 7 9 °
+ R - 0 7 9
+ A L T   M N M
+ 3 0 0 0
+ 1   M I N
+NO A ESCALA/
+NOT TO SCALE
+ D A V K U
+ O C A
+TA 3000 R - 3 0 2  3 0 2 º
+ 7 8 ° 2 0 ' W
+ D M E   R E Q U E R I D O   /   R E Q U I R E DNOTA / REMARK:
+AIP-CUBA AD 2 MUCC 7 - 15
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 53 ===
+78º20’W 15’25’78º30’W
+15’
+22º
+20’
+N
+25’
+22º
+30’
+N
+35’
+22º
+40’
+N
+15’
+22º
+20’
+N
+25’
+22º
+30’
+N
+35’
+22º
+40’
+N
+78º20’W 15’25’78º30’W
+22º
+10’
+N
+22º
+10’
+N
+CAYO COCO
+CARTA DE APROXIMACION VISUAL - OACI /
+VISUAL APPROACH CHART - ICAO CAYO COCO / Jardines del Rey IntlELEV 13
+OCH REFERIDAS A LA ELEV AD  /
+OCH RELATED TO AD ELEV
+APP  123.600
+TWR 118.800
+LOS RUMBOS SON MAGNETICOS/
+BEARING ARE MAGNETIC
+ALT, ELEV, ALTURAS EN FT/
+ALT, ELEV, HEIGHTS IN FT 
+0 2 4 6 8
+0 5 10 15
+ESCALA / SCALE 1:250 000
+NM
+KM
+VOR/DME
+UCJ 117.8
+CH 125X
+22º28’02.68’’N
+078º18’43.08’’W
+JARDINES
+DEL REY
+VAR 8º W
+2020
+ 43
+(30)
+AIP-CUBA AD 2 MUCC 9 - 1
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+
+=== Page 55 ===
+SUPERFICIE DE APROXIMACION POR INSTRUMENTOS
+INSTRUMENT
+APPROACH SURF
+ACE
+SUPERFICIE DE ASCENSO EN EL DESPEGUETAKE OFF CLIMB SURF
+ACE
+13 KM
+RWY08
+RWY26
+CARTA INDICE DE CONCENTRACION DE AVES /
+BIRDS CONCENTRATION INDEX CHART
+CAYO COCO / Jardines del Rey Intl
+CUBA
+LEYENDA / LEGEND
+ÁREAS DE CONCENTRACIÓN DE AVES ACUÁTICAS / ACUATIC BIRD CONCENTRATION AREAS
+ÁÓREAS DE CONCENTRACI N DE AVES DE BOSQUES / FOREST BIRD CONCENTRATION AREAS
+ÁREAS CON FAUNA SENSIBLE / AREAS WITH SENSITIVE FAUNA
+GARZAS GANADERAS, PALOMAS RABICHES, AURAS TIÑOSAS /
+CATTLE EGRET, MOURNING DOVE, TURKEY VULTURES
+PATOS MIGRATORIOS / MIGRATORY DUCK
+024681
+KM
+012340,5
+NM
+1: 160 000ESCALA / SCALE
+SUPERFICIE DE ASCENSO EN EL DESPEGUETAKE OFF CLIMB SURFACE
+SUPERFICIE DE APROXIMACION POR INSTRUMENTOS
+INSTRUMENT APPROACH SURFACE
+AIP-CUBA AD 2 MUCC 10 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24

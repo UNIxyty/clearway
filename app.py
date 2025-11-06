@@ -117,20 +117,13 @@ def get_scraper(country='USA'):
         if country not in scraper_instances:
             scraper = get_scraper_instance(country)
             if scraper is None:
-                logger.warning(f"Scraper not found for {country}, falling back to USA")
-                country = 'USA'
-                if country not in scraper_instances:
-                    scraper = get_scraper_instance(country)
-                    if scraper is not None:
-                        scraper_instances[country] = scraper
+                logger.info(f"No scraper available for {country}, will use extracted AIP data only")
+                # Return None - the endpoint will handle this gracefully
+                return None
             else:
                 scraper_instances[country] = scraper
 
-        result = scraper_instances.get(country)
-        if result is None:
-            logger.error(f"Failed to load scraper for {country}")
-            raise Exception(f"Scraper not available for {country}")
-        return result
+        return scraper_instances.get(country)
 
 def detect_country(airport_code):
     """Detect country from airport code using registry"""
@@ -170,23 +163,27 @@ def get_airport_info():
         country = detect_country(airport_code)
         logger.info(f"Detected country: {country} for airport {airport_code}")
         
-        # Get appropriate scraper instance
-        scraper = get_scraper(country)
-        
         # Try to get extracted AIP data first
         aip_data = get_aip_data_for_airport(airport_code)
         
-        # Scrape airport information (fallback or additional data)
-        start_time = time.time()
-        try:
-            airport_info = scraper.get_airport_info(airport_code)
-        except Exception as e:
-            logger.warning(f"Scraper failed for {airport_code}: {e}")
-            airport_info = {}
+        # Initialize airport_info
+        airport_info = {}
         
-        end_time = time.time()
+        # Try to get scraper instance (may be None)
+        scraper = get_scraper(country)
         
-        logger.info(f"Scraped airport info for {airport_code} in {end_time - start_time:.2f} seconds")
+        # If scraper is available, use it for additional data
+        if scraper:
+            start_time = time.time()
+            try:
+                airport_info = scraper.get_airport_info(airport_code)
+                end_time = time.time()
+                logger.info(f"Scraped airport info for {airport_code} in {end_time - start_time:.2f} seconds")
+            except Exception as e:
+                logger.warning(f"Scraper failed for {airport_code}: {e}")
+                airport_info = {}
+        else:
+            logger.info(f"Using extracted AIP data only for {airport_code}")
         
         # Merge AIP extracted data with scraper data (AIP data takes precedence)
         if aip_data:
@@ -224,9 +221,13 @@ def get_airport_info():
             airport_info['region'] = country_info.get('region')
             airport_info['flag'] = country_info.get('flag')
         
-        # Ensure airport code is set
+        # Ensure airport code and name are set
         if 'airportCode' not in airport_info:
             airport_info['airportCode'] = airport_code
+        
+        if 'airportName' not in airport_info or not airport_info['airportName']:
+            # Use a generic name if we don't have one
+            airport_info['airportName'] = f"{airport_code} Airport"
         
         return jsonify(airport_info)
         

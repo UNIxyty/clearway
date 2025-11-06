@@ -1,0 +1,774 @@
+=== Page 1 ===
+AIP
+AZERBAIJANAD 2 UBBG - 1
+10 JUL 2025Sta
+te Civil Aviation Agency AIRAC AMDT 01/25
+AD 2 UBBG
+UBBG AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+UBBG - GANJA
+UBBG AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 ARP coordinates and site at AD 404420N 0461912E
+centre of RWY 12/30
+2 Direction and distance from (city) 7 KM (3.8 NM) NW of the city Ganja
+3 Elevation/Reference temperature Elev: 1086 FT (331 M) / T: 13.2° C
+4 Geoid undulation at AD ELEV PSN 40 FT (12 M)
+5 MAG VAR/Annual change 6° E ( 2015)/0.1° increasing
+6 AD Administration, address, telephone,
+telefax, telex, AFS
+Airport AZ 2000 Ganja Azerbaijan
+Tel: (99422) 569963, 2681108
+Fax: (99422) 569963, 2681108
+AFS: UBBGDKXX
+7 Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Remarks NIL
+UBBG AD 2.3 OPERATIONAL HOURS
+1 AD Administration MON-FRI 0500-1400 UTC
+2 Customs and immigration H24
+3 Health and sanitation H24
+4 AIS Briefing Office H24
+5 ATS Reporting Office (ARO) H24
+6 MET Briefing Office H24
+7 ATS H24
+8 Fuelling 0500-1400 UTC
+9 Handling H24
+10 Security H24
+11 De-icing H24
+12 Remarks NIL
+UBBG AD 2.4 HANDLING SERVICES ANDFACILITIES
+1 Cargo-handling facilities Available
+2 Fuel/oil types Fuel : TS1 (equivalent Jet A-1)
+Oil : MS-8P
+3 Fuelling facilities/capacity Available without limitation
+4 De-icing facilities De-icing unit with aircraft chemical
+5 Hangar space for visiting aircraft NIL
+6 Repair facilities for visiting aircraft Major repairs at aircraft repair base
+7 Remarks NIL
+UBBG AD 2.5 PASSENGER FACILITIES
+1 Hotels In the city.
+2 Restaurants At AD and in the city.
+3 Transportation Taxi
+4 Medical facilities First aid at AD. Hospitals in the city.
+5 Bank and Post Office In the city and at AD.
+6 Tourist Office In the city.
+7 Remarks NIL
+UBBG AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 AD category for fire fighting H24: CAT 7
+
+=== Page 2 ===
+AD 2 UBBG - 2
+29 DEC 2022
+AIP
+AZERBAIJAN
+AIRAC AMDT 02/22 State Civil Aviation Agency
+2 Rescue equipment 2 Fire fighting trucks,
+1 Quick response vehicle,
+1 Water tanker truck 4 t
+3 Capability for removal of disabled aircraft Disabled aircraft removal facilitation is available for 4C category aircraft
+4 Remarks Responsible coordinator for removal of disabled aircraft:
+Tel: (99422) 2670028
+Fax: (99422) 2671875
+E-mail: ganja@airport.az
+UBBG AD 2.7 SEASONAL AVAILABILITY
+1 Types of clearing equipment Scrapers, Sand Spreader
+2 Clearance priorities
+1. RWY 12 /30 and associated TWY to Apron
+2. Other TWY and ACFT stands
+3 Remarks NIL
+UBBG AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface Strength
+Concrete and asphalt PCN 150/F/A/W/T
+2 Taxiway width, surface and strength TWY ID Width (M) Surface Strength
+TWY A 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY B 18 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY B1 18 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY B2 18 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY B3 18 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY C 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+TWY D 23 M Concrete and
+asphalt
+PCN 150/F/A/W/T
+3 Altimeter checkpoint location and elevation Nil
+4 VOR/INS checkpoints VOR: Nil
+INS: Nil
+5 Remarks NIL
+UBBG AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs, TWY guide
+lines and visual docking/parking guidance
+system of aircraft stands
+Guidance sing boards at entrances to RWY , guidance signs indicating taxi-
+ways.
+2 RWY and TWY markings and LGT RWY:
+Markings – designation of threshold, touchdown, center line, edge, landing
+magnetic track.
+Lights – THR, RWY CL, RWY Edge,RWY End.
+TWY:
+Markings – centerline, holding position
+Lights – TWY A,D,C Edge
+3 Stop bars NIL
+4 Remarks NIL
+
+=== Page 3 ===
+AIP
+AZERBAIJAN
+AD 2 UBBG - 3
+29 DEC 2022
+State Civil Aviation Agency AIRAC AMDT 02/22
+UBBG AD 2.10 AERODROME OBSTACLES
+In approach/TKOF areas
+RWY NR/Area affected Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c d
+30/APCH Building
+Elev: 1119 FT (341 M)
+404328.8N
+0462039.2E
+Nil
+30/APCH Building
+Elev: 1263 FT (385 M)
+404205.0N
+0462223.1E
+Nil
+30/APCH Building
+Elev: 1217 FT (371 M)
+404235.8N
+0462202.2E
+Nil
+30/APCH Building
+Elev: 1214 FT (370 M)
+404250.6N
+0462158.9E
+Nil
+30/APCH Building
+Elev: 1184 FT (361 M)
+404247.3N
+0462127.7E
+Nil
+30/APCH Building
+Elev: 1188 FT (362 M)
+404252.0N
+0462127.6E
+Nil
+30/APCH Tree
+Elev: 1207 FT (368 M)
+404248.8N
+0462122.7E
+Nil
+30/APCH Building
+Elev: 1152 FT (351 M)
+404308.7N
+0462106.7E
+Nil
+12/TKOF Building
+Elev: 1188 FT (362 M)
+404252.0N
+0462127.6E
+Nil
+12/TKOF Building
+Elev: 1217 FT (371 M)
+404235.8N
+0462202.2E
+Nil
+12/TKOF Tree
+Elev: 1207 FT (368 M)
+404248.8N
+0462122.7E
+Nil
+12/TKOF Building
+Elev: 1184 FT (361 M)
+404247.3N
+0462127.7E
+Nil
+12/TKOF Building
+Elev: 1152 FT (351 M)
+404308.7N
+0462106.7E
+Nil
+12/TKOF Building
+Elev: 1214 FT (370 M)
+404250.6N
+0462158.9E
+Nil
+12/TKOF Building
+Elev: 1263 FT (385 M)
+404205.0N
+0462223.1E
+Nil
+12/TKOF Building
+Elev: 1119 FT (341 M)
+404328.8N
+0462039.2E
+Nil
+In circling area and at AD
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c
+Prop of electric main
+Elev: 1404 FT (428 M)
+404305.2N
+0461659.8E
+Nil
+Prop of electric main
+Elev: 1483 FT (452 M)
+404207.3N
+0461729.7E
+Nil
+Prop of electric main
+Elev: 1545 FT (471 M)
+404153.2N
+0461716.8E
+Nil
+Prop of electric main
+Elev: 1260 FT (384 M)
+404225.9N
+0462308.7E
+Nil
+Prop of electric main
+Elev: 1276 FT (389 M)
+404214.9N
+0462259.6E
+Nil
+
+=== Page 4 ===
+AD 2 UBBG - 4
+29 DEC 2022
+AIP
+AZERBAIJAN
+AIRAC AMDT 02/22 State Civil Aviation Agency
+In circling area and at AD
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c
+Antenna
+Elev: 1319 FT (402 M)
+404114.6N
+0462414.7E
+Nil
+Mountain
+Elev: 1608 FT (490 M)
+403954.9N
+0461820.2E
+Nil
+Searchlight
+Elev: 1207 FT (368 M) 
+Marked & LGTD
+404315.5N
+0461952.5E
+Nil
+Mountain 
+Elev: 800 FT (244 M)
+404803.6N
+0465700.2E
+Nil
+Chimney
+Elev: 1152 FT (351 M)
+404310.2N
+0462238.1E
+Nil
+Chimney
+Elev: 1201 FT (366 M)
+404346.8N
+0461849.9E
+Nil
+Prop of electric main
+Elev: 1414 FT (431 M)
+404221.7N
+0461852.8E
+Nil
+Prop of electric main
+Elev: 1447 FT (441 M)
+404230.3N
+0461739.2E
+Nil
+Prop of electric main
+Elev: 1447 FT (441 M)
+404237.9N
+0461718.0E
+Nil
+Prop of electric main
+Elev: 1437 FT (438 M)
+404242.0N
+0461713.3E
+Nil
+Prop of electric main
+Elev: 1414 FT (431 M)
+404254.7N
+0461714.4E
+Nil
+Building
+Elev: 1444 FT (440 M)
+404136.1N
+0461959.0E
+Nil
+Searchlight
+Elev: 1152 FT (351 M)
+404439.1N
+0461808.0E
+Nil
+Chimney
+Elev: 1503 FT (458 M)
+404127.8N
+0462436.1E
+Nil
+Building
+Elev: 1631 FT (497 M)
+404016.0N
+0461917.5E
+Nil
+Antenna
+Elev: 1873 FT (571 M)
+403850.5N
+0461906.8E
+Nil
+Antenna
+Elev: 2441 FT (744 M)
+403737.5N
+0461955.6E
+Nil
+Antenna
+Elev: 2749 FT (838 M)
+403721.6N
+0462002.8E
+Nil
+Mountain 
+Elev: 3983 FT (1214 M)
+403925.8N
+0461052.9E
+Nil
+Mountain 
+Elev: 4423 FT (1348 M)
+404039.7N
+0460859.2E
+Nil
+Mountain 
+Elev: 3694 FT (1126 M)
+404521.2N
+0460113.1E
+Nil
+Mountain 
+Elev: 3875 FT (1181 M)
+403211.7N
+0462446.5E
+Nil
+Mountain 
+Elev: 4068 FT (1240 M)
+403006.9N
+0462850.5E
+Nil
+Mountain 
+Elev: 5049 FT (1539 M)
+403659.5N
+0460851.6E
+Nil
+
+=== Page 5 ===
+AIP
+AZERBAIJAN
+AD 2 UBBG - 5
+18 APR 2024
+State Civil Aviation Agency AIRAC AMDT 01/24
+In circling area and at AD
+Obstacle type
+Elevation
+Markings/LGT
+Coordinates Remarks
+a b c
+NOTE: Pilots are advised to consult latest NOTAM and AIP SUP on any other impending obstacle. 
+UBBG AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office Ganja
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Period of validity
+Ganja
+24HR
+4 Tred forecast
+Interval of issuance
+TR
+0.5 HR
+5 Briefing/consultation provided Personal consultation. Packet of documents.
+6 Flight documentation
+Language(s) used
+Charts, OPMET
+Eng, Aze, Rus
+7 Charts and other information available for
+briefing or consultation
+S, U 85, U 70, U 50, U 30, U 20, P 85, P 70, P 50, P 40, P 30, P 20, SWH, SWM,
+T.MET SAT charts
+8 Supplementary equipment available for
+providing information
+AWOS, ATIS, AFTN, AMHS
+9 ATS units provided with information Ganja TWR, Ganja APP, Ganja Briefing
+10 Additional information (limitation of ser-
+vice, etc.)
+Area forecasts for low-level flights: GAMET and AIRMET (UBTT Zabrat
+Met office is responsible for preparation and distribution of GAMET and
+AIRMET)
+UBBG AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY
+NR
+TRUE BRG Dimension
+of RWY (M)
+Strength (PCN)
+and surface of RWY
+THR coordinates
+RWY end co-
+ordinates
+THR GUND
+THR elevation and
+highest elevation
+of TDZ of preci-
+sion APP RWY
+1 2 3 4 5 6
+12 128 3300 x 45
+PCN 150/F/A/W/T
+Concrete and asphalt
+404452.86N
+0461817.27E
+404347.25N
+0462007.70E
+40 FT (12.2 M)
+THR 1057 FT (322 M)
+TDZ 1068 FT (326 M)
+30 308 3300 x 45
+PCN 150/F/A/W/T
+Concrete and asphalt
+404347.25N
+0462007.70E
+404452.86N
+0461817.27E
+40 FT (12.2 M)
+THR 1081 FT (329 M)
+TDZ 1080 FT (329 M)
+Slope OF 
+RWY and SWY
+SWY
+dimensions (M)
+CWY
+dimensions (M)
+Strip
+dimensions (M)
+RESA dimen-
+sions (M) OBST free zone
+7 8 9 10 11 12
+For Rwy
+12: +0.2% 60 x 45 260 x 150 3540 x 280 90 x 90 As specified
+in Annex 14
+For Rwy
+30: +0.2% 60 x 45 200 x 150 3540 x 280 90 x 90 As specified
+in Annex 14
+UBBG AD 2.13 DECLARED DISTANCES
+RWY Designator TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+
+=== Page 6 ===
+AD 2 UBBG - 6
+18 APR 2024
+AIP
+AZERBAIJAN
+AIRAC AMDT 01/24 State Civil Aviation Agency
+RWY Designator TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+12 3300 3560 3360 3300 Nil
+30 3300 3500 3360 3300 Nil
+UBBG AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+THR LGT
+colour
+WBAR
+VASIS
+(MEHT)
+P API
+TDZ,
+LGT
+LEN
+RWY Cen-
+tre Line
+LGT Length,
+spacing,
+colour,
+INTST
+RWY edge
+LGT LEN,
+spacing
+colour
+INTST
+RWY End
+LGT colour
+WBAR
+SWY LGT
+LEN (M)
+colour
+REMARKS
+1 2 3 4 5 6 7 8 9 10
+12 CAT I
+Siemens
+900 M
+LIH
+Green PAPI
+Left side
+59 FT
+Nil 3300 M,
+30 M
+From 2400
+M to 3000
+M - red/
+white From
+3000 M to
+3300 M - red
+LIH
+3300 M
+spacing
+60 M
+white, last
+600 M
+yellow
+LIH
+Red Nil Nil
+30 CAT I
+Siemens
+900 M
+LIH
+Green PAPI
+Left side
+59 FT
+Nil 3300 M,
+30 M
+From 2400
+M to 3000
+M - red/
+white From
+3000 M to
+3300 M - red
+LIH
+3300 M
+spacing
+60 M
+white, last
+600 M
+yellow
+LIH
+Red Nil Nil
+UBBG AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 ABN/IBN location, characteristics and
+hours of operation
+Nil
+2 LDI location and LGT
+Anamometer location and LGT
+LDI: Nil
+Anemometer: Nil
+3 TWY adge and centre line lighting Taxiway Edge: TWY D
+Taxiway Edge: TWY C
+Taxiway Edge: TWY A
+4 Secondary power supply/switch-over time Secondary power supply to all lighting at AD.
+Switch-over time: 5 MIN
+5 Remarks NIL
+
+=== Page 7 ===
+AIP
+AZERBAIJAN
+AD 2 UBBG - 7
+10 JUL 2025
+State Civil Aviation Agency AIRAC AMDT 01/25
+UBBG AD 2.16 HELICOPTER LANDING AREA
+1 Coordinates TLOF or THR of F ATO
+Geoid undulation
+Nil
+2 TLOF and/or F ATO elevation M/FT Nil
+3 TLOF and F ATO area dimensions, surface,
+strength, marking
+Nil
+4 True BRG of F ATO Nil
+5 Declared distance available Nil
+6 APP and F ATO lighting Nil
+7 Remarks Take off and landing of helicopters is cleared in any part of RWY 12/30
+UBBG AD 2.17 ATS AIRSPACE
+1 Designation and lateral limits GANJA TMA
+Area bounded by lines joining points 411306N/0473512E;
+403500N/0475700E; 402000N/0474800E;  402000N/0454900E then along
+  Azerbaijan-Armenia (East) up to  411800N/0450100E then along  Azer-
+baijan-Georgia up to  415400N/0462700E then along  Azerbaijan-Russia
+up to point of origin.
+2 Vertical limits GND to FL195
+3 Airspace classification Nil
+4 ATS unit call sign
+Language(s)
+Ganja Approach, English
+Ganja Approach, Russian
+5 Transition altitude 7000 FT (2134 M) MSL
+6 Hours of abblicability Nil
+7 Remarks Nil
+UBBG AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of operation Remarks
+1 2 3 4 5
+APP Ganja Approach 123.900 MHZ
+135.925 MHZ H24 ENG
+ATIS Ganja ATIS 119.250 MHZ H24 ENG
+TWR Ganja Tower 123.900 MHZ H24 ENG
+UBBG AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+MAG VAR
+CAT of ILS/MLS
+ID Frequency Hours of
+operation
+Site of transmitting
+antenna coordinates
+Elevation of
+DME transmit-
+ting antenna
+Remarks
+1 2 3 4 5 6 7
+DVOR/DME
+(06° E/2015)
+GND 115.80 MHZ
+CH 105X
+H24 404512.7N
+0461743.8E
+1100 FT (335 M) Coverage 200 NM
+LLZ
+ ILS RWY 12
+IGL 111.30 MHZ H24 404341.9N
+0462016.6E
+- 122˚ MAG, 273M
+from THR 30
+GP 332.30 MHZ H24 404449.8N
+0461830.5E
+- 3˚, RDH 50 FT
+DME IGL CH 50X H24 404449.8N
+0461830.5E
+1100 FT (335 M) Coverage 25 NM
+LLZ
+ ILS RWY 30
+IGR 110.90 MHZ H24 404457.0N
+0461810.4E
+- 302˚ MAG, 205M
+from THR 12
+GP 330.80 MHZ H24 404351.4N - 3˚, RDH 50 FT
+
+=== Page 8 ===
+AD 2 UBBG - 8
+31 OCT 2024
+AIP
+AZERBAIJAN
+AIRAC AMDT 03/24 State Civil Aviation Agency
+Type of aid
+MAG VAR
+CAT of ILS/MLS
+ID Frequency Hours of
+operation
+Site of transmitting
+antenna coordinates
+Elevation of
+DME transmit-
+ting antenna
+Remarks
+1 2 3 4 5 6 7
+0461952.1E 
+DME
+ IGR
+ CH 46X
+ H24
+ 404351.4N
+0461952.1E
+1100 FT (335 M)
+ Coverage 25 NM
+UBBG AD 2.20 LOCAL TRAFFIC REGULATIONS
+1 RUN-UP PROCEDURE
+1.1 Run-up and full engine thrust are only permitted on a few numbers of stands or at specially assigned places.
+1.2 Permission for engine run-up shall be requested from “Ganja Tower” on FREQ 123.900 MHz. Stand number and intended engine power
+thrust should be indicated.
+2 PUSH BACK AND TOW PROCEDURES
+2.1 Clearance for push back or tow may only be requested if airplane is ready to carry out the maneuver.
+2.2 The clearance for push back or tow shall be requested from “Ganja Tower” on FREQ 123.900 MHz.
+2.3 Engines can be started before, during or after push back or tow as specified in instructions of “Ganja Tower”. The interphone or hand signal
+system shall be used for communication between signalman and crew.
+3 START – UP PROCEDURE
+3.1 All types of flights shall request clearance for engine start-up from “Ganja Tower” on FREQ 123.900 MHz.
+3.2 The parking position, QNH value and designator of latest received ATIS broadcast shall be reported in the initial call.
+4 TAXI PROCEDURES
+4.1 Unless otherwise instructed by “Ganja Ground”, the taxi routes published on chart UBBG AD-2.24-3-1 shall be followed.
+4.2 While taxiing, the crew shall observe the area in front of them and take measures to avoid collisions with aircraft, motor vehicles and other
+obstacles.
+4.3 Movement of aircraft on the apron is subject to prior permission from “Ganja Tower”. However, “Ganja Tower” only provides necessary
+information to maintain an orderly flow of traffic.
+4.4 “Follow me” car is always available by request.
+4.5 The aircraft shall not enter or cross the runway without clearance from the “Ganja Tower”.
+4.6 Taxiing from the holding position to line-up and take-off shall be performed only after clearance given by “Ganja Tower”.
+5 PARKING POSITION FOR HELICOPTERS
+Helicopters are always directed to the parking positions by signalman.
+6 APRON, TAXIING IN WINTER CONDITIONS
+Taxiways in apron area are not equipped with lights indicating median strip. The taxiing lines may be invisible because of snow. The help of
+«FOLLOW ME» car may be requested from the body managing ground traffic.
+7 HELICOPTER FLIGHTS RESTRICTIONS
+Irregular public air transportation by helicopters is allowed only after obtainment of preliminary permission from Ganja airport administration.
+8 OTHER INFORMATION
+Isolated aircraft parking position is available and located at aircraft stand #8.
+UBBG AD 2.21 NOISE ABATEMENT PROCEDURES
+There are no special noise abatement procedures established.
+Aircraft types ANTONOV 24, ANTONOV 26 and TUPOLEV 134 are not allowed to land and take off at Ganja International Airport due to
+noise abatement, except for ambulance, humanitar, emergency, search and rescue flights.
+UBBG AD 2.22 FLIGHT PROCEDURES
+
+=== Page 9 ===
+AIP
+AZERBAIJAN
+AD 2 UBBG - 9
+18 APR 2024
+State Civil Aviation Agency AIRAC AMDT 01/24
+Procedures to be followed by arriving or departing aircraft are contained on the SID charts UBBG 2.24.7-1 through UBBG 2.24.7-15 and STAR
+charts UBBG 2.24.9-1 through UBBG 2.24.9-15.
+UBBG AD 2.23 ADDITIONAL INFORMATION
+NIL
+UBBG AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome Chart UBBG AD 2.24-1-1
+Aerodrome Ground Movement And
+Aircraft Parking Chart RWY 12/30 UBBG AD 2.24-3-1
+Aerodrome Obstacle Chart ICAO RWY 12/30 UBBG AD 2.24-4-1
+Standard Instrument Departure Chart (SID) RWY 12 UBBG AD 2.24-7-1
+Standard Instrument Departure Chart (SID) RWY 30 UBBG AD 2.24-7-3
+Standard Instrument Departure Chart (SID) RWY 30 UBBG AD 2.24-7-5
+Standard Arrival Chart (STAR) RWY 12 UBBG AD 2.24-9-1
+Standard Arrival Chart (STAR) RWY 30 UBBG AD 2.24-9-3
+Instrument Approach Chart (ILS DME) RWY 12 UBBG AD 2.24-10-1
+Instrument Approach Chart (ILS DME) RWY 30 UBBG AD 2.24-10-3
+Instrument Approach Chart (VOR DME) RWY 12 UBBG AD 2.24-10-5

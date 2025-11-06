@@ -1,0 +1,636 @@
+=== Page 1 ===
+AIP Japan
+HOFU
+Civil Aviation Bureau,Japan
+RJOF AD2-1
+AD 2 AERODROMES
+RJOF AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJOF - HOFU
+RJOF AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJOF AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 340204N/1313247E
+2 Direction and distance from (city) 1.1nm SW
+3 Elevation/ Reference temperature 7ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-A
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2200 - 1000 Other time 1HR PN
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office 2200 - 1000 Other time 1HR PN
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office 2100 - 0900 Other time on request
+7 ATS 2200 - 1000 Other time 1HR PN
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 2 ===
+RJOF AD2-2                         AIP Japan
+                        HOFU
+Civil Aviation Bureau,Japan
+RJOF AD 2.4 HANDLING SERVICES AND FACILITIES
+RJOF AD 2.5 PASSENGER FACILITIES
+RJOF AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJOF AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1 PLUS
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:11 JUL 2024) 11/7/24
+
+
+=== Page 3 ===
+AIP Japan
+HOFU
+Civil Aviation Bureau,Japan
+RJOF AD2-3
+RJOF AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJOF AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJOF AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY 12/30,01/19 
+(LGT): RTHL(RWY 12/30),TKOF aiming LGT 
+TWY:
+(LGT): TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJOF AD2-4                         AIP Japan
+                        HOFU
+Civil Aviation Bureau,Japan
+RJOF AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJOF AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office HOFU
+2 Hours of service
+MET Office outside hours
+2100 - 0900 Other time on request
+3 Office responsible for TAF preparation 
+Periods of validit
+Nil
+4 Trend forecast 
+Interval of issuance
+Nil
+5 Briefing/ consul tation provided Nil
+6 Flight documentation
+Language(s) used
+Ja,En
+7 Charts and other information available 
+for briefing or consultation
+S,U
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+12
+30
+To be 
+issued later
+1480×45
+1480×45
+TTW20250kg(44600lbs)
+Asphalt
+Nil Nil
+Nil
+01
+19
+1180×45
+1180×45
+TTW20250kg(44600lbs)
+Asphalt
+Nil Nil
+Nil
+   Slope of RWY 
+Strip
+ Dimensions(M)
+Remarks
+71 0 1 2
+Nil 1600×150
+1600×150
+Nil
+Nil 1300×150
+1300×150
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 5 ===
+AIP Japan
+HOFU
+Civil Aviation Bureau,Japan
+RJOF AD2-5
+RJOF AD 2.13 DECLARED DISTANCES
+RJOF AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJOF AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 3 4 56 78 9
+12 PAPI
+4.5°
+152m
+37.9ft
+30 PAPI
+4.5°
+152m
+38.2ft
+01
+19
+Remarks
+10
+ Nil
+1 ABN/IBN location, characteristics and 
+hours of operation ABN: 340116N/1313154E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT Nil
+3 TWY edge and centerline lighting TWY edge LGT : AVBL
+4 Secondary power supply/    switch-
+over time Nil
+5 Remarks WDI LGT, OBST LGT
+(EFF:30 OCT 2025) 30/10/25
+
+
+=== Page 6 ===
+RJOF AD2-6                         AIP Japan
+                        HOFU
+Civil Aviation Bureau,Japan
+RJOF AD 2.16 HELICOPTER LANDING AREA
+RJOF AD 2.17 ATS AIRSPACE
+RJOF AD 2.18 ATS COMMUNICATION FACILITIES
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+HOFU 
+CTR
+Area within a radius of 5 nm of HOFU  
+ARP(34°02'N131°33'E ).
+4 000 or 
+below
+DH O F U  T O W E R
+Service
+designation
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 34 5
+TWR Hofu Tower 236.8MHz
+126.2MHz
+138.3MHz
+133.4MHz(2)
+120.1MHz(2)
+247.0MHz(1)(2)
+123.1MHz(1)(2)
+121.5MHz(E)
+243.0MHz(E)
+2200-1000
+Other time 
+1HR PN
+APP provided by Tsuiki APP.
+(1) For rescue only.
+(2) AVBL on request.
+GND Hofu Ground 133.0MHz 2200-1000
+Other time 
+1HR PN
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 7 ===
+AIP Japan
+HOFU
+Civil Aviation Bureau,Japan
+RJOF AD2-7
+RJOF AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN FMT 1164MHz
+(CH-77X)
+H24 340218N/1313245E 57.7ft Unusable on
+R360-010 beyond 15NM BLW 5000ft
+R010-020 beyond 13NM BLW 5000ft
+R020-030 beyond 22NM BLW 6000ft
+R030-040 beyond 35NM BLW 7000ft
+R040-070 beyond 18NM BLW 7000ft
+R070-080 beyond 15NM BLW 6000ft
+R080-090 beyond 20NM BLW 5000ft
+R090-100 beyond 35NM BLW 5000ft
+R100-110 beyond 22NM BLW 5000ft
+R120-130 beyond 28NM BLW 5000ft
+R130-140 beyond 12NM BLW 4000ft
+R140-150 beyond 10NM BLW 4000ft
+R150-160 beyond 23NM BLW 4000ft
+R160-170 beyond 34NM BLW 5000ft
+R170-180 beyond 38NM BLW 5000ft
+R200-210 beyond 30NM BLW 7000ft
+R210-220 beyond 16NM BLW 7000ft
+R220-230 beyond 14NM BLW 6000ft
+R230-250 beyond 31NM BLW 6000ft
+R250-270 beyond 19NM BLW 5000ft
+R270-280 beyond 28NM BLW 5000ft
+R280-290 beyond 23NM BLW 5000ft
+R290-300 beyond 32NM BLW 5000ft
+R300-310 beyond 22NM BLW 5000ft
+R310-330 beyond 12NM BLW 5000ft
+R330-350 beyond 17NM BLW 5000ft
+R350-360 beyond 15NM BLW 5000ft
+(EFF:25 MAR 2021) 25/2/21
+
+
+=== Page 8 ===
+RJOF AD2-8                         AIP Japan
+                        HOFU
+Civil Aviation Bureau,Japan
+RJOF AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJOF AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 9 ===
+AIP Japan
+HOFU
+Civil Aviation Bureau,Japan
+RJOF AD2-9
+RJOF AD 2.22 FLIGHT PROCEDURES
+RJOF AD 2.23 ADDITIONAL INFORMATION
+RJOF AD 2.24 CHARTS RELATED TO AN AERODROME
+1.TAKE OFF MINIMA
+RWY
+REDL AVBL REDL OUT
+CEIL-VIS CEIL-VIS
+Multi-Engine ACFT with 
+TKOF ALTN AP FILED
+12
+1100'-1600m
+30
+OTHER
+12
+AVBL LDG MINIMA
+30
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Tsuiki Radar are lost for 1 minute, squawk Mode A/3 Code 7600 and,
+(I) 1. Contact TSUIKI Radar / HOFU Tower.
+2. If unable, proceed in accordance with Visual Flight Rules.
+3. If unable, proceed to NANYO IAF last  assigned altitude or 4,000 feet wh ichever is higher, and execute TACAN
+approach.
+(II) Procedures other than above will be issued when situation required.
+3. Automated Radar Terminal System(ARTS)
+Aircraft flying under control of Tsuiki approach control in the appr oach control area will be instructed to reply with discrete
+code on Mode A/3 and Mode C.
+If an aircraft with non-discrete code capability is instructed to reply with the discrete code, it shall report a controller
+accordingly.
+Nil
+Standard Departure Chart-Instrument-1
+Standard Departure Chart-Instrument-2
+Instrument Approach Chart (TACAN)
+(EFF:25 MAR 2021) 25/2/21
+ 築城ターミナル管制所の指示のもとに、当該進入管制区を飛行する航空機は、モード Ａ ／３の二次レーダー個別コー
+ド及びモード Ｃ による応答を指示される。
+二次レーダー個別コードを搭載していない航空機が当該コードによる応答を指示された場合は、管制官に対しその旨を
+通報すること。
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+SID
+RWY 12 : Climb ...
+RWY 30 : Climb RWY HDG until 2.0NM from RWY end(2.4DME from FMT), 
+turn left ...
+...via FMT R116 to 2500FT or above, turn right direct to FMT
+TACAN within FMT 10.4DME.
+Cross FMT TACAN at 4000FT or specified altitude.
+Note RWY 12 : Minimum rate of climb 410FT/NM until 2500FT.
+YASAKA TRANSITION
+    From over FMT TACAN, via FMT R348 to intercept and proceed via
+FMT 13DME clockwise ARC to YASAK, proceed via IWT R299 to IWT TACAN.
+Maintain 4000FT or specified altitude until FMT 3DME, cross FMT 10DME at
+6000FT or above and cross YASAK at assigned or specified altitude.
+YAMAGUCHI TRANSITION
+   From over FMT TACAN, via FMT R348 to YUDAR, maintain
+4000FT or specified altitude until FMT 3DME, then make left procedure
+turn to YUDAR within FMT 15DME, cross YUDAR at assigned altitude,
+then proceed to FMT TACAN.
+KUGA FOUR DEPARTURE
+   RWY 12 : Climb ...
+   RWY 30 : Climb RWY HDG until 2.0NM from RWY end(2.4DME from FMT),
+turn left ...
+...via FMT R116 to intercept and proceed via FMT 8DME 
+counter-clockwise ARC to intercept FMT R093, turn right, proceed
+via FMT R093 to IWT TACAN.
+Cross FMT R093/19DME at assigned altitude.
+HOFU REVERSAL THREE DEPARTURE
+RJOF / HOFU
+        RWY 30 : Minimum rate of climb 360FT/NM until 1500FT.
+Note RWY 12 : Minimum rate of climb 410FT/NM until 1500FT.
+        RWY 30 : Minimum rate of climb 360FT/NM until 1500FT.
+CHANGE ɿ PROC UHnameG, PROCcourse, Note(HOFU REVERSAL THREE DEPARTURE, KUGA FOUR DEPARTURE). 
+(EFF:19 MAY 2022) 19/5/22
+RJOF AD2.24-SID-1
+HOFU
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+SID
+KUGA
+TACAN (IWT)
+assigned  Alt.
+D19 FMT
+093°
+119°
+YASAK
+YASAKA  TRANSITION
+4000  or
+specified
+R042
+R093
+D10.4 FMT
+2500
+6000
+116°
+D10 FMT
+ D3 FMT
+348°
+HOFU
+TACAN(FMT)
+YUDAR
+assigned  Alt.
+4000  or  specified
+YAMAGUCHI  TRANSITION
+D13 FMT ARC
+D15 FMT
+RJOF / HOFU
+assigned or
+specified Alt.
+KUGA FOUR DEPARTURE
+HOFU REVERSAL THREE DEPARTURE
+D8 FMT ARC
+CHANGE ɿ PROC UHnameG, PROC course(HOFU REVERSAL THREE DEPARTURE, KUGA FOUR DEPARTURE). 
+D2.4 FMT
+(EFF:19 MAY 2022) 19/5/22
+RJOF AD2.24-SID-2
+HOFU
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180
+°
+360°
+090°
+1600
+2000
+1530
+2030
+MDA
+4000
+TACAN A
+TSUIKI APP
+119.225 – 315.9
+RADAR AVBL
+CALL TSUIKI APP
+HOFU   TACAN
+1164  FMT
+ÛÝ1ÛÝ(
+HOFU   TOWER
+126.2 – 236.8
+2070
+541
+853
+2038
+1470
+1027
+1828
+1834
+1513
+1296
+1391
+1214
+1066
+1249
+789
+296°
+276°
+116°
+FMT
+MAPt
+DME to FMT
+D8 FMT
+ARC
+MISSED APPROACH
+0.4DME prior to FMT TACAN, left
+climbing turn to 4000FT via FMT
+R116 within FMT 10 DME, then
+proceed to NANYO and hold.
+Contact TSUIKI APP .
+NANYO
+276°276°
+096°
+R096
+D14 FMT
+R116
+296°
+116° D8 FMT ARC
+EMERG SAFE ALT 100nm 8500
+FAF
+NANYO(IAF)
+R096
+D10 FMT
+R096
+R116
+MINIMA 
+CAT
+1100 (1093)
+1500 (1493)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 7
+A
+B
+C
+D
+RJOF / HOFU
+VAR 8˚W (2020)
+CH–77X
+090˚ 270˚
+180˚
+FMT
+46003600
+3400
+MSA 25NM
+(IAF)D10 FMT
+   FAF
+D6 FMT
+D0.4FMT
+3000
+2100
+1400
+20.4
+CHANGE ɿ OBST . ALT restriction. OCA(H). MINIMA. 
+688 1 0
+1600 (1593)
+Circling to RWY12 and RWY30 only.
+(EFF:11 JUL 2024) 11/7/24
+RJOF AD2.24-IAC-1
+HOFU
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+

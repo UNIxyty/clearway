@@ -1,0 +1,817 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIET 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIET AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIET AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIET - TORTOLÌ
+LIET AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIET AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+39°55'09''N 009°40'57''E
+2 Direzione e distanza dalla città 1.3 NM SW di Arbatax
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+24 FT / 25.9° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2005.0) / 5'E
+5 Autorità amministrativa aeroportuale ENAC - DT Sardegna
+Aeroporto di Cagliari
+09067 Elmas (CA)
+ Tel: +39 070 0937571 E-mail: sardegna.apt@enac.gov.it
+ protocollo@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Aliarbatax Srl.
+Tel: +39 0782 600600
+Cell: +39 348 9139631
+Email: aliarbatax@gmail.com; aliarbatax@pec.it
+ Aerodrome operator  
+ Autorità ATS Nessun servizio ATS
+ 
+ ATS authority No ATS service
+ 
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note NIL
+ Remarks  
+LIET AD 2.3 ORARIO DEI SERVIZI
+LIET AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale MON-FRI 0800-1500
+ Aerodrome Administration  
+2 Dogana ed immigrazione Su richiesta, minimo 48 ore di anticipo per voli nazionali; 72 ore per voli Extra UE
+ Customs and immigration Available on request 48 hours in advance for national flights; 72 hours for Extra Ue
+flights
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office NIL
+   
+5 ARO NIL
+   
+
+=== Page 2 ===
+AD 2 LIET 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento NIL
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. Aeroporto aperto solo su richiesta tramite modulo PPR disponibile sul sito
+www.aeroportotortoli.eu/ppr
+ Remarks 1. The airport is open on request with PPR module available on the airport website
+www.aeroportotortoli.eu/ppr
+LIET AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIET AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio NIL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+LIET AD 2.5 SERVIZI PER I PASSEGGERI
+LIET AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti In città
+ Restaurants In town
+3 Trasporti Taxi su richiesta: +39 328 5356540, +39 338 4229710
+ Transportation Taxi on request: +39 328 5356540, +39 338 4229710
+4 Servizio medico In città
+ Medical facilities In town
+5 Banca e ufficio postale In città
+ Bank and Post office In town
+6 Ufficio turistico In città
+ Tourist office In town
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIET 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIET AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIET AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio. Vedere note.
+ Aerodrome category for fire fighting Fire Fighting Support. See Remarks.
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note Presidio antincendio assicurato in accordo alla “Disciplina generale della protezione
+antincendio per Aeroporti di aviazione generale e Aviosuperfici” ENAC
+ Remarks Fire Fighting Support compliant with the provision of “Disciplina generale della
+protezione antincendio per Aeroporti di aviazione generale e Aviosuperfici” ENAC
+regulation
+LIET AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIET AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+ 
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIET AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIET AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron NIL PCN 22/F/C/W/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 20.0 M ASPH PCN 14/F/A/W/T
+B 20.0 M ASPH PCN 14/F/A/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIET AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIET AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+
+=== Page 4 ===
+AD 2 LIET 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIET AD 2.10 OSTACOLI AEROPORTUALI
+LIET AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIET AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIET AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIET 1 - 5
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LIET AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIET AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+12 NIL 1188 x 30
+PCN 109/F/A/X/T
+BITUMCONG
+39°55'17.15''N
+009°40'38.07''E
+22.0  FT / NIL
+30 NIL 1188 x 30
+PCN 109/F/A/X/T
+BITUMCONG
+39°54'59.89''N
+009°41'15.73''E
+7.0  FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+12 NIL NIL 120 x 90 1308 x 80 60 x 60
+30 NIL NIL 130 x 90 1308 x 80 70 x 90
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+12 NIL
+1) DTHR 117 m
+2) RESA: Superficie portante. La superficie pavimentata oltre la RWY END 12 è disponibile per
+l'allineamento (distanze dichiarate Start Point 30) / Bearing surface. Paved area beyond RWY
+END 12 is available for alignment (declared distances Start Point 30)
+30 NIL
+1) DTHR 30 m
+2) RESA: Superficie portante. La superficie pavimentata oltre la RWY END 30 è disponibile per
+l'allineamento (distanze dichiarate Start Point 12) / Bearing surface. Paved area beyond RWY
+END 30 is available for alignment (declared distances Start Point 12)
+LIET AD 2.13 DISTANZE DICHIARATE
+LIET AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+12
+START POINT RWY 12
+1188
+1288
+1308
+1408
+1188
+1288
+1071
+-
+30
+START POINT RWY 30
+1188
+1298
+1318
+1428
+1188
+1298
+1158
+-
+NOTE
+REMARKS
+NIL
+LIET AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+
+=== Page 6 ===
+AD 2 LIET 1 - 6
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+LIET AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+12 NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+30 NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+12 NIL NIL NIL NIL NIL NIL NIL NIL
+30 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+12 NIL NIL NIL NIL NIL NIL
+30 NIL NIL NIL NIL NIL NIL
+LIET AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIET AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+Caratteristiche: NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+Characteristics: NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers: NIL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIET AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIET AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIET 1 - 7
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note 1. Per il decollo ed atterraggio gli elicotteri devono utilizzare la pista e posizionarsi in
+autonomia da/per la zona di parcheggio prevista. La manovra degli elicotteri deve
+essere effettuata NON in contemporanea con altri aeromobili, mezzi e persone
+ Remarks 1. Helicopters shall use the main runway for take-off and landing and taxi to/ from
+the apron. Helicopters shall manoeuvre WITHOUT any other aircraft, veichles or
+people operating in the ground area
+LIET AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIET AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+NIL NIL NIL NIL NIL NIL
+LIET AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIET AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+
+=== Page 8 ===
+AD 2 LIET 1 - 8
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+LIET AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIET AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIET AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIET AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di
+visibilità ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+1. L’operatività dei voli deve essere autorizzata su preventiva richiesta
+tramite procedura PPR (Prior Permission Request). La richiesta di
+PPR può essere inoltrata tramite il modulo web pubblicato sul sito
+(www.aeroportotortoli.eu) ed ottenendo risposta via mail o, in via
+alternativa, chiamando i numeri di telefono Aliarbatax ed ottenendo
+l’autorizzazione ad operare
+1. Flight operations are allowed prior authorization through PPR
+procedure (Prior Permission Request) available from the dedicated
+page at the airport website (www.aeroportotortoli.eu) and obtaining
+the authorization reply via email or, alternatively, by calling the
+Aliarbatax telephone numbers and obtaining the authorization to
+operate
+2. I piloti dei voli che intendono operare nelle vicinanze dell’aeroporto
+di Tortolì dovranno attenersi all’osservanza delle limitazioni relative
+alle seguenti zone: LI (R)-601A; LI (R)-601B; LI (R)-601C
+2. Pilots of flights intending to operate in the vicinity of Tortolì Airport
+shall comply with the restrictions concerning the following areas: LI
+(R)-601A; LI (R)-601B; LI (R)-601C
+3. Non vengono forniti servizi ATS. La pista da utilizzare è determinata
+dal pilota comandante a mezzo di osservazione visiva diretta
+3. No ATS service is provided. RWY to be used is determined by the
+pilot in command upon direct visual observation
+4. Si rammenta ai piloti dei voli che operano nelle vicinanze
+dell’aeroporto di Tortolì di ottemperare ai regolamenti SERA e RAIT
+4. Pilots of flights operating in the vicinity of Tortolì airport are
+reminded to comply with SERA and RAIT rules
+5. Evitare il sorvolo della zona di Arbatax, porto, Capo Bellavista e
+villaggi turistici
+5. Avoid flying over Arbatax town, its port, Capo Bellavista and nearby
+resorts
+6. Per gli aeromobili che prevedono di sostare più giorni è necessario
+il coordinamento preventivo con Aliarbatax previo PPR
+6. Aircraft that need to layover for more than one day shall coordinate
+in advance with Aliarbatax with PPR
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+VDS non consentito ULM activity not allowed
+LIET AD 2.21 PROCEDURE ANTIRUMORE
+LIET AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIET 1 - 9
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+2 Uso delle piste 2 Use of RWY
+1. Partenze
+NIL
+2. Arrivi
+NIL
+3. Restrizioni notturne
+NIL
+1. Departures
+NIL
+2. Arrivals
+NIL
+3. Night restrictions
+NIL
+3 Restrizioni al suolo 3 Ground restrictions
+1. Spinta inversa
+NIL
+2. APU
+NIL
+3. Prove motori
+NIL
+1. Reverse
+NIL
+2. APU
+NIL
+3. Engine run ups
+NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIET AD 2.22 PROCEDURE DI VOLO
+LIET AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+NIL NIL
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+1. Procedure di entrata
+NIL
+2. Procedure di attesa/discesa/mancato avvicinamento
+NIL
+3. Controllo delle velocità
+NIL
+4. Procedure di radio-avaria
+NIL
+1. Entry procedures
+NIL
+2. Holding/approach/missed approach procedures
+NIL
+3. Speed control
+NIL
+4. Radio-failure
+NIL
+2.3 Partenze 2.3 Departures
+1. Informazioni generali
+NIL
+2. Procedure per la messa in moto
+NIL
+3. Procedure di uscita
+NIL
+4. Controllo delle velocità
+NIL
+1. General information
+NIL
+2. Start-up procedures
+NIL
+3. Exit procedures
+NIL
+4. Speed control
+NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+1. Uso del radar nel Servizio di Controllo di Aerodromo
+NIL
+2. Uso del radar per i movimenti di superficie (SMR)
+NIL
+1. Use of radar in Aerodrome Control Service
+NIL
+2. Use of radar for surface movements (SMR)
+NIL
+
+=== Page 10 ===
+AD 2 LIET 1 - 10
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+Nell'effettuare i circuiti di traffico porre attenzione a non interessare la
+zona LI(R)-601/B e C quando attiva:
+RWY 12 DESTRA
+RWY 30 SINISTRA
+When manoeuvring on traffic circuit, manage to remain clear of the
+Restricted Military areas LI(R)-601/B and C if active:
+RWY 12 RIGHT
+RWY 30 LEFT
+4.3 Arrivi 4.3 Arrivals
+Atterraggi RWY 12: la RWY THR è spostata. Rispettare le quote di
+passaggio
+Landing RWY 12: RWY THR is displaced. Respect flyover altitude
+4.4 Partenze 4.4 Departures
+Decollo pista 30: decollo da punti intermedi non consentito. Se diretti
+a Sud, virare a sinistra appena possibile per prua 210 per evitare il
+sorvolo del paese. Si richiede ai piloti di evitare il sorvolo di: Capo
+Bellavista, Arbatax e zone limitrofe, nonché il sorvolo del centro abitato
+di Tortolì
+Takeoff RWY 30: start takeoff roll at full length of RWY 30. If heading
+South, after takeoff turn left immediately onto heading 210 to avoid
+flying over the city. Pilots are requested to avoid flying over: Capo
+Bellavista, Arbatax and the resorts areas, as well as flying over the
+town of Tortolì
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+Non consentito Not allowed
+4.7 VFR notturno 4.7 VFR/N
+Non consentito Not allowed
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIET AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIET AD 2.23 ADDITIONAL INFORMATION
+Voli extra UE ed Extra Schengen devono fare richiesta ad Aliarbatax 72
+ore prima del volo, al fine di assicurare i controlli doganali e di polizia.
+Extra EU end extra Schengen flights are required to request
+operational approval to AliArbatax 72 hours in advance, to ensure
+Custom and border police control.
+LIET AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIET AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIET 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 12/30  AD 2 LIET 3 - 1
+Carte - Charts Pagine - Pages
+Aerodrome Obstacle Chart - Type B Vedi/See GEN 3.2
+LIET AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIET AD 2.25 Visual segment surface (VSS) penetration

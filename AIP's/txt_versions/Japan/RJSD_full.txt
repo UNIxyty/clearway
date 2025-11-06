@@ -1,0 +1,419 @@
+=== Page 1 ===
+AIP Japan
+SADO
+Civil Aviation Bureau,Japan
+RJSD AD2-1
+AD 2 AERODROMES
+RJSD AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJSD - SADO
+RJSD AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJSD AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 380338N 1382454E 
+97°/0.6km from RWY10 THR
+2 Direction and distance from (city)  4km SW of Ryotsu in Sado city
+3 Elevation/ Reference temperature  75ft / 35.9°C(2004-2008)
+4 Geoid undulation at AD ELEV 
+PSN
+ 125FT
+5 MAG VAR/ Annual change  9°W(2024)/4’W
+6 AD Administration, address, 
+telephone, telefax, telex, AFS, 
+e-mail and/or Web-site addresses
+ Niigata Pref.
+ 1814-3 Akitsu Sado-city Niigata
+ Tel : 0259-27-3041  Fax : 0259-58-8084
+ e-mail : ngt111141@pref.niigata.lg.jp
+(Web1) https://www.pref.niigata.lg.jp/sec/sado_seibi/1204045245988.html
+(Web2) https://www.pref.niigata.lg.jp/sec/sado_seibi/1201021235487.html
+7 Types of traffic permitted
+(IFR/VFR)
+ VFR
+8R e m a r k s  N i l
+1 AD Administration 2345 - 0815
+2 Customs and immigration On request
+Customs: 0259-23-4870
+Immigration: 025-275-4735
+3 Health and sanitation Quaranti ne(human): On request(025-275-4615)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office Nil
+7A T S N i l
+8 Fuelling Nil
+9 Handling Nil
+10 Security 2345 - 0815
+11 De-icing Nil
+12 Remarks Nil
+(EFF:10 JUL 2025) 10/7/25
+
+
+=== Page 2 ===
+RJSD AD2-2 AIP Japan
+SADO
+Civil Aviation Bureau,Japan
+RJSD AD 2.4 HANDLING SERVICES AND FACILITIES
+RJSD AD 2.5 PASSENGER FACILITIES
+RJSD AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJSD AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Nil
+3 Fuelling facilities/ capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 4
+2 Rescue equipment Chemical fire fighting truck x 2
+3
+Capability for removal of disabled 
+aircraft
+Crane(small type)
+4 Remarks Nil
+1 Types of clearing equipment Snow Removal Equipments :
+graders x 1 ,  dozer x 1 
+2 Clearance priorities
+1.RWY
+2.TWY
+3.Apron
+3 Remarks Nil
+(EFF:5 SEP 2024) 5/9/24
+
+
+=== Page 3 ===
+AIP Japan
+SADO
+Civil Aviation Bureau,Japan
+RJSD AD2-3
+RJSD AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJSD AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJSD AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface: Asphalt-concrete
+Strength: PCR 363/F/D/X/T
+2 Taxiway width, surface and 
+strength
+WIDTH : 11m
+Surface: Asphalt-concrete
+Strength: PCR 363/F/D/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Not available
+6 Remarks Nil
+1
+Use of aircraft stand ID signs, TWY 
+guide lines and Visual docking/ 
+parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:10/28
+(Marking)RWY designation, RWY THR, RWY Middle Point, Aiming point,  
+               RWY side stripe 
+TWY:
+(Marking)TWY CL, TWY side stripe 
+3 Stop bars Nil
+4 Remarks (Marking)Overrun area 
+(LGT)Apron flood LGT 
+In Area2 See Obstacle data
+In Area3 To be developed
+(EFF:30 OCT 2025) 30/10/25
+
+
+=== Page 4 ===
+RJSD AD2-4 AIP Japan
+SADO
+Civil Aviation Bureau,Japan
+RJSD AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJSD AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJSD AD 2.13 DECLARED DISTANCES
+1 Associated MET Office  Niigata pref ecture Sado airport branch office
+2 Hours of service
+MET Office outside hours
+ 2345-0815
+ Nil
+3 Office responsible for TAF preparation
+Periods of validity
+ Nil
+4 Trend forecast
+Interval of issuance
+ Nil
+5 Briefing/ consulta tion provided  Nil
+6 Flight documentation
+Language(s) used
+ Nil
+7 Charts and other information available for 
+briefing or consultation
+ Nil
+8 Supplementary equipment
+available for providing information
+ Nil
+9 ATS units provided with information  Nil
+10 Additional information(limitation of 
+service, etc.)
+ Nil
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+Surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+10 097.33° 890×25 PCR 131/F/D/Z/T
+Asphalt-Concret
+380339.36N1382436.21E
+125FT
+THR ELEV: 97FT
+28 277.33° 890×25 PCR 131/F/D/Z/T
+Asphalt-Concrete
+380335.71N1382512.43E
+125FT
+THR ELEV: 53FT 
+Slope of RWY
+Strip
+Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See RJSD AD2.24 AD Chart
+1010×60 Nil
+RWY grooving:890×25m
+1010×60 210 × 60
+ 
+RWY 
+Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+12 3 4 5 6
+10
+28
+890
+890
+890
+890
+890
+890
+890
+890
+Nil
+Nil
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 5 ===
+AIP Japan
+SADO
+Civil Aviation Bureau,Japan
+RJSD AD2-5
+RJSD AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJSD AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJSD AD 2.16 HELICOPTER LANDING AREA
+RJSD AD 2.17 ATS AIRSPACE
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+10 Nil Nil PAPI(*1)
+4.5°/Left
+114m
+25ft
+Nil Nil Nil Nil Nil
+28 Nil Nil PAPI
+4.5°/Left
+86m
+ 25ft
+Nil Nil Nil Nil Nil
+Remarks
+10
+ PAPI for RWY 10: Unusable beyond 1.5NM(*1)
+ RWY THR ID LGT for RWY 10/28 THR(Color:White)
+1 ABN/IBN location, characteristics 
+and hours of operation Nil
+2 LDI location and LGT 
+Anemometer location and LGT Nil
+3 TWY edge and center line lighting Nil
+4 Secondary power supply/    
+switch-over time Within 15sec:PAPI,RWY THR ID LGT
+5 Remarks Nil
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+Nil
+(EFF:26 DEC 2024) 28/11/24
+
+
+=== Page 6 ===
+RJSD AD2-6 AIP Japan
+SADO
+Civil Aviation Bureau,Japan
+RJSD AD 2.18 ATS COMMUNICATION FACILITIES
+RJSD AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJSD AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 34 5
+Nil
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:8 OCT 2020) 10/9/20
+
+
+=== Page 7 ===
+AIP Japan
+SADO
+Civil Aviation Bureau,Japan
+RJSD AD2-7
+9. Removal of disabled aircraft from runways
+RJSD AD 2.21 NOISE ABATEMENT PROCEDURES
+RJSD AD 2.22 FLIGHT PROCEDURES
+RJSD AD 2.23 ADDITIONAL INFORMATION
+RJSD AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Nil
+Nil
+Nil
+Aerodrome Chart
+(EFF:8 OCT 2020) 10/9/20
+
+
+=== Page 8 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 9 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+28
+88ft
+(26.7m) 71ft
+(21.6m) 53ft
+(16.2m)
+RWY 28
+890m0m
+RWY 10
+WDI
+113.8m
+450m
+10
+WDI
+86.1m
+2
+1
+3
+4
+2
+1
+3
+4
+RJSD / SADO
+SADO  AIRPORT
+LONGITUDINAL PROFILE OF RUNWAY
+REMARKS : 
+1. RUNWAY GROOVING 890m × 25m
+2. WIDTH OF TAXIWAY 10.5m      
+3. UNUSABLE AREA OF PAPI
+                                 FOR RWY 10  : beyond   1.5NM
+1.12% 1.23%
+MEHT 7.68m(25ft)
+PAPI  Angle  4.5°
+MEHT 7.68m(25ft)
+PAPI  Angle  4.5°
+AD  CHART
+RUNWAY  MIDDLE  POINT
+RUNWAY  THRESHOLD 
+IDENTIFICATION  LIGHTS
+VAR 9° W (2024)
+ANNUAL CHANGE 4’W
+CHANGE : Turning pad installed. 
+5
+5
+(EFF:10 JUL 2025) 10/7/25
+RJSD AD2.24-ADC-1
+SADO
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+

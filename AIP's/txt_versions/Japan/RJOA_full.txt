@@ -1,0 +1,4223 @@
+=== Page 1 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-1
+AD 2 AERODROMES
+RJOA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJOA - HIROSHIMA
+RJOA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJOA AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 342610N/1325510E
+097°/1.5km FM RWY 10 THR
+2 Direction and distance from (city) 50km E FM Hiroshima city
+3 Elevation/ Reference temperature 1086ft / 32.2°C(2019-2023)
+4 Geoid undulation at AD ELEV 
+PSN
+114ft
+5 MAG VAR/ Annual change 8°W(2022)/4.8'W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Hiroshima International Airport Co., Ltd.
+64-31,Zennyuji, Hongo-cho, Mihara-city, Hiroshima Pref.
+TEL: +81-848-60-8108  FAX: +81-848-60-8103
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Hiroshima Airport Office (Civil Aviation Bureau)
+64-34, Zennyuji, Hongo-cho, Mihara-city, Hiroshima Pref.
+TEL: 0848-86-8650
+1 AD Administration 2230 - 1330
+2 Customs and immigration Customs: 2200 - 1300
+Immigration: 2330 - 0800
+3 Health and sanitation
+Quarantine(human): 2330 - 0815
+Quarantine(animal): 2330 - 1230
+Quarantine(plant): 2330 - 0800
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (KANSAI)
+7 ATS 2230 - 1330
+8 Fuelling 2100 - 1330
+9 Handling 2100 - 1400
+10 Security 2115 - 1135
+11 De-icing Nil
+12 Remarks Nil
+(EFF:12 JUN 2025) 12/6/25
+
+
+=== Page 2 ===
+RJOA AD2-2                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD 2.4 HANDLING SERVICES AND FACILITIES
+RJOA AD 2.5 PASSENGER FACILITIES
+RJOA AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 Cargo-handling facilities All the modern institutions that deal with the weight thing to a Boeing 747 type
+freighter.
+2 Fuel/ oil types Fuel grades : JET A-1
+3 Fuelling facilities/ capacity Fuel  truck / Ask AD administration
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Not at Airport, but near Airport
+2 Restaurants At Airport
+3 Transportation Buses and Taxi
+4 Medical facilities Not at Airport, but near Airport
+Hospital in Mihara city 8km
+5 Bank and Post Office At Airport
+6 Tourist Office At Airport
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3
+Water-supply truck
+Lighting power supply truck
+Emergency medical equipments conveyance truck
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-3
+RJOA AD 2.7 SEASONAL AVAILABILITY-CLEARING
+RJOA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Types of clearing equipment Snow remove equipm ents: Motor graders x 6-12, Wheel loader x 2
+2 Clearance priorities (1) RWY 10/28, TWY T1, T6, P1 - P5
+(2) SUB TWY, APRON, SUB APRON
+3 Remarks Seasonal availability: DEC MID - MAR MID
+Snow removal will be commenced, if the runway and taxiways are covered with
+a depth of 3cm or more.
+1 Apron surface and strength Spot NR 1 - 10   Surface: cement-concrete,  Strength: PCR 1132/R/B/W/T
+Sub apron        Surface: asphalt-concrete and cement-concrete,  
+                         Strength: PCR 330/R/B/W/T
+2 Taxiway width, surface and
+strength
+TWY T2 - T5  
+Width: 34m,  Surface: asphalt-concrete,  Strength: PCR 1341/F/A/X/T
+TWY T1,T6   
+Width: 32m,  Surface: asphalt-concrete,  Strength: PCR 1341/F/A/X/T
+TWY P1 - P5 
+Width: 30m,  Surface: asphalt-concrete,  Strength: PCR 1341/F/A/X/T
+SUB TWY     
+Width: 18m,  Surface: asphalt-concrete,  Strength: PCR 203/F/B/Y/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+1 : 342621.10N/1325517.84E
+2 : 342621.09N/1325515.09E
+3 : 342621.09N/1325512.35E
+5 : 342621.09N/1325509.61E
+6 : 342620.86N/1325506.74E
+6R : 342621.13N/1325507.25E
+6L : 342620.29N/1325505.47E
+7 : 342621.09N/1325503.83E
+7L : 342620.99N/1325503.69E
+8 : 342621.09N/1325500.89E
+9 : 342621.11N/1325458.60E
+10: 342621.08N/1325456.33E
+ 
+6 Remarks Nil
+(EFF:7 AUG 2025) 7/8/25
+
+
+=== Page 4 ===
+RJOA AD2-4                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Aircraft stand identification sign: Spot NR 2, 3, 5 - 8
+2 RWY and TWY markings and 
+LGT
+RWY:RWY 10/28
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point, Aiming
+point, TDZ, RWY side stripe
+(LGT) RCLL, REDL, RTHL, RENL, RTZL(RWY10), WBAR(RWY10)
+TWY: TWY T1 - T6 
+(Marking): TWY CL, RWY HLDG PSN, TWY side stripe, Mandatory instruction
+marking
+(LGT) TWY edge LGT, TWY CL LGT, RWY guard LGT, Taxiing guidance sign
+Stop Bar LGT
+TWY: TWY P1 - P5
+(Marking) TWY CL, TWY side stripe
+(LGT) TWY edge LGT, TWY CL LGT, Taxiing guidance sign
+3 Stop bars Stop Bar LGT : T1-T6
+Stop Bar System operations are as follows;
+1) Stop bar system are installed at each taxi holding position associated with
+RWY 10/28.
+2) Stop bar system will be operated w hen the visibility or the lowest RVR of
+RWY 10/28 is at or less than 600m.
+3) Stop bar system on TWY T1 and T6 are controlled individually by ATC.
+4) Stop bar system on TWY T2 thr ough T5 are not controlled individually by
+ATC.
+5) During the period stop bar system are operated, TWY T2 through T5 are
+not available for departing aircraft.
+4 Remarks (Marking): Overrun area, ACFT PRKG PSN, Apron TWY CL, ACFT stand taxi
+lane.
+(LGT): Apron flood LGT
+(EFF:21 OCT 2010) 21/10/10
+
+
+=== Page 5 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-5
+RJOA AD 2.10 AERODROME OBSTACLES
+See AD2.24 Aerodrome Obstacle Chart
+RJOA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In approach/TKOF areas
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/LGT Remarks
+RWY 10 Tower 342604N/1325305E 1008ft Marking / LIL
+RWY 10 Tower 342616N/1325304E 1160ft Marking / LIL
+RWY 10 Tower 342626N/1325301E 1208ft Marking / LIL
+In circling area and at AD
+Obstacle type Coordinates Elevation Markings/LGT Remarks
+Mountain 342644N1325451E 1475ft - / LIM above the horizontal surface
+Mountain 342702N1325442E 1485ft - / LIM above the horizontal surface
+Mountain 342722N1325354E 1659ft - / LIM above the horizontal surface
+Mountain & Tower 342751N1325540E 1623ft - / LIM above the horizontal surface
+Mountain 342802N1325628E 1390ft - / LIM above the horizontal surface
+Mountain 342736N1325219E 1688ft - / LIM
+Mountain 342728N1325317E 1585ft - / LIM above the horizontal surface
+Mountain 342826N1325451E 1616ft - / LIM above the horizontal surface
+1 Associated MET Office KANSAI
+2 Hours of service
+MET Office outside hours
+H24 (KANSAI)
+3 Office responsible for TAF preparation
+Periods of validity
+KANSAI
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Brie fing is available upon inquiry at KANSAI
+6 Flight documentation
+Language(s) used
+C
+En
+7
+Charts and other information available for 
+briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, Ps, P5, P3, P25, PSWE, PSWF, PSWG, PSWI,
+ PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, APP, ATIS
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+(EFF:1 APR 2014) 6/3/14
+
+
+=== Page 6 ===
+RJOA AD2-6                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJOA AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+10
+28
+090.00°
+270.00°
+3000×60
+3000×60
+PCR 1096/F/A/X/T
+Asphalt Concrete
+PCR 1096/F/A/X/T
+Asphalt Concrete
+342609.69N
+1325411.25E
+113.2ft
+342609.69N
+1325608.75E
+113.4ft
+THR ELEV:1071.7ft 
+TDZ ELEV:1080.8ft
+THR ELEV:1067.2ft
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See below figure 3120 × 300
+3120 × 300
+240 × (MNM:167 MAX:300)*
+40 × (MNM:292 MAX:300)*
+*For detail, ask airport administrator
+RWY Grooving : 3000×40m
+RWY Designator TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+10
+TWY:T5
+TWY:T4
+28
+TWY:T2
+TWY:T3
+3000
+2420
+1810
+3000
+2310
+1685
+3000
+2420
+1810
+3000
+2310
+1685
+3000
+2420
+1810
+3000
+2310
+1685
+3000
+3000
+Nil
+Nil
+TORA,TODA and ASDA for TWY Indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.
+  0m  1680.845m   3000m
+ 1087.7ft
+ 1071.7ft  1067.2ft
+ 0.5% 0.3%
+RWY10 RWY28LONGITUDINAL PROFILE OF RUNWAY
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 7 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-7
+RJOA AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJOA AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+10
+PALS
+(CAT III)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+397m
+66ft
+900m
+3000m
+15m
+Coded color
+ (White/Red)
+LIH
+3000m
+60m
+Coded color
+ (White/Yellow)
+LIH
+Red Nil
+(*1)
+28
+SALS
+420m
+LIH
+Green
+-
+PAPI
+3.0°/Left
+416.3m
+73.8ft
+3000m
+15m
+Coded color
+ (White/Red)
+LIH
+3000m
+60m
+Coded color
+ (White/Yellow)
+LIH
+Red Nil
+(*1)
+Remarks
+10
+CGL and Wide angle approach lights are installed for south side circling to RWY 28, ALB is not installed.
+Overrun area edge LGT(LEN:60m Color:Red)(*1)
+1 ABN/IBN location, characteristics and 
+hours of operation ABN: 342631N/1325459E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : Nil
+Anemometor : 
+RWY10 : 460m from RWY10 THR, LGTD
+RWY28 : 380m from RWY28 THR, LGTD
+3 TWY edge and centerline lighting TWY edge and c enter line lights installed, see AD2.9
+4 Secondary power supply/    switch-
+over time
+Within 1 sec : PALS, SALS, REDL, RENL, RTHL, WBAR, RCLL, RTZL, 
+Overrun area edge LGT, Stop bar LGT, RWY guard LGT and TWY CL LGT 
+at TWY T1 , T6, P1 - P5
+Within 15 sec: Other LGT
+6 Remarks WDI LGT
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 8 ===
+RJOA AD2-8                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD 2.16 HELICOPTER LANDING AREA
+RJOA AD 2.17 ATS AIRSPACE
+1 Coordinates TLOF or THR of FATO
+Geoid undulation
+W-HELIPAD: 342615.66N/1325421.28E, Nil
+E-HELIPAD: 342618.23N/1325434.77E, Nil
+2 TLOF and/or FATO elevation W-HELIPAD: 1070ft
+E-HELIPAD: 1073ft
+3 TLOF and FATO area dimensions,
+surface, strength, marking
+TLOF and FATO area dimensions: 
+W-HELIPAD: 24m×20m
+E-HELIPAD: 21m×17m
+Surface: Asphalt - Concrete
+Strength: 
+W-HELIPAD: 11ton
+E-HELIPAD: 6.8ton
+Marking: See AIP AD2.24 AD chart
+4 True BRG of FATO W-HELIPAD: 090.00°/270.00°
+E-HELIPAD: 246.00°/066.00°, 294.00°/114.00°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7R e m a r k s
+W-HELIPAD: 
+MAX helicopter type: EC25
+E-HELIPAD: 
+MAX helicopter type: B412
+• only available to specific operators
+• daytime use only
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+HIROSHIMA 
+CTR
+Area within a radius of 5NM of HIROSHIMA 
+ARP(3426N/13255E ).
+4000 or 
+below D
+HIROSHIMA 
+TOWER
+En
+HIROSHIMA 
+ACA See below chart E
+HIROSHIMA 
+APP
+HIROSHIMA 
+DEP
+HIROSHIMA 
+RADAR
+En
+(EFF:7 AUG 2025) 7/8/25
+
+
+=== Page 9 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-9
+RJOA AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+APP Hiroshima
+Approach
+124.05MHz
+119.9MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330
+ASR Hiroshima Radar 119.9MHz
+124.05MHz
+125.15MHz 
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330
+DEP Hiroshima
+Departure
+119.9MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330
+TWR Hiroshima Tower 118.6MHz
+126.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2230 - 1330
+ATIS Hiroshima Airport 127.25MHz 2230 - 1330
+341050N
+1332313E
+341727N
+1322225E
+342039N
+1322429E
+341804N
+1322751E
+343206N
+1332020E
+342147N
+1332738E
+342956N
+1325359E
+340827N
+1321357E
+340638N
+1323021E
+341500N
+1322300E
+340559N
+1323146E
+340427N
+1323503E
+15nm
+344020N
+1333422E
+344000N
+1333500E
+344924N
+1324314E
+344620N
+1324137E
+344255N
+1323854E
+345336N
+1330806E345337N
+1324559E
+FL150
+8000
+8000
+6000
+(EXC 6000)
+۠
+Hiroshima Approach Control Area
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 10 ===
+RJOA AD2-10                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(8°W /2021)
+HGE 117.9MHz H24 342601.59N/
+1325526.29E
+VOR unusable:
+270° - 320° beyond 30nm BLW 7000ft.
+320° - 360° beyond 30nm BLW 6000ft.
+DME HGE 1213MHz
+(CH-126X)
+H24 342601.59N/
+1325526.29E
+1124ft DME unusable:
+050° - 060° beyond 30nm BLW 5000ft.
+270° - 320° beyond 30nm BLW 7000ft.
+320° - 360° beyond 25nm BLW 6000ft.
+ILS-LOC 10
+(CAT III)
+IHG 108.7MHz 2230-1330 342609.69N/
+1325621.68E
+LOC: 330m (1083ft) away FM RWY 28 
+THR.
+BRG (MAG) 097.93°
+ILS-GP 10 - 330.5MHz 2230-1330 342605.40N/
+1325423.92E
+GP: 324m (1063ft) inside FM RWY 10 
+THR, 132m (433ft) S of RCL
+GP angle 3.0°  
+ILS REF datum 16.5m (54ft).
+ILS-DME 10 IHG 985MHz
+(CH-24X)
+2230-1330 342605.22N/
+1325424.03E
+1088ft DME: 327m (1073ft) inside FM RWY 10 
+THR, 138m (453ft) S of RCL. 
+MSAS 1575.42MHz H24 Transmitting antennas are satellite 
+based.
+ILS for RWY 10
+HIROSHIMA AP
+10
+28
+RWY
+138m
+132m
+327m
+3000m 330m
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+ILS-LOC
+ANTENNA
+REMARKS : 1.ILS-LOC beam BRG(MAG) 097.93°
+2.HGT of ILS REF datum 16.5m(54ft)
+0.3elgnA PG.3°
+4.ELEV of ILS-DME 331.5m(1088ft)
+324m
+(EFF:23 MAR 2023) 23/3/23
+
+
+=== Page 11 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-11
+RJOA AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+1.1 Aircraft operations other than scheduled flights or in
+an emergency 
+On use of this airport, aircraft operator is required to obtain
+the prior permission of the airport administrator.
+TEL: +81-848-86-8323  FAX: +81-848-86-8327
+1.2 管制方式
+　 出発機は次に掲げる方式に従 う こ と。
+1) 管制承認
+　 出発機はエンジン始動 ５ 分前の通報に合わせて、 次
+ に掲げる項目を広島タ ワーに通報する こ と
+  ・ 航空機呼出符号
+  ・ 目的地
+  ・ 要求高度 （代替要求高度がある場合は、 当該高度）
+  ・ 駐機位置 （スポ ッ ト 番号）
+  ・ 代替飛行経路がある場合は当該飛行経路
+2) 管制承認はエンジン始動準備完了の通報を行った航空
+  機から順に発出される。
+3) パイ ロ ッ ト はプ ッ シ ュバッ ク及び／またはエンジン始
+  動時期が遅れる こ とが予想される場合は、 広島タワー
+  に対し その旨通報する こ と。 ただ し、 他の航空機の地
+  上交通による遅延または出発制御時刻等が付加された
+  ために生じ る遅延を除 く 。
+1.2 ATC Procedures
+Departing aircraft shall comply with the following proce-
+dures.
+1) ATC clearance
+Advise HIROSHIMA TOWER 5 minutes prior to start-
+ing engines with the following items
+• call sign
+• destination
+• proposed flight level/altitude (alternative flight levels/
+altitude, if any)
+• parking position (spot number)
+• alternative flight routes, if any
+2) Clearance will be issued in the order of reporting ready
+to start engines.
+3) Pilots shall advise HIROSHIMA TOWER if any delay in
+push-back and/or engine start-up is anticipated except
+when delay has been caused by other ground traffic or
+departure time restriction such as released time.
+(EFF:8 AUG 2024) 8/8/24
+1.1 定期便または緊急事態以外の航空機の取り扱い
+当空港の使用について、航空機の運航者は、空港管理者の
+許可を得ること
+  TEL: 0848(86)8323  FAX: 0848(86)8327
+
+
+=== Page 12 ===
+RJOA AD2-12                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+2.1 　  プ ッ シ ュバッ ク方式について
+1) プ ッ シ ュバッ クは、プ ッ シ ュバッ クガイ ド ラ イ ン上へ実施す
+る こ と。 但し、 次の航空機、 スポ ッ ト からのプ ッ シ ュバッ クは
+P3 誘導路上へ実施する こ と。
+※1 　 全幅 61m 以上の航空機
+※2 　 スポ ッ ト 1、 2 番から機首を西向きのプ ッ シ ュバッ ク
+※3 　 スポ ッ ト 8、9、10 番から機首を東向きのプ ッ シ ュバッ ク
+      （スポ ッ ト 8 番については、 翼幅 36m 以上の航空機）
+プ ッ シ ュバッ クに関する詳細は、 空港管理者に確認する こ と。
+2)B787-8及び翼幅52m未満の航空機は管制官によ り、プ ッ シ ュ
+バッ クガイ ド ラ イ ン上から P3 誘導路上への 180 度ターンが必
+要と なる方向へのプ ッ シ ュバッ ク を指示される こ とがある。
+2.2 　 プ ッ シ ュバッ ク後の地上走行
+プ ッ シ ュバッ クガイ ド ラ イ ンからの地上走行開始後は、速やか
+に P3 誘導路へ合流する こ と。
+2.1 Pushback procedures
+1)Pushback should be made onto pushback guideline.
+However, pushbacks for aircraft and from SPOTs will be
+carried out onto the TWY P3.
+*1 Aircraft with a wingspan is 61m or longer.
+*2 Pushback facing west from SPOT1, 2
+*3 Pushback facing east from SPOT8, 9, 10
+(For SPOT8, only aircraft with a wingspan of 36m or longer.)
+Pushback procedures are listed in the regulation established
+by airport administrator.
+2)Aircrafts (B787-8 and wingspan shorter than 52m) may be
+instructed by ATC to pushback in a direction that requires a
+180° turn from the pushback guideline to TWY P3.
+2.2 Taxiing after pushback
+After the aircraft commence taxiing from the pushback guide-
+line, join the TWY P3 as soon as possible.
+Nil
+Pushback guideline
+(White line)
+Wingtip Clearance Line
+(Red line)
+Example of 180° turn
+䌏
+(EFF:7 AUG 2025) 7/8/25
+
+
+=== Page 13 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-13
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+10. Remarks
+RJOA AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+6.1 　 誘導路交差地点の翼端ク リ ア ラ ンス
+　 　 　 （AD1.1.6.8 参照）
+　 誘導路上の停止位置に待機中の航空機と後方の誘導路を
+走行する航空機の翼端ク リ ア ラ ンスは以下のとお り であ
+る。
+6.1 Wing tip clearance at the TWY intersection
+(REF AD1.1.6.8)
+Wing tip clearance at the TWY intersection between the
+aircraft holding at the stop marking on the TWY and the other
+aircraft taxiing behind it are as follows.
+　 誘導路 T2, T3, T4, T5 の停止位置標識で B773 型機が一
+時停止し ている場合、 当該航空機の後方を通過し よ う と
+する航空機との間に必要最小限度の安全余裕が確保され
+ていない。
+　
+When B773 holding at the stop marking on TWY T2, T3,
+T4 and T5, there is no minimum safety buffer between the
+aircraft holding at the stop marking on the TWY and the
+aircraft passing behind it.
+ 
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:16 MAY 2024) 16/5/24
+
+
+=== Page 14 ===
+RJOA AD2-14                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD 2.22 FLIGHT PROCEDURES
+1.TAKE OFF MINIMA
+RWY ACFT
+ CAT
+REDL & RCLL REDL or RCLL
+or RCL Marking
+Nil
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN 
+AP filed
+10/28
+A,B,C
+400m
+*200m
+**150m
+400m
+*200m
+400m
+*250m
+400m
+*250m - 500m
+D
+400m
+*250m
+**200m
+400m
+*250m
+400m
+*300m
+400m
+*300m - 500m
+OTHER 10/28 A,B,C,D AVBL LDG MINIMA
+* Applicable when LVP/LVPD IN FORCE
+** Applicable when LVP/LVPD IN FORCE and MULTIPLE RVRs AVAILABLE
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with HIROSHIMA Approach/Radar are lost for 30 seconds, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact HIROSHIMA Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to HONGO VOR/DME at last assigned al titude or 4,100 feet whichever is higher, and execute
+instrument approach.
+(II) Procedures other than above will be issued when situation required.
+3.Trajectorized Airport Traffic Data Processing System (TAPS)
+Aircraft flying under control of Hiroshima approach control in the approach control area will be instructed to reply with discrete
+code on Mode A/3 and Mode C.
+If an aircraft with non-discrete capability be instructed to reply with the discrete code, it shall report  a controller accordingly.
+広島アプローチの指示のも と に、 当該進入管制区を飛行する航空機は、 モー ド A/3 の二次レーダー個別コー ド及びモー ド C
+による応答を指示される。
+二次レーダー個別コー ド を搭載し ていない航空機が当該コー ド による応答を指示された場合は、 管制官に対し その旨通報す
+ること。
+(EFF:16 MAY 2024) 16/5/24
+←
+
+
+=== Page 15 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-15
+4. Category III Operations at Hiroshima Airport
+　 広島空港における カ テゴ リ ーⅢ運航
+4.1 Facilities
+The following facilities are available:
+Runway 10
+• ILS Runway 10-CAT III
+• Lighting system Runway 10-CAT III
+• RVR by forward-scatter meters (the touchdown zone, the mid-point and stop-end of the runway)
+ 4.2 Conditions
+A. The following systems must be operative:
+For ILS RWY 10 approach (CAT III)
+(1) ILS comprising;
+• ILS-LOC 10 with standby transmitter(including far field monitor)
+• ILS-GP 10 with standby transmitter
+(When any standby transmitters or far field monitor unserviceable, downgrade ILS-CAT I.)
+• ILS-DME 10
+(2) Lighting system comprising;
+• PALS 10 (including side row barrettes)
+• High INTST REDL
+• High INTST RTHL
+• RCLL and RTZL
+(3) Secondary power supply
+(4) RVR by forward-scatter meters at the touchdown zone, mid-point and stop-end of the runway.
+B. The following information mu st be currently available:
+1) Surface wind speed and direction
+2) RVR
+C. ITEM A and/or B are not met, the relevant information will be notified to the pilots as soon as practicable.
+4.3 Precision Approach Terrain Chart
+See RJOA AD2.24
+4.4 Operating Minimum
+Approach minima stated in AD2.24 (Instrument Approach Chart) are observed.
+4.5 LVP
+LVP will be available when the following conditions are met:
+1) Ceiling is at or less than 200ft and/or RVR is at or less than 600m.
+2) Facilities listed 4.1 above are operational.
+3) ILS Critical Area is protected.
+In order to protect ILS Critical Area for the succeeding arrival ai rcraft, an arrival aircraft may be given following instruction
+by ATC.
+" REPORT OUT OF ILS CRITICAL AREA " 
+The exit taxiway centerline lights are fixed alternate green and yellow inside the ILS Critical Area. If an aircraft is given the
+above instruction, she is expected to advise the ATC when the taxiway center line lights change from alternate green and
+yellow to steady green.
+4.6 Approval for CAT III Operations
+Operators must obtain operational approval from the State of Registry or the State of Operator, as appropriate, to conduct
+CAT III Operations. (See GEN1.5)
+(EFF:16 MAY 2024) 16/5/24
+→
+
+
+=== Page 16 ===
+RJOA AD2-16                         AIP Japan
+                        HIROSHIMA 
+Civil Aviation Bureau,Japan
+5. LVTO at Hiroshima Airport
+5.1. Facilities
+The following facilities are available:
+RWY 10 RWY 28
+• Lighting system RWY 10 for LVTO
+• RVR by forward-scatter meters 
+(the touchdown zone, the mid-point and stop-end of the
+runway)
+• Lighting system RWY 28 for LVTO
+• RVR by forward-scatter meters 
+(the touchdown zone, the mid-point and stop-end of the
+runway)
+5.2. Conditions
+A. The following systems must be operative:
+For LVTO
+(1) Lighting system comprising;
+• High INTST REDL
+• High INTST RENL
+• RCLL
+(2) Secondary power supply
+B. The following information must be currently available:
+a) Surface wind speed and direction.
+b) RVR or VIS
+C. ITEM A and/or B are not met, the relevant information will be notified to the pilots as soon as practicable.
+5.3. Operating Minima
+Take-off minima stated in AD2.22(TAKE-OFF MINIMA) are observed.
+5.4. LVP/LVPD
+ (1)LVP/LVPD will be available w hen the following conditions are met:
+a)RVR is at or less than 600m.
+b)Facilities listed 5.1 above are operational.
+ (2)Taxiway available for LVTO
+Entering taxiway: T1 and T6
+(EFF:16 MAY 2024) 16/5/24
+←
+
+
+=== Page 17 ===
+AIP Japan
+HIROSHIMA 
+Civil Aviation Bureau,Japan
+RJOA AD2-17
+RJOA AD 2.23 ADDITIONAL INFORMATION
+RJOA AD 2.24 CHARTS RELATED TO AN AERODROME
+ 
+Nil
+Aerodrome/Heliport Chart
+Aerodrome Obstacle Chart type A (RWY10/28)
+Aerodrome Obstacle Chart type B (RWY10/28)
+Precision Approach Terrain Chart
+Standard Departure Chart - Instrument (HONGO)
+Standard Departure Chart - Instrument (MARCO-RNAV)
+Standard Departure Chart - Instrument (KIJYY-RNAV)
+Standard Departure Chart - Instrument (BOLIG-RNAV)
+Standard Departure Chart - Instrument (SINFO-RNAV)
+Standard Arrival Chart - Instrument (HONGO)
+Standard Arrival Chart - Instrument (MISEN-RNAV)
+Standard Arrival Chart - Instrument (AXELA-RNAV)
+Standard Arrival Chart - Instrument (DEMIO-RNAV)
+Standard Arrival Chart - Instrument (VISTA-RNAV)
+Standard Arrival Chart - Instrument (PUNUP-RNAV)
+Instrument Approach Chart (ILS Z or LOC RWY10 (CAT III))
+Instrument Approach Chart (ILS Y RWY10 (CAT III))
+Instrument Approach Chart (VOR RWY10)
+Instrument Approach Chart (VOR RWY28)
+Instrument Approach Chart (RNP RWY28)
+Instrument Approach Chart (RNP Z RWY10(AR))
+Instrument Approach Chart (RNP Y RWY10(AR))
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:16 MAY 2024) 16/5/24
+→
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+10
+28
+12356 6R7L 78910 6L
+TRAHC  DAAMIHSORIH / AOJR
+HIROSHIMA AIRPORT
+ABN
+TWR
+SUB APRON
+MEHT  20.0m(66ft)
+STOP BAR LGT(T-1ʙT-6)
+WIDE ANGLE APCH LGT
+WDI
+SALS
+OVERRUN AREA EDGE LGT
+RUNWAY GUARD LGT(T-1ʙT-6)
+120m300m416.3m
+CGL
+T-1
+P-1
+T- 2
+P-2
+PAPI  Angle  3.0Û
+MEHT  22.5m(73.8ft)
+T- 3T- 4 P-3
+ARP
+342610N/1325510E
+T- 5
+P-4P-5
+T-6
+397m
+SUB TWY
+EAST HPWEST HP
+   
+WDI
+RVR RVR RVR
+LONGITUDINAL  PROFILE  OF  RWY RWY 28
+325.3m
+(1067ft)
+3000m
+331.5m
+(1088ft)
+1681m
+0.3%
+RWY 10
+326.6m
+(1072ft)
+0m
+˄
+VAR 8°W 2022cgAnnual han e 4.8 W
+WIND 
+SPEED METERWIND
+SPEED METER 
+ILS
+GP 330.5
+VOR/DME
+117.9 HGE
+CH-126XCEILOMETER
+RUNWAY 3000 × 60m
+PCR 1096/F/A/X/T
+Asph-Conc
+CHANGE : Spot L, C, R abolished.
+APRON  FLOOD  LGT
+1
+HI J
+7 6 6R7L 6L
+Administration office
+DOM AND INTL
+TERMINALCARGO
+H
+H
+LOC
+108.7 IHG
+PAPI Angle 3.0°
+RWY -HOLDING POSITION MARKINGS
+and STOP BAR LGT, RWY GUARD LGT
+COMMON WAYS OF ITS MARKINGS AND LGT
+RWY -holding position markings and
+Stop bar LGT are located on TWY 
+T -1 through T -6
+RWY guard lights are located on TWY
+T -1 through T -6
+; their locations are 90m off the RWY
+centerline.
+Mandatory instruction markings are located
+on TWY T -1 through T -6.
+RED
+TWY
+RWY GUARD LGT
+(FLASHING YELLOW) 
+Example for Mandatory
+instruction marking
+RWY GUARD LGT
+(FLASHING YELLOW) 
+RWY SIDE
+28-1028-10
+STOP BAR LGT
+ALS
+SEQUENCED  FLASHING  LGT (SFL-V)
+300m
+900m
+600m
+10
+(EFF:7 AUG 2025) 7/8/25
+RJOA AD2.24-ADC-1
+HIROSHIMA
+
+
+=== Page 20 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AERODROME OBSTACLE CHART-ICAO
+TYPE A (OPERATING LIMITATIONS)DIMENSIONS AND ELEVATIONS IN FEET BEARINGS ARE MAGNETIC
+䣏䣃䣉䣐䣇䣖䣋䣅䢢䣘䣃䣔䣋䣃䣖䣋䣑䣐䢢 䤑䢢䣙䢯
+䢲䢻䢺䤑䲑 䲏䢴䢹䢺䤑
+䢸䢲
+(EFF:11 AUG 2022) 11/8/22
+RJOA AD2.24-AOC-1
+HIROSHIMA
+CHANGE : VAR.
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AERODROME OBSTACLE CHART-ICAO
+TYPE B (OPERATING LIMITATIONS)DIMENSIONS AND ELEVATIONS IN FEET BEARINGS ARE MAGNETIC
+䤑䢺䢻䢲 䲑 䲏䢴䢹䢺䤑
+䢲䢸
+8
+4.8
+(EFF:11 AUG 2022) 11/8/22
+RJOA AD2.24-AOC-2
+HIROSHIMA
+CHANGE : VAR.
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+PRECISION APPROACH TERRAIN CHART-ICAO
+PRICISION APPROACH TERRAIN CHART
+(EFF:3 JAN 2019) 3/1/19
+→ RJOA AD2.24-PATC-1HIROSHIMA
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+VOR/DME
+HONGO
+1100FT
+RJOA / HIROSHIMA SID
+HONGO REVERSAL FOUR DEPARTURE
+   RWY 10 :  Climb RWY HDG  to HGE 4.6DME(4.0NM FM DER), turn left....,
+   RWY 28 :  Climb on HDG 271° to HGE 5.0DME(4.0NM FM DER), turn right....,
+   ....direct to HGE VOR/DME. Cross HGE VOR/DME at or above 5000FT .
+   Note :  RWY10 : 3.8% climb gradient required up to 2300FT .
+  OBST ALT 2002FT located at 088°/5.7NM FM DER.
+ RWY28 : 3.8% climb gradient required up to 1600FT .
+  OBST ALT 2559FT located at 338°/7.7NM FM DER.
+5000
+HDG271°
+D5.0 HGE
+(4.0NM FM DER)
+D4.6 HGE
+(4.0NM FM DER)
+117.9  HGE
+34°26´02”N/132°55´26”E
+CH-126X
+CHANGE : PROC renamed. PROC course. Note RWY10(OBST). Note RWY28(Climb gradient, OBST).  
+(EFF:26 JAN 2023) 29/12/22
+RJOA AD2.24-SID-1
+HIROSHIMA
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+DIS VANRAMIHSORIH / AOJR
+VA
+DF
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+R
+–
+–
+Y
+–
+–
++1500 
+–
++11000
+–
+–
+–
+–
+18.0
+–
+OA021
+LEMON
+MARCO
+(090.0)
+(241.1)
+098
+249
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+-8.1
+–
+–
+VA
+DF
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+L
+–
+–
+Y
+–
+–
++1600 
+–
++11000
+–
+–
+–
+–
+18.0
+–
+OA811
+LEMON
+MARCO
+(270.0)
+(241.1)
+278
+249
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+-8.1
+–
+–
+RNP1ERUTRAPED  TWO  OCRAM
+Note GNSS required.
+NOTE RWY10 : 5.0% climb gradient required up to 1500FT.
+ RWY28 : 3.6% climb gradient required up to 1600FT.
+RWY10 :  Climb on HDG098˚ at or above 1500FT, direct to OA021, turn right direct to LEMON at or above 
+ 11000FT, to MARCO.
+RWY28 :  Climb on HDG278˚ at or above 1600FT, direct to OA811, turn left direct to LEMON at or above 
+ 11000FT, to MARCO.
+RWY10
+RWY28
+VAR 8˚W
+15001600
+HDG278˚ HDG098˚
+11000
+249˚
+18.0
+LEMON
+MARCO
+341328.9N
+1322748.9E
+OA811
+342540.3N
+1324923.3E
+OA021
+342609.6N
+1325900.8E
+340446.0N
+1320850.2E
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+TACAN
+KUGA
+1177    IWT
+2100FT
+CH–90X
+ÛÝ1ÛÝ(
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOA AD2.24-SID-2
+HIROSHIMA
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+TOJYO
+20.3
+43.4
+TOZAN
+34.3
+KIJYY
+12000
+OA811 OA021
+351615.4N
+1342904.2E
+350901.8N
+1340554.9E
+345255.5N
+1331648.6E
+342540.3N
+1324923.3E
+342609.6N
+1325900.8E
+MIYAZU
+(YME)
+352850.5N
+1350813.3E
+15001600
+HDG278˚ HDG098˚
+076˚
+077˚
+076˚
+KIJYY THREE DEPARTURE
+TOZAN TRANSITION
+NOITISNART dna DIS VANRAMIHSORIH / AOJR
+VAR 8˚W
+ERUTRAPED  THREE  YYJIK
+Note GNSS required.
+NOTE RWY10 : 5.0% climb gradient required up to 1600FT. 
+OBST ALT 2090FT located at 5.74NM 087˚ FM end of RWY10.
+RWY28 : 3.6% climb gradient required up to 2700FT.  
+OBST ALT 2570FT located at 7.71NM 337˚ FM end of RWY28.
+RWY10 : Climb on HDG098˚ at or above 1500FT, direct to OA021, turn left direct to TOJYO at or above 
+12000FT, to KIJYY . 
+RWY28 : Climb on HDG278˚ at or above 1600FT, direct to OA811, turn right direct to TOJYO at or above 
+12000FT, to KIJYY . 
+KIJYY THREE DEPARTURE
+From KIJYY , to TOZAN, to YME.
+TOZAN TRANSITION
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+VOR/DME
+MIYAZU
+112.6   YME
+2400FT
+CH–73X
+ÛÝ1ÛÝ(
+RNP1
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOA AD2.24-SID-3
+HIROSHIMA
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOA AD2.24-SID-4
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY10
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 098
+(090.0) -8.1 - - +1500 - - RNP1
+002 DF OA021 Y - -8.1 - - - - - RNP1
+003 DF TOJYO - - -8.1 - L +12000 - - RNP1
+004 TF KIJYY - 076
+(067.9) -8.1 43.4 - - - - RNP1
+RWY28
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 278
+(270.0) -8.1 - - +1600 - - RNP1
+002 DF OA811 Y - -8.1 - - - - - RNP1
+003 DF TOJYO - - -8.1 - R +12000 - - RNP1
+004 TF KIJYY - 076
+(067.9) -8.1 43.4 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF KIJYY - - -8.1 - - - - - RNP1
+002 TF TOZAN - 077
+(069.0) -8.1 20.3 - - - - RNP1
+003 TF YME - 076
+(068.3) -8.1 34.3 - - - - RNP1
+RJOA / HIROSHIMA RNAV SID and TRANSITION
+KIJYY THREE DEPARTURE
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+TOZAN TRANSITION
+HIROSHIMA
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+TOJYO
+34.4
+45.4
+IKUNO
+MIDER
+48.9
+BOLIG
+12000
+350101.4N
+1354933.6E
+351204.8N
+1345124.8E
+350358.3N
+1341031.8E
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+OA811 OA021
+342540.3N
+1324923.3E
+342609.6N
+1325900.8E
+15001600
+ɹɹ278˚ ɹɹ098˚
+345255.5N
+1331648.6E
+ BOLIG TWO DEPARTURE
+MIDER TRANSITION
+084˚
+084˚
+111˚
+NOITISNART dna DIS VANRAMIHSORIH / AOJR
+VAR 8˚W
+RNP1
+Note GNSS required.
+NOTE RWY10 : 5.0% climb gradient required up to 1600FT.
+OBST ALT 2090FT located at 5.74NM 087˚ FM end of RWY10.
+RWY28 : 3.6% climb gradient required up to 2700FT.
+OBST ALT 2570FT located at 7.71NM 337˚ FM end of RWY28.
+RWY10 : Climb on HDG098˚ at or above 1500FT, direct to OA021, turn left direct to TOJYO at or above 
+12000FT, to BOLIG.
+RWY28 : Climb on HDG278˚ at or above 1600FT, direct to OA811, turn right direct to TOJYO at or above 
+12000FT, to BOLIG.
+BOLIG TWO DEPARTURE  
+From BOLIG, to IKUNO, to MIDER.
+MIDER TRANSITION
+CHANGE : PROC renamed. Note. Navigation Specification.
+BOLIG TWO DEPARTURE
+MIDER TRANSITION
+ÛÝ1ÛÝ(
+(EFF:8 AUG 2024) 11/7/24
+RJOA AD2.24-SID-5
+HIROSHIMA
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+HIROSHIMA
+STANDARD DEPARTURE CHART - INSTRUMENT
+NOITISNARTdnaDISVANRAMIHSORIH/AOJR
+VA
+DF
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+L
+–
+–
+Y
+–
+–
++1500
+–
++12000
+–
+–
+–
+–
+45.4
+–
+OA021
+TOJYO
+BOLIG
+(090.0)
+(075.7)
+098
+084
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.2
+-8.2
+-8.2
+-8.2
+–
+–
+VA
+DF
+DF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+R
+–
+–
+Y
+–
+–
++1600
+–
++12000
+–
+–
+–
+–
+45.4
+–
+OA811
+TOJYO
+BOLIG
+(270.0)
+(075.7)
+278
+084
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.2
+-8.2
+-8.2
+-8.2
+–
+–
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+34.4
+48.9
+BOLIG
+IKUNO
+MIDER
+(076.2)
+(102.8)
+084
+111
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.2
+-8.2
+-8.2
+–
+RWY10
+RWY28
+BOLIG TWO DEPARTURE
+MIDER TRANSITION
+CHANGE : PROC renamed. Navigation Specification.
+°M(°T)
+°M(°T)
+°M(°T)
+RJOA AD2.24-SID-6
+(EFF:8 AUG 2024) 11/7/24
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+NOITISNART dna DIS VANRAMIHSORIH / AOJR
+VAR 8˚W
+ERUTRAPED  THREE  OFNIS
+Note 
+     
+GNSS required.
+NOTE  RWY10 : 5.0% climb gradient required up to 1800FT. 
+  OBST ALT 1780FT located at 2.30NM 006˚ FM end of RWY10.
+ RWY28 : 3.8% climb gradient required up to 3700FT.  
+  OBST ALT 3150FT located at 11.02NM 322˚ FM end of RWY28. 
+RWY10 : Climb on HDG098˚ at or above 1500FT, direct to OA021, turn left direct to AKANA at or above 
+ 11000FT, to SINFO. 
+RWY28 : Climb on HDG278˚ at or above 1600FT, direct to OA811, turn right direct to AKANA at or above 
+ 11000FT, to SINFO. 
+SINFO THREE DEPARTURE
+From SINFO, to STAGE.
+STAGE TRANSITION
+AKANA
+SINFO
+23.2
+14.4
+11000
+345748.5N
+1324904.8E
+351200.6N
+1324613.4E
+STAGE
+353451.7N
+1324135.7E
+OA811 OA021
+342540.3N
+1324923.3E
+342609.6N
+1325900.8E
+15001600
+HDG278˚ HDG098˚
+STAGE TRANSITION
+SINFO THREE DEPARTURE
+359˚
+359˚
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+RNP1
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOA AD2.24-SID-7
+HIROSHIMA
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOA AD2.24-SID-8
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY10
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 098
+(090.0) -8.1 - - +1500 - - RNP1
+002 DF OA021 Y - -8.1 - - - - - RNP1
+003 DF AKANA - - -8.1 - L +11000 - - RNP1
+004 TF SINFO - 359
+(350.7) -8.1 14.4 - - - - RNP1
+RWY28
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 278
+(270.0) -8.1 - - +1600 - - RNP1
+002 DF OA811 Y - -8.1 - - - - - RNP1
+003 DF AKANA - - -8.1 - R +11000 - - RNP1
+004 TF SINFO - 359
+(350.7) -8.1 14.4 - - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF SINFO - - -8.1 - - - - - RNP1
+002 TF STAGE - 359
+(350.6) -8.1 23.2 - - - - RNP1
+RJOA / HIROSHIMA RNAV SID and TRANSITION
+SINFO THREE DEPARTURE
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+STAGE TRANSITION
+HIROSHIMA
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOA AD2.24-STAR-1
+STANDARD ARRIVAL CHART -INSTRUMENT
+RJOA / HIROSHIMA STAR
+HONGO ARRIVAL
+From over HGE VOR/DME, via HGE R249 to intercept and proceed 
+via HGE 14.0DME clockwise ARC to MISEN.
+Cross MISEN at or above 4100FT.
+249˚
+HGE R249
+D14.0 HGE  ARC
+MISEN
+D13.1 IHG 
+D14.0 HGE 
+HGE R268
+4100
+VOR/DME
+HONGO
+1100FT
+117.9  HGE
+ÛÝ1ÛÝ(
+CH-126X
+CHANGE : Course FM HGE to MISEN.
+HIROSHIMA
+(EFF:26 JAN 2023) 29/12/22
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOA AD2.24-STAR-2
+STANDARD ARRIVAL CHART -INSTRUMENT
+VAR 8˚W
+RJOA / HIROSHIMA RNAV STAR RWY10
+IF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+RNP1
+–
+–
+– 
+–
+–
+–
+–
+–
+–
+–
+– 
+–
+–
+–
+– 
+–
++8000 
++7000
++5500
++4100
+–
+6.7
+29.2
+5.7
+AMURO
+SAILA
+SEAWA
+MISEN
+(254.5)
+(254.4)
+(179.8)
+263
+263
+188
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+-8.1
+–
+29.2
+263˚
+7.5
+˚881
+6.7
+263˚
+SAILA
+MISEN
+7000
+8000
+4100
+5500
+NP1RLAVIRRA NESIM
+Note GNSS required.
+343943.6N
+1331237.7E
+AMURO
+344130.9N
+1332026.6E
+342608.6N
+1323830.9E
+SEAWA
+343148.1N
+1323829.8E
+From AMURO at or above 8000FT, to SAILA at or above 7000FT, to SEAWA at or above 
+5500FT, to MISEN at or above 4100FT.
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+CHANGE : PROC course. Note. Navigation Specification. VAR.
+HIROSHIMA
+(EFF:8 AUG 2024) 11/7/24
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJOA / HIROSHIMA RNAV STAR RWY10
+-8000
++6000
+IF
+TF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++8000 
++4000
+–
+–
++3300
+–
+6.7
+5.9
+5.7
+6.6
+6.9
+AMURO
+CAROL
+TIIDA
+VISTA
+ATENZ
+AXELA
+(213.0)
+(213.0)
+(212.9)
+(212.9)
+(270.1)
+221
+221
+221
+221
+278
+Path
+Descriptor
+001
+002
+003
+004
+005
+006
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+-8.1
+-8.1
+-8.1
+–
+6.7
+221˚
+5.9
+221˚
+5.7
+221˚
+6.6
+221˚
+6.9
+278˚
+VISTA
+8000
+6000
+8000
+3300
+LAVIRRA ALEXA
+Note GNSS required.
+AMURO
+344130.9N
+1332026.6E
+342609.0N
+1330820.5E
+ATENZ
+342034.2N
+1330358.1EAXELA
+342034.4N
+1325534.8E
+TIIDA
+343057.0N
+1331206.7E 4000
+CAROL
+343554.9N
+1331601.4E
+From AMURO at or above 8000FT, to CAROL between 8000FT and 6000FT, to TIIDA 
+at or above 4000FT, to VISTA, to ATENZ, to AXELA at or above 3300FT.
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+VAR 8˚W
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOA AD2.24-STAR-3
+HIROSHIMA
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+VAR 8˚W
+RJOA / HIROSHIMA RNAV STAR RWY10
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++8000
++7000
++5500
+–
+6.3
+16.2
+AMURO
+MIATA
+DEMIO
+(247.4)
+(247.3)
+255
+255
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+–
+16.2
+255˚
+6.3
+255˚
+MIATA
+7000
+8000
+5500
+LAVIRRA OIMED
+Note GNSS required.
+343904.6N
+1331320.6E
+AMURO
+344130.9N
+1332026.6E
+DEMIO
+343248.5N
+1325512.5E
+From AMURO at or above 8000FT, to MIATA at or above 7000FT, to DEMIO at or above 
+5500FT.
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+RNP1
+RNP1
+RNP1
+RNP1
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOA AD2.24-STAR-4
+HIROSHIMA
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOA AD2.24-STAR-5
+STANDARD ARRIVAL CHART -INSTRUMENT
+RJOA / HIROSHIMA RNAV STAR RWY28
+-8000
++6000
+IF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++8000 
++4000
++3300
+–
+6.7
+5.9
+5.7
+AMURO
+CAROL
+TIIDA
+VISTA
+(213.0)
+(213.0)
+(212.9)
+221
+221
+221
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.1
+-8.1
+-8.1
+-8.1
+–
+6.7
+221˚
+5.9
+221˚
+5.7
+221˚VISTA
+8000
+6000
+8000
+3300
+NP1RLAVIRRA ATSIV
+Note GNSS required. 
+AMURO
+344130.9N
+1332026.6E
+342609.0N
+1330820.5E
+TIIDA
+343057.0N
+1331206.7E 4000
+CAROL
+343554.9N
+1331601.4E
+From AMURO at or above 8000FT, to CAROL between 8000FT and 6000FT, to TIIDA 
+at or above 4000FT, to VISTA at or above 3300FT.
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+VAR 8˚W 
+CHANGE : VAR. Navigation Specification.
+HIROSHIMA
+(EFF:8 AUG 2024) 11/7/24
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART -INSTRUMENT
+RJOA / HIROSHIMA RNAV STAR RWY10
+PUNUP ARRIVAL RNP1
+Note GNSS required.
+VAR 8°W
+PUNUP
+343413.0N
+1325532.4E
+8000
+AVDAK
+343921.5N
+1331302.9E
+AMURO
+344130.9N
+1332026.6E
+7000
+5500
+From AMURO at or above 8000FT, to AVDAK at or above 7000FT, to PUNUP at or above 
+5500FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF AMURO 凟凟 -8.1 凟凟 +8000 凟凟 RNP1
+002 TF AVDAK 凟 259
+(250.5) -8.1 6.5 凟 +7000 凟凟 RNP1
+003 TF PUNUP 凟 259
+(250.4) -8.1 15.3 凟 +5500 凟凟 RNP1
+VOR/DME
+HONGO
+117.9   HGE
+1100FT
+CH–126X
+ÛÝ1ÛÝ(
+259°
+15.3
+259°
+6.5
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOA AD2.24-STAR-6
+HIROSHIMA
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180°
+360°
+090° 105˚
+10NM
+4100
+MDA
+2100
+(1028)
+2800
+(1728)
+VOR/DME
+HONGO
+098˚098˚
+MACKY
+(FAF)
+SDF
+(LOC)
+MISEN
+(IF)
+HGE
+VDP
+(LOC)
+MAPt
+(LOC)
+RDH 54
+GP3.0°
+098˚098˚
+NM to IHG
+ALT (3.0˚ APCH Path)
+FAF
+3541
+7
+3293
+6
+2975
+5
+2657
+4
+2338
+3
+2020
+2
+1701
+MAPt
+–
+3600
+3541(LOC) 2179
+0.2
+00.5
+0.6
+0.9
+1.1
+3.3
+3.5
+7.6
+7.8
+12.9
+13.1 DME to IHG
+NM to THR
+ILS Z or LOC RWY10 (CAT䱸)
+HIROSHIMA  APP
+124.05–119.9
+        ILS-LOC
+108.7  IHG          
+ILS–GP  330.5          
+ILS–DME    
+CH–24X
+HIROSHIMA  TOWER RADAR  AVBL
+ATIS  127.25
+2165
+2753
+2251
+2485
+2034
+1623 1600
+2084
+2292
+2002
+2182
+1721
+2411
+3025
+MISSED APPROACH
+Climb on HDG098˚ to 1600FT,
+via HGE R105 to BINGO
+and hold at 3300FT. 
+Contact HIROSHIMA APP .
+MISEN(IF)
+D13.1 IHG MACKY(FAF)
+D7.8 IHG
+278˚
+098˚
+MHA 4100
+MAX 230KIAS
+MACKY(FAF) : 342609.31N/1324459.77E
+MAPt(LOC)
+D0.6 IHG
+117.9       HGE
+CH-126X
+BINGO
+Circling to SOUTH side of RWY only
+Values of RA may increase or decrease rapidly affected by terrain until IHG 0.3DME.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+RJOA / HIROSHIMA
+118.6–126.2
+34°Ý1°Ý(
+090˚ 270˚
+180˚
+40004200
+4500
+MSA 25NM
+HGE
+EQPT REQUIRED
+DME
+VOR
+R105
+MHA 3300
+MAX 230KIAS
+BINGO
+D12.7 HGE 
+285˚
+105˚
+HGE
+R105
+Timing not authorized for defining the MAPt.
+D18.0 HGE
+D19.0IHG
+ 
+MINIMA 
+CAT
+CAT 䱶 
+DA(H)
+1272 (200) 1410 (338)
+1640 (554)
+1540 (454)
+1510 (424)
+550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV
+CAT 䱷 CAT䱸
+DA(H) RA
+Not applicable100
+RVRRVR MDA(H) VIS
+LOC
+THR elev. 1072
+Missed APCH climb gradient MNM 5.0%
+AD elev. 1086
+A
+B
+C
+D
+VAR 8˚W
+CIRCLING
+CHANGE : PROC renamed. Description of VAR.
+HDG 098°
+3900360˚
+NOT TO SCALE
+1655
+(EFF:23 FEB 2023) 26/1/23
+RJOA AD2.24-IAC-1
+HIROSHIMA
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ RJOA / HIROSHIMA ILS Y RWY10(CAT 䱸)
+VAR 8°W 
+PUNUP
+(IAF)
+0.2
+IGBAM
+(FAF)
+2800
+DME to IHG
+RDH54
+OA055
+OA056 IGBAM(FAF)
+MSA 25NM
+ARP
+4500
+ARP 凬 342610N/1325510E
+D5.3 IHG
+OA054
+(IF)
+OA056
+5.3
+05.26.7
+2800
+3600
+1600
+NM to THR
+098°
+EQPT REQUIRED
+DME
+OA054(IF)
+MAX 200KIAS
+D6.8 IHG
+6.8
+BINGO
+(MAHF)
+PUNUP
+1MIN
+NOT TO SCALE
+MHA 5500
+MAX 230KIAS
+BINGO
+1MINMHA 5000
+MAX 210KIAS
+NOT TO SCALE
+RNAV HLDG
+RNAV HLDG
+IGBAM(FAF) : 342609.48N/1324755.30E
+Climb on course 098°, at or above 
+1600FT turn right, direct to BINGO and 
+hold at 5000FT.
+Contact HIROSHIMA APP.
+MISSED APPROACH
+Missed APCH climb gradient MNM 5.0%
+MINIMA  THR elev. 1072  AD elev. 1086
+CAT
+A
+B
+C
+D
+CAT䱸
+RVR
+CAT䱷 CAT䱶
+ARR VRDA(H)
+100 Not applicable 1272 (200) 550
+1510 (424)
+1540 (454)
+1640 (554)
+1600
+3200
+2400
+DA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+OA055
+3100
+PUNUP
+(IAF)
+5500
+PEGLU
+PEGLU
+     R    N    P    1
+RF required.
+1655
+Circling to SOUTH side of RWY only 
+Values of RA may increase or decrease rapidly affected by terrain until IHG 0.3DME.  
+MINIMA with Missed APCH climbgradient of 2.5% are not established. 
+HIROSHIMA  APP
+124.05–119.9
+        ILS-LOC
+108.7  IHG          
+ILS–GP  330.5          
+ILS–DME    CH–24X 118.6–126.2 127.25
+258°
+4.2
+258°5.0
+098°
+098°
+098°
+18
+0°
+270°
+090°
+10NM
+3.5
+3.6
+258°
+078°
+124°
+304°
+098°
+258° 258°
+GP3.0°
+HIROSHIMA  TOWER RADAR  AVBL
+ATIS  
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+2485
+2034
+1885 1623
+21822002
+2292
+3025
+(EFF:21 MAR 2024) 22/2/24
+RJOA AD2.24-IAC-2
+HIROSHIMA
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+HIROSHIMA
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF - -8.1 - - - RNP1
+002 TF - -8.1 - - - RNP1
+003 TF - -8.1 - -200 - RNP1
+004
+RF
+Center:
+OARF3
+r=2.55NM
+-- 8 . 1 L - - RNP1
+005
+RF
+Center:
+OARF3
+r=2.55NM
+-- 8 . 1 L - - RNP1
+001 CA - -8.1 - - - RNP1
+002 DF - -8.1 R - - RNP1
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Navigation
+Specification
+Hold PUNUP R FL140 -230
+(-14000) RNP1
+Hold BINGO L FL140 -210
+(-14000) RNP1
+ CHANGE : Correction of misdescription(HLDG speed, Minimum ALT at BINGO).
+342425.72N / 1331040.68E
+258
+(250.3) -8.1 1.0 (-14000)
+OA054 343106.85N / 1324503.74E
+342814.80N / 1324304.26E
+Waypoint Identifier Coordinates
+OARF3PUNUP
+RJOA / HIROSHIMA ILS Y RWY10(CATϪ)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+2800
++1600
+5000
+PUNUP - - +5500
+3.5
+-
+-
+OA056
+-
+BINGO
+-
+098
+(090.0)
+-
+PEGLU 258
+(250.3) 4.2 -
+OA055 - 3.6 +3100
+OA054 258
+(250.2) 5.0 +3600
+Coordinates
+5500
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+Waypoint Coordinates
+304
+(296.1) -8.1 1.0 (-14000) 5000
+RF Arc Center Identifier
+OA055
+OA056
+BINGO
+PEGLU
+342842.60N / 1324606.23E
+342609.36N / 1324606.51E
+343412.97N / 1325532.36E
+343248.19N / 1325045.55E
+RJOA AD2.24-IAC-3
+(EFF:18 APR 2024) 18/4/24
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180°
+360
+°
+090° Û
+10NM
+4100
+Û3300
+2860 2219
+1830
+(758)
+2800
+(1728)
+HGE
+MAX Turning 
+speed 200
+KIAS
+Turn initiation
+within D11.0 
+HGE
+NM to HGE
+$/7Û$3&+3DWK
+FAF
+2860
+6
+2701
+DME to HGE
+NM to THR
+6.5
+5.4
+4.5
+3.4
+2.6
+1.6
+1.3
+0.2
+5
+2383
+4
+2064
+3
+1746
+0$3W
+–
+ 
+MINIMA 
+&$7
+1600 (528) 1600 (514)
+1640 (554)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+&09 MDA(H) VIS
+&,5&/,1*
+THR elev. 1072 AD elev. 1086
+A
+B
+&
+D
+Û
+Û
+RJOA / HIROSHIMA VOR  RWY10
+HIR26+,0$$33  117.9      HGE
+&+±;
+HONGO  VOR/DME HIROSHIMA  TOWER RADAR  AVBL
+ATIS  127.25
+2165
+1885
+2753
+2251
+2485
+2034
+2084
+2292
+2002
+21821623
+1721
+Û
+2411
+3025
+Û
+0,66('$33ROA&+
+&OLPEYLD+*(5WR%,1*2
+and hold at 3300FT. 
+&RQWDFW+,R26+,0$$33.
+BINGO
+MHA 3300
+MAX 230KIAS
+7LPLQJQRWDXWKRrized fRUGHILQLQJWKH0$3W
+Turn initiation within 
+D11.0 HGE
+MANJU(FAF) : 342613.10N/1324734.98E
+MHA 4100
+MAX 230KIAS
+Û
+Û
+Û Û
+D6.5 HGE
+D1.3
+HGE
+0$3W
+0$3W
+9'3
+MDA
+SDF
+MANJU
+(FAF)
+MANJU
+(FAF)
+D18.0
+HGE
+D12.7 HGE
+ÛÝ1ÛÝ(
+&LUFOLQJWRSOUTH side of RWY only.
+(4375(48,5('
+DME
+Û Û
+Û
+40004200
+4500
+MSA 25NM
+HGE
+124.05 – 119.9 118.6 - 126.2
+3.0°
+V$5Û:
+3900Û
+Û
+1655
+CHANGE : Description of  VAR.
+(EFF:23 FEB 2023) 26/1/23
+RJOA AD2.24-IAC-4
+HIROSHIMA
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+105˚
+R105
+HDG060˚
+33002377
+3674
+4100
+3300
+2350
+(1283)
+2800
+(1733)MDA
+HGE
+SDF VELLA(FAF)
+3.5˚
+MAPt
+DME to HGE
+NM to THR
+7.5
+6.9
+4.0
+3.4
+1.30
+0.80
+180°
+360°
+090°
+10NM
+MAX Turning
+speed
+200KIAS
+Turn initiation within
+D11.0 HGE 
+Turn initiation within
+D11.0 HGE 
+Timing not authorized for defining the MAPt.
+NM to HGE
+ALT (3.5˚ APCH Path)
+FAF
+3674
+6
+3118
+7
+3489
+5
+2748
+4
+2377
+3
+2006
+MAPt
+–
+RJOA / HIROSHIMA VOR  RWY28
+    HIROSHIMA  APP HONGO  VOR/DME
+117.9     HGE     
+CH–126X                
+HIROSHIMA  TOWER RADAR  AVBL
+ATIS  127.25
+1700
+272˚
+076˚
+272˚
+MISSED APPROACH
+Climb to 1700FT on HDG272˚, 
+turn left climb to 3300FT via 
+HDG060˚ to intercept and 
+proceed via HGE R105 
+to BINGO and hold. 
+Contact HIROSHIMA APP . 
+PAPI and descent angles not coincident. 
+ÛÝ1ÛÝ(
+Circling to SOUTH side of RWY only.
+VDP not applicable.
+2165
+1885
+2753
+2251
+2485
+2034
+2084
+2292
+2182
+1623
+1721
+076˚
+2412
+2412
+3025
+BINGO
+MHA 3300
+MAX 230KIAS
+VELLA(FAF) : 1(
+285˚
+105˚
+272˚272˚
+D7.5 HGE
+D1.3 HGE
+MAPt
+VELLA
+(FAF)
+D18.0
+HGE
+D12.7 HGE
+EQPT REQUIRED
+DME
+090˚ 270˚
+180˚
+40004200
+4500
+MSA 25NM
+HGE
+256˚
+076˚
+MHA 4100
+MAX 230KIAS
+HGE
+VOR/DME
+2.621 - 6.8119.911 – 50.421
+ 
+MINIMA 
+CAT
+1420 (353)
+1450 (383)
+1480 (413)
+1500 (433) 1640 (554)
+1510 (424)
+1540 (454)
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 1067 AD elev. 1086
+A
+B
+C
+D
+VAR 8˚W
+NOT TO SCALE
+272˚
+3900
+360˚
+1655
+CHANGE : Description of VAR.
+(EFF:23 FEB 2023) 26/1/23
+RJOA AD2.24-IAC-5
+HIROSHIMA
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180˚
+360˚
+090˚
+10NM 
+VOR/DME
+HONGO
+MISEN
+(MAHF)
+342608.62N
+1323830.89E
+OA850
+(MAPt)
+342609.68N
+1325721.29E
+OA851
+(SDF)
+342609.58N
+1330029.89E
+BUENA
+(FAF)
+342609.47N
+1330232.28E
+VISTA
+(IF)
+342608.98N
+1330820.49E
+ISOLA
+(IAF)
+342026.38N
+1330819.57E
+MONTA
+(IAF)
+343151.57N
+1330821.38E
+7.5
+(IAF)
+ISOLA
+(IF)
+VISTA
+25NM to ISOLA
+IF
+4000
+䲏
+䲑
+ISOLA
+䲑
+098˚䲑
+Baro-VNAV not authorized below - 10˚C
+008˚
+008˚ 188˚5200
+5200
+25NM to MONTA 
+MONTA
+IF
+䲏
+098˚䲑
+188˚
+25NM to VISTA
+VISTA
+(IAF)MONTA
+RNP RWY28
+HIROSHIMA  APP HIROSHIMA  TOWER RADAR  AVBL
+ATIS  127.25
+2251
+2485
+2034
+1623
+2084
+2292
+2002 2182
+2411
+3025
+CH-126X
+RJOA / HIROSHIMA
+118.6–126.2
+ÛÝ1ÛÝ(
+Missed APCH climb gradient MNM 4.0%
+1721
+279˚
+7.5
+)T˚1.000(
+˚800
+278˚
+BUENA
+(FAF)
+4.8
+(270.1˚T)
+OA850
+(MAPt)
+OA850
+(MAPt)
+OA851
+(SDF)
+278˚(270.1˚T)/2.6
+278˚(270.1˚T)/1.7
+MISEN
+(MAHF)
+278˚3.00˚
+2800
+(1733)2000
+(933)
+NM to THR 1.00 3.6 5.3 10.1
+MDA
+HGE
+RDH 50
+Direct to MISEN and hold
+at 4100FT.
+Contact HIROSHIMA APP .
+MISSED APPROACH
+Climb via HGE R279 to 
+MISEN and hold at 4100FT.
+Contact HIROSHIMA APP .
+(for using VOR/DME)
+MAPt 1 2 3 4 FAF
+–
+NM to Next Fix
+ALT (3.0˚ APCH Path) 1753 2072 2390 2709 2800
+2263
+2800
+VDP
+(LNAV)
+VISTA
+(IF)
+BUENA
+(FAF)OA851
+(SDF)
+(LNAV)
+124.05–119.9
+117.9     HGE
+)T˚1.081(
+˚881
+278˚
+3300
+3300
+4000
+VAR 8˚W 
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+1440 (373) 1440 (373)
+1510 (424)
+1540 (454)
+1640 (554)
+1600
+2400
+3200
+MDA(H)RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LNAV CIRCLING
+THR elev. 1067 AD elev. 1086
+A
+B
+C
+D
+1200
+1300
+1400
+1600
+1200
+1300
+1400
+1600
+Circling to SOUTH side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+RNP APCH
+MHA 4100
+MISEN
+MAX 230KIAS
+278˚
+098˚
+1MIN
+NOT TO SCALE
+MHA 3300
+VISTA
+MAX 220KIAS
+1MIN
+NOT TO SCALE
+307˚
+127˚
+1655
+CHANGE : Description of VAR.
+(EFF:23 FEB 2023) 26/1/23
+RJOA AD2.24-IAC-6
+HIROSHIMA
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1654
+2182
+2223 2484
+1437
+1510
+1710
+2002
+2481
+1495
+1115
+1910
+1786
+2407
+1721
+1343
+2034
+2485
+1882
+1874
+2292
+17251806
+1593
+2561
+1209
+1813
+10NM
+2.8
+098°䢱2.3
+  6.2
+098°
+  7.6
+111°
+4.2
+  4.5
+255°OA050
+MAX 185KIAS
+BINGO
+(MAHF)
+RW10
+DEMIO
+(IF)
+OA051
+(FAF)
+OA052 OA053
+»»»
+䢳䢵䢵䤑䢳䢲䢩䣇䢳䢵䢵䤑䢲䢩䣇䢳䢵䢴䤑䢷䢲䢩䣇
+䢵䢶䤑䢵䢲䢩䣐
+䢵䢶䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.1086
+3100
+2600
+2100
+1600
+HIROSHIMA   APP
+124.05 - 119.9
+RNP  AR
+RF  required.
+HIROSHIMA   TOWER
+118.6 - 126.2
+RADAR  AVBL
+ATIS  127.25
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W 
+RNP Z RWY10(AR)RJOA / HIROSHIMACHANGE : Description of VAR.
+OA051(FAF) :342852.58N/1324816.81E
+10123456789 1 0
+KM
+1012345
+NM
+270°
+180°
+l
+4000
+4500
+MSA  RW10  25 NM
+Missed APCH climb gradient MNM 5.0%
+DA(H) RVR/CMV DA(H) RVR/CMV
+A
+B
+C 1000 1200
+D 1400 1600
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+--
+ MINIMA             THR elev. 1072           AD elev. 1086
+CAT RNP 0.10
+--
+RNP 0.30
+1515(443) 1598(526)
+Authorization Required
+Þ
+2.3
+RDH 54
+NM to THR
+OA052
+DEMIO
+(IF)
+5500
+MISSED APPROACH
+Climb to 5000FT , to OA053,
+to BINGO and hold. 
+Contact HIROSHIMA APP.
+13.8
+RW10
+6.5
+OA051
+(FAF)
+9.3 0
+OA050
+3200
+3200
+1874
+NOT TO SCALE
+MHA 5500
+MAX 230KIAS
+1MIN
+DEMIO
+NOT TO SCALE
+MHA 5000
+MAX 210KIAS
+BINGO
+1MIN
+(EFF:23 FEB 2023) 26/1/23
+RJOA AD2.24-IAC-7
+HIROSHIMA
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOA AD2.24-IAC-8
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.1 - - - -
+002 TF - -8.1 - -185 - 1.0
+003
+RF
+Center:
+OARF1
+r=2.54NM
+-- 8 . 1 L - - 1 . 0
+004
+RF
+Center:
+OARF1
+r=2.54NM
+- -8.1 L - -3.00 0.10
+0.30
+005 TF Y -8.1 - - -3.00/54 0.10
+0.30
+006 TF - -8.1 - - - 1.0
+007 TF - -8.1 - - - 1.0
+Path Waypoint
+Identifier
+Minimum
+Altitude
+(FT)
+RNP
+Value
+Hold DEMIO 5500 1.0
+Hold BINGO 5000 1.0
+342609.67N / 1330143.51E
+OA051 342852.58N / 1324816.81E
+342609.63N / 1325120.84E
+Waypoint Identifier Coordinates
+OARF1DEMIO
+1126
+-
+5000
+RJOA / HIROSHIMA RNP Z RWY10(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+DEMIO - - +5500
+2.3
+OA050 255
+(247.1) 4.5 +3200
+OA052 - 4.2 1874
+OA051 - 2.8 3200
+6.2
+7.6
+RW10
+OA053
+BINGO
+098
+(090.0)
+098
+(090.0)
+111
+(103.2)
+Coordinates
+FL140
+Maximum
+Altitude
+(FT)
+Waypoint Coordinates
+Inbound
+Course
+°M(°T)
+255
+(247.1)
+Magnetic
+Variation
+Turn
+Direction
+R
+Speed
+(KIAS)
+-230(-14000)-8.1
+Outbound
+Time
+(MIN)
+1.0 (-14000)
+304
+(296.1)
+342425.72N / 1331040.68E
+RF Arc Center Identifier
+OA052
+RW10
+OA053
+BINGO
+OA050
+342842.28N / 1325120.72E
+342609.69N / 1325411.25E
+343248.47N / 1325512.50E
+343102.99N / 1325009.23E
+-8.1 1.0 (-14000) L FL140 -210(-14000)
+HIROSHIMA
+(EFF:23 FEB 2023) 26/1/23
+←
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1777
+1721
+1647
+1115 2002
+1495
+1696
+2182
+1704
+1510
+1882
+1786
+1343
+1437
+1725
+1209
+1655
+1593
+1606
+1698
+10NM
+  3.5
+278°
+098°䢱2.3
+4.2
+4.6
+  6.2
+098°   7.6
+111°
+OA062
+(FAF)
+BINGO
+(MAHF)
+OA052
+OA053
+OA061
+MAX 185KIAS
+AXELA
+(IF)
+RW10
+䢳䢵䢵䤑䢳䢲䢩䣇䢳䢵䢵䤑䢲䢩䣇䢳䢵䢴䤑䢷䢲䢩䣇
+䢵䢶䤑䢵䢲䢩䣐
+䢵䢶䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.1086
+3100
+2600
+2100
+1600
+HIROSHIMA   APP
+124.05 - 119.9
+RNP  AR
+RF  required.
+HIROSHIMA   TOWER
+118.6 - 126.2
+RADAR  AVBL
+ATIS  127.25
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP Y RWY10(AR)RJOA / HIROSHIMACHANGE : Description of VAR.
+OA062(FAF) :342334.91N/1324759.36E
+10123456789 1 0
+KM
+1012345
+NM
+270°
+18
+0°
+l
+4000
+4500
+MSA  RW10  25 NM
+Þ
+2.3
+RDH 54
+NM to THR
+OA052
+AXELA
+(IF)
+3300
+MISSED APPROACH
+Climb to 5000FT , to OA053,
+to BINGO and hold. 
+Contact HIROSHIMA APP.
+14.6
+RW10
+6.5
+OA062
+(FAF)
+11.1 0
+OA061
+3200
+3200
+1874
+NOT TO SCALE
+MHA 3300
+MAX 230KIAS
+1MIN
+AXELA
+NOT TO SCALE
+MHA 5000
+MAX 210KIAS
+BINGO
+1MIN
+Missed APCH climb gradient MNM 5.0%
+DA(H) RVR/CMV DA(H) RVR/CMV
+A
+B
+C 1000 1200
+D 1400 1600
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+--
+ MINIMA             THR elev. 1072           AD elev. 1086
+CAT RNP 0.10
+--
+RNP 0.30
+1515(443) 1598(526)
+Authorization Required
+(EFF:23 FEB 2023) 26/1/23
+RJOA AD2.24-IAC-9
+HIROSHIMA
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOA AD2.24-IAC-10
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.1 - - - 1.0
+002 TF - -8.1 - -185 - 1.0
+003
+RF
+Center:
+OARF2
+r=2.79NM
+-- 8 . 1 R - - 1 . 0
+004
+RF
+Center:
+OARF2
+r=2.79NM
+- -8.1 R - -3.00 0.10
+0.30
+005 TF Y -8.1 - - -3.00/54 0.10
+0.30
+006 TF - -8.1 - - - 1.0
+007 TF - -8.1 - - - 1.0
+Path Waypoint
+Identifier
+Minimum
+Altitude
+(FT)
+RNP
+Value
+Hold AXELA 3300 1.0
+Hold BINGO 5000 1.0-8.1 1.0 (-14000) L FL140 -210(-14000)
+342321.96N / 1325120.96E
+342609.69N / 1325411.25E
+342034.40N / 1325534.80E
+342034.29N / 1325121.21E
+342425.72N / 1331040.68E
+RF Arc Center Identifier
+OA052
+RW10
+OA053
+BINGO
+OA061
+Coordinates
+FL140
+Maximum
+Altitude
+(FT)
+Waypoint Coordinates
+Inbound
+Course
+°M(°T)
+278
+(270.0)
+Magnetic
+Variation
+Turn
+Direction
+L
+Speed
+(KIAS)
+-230(-14000)-8.1
+Outbound
+Time
+(MIN)
+1.0 (-14000)
+304
+(296.1)
+3200
+6.2
+7.6
+RW10
+OA053
+BINGO
+098
+(090.0)
+098
+(090.0)
+111
+(103.2)
+AXELA - - +3300
+2.3
+OA061 278
+(270.0) 3.5 +3200
+OA052 - 4.2 1874
+OA062 -4 . 6
+RJOA / HIROSHIMA RNP Y RWY10(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+342609.67N / 1330143.51E
+OA062 342334.91N / 1324759.36E
+342609.63N / 1325120.84E
+Waypoint Identifier Coordinates
+OARF2AXELA
+1126
+-
+5000
+HIROSHIMA
+(EFF:23 FEB 2023) 26/1/23
+←
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJOA / HIROSHIMA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ⓑ❳ †
+Hakuryu Lake
+䚷ᑠబᮌ ᑠబᮌᓥ
+Kosagi Kosagi - Island
+➉ཎ ➉ཎ㥐
+Takehara Railway Station
+୕Ọ䝃䜴䝇 ᮾᗈᓥ㥐
+Minaga South Railway Station
+᪂ᗉ ᪂ᗉ஺ᕪⅬ
+Shinjo Shinjo Intersection
+CHANGE : VAR.
+345°T 4.3NM/
+10.1NM115°T /
+209°T / 2.9NM
+184°T / 5.8NM
+/ 8.4NM251°T
+Call sign BRG / DIST from ARP Remarks
+HIROSHIMA CONTROL
+L ZONE
+HIR
+At
+ROSHIMA CONTR
+HIR
+At
+At or below 4000FT
+HAKURYU
+HAHAKUKUURYRYUUU
+HIROSHIMA CON
+5NM from ARP
+HIROSHIMA TOWER
+ROSHIMA
+118.6 
+IMA
+6 
+6 -
+TOWE
+A 
+MA
+- 126.2
+VAR 8
+R 8
+888888
+
+W(2022) /
+ / 4.8'W
+㼃㼑㼎
+㼑㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+SHINJO
+SHSHS ININJOJOJO
+MINAGA SOUTH
+MINAGAGA SSOUOUTH
+TAKEHARA
+TATATAKEKEKEHAHAHARARARAA
+KOSAGI
+KOKOSASAGIGI
+(EFF:11 AUG 2022) 11/8/22
+RJOA AD2.24-OTHER-1
+HIROSHIMA
+
+
+=== Page 49 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJOA / HIROSHIMA LDG  CHART
+58´
+500
+500
+3000 ft0
+01000
+SCALE
+1000 2000 m
+23´
+25´
+27´
+34°29´
+56´132°54´
+ELEV 1086 ft
+PAPI  ANGLE  3.0°
+MEHT  20.0m ( 66ft )
+397m  FM  THR
+HIROSHIMA TWR
+118.6 - 126.2
+121.5 - 243.0
+SALS
+ABN
+ALS
+PAPI  ANGLE  3.0°
+MEHT  22.5m ( 73.8ft )
+416.3m  FM  THR
+VOR/DME
+HONGO
+117.9  HGE
+CH-126X           
+34°26´02ƎN/132°55´26ƎE
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+1302
+1074
+1323
+1623
+1390
+132013201320
+1697
+1882
+1320 16661585
+1207
+1160
+1133 10
+28
+1008
+1485
+1475
+1582
+1688
+CHANGE : VAR.
+VAR
+ 8°W
+ 2022
+Annual change 
+4.8
+˄W
+(EFF:11 AUG 2022) 11/8/22
+RJOA AD2.24-OTHER-2
+HIROSHIMA
+
+
+=== Page 50 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMAMIHSORIH / AOJR
+V$5Û:
+CENTERɿ1(5$D$56,7(
+
+
+
+
+
+
+
+
+
+
+
+
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+
+ 
+
+ 
+
+
+
+
+Û
+Û
+Û
+Û
+
+Û
+Û
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+1M
+10
+1
+M
+1
+M
+10
+10
+10
+10
+10
+10
+10
+10
+
+NM
+10
+10
+CHANGE : VAR.
+(EFF:11 AUG 2022) 11/8/22
+RJOA AD2.24-OTHER-3
+HIROSHIMA
+

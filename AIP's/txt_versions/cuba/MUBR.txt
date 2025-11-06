@@ -1,0 +1,1744 @@
+=== Page 1 ===
+AIP-CUBA AD 2 MUBR 1 - 1
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+AD 2 AERODROMOS AD 2 AERODROMES
+MUBR AD 2.1 INDICADOR DE LUGAR Y NOMBRE DEL AERODROMO
+MUBR AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+MUBR - CAYO LAS BRUJAS / Las Brujas
+MUBR AD 2.2 DATOS GEOGRAFICOS Y ADMINISTRATIVOS DEL AERODROMO
+MUBR AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordenadas del ARP y
+emplazamiento en el AD
+  ARP coordinates and site at AD
+223717N 0790850W
+Punto centro de
+Mid point of RWY 09/27
+2 Dirección y distancia desde (ciudad)
+  Direction and distance from (city) 335°, 95 KM FM Ciego de Avila
+3 Elevación/temperatura de referencia
+  Elevation / Reference temperature
+(Mean Low temperature)
+Elev: 13 FT (4 M) / T: NIL (Mean Low T: NIL)
+4 Ondulación geoidal en AD ELEV PSN
+  Geoid undulation at AD ELEV PSN -75 FT (-23 M)
+5 MAG VAR/Cambio anual
+  MAG VAR / Annual change 7° W (2025) / -0.10°
+6 Administración, dirección, teléfono,
+telefax, télex, AFS del AD
+  AD Administration, address, telephone,
+telefax, telex, AFS
+ECASA
+Aeropuerto “Las Brujas”.
+Pedraplén de Caibarién a Cayo Las Brujas, km 38.5, Villa
+Clara, Cuba 
+  
+Tel: (53-42) 350064
+Sita:  BWWOACU
+email: teresa@snu.ecasa.avianet.cu
+7 Tipos de tránsito permitidos (IFR/VFR)
+  Types of traffic permitted (IFR/VFR) IFR/VFR VFR
+8 Observaciones
+  Remarks NIL
+MUBR AD 2.3 HORAS DE FUNCIONAMIENTO
+MUBR AD 2.3 OPERATIONAL HOURS
+1 Administración del AD
+  AD Administration
+1300/2000 UTC DLY.
+Horario de verano/Summer time: 1200/1900 UTC DLY.
+ 
+2 Aduanas e inmigración
+  Customs and immigration NIL
+3 Dependencias de sanidad
+  Health and sanitation NIL
+4 Oficina de notificación AIS
+  AIS Briefing Office NIL
+5 Oficina de notificación ATS (ARO)
+  ATS Reporting Office (ARO) NIL
+6 Oficina de notificación MET
+  MET Briefing Office NIL
+
+=== Page 2 ===
+AD 2 MUBR 1 - 2
+05 FEB 2025
+AIP-CUBA
+AIP AMDT 01/25 AIS-CUBA
+7 ATS
+  ATS
+AFIS
+1300/2000 UTC DLY.
+Horario de Verano / Summer Time: 1200/1900 UTC DLY.
+8 Abastecimiento de combustible
+  Fuelling NIL
+9 Servicios de escala
+  Handling
+1300/2000 UTC DLY.
+Horario de verano/Summer time: 1200/1900 UTC DLY.
+10 Seguridad
+  Security H24
+11 Descongelamiento
+  De-icing NIL
+12 Observaciones
+  Remarks
+Fuera de estas horas O/R 48 HR BFR.
+Out of these hours O/R 48 HR BFR.
+MUBR AD 2.4 INSTALACIONES Y SERVICIOS DE ESCALA
+MUBR AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Instalaciones de manipulación de la
+carga
+  Cargo-handling facilities
+NIL
+2 Tipos de combustible/lubricante
+  Fuel / oil types
+Combustible: NIL
+Lubricante: NIL
+Fuel: NIL
+Oil: NIL
+3 Instalaciones/capacidad de
+reabastecimiento
+  Fuelling facilities/capacity
+NIL
+4 Instalaciones de descongelamiento
+  De-icing facilities NIL
+5 Espacio de hangar para aeronaves
+visitantes
+  Hangar space for visiting aircraft
+NIL
+6 Instalaciones para reparaciones de
+aeronaves visitantes
+  Repair facilities for visiting aircraft
+NIL
+7 Observaciones
+  Remarks
+Instalaciones y equipos para la asistencia en tierra
+GPU: 115v CA/ 90Kva.
+GPU: 28v CD.
+Facilities and equipment for ground handling
+GPU: 115v AC/ 90Kva.
+GPU: 28v DC.
+MUBR AD 2.5 INSTALACIONES Y SERVICIOS PARA LOS PASAJEROS
+MUBR AD 2.5 PASSENGER FACILITIES
+1 Hoteles
+  Hotels
+Cerca del AD y en la ciudad
+Near the AD in the city
+2 Restaurantes
+  Restaurants
+Cerca del AD y en la ciudad
+Near AD in the city
+3 Transporte
+  Transportation NIL
+
+=== Page 3 ===
+AIP-CUBA AD 2 MUBR 1 - 3
+11 DEC 2024
+AIS-CUBA AMDT 106-24
+4 Instalaciones y servicios médicos
+  Medical facilities
+Primeros auxilios en el AD, hospitales en la ciudad.
+First aids at AD, hospitals in the city.
+5 Oficinas bancarias y de correos
+  Bank and Post Office
+Banco: NIL
+Oficinas de correos: NIL
+Bank: NIL
+Post: NIL
+6 Oficina de turismo
+  Tourist Office NIL
+7 Observaciones
+  Remarks NIL
+MUBR AD 2.6 SERVICIOS DE SALVAMENTO Y DE EXTINCIÓN DE INCENDIOS
+MUBR AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 Categoría del AD para la extinción de
+incendios
+  AD category for fire fighting
+CAT 4
+2 Equipo de salvamento
+  Rescue equipment NIL
+3 Capacidad para retirar aeronaves
+inutilizadas
+  Capability for removal of disabled
+aircraft
+NIL
+4 Observaciones
+  Remarks NIL
+MUBR AD 2.7 DISPONIBILIDAD SEGÚN LA ESTACIÓN DEL
+AÑO – REMOCIÓN DE OBSTACULOS EN LA SUPERFICIE
+MUBR AD 2.7 SEASONAL AVAILABILITY — CLEARING
+No se aplica / Not applicable
+MUBR AD 2.8 DATOS SOBRE LA PLATAFORMA,
+CALLES DE RODAJE Y EMPLAZAMIENTOS /
+POSICIONES DE VERIFICACIÓN DE EQUIPO /
+MUBR AD 2.8 APRONS, TAXIWAYS AND
+EMPLACEMENT / EQUIPMENT CHECK LOCATIONS DATA
+1 superficie y resistencia de la
+plataforma
+  Apron surface and strength
+Designación Superficie Resistencia
+Designator Surface Strength
+1 Asfalto
+Asphalt PCN 20/F/B/W/U
+2 Anchura, superficie y resistencia de las
+calles de rodaje
+  Taxiway width, surface and strength
+Designación Anchura Superficie Resistencia
+Designator
+of TWY
+Width Surface Strength
+A NIL Asfalto
+Asphalt PCN 20/F/B/W/U
+3 Emplazamiento y elevación ACL
+  Altimeter checkpoint location and
+elevation
+NIL
+4 Puntos de verificación VOR NIL
+
+=== Page 4 ===
+AD 2 MUBR 1 - 4
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+  VOR checkpoints
+5 Puntos de verificación INS
+  INS checkpoints NIL
+6 Observaciones
+  Remarks NIL
+MUBR AD 2.9 SISTEMA DE GUIA Y CONTROL DEL
+MOVIMIENTO EN LA SUPERFICIE Y SEÑALES
+MUBR AD 2.9 SURFACE MOVEMENT GUIDANCE
+AND CONTROL SYSTEM AND MARKINGS
+1 Uso de signos ID en los puestos de
+aeronaves Líneas de guía TWY y
+sistemas de guía visual de atraque
+y estacionamiento de los puestos de
+aeronaves
+  Use of aircraft stand ID signs, TWY
+guide lines and visual docking/parking
+guidance system of aircraft stands
+NIL
+2 Señales y LGT de RWY y TWY
+  RWY and TWY markings and LGT
+RWY:  Designación, THR, TDZ. Bordes y extremos de pista
+iluminados / Designation, THR, TDZ. Edges and runway ends
+lighted.
+TWY:  Puntos de espera señalados y bordes iluminados / Holding
+position marked and edges lighted.
+3 Barras de parada
+  Stop bars and runway guard lights No disponible / Not available
+4 Otra protección de pista
+  Other runway protection measures NIL
+5 Observaciones
+  Remarks NIL
+MUBR AD 2.10 OBSTÁCULOS DEL AERÓDROMO
+MUBR AD 2.10 AERODROME OBSTACLES
+En el Área 2 / In Area 2
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+En el Área 3 / In Area 3
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation
+OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+
+=== Page 5 ===
+AIP-CUBA AD 2 MUBR 1 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+MUBR AD 2.11 INFORMACION METEOROLÓGICA PROPORCIONADA
+MUBR AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Oficina MET asociada
+  Associated MET Office Santa Clara.
+2 Horas de servicio
+Oficina MET fuera de horario
+  Hours of service
+MET Office outside hours
+MON WED THU FRI SUN 1300/2200 UTC. TUE SAT 1200/0200
+UTC. 
+Horario de Verano/ Summer Time: 
+MON WED THU FRI SUN 1200/2100 UTC. TUE SAT 1100/0100
+UTC.
+3 Oficina responsable de la preparación
+TAF
+Períodos de validez
+  Office responsible for TAF preparation
+Period of validity
+NIL
+4 Tipo de pronóstico de aterrizaje
+Intervalo de emisión
+  Trend forecast
+Interval of issuance
+NIL
+5 Aleccionamiento/consulta
+proporcionados
+  Briefing/consultation provided
+NIL
+6 Documentación de vuelo
+Idioma(s) utilizado(s)
+  Flight documentation
+Language(s) used
+NIL
+7 Cartas y demás información disponible
+para aleccionamiento o consulta
+  Charts and other information available
+for briefing or consultation
+NIL
+8 Equipo suplementario disponible para
+proporcionar información
+  Supplementary equipment available for
+providing information
+NIL
+9 Dependencias ATS que reciben
+información
+  ATS units provided with information
+AFIS Las Brujas
+10 Información adicional (limitación de
+servicio, etc.)
+  Additional information (limitation of
+service, etc.)
+AVBL TEL: 042-350009 para consultar condiciones meteorológicas
+imperantes
+AVBL TEL: 042-350009  for current weather consulting.
+MUBR AD 2.12 CARACTERÍSTICAS FÍSICAS DE LAS PISTAS
+MUBR AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+
+=== Page 6 ===
+AD 2 MUBR 1 - 6
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+Designadores
+RWY
+BRG GEO
+y MAG
+Dimensiones
+de RWY
+Resistencia (PCN)
+y superficie de
+RWY y SWY
+Coordenadas THR
+Coordenadas
+RWY end
+ondulación
+geoidal THR
+Elevación THR
+y elevación
+máxima de
+TDZ de RWY
+APP precisión
+RWY
+Designator
+TRUE &
+MAG BRG
+Dimension
+of RWY (M)
+Strength (PCN)
+and surface of
+RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation
+and highest
+elevation of
+TDZ of precision
+APP RWY
+1 2 3 4 5 6
+09 088.00° GEO
+095.00° MAG 1800 x 45
+PCN 20/F/B/W/U
+Asfalto
+Asphalt
+SWY: NIL
+223715.31N
+0790921.35W
+END: NIL
+GUND: -23 M
+THR 3 M
+TDZ: NIL
+27 268.00° GEO
+275.00° MAG 1800 x 45
+PCN 20/F/B/W/U
+Asfalto
+Asphalt
+SWY: NIL
+223717.76N
+0790818.27W
+END: NIL
+GUND: -23 M
+THR 4 M
+TDZ: NIL
+Designadores
+RWY
+Pendiente
+de RWY-
+SWY
+Dimensiones
+SWY
+Dimensiones
+CWY
+Dimensiones
+de franja
+Dimensiones
+del RESA
+Localización/
+descripción
+del sistema
+de retención
+OFZ
+RWY
+Designator
+Slope of
+RWY-SWY
+SWY
+dimensions
+(M)
+CWY
+dimensions
+(M)
+Strip
+dimensions
+(M)
+RESA
+dimensions
+(M)
+Location/
+description
+of arresting
+system
+OFZ
+1 7 8 9 10 11 12 13
+09 +0.056% 60 x 45 NIL 1920 x 150 NIL NIL NIL
+27 -0.056% 60 x 45 NIL 1920 x 150 NIL NIL NIL
+Designadores
+RWY
+Observaciones
+RWY
+Designator Remarks
+1 14
+09 NIL
+27 NIL
+MUBR AD 2.13 DISTANCIAS DECLARADAS
+MUBR AD 2.13 DECLARED DISTANCES
+Designador
+RWY
+Observaciones
+RWY
+Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+09 1800 1800 1860 1800 NIL
+27 1800 1800 1860 1800 NIL
+MUBR AD 2.14 LUCES DE APROXIMACIÓN Y DE PISTA
+MUBR AD 2.14 APPROACH AND RUNWAY LIGHTING
+
+=== Page 7 ===
+AIP-CUBA AD 2 MUBR 1 - 7
+11 DEC 2024
+AIS-CUBA AMDT 106-24
+Designador
+RWY
+Tipo LGT APCH
+y LEN INTST
+Color LGT
+THR WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN Longitud,
+espaciado,
+color, INTST
+LGT eje RWY
+RWY
+Designator
+APCH LGT type
+LEN INTST
+THR LGT
+colour WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN RWY Centre
+Line LGT
+Length, spacing,
+colour, INTST
+1 2 3 4 5 6
+09 NIL NIL NIL NIL NIL
+27 NIL NIL NIL NIL NIL
+Designador
+RWY
+Longitud, espaciado,
+color, INTST
+LGT borde RWY
+Color LGT extremo
+RWY WBAR
+LEN (M) LGT SWY
+color
+Observaciones
+RWY
+Designator
+RWY edge LGT LEN,
+spacing colour INTST
+RWY End LGT
+colour WBAR
+SWY LGT LEN
+colour
+Remarks
+1 7 8 9 10
+09 NIL NIL NIL NIL
+27 NIL NIL NIL NIL
+MUBR AD 2.15 OTRAS LUCES, FUENTE SECUNDARIA DE ENERGÍA
+MUBR AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 Emplazamiento, características y horas
+de funcionamiento ABN/IBN
+  ABN/IBN location, characteristics and
+hours of operation
+NIL
+2 Emplazamiento LDI Y LGT y
+Anemómetro y LGT
+  LDI location and LGT Anemometer
+location and LGT
+NIL
+3 Luces de borde y eje de TWY
+  TWY edge and centre line lighting
+Borde de TWY/Taxiway edge:
+A BLUE
+  
+Eje de TWY/Taxiway centre line:
+A No disponible.
+Not available.
+4 Fuente auxiliar de energía/tiempo de
+conmutación
+  Secondary power supply/switch-over
+time
+NIL
+5 Observaciones
+  Remarks NIL
+MUBR AD 2.16 ÁREA DE ATERRIZAJE DE HELICÓPTEROS
+MUBR AD 2.16 HELICOPTER LANDING AREA
+No se aplica / Not applicable
+MUBR AD 2.17 ESPACIO AÉREO ATS
+MUBR AD 2.17 ATS AIRSPACE
+
+=== Page 8 ===
+AD 2 MUBR 1 - 8
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+Designación y
+límites laterales
+Límites
+verticales
+Clasificación
+del espacio
+aéreo
+Distintivo de
+llamada de la
+dependencia
+ATS Idioma (s)
+Altitud de
+transición
+Horas de
+aplicabilidad
+Observaciones
+Designation
+and lateral limits
+Vertical limits Airspace
+classification
+ATS unit
+call sign
+Language(s)
+Transition
+altitude
+Hours of
+applicability
+Remarks
+1 2 3 4 5 6 7
+NIL NIL NIL NIL NIL NIL NIL
+MUBR AD 2.18 INSTALACIONES DE COMUNICACIONES ATS
+MUBR AD 2.18 ATS COMMUNICATION FACILITIES
+Designación
+del servicio
+Distintivo de llamada Frecuencia SATVOICE Dirección
+de
+conexión
+Horas de
+funcionamiento
+Observaciones
+Service
+designation
+Callsign Frequency SATVOICE Logon
+address
+Hours of operation Remarks
+1 2 3 4 5 6 7
+AFIS Información Las
+Brujas
+122.400 MHZ NIL NIL MON, WED,
+THU, FR, SUN
+1300-2200
+UTC TUE, SAT
+1200-0200 UTC
+Horario de Verano/
+Summer Time:
+MON, WED,
+THU, FRI, SUN
+1200-2100
+UTC TUE, SAT
+1100-0100 UTC
+Fuera de estas
+horas 
+Out of these
+hours O/R 
+48 HR BFR.
+MUBR AD 2.19 RADIOAYUDAS PARA LA NAVEGACIÓN Y EL ATERRIZAJE
+MUBR AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo de ayuda
+MAG VAR
+Tipo de
+ILS/MLS
+ID Frecuencia Horas de
+funcionamiento
+Coordenadas
+del
+emplazamiento
+de la antena
+transmisora
+Elevación
+de la antena
+transmisora
+del DME
+Servicio
+volume
+radio
+de GBAS
+referencia
+Punto
+Observ.
+Type of aid
+MAG VAR
+CAT of
+ILS/MLS
+ID Frequency Hours of
+operation
+Site of
+transmitting
+antenna
+coordinates
+Elevation
+of DME
+transmitting
+antenna
+Service
+volume
+radius
+from GBAS
+reference
+Point
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+MUBR AD 2.20 REGLAMENTO LOCAL DEL AERODROMO
+MUBR AD 2.20 LOCAL AERODROME REGULATIONS
+NIL NIL
+
+=== Page 9 ===
+AIP-CUBA AD 2 MUBR 1 - 9
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+MUBR AD 2.21 PROCEDIMIENTOS DE ATENUACION DEL RUIDO
+MUBR AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL NIL
+MUBR AD 2.22 PROCEDIMIENTOS DE VUELO
+MUBR AD 2.22 FLIGHT PROCEDURES
+NIL NIL
+MUBR AD 2.23 INFORMACION ADICIONAL
+MUBR AD 2.23 ADDITIONAL INFORMATION
+COORDENADAS DE LOS PUNTOS DE RECORRIDO / WAYPOINTS COORDINATES
+AD MUBR
+ 
+Punto de recorrido/
+Waypoint name
+Latitud (N) Longitud (W) Propósito / Purpose
+ALPER 22°36'50.98'' 079°19'38.33'' RNP RWY09
+BENOS 22°37'41.34'' 078°58'01.90'' RNP RWY27
+BR500 22°42'51.89'' 079°19'55.07'' RNP RWY09
+BR501 22°30'50.07'' 079°19'21.60'' RNP RWY09
+BR502 22°43'42.27'' 078°58'17.70'' RNP RWY27
+BR503 22°31'40.39'' 078°57'46.11'' RNP RWY27
+BR509 22°37'03.84'' 079°14'14.37'' RNP RWY09
+BR510 22°52'55.56'' 079°08'14.73'' RNP RWY09, RNP RWY27
+BR527 22°37'29.03'' 079°03'25.90’' RNP RWY27
+MUBR AD 2.24 CARTAS RELATIVAS AL AERODROMO
+MUBR AD 2.24 CHARTS RELATED TO AN AERODROME
+Charts Pages
+AD 2 MUBR ADC.pdf AD 2 MUBR 2 - 1
+AD2 MUBR RNP09.pdf AD 2 MUBR 7 - 1
+AD2 MUBR RNP27.pdf AD 2 MUBR 7 - 5
+MUBR AD 2.25 PENETRACIÓN DE LA SUPERFICIE DEL SEGMENTO VISUAL (VSS)
+MUBR AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+No se aplica / Not applicable
+
+=== Page 11 ===
+PLATAFORMA /
+APRON 1
+RWY THR
+22º37’15.31’’N
+079º09’21.35’’W
+22º37’17.76’’N
+079º08’18.27’’W
+RESISTENCIA /
+STRENGTH
+PCN-20/F/B/W/U
+ASPH
+GUND
+27 275º -23
+095º -23
+DIRECCION /
+DIRECTION
+09
+09
+27
+SEÑALES Y AYUDAS LUMINOSAS RWY 09/27 Y CALLES DE RODAJE DE SALIDA / MARKING AND LIGHTING AIDS RWY 09/27 AND EXIT TAXIWAYS
+WDI
+09
+SWY
+60 x 45
+FRANJA / STRIP 1920 x 150
+ARP
+27
+A
+TERMINAL NACIONAL /
+DOMESTIC TERMINAL
+ELEV
+3
+ELEV
+4
+SWY
+60 x 45
+ESTACIONAMIENTO /
+CAR PARK
+1800 x 45 ASFALTO / ASPHALT
+RESISTENCIA CALLES DE RODAJE  /
+BEARING STRENGTH:TAXIWAYS
+TWY A: PCN 20/F/B/W/U.
+RESISTENCIA APN 1 /
+APN 1 BEARING STRENGTH:
+PCN 20/F/B/W/U
+ESCALA / SCALE
+1:15 000
+0150 150 300 450 600 m
+ESCALA / SCALE
+1:10 000
+0100 100 200 300 400 m
+CALLES DE RODAJE ANCHO /
+TAXIWAYS 23 WIDE
+ELEV Y DIMENSIONES EN M/ AND / DIMENSIONS / IN
+MAG BRG
+VAR 7º W - 2020REGIMEN VARIACIONANUAL /ANUAL RATEOF CHANGE 06' W
+Cayo Las Brujas / Las Brujas22º37’17’’N
+079º08’50’’W
+ELEV 4PLANO DE AERODROMO - OACI /
+AERODROME CHART - ICAO
+AFIS 122.40
+AIP-CUBA AD 2 MUBR 2 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 13 ===
+&
+&
+&
+&
+&
+&
+&
+!!
+####!A(
+BBBB!A
+BBBB!A
+BBBB!A BBBB!A
+!!
+####!A(
+BBBB!A
+BBBB!A
+BBBB!A
+BBBB!ABBBB!A
+095°
+095°095°
+005°
+185°
+5.0 1000
+4.5
+6.0
+6.0
+MOCA 1000
+MOCA 1000
+MOCA 1000
+TF
+CA
+TF
+TF
+TF
+22° 37' 03.84" N
+079° 14' 14.37" W
+1500
+22° 36' 50.98" N
+079° 19' 38.33" W
+1500
+22° 30' 50.07" N
+079° 19' 21.60" W
+3000
+22° 42' 51.89" N
+079° 19' 55.07" W
+3000
+22° 52' 55.56" N
+079° 08' 14.73" W
+FL040
+FAF
+BR509
+IAF/IF
+ALPER
+IAF
+BR501
+IAF
+BR500
+MAHF
+BR510
+79°0'W
+79°0'W
+79°10'W
+79°10'W
+79°20'W
+79°20'W
+22°50'N
+22°50'N
+22°40'N
+22°40'N
+22°30'N
+22°30'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 13
+OCH REF THR RWY 09
+ELEV 10 
+CAYO LAS BRUJAS / Las Brujas
+RNP (LNAV/VNAV, LNAV)
+RWY 09
+CAT A, B
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 095° HASTA 1000 FT, 
+VIRE A LA IZQUIERDA DIRECTO A PATRÓN DE 
+ESPERA BR510 A FL040 Y ESPERE INSTRUCCIONES 
+ATC / CLIMB ON TRACK 095° UNTIL 1000 FT, TURN 
+LEFT DIRECT TO BR510 HOLDING PATTERN AT
+FL040 AND EXPECT ATC INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+LNAV / VNAV
+CIRCULAR
+CIRCLING
+AB
+260 (250) 1.3 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW09   4.5
+VSP GS 3.00°
+NM to RW09
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+3:24 2:43 2:16 1:56 1:42 1:31
+430 530 640 740 850 960
+ALT / (HGT)
+4.0 3.0 2.0 1.0
+1330
+(1320)
+1020
+(1010)
+700
+(690)
+380
+(370)
+1000 (987) 5.5 KM
+LNAV 350 (340) 1.5 KM
+(POR LA PÉRDIDA DE CAPACIDAD RNAV/
+FOR LOSS OF RNAV CAPABILITY): ASCIENDA 
+EN DERROTA 095° HASTA 3000 FT Y SOLICITE
+INSTRUCCIONES ATC / CLIMB ON TRACK  095° 
+UNTIL 3000 FT AND REQUEST ATC INSTRUCTIONS.    
+NOTA / REMARK
+APP  123.70
+AFIS 122.40
+2020
+VAR 7°W
+H
+Especificación de NAV/
+NAV Specification: RNP-APCH
+10 NM
+054°
+234°
+FL MNM040
+1 MN
+4.2 NM
+25 NM
+TO
+BR500
+185°
+275°
+IAF
+BR500
+IF
+ALPER
+1100
+25
+NM
+TO
+ALPER
+IAF/IF
+ALPER2200
+2500
+IF
+ALPER
+IAF
+BR501
+RW09
+005°
+275°
+185°
+005°
+25 NMTO
+BR501
+RW09
+DF
+ESCALA / SCALE 1:350 000
+024681
+NM
+048 1 2 1 62
+KM
+AIP-CUBA AD 2 MUBR 7 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 14 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUBR 7 - 2
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 15 ===
+TABLAS DE CODIFICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP  INSTRUMENT APPROACH PROCEDURE CODING TABLES.
+MU%5 RWY 0 /$6%58-$6 
+IAF %5
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 0  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) %5         513$3&+
+ 7) $/3(5  
+      513$3&+
+ 7) %5  
+    #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$  
+     513$3&+
+ ')  %5 <   / )/  513$3&+
+IAF %5
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 0  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,)         513$3&+
+ 7)  
+      513$3&+
+ 7)       513$3&+
+ 7) <       513$3&+
+      513$3&+
+ <   / )/  513$3&+
+IAF/IF $/3(5
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 0  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) $/3(5      513$3&+
+ 7) %5     #    513$3&+
+ 7) 5: <      513$3&+
+     513$3&+
+ %5 < / )/  513$3&+
+CODIFICACIÓN DE LAS ESPERAS CON FUNCIONALIDAD / CODING TABLE FOR HOLDINGS WITH 
+FUNTIONALITY. RNAV  MU%5 RWY 0
+Descriptor de 
+trayectoria/ 
+Path Descriptor
+Identificador 
+ del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ %5 
+ 510 )/ )/    51$9
+ 
+
+#
+
+&$
+')
+
+
+
+#
+
+&$
+')
+
+
+
+
+
+ 
+
+#
+
+
+
+
+
+
+
+%5
+$/3(5
+%5
+5:
+%5
+
+
+
+
+
+
+
+
+
+
+ #
+
+
+
+
+
+
+
+
+
+
+  
+
+AIP-CUBA AD 2 MUBR 7 - 3
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 17 ===
+&
+&
+&&
+&
+&
+&
+!!
+####!A(
+!!
+####!A(
+BBBB!A
+BBBB!A
+BBBB!A BBBB!A
+BBBB!A
+BBBB!A BBBB!A
+BBBB!ABBBB!A
+275°
+275°
+22° 37' 29.03" N
+079° 03' 25.90" W
+1500
+22° 52' 55.56" N
+079° 08' 14.73" W
+FL040
+22° 31' 40.39" N
+078° 57' 46.11" W
+3000
+22° 43' 42.27" N
+078° 58' 17.70" W
+3000
+22° 37' 41.34" N
+078° 58' 01.90" W
+1500
+FAF
+BR527
+MAHF
+BR510
+RW27
+IAF
+BR503
+IAF
+BR502
+IAF/IF
+BENOS
+322°
+275°
+005°
+185°
+142°
+4.5
+6.0
+6.0
+1000
+5.0
+MOCA 1100
+MOCA 1100
+MOCA 1000 TF
+TF
+CA
+DF
+79°0'W
+79°0'W
+79°10'W
+79°10'W
+79°20'W
+79°20'W
+22°50'N
+22°50'N
+22°40'N
+22°40'N
+22°30'N
+22°30'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 13
+OCH REF THR RWY 27
+ELEV 13
+CAYO LAS BRUJAS / Las Brujas
+RNP (LNAV/VNAV, LNAV)
+RWY 27
+CAT A, B
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 275° HASTA 1000 FT, 
+VIRE A LA DERECHA DIRECTO A PATRÓN DE 
+ESPERA BR510 A FL040 Y ESPERE INSTRUCCIONES 
+ATC / CLIMB ON TRACK 275° UNTIL 1000 FT, TURN 
+RIGHT DIRECT TO BR510 HOLDING PATTERN AT
+FL040 AND EXPECT ATC INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+LNAV / VNAV
+CIRCULAR
+CIRCLING
+A B
+270 (257) 1.3 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW27   4.5
+VSP GS 3.00°
+NM to RW27
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+3:24 2:43 2:16 1:56 1:42 1:31
+430 530 640 740 850 960
+ALT / (HGT)
+4.0 3.0 2.0 1.0
+1340
+(1327)
+1020
+(1007)
+700
+(687)
+390
+(377)
+1000 (987) 5.5 KM
+LNAV 350 (337) 1.5 KM
+(POR LA PÉRDIDA DE CAPACIDAD RNAV/
+FOR LOSS OF RNAV CAPABILITY): ASCIENDA 
+EN DERROTA 275° HASTA 3000 FT Y SOLICITE
+INSTRUCCIONES ATC / CLIMB ON TRACK  275° 
+UNTIL 3000 FT AND REQUEST ATC INSTRUCTIONS.    
+NOTA / REMARK
+APP  123.70
+AFIS 122.40
+2020
+VAR 7°W
+H Especificación de NAV/
+NAV Specification: RNP-APCH
+10 NM
+FL MNM
+0401 MIN4.2 NM
+TF
+TF
+25NM
+TO
+BENOS
+2500
+185°
+005°
+1100
+185°
+095°
+IAF/IF
+BENOS
+IF
+BENOS
+25
+NM
+TO
+BR502
+IF
+BENOS
+095°
+005°
+IAF
+BR502
+IAF
+BR503
+2500
+25
+NM
+TO
+BR503
+9.0
+ESCALA / SCALE 1:350 000
+0 2 4 6 81
+NM
+0 4 8 12 162
+KM
+AIP-CUBA AD 2 MUBR 7 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 18 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUBR 7 - 6
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 19 ===
+TABLAS DE CODIFICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP  INSTRUMENT APPROACH PROCEDURE CODING TABLES.
+MUBR RWY 27 LAS BRUJAS 
+IAF BR502
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 27  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) BR2   1      513$3&+
+ 7) BENOS  185
+77.5 1     15  513$3&+
+ 7) BR527  275
+267.7 1   #15   513$3&+
+ 7) 5:27 < 275
+267.7 1 4.5   27   513$3&+
+ &$  275
+267.7 1    513$3&+
+ ') BR510 < 1  R   )/  513$3&+
+IAF BR503
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 27  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,)  1      513$3&+
+ 7)  1     15  513$3&+
+ 7)  1     513$3&+
+ 7) < 1      513$3&+
+  1    513$3&+
+ < 1  R   )/  513$3&+
+IAF/IF BENOS
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 27  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) BENOS         513$3&+
+ 7) %527    #   513$3&+
+ 7) 5:27 <      513$3&+
+     513$3&+
+ %5 <  R   )/  513$3&+
+CODIFICACIÓN DE LAS ESPERAS CON FUNCIONALIDAD / CODING TABLE FOR HOLDINGS WITH 
+FUNTIONALITY. RNAV  MUBR RWY 27
+Descriptor de 
+trayectoria/ 
+Path Descriptor
+Identificador 
+ del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ %5 142
+135.0 510 )/ )/   51$9
+- 
+
+#0
+
+&$
+')
+
+
+7
+#
+
+&$
+')
+-
+
+
+
+
+ 
+7
+#
+
+
+
+
+
+
+
+
+
+ @15
+
+
+
+
+ 
+
+BR3
+BENOS
+BR527
+5:27
+BR510
+-
+
+005
+357.4)
+275
+267.7
+275
+267.7
+275
+267.7
+
+275
+267.7
+27
+5
+267.7
+
+275
+267.7
+
+
+AIP-CUBA AD 2 MUBR 7 - 7
+22 FEB 2024
+AIS-CUBA AMDT 103-24

@@ -1,0 +1,1065 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIPU 1 - 1
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPU AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIPU AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ 
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIPU - PADOVA
+LIPU AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIPU AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+45°23'46''N 011°50'53''E *
+2 Direzione e distanza dalla città 0,5 NM W
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+44 FT / 25.6° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+2° E (2005.0) / 5'E
+5 Autorità amministrativa aeroportuale ENAC - DT Nord-Est
+Aeroporto "Marco Polo"
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+ Aerodrome administration authority ENAC - DT Nord-Est
+"Marco Polo" Airport
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+ Gestore aeroportuale HERON AIR S.R.L a socio unico
+'AIR SUPPORT and TACTICAL SERVICES'
+Via Sorio 89
+35141 PADOVA
+Tel +39 3492873216; +39 3479469058
+Fax +39 042 51880305
+e-mail: lipu@heronair.eu, info@airportpadova.com
+PEC: heronair@legalmail.it
+ Aerodrome operator HERON AIR S.R.L with single member
+'AIR SUPPORT and TACTICAL SERVICES'
+Via Sorio 89
+35141 PADOVA
+Tel +39 3492873216; +39 3479469058
+Fax +39 042 51880305
+e-mail: lipu@heronair.eu, info@airportpadova.com
+PEC: heronair@legalmail.it
+ Autorità ATS ENAV S.p.A. - Centro Aeroportuale Padova
+Tel: +39 030 9656547
+ fax: +39 030 9656587
+e-mail: ci-padova@enav.it
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+
+=== Page 2 ===
+AD 2 LIPU 1 - 2
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+7 Note 1. Per tutte le informazioni contattare HERON AIR S.R.L.:
+tel. +39 3492873216, +39 347 9469058
+e-mail: lipu@heronair.eu
+2. AD aperto al traffico VFR
+ Remarks 1. For all information contact HERON AIR S.R.L.:
+tel. +39 3492873216, +39 347 9469058
+e-mail: lipu@heronair.eu
+2. AD open to VFR traffic
+LIPU AD 2.3 ORARIO DEI SERVIZI
+LIPU AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale OCT–MAR 0700-SS +30 (0600-SS +30)/APR–SEP 0600-1800
+Altri orari PPR con anticipo di 24H al gestore aeroportuale via e-mail a
+lipu@airportpadova.com
+ Aerodrome Administration OCT–MAR 0700-SS +30 (0600-SS +30)/APR–SEP 0600-1800
+Other HR PPR 24H in advance to AD operator via e-mail to lipu@airportpadova.com
+2 Dogana ed immigrazione Disponibile come segue:
+a) Dal lunedì al venerdì su richiesta con almeno 3 HR di preavviso (+FPL) in orario di
+apertura aeroportuale
+b) Sabato e domenica con preavviso entro le ore 1100 (1000) del venerdì (+FPL) in
+orario di apertura aeroportuale
+ Customs and immigration Available as follows:
+a) Monday to Friday on request with at least 3HR prior notice (+FPL) during airport
+opening hours
+b) Saturday and sunday with notice by 1100 (1000) on friday (+ FPL) during airport
+opening hours
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS TUE–SUN 0700-1500 (0600-1400)
+   
+8 Rifornimento OCT–MAR 0700-1900 (0600-1800)/APR–SEP 0600-1800
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. Dogana e immigrazione
+Contatti:
+info@heronair.eu
+lipu@heronair.eu
+2. ATS non fornito il Lunedì 
+3. ARO CBO MILANO: vedi GEN 3.1 
+ Remarks 1. Customs and immigrations
+Contact: 
+info@heronair.eu
+lipu@heronair.eu
+2. ATS not provided on Monday
+3. ARO CBO MILANO: see GEN 3.1
+LIPU AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIPU 1 - 3
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPU AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL, OTHER / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note 1. Rifornimento disponibile anche a pressione
+2. Ancoraggi per soste prolungate
+3. Altri tipi di carburante: Benzina verde
+ Remarks 1. Refuelling available also with pressure pump
+2. Anchorage for long term parking
+3. Other type of fuel: Green gasoline
+LIPU AD 2.5 SERVIZI PER I PASSEGGERI
+LIPU AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti All'interno dell'aeroporto
+ Restaurants Inside the airport
+3 Trasporti Taxi, autobus
+ Transportation Taxi, bus
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Disponibili distributori automatici
+ Remarks 1. Vending machines available
+LIPU AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIPU AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Vedi note
+ Aerodrome category for fire fighting See remarks
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Servizio antincendio fornito in accordo con ‘Disciplina generale della protezione
+antincendio per gli Aeroporti di aviazione generale e Aviosuperfici’ (Regolamento
+ENAC Ed. 1 del 2 FEB 2011 - consultare il sito web ENAC www.enac.gov.it)
+
+=== Page 4 ===
+AD 2 LIPU 1 - 4
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+ Remarks 1. Fire fighting service provided in accordance with ‘Disciplina generale
+della protezione antincendio per gli Aeroporti di aviazione generale e
+Aviosuperfici’ (ENAC Regulation Ed. 1 of 2 FEB 2011 - see ENAC website
+www.enac.gov.it)
+LIPU AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIPU AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrice
+ Types of clearing equipment Sweeper
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIPU AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIPU AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+NIL NIL NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 9.0 M NIL NIL
+B 16.0 M NIL SIWL 15000 Kg
+C 15.0 M NIL SIWL 15000 Kg
+D 9.0 M NIL NIL
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIPU AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIPU AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carta AD in vigore
+ RWY and TWY markings and lights See AD chart in force
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIPU 1 - 5
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+3 Barre d'arresto Vedi carta AD in vigore
+ Stop bars See AD chart in force
+4 Note 1. Vedi carta AD in vigore
+ Remarks 1. See AD chart in force
+LIPU AD 2.10 OSTACOLI AEROPORTUALI
+LIPU AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIPU AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIPU AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / O/R
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts / IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Padova AFIU, Padova ACC/FIC
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1 
+2. ITALY MFU: vedi GEN 3.5 
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le nubi con altezza della base al di sotto di 5000ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+
+=== Page 6 ===
+AD 2 LIPU 1 - 6
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 5000ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+LIPU AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIPU AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+04 NIL 1122 x 30
+SIWL 15000 KG
+ASPH
+45°23'31.17''N
+011°50'35.45''E
+43.6 FT / 44.0 FT
+22 NIL 1122 x 30
+SIWL 15000 KG
+ASPH
+45°23'51.96''N
+011°51'00.07''E
+41.6 FT / 42.0 FT
+04GLD NIL 450 x 30
+NIL
+Grass NIL 42.0 FT / NIL
+22GLD NIL 450 x 30
+NIL
+Grass NIL NIL / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+04
+Trasversale:NIL
+Longitudinale:
+vedi AOC
+Transverse: NIL
+Longitudinal: see AOC
+NIL 40 x 150 1242 x 150 NIL
+22
+Trasversale:NIL
+Longitudinale:
+vedi AOC
+Transverse: NIL
+Longitudinal: see AOC
+NIL 50 x 150 1242 x 150 NIL
+04GLD NIL NIL NIL NIL NIL
+22GLD NIL NIL NIL NIL NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+04 NIL
+1) DTHR 62 m
+2) CWY utilizzabile per decollo da RWY 22 / CWY usable for take off from RWY22
+22 NIL 1) DTHR  224 m
+04GLD NIL 1) Vedi/See tabella/table 20, item 1
+22GLD NIL 1) Vedi/See tabella/table 20, item 1
+LIPU AD 2.13 DISTANZE DICHIARATE
+LIPU AD 2.13 DECLARED DISTANCES
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIPU 1 - 7
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+04 1122 1162 1122 1060
+22 1122 1172 1122 898
+04GLD 450 450 450 450
+22GLD 450 450 450 450
+NOTE
+REMARKS
+1. LDA RWY 22 determinata applicando il 5% della APCH SFC slope 
+2. LDA RWY 22 determined applying 5% of APCH SFC slope
+LIPU AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIPU AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+04 NIL NIL NIL G NIL 3.15
+wing bar
+lato sx
+left side
+9.0 NIL
+22 NIL NIL NIL G NIL NIL NIL NIL
+04GLD NIL NIL NIL NIL NIL NIL NIL NIL
+22GLD NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+04 NIL NIL NIL NIL 62
+1060
+60
+60
+R
+W
+NIL
+NIL
+22 NIL NIL NIL NIL 224
+898
+60
+60
+R
+W
+NIL
+NIL
+04GLD NIL NIL NIL NIL NIL NIL NIL NIL
+22GLD NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+04 R NIL NIL NIL NIL NIL
+22 R NIL NIL NIL NIL NIL
+04GLD NIL NIL NIL NIL NIL NIL
+22GLD NIL NIL NIL NIL NIL NIL
+LIPU AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIPU AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+
+=== Page 8 ===
+AD 2 LIPU 1 - 8
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 450 m dopo THR RWY 22, 150 m lato destro RCL. Illuminato.
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 450 m after THR RWY 22, 150 m right side RCL. Lighted.
+3 Illuminazione bordo e asse centrale TWY Solo bordo
+ TWY edge and center line lighting Edge only
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIPU AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIPU AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIPU AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIPU AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIPU 1 - 9
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Padova ATZ
+Circular area centered on
+45°23'43"N 011°50'54"E
+within a 3.0 NM radius.
+1500 FT
+AMSL
+G
+Padova
+Aerodrome Info
+EN/IT
+6000 FT
+1) WI Milano FIR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+(RMZ)
+LIPU AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIPU AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500
+TUE-SUN 0700-1500
+(0600-1400)
+ATS non fornito il Lunedì/
+ATS not provided on MON
+AFIS Padova Aerodrome Info 123.250
+TUE-SUN 0700-1500
+(0600-1400)
+ATS non fornito il Lunedì/
+ATS not provided on MON
+
+=== Page 10 ===
+AD 2 LIPU 1 - 10
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+LIPU AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIPU AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Padova
+Gonio
+Homer
+NIL
+TUE-SUN
+0700-1500
+(0600-1400)
+45°23'50.2''N
+011°50'48.8''E
+NIL
+limitazioni a/limitations at
+30 NM
+040°/070° MRA 3500 FT
+070°/280° MRA 2000 FT
+280°/320° MRA 4500 FT
+320°/040° MRA 5500 FT
+ 
+1) Disponibile su
+  richiesta sulle
+frequenze AFIS e di
+emergenza/available on
+request on AFIS and
+emergency frequencies
+LIPU AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIPU AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+1.1. La pista preferenziale per i decolli è la RWY 22
+La pista preferenziale per gli atterraggi è la RWY 04
+1.1. RWY 22 is the preferential RWY for take-off
+RWY 04 is the preferential RWY for landing
+1.2. RWY 04/22GLD utilizzabile solo per attività volovelistica ed
+elicotteri come segue:
+RWY 04GLD solo atterraggio
+RWY 22GLD solo decollo
+1.2. RWY 04/22GLD available only for gliders and helicopters activity
+as follows:
+RWY 04GLD only for landing
+RWY 22GLD only for take-off
+1.3. Non è consentita l’utilizzazione contemporanea di striscia e pista 1.3. Simultaneous operations on gliders alighting area and runway not
+allowed
+1.4. Striscia erbosa 040°/220° utilizzabile solo per attività volovelistica
+e per elicotteri come segue:
+040° atterraggio
+220° decollo
+1.4. Grass strip 040°/220° usable ony for gliders and helicopters as
+follows:
+040° landing
+220° take-off
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Negli orari 0700-0900 (0600-0800) e 1200-1500 (1100-1400)
+sono vietati touch and go e passaggi bassi se non per motivi ATC,
+METEO o di sicurezza
+6.1. From 0700 to 0900 (0600-0800) and from 1200 to 1500
+(1100-1400) touch and go and low passages are forbidden, except for
+ATC, METEO and safety reasons
+6.2. Negli orari di non disponibilità dell’AFIS e MET, solo nelle ore diurne
+e con il servizio antincendio garantito, il traffico VFR è autorizzato
+ad operare in accordo alle seguenti procedure che dovranno essere
+rigorosamente osservate:
+a. Le condizioni meteo sono valutate dal Comandante che rimane
+l’unico responsabile per la decisione di applicabilità delle minime
+meteorologiche
+b. I VRP per entrare/uscire LIPU ATZ sono:
+• PONTE SAN NICOLO’ (PUSE1)
+• RUBANO (PUNW1)
+c. La pista in uso e il circuito di traffico sono decisi dal Comandante in
+base all’osservazione diretta delle condizioni meteo
+6.2. During AFIS and MET unavailability, only during daylight hours
+and with fire fighting service assured, VFR traffic is allowed to operate
+according to following procedures which shall be strictly adhered to:
+                 
+a. Meteorological conditions are evaluated by the Pilot in command
+who remains also responsible for the determination of the applicable
+meteorological minima
+b. VRP to enter/exit LIPU ATZ are:
+• PONTE SAN NICOLO’ (PUSE1)
+• RUBANO (PUNW1)
+c. RWY in use and circuit pattern are determined by the Pilot in
+command upon direct visual meteorological observation
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIPU 1 - 11
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+d. Restrizioni nell’ ATZ di LIPU:
+• le attività di addestramento sono consentite solo per aeromobili
+di base a LIPU AD
+• aeromobili non di base a LIPU AD, eccetto HEMS, SAR, MEDEVAC,
+voli di emergenza e di Stato, sono autorizzati ad entrare nell’ATZ
+solo per un atterraggio definitivo o per decolli con lo scopo di
+lasciare l’ATZ
+• attività di volo acrobatiche, aviolancistiche o altre attività speciali,
+esclusa l’attività di volo a vela, non sono consentite
+e. Il traffico in circuito o appena decollato deve dare sempre la
+precedenza ai voli HEMS in arrivo/partenza
+f.I piloti devono notificare, prima del decollo da LIPU AD, all’Esercente
+Aeroportuale 'Heron Air srl' tel +393492873216/+393479469058,
+l’identificativo e il tipo di aeromobile, il numero di persone a bordo
+e ogni altra informazione ritenuta utile dal Comandante
+g. Il Comandante deve effettuare i riporti sulla FREQ 123.250MHz,
+iniziando sempre con il prefisso ‘Padova Radio’, e continuando come
+specificato:
+Per decolli da LIPU AD:
+• prima del rullaggio, comunicare la posizione al parcheggio, la
+posizione d’attesa e la pista in uso per il decollo
+• prima dell’ingresso in pista
+• a decollo avvenuto, specificare quota e punto di uscita
+• sul punto di uscita, comunicare quota e direzione di allontanamento
+NOTA: i voli con un FPL ‘Z’ (VFR/IFR) devono contattare l’unità
+ATS responsabile per la fase IFR del volo sulla frequenza
+apposita al fine di ottenere l’autorizzazione ATC
+Per atterraggi a LIPU AD:
+• prima di sorvolare il punto di ingresso (VRP), specificare direzione
+di provenienza e quota
+• prima dell’ingresso in sottovento specificare la pista che intende
+utilizzare
+• entrando in sottovento
+• volando in base
+• in finale
+• in caso di riattaccata
+• orario di atterraggio
+• pista libera
+• al parcheggio
+h. Durante gli orari di chiusura aeroportuale e di notte, il traffico aereo
+è interdetto eccetto che per HEMS autorizzati ad operare in accordo
+con le procedure/regolamentazioni aggiuntive:
+ 
+• la Prefettura di Padova o il SUEM 118 (Servizio Sanitario di
+Urgenza ed Emergenza) comunicano via telefono all’Esercente
+'Heron Air srl', tel +393492873216/+393479469058, le intenzioni
+al fine di aprire l'aeroporto, attivare il presidio antincendio,
+l’assistenza ai piazzali e l’eventuale illuminazione degli stessi
+ 
+• luci di pista e di taxiway non disponibili
+• in ogni caso è responsabilità del Comandante la decisione finale
+sull’uso dell’aeroporto
+i. Procedure di contingency devono essere applicate come segue:
+Condizioni meteo sotto le minime VMC:
+• nel caso di aeromobili in arrivo, l’equipaggio di condotta procede
+all’atterraggio su altro aeroporto idoneo e comunica, senza ritardo,
+all’Esercente Aeroportuale 'Heron Air srl' tel. +393492873216/
++393479469058 l’avvenuto atterraggio e l’aeroporto di arrivo
+d. Restrictions to LIPU ATZ:
+• training activity allowed only for aircraft based at LIPU AD
+• aircraft non-based at LIPU AD other than HEMS, SAR, MEDEVAC,
+emergency flight and State aircraft are allowed to enter ATZ only
+for a full-stop landing or to take-off in order to leave the ATZ
+               
+• aerobatic, parachute jumping or other special activity, excluded
+glider activity, not allowed
+e. All round or airborne traffic shall always give right of way to HEMS
+landing/departing flight
+f.Pilots shall notify, before take-off from LIPU AD, 'Heron Air
+srl' tel +393492873216/+393479469058, providing call sign, type
+of aircraft, number of person on board and any other information
+deemed useful by the pilot in command
+g. Pilots shall broadcast reports on FREQ 123.250MHz, always starting
+communication with ‘Padova Radio’, as follows:
+              
+For take-off from LIPU AD:
+• before starting taxiing, report parking position, holding position and
+RWY for take-off
+• before entering the RWY
+• after take-off, report altitude and exit point
+• above exit point, report altitude and outbound heading
+RMK: airborne flight with a FPL ‘Z’ (VFR/IFR) shall contact the
+ATS unit responsible for the IFR stage of the flight on relevant
+frequency in order to obtain the ATC clearance
+For landing to LIPU AD:
+• before overflying entry point (VRP), report the incoming direction
+and altitude
+• before joining downwind leg specify runway intended to use for
+landing
+• entering downwind leg
+• flying the base leg
+• on final leg
+• in case of go-around
+• landing time
+• RWY vacated
+• at the parking
+h. During night and aerodrome closure hours, air traffic is forbidden
+except HEMS allowed to operate according to additional local
+procedure/restriction:
+ 
+• the prefecture of Padova or the SUEM 118 (0Medical Urgency
+and Emergency Service) communicate by telephone to the airport
+operator 'Heron Air srl', tel +393492873216/+393479469058 the
+requirements to opne the airport, activate the firefighting service,
+assistance to Aprons, and Aprons lighting
+ 
+• runway and taxiway lights not available
+• the responsibility for the decision whether to use the aerodrome
+remains to the pilot in command
+i. Contingency procedures shall be applied as follows:
+Weather conditions below VMC minima:
+• in case of arriving aircraft, the pilot in command proceeds to
+land at another suitable airport and promptly informs the airport
+operator 'Heron Air srl' tel. +393492873216/+393479469058 about
+the landing and the arrival airport           
+• in case of departing aircraft, the pilot in command shall cancel or
+delay the departure by informing the airport operator 'Heron Air srl'
+
+=== Page 12 ===
+AD 2 LIPU 1 - 12
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+• nel caso di aeromobili in partenza, l’equipaggio di condotta procede
+ad annullare o ritardare la partenza comunicando all’Esercente
+Aeroportuale 'Heron Air srl' tel. +393492873216/+393479469058 il
+nuovo stimato o la cancellazione del volo
+Avaria radio:
+• nel caso di aeromobili in arrivo, l’equipaggio di condotta, procede per
+il sottovento e, se osserva pista libera, procede in base e finale per
+l’atterraggio. Se la pista è occupata orbita in sottovento, in attesa
+che la pista sia libera, in seguito, procede in base, finale e atterraggio
+              
+• nel caso di aeromobile in partenza, il volo è annullato o ritardato fino
+alla riparazione dell’equipaggiamento radio
+tel. +393492873216/+393479469058 providing a new estimated
+departure time or the cancellation of the flight
+Radio failure:
+• arriving aircraft shall enter standard downwind leg, if upon direct
+observation the RWY is not occupied, the pilot shall proceed to base
+leg then to final for landing, otherwise pilot shall orbit on downwind
+leg until the RWY is clear for landing, then proceed to base leg to
+join final for landing
+• departing aircraft shall cancel or delay flight until the on-board radio
+equipment is operational
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIPU AD 2.21 PROCEDURE ANTIRUMORE
+LIPU AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIPU AD 2.22 PROCEDURE DI VOLO
+LIPU AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+NIL NIL
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+NIL NIL
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+NIL NIL
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIPU 1 - 13
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+NIL NIL
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+NIL NIL
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+NIL NIL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+NIL NIL
+LIPU AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIPU AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIPU AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIPU AD 2.24 CHARTS RELATED TO THE AERODROME
+
+=== Page 14 ===
+AD 2 LIPU 1 - 14
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIPU 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 04/22  AD 2 LIPU 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIPU 3 - 3
+ICAO VISUAL APPROACH CHART  AD 2 LIPU 5 - 1
+LIPU AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIPU AD 2.25 Visual segment surface (VSS) penetration

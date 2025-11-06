@@ -1,0 +1,10685 @@
+=== Page 1 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-1
+AD 2 AERODROMES
+RJCC AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJCC - NEW CHITOSE
+RJCC AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJCC AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 424631N/1414133E
+0.8nm(1.5km) SE of TWR
+2 Direction and distance from (city) 2. 7nm (5km) SSE of Chitose City;
+25nm (45km) SE of Sapporo City.
+3 Elevation/ Reference temperature 69.8ft / 25°C (2003-2007)
+4 Geoid undulation at AD ELEV PSN 98ft
+5 MAG VAR/ Annual change 10°W (2024) / 3'W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Hokkaido Airports Co., Ltd
+New Chitose Airport Office 
+ANNEX bldg 987-22, Bibi, Chitose-city, Hokkaido
+TEL : 0123(46)2970
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Civil Aviation Bureau, Ministry of Land, Infrastructure, Transport And Tourism
+New Chitose Airport Office 
+New Chitose Airport, Bibi, Chitose-city, Hokkaido
+TEL : 0123(23)4101 (2330-0815UTC MON THRU FRI)
+1 AD Administration H24
+2 Customs and immigration Customs: 1900-1415
+Immigration: 2100-1500
+3 Health and sanitation Quarantine(human): 1915-1315
+Quarantine(animal): 2330-0800
+Quarantine(plant): 2330-0900
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7A T S H 2 4  
+8 Fuelling 2100-1500
+9 Handling Ask AD Administration
+10 Security 2200-1400
+11 De-icing H24
+12 Remarks Nil
+(EFF:10 JUL 2025) 10/7/25
+
+
+=== Page 2 ===
+RJCC AD2-2 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD 2.4 HANDLING SERVICES AND FACILITIES
+RJCC AD 2.5 PASSENGER FACILITIES
+RJCC AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 Cargo-handling facilities All the modern institutions t hat deal with the weight thing to a Boeing B747 type 
+freighter
+2 Fuel/ oil types Fuel Grades : JET A and JET A-1
+Oil grades : Turbine grades only available
+3 Fuelling facilities/ capacity Hydrant refuelin g and tank truck refueling / No limitation
+4 De-icing facilities Available. Coordinate with ground handling company.
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels At Airport, Hotels in Chitose, Sapporo and Tomakomai
+2 Restaurants Available, Not continuou s, during scheduled flight hours only
+3 Transportation Busses and Taxis to Chitose, Sapporo and Muroran, Chitose airport railway 
+station
+4 Medical facilities Hospit al in Chitose city 7km
+5 Bank and Post Office At airport
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3
+Water-supply truck
+Lighting power supply truck
+Emergency medical equipmemts conveyance truck
+3 Capability for removal of disabled
+aircraft
+Nil
+4 Remarks Nil
+(EFF:16 DEC 2010) 18/11/10
+
+
+=== Page 3 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-3
+RJCC AD 2.7 SEASONAL AVAILABILITY-CLEARING
+RJCC AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Types of clearing equipment Snow removal equipment :
+• Snow plows 21
+• Snow blowers 10
+• Snow sweepers 20
+• Loaders 14
+• Motor graders 6
+• Dump trucks 19
+• Salt spreader 4
+• Swamp bulldozer 2
+2 Clearance priorities 1-1) RWY01L/19R, TWY A2, A12 and D5-D12
+1-2) RWY01R/19L, TWY A2, A12, B2, B12 and D5-D12
+1-3) TWY A2, A12, D5-D12, B2, B12, (a part of A4, A5 or A9, A9S, A10), 
+(a part of B4, B5 or B9, B9S, B10)
+2) TWY D1-D4, Q1, Q2, H1, H4, H6, H7, T1-T4, J1-J8, K3, K4-K6,
+　 L3-L7, G, M5-M7 and APRON
+3 Remarks Seasonal avail ability : All seasons
+Snow removal will be commenced, in case of the snow depth is greater than or 
+equal to the prohibited depth for scheduled flight to take off or to land.
+1 Apron surface and strength Surface: Concrete
+Strength: 
+• SPOT 0 - 27     Concrete   PCR925/R/B/W/T
+• SPOT 63 - 71   Concrete   PCR1132/R/B/W/T
+• SPOT DA1       Concrete   PCR1132/R/B/W/T
+• SPOT 44 - 62   Concrete   PCR885/R/B/W/T
+• SPOT 80 - 91   Concrete   PCR1132/R/B/W/T
+2 Taxiway width, surface and 
+strength
+A1   30m   Asphalt   PCR876/F/C/X/T
+A2   34m   Asphalt   PCR932/F/C/X/T
+A3   34m   Asphalt   PCR1079/F/C/X/T
+A4   32m   Asphalt   PCR1061/F/C/X/T
+A5   30m   Asphalt   PCR611/F/C/X/T
+A6   30m   Asphalt   PCR848/F/C/X/T
+A7   34m   Asphalt   PCR611/F/C/X/T
+A8   30m   Asphalt   PCR1018/F/C/X/T
+A9   30m   Asphalt   PCR671/F/C/X/T
+A9S 30m   Asphalt   PCR671/F/C/X/T
+A10 30m   Asphalt   PCR671/F/C/X/T
+A11 31m   Asphalt   PCR631/F/C/X/T
+A12 32m   Asphalt   PCR1033/F/C/X/T
+B2   30m   Asphalt   PCR739/F/C/X/T
+B3   30m   Asphalt   PCR1079/F/C/X/T
+B4   30m   Asphalt   PCR613/F/C/X/T
+B5   30m   Asphalt   PCR709/F/C/X/T
+B7   30m   Asphalt   PCR613/F/C/X/T
+B9(between RWY01R/19L and B9S)
+30m   Asphalt PCR709/F/C/X/T
+B9(between RWY01L/19R and B9S)
+30m   Asphalt   PCR768/F/C/X/T
+B9S 30m   Asphalt   PCR709/F/C/X/T
+B10(between RWY01R/19L and B10S)
+30m   Asphalt   PCR768/F/C/X/T
+B10(between RWY01L/19R and B10S)
+30m   Asphalt PCR709/F/C/X/T
+B10S 30m  Asphalt   PCR709/F/C/X/T
+B11 30m   Asphalt   PCR631/F/C/X/T
+B12 30m   Asphalt   PCR739/F/C/X/T
+E2, E5, E6   23m Asphalt   PCR424/F/D/X/T
+E3, E4   26m Asphalt   PCR465/F/D/X/T
+E8   23m Asphalt   PCR828/F/D/X/T
+E9   26m Concrete PCR1071/R/B/W/T
+F      34m   Asphalt   PCR802/F/C/X/T
+G     30m Asphalt   PCR782/F/C/X/T
+Q1   34m Asphalt   PCR719/F/C/X/T
+Q2   34m Asphalt   PCR1003/F/C/X/T
+H1   34m Asphalt   PCR739/F/C/X/T
+H2   34m Asphalt   PCR1189/F/C/X/T
+H3   34m Asphalt   PCR1079/F/C/X/T
+H4   54m Asphalt   PCR683/F/C/X/T
+H6   48m Asphalt   PCR783/F/C/X/T
+H7   30m Asphalt   PCR681/F/C/X/T
+J1   30m Asphalt   PCR593/F/C/X/T
+J2 - J7 30m Concrete PCR925/R/B/W/T
+J8   30m Concrete PCR1132/R/B/W/T
+T1 - T4 30m Concrete PCR925/R/B/W/T
+K1   30m Asphalt   PCR493/F/C/X/T
+K2   30m Asphalt   PCR785/R/B/W/T
+K3   34m Asphalt   PCR774/F/C/X/T
+K4   30m Asphalt   PCR695/F/C/X/T
+Concrete   PCR925/R/B/W/T
+K5   30m Concrete PCR925/R/B/W/T
+K6   30m Asphalt   PCR1079/F/C/X/T
+Concrete   PCR925/R/B/W/T
+(EFF:10 JUL 2025) 10/7/25
+
+
+=== Page 4 ===
+RJCC AD2-4 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+D1   30m   Asphalt   PCR679/F/C/X/T
+D2   30m   Asphalt   PCR1003/F/C/X/T
+D3, D4   30m   Asphalt   PCR783/F/C/X/T
+D5 - D12   30m   Asphalt   PCR695/F/C/X/T
+L1   30m   Asphalt   PCR1298/F/C/X/T
+L2   34m   Asphalt   PCR933/F/C/X/T
+L3   45m   Asphalt   PCR593/F/C/X/T
+L4   55m   Asphalt   PCR593/F/C/X/T
+L5   52m   Asphalt   PCR709/F/C/X/T
+L6   52m   Asphalt   PCR978/F/C/X/T
+L7   43m   Asphalt   PCR1079/F/C/X/T
+M2, M3   23m   Asphalt   PCR302/F/D/X/T
+M4, M5   23m   Asphalt   PCR428/F/D/X/T
+M6, M7   23m   Asphalt   PCR490/F/D/X/T
+M8   23m   Concrete   PCR1071/R/B/W/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints (Spot NR)
+0: 424724.28N,1414038.96E
+1: 424724.66N,1414041.83E
+2: 424724.70N,1414044.72E
+3: 424724.25N,1414047.25E
+5: 424723.63N,1414049.45E
+6: 424722.84N,1414051.62E
+7: 424721.63N,1414053.50E
+8: 424720.00N,1414055.15E
+9: 424718.19N,1414056.38E
+10: 424716.18N,1414057.09E
+11: 424714.13N,1414057.34E
+12: 424712.11N,1414056.82E
+14: 424710.47N,1414055.92E
+15: 424708.96N,1414054.77E
+16: 424707.45N,1414053.31E
+17: 424706.22N,1414051.48E
+18: 424705.37N,1414049.51E
+19: 424704.75N,1414047.61E
+20: 424656.46N,1414049.08E
+21: 424656.25N,1414051.29E
+22: 424655.65N,1414053.92E
+23: 424654.66N,1414056.33E
+24: 424653.34N,1414058.44E
+25: 424651.70N,1414100.17E
+26: 424649.78N,1414101.44E
+27: 424647.78N,1414102.04E
+ 44:   424823.60N,1414015.59E
+ 45:   424821.27N,1414016.00E
+ 46:   424818.94N,1414016.41E
+ 47:   424816.13N,1414016.90E
+ 48:   424813.80N,1414017.31E
+ 49:   424811.47N,1414017.72E
+50: 424804.63N,1414023.17E
+51: 424802.37N,1414023.57E
+52: 424800.12N,1414023.96E
+53: 424757.87N,1414024.36E
+54: 424755.62N,1414024.76E
+55: 424753.37N,1414025.15E
+56: 424750.93N,1414025.58E
+57: 424748.49N,1414026.01E
+58: 424746.04N,1414026.44E
+59: 424743.60N,1414026.87E
+60: 424741.16N,1414027.30E
+61: 424738.72N,1414027.73E
+62: 424736.23N,1414028.17E
+63: 424719.08N,1414029.65E
+64: 424717.25N,1414029.85E
+65: 424714.92N,1414030.26E
+66: 424712.59N,1414030.67E
+67: 424710.26N,1414031.08E
+68: 424707.93N,1414031.49E
+69: 424705.61N,1414032.02E
+70: 424703.28N,1414032.44E
+71: 424700.95N,1414032.85E
+80: 424735.06N,1414104.35E
+81: 424736.36N,1414104.12E
+82: 424737.67N,1414103.89E
+83: 424738.97N,1414103.66E
+84: 424741.08N,1414103.22E
+85: 424742.74N,1414103.00E
+86: 424745.75N,1414057.22E
+87: 424747.40N,1414056.86E
+90: 424734.61N,1414055.46E
+91: 424736.94N,1414055.05E
+6R e m a r k s N i l
+(EFF:26 DEC 2024) 26/12/24
+
+
+=== Page 5 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-5
+RJCC AD 2.9 SURFACE MOVEMENT GUIDANCE AND
+CONTROL SYSTEM AND MARKINGS
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/parking guidance system of 
+aircraft stands
+ACFT stand ID signs: spot NR0 - NR27, NR50 - NR71, 
+                                           NR80 - NR87, NR90, NR91
+Visual docking guidance system: spot NR0 - NR19, NR63 - NR71 
+                                                     (See attachment)
+2 RWY and TWY markings and 
+LGT
+RWY: RWY01L/19R, RWY01R/19L
+(Marking): RWY designation, RWY CL, RWY THR, Aiming point, TDZ, 
+                 RWY side stripe 
+(LGT): REDL, RENL, RTHL, WBAR, RCLL, RTZL, 
+Takeoff Hold Lights (RWY status LGT)(RWY01L/19R, see attached chart)
+TWY: ALL TWY (EXC E2, E3, E5 AND M2)
+(Marking): TWY side stripe, TWY CL, RWY HLDG PSN
+(LGT): TWY edge LGT
+TWY: ALL TWY(EXC E2, E3, E5, L1, L2, M2, K1 and K2)
+(LGT): TWY CL LGT
+TWY: at entrances of each TWY
+(LGT)Taxiing guidance sign
+TWY: A1 - A12, B2 - B12
+(LGT): RWY guard LGT
+TWY: A1 - A12, B2 - B5
+(LGT): Stop bar LGT
+TWY: A1, A2, A3, A4, A9, A10, A11, A12, B2, B3, B4, B5, B7, B9, B9S, B10, 
+B10S, B11, B12
+(LGT): Runway Entrance Lights(RWY status LGT)
+(see attached chart)
+3 Stop bars Stop Bar Lights Operations
+1) Stop bar lights are installed at each taxi holding position associated with 
+Runway 01L/19R.
+2) Stop bar lights will be operated when the visibility or the lowest RVR of 
+runway 01L/19R is at or less than 600m.
+3) Stop bar lights on taxiways A2 through A4, A10 through A12 and B2 through 
+B5 are controlled individually by ATC.
+4) Stop bar lights on taxiways A1, A5 through A9S are not controlled individually 
+by ATC.
+5) During the period Stop Bar Lights operated, taxiways A1, A5 through A9S are
+not available for departure aircraft.
+4 Remarks (Marking) Overrun area, ACFT PRKG PSN
+(LGT)  Apron flood LGT  
+Runway Guard Lights Operations:
+During the period of winter(Between DEC. and MAR.), all Runway Guard Lights
+turn on in the daytime regardless of visibility condition.
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 6 ===
+RJCC AD2-6 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+19
+L
+19
+R
+01
+R
+01
+L
+B2
+A2 4 A1A
+A9
+B9
+B4 B5 B7 B9S
+B12
+A12
+B10S
+A10
+B10
+RWY Entrance Lights (REL)
+NOTE: The TWY names and RWY HLDG PSN markings in this ATTACHMENT are depicted only for the TWYs where REL are installed.
+Takeoff Hold Lights (THL)
+RWY HLDG PSN marking
+Runway Entrance Lights (REL) and Takeoff Hold Lights (THL)
+Figure 1
+19
+R
+B2
+A2 NR1 THL
+NR2 THL
+4A1A
+B4 B5
+NR4 THL
+Figure 201
+L
+A9
+B9
+A12
+B12B10SB9SB7
+A10
+B10
+NR5 THL NR6 THL NR8 THL
+B3
+A3
+B3
+A3
+NR3 THL
+A11
+B11
+A11
+B11
+NR7 THL
+(EFF:7 AUG 2025) 10/7/25
+
+
+=== Page 7 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-7
+VISUAL DOCKING GUIDANCE SYSTEM
+1. General
+(1) Aircraft parking stands NR0 - NR19, NR63 - NR71, are equipped with a visual docking guidance system.
+The pilots of an arriving aircraft assigned to park at one of  these parking stands can use this system to be guided and stop th e
+aircraft at the correct parking position.
+(2) This system is operational only in the automatic mode and in an event of a system failure, the aircraft shall be manually guided by
+a marshaller to the stopping position.
+(3) The visual docking guidance system consists of a display screen for pilots and a laser scanner. The system detects and analyses
+the aircraft type of an approaching aircraft, tracks it through the laser scanner, and displays these results on the display screen.
+(4) The display screen indicates the following information:
+a) type of the approaching aircraft
+b) deviation from the lead-in center line
+c) distance to the stopping position
+The above information is provided equally to the pilots on both left seat and right seat.
+2. Aircraft Type lndication
+(1) An operator on ground shall input the aircraft type into the system before the aircraft approaches the parking stand.
+Upon accepting the input, the system carries out internal calibr ation, starts the laser scanner  simultaneously, and indicates t he
+aircraft type according to the input. The sy stem then will begin to indicate yellow lead-in arrows scrolling upwards prompting the
+aircraft to proceed. (Fig.1, Fig.2)
+(2) When the laser scanner detects the approaching aircraft, the display screen will indicate the aircraft type, a "T" bar, and a lead-in
+upward arrow in yellow.
+(3) At least until the approaching aircraft arrives at a point 15 meters before the stopping position, the system will identify the aircraft
+type and will compare with the previously input aircraft type. If these data match, the system will continue its operation. If they do
+not match, the display screen will indicate "STOP" with a red border, and "ID FAIL" simultaneously. (Fig.3)
+NOTE: At this moment, the pilots must stop the aircraft immediately.
+When the operator re-input the correct aircraft type into the s ystem and the system finds it correct, it resumes normal operati ons
+indicating the correct aircraft type on its display screen.
+B777 ʵ200
+Fig. 1 Fig. 2
+Fig. 1 Fig. 2
+STOP
+ID
+FAIL
+Fig. 3
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 8 ===
+RJCC AD2-8 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+3. Taxiing and Lateral Center line Guidance
+(1) While taxiing the aircraft using the system, the pilots s hould maneuver the aircraft at a low speed to the stopping positio n. In an
+event when "SLOW" is indicated on the di splay screen, the pilots should further  decelerate the taxiing speed to avoid
+overshooting. (Fig.4)
+(2) Deviation of an upward yellow arrow from the center line of  "T" indicates the deviation of the approaching aircraft relativ e to the
+center line of the parking stand either to right or left. Fu rther, an additional flashing red ar row on the either side indicate s the
+required direction for the aircraft to turn(Fig.5, Fig.6) and indicate numerical value of remaining distance. (Fig.7, Fig.8)
+SLOW
+Fig. 4
+B777 B777 8.0m 4.5m
+Fig. 6Fig. 5 Fig. 7 Fi g. 8
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 9 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-9
+4. Stop Guidance
+(1) When the approaching aircraft is within 20 meters from the stopping position, the shaft of the illuminated "T" will start to reduce in
+its length from the bottom to indicate the approaching rate of the aircraft, indicating the remaining distance to the stopping position
+successively. (Fig.9, Fig.10, Fig.11, Fig12) As the aircraft approaches the stopping position, the shaft of the illuminated "T" retract
+one row for every 0.3m.
+At aircraft parking stands when the approaching aircraft is within 30 meters from the stopping position, display of digital countdown
+will start.
+As the aircraft approaches the stopping position, a digital countdown shows the distance to stop position numerically, for every 1.0
+meters (from 30 to 5 meters to the stop position), for every 0.5 meters (from 5 to 2 meters to the stop position) or for every 0.1
+meters (from 2 to 0 meters to the stop position).
+(2) When the aircraft reaches the stopping position, a message "STOP" will be displayed on the screen with a red border. (Fig.13)
+(3) When the aircraft is stopped at the correct stopping position, a message "OK" will be displayed on the screen in several seconds.
+(Fig.14)
+(4) When the operator applies chocks, and switches on "CHOCK ON" switch, the display screen will display "CHOCK ON." (Fig.15)
+B777 B777 16m 1.8m
+Fig. 10Fig. 9 Fig. 11 Fi g. 12
+Fig. 13
+STOP
+OK
+Fig. 15
+CHOCK
+ON
+Fig. 14
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 10 ===
+RJCC AD2-10 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+(5) If the aircraft stops at a position beyond the correct stopp ing position, a message "TOO FAR" will be displayed on the scre en.
+(Fig.16)
+5. Cautions and Safety
+(1) When the system displays an incorrect aircraft type, or w hen such a message as "STOP", "ID FAIL", or "WAIT" appears on the
+display screen, the pilots should stop the aircraft immediately. (Fig.3, Fig.13, Fig.17)
+(2) During heavy fog, rain or snow the visibility for the docking system can be reduced. When the system is activated and in capture
+mode, the display will deactivate the floating arrows and show "SLOW" (Fig.18). The message will be superseded by the closing
+rate bar as soon as the system detects the approaching airc raft. The pilot must not proceed beyond the bridge, unless the
+"SLOW" text has been superseded by the closing rate bar.
+TOO
+FAR
+Fig. 16
+Fig. 17
+WAIT
+SLOW
+Fig. 18
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 11 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-11
+RJCC AD 2.10 AERODROME OBSTACLES
+RJCC AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office NEW CHITOSE
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+NEW CHITOSE
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided P,Ja,En
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, Ps, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Doppler Radar for Airport weather (See attached chart)
+9 ATS units provided with information TWR, APP , ATIS
+10 Additional information 
+(limitation of service, etc.)
+Nil
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 12 ===
+RJCC AD2-12 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+㪬㪧㪧㪜㪩㩷㩷㪣㪠㪤㪠㪫㩷㪑㩷㪈㪍㪇㪇㪽㫋㩷㩷㪸㪹㫆㫍㪼㩷㩷㪝㪠㪜㪣㪛㩷㩷㪜㪣㪜㪭㩷㩷㪣㪜㪭㪜㪣
+㪣㪦㪮㪜㪩㩷㩷㪣㪠㪤㪠㪫㩷㪑㩷㪝㪠㪜㪣㪛㩷㪜㪣㪜㪭㩷㩷㪣㪜㪭㪜㪣
+㪊㪍
+㪩
+㪈㪏
+㪣
+㪛㪼㫋㪼㪺㫋㫀㫆㫅㩷㪘㫉㪼㪸㩷㪽㫆㫉㩷㪛㪼㫇㪸㫉㫋㫀㫅㪾㩷㪘㫉㪼㪸㪛㪼㫋㪼㪺㫋㫀㫆㫅㩷㪘㫉㪼㪸㩷㪽㫆㫉㩷㪘㫉㫉㫀㫍㫀㫅㪾㩷㪘㫉㪼㪸
+㪈㪥㪤
+㪈㪥㪤㪈㪅㪈㪌㪥㪤
+㪈㪅㪈㪍㪥㪤
+㪈㪥㪤
+㪈㪥㪤
+㪈㪥㪤
+㪈㪥㪤
+㪇㪈
+㪣
+㪇㪅㪋㪐㪥㪤
+㪈㪐
+㪩
+㪇㪈
+㪩
+㪈㪐
+㪣
+㪇㪅㪋㪊㪥㪤
+㪝㪠㪜㪣㪛㩷㩷㪜㪣㪜㪭㩷㩷㪎㪇㪽㫋
+㪇㪅㪎㪋㪥㪤
+Airspace for the advisory service
+concerning low level wind shear
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 13 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-13
+RJCC AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of 
+TDZ
+of precision APP RWY
+12 3 4 5 6
+01L 352.62° 3000×60 PCR 1157/F/C/X/T
+Asphalt Concrete
+424541.90N
+1414134.17E
+97.7ft
+THR ELEV 62FT
+TDZ ELEV 66FT
+19R 172.62° 3000×60 PCR 1157/F/C/X/T
+Asphalt Concrete
+424718.36N
+1414117.18E
+98.2ft
+THR ELEV 82FT
+TDZ ELEV 65FT
+01R 352.62° 3000×60 PCR 1150/F/C/X/T
+Asphalt Concrete
+424543.15N
+1414147.25E
+97.7ft
+THR ELEV 57.4FT
+TDZ ELEV 66FT
+19L 172.62° 3000×60 PCR 1150/F/C/X/T
+Asphalt Concrete
+424719.56N
+1414130.28E
+98.1ft
+THR ELEV 77.1FT
+TDZ ELEV 74FT
+Slope of RWY
+Strip
+Dimensions
+(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+SEE ATTACHED CHART 3120×300
+3120×300
+3120×300
+3120×300
+192×300
+190×(MNM:120 MAX:300)*
+183×(MNM:210 MAX:300)*
+240×300
+*For detail, ask airport administrator
+RWY grooving:
+  Runway 01L/19R 3000×60m
+  Runway 01R/19L 3000×60m
+RWY 01L
+RWY 19R
+62ft
+82ft
+0m 3000m
+0.2%
+.
+.
+RWY 01R
+RWY 19L
+57.4ft
+77.1ft
+0m 3000m
+0.2%
+.
+.
+(EFF:26 DEC 2024) 26/12/24
+
+
+=== Page 14 ===
+RJCC AD2-14 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD 2.13 DECLARED DISTANCES
+RJCC AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator TORA (m) TODA (m) ASDA (m) LDA (m) Remarks
+12 3 4 5 6
+01L
+TWY:A11
+TWY:A10
+TWY:A9S
+TWY:A9
+TWY:A8
+TWY:A7
+19R
+TWY:A3
+TWY:A4
+TWY:A5
+TWY:A6
+TWY:A7
+01R
+TWY:B11
+TWY:B10
+TWY:B9
+TWY:B7
+19L
+TWY:B3
+TWY:B4
+TWY:B5
+TWY:B7
+3000
+2745
+2452
+2050
+1929
+1600
+1440
+3000
+2725
+2485
+2079
+1648
+1440
+3000
+2735
+2120
+1530
+1440
+3000
+2688
+2100
+1599
+1440
+3000
+2745
+2452
+2050
+1929
+1600
+1440
+3000
+2725
+2485
+2079
+1648
+1440
+3000
+2735
+2120
+1530
+1440
+3000
+2688
+2100
+1599
+1440
+3000
+2745
+2452
+2050
+1929
+1600
+1440
+3000
+2725
+2485
+2079
+1648
+1440
+3000
+2735
+2120
+1530
+1440
+3000
+2688
+2100
+1599
+1440
+3000
+3000
+3000
+3000
+Nil
+Nil
+Nil
+Nil
+TORA, TODA and ASDA for TWY indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+01L PALS
+(CAT-I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+402m
+66ft
+900m 3000m
+15m
+Coded Color
+(White/Red)
+LIH
+3000m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil(*1)
+19R PALS
+(CAT-III)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+422m
+65ft
+900m 3000m
+15m
+Coded Color
+(White/Red)
+LIH
+3000m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil(*1)
+01R PALS
+(CAT-I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+401m
+66ft
+900m 3000m
+30m
+Coded Color
+(White/Red)
+LIH
+3000m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil(*1)
+19L PALS
+(CAT-I)
+570m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+441m
+67ft
+900m 3000m
+30m
+Coded Color
+(White/Red)
+LIH
+3000m
+60m
+Coded Color
+(White/Yellow)
+LIH
+Red Nil(*1)
+Remarks
+10
+Overrun area edge LGT(LEN:60m Color:Red)(*1)
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 15 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-15
+01
+L
+19
+R
+01
+R
+19
+L
+APPROACH LIGHTING SYSTEM
+LOC LOC
+LOC
+LOC
+GREEN
+RED
+GREEN
+GREEN
+GREEN
+RED
+RED
+RED
+REDRED
+RED
+THR LGT
+THR LGT
+THR LGT
+THR LGT
+SEQUENCED FLASHING LIGHTS
+(SFL-V)
+SEQUENCED FLASHING LIGHTS
+(SFL-V)
+SEQUENCED FLASHING LIGHTS
+(SFL-V)
+SEQUENCED FLASHING LIGHTS
+(SFL-V)
+300m300m
+900m570m
+300m900m
+300m
+150m
+900m
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 16 ===
+RJCC AD2-16 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJCC AD 2.16 HELICOPTER LANDING AREA
+RJCC AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics 
+and hours of operation IBN: 424632N/1414131E, FLG G "CH" EV 8.6SEC, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:Nil
+Anemometer: RWY01L: 570m from RWY 01L THR, LGTD
+RWY01R: 395m from RWY 01R THR, LGTD
+RWY19L: 387m from RWY 19L THR, LGTD
+RWY19R: 363m from RWY 19R THR, LGTD
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/    switch-
+over time
+Within 1 sec: 
+REDL, RENL, RTHL, WBAR, RCLL, RTZL(RWY01L/19R), Overrun area edge 
+LGT, PALS(RWY01L/19R), Stop bar LGT, Runway Entrance Lights, Takeoff Hold 
+Lights
+Within 15 sec: Other lights
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit 
+call sign 
+Language
+Remarks
+12 3 4 6
+CHITOSE 
+CTR
+(1)Area within a radius of 5 nm of CHITOSE ARP 
+(42 ° 48'N141 ° 40'E ).
+6000 or 
+below
+D
+CHITOSE 
+TOWER
+En(2)Area within a radius of 5 nm of New CHITOSE ARP 
+(42 ° 47'N141 ° 42'E ).
+3000 or 
+below
+exclude 
+area(1)
+CHITOSE 
+PCA
+SEE RJCC ATTACHED CHART
+C
+CHITOSE 
+APP(1)
+CHITOSE 
+TWR(2)
+En
+(1)Primary
+(2)Secondary
+CHITOSE 
+ACA
+SEE RJCC ATTACHED CHART
+E
+CHITOSE APP
+CHITOSE 
+RADAR
+CHITOSE DEP
+En
+CHITOSE 
+TCA
+SEE RJCC ATTACHED CHART E CHITOSE TCA
+En
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 17 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-17
+千歳特別管制区
+Chitose Positive Control Area
+/".& -"5&3"--*.*54
+6/*5
+1307*%*/(
+4&37*$&
+3&."3,4
+
+1SJNBSZ
+$IJUPTF"11
+.)[
+.)[
+
+4FDPOEBSZ
+$IJUPTF583
+.)[
+.)[
+.)[
+
+
+611&3-*.*5
+	".4-
+
+
+-08&3-*.*5
+	".4-
+
+.	GU
+
+
+	
+
+Ҭ
+5IFBSFBTIPXOCFMPX
+
+ࡀ
+IJUPTF
+
+ۭߤ
+ࡀ
+ݱ
+ͼҙਤΛ௨ใ͠
+Λड͚Δ͜ ͱɻ
+1JMPU PG BJSDSBGU PQFSBUJOH JO
+UIJT BSFB TIBMM DPOUBDU $IJU
+PTF "QQSPBDI PS $IJUPTF
+5PXFS GPS "5$ JOTUSVDUJPOT
+HJWJOHJOGPSNBUJPOTPOBJSDSBGU
+JEFOUJGJDBUJPO QPTJUJPOT BMUJ
+UVEFBOEQJMPUTJOUFOUJPOT
+430351N
+1414107E
+430325N
+1413459E 425635N
+1413558E
+423442N
+1413906E
+422752N
+1414005E
+422836N
+1414719E
+8000
+10006000
+3000
+EBETSU
+SAPPORO
+ENIWA
+OIWAKE
+RJCC ARP
+RJCJ ARP
+8000
+1000
+2000
+1500
+8000
+3000
+8000
+18nm
+7nm 7nm
+5nm 5nm
+11nm 11nm
+3000ft
+2000ft
+1000ft700ft
+6000ft 6000ft
+4000ft3000ft
+2000ft
+1500ft
+8000ft 8000ftZYT ZYT
+4000
+2000
+700
+2000
+700
+423519N
+1414609E
+425708N
+1414218E
+3000
+6000
+430257N
+1414810E 423048N
+1415347E
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 18 ===
+RJCC AD2-18 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+千歳進入管制区
+Chitose Approach Control Area
+HWE
+RJCO ARP
+(EXC 8000)
+FL200
+FL200
+FL160
+FL160
+8000
+(EXC 11000)
+FL200
+11000
+(EXC 13000)
+FL200
+13000
+8NM
+45NM
+45NM
+52NM
+(9)
+(8)
+(7)
+(6)
+(5)
+(4)(3)
+(2)
+(1)
+(21)
+(20)
+(19)
+(18)
+(17)
+(16)
+(15)
+(14) (13)
+(12)
+(11)
+(10)
+Point list
+431403N 1414327E
+430911N 1413325E
+430321N 1413234E
+430055N 1424535E
+431217N 1423627E
+424008N 1414046E
+431414N 1413708E
+431055N 1413659E
+425916N 1412018E
+420533N 1410152E
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+415823N 1420331E
+415105N 1420410E
+424936N 1404824E
+424829N 1403130E
+422654N 1402321E
+422858N 1410950E
+424739N 1411616E
+433818N 1410529E
+431009N 1403947E
+432714N 1413742E
+(21) 433305N 1413715E
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 19 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-19
+千歳ターミナルコントロールエリア
+Chitose Terminal Control Area
+16000
+7000
+430655N
+1412304E
+RJCO ARP
+430911N
+1413325E
+430321N
+1413234E
+425916N
+1412018E
+424936N
+1404824E
+422654N
+1402321E
+420533N
+1410152E
+422858N
+1410950E
+424739N
+1411616E
+431414N
+1413708E
+432714N
+1413742Eto
+to
+to
+to
+to
+to
+R-138
+ᶃ
+ᶄ
+ᶄ
+ᶆ
+ᶄ
+ᶅ
+ᶃ
+ᶃ
+CHITOSE PCA
+CHITOSE
+CTZ
+ARP
+CTZ:  CONTROL ZONE
+PCA:  POSITIVE CONTROL AREA
+8NM
+030˚
+070˚
+180˚
+360˚
+120˚
+140˚
+310˚
+330˚
+16000
+4000
+16000
+3000
+16000
+2000
+20000
+4000
+20000
+7000
+20000
+5000
+20000
+8001
+20000
+8001
+2999
+2001
+20000
+8001
+20000
+2000
+20000
+6000
+20000
+8000 20000
+5000
+13NM
+9NM 20NM
+8NM6NM
+20000
+3000
+20000
+11001
+20000
+8001
+2999
+2001
+ᶄ 16000
+8001 ᶆ 20000
+13001
+20000
+6001
+20000
+6001
+20000
+3000
+3999
+2000
+20000
+8001
+PRAmfMN03
+PRA
+mf
+MN02
+ˍ ᶅ 2999
+2001
+16000
+8001ˍ
+ˍ
+ˍ
+220˚
+PRAmfMN91
+EWHmfMN54
+431217N
+1423627E
+431403N
+1414327E
+431055N
+1413659E
+430055N
+1424535E
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 20 ===
+RJCC AD2-20 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP Chitose Approach 120.1MHz(1)
+124.7MHz
+121.5MHz(E)
+H24 (1)Primary
+ASR Chitose Radar 120.1MHz(1)
+119.1MHz
+119.5MHz
+124.0MHz
+125.3MHz
+134.1MHz
+121.5MHz(E)
+H24
+DEP Chitose Departure 124.7MHz H24
+TCA Chitose TCA 127.7MHz
+256.1MHz
+2300 - 1100
+SUN - THU
+TWR Chitose Tower 118.8MHz(1)
+126.2MHz
+121.5MHz(E)
+H24
+GND Chitose Ground 121.6MHz
+121.7MHz
+121.95MHz
+H24
+DLVRY Chitose Delivery 121.9MHz H24
+ATIS New Chitose Airport 128.6MHz 2200 - 1400
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 21 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-21
+RJCC AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(9°W/2016)
+MKE 116.4MHz H24 423318.02N/
+1415720.27E
+139° (MAG)/17.6NM FM ARP New 
+Chitose AP .
+DME MKE 1198MHz
+(CH-111X)
+H24 423318.02N/
+1415720.27E
+95ft
+ILS-LOC 19R ICS 111.5MHz H24 424534.34N/
+1414135.53E
+LOC: 230m(755ft) away FM RWY 01L 
+THR, Beam BRG (MAG) 182 °
+ILS-GP 19R - 332.9MHz H24 424708.31N/
+1414124.50E
+GP: 327m(1073ft) inside FM RWY 
+19R THR, 126m(413ft) E of RCL.
+ GP angle 3.0°
+  HGT of ILS REF datum 16.4m(54ft)
+ILS-DME 19R ICS 1013MHz
+(CH-52X)
+H24 424708.23N/
+1414124.76E
+95.6ft DME: 330m(1083ft) inside FM RWY 
+19R THR, 132m(433ft) E of RCL.
+IM 19R - 75MHz H24 424728.42N/
+1414115.37E
+IM: 315m(1034ft) away FM RWY19R 
+THR.
+ILS-LOC 01L ICN 110.9MHz H24 424725.86N/
+1414115.83E
+LOC: 235m(771ft) away FM RWY 19R 
+THR. Beam BRG(MAG)002 ° .
+ILS-GP 01L - 330.8MHz H24 424552.19N/
+1414138.31E
+GP: 303m(994ft) inside FM RWY 01L 
+THR, 135m(443ft) E of RCL. GP 
+angle 3.0° HGT of ILS REF datum 
+16.7m(55ft).
+ILS-DME 01L ICN 1007MHz
+(CH-46X)
+H24 424552.46N/
+1414138.65E
+80ft DME: 310m(1017ft) inside FM RWY 
+01L THR.144m(472ft) E of RCL.
+ILS-LOC 19L ICM 109.35MHz H24 424535.60N/
+1414148.58E
+LOC: 235m(771ft) away FM RWY 01R 
+THR. Beam BRG(MAG)182 °
+ILS-GP 19L - 331.85MHz H24 424709.55N/
+1414137.37E
+GP: 327m(1073ft) inside FM RWY 19L 
+THR, 120m(394ft) E of RCL.
+GP angle 3.0°, HGT of ILS REF 
+datum 16.4m(54ft).
+ILS-DME 19L ICM 1117MHz
+(CH-30Y)
+H24 424709.31N/
+1414137.54E
+88.6ft DME: 335m(1099ft) inside FM RWY 
+19L THR.123m(404ft) E of RCL
+ILS-LOC 01R ICH 110.75MHz H24 424727.12N/
+1414128.95E
+LOC: 235m(771ft) away FM RWY 19L 
+THR. Beam BRG(MAG)002 °.
+ILS-GP 01R - 330.05MHz H24 424553.36N/
+1414150.77E
+GP: 303m(994ft) inside FM RWY 01R 
+THR.120m(394ft) E of RCL.
+ GP angle 3.0° HGT of ILS REF datum 
+16.5m(54ft).
+ILS-DME 01R ICH 1131MHz
+(CH-44Y)
+H24 424553.70N/
+1414151.20E
+75ft DME: 312m(1024ft) inside FM RWY 
+01R THR, 132m(433ft) E of RCL.
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 22 ===
+RJCC AD2-22 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+VOR
+(10°W/2020)
+CHE 116.9MHz H24 424159.65N/
+1414110.20E
+DME CHE 1203MHz
+(CH-116X)
+H24 424159.65N/
+1414110.20E
+87ft DME unusable:
+210°-220° beyond 35nm BLW 3000ft.
+220°-240° beyond 30nm BLW 3000ft.
+240°-250° beyond 30nm BLW 7000ft.
+260°-270° beyond 35nm BLW 7000ft.
+270°-300° beyond 35nm BLW 9000ft.
+300°-310° beyond 35nm BLW 7000ft.
+MSAS 1575.42MHz H24 Transmitting antennas are satellite 
+based.
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 23 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-23
+NEW  CHITOSE  AIRPORT
+  ILS-LOC
+ANTENNA
+ILS  for  RWY01L
+303m
+144m
+135m
+235m3000m
+19
+ R
+01
+ L
+IM
+RWY
+ILS-GP  ANTENNA
+REMARKS  : 1.  LOC   beam  BRG (MAG) 002˚
+2. HGT  of  ILS   REF  datum 16.7m  ( 55 ft )
+3. GP   Angle 3.0˚
+4. ELEV   of    ILS - DME 24.2m ( 80 ft ) 
+235m
+  ILS-LOC
+ANTENNA
+ILS  for  RWY01R
+303m
+132m
+120m
+3000m
+01
+ R
+RWY
+ILS-GP  ANTENNA
+312m
+ILS-DME  ANTENNA
+REMARKS  :  1.  LOC   beam  BRG (MAG) 002˚
+2. HGT  of  ILS   REF  datum 16.5m  ( 54 ft )
+3. GP   Angle 3.0˚
+4. ELEV   of    ILS - DME 22.9m ( 75 ft ) 
+  ILS-LOC
+ANTENNA
+327m 315m
+330m
+3000m
+230m
+ILS  for  RWY19R
+126m132m
+19
+ RRWY
+ILS-GP  ANTENNA
+ILS-DME  ANTENNA
+REMARKS  : 1.  LOC   beam  BRG (MAG) 182˚
+2. HGT  of  ILS   REF  datum 16.4m  ( 54 ft )
+3. GP   Angle 3.0˚
+4. ELEV of ILS-DME 29.15m (95.6ft)
+19
+ L
+01
+ L
+  ILS-LOC
+ANTENNA
+327m
+335m
+3000m
+235m
+ILS  for  RWY19L
+120m
+123m
+19
+ LRWY
+ILS-GP  ANTENNA
+ILS-DME  ANTENNA
+REMARKS  : 1.  LOC   beam  BRG (MAG) 182˚
+2. HGT  of  ILS   REF  datum 16.4m  ( 54 ft )
+3. GP   Angle 3.0˚
+4. ELEV of ILS-DME 27m (88.6ft)
+01
+R
+310m
+ILS-DME  ANTENNA
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 24 ===
+RJCC AD2-24 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+1. PPR
+Aircraft operations other than scheduled flights or in an emergency
+Prior permission required for transient aircraft. 
+Call 0123-46-2970 (New Chitose AP OPS)
+2. Noise Abatement
+Landing and take-off are restricted as follows between 1300UTC and 2200UTC.
+(1) Technical landing for non-traffic purposes and training flight shall not be permitted.
+(2) The number of landing and take-off shall be limited up to 30 except aircraft in an emergency or in an unavoidable 
+situation. Furthermore, the number of landing and take-off shall be limited up to 6 between 1500UTC and 2100UTC.
+Note: Aircraft in an emergency or in an unavoidable situation shall be limited to following ones:
+a) Aircraft encountered with an abnormal situation.
+b) Aircraft whose crew or passengers are in an abnormal situation.
+c) Aircraft for the purpose of search-and-rescue mission, etc.
+d) Aircraft for typhoon evacuation or other unavoidable reasons.
+3. Use of Runway
+Landing Runway
+1) Runway 01R or 19L will be generally specified for landing unless otherwise required by ATC.
+2) In order to avoid misunderstanding of Chitose aerodrome, PALS for runway 01R or 19L will be turned on even if in 
+VMC.
+3) In case of specified landing runway 01R or 19L, PALS and PAPI for runway 01L or 19R will be normally turned off.
+Departure Runway
+Runway 01L or 19R will be generally specified for departure unless otherwise required by ATC.   
+4. A380-800 及び B747-8 に係る運用等について 4. Special notice to A380-800 and B747-8 operators
+ 1) 滑走路 1) Runway
+    (a)A380-800 及び B747-8 は、 滑走路 01L/19R に
+　 　 限り離着陸が許可される。
+(a) The only available runway for A380-800 and 
+B747-8 is 01L/19R.
+　 (b) 滑走路 01L/19R に着陸する A380-800 及び
+　 　 B747-8 は、 進入において正確な進路を維持す
+　 　るため、 デジタル ・ アビオニクスを備え且つ
+　 　作動させること。
+(b) A380-800 and B747-8 which land on RWY01L/
+19R should equip and activate Digital Avionics 
+to maintain the precise path during approach.
+ 2) 誘導路 2) Taxiway
+     (a)A380-800 及び B747-8 の地上移動については、
+　 　  別図 ”A380-800 及び B747-8 移動区域 ” に示 　
+　 される範囲内に限り許可される。
+(a) A380-800 and B747-8 ground movement is only 
+permitted within the areas shown on the attached 
+chart  "A380-800 AND B747-8 MOVEMENT 
+AREA".
+　  (b)A380-800 及び B747-8 が誘導路 L1 及び K1 の
+　 　  曲部を走行する場合、 前輪が誘導路中心線
+　 　 標識に沿っ て走行する と、 車輪軸と誘導路縁
+　　と の クリ ア ラ ン ス は4 . 5 m未 満 と な る 。こ の
+　 　 ため主車輪が誘導路縁から出ないよ う、 オー 　
+　 　 バーステア リ ングによ り走行するこ とが要求
+　　さ れ る 。
+(b) At the corner of TWY L1 and K1, the clearance 
+between the main gears of A380-800, B747-8 and 
+the edge of TWY becomes less than 4.5 meters, 
+when the nose gears of those aircraft follow 
+taxiway center line. Pilots are requested to 
+oversteer when truning into/out of taxiway, not to 
+run off the edge of taxiway.
+  3) 駐機場 3) Parking stand
+　 　 A380-800 及び B747-8 が駐機可能なスポ ッ ト
+　 　 は、 NR27、 NR47、 NR48、 NR49、 NR57 及び 　
+　　 N R 5 8で あ る 。
+Available parking stands for A380-800 and B747-8 
+are NR27, NR47, NR48, NR49, NR57 and NR58.
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 25 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-25
+19
+L
+19
+R
+01
+R
+01
+L
+TWR
+L6
+E9
+E8E6
+K4K2K1 K2K1
+8M6MM5M4
+L2 L3 L4L1
+E5E4E3E2
+M3M2
+M-SPOT
+JCG
+JSDF HANGAR
+AIS/MET
+DOMESTIC
+TERMINAL
+INTL
+TERMINAL
+De-icing Apron(De-icing one)
+18
+L
+36
+R
+B2
+A2A1
+H1 H2
+J6J4
+J3
+J2
+J1
+T4T1
+H4
+Q2
+Q1
+D1
+K3
+D2
+A4 A5 7A6A
+A9
+B9
+A8
+5B4B
+B7
+B9
+B12
+D12
+H7
+J8J8
+DA1F
+A12A11A9S
+B10
+FIRE STATION
+CARGO
+POL
+1
+6350 51 52 53 54 55 56 57 58 59 60 61 62
+84 83 82 81 8085
+8687
+64 65 66 67 68
+44 45 46 47 48 49
+023
+5
+6
+7
+8
+9
+2021
+22
+23
+24
+25
+26
+27
+10
+11
+12
+14
+15
+16
+17
+18 19
+B10
+91 90
+Areas permitted for A380-800 and B747-8
+D3
+D4 7D6D
+J7
+11D10D8D
+A380-800 AND B747-8
+ MOVEMENT AREA
+69 70 71
+A10
+L7
+K6
+G
+G
+L5
+K5
+M7
+J5
+D5
+T1 T2 T4T3
+H6
+9D
+H3
+B3
+A3
+B9S B10S
+B11
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 26 ===
+RJCC AD2-26 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+2. Taxiing to and from stands
+5. PDA (parts departing aircraft) reporting to Airport Administration
+In order to secure the safety of aircraft operations and to re ctify the issue of falling objects from aircraft operating in the  vicinity
+of New Chitose Airport, aircraft operators are required to  notify Airport Administration (Tel 0123-46-2970) of any “Parts
+Departing Aircraft” from flights operating to/from New Chitos e Airport, without delay. This information shall be shared by
+relevant parties in order to prevent recurrence of such.
+6. 補助動力装置の使用制限 6. Restrictions about the use of auxiliary power units (APU)
+　 航空機が固定動力設備付きのスポ ッ ト を使用する場
+合は、 管理者が特に必要と認める場合を除き、 次に掲
+げる時間を越えて補助動力装置を使用し てはな ら ない。
+The APU should be operated only within the following time
+periods the aircraft is on an ai rcraft parking stand with fixed
+power facilities.
+Exceptions apply when airport authority deems it necessary.
+(1) 出発予定時刻前の 30 分間 (1) Within 30 minutes prior to the estimated time of depar-
+ture (ETD).
+(2) 到着後、 固定動力設備が使用可能と なるまでに必要
+とする最小限度の時間
+(2) For the minimum time required for switching over to the 
+fixed power facilities.
+(3) 航空機が点検整備のため補助動力装置を必要とする
+場合は、 それに要する最小限度の時間
+(3) For the minimum time required for aircraft maintenance 
+purposes, if needed.
+備考 ：
+スポ ッ ト 2, 3, 5-12, 14-19 及び 69-71 は、 固定動力設備
+が設置されている。
+NOTE:
+Aircraft parking stands 2, 3, 5-12, 14-19 and 69-71 are 
+equipped with fixed power facilities.
+　 他の航空機又は障害物とのク リ ア ラ ンスの確保、及びジ ェ ッ
+ト ブ ラ ス ト による影響の回避のため、スポ ッ ト 55 から 62 にお
+ける自走アウ ト は、 次の方式に従 う こ と。 ただ し、 別途空港管
+理者の承認を受けた場合を除 く 。
+a) 自走アウ ト は、 旋回半径が ２ ６ ｍ 以下であ り、 かつ、 導
+入線直線部からの水平距離が ３ ４ ｍ の区域内での旋回が
+可能な航空機に限る こ と。
+b) スポ ッ ト における地上移動は、 ブ ラ ス ト の影響が出ない
+ことを 確 認 の 上 行うこと。
+c) 自走アウ ト の旋回は、 旋回線の起点までに開始する こ と。
+d) 旋回完了後は導入線に会合し、 導入線を導出線と し て利
+用する こ と。
+In order to keep the clearance with other aircraft or obstacles
+and avoid jet blast damage, operat ors shall comply with the
+following power-out procedure on spot NR55 through NR62.
+Although the case that approved by AD administration is
+excluded.
+a) Only the aircraft whose turning radius is within 26 meters
+and which is available to turn within the area whose
+horizontal distance from the straight part of the lead-in line
+is 34 meters is permitted to use this power-out procedure.
+b) Operators must confirm jet blast cause no damage when
+maneuvering on aircraft stands.
+c) Commence turning of the power-out procedure at or
+before the starting point of the turning line.
+d) After completing the turn, intercept the lead-in line and use
+the line as the lead-out line.
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 27 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-27
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+Nil
+Nil
+1. Use of De-icing Apron (on J8 TWY)
+When an aircraft intends to use De-icing Apron, prior coordination is required for the aircraft operator with ground handling 
+company.
+ATTACHMENT
+Turn within the area
+whose horizontal
+distance from the
+straight part of the
+lead-in line is 34 meters
+Turning line
+for
+power-out
+operation
+(Y ellow broken line)
+34m
+Stop bar
+for
+power-out
+operation
+(Y ellow line)
+Lead-in line
+(Y ellow line)
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 28 ===
+RJCC AD2-28 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+6. Taxiing - limitations
+1. Wing tip clearance at the TWY intersection (REF AD1.1.6.8)
+  Wing tip clearance at the TWY intersection between the ai rcraft holding at the stop marking on the TWY and the other
+aircraft taxiing behind it are as follows.
+(1) When B763 holding at the INNER HOLDLINE on TWY A1
+Wing Span (WS) of aircraft taxiing on TWY D3-D4 WS =<38m 38m<WS = <47m WS>47m
+Wing tip clearance *A **B **C
+(2) When B763 holding at the stop marking on TWY A2
+Wing Span (WS) of aircraft taxiing on TWY  D4 -D5 WS =<19m 19m<WS  =<36m WS>36m
+Wing tip clearance *A *B *C
+(3) When B738 holding at the stop marking on TWY A2 - A4
+Wing Span (WS) of aircraft taxiing on TWY D4-D7 WS =<52m 52m<WS = <69m WS>69m
+Wing tip clearance *A *B *C
+(4) When B738 holding at the stop marking on TWY A10
+Wing Span (WS) of aircraft taxiing on TWY D10-D11 WS =<54m 54m<WS  =<71m WS>71m
+Wing tip clearance *A *B *C
+(5) When B763 holding at the stop marking on TWY A11
+ 
+Wing Span (WS) of aircraft taxiing on TWY D11-D12 WS =<19m 19m<WS  =<36m WS>36m
+Wing tip clearance *A *B *C
+Legend: 
+  *A : wing tip clearance >= 15m  
+  *B : 6.5m =< wing tip clearance <15m
+**B : 10.5m =< wing tip clearance < 15m
+  *C : wing tip clearance < 6.5m
+**C : wing tip clearance < 10.5m
+2. On TWY D1 and J1 ( See attached chart)
+All aircraft taxiing on D1 or J1 TWY should pay special attention to the vehicles which frequently cross D1 or J1 TWY.
+D1、 J1 を走行する全ての航空機は、 当該誘導路を頻繁に横断する車両に十分注意する こ と。
+DOMESTIC
+TERMINAL
+INTL
+TERMINAL
+K4
+L3 L4
+AIS/MET
+J6J4
+J3
+J2
+J1
+T1
+Q2
+Q1
+D1
+K3
+D2
+F
+CARGO
+1
+63 64 65 66 67 68
+0
+2
+3
+5
+6
+7
+8
+9 10 11 12 14
+15
+16
+17
+18
+19
+91 90
+The vehicles crossing area
+69 70 71
+J5
+T1 T2
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 29 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-29
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJCC AD 2.21 NOISE ABATEMENT PROCEDURES
+3. Restricted taxiways
+While taxiing in the apron area, follow yellow guideline strictly.
+In addition, taxiing behind the spot from 63 to 68, 90 and 91, in order to keep clearance between other aircraft or obstacle, 
+the aircraft with wingspan of 63m or longer and less than 65 m shall reduce taxiing speed and fo llow the taxiway center line
+strictly.
+Nil
+Nil
+Ask AD administration
+1. 標準計器出発方式及び標準到着経路の使用
+空港周辺地域における航空機騒音を減少させるため、 22 時以
+降翌朝 7 時までの間において、すべてのジェ ッ ト機は、緊急ま
+たはやむを得ない状況にある航空機を除き、以下の標準計器出
+発方式及び標準到着経路に従う こ と。
+  1) 滑走路 01R/01L から離陸する場合
+　    NAGANUMA DEPARTURE または HOKUTO DEPARTURE
+  2) 滑走路 19R/19L から離陸する場合
+      YUFUTSU DEPARTURE または HOKUTO DEPARTURE
+  3) 滑走路 01R/01L へ着陸する場合
+      YUKII WEST ARRIVAL または YUKII EAST ARRIVAL
+  4) 滑走路 19R/19L へ着陸する場合
+      KAORY ALFA ARRIVAL, KAORY BRAVO ARRIVAL, 
+　    NACKS ALFA ARRIVAL, NACKS BRAVO ARRIVAL, 
+      NAGANUMA NORTH ARRIVAL, CHITOSE ARRIVAL, 
+      YUBARI ARRIVAL または KURIS ARRIVAL
+      
+注）　
+ I)  22 時以降翌朝 7 時までの間においては、 視認進入は許可
+　さ れ な い 。
+ II) 「緊急またはやむを得ない状況にある航空機は」 以下に限
+   られる。
+　 　 　 1) 異常事態に遭遇し た航空機
+　 　 　 2) 乗務員または乗客に異常事態が発生し た航空機
+　 　 　 3) 捜索救難業務等に従事する航空機
+　 　 　 4) 管制上の必要性またはその他の理由によ り、 上記
+        以外の経路を飛行することが必要な航空機
+1. Use of SIDs and STARs for Noise Abatement
+In order to reduce aircraft noise around the airport, all jet 
+aircraft are requested to fly via the following SIDs and STARs 
+during the hours from 1300 UTC (2200JST) to 2200 UTC 
+(0700 JST) excepting aircraft in an emergency or in an 
+unavoidable situation.
+1) Take off from runway 01R/01L :
+NAGANUMA DEPARTURE or HOKUTO DEPARTURE
+2) Take off from runway 19R/19L :
+YUFUTSU DEPARTURE or HOKUTO DEPARTURE
+3) Landing on runway 01R/01L :
+YUKII WEST ARRIVAL or YUKII EAST ARRIVAL
+4) Landing on runway 19R/19L :
+KAORY ALFA ARRIVAL, KAORY BRAVO ARRIVAL, 
+NACKS ALFA ARRIVAL, NACKS BRAVO ARRIVAL, 
+NAGANUMA NORTH ARRIVAL, CHITOSE ARRIVAL, 
+YUBARI ARRIVAL or KURIS ARRIVAL
+Note :
+I) Visual approach shall not be permitted during the hours from 
+1300 UTC (2200 JST) to 2200 UTC (0700 JST).
+II) "Aircraft in an emergency or in an unavoidable situation" as
+described above shall be limited to the followings :
+1) Aircraft encountered with an abnormal situation
+2) Aircraft in which abnormal situation arose among crew 
+or passengers
+3) Aircraft operating for the purpose of search-and-rescue 
+activities etc...
+4) Aircraft which need to follow the routes other than the 
+above mentioned SIDs and STARs due to request by 
+ATC or other reasons
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 30 ===
+RJCC AD2-30 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD 2.22 FLIGHT PROCEDURES
+1. TAKE OFF MINIMA
+RWY
+REDL & RCLL
+AVBL
+REDL or RCLL
+AVBL
+REDL & RCLL
+OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF 
+ALTN AP 
+FILED
+01L
+0´-500m
+*0´-300m
+**0´-200m
+0´-400m 0´-600m 0´-600m - 0´-800m
+19R
+0´-500m
+*0´-300m
+**0´-200m
+0´-400m 0´-600m 0´-600m - 0´-800m
+01R 0´-500m
+*0´-300m 0´-400m 0´-600m 0´-600m - 0´-800m
+19L 0´-500m
+*0´-300m 0´-400m 0´-600m 0´-600m - 0´-800m
+OTHER
+01L
+AVBL LDG MINIMA
+19R
+01R
+19L
+NOTE: SIDs are designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+*Applicable when two RVRs available.
+**Applicable when three RVRs available.
+2. TAKE OFF MINIMA for RNAV DEPARTURE  
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN 
+AP FILED
+01L/
+19R
+A,B,C
+400m
+*200m
+**150m
+400m
+*200m
+400m
+*250m
+400m
+*250m - 500m
+D
+400m
+*250m
+**200m
+400m
+*250m
+400m
+*300m
+400m
+*300m - 500m
+01R A,B,C,D 400m 400m 400m 400m - 500m
+19L A,B,C,D 400m 400m 400m 400m - 500m
+OTHER
+01L
+A,B,C,D AVBL LDG MINIMA
+19R
+01R
+19L
+*Applicable when LVP/LVPD IN FORCE.
+**Applicable when LVP/LVPD IN FORCE and MULTIPLE RVRs AVAILABLE.
+3. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with CHITOSE Radar are lost for 1 minute,squawk Mode A/3 Code 7600 and ;
+(I) 1. Contact CHITOSE Radar/Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to CHITOSE VOR/DME at last assigned altitude or 7,000 feet whichever is higher, and 
+    execute instrument approach.
+(II) Procedures other than above will  be issued when situation required.
+(EFF:15 JUN 2023) 18/5/23
+←
+
+
+=== Page 31 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-31
+4. Category II/III Operations at New Chitose Airport
+4.1 Facilities
+The following facilities are available:
+Runway 19R
+(1) ILS Runway 19R-CAT III
+(2) Lighting system Runway 19R-CAT III
+(3) RVR by forward-scatter meters (the touchdown zone, the mid-point and stop-end of the runway)
+4.2 Conditions
+A. The following systems must be operative:
+For ILS RWY19R approach (CAT II) For ILS RWY19R approach (CAT III)
+(1) ILS comprising;
+• ILS-LOC 19R with standby transmitter
+• ILS-GP 19R with standby transmitter
+(When any standby transmitters unserviceable, 
+downgrade ILS-CAT I.)
+• IM19R(When IM unserviceable, RA could be used as an 
+alternate method)
+• ILS-DME 19R
+(1) ILS comprising;
+• ILS-LOC 19R with standby transmitter(including far field 
+monitor)
+• ILS-GP 19R with standby transmitter
+(When any standby transmitters or far field monitor 
+unserviceable, downgrade ILS-CAT I.)
+• ILS-DME 19R
+(2) Lighting systems comprising;
+• PALS 19R (including side row barrettes)
+• High INTST REDL
+• High INTST RTHL
+• RCLL and RTZL
+(2) Lighting systems comprising;
+• PALS 19R (including side row barrettes)
+• High INTST REDL
+• High INTST RTHL
+• RCLL and RTZL
+(3) Secondary power supply (3) Secondary power supply
+(4) RVR by forward-scatter meters at the touchdown zone 
+and either (the mid-point or stop-end of the runway).
+(4) RVR by forward-scatter meters at the touchdown zone,   
+mid-point and stop-end of the runway.
+B. The following information must be currently available:
+1) Surface wind speed and direction
+2) RVR
+C.ITEM A and/or B are not met, the relevant information will be notified to the pilots as soon as practicable.
+4.3 Precision Approach Terran Chart
+See RJCC AD2.24.
+4.4 Operating Minimum
+Approach minima stated in RJCC AD2.24 (Instrument Approach Chart) are observed.
+4.5 LVP
+LVP will be available when the following conditions are met;
+1) Ceiling is at or less than 200ft and/or RVR is at or less than 550m.
+2) Facilities listed 4.1. above are operational.
+3) ILS Critical Area is protected.
+In order to protect ILS Critical Area for the succeeding arrival aircraft, an arrival aircraft may be given the following  instruction 
+by ATC:
+  “ REPORT OUT OF ILS CRITICAL AREA ”
+The exit taxiway center line lights are fi xed alternate green and yellow inside the ILS Critical Area. If an aircraft is given the
+above instruction, she is expected to ad vise the ATC when the taxiway center line lights change from alternate green and
+yellow to steady green.
+4.6  Approval for CAT II/III Operations
+Operators must obtain operational approval from the State of Registry or the State of Operator, as appropriate, to conduct
+CAT II/III Operations. (See GEN1.5)
+(EFF:15 JUN 2023) 18/5/23
+→
+
+
+=== Page 32 ===
+RJCC AD2-32 AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+4.7  Taxiway available for CAT II/III Operations
+ Exit taxiway: A7 - A12
+5. LVTO at New Chitose Airport
+5.1. Facilities
+The following facilities are available:
+RWY 01L RWY 19R
+• Lighting system RWY 01L for LVTO
+• RVR by forward-scatter meters 
+(the touchdown zone, the mid-point and stop-end of the
+runway)
+• Lighting system RWY 19R for LVTO
+• RVR by forward-scatter meters 
+(the touchdown zone, the mid-point and stop-end of the
+runway)
+5.2. Conditions
+A. The following systems must be operative:
+For LVTO
+(1) Lighting system comprising;
+• High INTST REDL
+• High INTST RENL
+• RCLL
+(2) Secondary power supply
+B. The following information must be currently available:
+a) Surface wind speed and direction
+b) RVR or VIS
+C. ITEM A and/or B are not met, the relevant information will be notified to the pilots as soon as practicable.
+5.3. Operating Minima
+Take-off minima stated in AD2.22(TAKE-OFF MINIMA) are observed.
+5.4. LVP/LVPD
+LVP/LVPD will be available when th e following conditions are met:
+a)RVR is at or less than 550m.
+b)Facilities listed 5.1 above are operational.
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 33 ===
+AIP Japan
+NEW CHITOSE
+Civil Aviation Bureau,Japan
+RJCC AD2-33
+RJCC AD 2.23 ADDITIONAL INFORMATION
+RJCC AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Aerodrome Chart -1
+Aerodrome Chart -2
+Aerodrome Obstacle Chart -ICAO type A (RWY01L/19R)
+Aerodrome Obstacle Chart -ICAO type A (RWY01R/19L)
+Aerodrome Obstacle Chart -ICAO type B 
+Precision Approach Terrain Chart(precision approach CAT II and III runways)
+Standard Departure Chart- Instrument (CHITOSE)*
+Standard Departure Chart- Instrument (KURIS)*
+Standard Departure Chart- Instrument (TOKACHI)*
+Standard Departure Chart- Instrument (TEKKO)*
+Standard Departure Chart- Instrument (MUKAWA)*
+Standard Departure Chart- Instrument (TOBBY)*
+Standard Departure Chart- Instrument (HAKODATE)*
+Standard Departure Chart- Instrument (NAGANUMA)*
+Standard Departure Chart- Instrument (YUFUTSU)*
+Standard Departure Chart- Instrument (HOKUTO)*
+Standard Departure Chart- Instrument (SAVIT)*
+Standard Departure Chart- Instrument (RNAV)
+Standard Arrival Chart- Instrument (YUKII)
+Standard Arrival Chart- Instrument (CHITOSE, YUBARI, NAPRO, KURIS)
+Standard Arrival Chart- Instrument (RNAV RWY01L)
+Standard Arrival Chart- Instrument (RNAV RWY01R)
+Standard Arrival Chart- Instrument (RNAV RWY19L)
+Standard Arrival Chart- Instrument (RNAV RWY19R)
+Instrument Approach Chart (ILS Z or LOC Z RWY01L)
+Instrument Approach Chart (ILS Y or LOC Y RWY01L)
+Instrument Approach Chart (ILS Z or LOC Z RWY01R)
+Instrument Approach Chart (ILS Y or LOC Y RWY01R)
+Instrument Approach Chart (ILS Z or LOC Z RWY19L)
+Instrument Approach Chart (ILS Y or LOC Y RWY19L)
+Instrument Approach Chart (RNP RWY19L)
+Instrument Approach Chart (VOR Z RWY19L)*
+Instrument Approach Chart (VOR Y RWY19L)*
+Instrument Approach Chart (ILS Z or LOC Z RWY19R (CAT II & III))
+Instrument Approach Chart (ILS Y or LOC Y RWY19R (CAT II & III))
+Instrument Approach Chart (ILS X or LOC X RWY19R (CAT II & III))
+Instrument Approach Chart (ILS W or LOC W RWY19R (CAT II & III))
+Instrument Approach Chart (VOR RWY19R)*
+Instrument Approach Chart (VOR A)*
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+*: Designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+(EFF:16 MAY 2024) 16/5/24
+
+
+=== Page 34 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AERODROME CHART
+19
+L
+19
+R
+01
+R
+01
+L
+NEW  CHITOSE  AIRPORT
+ELEV21.3m (69.8ft)
+STOP
+1伽9
+1伽9伽7
+1佇92佇83佇74佇65佇56佇47佇38佇29佇1
+9佇1
+9伽1
+9伽1
+8佇2
+7伽3
+7伽3
+6佇4 4佇6
+3伽7
+2佇8
+TWR
+AGR
+JBARWIND SPEED
+METER
+RVR
+CEILO METER
+L6
+E9
+E8E6
+K4
+K2K1
+8M6MM5M4
+L2 L3 L4L1
+E5E4E3E2
+M3M3M2
+PAR
+RVR
+WIND SPEED METER
+M-SPOT
+JCG
+WDI
+CEILO METEROVERRUN AREA
+EDGE LIGHTS
+AGR
+JBAR
+JSDF HANGAR
+P$3,$1*/(Û
+MEHT 15.8m (52ft)
+382.6m inside fm THR
+AIS/MET
+DOMESTIC
+TERMINAL
+INTL
+TERMINAL
+De-icing Apron
+(De-icing one)
+APPROACH LIGHTS 903m
+WITH SEQUENCED FLASHING LIGHTS
+300m
+18
+L
+36
+R
+WDI
+WDI
+B2
+A2
+A1
+H1 H2
+J5J4
+J3
+J2
+J1
+J7
+T4
+6H4H
+Q2
+Q1
+D1
+K3
+D3
+D2
+A4 A5 7A6A
+A9
+B9
+A8
+5B4B
+B7
+B9S
+B12
+D10D9
+H7
+J8J8
+DA1
+D8D7D4
+F
+A12A11A9S
+B10S
+WIND SPEED METER
+WIND SPEED
+METER
+RUNWAY GUARD LIGHTS
+(B2到B12)
+STOP BAR LIGHTS
+(B2到B5)
+GP
+GP
+IBN
+FIRE STATION
+RVR
+WIND SPEED METER
+GP
+GP
+RVR
+WDI
+WDI
+STOP BAR LIGHTS
+(A1到A12)
+RUNWAY GUARD LIGHTS
+(A1到A12)
+P$3,$1*/(Û
+MEHT 20.0m(66ft)
+402m inside fm THR
+3$3,$1*/(Û
+MEHT 20.2m(67ft)
+401m inside fm THR  
+RVR
+ARP 424631N
+P$3,$1*/(Û
+MEHT 20.3m(67ft)
+441m inside fm THR P$3,$1*/(Û
+MEHT 19.7m(65ft)
+422m inside fm THR
+CARGO
+POL
+1
+50 51 52 53 54 55 56 57 58 59 60 61 62
+84 83 82 81 8085
+8687
+44 45 46 47 48 49
+0
+2
+3
+5
+6
+7
+8
+9
+20
+21
+22
+23
+24
+25 26 2710 11 12 14
+15
+16
+17
+18
+19
+1414133E
+P$3,$1*/(Û
+MEHT 15.7m (52ft)
+376.5m inside fm THR
+A10
+B10
+91 90
+RVR
+RVR
+2伽8
+CHANGE : Shape of TWY A11, B11 installed. VAR. RWY HLDG PSN markings and RWY guard LGT, stop bar LGT. 
+63 64 65 66 67 68 69 70 71
+K6
+STOP
+TAXIING GUIDANCE SIGN
+01R     (for taxiway B12)
+19L     (for taxiway B2) 
+RUNWAY -HOLDING POSITION MARKINGS
+and RUNWAY GUARD LIGHTS
+COMMON WAYS OF IT'S MARKINGS AND LIGHTS
+Runway-holding position markings and
+Runway guard lights are located on
+taxiway B2 and B12; their locations
+are 75m off the runway centerline of 01R/19L.
+0.9m
+TAXIWAY
+0.9m
+RUNWAY SIDE
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW) 
+RUNWAY -HOLDING POSITION MARKINGS
+and RUNWAY GUARD LIGHTS
+COMMON WAYS OF IT'S MARKINGS AND LIGHTS
+Runway-holding position markings and
+Runway guard lights are located on
+taxiway B7 through B12; their locations
+are 75m off the runway centerline of 01L/19R.
+0.9m
+RUNWAY SIDE
+0.9m
+TAXIWAY
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW) 
+2.10m
+2.10m
+19R (for taxiway A2)
+19R-01L (for taxiway A3 through A11)
+01L (for taxiway A12)
+01L -19R    (for taxiway B3, B4, B5) 
+19R         (for taxiway B2) 
+RUNWAY -HOLDING POSITION MARKINGS
+and STOP BAR LIGHTS
+COMMON WAYS OF IT'S MARKING AND LIGHTS
+Runway-holding position markings and
+Stop bar lights are located on
+taxiway B2 through B5
+Runway guard lights are located
+on taxiway B2 through B5; their locations
+are 75m off the runway centerline of 01L/19R.
+0.9m
+REDRUNWAY SIDE
+STOP BAR LIGHTS
+0.9m
+3.0m
+TAXIWAY
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW) 
+RUNWAY -HOLDING POSITION MARKINGS
+and STOP BAR LIGHTS
+COMMON WAYS OF IT'S MARKINGS AND LIGHTS
+Runway-holding position markings and
+Stop bar lights are located on
+taxiway A2 through A12
+Runway guard lights are located
+on taxiway A2 through A12; their locations
+are 90m off the runway centerline of 01L/19R.
+Runway-holding position markings OUTER HOLD LINE and
+Stop bar lights are located on
+taxiway A1
+Runway guard lights are located
+on taxiway A1; their locations
+are 158m off the runway centerline of 01L/19R.
+0.9m
+RED
+TAXIWAY
+STOP BAR LIGHTS
+0.9m
+3.0m
+RUNWAY SIDE
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW) 
+2.10m
+2.10m
+19R 19R
+RUNWAY -HOLDING POSITION MARKINGS
+and RUNWAY GUARD LIGHTS
+COMMON WAYS OF IT'S MARKINGS AND LIGHTS
+Runway-holding position markings INNER HOLD LINE and
+Runway guard lights are located on
+taxiway A1; their locations
+are 90m off the runway centreline of 01L/19R.
+0.9m
+TAXIWAY
+0.9m
+RUNWAY SIDE
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW) 
+INNER HOLDLINE
+OUTER HOLDLINE
+19
+R Use of hold line on TWY A1
+Departure aircraft instructed to short of RWY 19R
+on TWY A1 should hold at inner hold line unless specified
+by ATC.
+MARKING  AIDS
+19
+L
+19
+R
+01
+L
+01
+R
+2.10m
+L7
+G
+G
+K6K5
+L5
+M7
+D11 D12
+H3
+J6
+T2 T3 T4
+D5 D6
+T1
+T4
+J4
+T1
+CEILOMETERCEILOMETER
+CEILOMETER
+CEILOMETER
+B9 B10
+B3
+A3VAR 10° W (2024)
+ANNUAL CHANGE 3
+' W
+01L        (for taxiway B12)
+01L -19R    (for taxiway B7, B9
+B10, B10S, B11)
+B11
+(EFF:28 NOV 2024) 31/10/24
+RJCC AD2.24-ADC-1
+NEW CHITOSE
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+19
+L
+19
+R
+01
+R
+01
+L
+NEW  CHITOSE  AIRPORT
+ELEV21.3m (69.8ft)
+ 
+TWR
+K4
+K2K1
+M3
+M3
+M-SPOT
+JCG
+JSDF HANGAR AIS/MET
+DOM
+TERMINAL
+INTL
+TERMINAL
+B2
+A2A1
+H1 H2
+J6J4
+J3
+J2
+J1
+J7
+T4
+T1
+L6
+7H6H4H
+Q2
+Q1
+D1
+K3
+D3
+A4 A5 A6 A7
+A9
+A8
+5B4B
+B7
+B9S
+B9
+B12
+D12D11D10D9D8
+J8
+D7D5
+D4
+D2
+F
+A12A11
+A9S
+A10
+B10S
+B10
+FIRE STATION
+CARGO
+POL
+AD CHART
+6.821SITA New Chitose Airport
+DLVRY 121.9
+121.6
+Chitose Delivery
+GND
+118.8
+126.2
+Chitose Ground
+TWR Chitose Tower
+87 86
+85 84 83 82 81 80
+91 90
+K2K1 2L1L
+50 51 52 53 54 55 56 57 58 59 60 61 62
+44 45 46 47 48 49
+J6J4
+J3
+J2
+J1
+J7
+T4
+T1
+1 023
+5
+6
+7
+8
+9
+2021
+22
+23
+24
+25
+26
+27
+10
+11
+12
+14
+15
+16
+17 18 19
+)zHM( ycneuqerFnoitangiseD Call Sign
+RJCC / NEW CHITOSE
+63 64 65 66 67 68 69 70 71
+L6
+K6
+K6
+121.7121.95
+L7
+K6
+G
+G
+L5
+K5
+L5
+K4 K5
+J5
+H3
+D6
+T2 T3
+T4
+J8
+J5
+T2 T4T3
+CHANGE : Shape of TWY A11, B11 installed. VAR. 
+T1
+T1
+B3
+A3
+B9 B10VAR 10° W (2024)ANNUAL CHANGE 3
+' W
+B11
+(EFF:28 NOV 2024) 31/10/24
+RJCC AD2.24-ADC-2
+NEW CHITOSE
+
+
+=== Page 37 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+CHITOSE LINE
+NATIONAL ROUTE 36
+01䠨 3000mX60mASPHALT CONCRETE 19R
+←182°002°→ 53
+84
+59
+104
+57
+99
+11
+122
+12
+125
+13
+130
+14
+132
+64
+78
+25
+120
+66
+95
+31
+132
+70
+120
+72
+72
+141
+71
+133
+38
+143
+42
+132
+40
+129
+48
+160
+49
+167
+46
+153
+45
+138
+47
+144
+50
+146
+60
+109
+7
+110
+65
+84
+41
+153
+68
+132 26
+130
+69
+132
+67
+128
+63
+72
+62
+67
+10
+118
+61
+114
+55
+89
+54
+86
+52
+84
+(EFF:23 APR 2020) 23/4/20
+RJCC AD2.24-AOC-1
+NEW CHITOSECHANGE:Update
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+CHITOSE LINE
+19䠨
+01R
+NATIONAL ROUTE 36
+←182°002°→
+3000mX60mASPHALT CONCRETE
+2
+79
+3
+89
+6
+126
+11
+11
+122
+12
+125
+13
+130
+14
+132
+19
+75
+18
+66
+30
+130
+28
+125
+27
+124
+22
+112
+34
+131
+20
+99
+36
+135
+43
+14144
+146
+39
+39
+130
+42
+132
+40
+12948
+160
+49
+167
+46
+153
+45
+13850
+146
+51
+157
+29
+128
+8
+127
+9
+136
+37
+147
+35
+131
+33
+132
+23
+122
+21
+107
+32
+131
+5
+122
+10
+118
+4
+90
+1
+79
+(EFF:23 APR 2020) 23/4/20
+RJCC AD2.24-AOC-2
+NEW CHITOSECHANGE:Update
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+HORIZONTAL  SURFACE
+CHITOSE LINE
+TOMAKOMAI CITY
+CHITOSE CITY
+HOKKAIDO EXPRESSWAY
+ABIRA TOWN
+19
+䠨
+01
+䠨
+01
+R
+19
+R
+MAMACHI
+RIVER
+SEKISHOU LINE
+BIBI
+RIVER
+CHITOSE
+RIVER
+RIV
+TOSE
+ER
+LAKE UTONAI
+LAKE HAKUCHOU
+TOASA RIVER
+←002°
+182°→
+←002°
+182°→
+HORIZONTAL SCALE
+FEET
+METERS
+79
+90
+84
+86
+89 94
+114
+118
+67
+72
+58
+263
+269
+62
+61
+61
+220
+243
+318
+251
+221
+122
+129
+151
+152
+131
+110
+156
+128
+158
+162
+132
+131
+135
+132
+107
+130
+132 132
+131
+147
+153
+84
+125
+153
+143
+129
+136
+127
+117
+128
+157
+146
+144
+138
+153
+167
+160
+129
+132
+130
+143
+133
+141
+120
+141
+135
+132
+99
+131
+95
+120 124
+125
+130
+66
+7578
+132
+130
+125
+122
+126
+89
+84
+79
+RJCC AD2.24-AOC-3
+NEW CHITOSE
+23/4/20(EFF:23 APR 2020)
+CHANGE:Update
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+PRECISION APPROACH TERRAIN CHART
+(EFF:16 AUG 2018) 19/7/18
+→ RJCC AD2.24-PATC-1
+NEW CHITOSE
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW CHITOSE SID
+D10 CHE/5NM FM RWYend
+3000
+D4 CHE
+MKE R330
+1NM FM RWY end/
+D6.3 CHE
+CHITOSE FOUR DEPARTURE
+   RWY01L/01R:  Climb RWY HDG until 1NM FM RWY end/CHE 6.3DME,
+                            turn right, direct to  CHE VOR/DME within CHE
+                            10DME (5NM FM RWY end).
+                            Cross  4DME  prior  to  CHE VOR/DME  (MKE R330)  at  or
+                            above 3000FT.
+   RWY19R/19L:  Climb direct to CHE VOR/DME.
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-1
+NEW CHITOSE
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+6NM
+1.8NM FM RWY end/
+D2.0 CHE
+D27.4 CHE
+KURIS
+011°
+R011
+KURIS  SEVEN  DEPARTURE
+   RWY 01L/01R:     Climb....   
+   RWY 19R/19L:     Climb  RWY HDG  until 1.8NM  FM  RWY  end/CHE                 
+                            2.0DME, turn left within 6NM,...
+                            ...via CHE R011 to KURIS.
+DISESOTIHC WEN / CCJR
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-2
+NEW CHITOSE
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW  CHITOSE SID
+1NM FM RWY end/
+D6.3 CHE
+1.8NM FM RWY end/
+D2.0 CHE
+BOKSO
+D35.0 CHE
+RAKNO
+D35.0 CHE
+HDG
+130˚
+088˚
+097˚
+TOKACHI TWO DEPARTURE
+   RWY 01L/01R:    Climb RWY HDG until 1NM FM RWY end/CHE 6.3DME, 
+                            turn right HDG 130˚ to intercept and  proceed via...
+  RWY 19R/19L:    Climb RWY HDG until 1.8NM FM RWY end/CHE 2.0DME,  
+turn left, via...                            
+          ...CHE R088 to BOKSO or CHE R097 to RAKNO.
+                               Cross CHE R088/12DME or CHE R097/12DME at or below 
+             5000FT.
+                               Cross CHE R088/22DME or CHE R097/22DME between
+           
+      9000FT and 11000FT.
+110005000
+9000
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+D22 CHED12 CHE
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-3
+NEW CHITOSE
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW CHITOSE SID
+1NM FM RWY end/
+D6.3 CHE D10 CHE/
+5NM FM RWY end
+D4 CHE
+256˚
+TEKKO ONE DEPARTURE
+   RWY01L/01R : Climb RWY HDG until 1NM FM RWY end/CHE 6.3DME, 
+                            turn right, direct to CHE VOR/DME 
+                            within CHE 10
+DME (5NM FM RWY end), cross 4DME prior to
+                            CHE VOR/DME (MKE R330) at or above 3000FT,...
+   RWY19R/19L : Climb direct to CHE VOR/DME,...          
+                            ...via CHE R256 to TEKKO.
+3000
+R330
+TEKKO
+D29.5 CHE
+D41.6 SPE
+D45.0 HWE
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-4
+NEW CHITOSE
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW CHITOSE SID
+1NM FM RWY end/
+D6.3 CHE
+D12 MKE
+D10 MKE
+D39.2 MKE
+1.8NM FM RWY end/
+D2.0 CHE
+D10 CHE/5NM FMRWYend
+140˚
+202°
+161˚
+3000
+TOBBY
+11000
+RWY01L/01R: Climb RWY HDG until 1NM FM RWY end/CHE 6.3DME, turn 
+right within CHE 10DME(5NM from RWY end), via MKE R341 
+to MKE VOR/DME, via MKE R202 to TOBBY.
+Cross MKE R341/12DME at or above 3000FT, cross MKE            
+VOR/DME at or below 11000FT.
+RWY19R/19L: Climb RWY HDG until 1.8NM FM RWY end/CHE 2.0DME, turn  
+left, via MKE R320 to MKE VOR/DME, via MKE R202 to 
+TOBBY.
+                        Cross MKE R320/10DME at or above 3000FT, cross MKE 
+VOR/DME at or below 11000FT. 
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+MUKAWA EIGHT DEPARTURE
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-5
+NEW CHITOSE
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW CHITOSE SID
+185°
+TOBBY EIGHT DEPARTURE
+    RWY01L/01R : Climb RWY HDG until 1NM FM RWY end / CHE 6.3DME, turn right,  
+direct to CHE VOR/DME within CHE 10DME (5NM FM RWY end), 
+via CHE R185 to TOBBY. 
+Cross 4DME prior to CHE VOR/DME (MKE R330) at or above 
+3000FT, cross CHE R185/6DME at or above 6000FT, cross CHE    
+R185/11DME at or above 7000FT.
+    RWY19R/19L : Climb direct to CHE VOR/DME, via CHE R185 to TOBBY.
+Cross CHE R185/27DME at or below 11000FT.
+Note :  Aircraft unable to comply with the flight restriction, infrom ATC for alternate 
+          procedure before departure.
+TOBBY
+D10 CHE/
+5NM FM RWY end
+1NM FM RWY end/
+D6.3 CHE
+3000
+D4 CHE
+D11 CHE
+D27 CHE
+D47.0 CHE
+D6 CHE
+R330
+6000  for RWY 01L/01R
+7000   for   RWY 01L/01R
+11000  for   RWY 19L/19R
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-6
+NEW CHITOSE
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+DISESOTIHC WEN / CCJR
+1NM FM RWY end/ 
+D6.3 CHE
+3000
+D4 CHE
+D10 CHE/  
+5NM FM RWY end
+R330
+224° 
+RWY01L/01R: Climb via RWY HDG until 1NM FM RWY end/CHE 6.3DME, 
+turn right, direct to CHE VOR/DME within CHE 10DME  (5NM 
+FM RWY end), via CHE R224 to HWE VOR/DME. 
+                        Cross 4DME prior to CHE VOR/DME (MKE R330) at or above 
+3000FT, cross CHE R224/8.0DME at or above 3600FT. 
+RWY19R/19L: Climb direct to CHE VOR/DME, via CHE R224 to HWE 
+VOR/DME.
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+VOR/DME
+HAKODATE
+112.3   HWE
+300FT
+CH–70X
+ÛÝ1ÛÝ(
+HAKODATE SEVEN DEPARTURE
+Cross CHE R224/8.0DME at or above 3600FT.
+3600
+D8.0 CHE
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-7
+NEW CHITOSE
+
+
+=== Page 49 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW CHITOSE SID
+D19 CHE
+1NM FM RWY end/
+D6.3 CHE
+MKE R335
+9000
+185°
+CHE
+ R021
+RWY 01L/01R: Climb RWY HDG until 1NM FM RWY end/CHE 6.3DME, turn 
+right to intercept and proceed via CHE R021 to CHE 15DME,   
+turn left, via CHE R005 to CHE VOR/DME within CHE 19DME.
+Cross CHE R021/15DME at or above 3000FT, cross CHE 
+R005/10DME (MKE R335) at or above 6000FT, cross CHE 
+VOR/DME at or above 9000FT.
+RWY  19R/19L:    Not established. 3000
+D15 CHE
+6000
+D10 CHE
+NAGANUMA  FIVE  DEPARTURE
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+021°
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-8
+NEW CHITOSE
+
+
+=== Page 50 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+DIS   ESOTIHC WEN / CCJR
+TOBBY
+MKE R320
+8000
+202°
+136°
+RWY  01L/01R: Not established.
+RWY 19R/19L: Climb direct to CHE VOR/DME until 1.5 DME prior to CHE 
+VOR/DME (until crossing MKE R320), turn left, via CHE R136 
+(MKE R315) to MKE VOR/DME or after MKE VOR/DME, via 
+MKE R202 to TOBBY .
+  Cross CHE R136/5
+DME (MKE R315/10DME) at or above  
+3000FT, cross MKE R202/7DME at or below 8000FT.
+D1.5 CHE
+3000
+YUFUTSU FIVE DEPARTURE
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+D5 CHE
+D10 MKE
+D7 MKE
+D39.2 MKE
+(CHE R136/MKE R315)
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-9
+NEW CHITOSE
+
+
+=== Page 51 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+DISESOTIHC WEN / CCJR
+1NM FM RWY end
+D6.3 CHE
+D1.5 CHE
+D15 CHE
+3000
+D5 CHE
+D10 MKE
+136°
+352°
+352°
+7000
+KURIS
+D37.7 MKE
+D13 MKE
+RWY 01L/01R: Climb RWY HDG until 1NM FM RWY end/CHE 6.3DME, turn 
+right, via CHE R021, via MKE R352 to KURIS.
+Cross CHE R021/15DME at or above 3000FT , cross KURIS at 
+or above 7000FT.
+RWY 19R/19L: Climb direct to CHE VOR/DME until 1.5DME prior to CHE 
+VOR/DME (until crossing MKE R320), turn left, via CHE R136 
+(MKE R315) to CHE 5DME (MKE 10DME), turn left, via MKE 
+R352 to KURIS.
+Cross CHE R136/5DME (MKE R315/10DME) at or above 
+3000FT, cross MKE R352/13DME at or above 5000FT, cross 
+KURIS at or above 7000FT.
+MKE R352
+MKE R315
+5000
+3000
+MKE R320
+CHE R021
+HOKUTO  SEVEN  DEPARTURE
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+021°
+(CHE R136)
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-10
+NEW CHITOSE
+
+
+=== Page 52 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW CHITOSE SID
+SAVIT TWO DEPARTURE
+RWY01L/01R: Climb via RWY HDG until 1NM FM RWY end/CHE 6.3DME, 
+turn right, direct to CHE VOR/DME within CHE 10DME  (5NM 
+FM RWY end), via CHE R224 to SAVIT. 
+                        Cross 4DME prior to CHE VOR/DME (MKE R330) at or above
+3000FT, cross CHE R224/8.0DME at or above 3600FT. 
+RWY19R/19L: Climb direct to CHE VOR/DME, via CHE R224 to SAVIT. 
+Cross CHE R224/8.0DME at or above 3600FT.
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+1NM FM RWY end/ 
+D6.3 CHE
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+3000
+D4 CHE
+D10 CHE/  
+5NM FM RWY end
+R330
+224°
+3600
+D8.0 CHE
+SAVIT
+D16.5 CHE
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-11
+NEW CHITOSE
+
+
+=== Page 53 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJCC / NEW CHITOSE RNAV SID
+Û
+ T)8.5
+Û
+Û
+ T)
+4.0Û
+Û T)
+4.7
+Û
+Û
+Û
+500
+500
+Note : 5.0% climb gradient required up to 500FT.
+RWY01L/01R : &OLPERQ+'*ÛDWRUDEove 500FT, direct to CC01T, to CC02T, to CC03T at or above
+3000FT, to CHE.
+RWY19R/19L : &OLPERQ+'*ÛDWRUDEove 500FT, direct to CHE.
+1VANRERUTRAPED ENO UHSOS
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME
+RWY01L/01R :
+RWY01L/01R
+DER – 2.0NM FM DER
+RWY19L/19R : DER – CHE
+3.0NM to CHE – CHE
+CHE : 2.0NM FM DER – 2.0NM to CC01T
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+CC02T
+425219.6N
+1414809.7E
+CC03T
+424819.6N
+1414851.5E
+CC01T
+425143.3N
+1414146.6E
+CHITOSE(CHE)
+424159.7N
+1414110.2E
+V$5Û:
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+3000
+CHANGE : Description of VAR and PROC name. 
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-SID-12
+NEW CHITOSE
+
+
+=== Page 54 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-SID-13
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJCC / NEW CHITOSE RNAV SID
+VA
+DF
+TF
+TF
+TF
+001
+002
+003
+004
+005
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟䢢
+凟
+凟
+凟
+凟
+凟䢢
++500
+凟䢢
+凟
++3000
+凟䢢
+凟
+凟䢢
+凟䢢
+凟䢢
+凟䢢
+凟
+凟䢢
+4.7
+4.0
+8.5
+凟
+凟
+凟
+凟
+凟䢢
+凟
+CC01T
+CC02T
+CC03T
+CHE
+002
+092
+182
+231
+(352.6)
+(082.6)
+(172.7)
+(221.8)
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+VA
+DF
+001
+002
+RNAV1
+RNAV1
+凟
+凟䢢
+凟
+凟䢢
++500
+凟䢢
+凟
+凟䢢
+凟
+凟䢢
+凟
+凟䢢
+-9.1
+-9.1
+凟 182(172.6)
+凟
+凟
+SOSHU ONE DEPARTURE
+RWY01L/01R
+RWY19R/19L
+CHE
+CHANGE : Waypoint identifier(CHE).
+NEW CHITOSE
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 55 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD DEPARTURE CHART -INSTRUMENT
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+RJCC / NEW CHITOSE RNAV SID
+Û
+ T)8.5
+Û
+Û
+ T)
+4.0Û
+Û
+ T)
+20.0
+Û
+Û T)
+20.1
+Û
+Û
+ T)
+9.5
+Û
+Û T)
+4.7
+Û
+Û
+Û
+500
+500
+Note : 5.0% climb gradient required up to 500FT.
+RWY01L/01R : &OLPERQ+'*ÛDWRUDEove 500FT, direct to CC01T, to CC02T, to CC03T at or above
+3000FT, to CHE, to REZOT, to TEKKO at or above 11000FT.
+RWY19R/19L : &OLPERQ+'*ÛDWRUDEove 500FT, direct to CC06T, to REZOT, to TEKKO at or above 
+11000FT.
+REZOT TWO DEPARTURE RNAV1
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME
+RWY01L/01R, RWY19L/19RRWY01L/01R :
+MKE : 3.0NM to CC06T – 16.0NM to REZOT 
+7.0NM to REZOT – REZOT
+ZYT : 3.0NM to CC06T – 1.0NM to CC06T 
+7.0NM to REZOT – REZOT
+RWY19L/19R :
+DER – 3.0NM to CC06T
+DER – 2.0NM FM DER, 3.0NM to CHE – CHE SPE : 4.0NM to TEKKO – TEKKO
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+CC02T
+1
+(
+CC03T
+1
+(
+CC06T
+1
+(
+CC01T
+1
+(
+REZOT
+1
+(
+TEKKO
+1
+(
+CHITOSE(CHE)
+1
+(
+V$5Û:
+3000
+11000
+RWY01L/01R
+RWY19L/19R
+CHE : 2.0NM FM DER – 2.0NM to CC01T
+MKE : CHE – 18.0NM to REZOT
+ZYT : CHE – 18.0NM to REZOT
+CHANGE : Description of VAR and PROC name.  
+RJCC AD2.24-SID-14
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 56 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-SID-15
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJCC / NEW CHITOSE RNAV SID
+VA
+DF
+TF
+TF
+TF
+TF
+TF
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++500
+– 
+–
++3000
+– 
+–
++11000
+–
+–
+–
+–
+–
+–
+–
+–
+– 
+4.7
+4.0
+8.5
+20.0
+9.5
+–
+–
+–
+–
+–
+–
+–
+–
+CC01T
+CC02T
+CC03T
+REZOT
+TEKKO
+002
+092
+182
+231
+256
+256
+(352.6)
+(082.6)
+(172.7)
+(221.8)
+(246.4)
+(246.2)
+CHE
+VA
+DF
+TF
+TF
+001
+002
+003
+004
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
++500
+– 
+–
++11000
+–
+–
+–
+–
+–
+– 
+20.1
+9.5
+–
+–
+–
+–
+-9.3
+-9.3
+-9.3
+-9.3
+–
+CC06T
+REZOT
+TEKKO
+182
+269
+256
+(172.6)
+(259.9)
+(246.2)
+–
+–
+001
+002
+003
+004
+005
+006
+007
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+REZOT TWO DEPARTURE
+RWY01L/01R
+RWY19R/19L
+CHANGE : Waypoint identifier(CHE).
+NEW CHITOSE
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 57 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD DEPARTURE CHART -INSTRUMENT
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+RJCC / NEW CHITOSE RNAV SID
+)T ˚6.281(
+3.9
+˚291
+)T ˚6.281(
+9.6
+˚291
+(182.6˚ T)
+37.1192˚
+(177.6˚
+ T)
+22.5187˚
+(177.6˚ T)
+20.0187˚
+(172.7˚ T)4.0182˚(082.6˚ T)
+4.7
+092˚
+002˚
+182˚
+500
+500
+Note : 5.0% climb gradient required up to 500FT.
+RWY01L/01R : Climb on HDG002˚ at or above 500FT, direct to CC01T, to CC02T, to CC03T at or above
+3000FT, to CC04T at or above 6000FT, to CC05T at or above 7000FT, to TOBBY .
+RWY19R/19L : Climb on HDG182˚ at or above 500FT, direct to CC06T, to CC07T at or below 11000FT,
+to TOBBY .
+1VANRERUTRAPED ENO RALGGUJ
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate
+Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate 
+NAVAIDs for RNAV1
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+CC02T
+1
+(
+CC03T
+1
+(
+CC04T
+1
+(
+CC05T
+6000
+1
+(
+CC01T
+1
+(
+CC06T
+1
+(
+CC07T
+1
+(
+TOBBY
+1
+(
+VAR 9˚W 
+11000
+7000
+3000
+RWY01L/01R
+RWY19L/19R
+RWY01L/01R :
+CHE : 2.0NM FM DER – 2.0NM to CC01T
+3.0NM to CC04T – CC04T
+MKE : 4.0NM to CC05T – 23.0NM to TOBBY
+12.0NM to TOBBY – 4.0NM to TOBBY
+SPE : 18.0NM to TOBBY – 4.0NM to TOBBY
+MKE : 3.0NM to CC06T – 3.0NM to TOBBY
+ZYT : 3.0NM to CC06T – 1.0NM to CC06T
+SPE : 17.0NM to TOBBY – 3.0NM to TOBBY
+RWY19L/19R : DER – 3.0NM to CC06T
+DER – 2.0NM FM DER
+CC04T – 4.0NM to CC05T
+4.0NM to TOBBY – TOBBY
+3.0NM to TOBBY – TOBBY
+CHANGE : Description of VAR and PROC name. 
+RJCC AD2.24-SID-16
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 58 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-SID-17
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJCC / NEW CHITOSE RNAV SID
+VA
+DF
+TF
+TF
+TF
+TF
+TF
+001
+002
+003
+004
+005
+006
+007
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
++500
+ʵ
+ʵ
++3000
++6000
++7000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+4.7
+4.0
+9.3
+6.9
+37.1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+CC01T
+CC02T
+CC03T
+CC04T
+CC05T
+TOBBY
+002
+092
+182
+192
+192
+192
+(352.6)
+(082.6)
+(172.7)
+(182.6)
+(182.6)
+(182.6)
+VA
+DF
+TF
+TF
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
++500
+ʵ
+–11000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+22.5
+20.0
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+CC06T
+CC07T
+TOBBY
+182
+187
+187
+(172.6)
+(177.6)
+(177.6)
+ʵ
+ʵ
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+001
+002
+003
+004
+-9.1
+-9.1
+-9.1
+-9.1
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+JUGGLAR ONE DEPARTURE
+RWY01L/01R
+RWY19R/19L
+φ
+NEW CHITOSE
+(EFF:20 JUN 2019) 23/5/19
+→
+
+
+=== Page 59 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD DEPARTURE CHART -INSTRUMENT
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+RJCC / NEW CHITOSE RNAV SID
+(010.2˚ 
+T)
+5.8019˚
+(072.9˚ T)
+3.2
+082˚
+(04
+8.8˚ T)
+3.0
+058˚
+(010.9˚ T)
+4.0020˚
+(010.9˚ T)
+3.9020˚
+(343.0˚ T FM
+ CC01H)
+(343.1˚ T FM CC03H)9.2 (
+FM CC01H)
+24.7 (F
+M CC03H)352˚
+(126.1˚
+ T)
+3.7135˚
+002˚
+182˚
+500
+500
+Note : 5.0% climb gradient required up to 500FT.
+RWY01L/01R : Climb on HDG 002˚ at or above 500FT, direct to CC01N, to CC02N, to CC03N at or above
+3000FT, to CC01H, to KURIS.
+RWY19R/19L : Climb on HDG 182˚ at or above 500FT, direct to CC01Y , to CC02Y at or above 3000FT,
+to CC02H, to CC03H at or above 5000FT, to KURIS.
+PATR 1  VANRERUTRAPED ENO HSU
+Note 1 ) DME/DME/IRU or GNSS required.
+Critical DME
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+CC02N
+1
+(
+CC03N
+1
+(
+KURIS
+1
+(
+CC01N
+1
+(
+CC02Y
+1
+(
+CC01H
+(Only for RWY01L/01R)
+1
+(
+CC03H
+1
+(
+CC02H
+1
+(
+CC01Y
+1
+(
+VAR 9˚W 
+5000
+3000
+3000
+Inappropriate
+Navaids
+DME GAP
+See AD1.1.6.10.3. Inappropriate 
+NAVAIDs for RNAV1
+RWY01L/01R
+RWY19L/19R
+RWY01L/01R :
+SPE : 7.0NM to KURIS – KURIS
+SPE : 1.0NM to CC02H – CC02H
+7.0NM to KURIS – KURIS
+CHE : 1.0NM to CC02H – 4.0NM to CC03HRWY19L/19R : DER – 1.0NM to CC02H
+DER – 2.0NM FM DER
+CHANGE : Description of VAR and PROC name. 
+RJCC AD2.24-SID-18
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 60 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-SID-19
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJCC / NEW CHITOSE RNAV SID
+VA
+DF
+TF
+TF
+TF
+TF
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
++500
+ʵ
+ʵ
++3000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+3.0
+4.0
+3.9
+9.2
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+CC01N
+CC02N
+CC03N
+CC01H
+KURIS
+002
+058
+020
+020
+352
+(352.6)
+(048.8)
+(010.9)
+(010.9)
+(343.0)
+ʵ
+VA
+DF
+TF
+TF
+TF
+TF
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
++500
+ʵ
++3000
+ʵ
++5000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+3.7
+3.2
+5.8
+24.7
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+CC01Y
+CC02Y
+CC02H
+CC03H
+KURIS
+182
+135
+082
+019
+352
+(172.6)
+(126.1)
+(072.9)
+(010.2)
+(343.1)
+ʵ
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+001
+002
+003
+004
+005
+006
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+001
+002
+003
+004
+005
+006
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+-9.1
+PATRUSH ONE DEPARTURE
+RWY01L/01R
+RWY19R/19L
+NEW CHITOSE
+(EFF:20 JUN 2019) 23/5/19
+→
+
+
+=== Page 61 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD DEPARTURE CHART -INSTRUMENT
+DIS VANRESOTIHC WEN / CCJR
+182˚
+500
+Note : 5.0% climb gradient required up to 500FT.
+RWY19R/19L : Climb on HDG182˚ at or above 500FT, direct to CC06T, to YASKN, to MISTA, to YOSAN,
+to TOBBY .
+Y1 VANRERUTRAPED ENO NASO
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate
+Navaids
+DME GAP
+Critical DME
+MKE : 3.0NM to CC06T – 6.0NM to YASKN 
+3.0NM to YASKN – 1.0NM to YASKN
+YASKN – 3.0NM to YOSAN
+5.0NM to TOBBY – 3.0NM to TOBBY
+ZYT : 3.0NM to CC06T – 1.0NM to CC06T
+YASKN – 5.0NM to MISTA
+SPE : 5.0NM to TOBBY – 3.0NM to TOBBY
+HWE : 19.0NM to TOBBY – 17.0NM to TOBBY
+4.0NM to TOBBY – TOBBY
+RWY19L/19R : DER – 3.0NM to CC06T
+See AD1.1.6.10.3. Inappropriate
+NAVAIDs for RNAV1
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+VAR 9˚W 
+RWY19L/19R
+CC06T
+423732.8N
+1414313.3E
+(236.8˚ T
+)10.0246˚
+(214.5˚ 
+T)
+11.3224˚
+(148.9˚
+ T)
+11.6158˚
+(149.0˚ T)20.7158˚
+YASKN
+423204.9N
+1413153.3E
+MISTA
+422244.8N
+1412312.4E
+YOSAN
+421250.6N
+1413116.7E
+TOBBY
+415507.3N
+1414535.9E
+CHANGE : Description of VAR and PROC name. 
+RJCC AD2.24-SID-20
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 62 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-SID-21
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJCC / NEW CHITOSE RNAV SID
+VA
+DF
+TF
+TF
+TF
+TF
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++500
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+10.0
+11.3
+11.6
+20.7
+–
+–
+–
+–
+–
+–
+–
+CC06T
+YASKN
+MISTA
+YOSAN
+TOBBY
+182
+246
+224
+158
+158
+(172.6)
+(236.8)
+(214.5)
+(148.9)
+(149.0)
+–
+001
+002
+003
+004
+005
+006
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+Path
+Descriptor
+Serial
+Number
+Course
+[M˚(T˚)]
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+YOSAN ONE DEPARTURE
+RWY19R/19L
+NEW CHITOSE
+(EFF:20 JUN 2019) 23/5/19
+→
+
+
+=== Page 63 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD DEPARTURE CHART-INSTRUMENT
+DIS VANRESOTIHC WEN / CCJR
+DALBI ONE DEPARTURE RNAV1
+Note 1) DME/DME/IRU or GNSS required.
+Critical DME
+DME GAP
+See AD1.1.6.10.3. Inappropriate
+NAVAIDs for RNAV1
+422009.0N
+1410802.5E
+ZALAR
+DALBI
+421230.3N
+1404924.6E
+420449.2N
+1403052.4E
+VAR 10° W
+NEJIE
+423434.2N
+1414344.6E
+The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+2) RADAR service required.
+KUGIE
+422912.9N
+1413024.0E
+RWY01L/01R : Climb on HDG002° at or above 500FT, direct to CC01T, to CC02T, to CC03T at or above
+3000FT, to KUGIE, to POWAN at or above FL150, to ZALAR, to DALBI.
+RWY19R/19L : Climb on HDG182° at or above 500FT, direct to NEJIE, to POWAN at or above FL150,
+to ZALAR, to DALBI.
+Note : 5.0% climb gradient required up to 500FT.
+Inappropriate
+Navaids
+CC01T
+425143.3N
+1414146.6E
+CC02T
+425219.6N
+1414809.7E
+CC03T
+424819.6N
+1414851.5E
+FL150
+3000500
+500
+RWY01L/01R
+CHE : 2.0NM FM DER – 2.0NM to CC01T
+RWY01L/01R : 
+CHITOSE
+  990     ZYT
+CH-29X
+TACAN
+CHITOSE
+VOR/DME
+100FT
+116.9       CHE
+CH-116X
+092°
+4.7
+(082.6°T)
+182°4.0(172.7°T)
+225°23.5
+(215.5°T)
+251°
+15.8
+(241.1°T)
+250°
+15.8
+(240.9°T)
+NEIJIE-POWAN:251°(241.5°T)/30.0)
+KUGIE-POWAN:251°(241.4°T)/18.8)
+18.0NM to KUGIE - 15.0NM to KUGIE
+DER – 2.0NM FM DER
+RWY19L/19R : 
+DER – 6.0NM to NEJIE
+19.0NM to KUGIE - 18.0NM to KUGIE
+ZYT : 16.0NM to KUGIE - 13.0NM to KUGIE
+MKE : 16.0NM to KUGIE - 12.0NM to KUGIE
+RWY19L/19R
+MKE : 6.0NM to NEJIE - 2.0NM to NEJIE
+NEJIE - 26.8NM to POWAN
+002°
+182°
+POWAN
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+CHANGE : Description of VAR and PROC name. 
+RJCC AD2.24-SID-22
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 64 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-SID-23
+STANDARD DEPARTURE CHART-INSTRUMENT
+
+6HULDO
+1XPEHU
+3DWK
+'HVFULSWRU
+:D\SRLQW
+,GHQWLILHU
+)O\
+2YHU
+&RXUVH
+07
+0DJQHWLF
+9DULDWLRQ
+'LVWDQFH
+10
+7XUQ
+'LUHFWLRQ
+$OWLWXGH
+)7
+6SHHG
+.,$6
+9HUWLFDO
+$QJOH
+1DYLJDWLRQ
+6SHFLILFDWLRQ
+ 9$ ʔ  
+       51$9
+ ') &&7  ʔ       51$9
+ 7) &&7  
+       51$9
+'$/%,21('(3$5785(
+5:</5
+ 7) &&7  
+       51$9
+ 7) .8*,(  
+       51$9
+ 7) 32:$1  
+    )/   51$9
+ 7) =$/$5  
+       51$9
+ 7) '$/%,  
+       51$9
+5:<5/
+6HULDO
+1XPEHU
+3DWK
+'HVFULSWRU
+:D\SRLQW
+,GHQWLILHU
+)O\
+2YHU
+&RXUVH
+07
+0DJQHWLF
+9DULDWLRQ
+'LVWDQFH
+10
+7XUQ
+'LUHFWLRQ
+$OWLWXGH
+)7
+6SHHG
+.,$6
+9HUWLFDO
+$QJOH
+1DYLJDWLRQ
+6SHFLILFDWLRQ
+ 9$ ʔ  
+       51$9
+ ') 1(-,(  ʔ       51$9
+ 7) 32:$1  
+    )/   51$9
+ 7) =$/$5  
+       51$9
+ 7) '$/%,  
+       51$9
+5-&&1(:&+,726( 51$96,'&+$1*(1HZ352&
+NEW CHITOSE
+(EFF:20 JUN 2019) 23/5/19
+
+
+=== Page 65 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJCC AD2.24-SID-24
+STANDARD DEPARTURE CHART-INSTRUMENT
+ 
+RNAV TRANSITIONRJCC / NEW CHITOSE
+PANSY TRANSITION/BUTOS TRANSITION RNAV 1
+VAR 10°W 
+Note   1) DME/DME/IRU or GNSS required.
+           2) RADAR service required.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001
+002
+IF
+TF
+TOBBY
+228
+(218.1)NOHEY
+凟
+凟
+-9.5
+-9.5
+凟
+23.5
+凟
+凟
+凟
++FL250
+凟
+凟
+凟
+凟
+RNAV1
+RNAV1
+003 TF APIOS 凟 -9.5 33.7 凟凟 凟 RNAV1
+188
+(178.4)
+TOBBY
+415507.3N
+1414535.9E
+PANSY TRANSITION
+From TOBBY, to NOHEY at or above FL250, to APIOS, to PANSY.
+004 TF PANSY 凟 -9.5 63.5 凟凟 凟 RNAV1
+凟
+凟
+Critical DME
+DME GAP
+Inappropriate
+Navaids See AD1.1.6.10.3 Inappropriate NAVAIDs for RNAV1
+ 
+ 
+ 
+ 
+ 
+NOHEY
+413638.8N
+1412615.2E
+APIOS
+410339.3N
+1411657.4E
+PANSY
+400014.0N
+1411912.3E
+BUTOS
+392600.1N
+1412517.8E
+BUTOS TRANSITION
+BUTOS TRANSITION
+From TOBBY, to NOHEY at or above FL250, to APIOS, to PANSY, to BUTOS.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001
+002
+IF
+TF
+TOBBY
+NOHEY
+凟
+凟
+凟
+凟
+兠
++FL250
+凟
+凟
+凟
+凟
+RNAV1
+RNAV1
+003 TF APIOS 凟 凟凟 凟 RNAV1
+004 TF PANSY 凟 凟凟 凟 RNAV1
+凟
+凟
+005 RNAV1BUTOSTF 凟
+-
+-
+PANSY TRANSITION
+202
+(192.0)
+228
+(218.1)
+188
+(178.4)
+182
+(172.2)
+202
+(192.0)
+-9.5
+-9.5
+凟
+23.5
+-9.5 33.7
+-9.5 63.5
+-9.5
+凟
+凟
+34.6 凟 凟凟凟
+FL250
+CHANGE : Description of VAR.
+VOR/DME
+HAKODATE
+112.3
+300FT
+CH–70X
+ÛÝ1ÛÝ(
+23.5228°
+33.7
+202°
+63.5188°
+34.6
+182°
+HWE
+NEW CHITOSE
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 66 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD DEPARTURE CHART-INSTRUMENT
+RJCC / NEW CHITOSE RNAV TRANSITION
+SHUYU TRANSITION RNAV1
+Note   1) DME/DME/IRU or GNSS required.
+2) RADAR service required.
+Critical DME
+DME GAP
+Inappropriate
+Navaids
+-
+-
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+From SAVIT, to POWAN at or above FL150, to ZALAR, to DALBI.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF SAVIT - - -9.5 - - - - - RNAV1
+002 TF POWAN - 251
+(241.3) -9.5 17.3 - +FL150 - - RNAV1
+003 TF ZALAR - 251
+(241.1) -9.5 15.8 - - - - RNAV1
+DALBI
+420449.2N
+1403052.4E
+VAR 10° W
+SAVIT
+422827.1N
+1412830.4E
+POWAN
+422009.0N
+1410802.5E
+FL150
+ZALAR
+421230.3N
+1404924.6E
+004 TF DALBI - 250
+(240.9) -9.5 15.8 - - - - RNAV1
+CHITOSE
+VOR/DME
+100FT
+116.9       CHE
+CH-116X
+ÛÝ1ÛÝ(
+CHITOSE
+  990     ZYT
+CH-29X
+TACAN
+ÛÝ1ÛÝ(
+CHANGE : Description of 9$5DQGPROC name.
+17.3
+251°
+15.8
+251°
+15.8
+250°
+RJCC AD2.24-SID-25
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 67 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJCC AD2.24-SID-26
+STANDARD DEPARTURE CHART-INSTRUMENT
+FUNKA TRANSITION RNAV1
+2) RADAR service required.
+-
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+From TEKKO, to FUNKA, to DALBI.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF TEKKO - - -9.5 - - - - - RNAV1
+002 TF FUNKA - 256
+(246.0) -9.5 22.3 - - - -
+003 TF DALBI - 205
+(195.6) -9.5 16.8 - - - -
+TEKKO
+423007.1N
+1410431.0E
+FUNKA
+DALBI
+422100.9N
+1403658.6E
+420449.2N
+1403052.4E
+22.3
+256°
+16.8
+205°
+CHITOSE
+VOR/DME
+100FT
+116.9       CHE
+CH-116X
+ÛÝ1ÛÝ(
+CHITOSE
+  990     ZYT
+CH-29X
+TACAN
+ÛÝ1ÛÝ(
+RJCC / NEW CHITOSE RNAV TRANSITION
+Critical DMENote 1) DME/DME/IRU or GNSS required.
+DME GAP
+Inappropriate
+    Navaids
+VAR 10° W
+MRE : 12.0NM to FUNKA - FUNKA
+RNAV1
+RNAV1
+CHANGE : Description of VAR and PROC name. 
+NEW CHITOSE
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 68 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJCC / NEW  CHITOSE STAR
+YUKII EAST ARRIVAL
+YOKOHYOKOH
+YOTEI
+YUKII
+BAMBI
+NAVER
+CHE
+ R
+201
+R218
+MKE R241
+061˚
+201˚
+021˚
+021˚
+180˚
+002˚002˚
+4.95.0
+YUKII WEST ARRIVAL
+HDG270˚
+100˚
+280˚
+MHA 3000
+MAX 230KIAS
+MHA 6000
+MAX 230KIAS
+YUKII WEST ARRIVAL
+From over NAVER, via CHE R201 to intercept and proceed via MKE R241...
+for ILS Z or LOC Z RWY01L : ...to YUKII, via ICN-LOC to BAMBI.
+Cross BAMBI at 2000FT.
+for ILS Y or LOC Y RWY01L : ...to YUKII, via ICN-LOC to BAMBI.
+Cross BAMBI at or above 3000FT.
+for ILS Z or LOC Z RWY01R : ...to YOKOH, via ICH-LOC to YOTEI.
+Cross YOTEI at 2000FT.
+for ILS Y or LOC Y RWY01R :
+YUKII EAST ARRIVAL
+From over MKE VOR/DME, via MKE R180 to 8.0DME, turn right, via HDG 270˚ 
+to intercept and proceed via ...
+for ILS Z or LOC Z RWY01L :
+for ILS Y or LOC Y RWY01L :
+for ILS Z or LOC Z RWY01R :
+for ILS Y or LOC Y RWY01R :
+...to YOKOH, via ICH-LOC to YOTEI.
+Cross YOTEI at or above 3000FT.
+...ICN-LOC to YUKII, via ICN-LOC to BAMBI.
+Cross BAMBI at 2000FT.
+...ICN-LOC to YUKII, via ICN-LOC to BAMBI.
+Cross BAMBI at or above 3000FT.
+...ICH-LOC to YOKOH, via ICH-LOC to YOTEI.
+Cross YOTEI at 2000FT.
+...ICH-LOC to YOKOH, via ICH-LOC to YOTEI.
+Cross YOTEI at or above 3000FT.
+YOKOH
+D19.9 ICH182˚ 002˚
+MHA 3000
+MAX 230KIAS
+YUKII
+D20.0 ICN182˚ 002˚
+MHA 3000
+MAX 230KIAS
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+42˚42´00˝N/141˚41´10˝E
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+42˚33´18˝N/141˚57´20˝E
+D8.0 MKE
+D15.0 ICHD15.0 ICN
+D35.0 CHE
+D26.0 ICN D26.0
+ICH
+D42.0
+CHE
+(EFF:16 AUG 2018) 19/7/18
+→ RJCC AD2.24-STAR-1
+NEW CHITOSE
+
+
+=== Page 69 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+CHITOSE NR.1 ARRIVAL
+   From over CHE VOR/DME, via CHE R045 to intercept and proceed via MKE R360, 
+via MKE 31.1DME counterclockwise ARC...
+KURIS NR.1 ARRIVAL
+YUBARI ARRIVAL
+   From over NAVER, via CHE R201 to intercept and proceed via MKE R241 to MKE 
+VOR/DME, via MKE R360, via MKE 31.1DME counterclockwise ARC...
+for ILS or LOC RWY19R : ...to ISIYA.
+Cross MKE R360/25.0DME at or below 7000FT,
+cross MKE R360/30.0DME at or above 5000FT,
+cross ISIYA at or above 3000FT.
+for VOR Z RWY19L : ...to SHINE, via CHE R011 to MAOIE.
+Cross MKE R360/25.0DME at or below 7000FT,
+cross MKE R360/30.0DME at or above 5000FT,
+cross SHINE at or above 3000FT.
+cross MAOIE at 2000FT.
+for ILS or LOC RWY19R : ...to ISIYA.
+Cross MKE R360/13.0DME at or above 12000FT,
+cross MKE R360/25.0DME at or below 7000FT,
+cross MKE R360/30.0DME at or above 5000FT,
+cross ISIYA at or above 3000FT.
+for ILS or LOC RWY19R : From over KURIS, via SPE 17.7DME clockwise ARC
+to ISIYA.
+Cross ISIYA at or above 3000FT.
+for VOR Z RWY19L : From over KURIS, via CHE R011 to MAOIE via SHINE.
+Cross SHINE at or above 3000FT, cross MAOIE at 2000FT.
+for VOR Z RWY19L : ...to SHINE, via CHE R011 to MAOIE.
+Cross MKE R360/13.0DME at or above 12000FT,
+cross MKE R360/25.0DME at or below 7000FT,
+cross MKE R360/30.0DME at or above 5000FT,
+cross SHINE at or above 3000FT.
+cross MAOIE at 2000FT.
+RJCC / NEW CHITOSE STAR
+(EFF:16 AUG 2018) 19/7/18
+RJCC AD2.24-STAR-2
+NEW CHITOSE
+←
+
+
+=== Page 70 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-3
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJCC / NEW CHITOSE STAR
+100˚
+280˚
+MHA 3000
+MAX 230KIAS
+YUBARI ARRIVAL
+ISIYA
+ISIYA
+NAVER
+CHE
+VOR/DME
+KURIS
+D17.7 SPE ARC
+3000 3000
+2000
+CHE R201
+061˚
+MKE R241
+045˚
+021˚
+191˚
+191˚
+360˚
+STARs for RWY19L/19R
+KURIS NR.1 ARRIVAL
+5000
+12000
+7000
+SHINE
+SHINE
+MAOIE
+MAOIE
+R011/D12.2 CHE
+R201/D35.0 CHE
+R002/D14.2 ICS
+R131/D17.7 SPE
+R343/D31.1 MKE
+R103/D17.7 SPE
+R011/D27.4 CHE
+R352/D37.7 MKE
+R011/D20.3 CHE
+R348/D31.1 MKE
+NAVER
+D35.0 
+CHE
+201
+°
+021°
+R201
+MHA 6000
+MAX 230KIAS
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+42˚42´00˝N/141˚41´10˝E
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+42˚33´18˝N/141˚57´20˝E
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+43˚10´29˝N/141˚18´09˝E
+SPE R103
+SPE R131
+D30.0 MKE
+MKE R351MKE R347
+191˚
+191˚
+D31.1 MKE ARC
+D31.1 MKE ARC
+D13.0 MKE
+D25.0 MKE
+D42.0
+CHE
+CHITOSE NR.1
+ARRIVAL
+CHANGE : Editorial(MKE R347, MKE R351).
+NEW CHITOSE
+(EFF:7 OCT 2021) 9/9/21
+
+
+=== Page 71 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD ARRIVAL CHART-INSTRUMENT
+CHITOSE NR.2 ARRIVAL
+   From over CHE VOR/DME, via CHE R045 to intercept and proceed via MKE R360, 
+via MKE 31.2DME counterclockwise ARC to NAPRO.
+KURIS NR.2 ARRIVAL
+NAPRO EAST ARRIVAL
+   From over NAVER, via CHE R201 to intercept and proceed via MKE R241 to MKE 
+VOR/DME, via MKE R360, via MKE 31.2DME counterclockwise ARC to NAPRO.
+Cross MKE R360/25.0DME at or below 7000FT,
+cross MKE R360/30.0DME at or above 5000FT,
+cross NAPRO at or above 3000FT.
+Cross MKE R360/13.0DME at or above 12000FT,
+cross MKE R360/25.0DME at or below 7000FT,
+cross MKE R360/30.0DME at or above 5000FT,
+cross NAPRO at or above 3000FT.
+  From over KURIS, via SPE 17.7DME clockwise ARC 
+to NAPRO.
+Cross NAPRO at or above 3000FT.
+RJCC / NEW CHITOSE STAR
+RJCC AD2.24-STAR-4
+(EFF:16 AUG 2018) 19/7/18
+←
+
+
+=== Page 72 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-5
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJCC / NEW CHITOSE STAR
+100˚
+280˚
+MHA 3000
+MAX 230KIAS
+NAPRO EAST ARRIVALNAPRO
+NAVER
+CHE
+VOR/DME
+KURIS
+D17.7 SPE ARC
+3000
+CHE R201
+061˚
+MKE R241
+045˚
+021˚
+360˚
+STARs for ILS Y or LOC Y RWY19L
+KURIS NR.2 ARRIVAL
+5000
+12000
+7000
+R201/D35.0 CHE
+R103/D17.7 SPE
+R011/D27.4 CHE
+R352/D37.7 MKE
+NAVER
+D35.0 
+CHE
+201°
+021°
+R201
+MHA 6000
+MAX 230KIAS
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+SPE R103
+SPE R130
+D30.0 MKED31.2 MKE ARC
+MKE R349
+D13.0 MKE
+D25.0 MKE
+D42.0
+CHE
+CHITOSE NR.2
+ARRIVAL
+R002/D14.4 ICM
+R130/D17.7 SPE
+R344/D31.2 MKE
+CHANGE : Editorial(MKE R349).
+NEW CHITOSE
+(EFF:7 OCT 2021) 9/9/21
+
+
+=== Page 73 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJCC / L10YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+20.9
+272˚
+6.2
+185˚
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+BAMBI NORTH ARRIVAL
+BAMBI SOUTH ARRIVAL
+172˚
+185˚14.1
+3.5
+25.1031˚
+VAR 9˚  W
+201˚
+021˚
+BAMBI  SOUTH ARRIVAL
+BAMBI  NORTH  ARRIVAL
+RNAV 1
+6000
+KURIS
+GUFFI
+YOSHA
+430918.8N
+1414221.6E
+424917.5N
+1415043.5E
+HOKKI
+BAMBI
+423145.7N
+1415224.4E
+423058.8N
+1414408.7E
+NAVER
+420744.2N
+1413128.9E
+423515.3N
+1415204.4E
+2000
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+Using NAVAID
+NOT TO SCALE
+CHANGE : Description of VAR and HLDG pattern.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-STAR-6
+NEW CHITOSE
+
+
+=== Page 74 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-7
+STANDARD ARRIVAL CHART-INSTRUMENT
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+IF
+TF
+TF
+TF
+TF
+001
+002
+003
+004
+005
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++6000
+–
++2000
+–
+–
+–
+–
+–
+–
+20.9
+14.1
+3.5
+6.2
+–
+–
+Y
+–
+–
+KURIS
+GUFFI
+YOSHA
+HOKKI
+BAMBI
+–
+172
+185
+185
+272
+(162.9)
+(175.9)
+(175.9)
+(262.8)
+BAMBI SOUTH ARRIVAL
+From NAVER, to BAMBI at or above 2000FT.
+IF
+TF
+001
+002
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
++2000
+–
+–
+Distance
+(NM)
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+–
+25.1
+–
+–
+-9.3
+-9.3
+NAVER
+BAMBI
+–
+031
+(022.0)
+BAMBI NORTH ARRIVAL
+From KURIS, to GUFFI, to YOSHA at or above 6000FT, to HOKKI, to BAMBI at or above 
+2000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+CHE, MKE : 19.0NM to BAMBI - BAMBI
+NAVER - 19.0NM to BAMBI
+SPE : KURIS - 10.0NM to GUFFI
+CHE : 13.0NM to YOSHA - 3.0NM to YOSHA
+HOKKI - BAMBI
+MKE : HOKKI - BAMBI
+3.0NM to YOSHA - HOKKI
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / NEW CHITOSE RNAV STAR RWY01L
+NEW CHITOSE
+(EFF:16 AUG 2018) 19/7/18
+→
+
+
+=== Page 75 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJCC / R10YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+172˚20.9
+185˚14.1
+3.53.5
+25.1032˚
+272˚
+6.0
+185
+˚
+YOTEI  NORTH ARRIVAL
+YOTEI SOUTH ARRIVAL
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+VAR 9˚  W
+201˚
+021˚
+YOTEI  SOUTH ARRIVAL
+YOTEI  NORTH  ARRIVAL
+RNAV 1
+6000
+2000
+KURIS
+GUFFI
+YOSHA
+430918.8N
+1414221.6E
+424917.5N
+1415043.5E
+HOKKI
+YOTEI
+423145.7N
+1415224.4E
+423100.0N
+1414421.5E
+NAVER
+420744.2N
+1413128.9E
+423515.3N
+1415204.4E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+Using NAVAID
+NOT TO SCALE
+CHANGE : Description of VAR and HLDG pattern.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-STAR-8
+NEW CHITOSE
+
+
+=== Page 76 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-9
+STANDARD ARRIVAL CHART-INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+001
+002
+003
+004
+005
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++6000
+–
++2000
+–
+–
+–
+–
+–
+–
+20.9
+14.1
+3.5
+6.0
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+–
+–
+Y
+–
+–
+KURIS
+GUFFI
+YOSHA
+HOKKI
+YOTEI
+–
+172
+185
+185
+272
+(162.9)
+(175.9)
+(175.9)
+(262.8)
+YOTEI SOUTH ARRIVAL
+From NAVER, to YOTEI at or above 2000FT.
+IF
+TF
+001
+002
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
++2000
+–
+–
+–
+25.1
+-9.3
+-9.3
+–
+–
+NAVER
+YOTEI
+–
+032
+(022.3)
+YOTEI NORTH ARRIVAL
+From KURIS, to GUFFI, to YOSHA at or above 6000FT, to HOKKI, to YOTEI at or above 
+2000FT.
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+CHE, MKE : 19.0NM to YOTEI - YOTEI
+NAVER - 19.0NM to YOTEI
+SPE : KURIS - 10.0NM to GUFFI
+CHE : 13.0NM to YOSHA - 3.0NM to YOSHA
+HOKKI - YOTEI
+MKE : HOKKI - YOTEI
+3.0NM to YOSHA - HOKKI
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / NEW CHITOSE RNAV STAR RWY01R
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+NEW CHITOSE
+(EFF:16 AUG 2018) 19/7/18
+→
+
+
+=== Page 77 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD APPROACH CHART - INSTRUMENT
+RJCC / L91YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+005˚14.1
+9.8
+24.9038˚
+6.5038˚
+178˚6.4
+356˚
+YUNEY  SOUTH ARRIVAL
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+KAORY NORTH ARRIVAL
+VAR 9˚  W
+201˚
+021˚
+YUNEY  SOUTH ARRIVAL
+KAORY  NORTH  ARRIVAL
+RNAV 1
+6000
+13000
+3000
+4000
+KURIS
+GUFFI
+YOSHA
+430918.8N
+1414221.6E
+424917.5N
+1415043.5E
+KAORY 430302.3N
+1414406.7E
+YUNEY
+425848.3N
+1414742.8E
+NAVER
+420744.2N
+1413128.9E
+URESY
+422933.2N
+1414746.6E
+423515.3N
+1415204.4E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+GUFFI
+MHA 4000
+RNAV HLDG
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+185˚
+005˚
+YOSHA
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+185˚
+005˚
+NOT TO SCALE
+NOT TO SCALE
+RNAV HLDG
+Using NAVAID
+NOT TO SCALE
+CHANGE : Description of VAR and HLDG pattern.
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-STAR-10
+NEW CHITOSE
+
+
+=== Page 78 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-11
+STANDARD APPROACH CHART - INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+001
+002
+003
+004
+005
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++13000
+–
++6000
++4000
+–
+–
+–
+–
+–
+–
+24.9
+6.5
+14.1
+9.8
+–
+–
+–
+–
+–
+NAVER
+URESY
+YOSHA
+GUFFI
+YUNEY
+–
+038
+038
+005
+356
+(028.8)
+(029.0)
+(356.0)
+(346.9)
+YUNEY SOUTH ARRIVAL
+From NAVER, to URESY at or above 13000FT, to YOSHA, to GUFFI at or above 6000FT, 
+to YUNEY at or above 4000FT.
+CHE : 18.5NM to URESY - 15.5NM to URESY
+10.0NM to GUFFI - GUFFI
+MKE : 18.5NM to URESY - 3.0NM to YOSHA 
+1.0NM to YOSHA - YOSHA
+NAVER - 18.5NM to URESY
+3.0NM to YOSHA - 1.0NM to YOSHA
+YOSHA - 10.0NM to GUFFI
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / NEW CHITOSE RNAV STAR RWY19L
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Navigation
+Specification
+RNAV1
+RNAV1
+GUFFI
+YOSHA
+(356.0)
+(356.0)
+005
+005
+1.0(-14000)
+1.5(+14001)
+1.0(-14000)
+1.5(+14001)
+Path
+Hold
+Hold
+Inbound
+Course
+˚M(˚T)
+Outbound
+Time
+(MIN)
+Tur n
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+-9.3
+-9.3
+R
+R
+4000
+4000
+–
+–
+-230(-14000)
+-240(+14001)
+-230(-14000)
+-240(+14001)
+NEW CHITOSE
+(EFF:16 AUG 2018) 19/7/18
+→
+
+
+=== Page 79 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD APPROACH CHART - INSTRUMENT
+RJCC / NEW CHITOSE RNAV STAR RWY19L
+KAORY NORTH ARRIVAL
+From KURIS, to KAORY at or above 3000FT.
+IF
+TF
+-9.3
+-9.3
+001
+002
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
++3000
+–
+–
+–
+6.4
+–
+–
+KURIS
+KAORY
+–
+178
+(168.4)
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+SPE : KURIS - KAORY
+–
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+RJCC AD2.24-STAR-12
+(EFF:16 AUG 2018) 19/7/18
+←
+
+
+=== Page 80 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-13
+STANDARD APPROACH CHART - INSTRUMENT
+RJCC / L91YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+046˚20.8
+046˚11.2
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+KAORY BRAVO ARRIVAL
+KAORY ALFA ARRIVAL
+240˚
+5.6
+360˚
+4.2
+360˚8.7
+360˚7.8
+360˚13.0
+045˚14.6
+VAR 9˚  W
+201˚
+021˚
+KAORY  ALFA  ARRIVAL
+KAORY  BRAVO  ARRIVAL
+RNAV 1
+12000
+13000
+3000
+7000
+5000
+CHITOSE
+(CHE)
+430634.7N
+1415003.3E
+424159.7N
+1414110.2E MUKAWA
+(MKE)
+423318.0N
+1415720.3E
+KAORY
+430302.3N
+1414406.7E
+C9R55
+425759.9N
+1415156.7E
+C9R54
+425351.4N
+1415251.2E
+C9R53
+424608.6N
+1415432.5E
+C9R52
+NAVER
+420744.2N
+1413128.9E
+FUJIM
+422422.6N
+1414815.6E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+MUKAWA(MKE)
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+180˚
+360˚
+RNAV HLDG
+NOT TO SCALE
+Using NAVAID
+NOT TO SCALE
+CHANGE : Description of VAR and HLDG pattern.
+NEW CHITOSE
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 81 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD APPROACH CHART - INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+TF
+TF
+TF
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+001
+002
+003
+004
+005
+006
+007
+008
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++ 13000
+–
++12000
+–
+-7000
++5000
++3000
+–
+–
+–
+–
+–
+–
+–
+–
+–
+20.8
+11.2
+13.0
+7.8
+4.2
+8.7
+5.6
+–
+–
+–
+–
+–
+–
+–
+–
+NAVER
+FUJIM
+MKE
+C9R52
+C9R53
+C9R54
+C9R55
+KAORY
+–
+046
+046
+360
+360
+360
+360
+240
+(036.6)
+(036.8)
+(350.9)
+(350.9)
+(350.9)
+(350.9)
+(230.8)
+KAORY ALFA ARRIVAL
+From NAVER, to FUJIM at or above 13000FT, to MKE, to C9R52 at or above 12000FT, 
+to C9R53, to C9R54 at or below 7000FT, to C9R55 at or above 5000FT, to KAORY at or 
+above 3000FT.
+SPE: C9R55 - KAORY
+MKE: 10.0NM to MKE - 3.0NM to MKE
+10.0NM to C9R52 - 8.0NM to C9R52
+3.0NM to MKE - 10.0NM to C9R52
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / L91YWR RATS VANRESOTIHC WEN
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Navigation
+Specification
+RNAV1MKE (350.9)
+360 1.0(-14000)
+1.5(+14001)
+Path
+Hold
+Inbound
+Course
+˚M(˚T)
+Outbound
+Time
+(MIN)
+Tur n
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+-9.3 R 4000 – -230(-14000)
+-240(+14001)
+CHANGE : Waypoint identifier(MKE).
+RJCC AD2.24-STAR-14
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 82 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-15
+STANDARD APPROACH CHART - INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+001
+002
+003
+004
+005
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+-7000
++5000
++3000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+14.6
+4.2
+8.7
+5.6
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+CHE
+C9R53
+C9R54
+C9R55
+KAORY
+ʵ
+045
+360
+360
+240
+(035.8)
+(350.9)
+(350.9)
+(230.8)
+KAORY BRAVO ARRIVAL
+From CHE, to C9R53, to C9R54 at or below 7000FT, to C9R55 at or above 5000FT, 
+to KAORY at or above 3000FT.
+SPE: C9R55 - KAORY
+CHE - 11.0NM to C9R53
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / NEW CHITOSE RNAV STAR RWY19L
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+NEW CHITOSE
+(EFF:16 AUG 2018) 19/7/18
+→
+
+
+=== Page 83 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD APPROACH CHART - INSTRUMENT
+RJCC / L91YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+005˚14.1
+11.2
+330˚3.7
+356˚
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+24.9038˚
+6.5038˚
+VAR 9˚  W
+201˚
+021˚
+NAVER  ARRIVAL RNAV 1
+6000
+3000
+GUFFI
+YOSHA
+424917.5N
+1415043.5E
+KAORY
+430302.3N
+1414406.7E
+YOHCK
+430010.8N
+1414716.6E
+423515.3N
+1415204.4E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+13000
+NAVER
+420744.2N
+1413128.9E
+URESY
+422933.2N
+1414746.6E
+GUFFI
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+185˚
+005˚
+YOSHA
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+185˚
+005˚
+RNAV HLDG
+NOT TO SCALE
+RNAV HLDG
+NOT TO SCALE
+Using NAVAID
+NOT TO SCALE
+CHANGE : Description of VAR and HLDG pattern.
+RJCC AD2.24-STAR-16
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 84 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD APPROACH CHART - INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+TF
+001
+002
+003
+004
+005
+006
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++13000
+–
++6000
+–
++3000
+–
+–
+–
+–
+–
+–
+–
+24.9
+6.5
+14.1
+11.2
+3.7
+–
+–
+–
+–
+–
+–
+NAVER
+URESY
+YOSHA
+GUFFI
+YOHCK
+KAORY
+–
+038
+038
+005
+356
+330
+(028.8)
+(029.0)
+(356.0)
+(346.9)
+(320.9)
+NAVER ARRIVAL
+From NAVER, to URESY at or above 13000FT, to YOSHA, to GUFFI at or above 6000FT, 
+to YOHCK, to KAORY at or above 3000FT.
+CHE : 18.5NM to URESY - 15.5NM to URESY
+10.0NM to GUFFI - GUFFI
+MKE : 18.5NM to URESY - 3.0NM to YOSHA 
+1.0NM to YOSHA - YOSHA
+SPE : YOHCK - KAORY
+NAVER - 18.5NM to URESY
+3.0NM to YOSHA - 1.0NM to YOSHA
+YOSHA - 10.0NM to GUFFI
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / NEW CHITOSE RNAV STAR RWY19L
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Navigation
+Specification
+RNAV1
+RNAV1
+GUFFI
+YOSHA
+(356.0)
+(356.0)
+005
+005
+1.0(-14000)
+1.5(+14001)
+1.0(-14000)
+1.5(+14001)
+Path
+Hold
+Hold
+Inbound
+Course
+˚M(˚T)
+Outbound
+Time
+(MIN)
+Tur n
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+-9.3
+-9.3
+R
+R
+4000
+4000
+–
+–
+-230(-14000)
+-240(+14001)
+-230(-14000)
+-240(+14001)
+RJCC AD2.24-STAR-17
+(EFF:16 AUG 2018) 19/7/18
+→
+
+
+=== Page 85 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJCC AD2.24-STAR-18
+STANDARD APPROACH CHART - INSTRUMENT
+RJCC / L91YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+005˚14.1
+9.8356˚
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+VAR 10˚  W
+201˚
+021˚
+YUNEY  EAST ARRIVAL RNAV 1
+6000
+4000
+GUFFI
+YOSHA
+424917.5N
+1415043.5E
+YUNEY
+425848.3N
+1414742.8E
+NAVER
+420744.2N
+1413128.9E
+10000
+NIKAP
+422609.3N
+1415256.5E
+423515.3N
+1415204.4E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4       MKE
+CH-111X
+ÛÝ1ÛÝ(
+ 
+VOR/DME
+SAPPORO
+113.9
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+GUFFI
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+185˚
+005˚
+YOSHA
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+186˚
+006˚
+SPE
+CHANGE : Description of VAR and HLDG pattern.
+006˚9.1
+006˚9.1
+070˚
+19.0
+VANKM
+421703.3N
+1415348.4E
+RNAV HLDG
+NOT TO SCALE
+RNAV HLDG
+NOT TO SCALE
+Using NAVAID
+NOT TO SCALE
+NEW CHITOSE
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 86 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD APPROACH CHART - INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+001
+002
+003
+004
+005
+-9.5
+-9.5
+-9.5
+-9.5
+-9.5
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+-10000
+–
++6000
+–
+–
+–
+–
+–
+–
+19.0
+9.1
+9.1
+14.1
+–
+–
+–
+–
+–
+NAVER
+VANKM
+NIKAP
+YOSHA
+GUFFI
+–
+070
+006
+006
+005
+(060.5)
+(356.0)
+(356.0)
+(356.0)
+YUNEY EAST ARRIVAL
+From NAVER, to VANKM, to NIKAP at or below 10000FT, to YOSHA, to GUFFI at 
+or above 6000FT, to YUNEY at or above 4000FT.
+CHE : 10.0NM to GUFFI - GUFFI
+YOSHA - 10.0NM to GUFFI
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / L91YWRRATSVANRESOTIHCWEN
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Navigation
+Specification
+RNAV1
+RNAV1
+GUFFI
+YOSHA
+(356.0)
+(356.0)
+005
+006
+1.0(-14000)
+1.5(+14001)
+1.0(-14000)
+1.5(+14001)
+Path
+Hold
+Hold
+Inbound
+Course
+˚M(˚T)
+Outbound
+Time
+(MIN)
+Tur n
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+-9.5
+-9.5
+R
+R
+4000
+4000
+–
+–
+-230(-14000)
+-240(+14001)
+-230(-14000)
+-240(+14001)
+CHANGE : Critical DME
+TF006 -9.5 RNAV1 ––+4000–9.8YUNEY 356
+(347.0)
+–
+–
+MKE : 7.0NM to VANKM - YOSHA
+RJCC AD2.24-STAR-19
+(EFF:20 JUN 2019) 20/6/19
+
+
+=== Page 87 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+CHANGE : Description of VAR and HLDG pattern.
+RJCC / R91YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Û9.6
+Û
+Û14.1
+11.2
+Û3.7
+4.8
+Û
+NAGANUMA  NORTH ARRIVAL
+NAGANUMA  SOUTH  ARRIVAL
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+24.9Û
+6.5Û
+V$5Û W
+Û
+Û
+NAGANUMA  SOUTH ARRIVAL
+NAGANUMA  NORTH  ARRIVAL
+RNAV 1
+6000
+3000
+KURIS
+NACKS
+GUFFI
+YOSHA
+430918.8N
+1414221.6E
+430000.7N
+1413902.5E
+424917.5N
+1415043.5E
+KAORY
+430302.3N
+1414406.7E
+YOHCK
+430010.8N
+1414716.6E
+NAVER
+420744.2N
+1413128.9E
+423515.3N
+1415204.4E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+ 
+VOR/DME
+SAPPORO
+113.9   SPE
+100FT
+CH–86X
+ÛÝ1ÛÝ(
+13000
+URESY
+422933.2N
+1414746.6E
+GUFFI
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+Û
+Û
+YOSHA
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+Û
+Û
+RNAV HLDG
+NOT TO SCALE
+RNAV HLDG
+NOT TO SCALE
+Using NAVAID
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-STAR-20
+NEW CHITOSE
+
+
+=== Page 88 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-21
+STANDARD ARRIVAL CHART-INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+TF
+TF
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+001
+002
+003
+004
+005
+006
+007
+001
+002
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++13000
+–
++6000
+–
+–
++3000
+–
+–
+–
+–
+–
+–
+–
+–
+24.9
+6.5
+14.1
+11.2
+3.7
+4.8
+–
+–
+–
+–
+–
+–
+–
+NAVER
+URESY
+YOSHA
+GUFFI
+YOHCK
+KAORY
+NACKS
+–
+038
+038
+005
+356
+330
+240
+(028.8)
+(029.0)
+(356.0)
+(346.9)
+(320.9)
+(230.9)
+NAGANUMA SOUTH ARRIVAL
+From NAVER, to URESY at or above 13000FT, to YOSHA, to GUFFI at or above 6000FT, 
+to YOHCK, to KAORY , to NACKS at or above 3000FT.
+CHE : 18.5NM to URESY - 15.5NM to URESY
+10.0NM to GUFFI - GUFFI
+1.0NM to NACKS - NACKS
+MKE : 18.5NM to URESY - 3.0NM to YOSHA 
+1.0NM to YOSHA - YOSHA
+SPE : YOHCK - NACKS
+NAVER - 18.5NM to URESY
+3.0NM to YOSHA - 1.0NM to YOSHA
+YOSHA - 10.0NM to GUFFI
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / NEW CHITOSE RNAV STAR RWY19R
+NAGANUMA NORTH ARRIVAL
+From KURIS, to NACKS at or above 3000FT.
+IF
+TF
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
++3000
+–
+–
+–
+9.6
+–
+–
+KURIS
+NACKS
+–
+204
+(194.7)
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+CHE : 1.0NM to NACKS - NACKS
+SPE : KURIS - NACKS
+–
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Navigation
+Specification
+RNAV1
+RNAV1
+GUFFI
+YOSHA
+(356.0)
+(356.0)
+005
+005
+1.0(-14000)
+1.5(+14001)
+1.0(-14000)
+1.5(+14001)
+Path
+Hold
+Hold
+Inbound
+Course
+˚M(˚T)
+Outbound
+Time
+(MIN)
+Tur n
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+-9.3
+-9.3
+R
+R
+4000
+4000
+–
+–
+-230(-14000)
+-240(+14001)
+-230(-14000)
+-240(+14001)
+NEW CHITOSE
+(EFF:20 JUN 2019) 23/5/19
+→
+
+
+=== Page 89 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJCC / R91YWR RATS VANRESOTIHC WEN
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+CHE R201
+NAVER
+D35.0 CHE
+MHA 6000
+MAX 230KIASD42.0
+CHE
+NACKS BRAVO ARRIVAL
+NACKS  ALFA ARRIVAL
+240˚
+10.4
+360˚
+4.2
+360˚8.7
+360˚7.8
+360˚13.0
+045˚14.6
+046˚20.8
+046˚11.2
+VAR 9˚  W
+201˚
+021˚
+NACKS  ALFA ARRIVAL
+NACKS  BRAVO ARRIVAL
+RNAV 1
+12000
+3000
+7000
+5000
+CHITOSE
+(CHE)
+430634.7N
+1415003.3E
+424159.7N
+1414110.2E MUKAWA
+(MKE)
+423318.0N
+1415720.3E
+NACKS
+430000.7N
+1413902.5E
+C9R55
+425759.9N
+1415156.7E
+C9R54
+425351.4N
+1415251.2E
+C9R53
+424608.6N
+1415432.5E
+C9R52
+NAVER
+420744.2N
+1413128.9E
+CHITOSE
+VOR/DME
+100FT
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+100FT
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+13000
+FUJIM
+422422.6N
+1414815.6E
+MUKAWA(MKE)
+MHA 4000
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+MAX 230KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+180˚
+360˚
+RNAV HLDG
+NOT TO SCALE
+Using NAVAID
+NOT TO SCALE
+CHANGE : Description of VAR and HLDG pattern.
+RJCC AD2.24-STAR-22
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 90 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCC AD2.24-STAR-23
+STANDARD ARRIVAL CHART-INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+TF
+TF
+TF
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+001
+002
+003
+004
+005
+006
+007
+008
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++13000
+–
++12000
+–
+-7000
++5000
++3000
+–
+–
+–
+–
+–
+–
+–
+–
+–
+20.8
+11.2
+13.0
+7.8
+4.2
+8.7
+10.4
+–
+–
+–
+–
+–
+–
+–
+–
+NAVER
+FUJIM
+MKE
+C9R52
+C9R53
+C9R54
+C9R55
+NACKS
+–
+046
+046
+360
+360
+360
+360
+240
+(036.6)
+(036.8)
+(350.9)
+(350.9)
+(350.9)
+(350.9)
+(230.8)
+NACKS ALFA ARRIVAL
+From NAVER, to FUJIM at or above 13000FT, to MKE, to C9R52 at or above 12000FT, 
+to C9R53, to C9R54 at or below 7000FT, to C9R55 at or above 5000FT, to NACKS at or 
+above 3000FT.
+SPE : C9R55 - NACKS
+MKE : 10.0NM to MKE - 3.0NM to MKE
+10.0NM to C9R52 - 8.0NM to C9R52
+3.0NM to MKE - 10.0NM to C9R52
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC / R91YWR RATS VANRESOTIHC WEN
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+Navigation
+Specification
+RNAV1MKE (350.9)
+360 1.0(-14000)
+1.5(+14001)
+Path
+Hold
+Inbound
+Course
+˚M(˚T)
+Outbound
+Time
+(MIN)
+Tur n
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+-9.3 R 4000 – -230(-14000)
+-240(+14001)
+CHANGE : Waypoint identifier(MKE).
+NEW CHITOSE
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 91 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NEW CHITOSE
+STANDARD ARRIVAL CHART-INSTRUMENT
+IF
+TF
+TF
+TF
+TF
+-9.3
+-9.3
+-9.3
+-9.3
+-9.3
+001
+002
+003
+004
+005
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+-7000
++5000
++3000
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+14.6
+4.2
+8.7
+10.4
+ʵ
+ʵ
+ʵ
+ʵ
+ʵ
+CHE
+C9R53
+C9R54
+C9R55
+NACKS
+ʵ
+045
+360
+360
+240
+(035.8)
+(350.9)
+(350.9)
+(230.8)
+NACKS BRAVO ARRIVAL
+From CHE, to C9R53, to C9R54 at or below 7000FT, to C9R55 at or above 5000FT, 
+to NACKS at or above 3000FT.
+RJCC / NEW CHITOSE RNAV STAR RWY19R
+Path
+Descriptor
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+SPE : C9R55 - NACKS
+CHE - 11.0NM to C9R53
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RJCC AD2.24-STAR-24
+(EFF:20 JUN 2019) 23/5/19
+←
+
+
+=== Page 92 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180˚
+090˚
+360˚
+270˚
+10NM
+100˚
+280˚
+MHA 3000
+MAX 230KIAS
+RJCC / NEW CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+110.9      ICN
+ILS–GP  330.8
+ILS–DME  CH–46X
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+MISSED APPROACH
+Climb to 600FT on HDG002˚,
+turn right, via MKE R335 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+RDH55
+0
+0.20.7
+0.5
+1.3
+1.2
+6.0
+5.8
+15.0
+14.8
+DME to ICN
+NM to THR
+TENSI
+(FAF)
+BAMBI
+(IF)
+VDP
+(LOC)
+MAPt
+(LOC)
+002˚
+GP3.0˚
+ILS Z or LOC Z RWY01L
+2000
+2000
+1970(LOC)
+1500
+(1438) MDA
+TENSI(FAF)
+D6.0 ICN
+MAPt(LOC)
+D0.7 ICN
+BAMBI(IF) D15.0 ICN
+TENSI(FAF) : 423957.26N/1414234.94E
+Chitose AD
+to  MKE VOR/DME
+002˚
+002˚HDG
+002˚
+155˚
+155˚
+MKE R335
+MINIMA 
+CAT
+CAT䱶
+DA(H)
+262 (200) 470 (408)
+620 (550)
+520 (450)
+510 (440)
+550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 62 AD elev. 70
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+VAR 10˚W 
+CHITOSE
+VOR/DME
+116.9       CHE
+CH-116X
+ÛÝ1ÛÝ(
+MUKAWA
+VOR/DME
+116.4      MKE
+CH-111X
+ÛÝ1ÛÝ(
+NM to ICN
+ALT (3.0˚ APCH Path)
+FAF
+1970
+4
+1333
+5
+1651
+3
+1014
+2
+696
+MAPt
+–
+Timing not authorized for defining the MAPt.
+002˚
+Simultaneous approach authorized with RJCJ RWY36L(PAR) or RWY36R(PAR)
+CHANGE : DME to ICN for VDP. NM to THR for VDP. MDA(H) for LOC.
+1663
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-1
+NEW CHITOSE
+
+
+=== Page 93 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+18
+0˚
+090˚
+360
+˚
+270˚
+10NM
+Chitose AD
+MINIMA 
+CAT
+CAT䱶
+DA(H)
+262 (200) 470 (408)
+620 (550)
+510 (440)
+520 (450)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 62 AD elev. 70
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+RJCC / NEW  CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+110.9      ICN
+ILS–GP  330.8
+ILS–DME  CH–46X
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+ILS Y or LOC Y RWY01L
+to  MKE VOR/DME
+MIREI(FAF)
+D9.0 ICN
+BAMBI(IF)
+D15.0 ICN
+002˚
+002˚
+CHITOSE
+VOR/DME
+116.9      CHE
+CH-116X
+ÛÝ1ÛÝ(
+MUKAWA
+VOR/DME
+116.4      MKE
+CH-111X
+ÛÝ1ÛÝ(
+002˚HDG
+MKE R335
+155˚MAPt(LOC)
+D0.7 ICN
+NM to ICN
+ALT (3.0˚ APCH Path)
+FAF
+–
+6
+1970
+4
+1333
+5
+1651
+7
+2288
+8
+2606
+3
+1014
+2
+696
+MAPt
+–
+MISSED APPROACH
+Climb to 600FT on HDG002˚,
+turn right, via MKE R335 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+Timing not authorized for defining the MAPt.
+RDH55
+0
+0.20.7
+0.5
+1.3
+1.2
+6.0
+5.8
+9.0
+8.8
+15.0
+14.8
+DME to ICN
+NM to THR
+MIREI
+(FAF)
+(LOC)
+BAMBI
+(IF)
+VDP
+(LOC)
+SDF
+(LOC)
+MAPt
+(LOC)
+002˚
+002˚ GP 3.0˚
+3000 3000
+
+
+1500
+(1438) MDA
+Simultaneous approach authorized with RJCJ RWY36L(PAR) or RWY36R(PAR)
+1663
+965
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+MIREI(FAF) : 1(
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+100˚
+280˚
+MAX 230KIAS
+MHA 3000
+155˚
+VAR 10˚W 
+CHANGE : DME to ICN for VDP. NM to THR for VDP. MDA(H) for LOC.
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-2
+NEW CHITOSE
+
+
+=== Page 94 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180˚
+090˚
+360˚
+270˚
+10NM
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+257 (200) 470 (413)
+620 (550)
+520 (450)
+510 (440)
+550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 57 AD elev. 70
+A
+B
+C
+D
+Circling to
+ EAST side of RWY only.
+Chitose AD
+RJCC / NEW  CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+110.75     ICH
+ILS–GP  330.05
+ILS–DME  CH–44Y
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+ILS Z or LOC Z RWY01R
+YOSEI(FAF)
+D6.0 ICH
+MAPt(LOC)
+D0.8 ICH
+002˚
+002˚
+155˚
+155˚
+100˚
+280˚
+MAX 230KIAS
+MHA 3000
+CHITOSE
+VOR/DME
+116.9     CHE
+CH-116X
+ÛÝ1ÛÝ(
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+to  MKE VOR/DME
+MKE R335
+YOTEI (IF) D15.0 ICH
+MISSED APPROACH
+Climb to 600FT on HDG002˚,
+turn right, via MKE R335 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+Timing not authorized for defining the MAPt.
+NM to ICH
+ALT (3.0˚ APCH Path)
+FAF
+1965
+4
+1328
+5
+1646
+3
+1009
+2
+691
+MAPt
+–
+RDH55
+0
+0.20.8
+0.6
+1.4
+1.2
+6.0
+5.8
+15.0
+14.8
+DME to ICH
+NM to THR
+YOSEI
+(FAF)
+YOTEI
+(IF)
+VDP
+(LOC)
+MAPt
+(LOC)
+002˚
+GP 3.0˚2000
+
+(LOC)
+1500
+(1443) MDA
+YOSEI(FAF) : 1(
+002
+˚
+HD
+G
+VAR 9˚W 
+002˚
+Simultaneous approach authorized with RJCJ RWY36L(PAR) or RWY36R(PAR)
+1663
+965
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+CHANGE : DME to ICH for VDP. NM to THR for VDP. MDA(H) for LOC.
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-3
+NEW CHITOSE
+
+
+=== Page 95 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180˚
+090˚
+360˚
+270˚
+10NM
+100˚
+280˚
+MAX 230KIAS
+MHA 3000
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+257 (200) 470 (413)
+620 (550)
+520 (450)
+510 (440)
+550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 57 AD elev. 70
+A
+B
+C
+D
+Circling to
+ EAST side of RWY only.
+Chitose AD
+YODAI(FAF) : 423658.24N/1414319.81E
+RJCC / NEW  CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+110.75     ICH
+ILS–GP  330.05
+ILS–DME  CH–44Y
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+ILS Y or LOC Y RWY01R
+002˚
+002˚
+155˚
+155˚
+YODAI
+D9.0 ICH
+YODAI(FAF)
+D9.0 ICH
+YOTEI (IF)
+D15.0 ICH
+MUKAWA
+VOR/DME
+116.4      MKE
+CH-111X
+ÛÝ1ÛÝ(
+CHITOSE
+VOR/DME
+116.9     CHE
+CH-116X
+ÛÝ1ÛÝ(
+MKE R335
+to  MKE VOR/DME
+MAPt(LOC)
+D0.8 ICH
+NM to ICH
+ALT (3.0˚ APCH Path)
+FAF
+–
+6
+1964
+4
+1328
+5
+1646
+7
+2283
+8
+2601
+3
+1009
+2
+691
+MAPt
+–
+MISSED APPROACH
+Climb to 600FT on HDG002˚,
+turn right, via MKE R335 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+Timing not authorized for defining the MAPt.
+002˚HDG
+VAR 9˚W 
+RDH55
+0
+0.20.8
+0.6
+1.4
+1.2
+6.0
+5.8
+9.0
+8.8
+15.0
+14.8
+DME to ICH
+NM to THR
+YODAI
+(FAF)
+(LOC)
+YOTEI
+(IF)
+VDP
+(LOC)
+SDF
+(LOC)
+MAPt
+(LOC)
+002˚
+002˚
+GP 3.0˚
+3000 3000
+1964
+
+1500
+(1443) MDA
+Simultaneous approach authorized with RJCJ RWY36L(PAR) or RWY36R(PAR)
+1663
+965
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+CHANGE : DME to ICH for VDP. NM to THR for VDP. MDA(H) for LOC.
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-4
+NEW CHITOSE
+
+
+=== Page 96 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+BANSU
+(IAF)
+2000
+NESIC(FAF)
+D6.0 ICM
+D11.0 ICM
+YUNEY
+(IAF)
+4000
+10NMPUNCH(IF)
+PUNCH
+(IF)
+ASIRI
+(IAF)
+3000
+MAPt(LOC)
+D0.6 ICM
+KAORY
+(IAF)
+3000
+182˚
+092˚
+(082.4˚T)
+6.0 272˚
+(262.6˚T)
+6.0
+(172.5˚T)
+6.0
+223˚
+(213.3
+˚T)6.0
+182˚
+182˚
+430302.3N
+1414406.7E
+425848.3N
+1414742.8E
+425801.7N
+1413936.6E
+425714.7N
+1413130.5E
+430358.8N
+1413832.7E
+CHITOSE
+VOR/DME
+116.9     CHE
+CH-116X
+ÛÝ1ÛÝ(
+090˚
+360˚
+270˚
+RJCC /  NEW CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+351340
+579
+680
+3619
+1663
+538
+319
+NESIC
+(FAF)
+ILS Z or LOC Z RWY19L
+Circling to EAST side of RWY only.
+2000
+900
+(830)
+2000
+1966(LOC)
+VDP
+(LOC) GP3.0˚
+Chitose AD
+MAPt
+(LOC)
+0.6
+0.5
+0.2
+0
+1.2
+1.0
+DME to ICM
+NM to THR
+6.0
+5.8
+11.0
+10.8
+MDARDH 54
+MAPt 2 3 4 5 FAF
+–
+NM to ICM
+ALT (3.0˚ APCH Path) 705 1024 1342 1661 1966
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+to  MKE VOR/DMENESIC(FAF) : 1(
+182˚HDG
+140˚
+MKE
+ R320
+VAR 9˚W 
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+ILS - LOC
+109.35    ICM
+ILS–GP     331.85
+ILS–DME  CH-30Y
+182˚
+182˚
+MISSED APPROACH
+Climb to 600FT on HDG182˚,
+turn left, via MKE R320 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+Timing not authorized for defining the MAPt.
+Simultaneous approach authorized with RJCJ RWY18L(PAR) or RWY18R(PAR)
+092˚
+272˚
+YUNEY
+HOLDING ALT FL140
+MAX 210KIAS
+1MIN
+4000
+043˚ 223˚
+KAORY
+RNAV HLDG
+HOLDING ALT FL140
+MAX 210KIAS
+1MIN
+4000
+002˚
+182˚
+ICMR002
+D16.0 ICM
+D11.0 ICM
+PUNCH
+MHA 3000/MAX 210KIAS
+100˚
+280˚
+MAX 230KIAS
+MHA 3000
+140˚
+MUKAWA
+VOR/DME
+116.4      MKE
+CH-111X
+ÛÝ1ÛÝ(
+NOTE : 1. For Initial approach segment
+ (1)RNAV1
+ (2)DME/DME/IRU or GNSS required.
+2. RADAR service required.
+Critical DME (SPE)
+ASIRI – PUNCH : 1.2NM to PUNCH – PUNCH
+BANSU – PUNCH : BANSU – 2.0NM to PUNCH
+KAORY – PUNCH : KAORY – 1.0NM to PUNCH
+YUNEY – PUNCH : 4.8NM to PUNCH – PUNCH
+DME GAP
+ASIRI – PUNCH : ASIRI – 1.2NM to PUNCH
+BANSU – PUNCH : 2.0NM to PUNCH – PUNCH
+KAORY – PUNCH : 1.0NM to PUNCH – PUNCH
+MINIMA 
+CAT
+CAT 䱶䢢
+DA(H)
+277 (200) 450 (380)
+640 (570)
+580 (510)
+1200
+1300
+1400
+1600
+2400
+32001600
+700
+MDA(H)RVR/CMV RVR/CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 77 AD elev. 70
+A
+B
+C
+D
+EQPT REQUIRED
+DME
+VOR
+RNAV HLDG
+Using NAVAID
+Using NAVAID
+CHANGE : Description of VAR.
+NOT TO SCALE
+NOT TO SCALE
+NOT TO SCALE
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-5
+NEW CHITOSE
+
+
+=== Page 97 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+NESIC(FAF)
+D6.0 ICM
+10NM
+NAPRO(IF)
+D14.4 ICM
+NAPRO
+(IF)
+MAPt(LOC)
+D0.6 ICM
+182˚
+182˚
+CHITOSE
+VOR/DME
+116.9     CHE
+CH-116X
+ÛÝ1ÛÝ(
+090˚
+360˚
+270˚
+RJCC /  NEW CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+351340
+579
+680
+3619
+1663
+538
+319
+NESIC
+(FAF)
+ILS Y or LOC Y RWY19L
+Circling to EAST side of RWY only.
+3000
+1100
+(1030)
+
+(LOC)
+VDP
+(LOC) GP3.0˚
+Chitose AD
+MAPt
+(LOC)
+0.6
+0.5
+0.2
+0
+1.2
+1.0
+DME to ICM
+NM to THR
+6.0
+5.8
+14.4
+14.2
+MDARDH 54
+MAPt 2 3 4 5 FAF
+–
+NM to ICM
+ALT (3.0˚ APCH Path) 705 1024 1342 1661 1966
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+to  MKE VOR/DMENESIC(FAF) : 1(
+182˚HDG
+140˚
+MKE
+ R320
+VAR 9˚W 
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+ILS - LOC
+109.35    ICM
+ILS–GP     331.85
+ILS–DME  CH-30Y
+182˚
+182˚
+MISSED APPROACH
+Climb to 600FT on HDG182˚,
+turn left, via MKE R320 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+Timing not authorized for defining the MAPt.
+Simultaneous approach authorized with RJCJ RWY18L(PAR) or RWY18R(PAR)
+002˚
+182˚
+ICMR002
+D20.0 ICM
+D14.4 ICM
+NAPRO
+MHA 4000/MAX 210KIAS
+100˚
+280˚
+MAX 230KIAS
+MHA 3000
+140˚
+MUKAWA
+VOR/DME
+116.4      MKE
+CH-111X
+ÛÝ1ÛÝ(
+2841
+735
+MINIMA 
+CAT
+CAT 䱶䢢
+DA(H)
+277 (200) 450 (380)
+640 (570)
+580 (510)
+1200
+1300
+1400
+1600
+2400
+32001600
+700
+MDA(H)RVR/CMV RVR/CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 77 AD elev. 70
+A
+B
+C
+D
+EQPT REQUIRED
+DME
+VOR
+CHANGE : Description of VAR.
+NOT TO SCALE
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-6
+NEW CHITOSE
+
+
+=== Page 98 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+BANSU
+(IAF)
+2000
+FAF
+YUNEY
+(IAF)
+4000
+YUNEY
+PUNCH
+(IF)
+PUNCH
+(IF)
+IF
+IF
+BANSU
+3700
+6700
+3900
+6500
+ASIRI
+(IAF)
+3000
+RW19L
+(MAPt)
+C9L50
+(MATF)
+HDG182˚
+ASIRI IF
+KAORY
+(IAF)
+3000
+182˚
+182˚
+182˚
+138˚(128.6˚T)
+14.1
+MKE R318
+092˚
+(082.4˚T)
+(262.6˚T)
+6.0 272˚
+6.0
+(172.5˚T)
+6.0
+(172.6˚T)
+182˚5.3(172.6˚T)
+(172.6˚T)4.9
+5.9
+223˚
+6.0
+(213.3˚T)
+RJCC /  NEW CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+MUKAWA
+VOR/DME
+116.4       MKE
+CH–111
+ÛÝ1ÛÝ(
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+352341
+580
+681
+3619
+1243
+1663
+454
+735
+2841
+537
+319
+Climb to 3000FT to C9L50 on track
+182˚, turn left to MKE and hold.
+Contact CHITOSE APP .
+MISSED APPROACH
+Climb to 3000FT on HDG182˚ to 
+intercept and proceed via MKE R318 
+to MKE VOR/DME and hold.
+Contact CHITOSE APP .
+(for using VOR/DME)
+FAF
+182˚
+182˚
+RNP RWY19L
+Circling to EAST side of RWY only.
+2000
+2000
+(1930)
+2000
+VDP
+(LNAV) 3.00˚
+䲏
+002˚
+䲏
+002˚
+䲏272˚
+䲏272˚ 092˚䲑䢢
+092˚䲑䢢
+5800
+25NM to ASIRI
+25NM to BANSU
+10NM to BANSU
+10NM to YUNEY
+25NM to YUNEY
+Chitose AD
+(MAHF)
+MKE
+RW19L
+(MAPt)
+VAR 9˚W 
+0NM to THR 1.5 5.9 10.8
+MDARDH 50
+MAPt 2 3 4 5 FAF
+–
+NM to Next Fix
+ALT (3.0˚ APCH Path) 763 1082 1400 1719 2000
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+C9L50
+(MATF)
+1
+(
+MKE
+(MAHF)
+1
+(
+RW19L
+(MAPt)
+1
+(
+FAF 1
+(
+PUNCH
+(IF)
+1
+(
+YUNEY
+(IAF)
+1
+(
+KAORY
+(IAF)
+1
+(
+BANSU
+(IAF)
+1
+(
+ASIRI
+(IAF)
+1
+(
+092˚
+272˚
+YUNEY
+HOLDING ALT FL140
+MAX 210KIAS
+1MIN
+4000
+043˚ 223˚
+KAORY
+HOLDING ALT FL140
+MAX 210KIAS
+1MIN
+4000
+138˚
+100˚
+280˚
+MKE
+VOR/DME
+MHA 3000
+MAX 230KIAS
+Baro-VNAV not authorized below -15˚C
+ 
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+570 (493) 570 (500)
+640 (570)
+580 (510)
+1400
+1500
+1600
+1600
+2400
+32001800
+1400
+1500
+1600
+1800
+MDA(H)RVR/CMV RVR/CMV MDA(H) VIS
+LNAV CIRCLING
+THR elev. 77 AD elev. 70
+A
+B
+C
+D
+RNAV HLDG
+RNAV HLDG
+Using NAVAID
+RNP APCH
+874
+545
+555
+CHANGE : Description of VAR.
+NOT TO
+ SCALE
+NOT TO
+ SCALE
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-7
+NEW CHITOSE
+
+
+=== Page 99 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180
+°
+360°
+090°
+900Û
+Û
+2000
+D5.5
+CHE
+MAPt
+0.2NM
+MAOIE
+D12.2 CHE
+D9.0 CHE
+VDP
+D6.8
+CHE
+CHITOSE  APP
+120.1 – 124.7
+CHITOSE  VOR/DME
+116.9       CHE
+CH–116X
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+Turn left, climb via MKE 
+R328 to 5000FT, proceed to
+MKE VOR/DME and hold.
+Contact CHITOSE APP .
+MISSED APPROACH
+VOR Z RWY19L
+351340
+579680
+319
+3619
+MUKAWA
+CH-111X
+116.4 MKE
+VOR/DME
+Û
+Û
+1243
+1663
+454
+735
+2841
+965
+538
+10NM
+D5.5 CHE
+D9.0 CHE
+MAOIE(D12.2 CHE)
+Û
+Û
+MHA 3000
+ 
+MINIMA 
+CAT
+620 (550)
+640 (570)
+620 (550)
+1400
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 77 AD elev. 70
+A
+B
+C
+D
+Circling to 
+EAST side of RWY only.
+RJCC /  NEW CHITOSE
+Chitose AD
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+EQPT REQUIRED
+DME
+V$5Û:
+Û Û
+Û
+Û
+45005500
+42005500
+MSA 25NM
+CHE
+CHANGE : Description of VAR. 
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-8
+NEW CHITOSE
+
+
+=== Page 100 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180°
+360
+°
+090°
+D14.0 CHE
+CHITOSE  APP
+120.1 – 124.7
+CHITOSE  VOR/DME
+116.9       CHE
+CH–116X
+ÛÝ1ÛÝ(
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+351
+340
+579680
+319
+3619
+MUKAWA
+CH-111X
+116.4 MKE
+ÛÝ1ÛÝ(
+VOR/DME
+Û
+Û
+1243
+1663
+454
+735
+2841
+965
+538
+Û Û
+Remain within CHE 14.0DME
+Turn left, climb via MKE 
+R328 to 5000FT, proceed to
+MKE VOR/DME and hold.
+Contact CHITOSE APP .
+MISSED APPROACH
+CHE
+Û
+Û
+VOR Y RWY19L
+5000
+900
+1600
+10NM
+D5.5
+CHE
+MAPt D6.8
+CHE
+D9.0
+CHE
+VDP
+D5.5 CHE
+Û
+Û
+Û
+MHA 3000
+ 
+MINIMA 
+CAT
+620 (550)
+640 (570)
+620 (550)
+1400
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 77 AD elev. 70
+A
+B
+C
+D
+Circling to 
+EAST side of RWY only.
+RJCC /  NEW CHITOSE
+Chitose AD
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+EQPT REQUIRED
+DME
+V$5Û:
+Û Û
+Û
+Û
+45005500
+42005500
+MSA 25NM
+CHE
+CHANGE : Description of VAR. 
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-9
+NEW CHITOSE
+
+
+=== Page 101 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+090˚
+360˚
+270˚
+100˚
+280˚
+MAX 230KIAS
+MHA 3000
+LOVER(FAF) : 425259.71N/1414014.16E
+LOVER (FAF)
+D5.9 ICS
+MAPt(LOC)
+D0.8 ICS
+IM
+WHITE (SDF)
+D9.0 ICS
+NACKS(IF)
+D13.0 ICS
+to  MKE VOR/DME
+182˚
+182˚
+182˚HDG
+140˚
+MKE R320
+140˚
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+111.5      ICS
+ILS–GP     332.9
+ILS–DME  CH-52X
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+ILS Z or LOC Z RWY19R (CAT䱷&䱸)
+VOR/DME
+CHITOSE
+ÛÝ1ÛÝ(
+116.9     CHE
+CH–116X
+RJCC / NEW  CHITOSE
+Chitose AD
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+0
+5.9
+5.8
+1.3
+1.1
+0.8
+0.6
+0.4
+0.2
+0.2 9.0
+8.8
+13.0
+12.8
+DME to ICS
+NM to THR
+ 
+MINIMA 
+CAT
+CAT 䱷 CAT䢢䱶䢢
+DA(H)DA(H) RVR
+282 (200)182
+(100) 460 (390)
+620 (550)
+520 (450)
+510 (440)
+550300103
+CAT 䱸
+RVR
+100
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 82 AD elev. 70
+A
+B
+C
+D
+Circling to 
+EAST side of RWY only.
+MISSED APPROACH
+Climb to 600FT on HDG182˚,
+turn left, via MKE R320 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+RDH54
+LOVER
+(FAF)
+WHITE
+(SDF)
+NACKS
+(IF)
+VDP
+(LOC)
+MAPt
+(LOC)
+IM
+182˚
+182˚
+3000
+2000
+2000
+2000(LOC)
+MDATiming not authorized for defining the MAPt.
+NM to ICS
+ALT (3.0˚ APCH Path)
+FAF
+–
+4
+1348
+5
+1667
+3
+1030
+2
+711
+MAPt
+–
+10NM
+GP 3.0˚
+VAR 9˚W 
+Simultaneous approach authorized with RJCJ RWY18L(PAR) or RWY18R(PAR)
+1663
+965
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+RA
+CHANGE : Description of VAR.
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-10
+NEW CHITOSE
+
+
+=== Page 102 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MI
+Û
+Û
+Û
+IM
+WHITE(FAF) : 425559.28N/1413941.31E
+MAPt(LOC)
+D0.8 ICS
+WHITE (FAF)
+D9.0 ICS
+NACKS(IF)
+D13.0 ICS
+to  MKE VOR/DME
+Û
+Û
+Û
+MK
+E R320
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+111.5      ICS
+ILS–GP     332.9
+ILS–DME  CH-52X
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+ILS Y or LOC Y RWY19R (CAT䱷&䱸)RJCC / NEW  CHITOSE
+Chitose AD
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+0
+5.9
+5.8
+1.3
+1.1
+0.8
+0.6
+0.4
+0.2
+9.0
+8.8
+13.0
+12.8
+DME to ICS
+NM to THR
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+282 (200)
+CAT 䱷
+DA(H) RA
+182
+(100) 300103
+CAT 䱸
+RVR
+100 460 (390)
+620 (550)
+520 (450)
+510 (440)
+550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 82 AD elev. 70
+A
+B
+C
+D
+Circling to
+ EAST side of RWY only.
+MISSED APPROACH
+&OLPEWR)7RQ+'*Û
+turQOHIWYLD0.(5WR
+MKE V25'0(DQGKROGDW
+5000FT.
+&RQWDFW&+,TOSE APP .
+RDH54
+SDF
+(LOC)
+WHITE
+(FAF)
+NACKS
+(IF)
+VDP
+(LOC)
+MAPt
+(LOC)
+Û
+Û
+*3Û
+3000
+30003000(LOC)
+2000
+MDA7LPLQJQRWDXWKRrized for defining the MAPt.
+NM to ICS
+$/7Û$3&+3DWK
+FAF
+–
+4
+1348
+5
+1667
+3
+1030
+2
+711
+MAPt
+–
+10NM
+ÛHDG
+0.2
+V$5Û:
+Û
+Û
+MAX 230KIAS
+MHA 3000
+Û
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+VOR/DME
+CHITOSE
+ÛÝ1ÛÝ(
+116.9     CHE
+CH–116X
+6LPXOWDQHRXVDSSURDFKDXWKRUL]HGZLWK5-&-5:</3$5RU5:<53$5
+1663
+965
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+Û Û
+Û
+Û
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+RVR
+&+$1*('HVFULSWLRQRI9$5
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-11
+NEW CHITOSE
+
+
+=== Page 103 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+090˚
+360˚
+270˚
+LOVER(FAF) : 425259.71N/1414014.16E
+LOVER (FAF)
+D5.9 ICS
+MAPt(LOC)
+D0.8 ICS
+IM
+WHITE (SDF)
+D9.0 ICS
+ISIYA(IF)
+D14.2 ICS
+to MKE VOR/DME
+182˚
+182˚
+140˚
+MKE R
+320
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+111.5      ICS
+ILS–GP     332.9
+ILS–DME  CH-52X
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+ILS X or LOC X RWY19R (CAT䱷&䱸)RJCC / NEW  CHITOSE
+Chitose AD
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+ 
+MINIMA 
+CAT
+CAT 䱷 CAT䢢䱶䢢
+DA(H)DA(H)
+282 (200)182
+(100) 460 (390)
+620 (550)
+520 (450)
+510 (440)
+550300103
+CAT 䱸
+RVR
+100
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 82 AD elev. 70
+A
+B
+C
+D
+Circling to 
+EAST side of RWY only.
+NM to ICS
+ALT (3.0˚ APCH Path)
+FAF
+–
+4
+1348
+5
+1667
+3
+1030
+2
+711
+MAPt
+–
+10NM
+182˚HDG
+VAR 9˚W 
+100˚
+280˚
+MAX 230KIAS
+MHA 3000
+140˚
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+VOR/DME
+CHITOSE
+ÛÝ1ÛÝ(
+116.9     CHE
+CH–116X
+0
+5.9
+5.8
+1.3
+1.1
+0.8
+0.6
+0.4
+0.2
+0.2 9.0
+8.8
+14.2
+14.0
+DME to ICS
+NM to THR
+MISSED APPROACH
+Climb to 600FT on HDG182˚,
+turn left, via MKE R320 to 
+MKE VOR/DME and hold at 
+5000FT.
+Contact CHITOSE APP .
+RDH54
+LOVER
+(FAF)
+WHITE
+(SDF)
+ISIYA
+(IF)
+VDP
+(LOC)
+MAPt
+(LOC)
+IM
+182˚
+182˚
+3000
+2000
+2000
+2000(LOC)
+MDATiming not authorized for defining the MAPt.
+GP 3.0˚
+Simultaneous approach authorized with RJCJ RWY18L(PAR) or RWY18R(PAR)
+1663
+965
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+090˚ 270˚
+360˚
+180˚
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+RVRRA
+CHANGE : Description of VAR.
+NOT TO SCALE
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-12
+NEW CHITOSE
+
+
+=== Page 104 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MI
+Û
+Û
+Û
+IM
+WHITE(FAF) : 425559.28N/1413941.31E
+MAPt(LOC)
+D0.8 ICS
+WHITE (FAF)
+D9.0 ICS
+ISIYA(IF)
+D14.2 ICS
+to MKE VOR/DME
+Û
+Û
+Û
+MKE R320
+CHITOSE  APP
+120.1 – 124.7
+ILS-LOC
+111.5      ICS
+ILS–GP     332.9
+ILS–DME  CH-52X
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+ILS W or LOC W RWY19R (CAT䱷&䱸)RJCC / NEW  CHITOSE
+Chitose AD
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+282 (200)
+CAT 䱷
+DA(H)
+182
+(100) 300103
+CAT 䱸
+RVR
+100 460 (390)
+620 (550)
+520 (450)
+510 (440)
+550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 82 AD elev. 70
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+NM to ICS
+$/7Û$3&+3DWK
+FAF
+–
+4
+1348
+5
+1667
+3
+1030
+2
+711
+MAPt
+–
+10NM
+ÛHDG
+V$5Û:
+Û
+Û
+MAX 230KIAS
+MHA 3000
+Û
+MUKAWA
+VOR/DME
+116.4     MKE
+CH-111X
+ÛÝ1ÛÝ(
+VOR/DME
+CHITOSE
+ÛÝ1ÛÝ(
+116.9     CHE
+CH–116X
+0
+5.9
+5.8
+1.3
+1.1
+0.8
+0.6
+0.4
+0.2
+9.0
+8.8
+14.2
+14.0
+DME to ICS
+NM to THR
+MISSED APPROACH
+&OLPEWR)7RQ+'*Û
+turQOHIWYLD0.(5WR
+MKE V25'0(DQGKROGDW
+5000FT.
+&RQWDFW&+,TOSE APP .
+RDH54
+SDF
+(LOC)
+WHITE
+(FAF)
+ISIYA
+(IF)
+VDP
+(LOC)
+MAPt
+(LOC)
+Û
+Û
+*3Û
+3000
+3000(LOC)
+
+MDA7LPLQJQRWDXWKRrized for defining the MAPt.
+0.2
+6LPXOWDQHRXVDSSURDFKDXWKRUL]HGZLWK5-&-5:</3$5RU5:<53$5
+1663
+965
+538
+351
+579
+680
+340
+319
+2841
+735
+3619
+Û Û
+Û
+Û
+45005500
+42005500
+MSA 25NM
+CHE
+EQPT REQUIRED
+DME
+VOR
+RVRRA
+NOT TO SCALE
+&+$1*('HVFULSWLRQRI9$5
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-13
+NEW CHITOSE
+
+
+=== Page 105 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180°
+36
+0°
+090°
+D14.0 CHE
+Û
+Û
+MHA 3000
+ 
+MINIMA 
+CAT
+620 (550)
+640 (570)
+620 (550)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 82 AD elev. 70
+A
+B
+C
+D
+Circling to EAST side of RWY only.
+Chitose AD
+EQPT REQUIRED
+DME
+RJCC /  NEW CHITOSE
+CHITOSE  APP
+120.1 – 124.7
+CHITOSE  VOR/DME
+116.9       CHE
+CH–116X
+ÛÝ1ÛÝ(
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+340
+351
+579
+680
+319
+3619
+MUKAWA
+CH–111X
+116.4 MKE
+ÛÝ1ÛÝ(
+VOR/DME
+Û
+Û
+1243
+1663
+454
+735
+2841
+965
+538
+Û Û
+Remain within  CHE 14.0DME
+Turn left, climb via MKE R328 
+to 5000FT, proceed to MKE 
+VOR/DME and hold.
+Contact CHITOSE APP .
+MISSED APPROACH
+CHE
+Û
+Û
+Û
+VOR  RWY19R
+5000
+1600
+900
+10NM
+D5.5CHE
+MAPt
+VDPD6.8CHE
+D9.0CHE
+CHE
+   9.0DME
+D5.5 CHE
+USE CAUTION NOT TO APPROACH
+TO CHITOSE AD
+V$5Û:
+Û Û
+Û
+Û
+45005500
+42005500
+MSA 25NM
+CHE
+CHANGE : Description of VAR. 
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-14
+NEW CHITOSE
+
+
+=== Page 106 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180°
+360
+°
+090°
+D14.0 CHE
+Û
+Û
+MHA 3000
+ 
+MINIMA 
+CAT
+640 (570)
+580 (510) 1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 70
+A
+B
+C
+D
+Circling to 
+EAST side of RWY only.
+RJCC /  NEW CHITOSE
+Chitose AD
+MAPt
+RJCC
+CHITOSE  APP
+120.1 – 124.7
+CHITOSE  VOR/DME
+116.9       CHE
+CH–116X
+ÛÝ1ÛÝ(
+CHITOSE  TOWER
+118.8 – 126.2 – 121.6G
+RADAR  AVBL
+ATIS    128.6
+340
+351
+579
+680
+319
+3619
+&+(WR0$3WÛ10
+Knots 70 90 100 120 140 160
+Min:Sec 3:05 2:24 2:10 1:48 1:33 1:21
+Û
+Û Û
+1243
+1663
+454
+735
+2841
+965
+538
+Û Û
+Remain within 14.0NM of CHE
+Turn right climb via MKE 
+R339 to 5000FT. Proceed 
+to MKE VOR/DME and hold.
+Contact CHITOSE APP .
+MISSED APPROACH
+CHE
+MAPt
+Û
+Û
+Û
+Û
+VOR A
+2000
+1100
+5000
+10NM
+3.6NM
+V$5Û:
+Û Û
+Û
+Û
+45005500
+42005500
+MSA 25NM
+CHE
+MUKAWA
+CH–111X
+116.4 MKE
+ÛÝ1ÛÝ(
+VOR/DME
+CHANGE : Description of VAR. 
+(EFF:7 SEP 2023) 7/9/23
+RJCC AD2.24-IAC-15
+NEW CHITOSE
+
+
+=== Page 107 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(              )
+ 1  RWY01L:
+     Angle 3.0°
+     MEHT 20.0m(66ft)
+     402m inside fm THR
+ RWY Grooving
+    RWY 01L / 19R 3000m × 60m
+    RWY 01R / 19L 3000m × 60m
+ 2  RWY19R:
+     Angle 3.0°
+     MEHT 19.7m(65ft)
+     422m inside fm THR
+ 3  RWY01R:
+     Angle 3.0°
+     MEHT 20.2m(66ft)
+     401m inside fm THR
+ 4  RWY19L:
+     Angle 3.0°
+     MEHT 20.3m(67ft)
+     441m inside fm THR
+TRAHC GDLESOTIHC WEN / CCJR
+CHITOSE
+  990     ZYT
+CH-29X
+TACAN
+ÛÝ1ÛÝ( ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+CHITOSE
+AERODROME
+245
+ASR 319
+221
+36
+R
+01
+R
+19
+L
+18
+L18
+R
+19
+R
+01
+L
+36
+L
+9840
+×200ft
+9840
+×200ft
+Asph-Conc
+TWR
+SCALE
+ALS
+ALS
+RVR
+ALS
+RVR
+IBN Flg G"CH"
+ev 8.6 sec
+TWR : 118.8-126.2
+ELEV 69.8ft
+48´
+46´
+141˚38´
+42˚50´
+´44´24´04
+500 0
+0 10001000 3000 ft
+500 1000 m
+1 3
+2 4
+CHANGE: Shape of TWY   A11, B11 installed. VAR.
+VAR 10° W (2024)ANNUAL CHANGE 3
+' W
+(EFF:28 NOV 2024) 31/10/24
+RJCC AD2.24-OTHER-1
+NEW CHITOSE
+
+
+=== Page 108 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMESOTIHC WEN / CCJR
+VAR 10˚W (2024)
+CENTER 凬 424740N/1413959E (RJCJ ARP)
+4000
+360˚
+330˚
+300˚
+310˚
+270˚
+220˚
+180˚
+140˚
+120˚
+030˚
+040˚
+4NM
+Each distances as follows,
+6NM
+䷵䢢
+䷶䢢
+8NM
+9NM
+13NM
+䷷䢢
+䷸䢢
+䷹䢢
+15NM䷺䢢
+20NM䷻䢢
+1
+2
+4 7
+5
+6
+6
+3
+5000
+1500
+19NM
+3000
+5000 6000 8000
+7000
+9000
+3000
+4000
+5000
+6000
+8000
+11000
+2000
+8000
+4000
+6000
+8000
+11000
+40NM
+30NM 30NM
+39NM
+50NM
+60NM
+35NM
+45NM
+70NM
+80NM
+50NM
+20NM
+60NM
+30NM
+070˚
+CHANGE: VAR.
+(EFF:28 NOV 2024) 31/10/24
+RJCC AD2.24-OTHER-2
+NEW CHITOSE
+

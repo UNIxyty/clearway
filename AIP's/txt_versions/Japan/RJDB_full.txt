@@ -1,0 +1,1617 @@
+=== Page 1 ===
+AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD2-1
+AD 2 AERODROMES
+RJDB AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJDB - IKI
+RJDB AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJDB AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 334457N/1294709E
+APRX 200m SE of AP administration office
+2 Direction and distance from (city) 33nm WNW FUKUOKA
+3 Elevation/ Reference temperature 41ft / 30°C (2003-2007)
+4 Geoid undulation at AD ELEV 
+PSN
+100ft
+5 MAG VAR/ Annual change 7°W(2009) / 2.5’W
+6 AD Administration, address, 
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Iki Airport Administration Office, Nagasaki Prefectual Government
+1725 Ishidachoutsutsukihigashi-fure, Iki-city, Nagasaki, 811-5203 JAPAN
+Tel: 0920-44-5167 e-mail: s13070@pref.nagasaki.lg.jp
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2300 - 1000
+2 Customs and immigration On request
+Customs: 0920-52-1112
+Immigration: 092-262-2373
+3 Health and sanitation Quarantine( human): On request(0920-52-0089)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (FUKUOKA)
+7 ATS ATS: 2300 - 1000
+Remarks: AFIS provided by Fukuoka Airport Office.
+8 Fuelling Nil
+9 Handling Nil
+10 Security 2300 - 1000
+11 De-icing Nil
+12 Remarks Nil
+(EFF:6 OCT 2022) 6/10/22
+
+
+=== Page 2 ===
+RJDB AD2-2 AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD 2.4 HANDLING SERVICES AND FACILITIES
+RJDB AD 2.5 PASSENGER FACILITIES
+RJDB AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJDB AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Nil
+3 Fuelling facilities/ capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels In Iki city 11km
+2 Restaurants In Iki city 11km
+3 Transportation Busses and Taxis
+4 Medical facilities In Iki city 11km
+5 Bank and Post Office In Iki city 11km
+6 Tourist Office In Iki city 11km
+7 Remarks Nil
+1 AD category for fire fighting CAT 5
+2 Rescue equipment Chemical fire fighting truck x 1
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Not AVBL
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD2-3
+RJDB AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJDB AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJDB AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface: Asphalt Strength: PCR 172/F/C/Y/T
+2 Taxiway width, surface and
+strength
+Width: 18m
+Surface: Asphalt Strength: PCR 172/F/C/Y/T
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints (Spot NR)
+1. 334500.60N,1294703.91E
+2. 334458.94N,1294703.63E
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY02/20 
+(Marking) RWY designation, RWY CL, RWY THR, Aiming point, TDZ, RWY side
+stripe 
+(LGT) REDL, RTHL, RENL, RWY DIST marker LGT
+TWY:
+(Marking) TWY CL, TWY side stripe
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks (LGT) Apron flood LGT
+In Area2 See obstacle data
+In Area3 To be developed
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 4 ===
+RJDB AD2-4 AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJDB AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office FUKUOKA
+2 Hours of service
+MET Office outside hours
+H24 (FUKUOKA)
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing  is available upon inquiry at FUKUOKA.
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information RADIO
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+02
+20
+009.36°
+189.36°
+1200×30
+1200×30
+PCR
+149/F/C/Y/T
+Asphalt Concrete
+334437.31N/1294704.70E
+123ft
+334515.74N/1294712.29E
+152ft
+THR ELEV: 23ft
+THR ELEV: 52ft
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See AD 2.24 AD Chart 1320×90
+1320×90
+10 × (MNM:10 MAX:120)*
+35 × (MNM:70 MAX:90)*
+*For detail, ask airport administrator
+RWY grooving 1200m X 20m
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 5 ===
+AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD2-5
+RJDB AD 2.13 DECLARED DISTANCES
+RJDB AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+02
+20
+1200
+1200
+1200
+1200
+1200
+1200
+1200
+1200
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+ 02 Nil Green   PAPI
+3.0° /LEFT
+  224.2m
+  45ft
+Nil Nil 1200m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+ 20 Nil Green  PAPI
+3.0° /LEFT
+  302m
+45ft
+Nil Nil 1200m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+Remarks
+10
+Overrun area edge LGT (LEN:60m Color: Red)
+RWY THR ID LGT for RWY 02/20 THR (Color: White)
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 6 ===
+RJDB AD2-6 AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+The unusable area of PAPI for runway 20 is shown in the charts below.
+ޕࠅ߅ߣߩ
+6JGWPWUCDNGCTGCQH2#2+HQTTWPYC[KUUJQYPKPVJGEJCTVUDGNQY
+UNUSABLE AREA
+6°
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 7 ===
+AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD2-7
+RJDB AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJDB AD 2.16 HELICOPTER LANDING AREA
+RJDB AD 2.17 ATS AIRSPACE
+RJDB AD 2.18 ATS COMMUNICATION FACILITIES
+1 ABN/ IBN location, characteristics and 
+hours of operation ABN:334459N/1294701E, White/Green EV4.3sec, HO 
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: Nil
+Anemometer : 490m from RWY 20 THR
+3 TWY edge and centerline lighting TWY edge LGT: Blue
+4 Secondary power supply/    switch-
+over time Nil
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+Iki
+Information
+Zone
+Area within a radius of 5nm(9km) of Iki ARP 3,000 or 
+below
+E Iki Radio 
+En
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+AFIS IKI RADIO 118.2MHz 2300 - 1000 Operated by Fukuoka Airport Office
+(EFF:1 OCT 2021) 12/8/21
+
+
+=== Page 8 ===
+RJDB AD2-8 AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJDB AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Type of aid
+(VOR declina-
+tion)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(8°W/2021)
+IKE 113.2MHz H24 334451.04N/
+1294636.67E
+DME IKE 1166MHz
+(CH-79X)
+H24 334451.04N/
+1294636.67E
+216ft
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 9 ===
+AIP Japan
+IKI
+Civil Aviation Bureau,Japan
+RJDB AD2-9
+RJDB AD 2.21 NOISE ABATEMENT PROCEDURES
+RJDB AD 2.22 FLIGHT PROCEDURES
+RJDB AD 2.23 ADDITIONAL INFORMATION
+RJDB AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL
+or RCL marking
+NIL
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine 
+ACFT with 
+ TKOF ALTN 
+AP FILED
+02 A,B - - - 200 '-1600m - 200 '-1600m
+20 A,B - - - 200 '-1600m - 200 '-1600m
+OTHER
+02
+A,B AVBL LDG MINIMA
+20
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument(FUKUOKA, IKI REVERSAL)
+Standard Departure Chart - Instrument(AKNAG-RNAV)
+Standard Arrival Chart - Instrument(AKNAG-RNAV)
+Instrument Approach Chart(VOR RWY02)
+Instrument Approach Chart(VOR RWY20)
+Instrument Approach Chart(RNP RWY02)
+Instrument Approach Chart(RNP RWY20)
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:29 DEC 2022) 1/12/22
+
+
+=== Page 10 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJDB / IKI AD CHART
+IKI AP
+TRUE NORTH
+PAPI Angle 3.0°
+MEHT 13.6m(45ft)
+RTHL
+224.2m
+OVERRUN AREA EDGE LGT
+02
+31
+3
+3
+1
+1
+31
+REMARKS :   RWY GROOVING        20m ×1200m
+ WIDTH & STRENGTH OF TWY
+       18m PCR   172 / F / C / Y / T
+  DIMENTION & STRENGTH  OF  APRON
+110m ×70m   PCR   172 / F / C / Y / T
+22
+22
+APRON FLOOD LGT
+WDI
+ABN
+PAPI Angle 3.0°
+MEHT 13.6m(45ft)
+RWY THR ID  LGT
+LONGITUDINAL PROFILE OF RWY
+20
+302m
+RWY 20
+RWY 02
+6.99m
+(23ft)
+8.89m
+(29ft)
+10.85m
+(36ft)
+11.33m
+(37ft)
+11.73m
+(38ft)
+13.05m
+(43ft)
+14.57m
+(48ft)
+14.87m
+(49ft)
+15.70m
+(52ft)
+15.87m
+(52ft)
+m0021m0611m099m009m096m015m054m093m091m0
+1%
+0.98%
+%08.0
+%76.0
+%37.0
+%27.0
+%33.0
+%94.0
+%34.0
+WIND SPEED METER WIND SPEED METERCEILOMETER
+CHANGE :  WIND SPEED METER, CEILOMETER added.
+(EFF:20 FEB 2025) 20/2/25
+RJDB AD2.24-ADC-1
+IKI
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+FUKUOKA  FIVE  DEPARTURE  
+     RWY 02  :   Climb RWY HDG to 600FT, turn right HDG 151˚...
+     RWY 20  :   Turn left HDG 061˚...
+                    ... to intercept and proceed via IKE R106 to DGC VORTAC.
+     Note   RWY02 : 6.7% climb gradient required up to 600FT.
+OBST ALT 299FT located at 0.7NM 360˚ FM end of RWY02.
+RJDB / IKI
+492
+756
+R106
+HDG 061˚
+HD
+G 151˚
+106˚
+SID
+600
+VOR/DME
+113.2   IKE
+ÛÝ1ÛÝ(
+CH-79X
+IKI
+200FT
+VORTAC
+114.5   DGC
+ÛÝ1ÛÝ(
+CH-92X
+FUKUOKA
+100FT
+73(32)
+02
+RWY
+20
+81(40)
+56(15)
+56(15)
+57(16)
+See TAKE OFF MINIMA
+CHANGE : PROC renamed. PROC course. OBST.
+(EFF:15 JUN 2023) 18/5/23
+RJDB AD2.24-SID-1
+IKI
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+IKI
+STANDARD DEPARTURE CHART - INSTRUMENT
+IKI REVERSAL THREE DEPARTURE
+     RWY 02  :   Climb RWY HDG to 1600FT, turn right,...
+     RWY 20  :   Climb RWY HDG to 1500FT, turn right,...
+       ...proceed to IKE VOR/DME.
+                      Cross IKE VOR/DME at or above 4000FT.
+     Note   RWY02 : 6.7% climb gradient required up to 600FT.
+OBST ALT 299FT located at 0.7NM 360˚ FM end of RWY02.
+RJDB / IKI
+492
+756 4000
+SID
+1500
+1600VOR/DME
+113.2   IKE
+ÛÝ1ÛÝ(
+CH-79X
+IKI
+200FT
+73(32)
+02
+RWY
+20
+81(40)
+56(15)
+56(15)
+57(16)
+See TAKE OFF MINIMA
+CHANGE : OBST.
+RJDB AD2.24-SID-2
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+VAR 8°W 
+Note GNSS required.
+AKNAG ONE DEPARTURE  RNP1
+RJDB / IKI RNAV SID
+Serial
+Number
+Path
+Desc riptor
+Waypoint
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA
+AKNAG
+凟
+凟
+-7.9 凟凟 +600 凟凟  RNP1
+002 凟
+197
+(189.3)
+-7.9 L +7000 凟凟  RNP1
+DB200
+334211.6N
+1295104.4E
+600
+AKNAG
+332017.0N
+1295044.8E
+73(32)
+02
+RWY
+20
+81(40)
+56(15)
+56(15)
+57(16)
+See TAKE OFF MINIMA
+  RWY 02 : Climb on HDG017° at or above 600FT, turn right direct to DB200, to AKNAG at or above 7000FT.
+  Note RWY02 : 6.7% climb gradient required up to 600FT.
+OBST ALT 299FT located at 0.7NM 360˚ FM end of RWY02.
+Serial
+Number
+Path
+Desc riptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA
+AKNAG
+凟
+凟
+-7.9 凟 +600 凟凟  RNP1
+002 DF DB200 凟
+017
+(009.3)
+-7.9 R 凟凟
+003 TF 凟 189
+ (180.7) -7.9 21.9 凟 +7000 凟凟
+ RNP1
+RNP1
+  RWY 20 : Climb on HDG197° at or above 600FT, turn left direct to AKNAG at or above 7000FT.
+RWY02
+RWY20
+凟 凟
+凟
+DF
+凟
+凟
+197°
+600
+189°
+21.9
+7000
+017
+°
+Course
+°M(°T)
+凟
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJDB AD2.24-SID-3
+IKI
+
+
+=== Page 16 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+AKNAG
+332017.0N
+1295044.8E
+7000
+GAMJA
+332504.7N
+1294913.6E
+3000
+MAPNI
+333643.7N
+1294531.3E
+1900
+VAR 8°W 
+Note GNSS required.
+AKNAG ARRIVAL  RNP1
+RJDB / IKI RNAV STAR RWY02
+From AKNAG at or above 7000FT, to GAMJA at or above 3000FT, to MAPNI at or above 1900FT.
+Serial
+Number
+Path
+Desc riptor
+Waypoint
+Identifier
+Fly
+Over
+course °
+M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF AKNAG 凟 凟 -7.9 凟凟 +7000 凟凟  RNP1
+002 TF GAMJA 凟 353
+(345.2) -7.9 5.0 凟 +3000 凟凟
+003 TF MAPNI 凟 353
+ (345.2) -7.9 12.1 凟 +1900 凟凟
+RNP1
+ RNP1
+353°12.1
+353°5.0
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJDB AD2.24-STAR-1
+IKI
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180
+°
+270°
+360°
+090°
+RJDB / IKI VOR RWY02
+FUKUOKA RADAR
+119.7 - 279.2
+IKI   VOR/DME
+113.2 IKE
+CH-79X
+ÛÝ1Û37ÝE
+NO RADAR
+MISSED APPROACH
+Climb to 1500FT via IKE R357,
+turn right, direct to IKE VOR/DME
+and hold at 3000FT.
+Contact FUKUOKA RADAR.
+Turn initiation
+within D8.0 IKE
+Turn initiation within D8.0 IKE
+MAX Turning speed 140KIAS
+Timing not authorized for defining the MAPt.
+3000
+165˚
+357˚
+357˚
+3.0˚ 1600
+
+SAORY(FAF) : 1(
+MAPt
+VDP
+MDA
+1100
+(1077)
+SAORY
+(FAF)
+DME to IKE
+NM to THR
+0.2
+0
+1.2
+1.0
+1.5
+1.2
+5.0
+4.8
+IKE
+483
+472
+457
+492
+256
+756
+263
+SAORY(FAF)
+D5.0 IKE
+MAPt
+D1.2 IKE
+MHA 3000
+MAX 170KIAS
+292
+165˚
+357˚
+357˚
+357˚
+345˚
+165˚
+10NM
+781.
+NM to IKE
+ALT (3.0˚ APCH Path)
+FAF
+1589
+3
+952
+4
+1270
+2
+633
+MAPt
+–
+MINIMA 
+CAT
+440 (417) 660 (619)1500 1600
+–– ––
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 23 AD elev. 41
+A
+B
+C
+D
+VAR 8˚W 
+090˚ 270˚
+360˚
+1900
+47003400
+MSA 25NM
+IKE
+EQPT REQUIRED
+DME
+CHANGE : VAR. PROC course. HLDG course. Missed APCH course. MSA(BTN 090° and 180°)
+   IKI RADIO
+118.2
+        AFIS provided              
+  by Fukuoka Airport Office  
+(EFF:15 JUN 2023) 18/5/23
+RJDB AD2.24-IAC-1
+IKI
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+180°
+270°
+360
+°
+090°
+02YWR ROV IKI / BDJR
+FUKUOKA RADAR
+119.7 - 279.2
+IKI   VOR/DME
+113.2 IKE
+CH-79X
+ÛÝ1Û37ÝE
+NO RADAR
+MISSED APPROACH
+Climb to 1500FT via IKE R216,
+turn left, direct to IKE VOR/DME
+and hold at 3000FT.
+Contact FUKUOKA RADAR.
+Turn initiation
+within D7.0 IKE
+Turn initiation
+within D7.0 IKE
+MAX Turning speed
+180KIAS
+Timing not authorized for defining 
+the MAPt.
+3000 017˚
+216˚
+216˚
+3.0˚ 1400
+
+YUTAN(FAF) : 1(
+MAPt
+VDP
+MDA
+700
+(659)
+YUTAN
+(FAF)
+DME to IKE
+NM to THR
+0.6
+0
+2.3
+1.7
+3.6
+3.0
+IKE
+483
+472
+457
+492
+256
+756
+263
+YUTAN(FAF)
+D3.6 IKE
+MAPt
+D0.6 IKE
+MHA 3000
+MAX 170KIAS
+292
+017˚216˚
+216˚
+216˚
+017˚ 197˚
+10NM
+781.
+NM to IKE
+ALT (3.0˚ APCH Path)
+FAF
+1057
+3
+881
+MAPt
+–
+ 
+MINIMA 
+CAT
+610 (569) 660 (619)1500 1600
+–– ––
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 52 AD elev. 41
+A
+B
+C
+D
+VAR 8˚W 
+090˚ 270˚
+360˚
+1900
+47003400
+MSA 25NM
+IKE
+EQPT REQUIRED
+DME
+   IKI RADIO
+118.2
+        AFIS provided              
+  by Fukuoka Airport Office  
+CHANGE : VAR. PROC course. HLDG course. Missed APCH course. MSA(BTN 090° and 180°)
+(EFF:15 JUN 2023) 18/5/23
+RJDB AD2.24-IAC-2
+IKI
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJDB / IKI
+MSAS CH87808
+M02A
+RNP APCH
+VAR 8°W
+IKI(IKE)
+(IAF/MAHF)
+MAPNI
+(IF)
+OLGAM
+(FAF)
+DB250
+(MAPt)
+DB251(MATF)
+ARUTU
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+MISSED APPROACH
+Direct to DB251, turn left direct to
+IKE and hold at 3000FT.
+Contact FUKUOKA RADAR.
+DB250
+(MAPt)
+OLGAM
+(FAF)
+MAPNI
+(IF)
+NM to THR
+RDH 50
+1900
+1000
+(977)
+1500
+04.58.0
+RNP RWY02
+OMGAX
+4700
+MSA 25NM
+ARP : 334457N / 1294709E
+ARP
+VDP
+(LNAV)
+1.0
+NM to Next Fix
+ALT (3.0° APCH Path)
+FAF 3 21 MAPt
+䯍698101713351500
+MINIMA THR elev. 23 AD elev. 41
+DA(H) CMV DA(H) VIS
+A
+B
+C
+D
+1600
+CAT LPV
+1500 660(619)296(273)
+287(264)
+LNAV/VNAV
+CMV
+LNAV CIRCLING
+MDA(H) MDA(H)CMV
+410(387) 410(387)1500 1500
+䯍䯍䯍䯍䯍 䯍䯍䯍
+334451.04N
+1294636.67E
+334045.54N
+1294203.85E
+333717.86N
+1294123.11E
+333643.73N
+1294531.33E
+334011.29N
+1294612.22E
+334339.95N
+1294653.38E
+335142.44N
+1294828.78E
+IKI(IKE) 
+(IAF/MAHF)
+Baro-VNAV not authorized below -5 䰳
+IKI(IKE)MHA 3000
+MAX 170KIAS
+NOT TO SCALE
+1MIN
+NOT TO SCALE1MIN
+MAPNI
+MHA 1900
+MAX 170KIAS
+VDP
+0.2NM to MAPt
+3000
+MDA
+ARUTU
+OMGAX
+MAPNI
+(IF)
+DB251
+(MATF)
+DB250
+(MAPt)
+OLGAM
+(FAF)
+FUKUOKA RADAR
+119.7 - 279.2
+   IKI RADIO
+118.2
+        AFIS provided
+by Fukuoka Airport Office
+   NO RADAR
+10NM
+(222.8°T)
+231°
+5.6
+(189.3°T)
+3.5
+(009.3°T)
+017°3.5
+197°
+(009.3°T)
+017°3.5
+(099.4°T)
+107°
+3.5
+180°
+360°
+051°
+231°
+197°
+017°
+017°
+017°
+3.00°
+ɾ
+552
+ɾ
+698
+ɾ
+573
+CHANGE : Description of VAR.
+(EFF:15 JUN 2023) 18/5/23
+RJDB AD2.24-IAC-3
+IKI
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJDB AD2.24-IAC-4
+INSTRUMENT APPROACH CHART
+ 
+RJDB / IKI RNP RWY02
+Operation type 0 LTP/FTP ellipsoidal height +00382
+SBAS service provider identifier 2 FPAP latitude 334531.5680N
+Airport identifier RJDB FPAP longitude 1294715.4170E
+Runway 02 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M02A 䶩 length offset 0496
+LTP/FTP latitude 334437.2865N HAL 40.0
+LTP/FTP longitude 1294704.7065E VAL 50.0
+CRC remainder
+LTP/FTP orthometric height 6.7
+5C72DF61
+FAS DATA BLOCK
+Required additional dataCHANGE : Description of FAS DATA BLOCK ITEM(CRC remainder).
+IKI
+(EFF:29 DEC 2022) 29/12/22
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ 
+RJDB / IKI
+MSAS CH73916
+M20A
+RNP APCH
+VAR 8°W
+ 
+ 
+IKI(IKE)
+(IAF/MAHF)
+ASESU
+(IF)
+OSTUK
+(FAF)
+DB050
+(MAPt)
+DB051(MATF)
+EMREK
+MISSED APPROACH
+Direct to DB051, turn right direct to
+IKE and hold at 3000FT.
+Contact FUKUOKA RADAR.
+DB050
+(MAPt)
+OSTUK
+(FAF)
+ASESU
+(IF)
+NM to THR
+RDH 50
+1700
+700
+(659)
+1500
+0
+RNP RWY20
+ 
+ 
+ISMOK
+4700
+MSA 25NM
+ARP : 334457N / 1294709E
+ARP
+VDP
+(LNAV)
+NM to Next Fix
+ALT (3.0° APCH Path)
+FAF321MAPt
+䯍 802 1120 1439 1500
+MINIMA THR elev. 52 AD elev. 41
+DA(H) CMV DA(H) VIS
+A
+B
+C
+D
+1600
+CAT LPV
+1500 660(619)467(415)
+458(406)
+LNAV/VNAV
+CMV
+LNAV CIRCLING
+MDA(H) MDA(H)CMV
+500(448) 500(459)1500 1500
+䯍䯍䯍䯍䯍 䯍䯍䯍
+334451.04N
+1294636.67E
+335040.14N
+1294400.82E
+335338.14N
+1294435.93E
+335303.89N
+1294844.91E
+334936.34N
+1294803.81E
+334626.93N
+1294726.36E
+333859.58N
+1294558.08E
+Baro-VNAV not authorized below -5 䰳
+VDP
+0.1NM to MAPt
+3000
+ 
+1.2 4.4 7.9
+MDA
+IKI (IKE)
+MHA 3000
+MAX 170KIAS
+NOT TO SCALE
+1MIN
+ 
+IKI(IKE)     
+(IAF/MAHF)
+EMREK
+ISMOK
+ASESU
+(IF)
+DB051
+(MATF)
+DB050
+(MAPt)
+OSTUK
+(FAF)
+FUKUOKA RADAR
+119.7 - 279.2
+   IKI RADIO
+118.2
+        AFIS provided
+by Fukuoka Airport Office
+   NO RADAR
+(009.3°T)
+017°3.0
+(189.3°T)
+3.5
+197°
+(189.3°T)
+3.2
+197°
+(099.4°T)
+107°
+3.5
+(339.7°T)348°6.2
+348°168°
+197°
+197°
+3.00°
+360°
+180°
+ɾ
+698
+ɾ
+573
+10NM
+CHANGE : ALT restriction at ISMOK abolished. ALT restriction at ASESU.
+(EFF:15 JUN 2023) 18/5/23
+RJDB AD2.24-IAC-5
+IKI
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJDB AD2.24-IAC-6
+INSTRUMENT APPROACH CHART
+ 
+RJDB / IKI RNP RWY20
+Operation type 0 LTP/FTP ellipsoidal height +00471
+SBAS service provider identifier 2 FPAP latitude 334421.4340N
+Airport identifier RJDB FPAP longitude 1294701.5790E
+Runway 20 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M20A 䶩 length offset 0496
+LTP/FTP latitude 334515.7155N HAL 40.0
+LTP/FTP longitude 1294712.2885E VAL 50.0
+CRC remainder
+LTP/FTP orthometric height 15.6
+660F91B2
+FAS DATA BLOCK
+Required additional dataCHANGE : Description of FAS DATA BLOCK ITEM(CRC remainder).
+IKI
+(EFF:29 DEC 2022) 29/12/22
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJDB / IKI Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+຾ᮏ ⁺ 
+Katsumoto Harbor
+㒓䝜ᾆ ⁺ 
+Gonoura Harbor
+ྡᓥ ⅉྎ
+Najima Lighthouse
+ⅲᖗᏊᓥ ⅉྎ
+Eboshijima Lighthouse
+ຍ၈ᓥ ⅉྎ
+Kakarajima Lighthouse
+஧⚄ᓥ ⅉྎ
+Futagamishima Lighthouse
+&+$1*(&DOOVLJQ5(027(ĺ5$',2
+233°T / 14.5NM
+110°T / 10.5NM
+/ 8.8NM154°T
+/
+265°T / 5.2NM
+Call sign BRG / DIST from ARP Remarks
+103°T / 3.7NM
+324°T 7.9NM
+IKI INFORMATION ZONE
+At
+ or below 3000FT
+IKI INFORMATION ZO
+IKI I
+A
+A
+NFORMATION ZO
+KI I
+At
+At
+ or below 3000FT
+or below 3000FT
+o
+o
+IKI INFORMATI
+5NM from ARP
+IKI RADIO
+118.2
+RJDB / IKI
+IKI RADIO
+KI RADIO
+118 2
+VAR 7
+R 7
+77777777
+
+W(2009) /
+/ 2.5’W
+GONOURA  
+GOGOGONONOOURURU AA 
+KATSUMOTO  
+KAKAKATSTSTSSUMUMUMU OTOTOTO OOO O
+EBOSHIJIMA  
+EBEBOSOSOSHIHIJIJIJ MAMA  
+of measurement used to express elevation is meter(m).
+㼃㼑㼎
+㼑㼎㼎㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+NAJIMA  
+NANANAJIJIJIJ MAMAMA 
+AAA
+KAKARAJIMA   
+KAKAKAKAKAKARARARAJIJIJIMAMAMA 
+FUTAGAMISHIMA  
+FUFUFUTATATAGAGAGAMIMIMISHSHSHIMIMIMAA AA A
+(EFF:1 OCT 2021) 12/8/21
+RJDB AD2.24-OTHER-1
+IKI
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJDB / IKI LDG CHART
+129˚44´ 46´ 48´
+33˚49´
+47´
+45´
+ELEV  41 ft
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+SCALE
+756
+69
+RWY THR ID LGT
+256
+246
+250 263
+466
+492
+292
+177
+PAPI  ANGLE 3.0
+˚
+MEHT  13.6m (45 ft)
+302 m  from  THR
+PAPI  ANGLE 3.0˚
+MEHT  13.6m (45 ft)
+224.2 m  from  THR
+VOR / DME
+IKI
+113.2     IKE
+CH - 79X
+33˚44´51˝N /129˚46´37˝E
+660
+VAR 7˚W
+(2
+008)
+1000 500 0 1000 2000
+3940 
+ʷ
+100
+Asph-Conc
+Asph-Conc
+02
+20
+(EFF:26 MAR 2020) 26/3/20
+RJDB AD2.24-OTHER-2
+IKI
+←
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+FT37NM
+3000
+5500
+FS098Û
+5000
+FT50NM
+FS30NM
+)6Û )6Û
+)6Û
+)7Û
+)7Û
+FS8NM
+FS17NM
+FS30NM
+6000
+2000
+FS17NM
+FS288Û
+FS254Û
+FS8NMFS5NM
+FS10NM
+4000
+(2) 335009N/1311439E
+340934N/1311037E 333504N/1302706E 
+325011N/1305203E 
+330908N/1301817E 
+(RJFF ARP)
+(RJFT RADAR SITE)
+(RJFS RADAR SITE)
+(1)
+TRAHC edutitlA gnirotceV muminiMIKI / BDJR
+V$5Û:
+CENTER 凬
+凬
+凬
+4000
+12000
+6000 3000
+11000
+16000
+19000
+10000
+8000
+Û
+Û
+Û Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+4000
+6000
+䷶䢢
+13000
+1800
+Û
+Û
+Û
+Û Û
+9000
+8000
+6000
+䷸䢢
+13000
+12000
+(2)
+(1)
+䷷䢢
+8NM
+2NM
+Û
+Û
+Û
+4500
+7000
+3.5NM
+20NM
+30NM
+30NM
+30NM50NM
+40NM
+50NM
+60NM
+5000
+䷺䢢 ䷹䢢
+15000
+7000
+10000
+)7Û )7Û
+)7Û
+)7Û
+䷵ 1900
+䷶ 2000
+䷷ 2200
+䷸ 2300
+䷹ 2400
+䷺ 3300
+䷵䢢
+)7Û
+)7Û
+)7Û
+FT25NM
+FT26NM
+FT20NM
+34NM
+25NM10NM
+15NM
+60NM
+CHANGE : Latitude and longitude of (1)(2).
+30NM
+5NM
+10NM
+(EFF:2 OCT 2025) 2/10/25
+ RJDB AD2.24-OTHER-3
+IKI
+

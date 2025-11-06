@@ -1,0 +1,1141 @@
+=== Page 1 ===
+AIP Japan
+SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD2-1
+AD 2 AERODROMES
+RJTL AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJTL - SHIMOFUSA
+RJTL AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJTL AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 354756N/1400044E
+2 Direction and distance from (city) 5.4NM E MATSUDO
+3 Elevation/ Reference temperature 96FT/ -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-M
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7A T S H 2 4
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:13 AUG 2020) 16/7/20
+
+
+=== Page 2 ===
+RJTL AD2-2  AIP Japan
+   SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD 2.4 HANDLING SERVICES AND FACILITIES
+RJTL AD 2.5 PASSENGER FACILITIES
+RJTL AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJTL AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1 PLUS
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3
+Capability for removal of disabled  
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:15 AUG 2019) 15/8/19
+
+
+=== Page 3 ===
+AIP Japan
+SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD2-3
+RJTL AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJTL AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJTL AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not Available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:(RWY01/19)
+(LGT) RTHL, RWY DIST marker LGT, TKOF aiming LGT
+TWY:
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJTL AD2-4  AIP Japan
+   SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJTL AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office SHIMOFUSA
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available 
+for briefing or consultation
+S, U
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of 
+service, etc.)
+Nil
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+01
+19
+To be issued
+later
+2250×45
+2250×45
+SW43000kg
+(94600lbs)
+DW56000kg
+(123200lbs)
+DTW
+117000kg
+(257400lbs)
+Concrete
+Nil 
+Nil 
+Nil
+Nil
+   Slope of RWY Strip
+ Dimensions(M) Remarks
+71 0 1 2
+Nil 2370×300
+2370×300
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 5 ===
+AIP Japan
+SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD2-5
+RJTL AD 2.13 DECLARED DISTANCES
+RJTL AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJTL AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJTL AD 2.16 HELICOPTER LANDING AREA
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+01 AVBL
+Nil
+PAPI
+3.0°
+273.23M
+45.3ft
+19 AVBL AVBL
+Nil
+PAPI
+3.0°
+389.95M
+63.3ft
+Remarks
+10
+RWY THR ID LGT for RWY01 THR
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 354803N/1400119E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:LGTD
+3 TWY edge and center line lighting TWY edge LGT:AVBL
+4 Secondary power supply/ switch-over 
+time
+Nil
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+(EFF:17 AUG 2017) 17/8/17
+
+
+=== Page 6 ===
+RJTL AD2-6  AIP Japan
+   SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD 2.17 ATS AIRSPACE
+RJTL AD 2.18 ATS COMMUNICATION FACILITIES
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+SHIMOFUSA 
+CTR
+1)Area within a radius of 5nm of SHIMOFUSA 
+ARP(35°48'N/140°01'E )(*1)
+(1)2000 or
+ below (*1) 
+DS H I M O F U S A
+TOWER
+2)Area within a radius of 5nm of SHIMOFUSA 
+ARP , in the north side of a north parallel line at 
+a distance of 3nm from a line extending from 
+354700.91N/1401546.75E on 254°T.
+(2)3500 or
+ below
+exclude
+area(*1)
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+TWR
+GCA-ASR
+-PAR
+GND
+Shimofusa Tower
+Shimofusa
+GCA
+Shimofusa
+Ground
+325.4MHz
+138.3MHz
+126.2MHz
+121.5MHz(E)
+243.0MHz(E)
+302.2MHz
+291.6MHz
+247.0MHz
+122.0MHz
+133.4MHz
+122.35MHz
+121.5MHz(E)
+243.0MHz(E)
+228.2MHz
+138.3MHz
+H24
+2300 - 0745
+EXC
+ FRI 0746 - 
+SUN 2259 
+AND HOL 
+Other time
+1HR PN.
+H24
+APP provided by Tokyo APP.
+ASR, PAR RWY19
+Glide path 3.0°
+Maintenance period:
+2300-0745 SAT in VMC.
+(EFF:1 APR 2025) 20/2/25
+
+
+=== Page 7 ===
+AIP Japan
+SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD2-7
+RJTL AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+123 4 5 6 7
+TACAN SHT 980MHz
+(CH-19X)
+H24 354807N/
+1400035E
+122FT Unusable:
+R050-090 beyond 30NM BLW 2000FT.
+R090-100 beyond 25NM BLW 2000FT.
+R100-110 beyond 20NM BLW 2000FT.
+R110-130 beyond 25NM BLW 2000FT.
+R130-150 beyond 20NM BLW 2000FT.
+R150-160 beyond 38NM BLW 3000FT.
+R200-210 beyond 35NM BLW 4000FT.
+R210-220 beyond 30NM BLW 4000FT.
+R220-230 beyond 30NM BLW 5000FT.
+R240-250 beyond 35NM BLW 7000FT.
+R260-280 beyond 25NM BLW 7000FT.
+R280-290 beyond 22NM BLW 7000FT.
+R290-300 beyond 35NM BLW 7000FT.
+R350-360 beyond 38NM BLW 5000FT.
+ILS-LOC 19 ISH 109.1MHz H24 354712N
+/
+1400045E
+LOC:250m(820FT) away FM RWY 01 
+THR. BRG 186°(MAG)
+ILS-GP 19 - 331.4MHz H24 354822N/
+1400048E
+GP:327m (1074FT) inside FM RWY 19 
+THR.120m(394FT) E of RCL.GP angle 
+3.0° 
+HGT of ILS Ref datum 17.7m(58FT)
+MM 19 75MHz H24 354906N
+/
+1400042E
+0.56NM FM RWY 19 THR
+(EFF:13 AUG 2020) 16/7/20
+
+
+=== Page 8 ===
+RJTL AD2-8  AIP Japan
+   SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJTL AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 9 ===
+AIP Japan
+SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD2-9
+RJTL AD 2.22 FLIGHT PROCEDURES
+RJTL AD 2.23 ADDITIONAL INFORMATION
+1.TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL or 
+RCL Marking
+NIL
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine 
+ACFT with
+ TKOF ALTN AP 
+FILED
+01
+A,B,C,D
+- 200 - 800M - 200 - 800M
+19 200 - 800M 200 - 800M - 200 - 800M
+OTHER
+01
+A,B,C,D AVBL LDG MINIMA
+19
+Note:SIDs are designed in accordance with STANDARDS for FLIGHT PROCEDURE DESIGN.
+2.WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY19 ASR RWY19
+MINIMA THR elev. 91 AD elev. 96 MINIMA THR elev. 91 AD elev. 96
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+348(257) 800
+560(464)
+1600
+A
+580(484)
+1400
+580(484) 1600
+B 580(484) B 1500
+C
+700(604)
+2400 C 1600
+700(604)
+2400
+D 3200 D 1800 3200
+3.Lost Communication Procedures for Arrival aircraft under radar navigational guidance.
+If radio communications with Shimofusa GCA are lost for 1 minute in the pattern or 5 seconds(PAR)/15 seconds(ASR) on final 
+approach, squawk Mode A/3 Code 7600 and;
+I 1) Contact Shimofusa Tower.
+2) If unable,proceed in accordance with visual flight rules.
+3) If unable,proceed to TOHNE at last assigned altitude or 3000ft whichever is higher, and execute instrument  
+approach.
+II Procedures other than above will be issued when situation required.
+Nil
+(EFF:13 AUG 2020) 16/7/20
+
+
+=== Page 10 ===
+RJTL AD2-10  AIP Japan
+   SHIMOFUSA
+Civil Aviation Bureau,Japan
+RJTL AD 2.24 CHARTS RELATED TO AN AERODROME
+Standard Departure Chart-Instrument (UTSUNOMIYA)
+Standard Departure Chart-Instrument (WEST)
+Standard Departure Chart-Instrument (TSUGA)
+Standard Departure Chart-Instrument (KOGAR)
+Instrument Approach Chart (ILS Z or LOC Z  RWY19)
+Instrument Approach Chart (ILS Y or LOC Y RWY19)
+Instrument Approach Chart (TACAN RWY19)
+(EFF:26 JAN 2023) 29/12/22
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+GAMAR
+R016/D23.5 SHT 000
+SIDRJTL / SHIMOFUSA
+UTSUNOMIYA ONE DEPARTURE
+    RWY01 : Climb RWY HDG to SHT 2.0DME, ... 
+    RWY19 : Climb RWY HDG to SHT 2.5DME, turn left HDG 331˚ to intercept and proceed...
+        ...via SHT R016 to GAMAR, turn left ,via JDT R161 to JDT TACAN.
+        Cross GAMAR at or above 5000FT.
+     Note  RWY01 :  5.0% climb gradient required up to 600FT.
+OBST ALT 251FT located at 1.56NM 020° FM end of RWY01.
+RWY19 :  5.0% climb gradient required up to 700FT.
+OBST ALT 314FT located at 1.67NM 161° FM end of RWY19.
+016˚
+HDG331˚
+D2.5 SHT
+D2.0 SHT SHT R016
+TACAN
+SHIMOFUSA
+CH-19X
+ÛÝ1ÛÝ E
+100FT
+SHT980
+CHANGE New PROC.
+TACAN
+UTSUNOMIYA
+CH-58Y
+ÛÝ1ÛÝ E
+400FT
+JDT1145
+341˚
+(EFF:26 JAN 2023) 29/12/22
+RJTL AD2.24-SID-1
+SHIMOFUSA
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+TACAN
+CH–19X
+ÛÝ1ÛÝ(
+980 SHT
+SHIMOFUSA
+100FT
+OMIYA
+D21.3 SHT
+SIDRJTL / SHIMOFUSA
+WEST FIVE DEPARTURE
+    RWY01 : Climb RWY HDG to 2000FT, turn left HDG 252˚ to intercept and proceed
+via SHT R297 to OMIYA.
+    RWY19 : Climb RWY HDG to SHT 2.5DME, turn left proceed to SHT TACAN, 
+via SHT R297 to OMIYA.
+Cross SHT TACAN at or above 2000FT.
+     Note  RWY01 : 5.0% climb gradient required up to 2000FT.
+  RWY19 : 5.0% climb gradient required up to 700FT.
+OBST ALT 314FT located at 1.67NM 161° FM end of RWY19.
+HDG252˚297˚
+D2.5 SHT
+2000
+2000
+WEST FIVE DEPARTURE
+CHANGE: PROC renamed.DME FM RWY19(D2.4 SHTˠ'. SHT). Note RWY19(OBST). SHT COORD.
+(EFF:13 AUG 2020) 16/7/20
+RJTL AD2.24-SID-2
+SHIMOFUSA
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+SIDRJTL / SHIMOFUSA
+TSUGA FOUR DEPARTURE
+    RWY01 :  Climb RWY HDG to SHT 2.0DME, turn right HDG 200˚ ... 
+    RWY19 :  Climb RWY HDG to 600FT, turn left... 
+            ...to intercept and proceed via SHT R155 to TSUGA.
+            Cross TSUGA at or above 3000FT.
+     Note  RWY01 :  5.0% climb gradient required up to 600FT.
+ OBST ALT 251FT located at 1.56NM 020° FM end of RWY01.
+               RWY19 :  5.0% climb gradient required up to 600FT.
+SHT R155HDG 200˚
+155˚
+D2.0 SHT
+3000
+TSUGA
+D14.1 SHT
+600
+TACAN
+SHIMOFUSA
+CH-19X
+ÛÝ1ÛÝ E
+100FT
+SHT980
+TSUGA FOUR DEPARTURE
+CHANGE: PROC renamed. SHT COORD.
+(EFF:13 AUG 2020) 16/7/20
+RJTL AD2.24-SID-3
+SHIMOFUSA
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+KOGAR
+D24.6 SHT
+D24.6 SHT ARC
+SIDRJTL / SHIMOFUSA
+KOGAR TWO DEPARTURE
+    RWY01 : Climb RWY HDG to SHT 2.0DME, ... 
+    RWY19 : Climb RWY HDG to SHT 2.5DME, turn left HDG 331˚ to intercept and proceed...
+        ...via SHT R016 to 24.6DME, turn left, via SHT 24.6DME counterclockwise ARC
+        to KOGAR.
+        Cross SHT R016/23.5DME at or above 5000FT.
+     Note  RWY01 :  5.0% climb gradient required up to 600FT.
+ OBST ALT 251FT located at 1.56NM 020° FM end of RWY01.
+     ɹɹRWY19 :  5.0% climb gradient required up to 700FT.
+ OBST ALT 314FT located at 1.67NM 161° FM end of RWY19.
+016˚
+HDG331˚
+SHT R329
+D2.5 SHT
+D2.0 SHT
+D23.5
+5000
+SHT R016
+TACAN
+SHIMOFUSA
+CH-19X
+ÛÝ1ÛÝ E
+100FT
+SHT980
+KOGAR TWO DEPARTURE
+CHANGE: PROC renamed. DME FM RWY19(D2.4 SHTˠD2.5 SHT). Radial FM SHT(KOGAR). Note RWY19(OBST). SHT COORD.
+(EFF:13 AUG 2020) 16/7/20
+RJTL AD2.24-SID-4
+SHIMOFUSA
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Caution : False GP information
+L of 190˚ (“SHT” R011)
+inbound to LOC.
+EQPT REQUIRED
+TACAN
+186˚
+346˚
+ILS Z or LOC Z RWY19
+TOKYO  APP
+126.0 - 261.2
+ILS-LOC
+ 109.1 ISH
+ ILS-GP 331.4  
+SHIMOFUSA  TWR
+GCA  AVBL
+1512
+4000
+2000
+1962(LOC)
+3000D17.0 SHT
+ARC
+GOT R210
+GP 3.0˚
+    MISSED APPROACH
+Climb to 600FT on HDG 186˚,
+turn right climb to 3000FT via
+SHT R346 to TOHNE and hold.
+Contact TOKYO APP.
+Timing not authorized for defining the MAPt.
+DME to SHT
+NM to THR
+1.0
+0.6
+2.0
+1.6
+6.2
+5.7
+11.2
+10.7
+10NM
+166˚346˚
+009
+˚189
+˚
+SHT  R346
+JOBAN(FAF)
+D6.2 SHT
+MAPt(LOC)
+MM/ D1.0 SHT
+423
+443
+476
+785
+960
+D22.0 SHTD22.0 SHT
+ASEKI(IAF)
+R009/
+D17.0 SHT
+BANDO(IF)
+D11.2 SHT
+TOHNE(IAF)
+R346/
+D17.0 SHT
+MHA 4000
+MAX220KIASMHA 3000
+MAX220KIAS
+EMERG  SAFE ALT  100NM   14400 JOBAN(FAF):
+355416.43N/1400034.98E
+SHT R009
+SHT R360
+D17.0 SHT ARC
+GOTR210
+TACAN
+SHIMOFUSA
+CH-19X
+980SHT         
+ÛÝ1ÛÝ(
+TACAN
+DAIGO
+ASEKI(IAF) 
+R009/D17.0SHT
+BANDO(IF)
+JOBAN 
+(FAF)
+MM 
+MAPt 
+(LOC)
+SHT
+VDP 
+(LOC)
+TOHNE(IAF) 
+R346/D17.0SHT
+397
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+330 (239) 620 (524)
+700 (604)
+620 (524)
+750
+1400
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 91 AD elev. 96
+A
+B
+C
+D
+VAR 7˚W (2019)
+RJTL / SHIMOFUSA
+325.4 - 138.3
+126.2
+270˚
+360˚
+180˚
+4000
+3100
+2000
+MSA 25NM
+SHT
+180˚
+090˚
+270˚
+210˚
+CH-100X
+ÛÝ1ÛÝ(
+1187 GOT
+NM to SHT
+ALT (3.0˚ APCH Path)
+FAF
+1962
+4
+1274
+5
+1593
+3
+956
+2
+637
+6
+1911
+MAPt
+–
+186˚
+186˚
+210˚
+186˚
+RDH58
+1600
+900MDA
+CHANGE: Course FM ASEKI to BANDO.
+(EFF:24 MAR 2022) 24/2/22
+RJTL AD2.24-IAC-1
+SHIMOFUSA
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Caution : False GP information
+L of 190˚ (“SHT” R011)
+inbound to LOC.
+EQPT REQUIRED
+TACAN
+186˚
+ILS Y or LOC Y RWY19
+TOKYO  APP
+126.0 - 261.2
+ILS-LOC
+ 109.1 ISH
+ ILS-GP 331.4  
+SHIMOFUSA  TWR
+GCA  AVBL
+1512
+4000
+2000
+1962(LOC)
+3000D17.0 SHT
+ARC
+GOT R210
+GP 3.0˚
+    MISSED APPROACH
+Climb to 600FT on HDG 186˚,
+turn left climb to 1700FT via
+SHT R155 to TSUGA and hold.
+Contact TOKYO APP.
+Timing not authorized for defining the MAPt.
+DME to SHT
+NM to THR
+1.0
+0.6
+2.0
+1.6
+6.2
+5.7
+11.2
+10.7
+10NM
+166˚346˚
+155˚
+335˚
+009
+˚189
+˚
+JOBAN(FAF)
+D6.2 SHT
+to TSUGA
+MAPt(LOC)
+MM/ D1.0 SHT
+423
+443
+476
+785
+960
+D22.0 SHT
+D19.0
+SHT
+D22.0 SHT
+ASEKI(IAF)
+R009/
+D17.0 SHT
+BANDO(IF
+D11.2 SHT
+TOHNE(IAF)
+R346/
+D17.0 SHT
+TSUGA
+D14.1 SHT
+MHA 4000
+MAX220 KIASMHA 3000
+MAX220 KIAS
+MHA 1700
+MAX220 KIAS
+EMERG  SAFE ALT  100NM   14400 JOBAN(FAF):
+355416.43N/1400034.98E
+SHT R009
+SHT R155
+SHT R360
+SHTR155
+D17.0 SHT ARC
+GOT
+R210
+TACAN
+SHIMOFUSA
+CH-19X
+980     SHT         
+ÛÝ1ÛÝ(
+ASEKI(IAF) 
+R009/D17.0SHT
+BANDO(IF)
+JOBAN 
+(FAF)
+MM 
+MAPt 
+(LOC)
+SHT
+VDP 
+(LOC)
+TOHNE(IAF) 
+R346/D17.0SHT
+397
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+330 (239) 620 (524)
+700 (604)
+620 (524)
+750
+1400
+1500
+1600
+1600
+2400
+32001800
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 91 AD elev. 96
+A
+B
+C
+D
+VAR 7˚W (2019)
+RJTL / SHIMOFUSA
+325.4 - 138.3
+126.2
+270˚
+360˚
+180˚
+4000
+3100
+2000
+MSA 25NM
+SHT
+180˚
+090˚
+270˚
+210˚
+NM to SHT
+ALT (3.0˚ APCH Path)
+FAF
+1962
+4
+1274
+5
+1593
+3
+956
+2
+637
+6
+1911
+MAPt
+–
+186˚
+186˚
+210˚
+186˚
+RDH58
+900MDA
+TACAN
+DAIGO
+CH-100X
+ÛÝ1ÛÝ(
+1187 GOT
+1600
+CHANGE: Course FM ASEKI to BANDO.
+(EFF:24 MAR 2022) 24/2/22
+RJTL AD2.24-IAC-2
+SHIMOFUSA
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+346˚
+TACAN RWY19
+TOKYO  APP
+126.0 - 261.2
+SHIMOFUSA  TWR
+GCA  AVBL
+1512
+4000
+2232
+799 3000
+D17.0 SHT
+ARC3.0˚
+    MISSED APPROACH
+Climb to 600FT via SHT R189,
+turn right climb to 3000FT via
+SHT R346 to TOHNE and hold.
+Contact TOKYO APP.
+Timing not authorized for defining the MAPt.
+DME to SHT
+NM to THR
+1.6
+1.2
+0 2.5
+2.1
+7.0
+6.6
+17.0
+16.6
+10NM
+166˚346˚
+009
+˚189
+˚
+SHT  R346
+USIKU(FAF)
+D7.0 SHT
+MAPt
+423
+443
+476
+785
+960
+D22.0 SHTD22.0 SHT
+ASEKI(IF)
+R009/
+D17.0 SHTTOHNE(IAF)
+R346/
+D17.0 SHT
+MHA 4000
+MAX220 KIASMHA 3000
+MAX220 KIAS
+EMERG  SAFE ALT  100NM   14400 USIKU(FAF):
+355507.56N/1400051.20E
+SHT R
+003
+D17.0 SHT ARC
+TACAN
+SHIMOFUSA
+CH-19X         
+ÛÝ1ÛÝ(
+ASEKI(IF) 
+R009/D17.0SHT
+USIKU 
+(FAF)MAPt
+SHT
+VDP
+SDF
+TOHNE(IAF) 
+R346/D17.0SHT
+397
+ 
+MINIMA 
+CAT
+500 (404)
+700 (604)
+580 (484)1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 91 AD elev. 96
+A
+B
+C
+D
+VAR 7˚W (2019)
+RJTL / SHIMOFUSA
+325.4 - 138.3
+126.2
+270˚
+360˚
+180˚
+4000
+3100
+2000
+MSA 25NM
+SHT
+180˚
+090˚
+270˚
+NM to SHT
+ALT (3.0˚ APCH Path)
+FAF
+2232
+4
+1274
+5
+1592
+3
+955
+2
+637
+6
+1911
+MAPt
+–
+189˚
+189˚
+15001100620MDA
+SHIMOFUSA  TACAN
+   CH-19X 
+ÛÝ1ÛÝ(
+189˚
+EQPT REQUIRED
+–
+980     SHT         
+CHANGE: VAR. IAF(TUKBAˠASEKI). FAF(TEGARˠUSIKU). MINIMA. AD elev. SHT COORD. ALT(3.0°APCH Path).
+   980ɹɹSHT 
+(EFF:13 AUG 2020) 16/7/20
+RJTL AD2.24-IAC-3
+SHIMOFUSA
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+

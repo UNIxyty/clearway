@@ -1,0 +1,4021 @@
+=== Page 1 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-1
+AD 2 AERODROMES
+RJFU AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJFU - NAGASAKI
+RJFU AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJFU AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 325501N/1295449E
+2 Direction and distance from (city) 18Km (9.7nm) NNE of  Nagasaki railway station, 4km (2.2nm) W of Omura 
+railway station.
+3 Elevation/ Reference 
+temperature
+8ft / 33°C (2004-2008)
+4 Geoid undulation at AD ELEV 
+PSN
+105.89ft
+5 MAG VAR/ Annual change 7° W (2008) / Annual change 2' W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site 
+addresses
+Civil Aviation Bureau, Ministry of Land, Infrastructure, Transport and Tourism
+Nagasaki Airport, 593-2 Mishima-cho, Omura City, Nagasaki Pref.
+Tel: 0957(53)6901
+Fax: 0957(54)4539
+AFS: RJFUYFYX
+7 Types of traffic permitted
+(IFR/VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2200 - 1300
+2 Customs and immigration Customs: 2330-0815
+Immigration: INTL SKED FLT hours only
+3 Health and sanitation INTL SKED FLT hours only
+4 AIS Briefing Office 2200 - 1300
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (FUKUOKA)
+7A T S 2200 - 1300
+Remarks: 2200-2245 and 1215-1300, AFIS provided by Fukuoka Airport Office.
+8 Fuelling 2200 - 1300
+9 Handling DOM/JAL:2240-1240, ANA:2200-1230, ORC:2200-0910 INTL/2330-0800
+10 Security 2130 - 1200
+11 De-icing Nil
+12 Remarks Nil
+(EFF:8 SEP 2022) 8/9/22
+
+
+=== Page 2 ===
+RJFU AD2-2 AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD 2.4 HANDLING SERVICES AND FACILITIES
+RJFU AD 2.5 PASSENGER FACILITIES
+RJFU AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJFU AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities No limitation
+2 Fuel/ oil types Fuel Grades : JET A-1
+Oil Grade : W80, W100, AERO80, AERO100
+3 Fuelling facilities/ capacity Fuel  Truck Refueling, No limitation
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Hotels in the city
+2 Restaurants Available, Not Continuous
+3 Transportation Buses, Taxies and Ships
+4 Medical facilities Hospitals in the city
+5 Bank and Post Office Bank in the city. Post office in the city.
+6 Tourist Office Tourist Office in the city
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire fighting truck x 3,  Water supply truck x 1, Lighting power supply 
+truck x 1, Emergency medical equipments conveyance truck x 1
+3 Capability for removal of disabled 
+aircraft
+B744
+4 Remarks Nil
+1 Types of clearing equipment
+2 Clearance priorities 1.RWY 2.TWY 3.APRON
+3 Remarks Seasonal avai lability:ALL seasons
+(EFF:15 DEC 2011) 17/11/11
+
+
+=== Page 3 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-3
+RJFU AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Surface : Surface Concrete, Asphalt Concrete in part.
+Strength : PCR 785/R/B/W/T:spot NR2, 3
+PCR 925/R/B/W/T:spot NR5, 6, 7, 8, 9,10
+PCR 1106/R/B/W/T spot  NR11, 12, 14
+N-Apron(Small ACFT Apron)
+Surface : Asphalt, Strength : AUW 5700Kg/0.48MPa
+2 Taxiway width, surface and
+strength
+Width : B2.......................9m
+P1 - P5...............23m 
+T1, T6................28.5m  
+T2, T3, T4, T5....34m
+Surface : Asphalt Concrete
+Strength : P1, P3, P4, P5.................PCR 786/F/A/X/T
+T1, T2, T3, T4, T5, T6.....PCR 786/F/A/X/T
+P2....................................PCR 925/R/B/W/T
+B2....................................AUW 5700Kg/0.48MPa
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+   5 :  325447.08N/1295522.18E*
+   6 :  325448.42N/1295520.75E
+   7 :  325449.91N/1295519.11E
+   8 :  325451.60N1295517.31E
+   9 :  325453.29N/1295515.51E
+  10 :  325454.98N/1295513.71E
+  11 :  325456.73N/1295511.84E
+  12 :  325458.53N/1295509.91E
+6 Remarks Nil
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJFU AD2-4 AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJFU AD 2.10 AERODROME OBSTACLES
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+ACFT stand ID signs: SPOT 2, 5-9
+2 RWY and TWY markings and 
+LGT
+RWY14/32:
+(Marking) RWY designation, RWY CL, RWY THR, Aiming point, TDZ, 
+                RWY side stripe
+(LGT) RCLL, REDL, RTHL, RENL, RTZL(RWY32), WBAR(RWY32), 
+RWY DIST marker LGT
+TWY: T1 - T6
+(Marking) TWY CL, RWY HLDG PSN, Mandatory Instructions, TWY side stripe 
+(LGT) TWY edge LGT, TWY CL LGT, RWY guard LGT, Taxiing guidance sign
+TWY: P1, P3, P4, P5
+(Marking) TWY CL, TWY side stripe 
+(LGT) TWY edge LGT, TWY CL LGT
+TWY: P2
+(Marking) TWY CL, TWY side stripe 
+(LGT) TWY edge LGT, TWY CL LGT, Taxiing guidance sign
+TWY: B2
+(Marking) TWY CL, TWY side stripe 
+(LGT) TWY edge LGT, Taxiing guidance sign
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area 
+(LGT) Apron flood LGT
+In Area2 See Obstacle data
+In Area3 To be developed
+(EFF:23 APR 2020) 23/4/20
+
+
+=== Page 5 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-5
+RJFU AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office FUKUOKA
+2 Hours of service
+MET Office outside hours
+H24 (FUKUOKA)
+3 Office responsible for TAF preparation
+Periods of validity
+FUKUOKA
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing  is available upon inquiry at FUKUOKA
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, Ps, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, PSWM, 
+PSW(domestic), U2/Tr, E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, APP, ATIS, RADIO
+10 Additional information(limitation of 
+service, etc.)
+Nil
+(EFF:24 MAR 2022) 24/2/22
+
+
+=== Page 6 ===
+RJFU AD2-6 AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJFU AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+14
+32
+138.00°
+318.00°
+3000×60
+3000×60
+PCR 786/F/A/X/T
+Asphalt Concrete
+PCR 786/F/A/X/T
+Asphalt Concrete
+325537.28N
+1295409.77E
+105.8ft
+325424.91N
+1295527.04E
+106.0ft
+THR ELEV: 14ft
+THR ELEV: 15ft
+   Slope of RWY 
+Strip
+ Dimen-
+sions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+See below chart
+See below chart
+ 3120×300
+ 3120×300
+40×300
+190×(MNM:120 MAX:300)*
+*For detail, ask airport administrator
+RWY 14 grooving: 3000 x 40m
+RWY 32 grooving: 3000 x 40m
+ 
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+14
+TWY:T5
+TWY:T4
+32
+TWY:T2
+TWY:T3
+3000
+2488
+1875
+3000
+2603
+1750
+3000
+2488
+1875
+3000
+2603
+1750
+3000
+2488
+1875
+3000
+2603
+1750
+3000
+3000
+Nil
+Nil
+誘導路の TORA, TODA 及び ASDA は、 誘導路中心線と滑走路中心線の交点から滑走路末端までの距離を示す。
+(TORA, TODA and ASDA for TWY indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.)
+0m 1500m 3000m2360m2060m451.5m 1120m
+RWY 14
+14ft
+0.22% 11ft
+0.12%
+8ft
+0.01%
+8ft
+0.01%
+9ft
+0.03%
+8ft 0.33%
+RWY 32
+15ft
+.
+. . .. .
+.
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 7 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-7
+RJFU AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJFU AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJFU AD 2.16 HELICOPTER LANDING AREA
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+14 SALS
+(*1)
+420m
+LIH
+Green
+-
+PAPI
+3.0°/LEFT
+471m
+74ft
+- 3000m
+30m
+Coded color
+(White/Red)
+LIH
+3000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+32 PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/LEFT
+444m
+65ft
+900m 3000m
+30m
+Coded color
+(White/Red)
+LIH
+3000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*2)
+Remarks
+10
+SALS with APCH LGT beacon(595m and 895m FM RWY THR)(*1)
+Overrun area edge LGT(LEN:60m Color:Red)(*2) 
+1 ABN/IBN location, characteristics 
+and hours of operation ABN:325428N/1295457E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : Nil 
+Anemometer : RWY 32 : 438m from RWY 32 THR, LGTD
+RWY 14 : 430m from RWY 14 THR, LGTD
+3 TWY edge and centerline lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/    
+switch-over time
+Within  1 sec : REDL, RENL, RTHL, WBAR, RCLL, Overrun area edge LGT
+Within 15 sec : Other LGT
+5 Remarks WDI LGT
+Nil
+(EFF:11 JUL 2024) 13/6/24
+
+
+=== Page 8 ===
+RJFU AD2-8 AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD 2.17 ATS AIRSPACE
+長崎進入管制区
+Nagasaki Approach Control Area
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+NAGASAKI 
+CTR
+Area within a radius of 5 nm of NAGASAKI ARP 
+(325501N1295449E) 
+3,000 or 
+below
+D NAGASAKI 
+TWR
+NAGASAKI
+RADIO (1)
+En
+(1)2200-2245
+    1215-1300
+NAGASAKI 
+ACA
+See attached chart E NAGASAKI 
+APP
+NAGASAKI 
+RADAR
+NAGASAKI 
+DEP
+En
+NAGASAKI 
+TCA
+See attached chart E NAGASAKI 
+TCA 
+En
+Point list
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+332519N1300516E
+332227N1293413E
+332219N1293406E
+330615N1293818E
+330921N1295252E
+332024N1300955E
+334508N1294656E
+324312N1295325E
+324312N1293323E
+324053N1293041E
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+323917N1292246E
+322522N1293021E
+322522N1295325E
+325752N1291235E
+322522N1295913E
+323353N1300008E
+323544N1295905E
+323828N1300526E
+324018N1301840E
+324407N1301735E
+(21)
+(22)
+(23)
+(24)
+(25)
+(26)
+(27)
+(28)
+324950N1302218E
+330132N1302113E
+330147N1301316E
+330951N1300318E
+331929N1301048E
+330915N1302028E
+322522N1302306E
+322734N1302215E
+OLE
+AKE
+17NM
+SGE
+8NM
+12NM
+25NM
+(1)
+(3)
+(4)
+(5)
+(8)(9)
+(10)
+(11)
+(6)
+(12) (13)
+(14)
+(15)
+(16)
+(17)
+(18) (19)
+(20)
+(21)
+(22)
+(23)
+(24)
+(25)
+(26)
+(27)
+(28)
+(7)
+(2)
+9.5NM
+FL170
+6000
+(EXC6000)
+FL170
+6000
+(EXC6000)
+12000
+FL170
+12000
+(EFF:24 MAR 2022) 24/2/22
+
+
+=== Page 9 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-9
+長崎ターミナルコントロールエリア
+Nagasaki Terminal Control Area
+10000
+5000
+10000
+5000
+10000
+5000
+10000
+5000
+10000
+4000
+10000
+4000
+10000
+4000
+10000
+4000
+10000
+4000
+10000
+3000 10000
+3000
+10000
+3700
+10000
+2000
+10000
+2300
+10000
+2500
+10000
+6001
+10000
+3000
+10000
+3000
+10000
+3001
+10000
+6000
+10000
+6000
+10000
+8000
+10000
+6000
+10000
+6000
+10000
+6001
+283°T
+293°T
+303°
+T
+333°T
+339°
+T
+003°T
+023
+°T
+043
+°T
+15NM
+18NM
+25NM
+20NM
+20NM
+15NM 17NM
+8NM
+22NM
+10NM15NM
+22NM
+30NM
+8NM
+30NM
+13NM
+14NM
+4NM
+OLE
+KS14-1/2/3KS14-4/5/6
+NAGASAKI
+CTR
+AKE
+SGE
+NAGASAKI APPROACH
+CONTROL AREA
+093°T
+129°T
+158°T
+191°T206
+°T
+323°T
+ 25NM
+334508N1294656E
+(EFF:3 DEC 2020) 3/12/20
+
+
+=== Page 10 ===
+RJFU AD2-10 AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 34 5
+APP Nagasaki Approach 119.175MHz(1) 
+261.2MHz
+ 
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1300 (1)Primary
+ASR Nagasaki Radar 119.175MHz
+121.025MHz
+261.2MHz
+ 
+ 
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1300
+DEP Nagasaki Departure 121.0MHz
+261.2MHz
+ 
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1300
+TCA Nagasaki TCA 121.175MHz
+245.3MHz
+2300 - 1030
+TWR Nagasaki Tower 118.5MHz
+126.2MHz
+122.7MHz
+236.8MHz
+121.5MHz(E)
+243.0MHz(E)
+2245 - 1215(*)
+GND Nagasaki Ground 121.6MHz 2245 - 1215(*)
+ATIS NAGASAKI Airport 126.85MHz 2200 - 1300
+AFIS Nagasaki Radio 118.5MHz  2200-2245
+ 1215-1300(*)
+Operated by Fukuoka 
+Airport Office
+*Depending on air traffic situation, ATC service will be provided from 2230 to 2245 and from 1215 to 1230.
+(EFF:24 MAR 2022) 24/2/22
+
+
+=== Page 11 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-11
+RJFU AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+          ILS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of 
+transmitting 
+antenna 
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(7°W/2020)
+OLE 116.6MHz H24 325418.89N/
+1295504.73E
+VOR unusable :
+040°-070° beyond 25nm BLW 6000ft
+070°-090° beyond 20nm BLW 6000ft
+DME OLE 1200 MHz
+(CH-113X)
+H24 325418.89N/
+1295504.73E
+154ft
+DME unusable :
+030°-070° beyond 20nm BLW 6000ft
+070°-090° beyond 15nm BLW 6000ft
+160°-170° beyond 30nm BLW 5000ft
+170°-200° beyond 20nm BLW 4000ft
+200°-210° beyond 10nm BLW 4000ft
+210°-240° beyond 20nm BLW 4000ft
+260°-300° beyond 20nm BLW 4000ft
+ILS-LOC 32 IOL 110.9MHz 2200 - 1300 325542.95N/
+1295403.71E
+LOC : 235m(771ft) away FM RWY 
+14THR,
+ BRG(MAG)325°.
+ILS-GP 32 - 330.8MHz 2200 - 1300 325430.22N/
+1295515.11E
+GP : 330m(1084ft) inside FM RWY 32 THR.
+120m SW of RCL.
+HGT of ILS Ref datum16.2m(53ft). 
+GP Angle 3.0°.
+ILS-DME 32 IOL 1007MHz
+(CH-46X)
+2200 - 1300 325429.87N/
+1295514.76E
+25ft DME : 330m(1084ft) inside FM RWY 32 
+THR,134m(439ft) SW of RCL.
+ MSAS 1575.42M
+Hz
+H24 Transmitting antennas are satellite 
+based.
+ILS-LOC
+ANTENNA
+RWY
+14
+32
+ILS-GP ANTENNA
+ILS-DME  ANTENNA
+REMARKS  :  1. LOC  beam  BRG(MAG) 325 .˚
+2. HGT  of  ILS  REF  datum 16.2m (53ft)
+3. GP  Angle 3.0˃
+4. ELEV of ILS-DME 7.6m (25ft)
+235m 3000m
+330m
+120m134m
+(EFF:27 JAN 2022) 30/12/21
+
+
+=== Page 12 ===
+RJFU AD2-12 AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+1.1 Without prior permission of the airport administrator, the transient aircraft shall not use on this airport.
+1.2 Prior notification should be required with AD Administration for the purpose of getting the permission when crossing 
+Nagasaki CTR from 2200UTC to 2245UTC or from 1215UTC to 1300UTC.
+For further information  (0000UTC-0800UTC MON-FRI EXC HOL)
+Air Traffic Controller Office, Nagasaki Airport Office
+TEL: 0957-53-6870
+7時00分から 7時45分または21時15分から 22時00分までの間、 長崎管制圏を通過する場合は、 当該通過の許可を得るため
+にあらかじめ長崎空港事務所へ調整する こ と。
+問い合わせ先
+ 長崎空港事務所管制官事務室
+ ( 月曜日から金曜日までの う ち、 9 時 00 分から 17 時 00 分までの間。 ただ し休日を除 く 。 )
+ TEL: 0957-53-6870
+2.1 駐機位置について
+　 　 スポ ッ ト 2A の駐機位置は以下の通り とする。
+　 また自走アウ ト の際は以下に従う こ と。
+　 1） 自走アウ ト は以下図の駐機位置から左旋回とする。
+　 　 　※ 隣接のスポッ ト 3 は右旋回となるので注意する。
+　 2） スポ ッ ト 2A と スポ ッ ト 3 の同時走行は不可。
+2.1
+The parking position of Spot 2A shall be as follows.
+Also, operators shall comply with the following power-out
+procedure.
+1)The power-out procedure is a left turn from the parking
+    position.
+   *Caution that the next spot 3 turns right.
+2)Spot 2A and Spot 3 cannot be taxi to and from stands at the
+   same time.
+QBSLJOH
+EJSFDUJPO
+CBS
+4UPQCBS
+-FBEJOMJOF
+5VSOJOHMJOF
+GPSQPXFSPVU
+PQFSBUJPO
+(4&
+1BSLJOHBSFB
+(EFF:20 APR 2023) 20/4/23
+
+
+=== Page 13 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-13
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+2.2 プ ッ シ ュバッ ク方式について
+　 スポ ッ ト 5.6.7.8.9 は、 小型ジ ェ ッ ト 機に限り シ ョ ー ト プ ッ
+シ ュバッ クが実施でき る。 詳細は空港管理者に確認する こ と
+及び管制指示に従 う こ と。
+　 ※ 但し、 外国航空会社によるシ ョ ー ト プ ッ シ ュバッ クは実
+施不可
+　 * 1） 小型ジ ェ ッ ト 機 ・ ・ ・ B738、 A321 以下
+　*  2 ） ショートプッシュバック
+・ ・ ・ エプロン境界線から ター ミ ナル側 23.0ｍ の位置に標示
+された白の実線に ノ ーズギアを乗せて行う方法。
+2.2 Push back procedure
+     Spot 5.6.7.8.9 can be short-pushback only for small jets.
+     Ask AD administration for detail and follow the ATC 
+     instructions.
+         *Short pushback by foreign airlines is not possible.
+   *1) Small jets  ...B738, A321 or less.
+   *2) Short-pushback
+         ...The procedure is performed by placing the nose gear 
+            on the white line marked 23.0m on the terminal side 
+             from the apron boundary line.
+3.1 Unable  to stay at spot NR 2B, 2C and 2D from sunset to sunrise. Ask AD administration for detail.
+3.2 Unable to refueling at spot NR N2 and N3.
+Nil
+Nil
+Wing tip clearance at the TWY intersection (REF AD1.1.6.8)
+Wing tip clearance at the TWY intersection between the airc raft holding at the stop marking on the TWY and the other
+aircraft taxiing behind it are as follows.
+ When B773 holding at the stop marking on TWY T2 or T5
+Wing span (WS) of 
+aircraft taxiing on 
+TWY P1-P2 or P4-P5
+WS =<30.1m 30.1m < WS =< 47.1m WS >47.1m Legend
+*A : wing tip clearance >= 15m
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5mwing tip clearance *A *B *C
+95 TOPS6 78
+Apron 
+Boundary Line
+(Red line)
+Short-pushback 
+Line
+(White line)
+10
+(EFF:5 OCT 2023) 5/10/23
+
+
+=== Page 14 ===
+RJFU AD2-14 AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+ 
+RJFU AD 2.21 NOISE ABATEMENT PROCEDURES
+RJFU AD 2.22 FLIGHT PROCEDURES
+On use of this airport by training operation, the operator is required to arrange and obtain the prior permission of the airport 
+administrator.
+Nil
+Nil
+Nil
+1. TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with
+TKOF ALTN 
+AP FILED
+14
+A,B,C,D
+- 400m - 400m - 500m
+32 400m 400m 400m 400m - 500m
+OTHER
+14
+A,B,C,D AVBL LDG MINIMA
+32
+ 2. Lost communication procedures for Arrival Aircraft under radar navigational guidance.
+If radio communications with NAGASAKI Approach/Radar are lost for 30 seconds, squawk Mode A/3 Code 7600 and :
+(I) 1. Contact NAGASAKI Tower / NAGASAKI Radio.
+2. If unable, proceed in accordanc e with Visual Flight Rules.
+3. If unable, proceed to NAGASAKI VOR/DME at last assigned altitude or 4,000 feet whichever is higher, and execute
+instrument approach.
+(II) Procedures other than above will  be issued when situation required.
+3. Trajectorized Airport Traffic Data Processing System (TAPS)
+Aircraft flying under control of Nagasaki approach control in the approach control area will be instructed to reply with
+discrete code on Mode A/3 and Mode C.
+If an aircraft with non-discrete capability be instructed to reply with the discrete code, it shall report a controller accordingly.
+長崎アプローチの指示のも とに、 当該進入管制区を飛行する航空機は、 モー ド A/3 の二次レーダー個別コー ド 及び
+モード C による応答を指示される。
+二次レーダー個別コー ド を搭載し ていない航空機が当該コー ド による応答を指示された場合は， 管制官に対し その旨
+通報する こ と。
+(EFF:20 APR 2023) 20/4/23
+←
+
+
+=== Page 15 ===
+AIP Japan
+NAGASAKI
+Civil Aviation Bureau,Japan
+RJFU AD2-15
+RJFU AD 2.23 ADDITIONAL INFORMATION
+RJFU AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Aerodrome/Heliport Chart
+Aerodrome Obstacle Chart -ICAO type A (RWY 14/32)
+Aerodrome Obstacle Chart -ICAO type B
+Standard Departure Chart - Instrument (NORTH)
+Standard Departure Chart - Instrument (WEST)
+Standard Departure Chart - Instrument (NAGASAKI REVERSAL)
+Standard Departure Chart - Instrument (CHIKUGO-RNAV)
+Standard Departure Chart - Instrument (KAZSA-RNAV)
+Standard Departure Chart - Instrument (AKNAG-RNAV)
+Standard Departure Chart - Instrument (CARCO-RNAV)
+Standard Arrival Chart - Instrument (RNAV) 
+Instrument Approach Chart (ILS Z or LOC Z RWY 32)
+Instrument Approach Chart (ILS Y or LOC Y RWY 32)
+Instrument Approach Chart (RNP RWY 32)
+Instrument Approach Chart (RNP RWY 14)
+Instrument Approach Chart (VOR RWY 32)
+Instrument Approach Chart (VOR RWY 14)
+Other Chart  (Visual REP)
+Other Chart  (LDG CHART)
+Other Chart  (HOLDING PATTERN)
+Other Chart  (MVA CHART)
+(EFF:20 APR 2023) 20/4/23
+→
+
+
+=== Page 16 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+32
+14
+32
+32
+14
+14
+VAR 7˚W-2008
+Annual change 2´W
+A B
+1 2 3
+235678910111214
+MARKING  AIDS
+NAGASAKI  AIRPORT
+ELEV 8ft
+ABN
+19
+19
+28
+28
+37
+37
+55
+55
+73
+73
+82
+82
+91
+91
+6 4
+64
+3000X 60 m
+4 6
+46
+WDI
+WIND SPEED METER
+ELEV 14ft
+3T4T5T6T
+B2
+T2 T1
+P1P3P4P5
+POL
+TWR
+AIS/METTERMINAL
+PCR ARP786/F/A/X/T
+Asph-Conc
+CEILOMETER
+RWY -HOLDING POSITION MARKINGS
+TDZ  ELEV 15ft
+0.9m
+2.1m
+2.6m
+0.9m
+RUNWAY GUARD LIGHTS (T1-T6)
+WIND SPEED METER
+ELEV 15ft
+RVR
+WDI
+ILS
+GP  330.8
+DME 1007
+LOC
+110.9  IOL
+VOR / DME
+116.6  OLE
+CH–113X
+PAPI Angle  3.0˚
+MEHT 19.7m (65ft)
+444m inside fm THR
+PAPI Angle  3.0˚
+MEHT 22.5m (74ft)
+471m inside fm THR
+TAXIING  GUIDANCE  SIGN M-HEL-PAD
+0 100 200 300 m
+RWY -holding position markings are 
+located on taxiway T -1 through T -6.
+Runway guard lights are located on
+taxiway T -1 through T -6.
+: their locations are 75m off the
+runway centerline.
+TAXIWAY
+RUNWAY SIDE
+COMMON WAYS OF ITS MARKING AND LIGHTS
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW)
+RUNWAY GUARD LIGHTS
+(FLASHING YELLOW)
+325501N
+1295449E
+300m
+300m120m
+300m 600m595m
+APPROACH  LIGHTING  SYSTEMSIMPLE  APPROACH  LIGHTING  SYSTEM
+APPROACH  LIGHT  BEACON
+SEQUENCED  FLASHING  LIGHTS (SFL-V)
+RED
+RED
+RED
+THR LIGHTS
+RED
+GREENGREEN
+32-14
+B
+A
+23
+C
+D
+AD CHARTRJFU / NAGASAKI
+K-HEL-PAD
+P2
+N-APRON
+(Small ACFT Apron)
+CHANGE : Description of RVR and CEILOMETER.
+(EFF:20 FEB 2025) 20/2/25
+RJFU AD2.24-ADC-1NAGASAKI
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+AERODROME OBSTACLE CHART - ICAO
+TYPE A (OPERATING LIMITATIONS)
+MAGNETIC VARIATION 8°W - JUL 2025
+ 㔞ἲ䛻ᇶ䛵䛟ᅜᅵᆅ⌮㝔㛗ᢎㄆ䠄౑⏝䠅䚷㻾㻌㻢㻶㻴㼟㻌㻞㻥㻥
+NAGASAKI AIRPORT
+RWY : 14/32
+DECLARED DISTANCES
+RWY 14 RWY32
+3000m TAKE OFF RUN AVAILABLE 3000m
+3000m TAKE OFF DISTANCE AVAILABLE 3000m
+3000m ACCELERATE STOP DISTANCE AVAILABLE 3000m
+3000m LANDING DISTANCE AVAILABLE
+3000m
+VERTICAL
+SCALE
+FT
+M
+25
+50
+50
+75
+100
+100
+150
+200
+300
+250
+HORIZONTAL SCALE
+FEET
+METRES
+500 0 500 1000 1500 2000 2500 3000 m
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+NO SIGNIFICANT OBSTACLES
+BEYOND THIS POINT
+SLOPE 1.2%
+SLOPE 1.2%
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+!(1 IDENTIFICATION NUMBER
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+AH H H
+H
+H
+HHH
+H
+H
+kkkk
+H
+300
+15
+200
+100
+9843
+ 0→
+300002900028000260002500024000230002200021000200001900018000170001400013000120001100012000 11000 2700015000 16000
+300
+100
+200
+9843
+←0
+14 11 8 8 9 8
+14
+32
+146°→ ←326°ARP
+ASPHALT-CONCRETE 3000m×60m
+1514
+!(1 !(3!(2
+!(4
+!(7
+!(11
+!(10
+!(12
+!(14
+!(9
+!(8!(6
+!(5
+!(13 !(15
+!(1
+!(4 !(7 !(11
+!(10
+!(12
+!(13
+!(9
+!(8
+!(6
+!(3!(2
+!(5
+!(14
+!(15
+25
+18
+19
+36
+30
+228
+22
+201919
+19
+248
+260
+264
+30
+100
+200
+200
+100
+(EFF:10 JUL 2025) 10/7/25
+RJFU AD2.24-AOC-1NAGASAKI
+CHANGE: Update
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+A
+HORIZONTAL SURFACE
+TRANSITION
+AL SURFACE
+TRANSI
+TIONAL SURFACE
+SLO
+PE
+ 1:7SLO
+PE
+ 1:7
+APPROACH S
+URF
+AC
+E
+APPRO
+ACH
+ SURF
+ACE
+SLO
+PE 1:50
+SLOPE 
+1:50
+TAK
+E-O
+FF F
+LIGHT
+ PATH
+TAKE-OFF FLIGHT PATH
+SLOPE 1.2%
+SLOP
+E 1.2%
+OMURA BAY
+14
+32
+146°→
+←326°
+ARP
+ASPHALT-CONCRE
+TE
+30
+00m
+×60
+m
+ISAHAYA
+CITY
+OMURA CITY
+MISHIMA BRIDGE
+USUSHIMA ISLAND
+KASHIMA ISLAND
+KORI R
+IV
+ER
+NAT
+IONAL 
+ROUTE 
+34
+NATIONAL ROUTE 444
+OM
+URA L
+IN
+E
+UCHIDA RIVER
+DAIJY
+OGO RIVER
+15
+14
+APP
+ROACH SU
+RFA
+CE
+SLOP
+E 1:50
+APPR
+OAC
+H SURFACE
+SLOP
+E 1:50
+CONICAL SURFACE
+H
+H
+HHH
+H
+H
+H
+H
+H
+kkkk
+H
+k
+H
+k
+k
+H
+k
+k
+k
+k
+k
+H
+H
+H
+H
+H
+H H H
+H
+H
+H
+H
+H
+H
+H
+HH
+H
+H
+H
+H
+k
+k
+k
+k
+k
+k
+k
+kk
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+k
+H
+H
+H
+HH
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+k
+k
+k
+k
+k
+H
+kk
+k
+H
+Hk
+k
+k
+k
+k
+k
+k
+k
+25
+18 22
+2019
+36
+1919
+19
+30
+228 248
+260
+264
+30
+308
+167
+353
+318
+171
+759
+467
+270
+287
+467
+172
+150
+160
+161
+668
+476 550546
+407
+281
+339
+320
+314
+322
+278
+443371
+462
+581
+287
+230
+299
+377
+437
+295
+284
+331
+275
+317 308
+313
+294
+288
+212
+393
+402
+351
+684
+288
+319
+272
+417314
+308
+311
+214
+311
+396
+372
+307
+474
+293
+303
+488
+469
+477
+423
+553
+568
+200
+307
+271
+354
+428
+480
+159
+160
+165
+313
+172
+15130
+60
+56
+59
+48
+22
+27
+62
+600
+500
+400
+300
+200
+100
+400300200
+500400
+300200
+400
+100
+400
+300
+300
+20
+0
+300
+200
+200
+100
+200
+100
+100
+400
+300
+200
+200
+200
+200
+200
+200
+200
+200
+200
+100
+100
+100
+100
+100
+100
+129°58'E
+129°58'E
+129°57'E
+129°57'E
+129°56'E
+129°56'E
+129°55'E
+129°55'E
+129°54'E
+129°54'E
+129°53'E
+129°53'E
+129°52'E
+129°52'E
+129°51'E
+129°51'E
+32°59'N 32°59'N
+32°58'N 32°58'N
+32°57'N 32°57'N
+32°56'N 32°56'N
+32°55'N 32°55'N
+32°54'N 32°54'N
+32°53'N 32°53'N
+32°52'N 32°52'N
+DIMENSIONS AND ELEVATIONS IN FEET, BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+AERODROME OBSTACLE CHART - ICAO
+TYPE B
+AERODROME ELEVATION 8ft ARP
+ 㔞ἲ䛻ᇶ䛵䛟ᅜᅵᆅ⌮㝔㛗ᢎㄆ䠄౑⏝䠅㻾㻌㻢㻶㻴㼟㻌㻞㻥㻥
+ᅜᅵᩘ್᝟ሗ䠄㕲㐨䚸⥭ᛴ㍺㏦㐨㊰䚸㔜せ≀ὶ㐨㊰䠅
+0
+330
+300
+270
+240
+210
+180
+150
+120
+90
+60
+30
+0
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+330
+VAR 
+8°W
+ JUL
+ 2025
+ANNU
+AL CH
+ANGE 
+3′W
+LEGEND
+AMENDMENT RECORD
+Nr DATE ENTERED BY
+A
+AERODROME REFERENCE POINT
+32 ° 55 ‘ 01 “ N 129 ° 54 ‘ 49 “ E
+H POLE, TOWER, SPIRE, ANTENNA, ETC.
+k TREE RAILROAD
+HYDROGRAPHY
+BUILDING OR LARGE STRUCTURE
+TERRAIN CONTOUR (ft)
+TERRAIN PENETRATING OBSTACLE PLANE (ft)
+500 0 500 1000 1500 2000 2500 3000 m
+1000 0 1000 2000 3000 4000 5000 6000 7000 8000 9000 10000 ft
+METRES
+FEET
+HORIZONTAL SCALE
+(EFF:10 JUL 2025) 10/7/25
+RJFU AD2.24-AOC-2NAGASAKI
+CHANGE: Update
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJFU / NAGASAKI SID
+NORTH ONE DEPARTURE
+RWY 14: Climb RWY HDG to 500FT, via OLE R144 to 6.0 DME, 
+ turn right HDG324˚ until crossing OLE R258, turn right HDG016˚
+RWY 32: Climb via OLE R331 to PEARL....
+            ... Cross PEARL at or above 6000FT(*).
+           * For FUKUOKA TRANSITION : Cross PEARL at or above 8000FT.
+Note RWY 14: 5.0% climb gradient required up to 1200FT.
+  OBST ALT 1411FT located at 6.9NM 158˚ FM end of RWY14.
+R331
+R144
+331˚
+144˚
+PEARL
+HDG 324˚
+500
+D6.0 OLE
+6000
+8000(For FUKUOKA
+TRANSITION only)
+D25.5 OLE
+CHANGE : Description of PROC name.
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+ÛÝ1ÛÝ(
+                 to intercept and proceed via OLE R331 to PEARL....
+  OBST ALT 1575FT located at 7.7NM 165˚ FM end of RWY14.
+OLE R258
+HDG 016˚
+(EFF:29 DEC 2022) 1/12/22
+RJFU AD2.24-SID-1
+NAGASAKI
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFU AD2.24-SID-2
+STANDARD DEPARTURE CHART -INSTRUMENT
+NOITISNARTIKASAGAN / UFJR
+FUKUOKA TRANSITION
+From over PEARL, via DGC R244 to DGC VORTAC.
+Note : Not applicable for aircraft equipped with TACAN only.
+IKI TRANSITION
+From over PEARL, via IKE R203 to IKE VOR/DME.
+064˚
+023˚
+PEARL
+VOR/DME
+200FT
+IKI
+113.2  IKE
+CH-79X
+ÛÝ1ÛÝ( VORTAC
+100FT
+FUKUOKA
+114.5   DGC
+CH-92X
+ÛÝ1ÛÝ(
+CHANGE : Course FM PEARL to IKE.
+FUKUOKA TRANSITION
+IKI  TRANSITION
+NAGASAKI
+(EFF:15 JUN 2023) 18/5/23
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJFU / NAGASAKI SID
+WEST SEVEN DEPARTURE
+RWY 14: Climb RWY HDG to 500FT, climb via OLE R144 to 1800FT,  
+ turn right HDG292˚ to intercept and proceed via OLE R247...
+RWY 32: Climb RWY HDG 1500FT, turn left HDG202˚ to intercept 
+ and proceed via OLE R247...
+            ... to SUMOU.
+ Cross SUMOU at or above 4000FT.
+Note RWY 14: 5.0% climb gradient required up to 1800FT.
+  OBST ALT 854FT located at 3.4NM 170˚ FM end of RWY14.
+ RWY 32: 5.0% climb gradient required up to 1500FT.
+  OBST ALT 1969FT located at 8.0NM 272˚ FM end of RWY32.
+R247
+247˚
+144˚
+R144
+SUMOU
+HDG 292˚
+HDG 202˚
+1500
+4000
+500
+1800
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+ÛÝ1ÛÝ(
+D15.0 OLE
+CHANGE : Description of PROC name.
+(EFF:29 DEC 2022) 1/12/22
+RJFU AD2.24-SID-3
+NAGASAKI
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAGASAKI
+STANDARD DEPARTURE CHART -INSTRUMENT
+NOITISNARTIKASAGAN / UFJR
+  From over SUMOU, turn right to intercept and proceed via OLE R279 to OLE
+VOR/DME.
+  Maintain 12000FT or below until intercepting OLE R279.
+  Cross OLE R279/13.0DME at or above 9000FT.
+OMURA  TRANSITION
+  From over SUMOU, turn right HDG308˚ to intercept and proceed via OLE R263 
+/FUE R083 to CARCO.
+  Maintain 12000FT or below until intercepting OLE R263.
+CARCO  TRANSITION
+099˚
+SUMOU
+R279
+9000
+12000
+ 
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+D13.0
+OLE
+SUMOUCARCO
+HDG308˚263˚
+OLE R263
+R083
+FUE
+ 
+12000
+VOR/DME
+300FT
+FUKUE
+115.8   FUE
+CH-105X
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+R247/D15.0 OLE
+R247/D15.0 OLED45.4 OLE
+D11.5 FUE
+CHANGE : Bearing FM FUE. 
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+RJFU AD2.24-SID-4
+(EFF:3 OCT 2024) 5/9/24
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJFU / NAGASAKI SID
+NAGASAKI REVERSAL FIVE DEPARTURE
+RWY 14: Climb RWY HDG to 500FT, climb via OLE R144 to 6.0DME, turn right,
+ direct to OLE VOR/DME.
+ Cross OLE VOR/DME at or above 5000FT.
+RWY 32: Climb  via OLE R331 to 6.3DME, turn left, direct to OLE VOR/DME.
+ Cross OLE VOR/DME at or above 5000FT.
+Note RWY 14:   5.0% climb gradient required up to 1800FT.
+  OBST ALT 1575FT located at 7.7NM 165˚ FM end of RWY14.
+ RWY 32: 5.0% climb gradient required up to 1600FT.
+  OBST ALT 1969FT located at 8.0NM 272˚ FM end of RWY32.
+144˚
+R144
+R331
+331˚
+5000
+500
+D6.3 OLE
+D6.0 OLE
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+(EFF:29 DEC 2022) 1/12/22
+RJFU AD2.24-SID-5
+NAGASAKI
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+DIS VANRIKASAGAN / UFJR
+CHIKUGO FIVE DEPARTURE RNP1
+VAR 8˚  W
+Note GNSS required.
+TOHKI
+FU200
+FU401
+MUTUU
+500
+326˚ 146˚
+500
+6.7
+12.0
+FL170
+NOTE RWY14 : 5.0% climb gradient required up to 4700FT. 
+OBST ALT 4954FT located at 20.8NM 122˚ FM end of RWY14.
+RWY32 : 5.0% climb gradient required up to 500FT. 
+OBST ALT 2067FT located at 9.8NM 013˚ FM end of RWY32.
+RWY14 : Climb on HDG146˚ at or above 500FT, direct to FU401, to UNZEN, to WARAS at or below FL170,
+to GOROH at or above FL170.
+RWY32 : Climb on HDG326˚ at or above 500FT, direct to FU200, to TOHKI, to HIZEN at or above 13000FT,
+to MUTUU at or below FL170, to GOROH at or above FL170.
+HIZEN
+13000
+GOROH
+FL170
+UNZEN
+WARAS
+FL170
+055˚
+131˚
+131˚
+132˚
+7.9
+5.1
+8.2
+4.3
+7.7029˚
+019˚
+019˚
+CHANGE : Latitude and longitude deleted. 
+(EFF:20 MAR 2025) 20/2/25
+RJFU AD2.24-SID-6
+NAGASAKI
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFU AD2.24-SID-7
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY14
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 146
+(138.1) -7.6 - - +500 - - RNP1
+002 DF FU401 - - -7.6 - - - - - RNP1
+003 TF UNZEN - 029
+(021.5) -7.6 7.7 - - - - RNP1
+004 TF WARAS - 019
+(011.9) -7.6 4.3 - -FL170 - - RNP1
+005 TF GOROH - 019
+(011.9) -7.6 8.2 - +FL170 - - RNP1
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 326
+(318.1) -7.6 - - +500 - - RNP1
+002 DF FU200 - - -7.6 - - - - - RNP1
+003 TF TOHKI - 055
+(047.8) -7.6 12.0 - - - - RNP1
+004 TF HIZEN - 131
+(123.8) -7.6 6.7 - +13000 - - RNP1
+005 TF MUTUU - 131
+(123.9) -7.6 7.9 - -FL170 - - RNP1
+006 TF GOROH - 132
+(124.0) -7.6 5.1 - +FL170 - - RNP1
+DIS VANRIKASAGAN / UFJR
+CHIKUGO FIVE DEPARTURE
+ CHANGE : Waypoint Coordinates added. 
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+FU401
+UNZEN
+WARAS
+323918.7N / 1301130.5E
+324627.3N / 1301451.1E
+325037.5N / 1301553.8E
+TOHKI
+HIZEN
+MUTUU
+330937.2N / 1295823.9E
+330552.5N / 1300503.7E
+330129.4N / 1301250.5E
+FU200 330134.6N / 1294747.6E GOROH 325837.5N / 1301754.5E
+NAGASAKI
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAGASAKI
+STANDARD DEPARTURE CHART -INSTRUMENT
+NOITISNART VANRIKASAGAN / UFJR
+OOITA TRANSITION
+VAR 8˚  W
+OOITA
+IF
+TF
+Vertical
+Angle
+Navigation
+Specification
+–
+–
+–
+–
+–
+–
+–
+–
+–
+17.8
+OOITA
+(077.9)
+086
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.6
+-7.6
+–
+From     
+GOROH
+FL170
+KROKI
+FL190
+086˚
+17.8
+(078.1)
+086
+GOROH  at or above FL170, to KROKI at or above FL190, to OOITA.
+003 TF
+GOROH
+KROKI
+– -7.6 54.3 ––
++FL170
++FL190
+––
+RNP1
+Note GNSS required.
+RNP1
+RNP1
+RNP1
+CHANGE : SALTY TRANSITION abolished. Waypoint Coordinates added. 
+086˚
+54.3
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+GOROH
+KROKI
+OOITA
+325837.5N / 1301754.5E
+330219.1N / 1303840.7E
+331313.2N / 1314211.7E
+RJFU AD2.24-SID-8
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+ 
+500
+KAZSA ONE DEPARTURE  RNP1
+   Note GNSS required.
+RNAV SIDRJFU / NAGASAKI
+  RWY14 : Climb on HDG146° at or above 1200FT, direct to KAZSA   
+  RWY32 : Climb on HDG326° at or above 500FT, direct to FU201, turn left direct to FU202, 
+                  to KAZSA.
+  Note RWY14 : 5.0% climb gradient required up to 1200FT.
+                          OBST ALT 892FT located at 4.1NM 130° FM end of RWY14.
+  OBST ALT 1050FT located at 4.6NM 165° FM end of RWY14.        
+ 
+VAR 8°W 
+RWY32 : 5.0% climb gradient required up to 1900FT.
+               OBST ALT 1936FT located at 8.0NM 272° FM end of RWY32.
+ 
+ 
+1200
+KAZSA
+FU201
+FU202
+ 
+ 
+326°
+146°
+137°25.5
+CHANGE : Latitude and longitude deleted. 
+(EFF:20 MAR 2025) 20/2/25
+RJFU AD2.24-SID-9
+NAGASAKI
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFU AD2.24-SID-10
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY14
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 146
+(138.1) -7.6 - - +1200 - - RNP1
+002 DF KAZSA - - -7.6 - - - - - RNP1
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 326
+(318.1) -7.6 - - +500 - - RNP1
+002 DF FU201 Y - -7.6 - - - - - RNP1
+003 DF FU202 -
+- -7.6 - L - - - RNP1
+004 TF KAZSA - 137
+(129.3) -7.6 25.5 - - - - RNP1
+DIS VANRIKASAGAN / UFJR
+KAZSA ONE DEPARTURE
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+FU201
+FU202
+KAZSA
+325731.0N / 1295208.2E
+325118.6N / 1295047.5E
+323510.2N / 1301410.8E
+CHANGE : Waypoint Coordinates added.
+NAGASAKI
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJFU / NAGASAKI RNAV SID
+AKNAG ONE DEPARTURE  RNP1
+RWY14 凬 Climb on HDG146° at or above 500FT, direct to FU400, turn right direct to MIGAP, 
+ to AKNAG at or above 7000FT.
+RWY32 凬 Climb on HDG326° at or above 500FT, turn right direct to AKNAG at or above 7000FT.
+ Note RWY14 : 5.0% climb gradient required up to 1800FT.
+ OBST ALT 1247FT located at 4.2NM 177° FM end of RWY14.
+       OBST ALT 1634FT located at 3.6NM 211° FM end of RWY14.
+ RWY32 : 5.0% climb gradient required up to 1200FT.
+ OBST ALT 1739FT located at 8.7NM 010° FM end of RWY32.
+VAR 8°W 
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 326
+(318.1) -7.7 - - +500 - -  RNP1
+002 DF AKNAG - - -7.7 - R +7000 - -  RNP1
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 146
+(138.1) -7.7 - - +500 - - RNP1
+002 DF FU400 Y - -7.7 - - - - -  RNP1
+RWY14
+003 DF MIGAP - - -7.7 - R - - -  RNP1
+004 TF AKNAG - 008
+(000.3) -7.7 26.4 - +7000 - -  RNP1
+AKNAG
+7000 
+ 008°/26.4
+500
+500
+Note GNSS required.
+MIGAP
+ FU400
+ 
+326°
+146°
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+FU400
+MIGAP
+325105.7N / 1295859.6E
+325352.4N / 1295034.2E
+AKNAG 332017.0N / 1295044.8E
+CHANGE : Waypoint Coordinates added.
+(EFF:20 MAR 2025) 20/2/25
+RJFU AD2.24-SID-11
+NAGASAKI
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+ RJFU / NAGASAKI RNAV SID
+CARCO ONE DEPARTURE  RNP1
+Note GNSS required.
+RWY14 凬 Climb on HDG146° at or above 500FT, direct to FU400, turn right direct to AKMEP, 
+ to CARCO.
+RWY32 凬 Climb on HDG326° at or above 1500FT, turn left direct to AKMEP, to CARCO.
+ Note RWY14 : 5.0% climb gradient required up to 1800FT.
+ OBST ALT 1247FT located at 4.2NM 177° FM end of RWY14.
+       OBST ALT 1634FT located at 3.6NM 211° FM end of RWY14.
+ RWY32 : 5.0% climb gradient required up to 1500FT.
+ OBST ALT 1969FT located at 8.0NM 272° FM end of RWY32.
+VAR 8°W 
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 326
+(318.1) -7.7 - - +1500 - - RNP1
+002 DF AKMEP - - -7.7 - L - - - RNP1
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 146
+(138.1) -7.7 - - +500 - -  RNP1
+002 DF FU400 Y - -7.7 - - - - - RNP1
+RWY14
+003 DF AKMEP - - -7.7 - R - - -  RNP1
+004 TF CARCO - 263
+(255.7) -7.7 34.2 - - - - RNP1
+003 TF CARCO - 263
+(255.7) -7.7 34.2 - - - -  RNP1
+FU400
+1500
+500
+AKMEP
+CARCO
+ 
+326°
+146°
+263°
+34.2
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+FU400
+AKMEP
+325105.7N / 1295859.6E
+325133.9N / 1294209.8E
+CARCO 324301.7N / 1290247.7E
+CHANGE : Waypoint Coordinates added.
+(EFF:20 MAR 2025) 20/2/25
+RJFU AD2.24-SID-12
+NAGASAKI
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+6.2
+237˚
+2.7
+236˚
+6.1
+237˚
+9.2
+237˚
+6.8191˚
+10.9191˚
+8.0191˚
+6.1191˚
+296˚/2.7
+VAR 8˚  W
+RNAV STARRJFU / NAGASAKI
+SARUKU ARRIVAL / FUBUKI ARRIVAL
+SARUKU ARRIVAL
+FUBUKI ARRIVAL
+SARUK
+3700
+OHGIE
+PADDY
+11000
+OTAXA
+4000
+GLOVR
+7000
+TARAH
+7000
+TAKAK
+5000
+FUBKI
+AINOH
+MAX 210KIAS
+OBAMA
+MAX 230KIAS
+2600
+011˚ 191˚
+TAKAK
+MHA 5000
+MAX 210KIAS (at or below FL140)
+MAX 240KIAS (above FL140)
+1MIN (at or below FL140)
+1.5MIN (above FL140)
+RNP1
+Note GNSS required.
+NOT TO SCALE
+CHANGE : Latitude and longitude deleted. 
+(EFF:20 MAR 2025) 20/2/25
+RJFU AD2.24-STAR-1
+NAGASAKI
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFU AD2.24-STAR-2
+STANDARD ARRIVAL CHART-INSTRUMENT
+ From OHGIE at or above 11000FT, to GLOVR at or above 7000FT, to OTAXA
+ at or above 4000FT, to SARUK at or above 3700FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF OHGIE - -7.6 - - +11000 - - RNP1
+002 TF GLOVR - -7.6 9.2 - +7000 - - RNP1
+003 TF OTAXA - -7.6 6.1 - +4000 - - RNP1
+004 TF SARUK - -7.6 6.2 - +3700 - - RNP1
+ From OHGIE at or above 11000FT, to PADDY, to TARAH at or above 7000FT, to TAKAK
+ at or above 5000FT, to OBAMA, to AINOH, to FUBKI at or above 2600FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF OHGIE - -7.6 - - +11000 - - RNP1
+002 TF PADDY - -7.6 6.8 - - - - RNP1
+003 TF TARAH - -7.6 10.9 - +7000 - - RNP1
+004 TF TAKAK - -7.6 8.0 - +5000 - - RNP1
+005 TF OBAMA - -7.6 6.1 - - -230 - RNP1
+006 TF AINOH - -7.6 2.7 - - -210 - RNP1
+007 TF FUBKI - -7.6 2.7 - +2600 - - RNP1
+Path Waypoint
+Identifier
+Inbound
+Course
+°M(°T)
+Turn
+Direction
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+Navigation
+Specification
+Hold TAKAK 191
+(183.0) 1PNR-0005R
+-
+191
+(183.1)
+191
+(183.1)
+Course
+°M(°T)
+-
+237
+(229.3)
+237
+(229.2)
+237
+(229.2)
+RNAV STAR
+SARUKU ARRIVAL
+Speed
+(KIAS)
+-210(-14000)
+-240(+14001)
+Magnetic
+Variation
+-7.6 1.0(-14000)
+1.5(+14001)
+Outbound
+Time
+(MIN)
+191
+(183.0)
+191
+(183.0)
+236
+(228.0)
+296
+(288.2)
+RJFU / NAGASAKI
+FUBUKI ARRIVAL
+Course
+°M(°T)
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+OHGIE
+GLOVR
+OTAXA
+331952.9N / 1301041.7E
+331352.9N / 1300221.4E
+330952.4N / 1295648.2E
+TARAH
+TAKAK
+OBAMA
+330210.0N / 1300934.0E
+325411.3N / 1300903.6E
+324806.4N / 1300840.9E
+SARUK 330550.7N / 1295114.3E AINOH 324617.1N / 1300616.8E
+PADDY 331305.6N / 1301015.7E FUBKI 324707.9N / 1300312.8E
+ CHANGE : Waypoint Coordinates added. 
+NAGASAKI
+(EFF:20 MAR 2025) 20/2/25
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2600
+2500 (LOC)
+26002108
+835
+2541(LOC)
+1270
+(1262)
+1600
+(1592)770
+(762)
+MAPt
+(LOC)
+VDP
+(LOC)
+SDF
+(LOC)
+SDF
+(LOC)
+1558 1660 1575
+1050
+GPÛ
+MDA
+MISSED APPROACH
+34711096
+OMURA AD
+321
+846
+1175
+5911613
+D0.6 IOL
+1841
+1742
+1467
+502
+541
+853
+233
+263
+2710 3530
+2454
+1700
+1998
+1643
+509
+RDH 53
+OLE
+460
+460
+Û
+Û
+Û Û
+Û
+Û
+OLE
+46003700
+60003000
+DME to IOL
+NM to THR
+10.0
+9.8
+8.0
+7.8
+1.4
+1.2
+2.6
+2.4
+6.6
+6.4
+0.60.2
+0.50
+CHARA(FAF)
+FUBKI(IF)
++'*Û
+MAPt(LOC)
+CHARA(FAF) 
+    D8.0 IOL
+FUBKI(IF) 
+D10.0 IOL
+OLE
+VOR/DME
+NOT TO SCALE
+Û
+Û
+MSA 25NM
+MHA 4000
+MAX 230KIAS
+RJFU / NAGASAKI
+NAGASAKI  APP
+261.2
+ILS-LOC RADAR  AVBL
+ATIS  126.85ILS–GP       330.8
+ILS–DME    CH-46X
+119.175 –121.025
+10NM
+110.9  IOL
+VOR/DME
+NAGASAKI
+116.6  OLE
+CH-113X
+ÛÝ1ÛÝ(
+CHARA(FAF) : 1(
+Û
+ILS Z or LOC Z RWY32
+Û
+Û
+Û
+Timing not authorized for defining the MAPt.
+No turn before IOL 0.6DME.
+Climb on HDG325° to 2500FT,
+turn left, direct to OLE VOR/DME
+and hold at 4000FT. 
+Contact NAGASAKI APP.
+NM to IOL
+AL7Û$3&+Path)
+FAF
+2541
+7
+2237
+6
+1918
+5
+1600
+4
+1282
+3
+963
+2
+644
+MAPt
+–
+Û
+Û
+MINIMA 
+CAT
+CAT䱶
+DA(H)
+215 (200) 430 (422)550
+900
+1000
+1400
+MDA(H) RVR/
+CMV
+RVR/
+CMV
+LOC
+THR elev. 15
+A
+B
+C
+D
+V$5Û:
+890 (882)
+620 (612) 1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 8
+EQPT REQUIRED
+DME
+VOR
+NAGASAKI TOWER
+118.5 - 126.2
+2200 – 2245(UTC)
+NAGASAKI RADIO
+118.5
+AFIS provided by
+Fukuoka Airport Office 122.7 - 236.8
+1215 – 1300(UTC)
+CHANGE : ALT(3.0° APCH Path). Missed APCH PROC. No turn before IOL established.
+(EFF:2 OCT 2025) 4/9/25
+RJFU AD2.24-IAC-1
+NAGASAKI
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1558 1660 1575
+1050
+2600
+4000
+2500 (LOC)
+2600
+2108835 2541(LOC)
+1270
+(1262)
+1600
+(1592)770
+(762)
+MAPt
+(LOC)
+VDP
+(LOC)
+SDF
+(LOC)
+SDF
+(LOC)
+*3Û
+34711096
+321
+846
+1175
+5911613
+D0.6 IOL
+MAPt(LOC)
+1841
+1742
+1467
+502
+541
+853
+233
+263
+2710
+OLE
+VOR/DME
+NOT TO SCALE
+3530
+2454
+1700
+1998
+1643
+509
+460
+CHARA(FAF)
+D8.0 IOL460
++'*Û
+NM to IOL
+AL7Û$3&+Path)
+FAF
+2541
+7
+2237
+6
+1918
+5
+1600
+4
+1282
+3
+963
+2
+644
+MAPt
+–
+Û Û
+Û
+Û
+OLE
+46003700
+60003000
+MSA 25NM
+CHARA(FAF) : 324837.22N/1300137.60E
+MDARDH 53
+OLE
+Û
+Û
+Û
+DME to IOL
+NM to THR
+8.0
+7.8
+1.4
+1.2
+2.6
+2.4
+6.6
+6.4
+0.60.2
+0.50
+CHARA(FAF)
+RJFU / NAGASAKI
+NAGASAKI  APP
+261.2 ATIS  126.85ILS–DME    CH-46X
+119.175 –121.025
+10NM
+VOR/DME
+NAGASAKI
+116.6   OLE
+CH-113X
+ÛÝ1ÛÝ(
+Û
+Û
+ILS Y or LOC Y RWY32
+ILS-LOC
+110.9  IOL
+Û
+Û
+Û
+Û
+Û
+OMURA AD
+Turn initiation within
+D11.0 OLE
+MAX Turning speed
+200KIAS
+Turn initiation within
+D11.0 OLE
+MHA 4000
+MAX 230KIAS
+Timing not authorized for defining the MAPt.
+No turn before IOL 0.6DME.
+V$5Û:
+EQPT REQUIRED
+DME
+VOR
+MINIMA 
+CAT
+CAT䱶
+DA(H)
+215 (200) 430 (422)550
+900
+1000
+1400
+MDA(H) RVR/
+CMV
+RVR/
+CMV
+LOC
+THR elev. 15
+A
+B
+C
+D
+890 (882)
+620 (612) 1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 8
+ILS–GP    330.8
+NAGASAKI TOWER
+118.5 - 126.2
+2200 – 2245(UTC)
+NAGASAKI RADIO
+118.5
+AFIS provided by
+Fukuoka Airport Office 122.7 - 236.8
+1215 – 1300(UTC) RADAR  AVBL
+CHANGE : PROC course. MAX Turning speed. ALT(3.0° APCH Path). Missed APCH PROC. No turn before IOL established.
+MISSED APPROACH
+Climb on HDG325° to 2500FT,
+turn left, direct to OLE VOR/DME
+and hold at 4000FT. 
+Contact NAGASAKI APP.
+Û
+(EFF:2 OCT 2025) 4/9/25
+RJFU AD2.24-IAC-2
+NAGASAKI
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ 
+Direct to FU251, turn left direct to OLE 
+and hold at 4000FT.
+Contact NAGASAKI APP.
+FUBKI
+(IF)
+VDP
+(LNAV)
+9.8
+RJFU / NAGASAKI RNP RWY32
+Missed APCH climb gradient MNM 5.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+2600
+ 
+MSAS CH43917
+M32A
+TEKIK 
+(FAF)
+FU251 
+(MATF)
+MAX 210KIAS
+4000
+FUBKI(IF)
+MAX190KIAS
+NM to Next Fix
+ALT (3.0° APCH Path)
+FAF
+1900166013421023- 705
+5432MAPt
+NOBAK   
+ 
+  325028.74N
+(IAF)      1300737.67E
+MEKOK      324420.62N
+(IAF)      1295932.64E
+FUBKI       324707.85N
+(IF)        1300312.75E
+TEKIK        325007.81N
+(FAF)       1300001.15E
+FU250       325228.70N
+(SDF)      1295731.02E
+RW32       325424.91N
+(MAPt)     1295527.04E 
+FU251       325820.62N
+(MATF)    1295115.19E
+NAGASAKI(OLE)  325418.89N
+(MAHF)    1295504.73E
+MEKOK
+1MIN
+NOT TO SCALE
+MHA 4000
+MAX 210KIAS
+ 
+IF
+MEKOK
+3000  
+ 
+25NM to MEKOK
+ 
+ 
+FUBKI
+ 
+6000
+25NM to FUBKI
+IF
+NOBAK
+4600
+25NM to NOBAK
+ 
+ 
+NAGASAKI
+(OLE)
+1MIN
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS
+ 
+ 
+ 
+ 
+ 
+ 
+VAR 8°W 
+Baro-VNAV not authorized below -5䰳
+FU250
+RW32 
+(MAPt)
+MEKOK (IAF)
+NAGASAKI(OLE)
+(MAHF)
+ 
+MISSED APPROACH
+NOBAK 
+(IAF)
+2600
+5.82.61.70
+RW32
+(MAPt)
+TEKIK
+(FAF)
+FU250
+(SDF)
+(LNAV)
+MDA
+730
+(722)
+1900
+NM to THR
+RDH53
+1900
+(1892)
+896
+DA(H) RVR/
+CMV DA(H) RVR/
+CMV MDA(H) RVR/
+CMV MDA(H) VIS
+A 288(273) 1000 1000
+B 297(282)
+C 307(292) 2400
+D 317(302) 1400 1600 1600 890(882) 3200
+580(565) 580(572) 620(612)
+1600
+800 1200 1200
+   MINIMA                                THR elev. 15                              AD elev. 8
+CAT
+LPV LNAV/VNAV LNAV CIRCLING
+2.6
+Û7Û
+3.2Û7Û
+4.0Û7Û
+4.2
+Û7
+Û
+5.0
+Û7
+Û
+Û
+Û
+Û Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+NAGASAKI  APP
+261.2
+119.175 –121.025
+NAGASAKI TOWER
+118.5 - 126.2
+2200 – 2245(UTC)
+NAGASAKI RADIO
+118.5
+AFIS provided by
+Fukuoka Airport Office 122.7 - 236.8
+1215 – 1300(UTC)
+ATIS  126.85
+RADAR  AVBLRNP APCH
+1559
+1840
+1742
+1176
+1497
+1162
+848
+1097
+2710
+3469
+CHANGE : Description of VAR.
+(EFF:15 JUN 2023) 18/5/23
+RJFU AD2.24-IAC-3
+NAGASAKI
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFU AD2.24-IAC-4
+INSTRUMENT APPROACH CHART
+RJFU / NAGASAKI RNP RWY32
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00370
+SBAS service provider identifier 2 FPAP latitude 325537.2480N
+Airport identifier RJFU FPAP longitude 1295409.7775E
+Runway 32 Threshold crossing height 00016.2
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M32A 䶩 length offset 0000
+LTP/FTP latitude 325424.8850N HAL 40.0
+LTP/FTP longitude 1295527.0410E VAL 50.0
+CRC remainder
+Required additional data
+LTP/FTP orthometric height 4.8
+10898D02
+CHANGE : Description of FAS DATA BLOCK ITEM(CRC remainder).
+NAGASAKI
+(EFF:29 DEC 2022) 29/12/22
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1559 1661 1497
+1162
+MISSED APPROACH
+34691097
+OMURA AD
+848
+1176
+NODEP
+(FAF)
+(MAPt)
+FU450
+5.5
+4.7
+4.2
+4.7
+5.0
+FU451(MATF)
+1840
+1742
+2710 3530
+2454
+1698
+1997
+509
+MDA
+NODEP
+(FAF)
+TENBO
+(IF)
+SARUK(IAF)
+MAX230KIAS
+3700
+TENBO(IF)
+1100
+(1092)
+15002400
+Û
+Û
+Û
+Direct to FU451, turn right direct to
+KOHNO and hold at 3000FT.
+Contact NAGASAKI APP .
+RDH 50
+0R HT ot MN5.42.9 0.3
+NM to Next Fix
+AL7Û$3&+Path)
+FAF
+1500
+1
+490
+2
+809
+3
+1127
+4
+1445
+MAPt
+–
+KOHNO
+(IAF/MAHF)
+MAX230KIAS
+3000
+IORIE(IAF)
+MAX230KIAS
+3000
+KOHNO
+IF
+IF
+SARUK
+䲏Û
+Û
+䲑
+3000
+5600
+䲏Û
+䲏Û
+IF
+IORIE
+4500
+䲏Û
+Û
+䲑
+FU451
+(MATF)
+325030.32N
+1295937.18E
+FU450
+(MAPt)
+325552.50N
+1295353.52E
+NODEP
+(FAF)
+325858.77N
+1295034.38E
+TENBO
+(IF)
+330229.35N
+1294649.05E
+KOHNO
+(IAF/MAHF)
+325919.95N
+1294240.04E
+IORIE
+(IAF)
+330633.35N
+1294227.36E
+SARUK
+(IAF)
+330550.69N
+1295114.28E
+FU450
+(MAPt)
+VDP
+(LNAV)
+RJFU / NAGASAKI
+NAGASAKI  APP
+261.2 ATIS  126.85
+119.175 –121.025
+10NM
+RNP RWY14
+Û
+Û
+Û
+Û
+Û
+Û
+Û7
+Û7
+ÛÛ7
+ÛÛ7
+Û7
+Û
+V$5Û:
+%DUR91$9QRWDXWKRUL]HGEHORZÛ&
+MINIMA with Missed APCH climb gradient 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+264 (250) 620(612)290 (282)
+1000
+1100
+1200
+1600
+2400
+32001400
+1000
+1100
+1200
+1400
+MDA(H)CMV MDA(H) VIS
+LNAV CIRCLING
+THR elev. 14 AD elev. 8
+A
+B
+C
+D
+RADAR  AVBLNAGASAKI TOWER
+118.5 - 126.2
+2200 – 2245(UTC)
+NAGASAKI RADIO
+118.5
+AFIS provided by
+Fukuoka Airport Office 122.7 - 236.8
+1215 – 1300(UTC)RNP APCH
+1765
+MSAS CH79608
+M14A
+25NM to IORIE
+25NM to KOHNO
+IORIE
+KOHNO
+MHA 3700
+MAX 210KIAS
+MHA 3000
+MAX 210KIAS
+MHA 3000
+MAX 230KIAS
+SARUK
+Û
+Û1MIN
+NOT TO SCALE
+Û
+Û
+NOT TO SCALE
+1MIN
+Û
+Û
+NOT TO SCALE
+1MIN
+270 (256)
+280 (266)
+LPV
+DA(H) CMV
+290 (276)
+1000
+1100
+1200
+1400
+CMV
+890(882)
+  
+VDP
+0.3NM to MAPt
+25NM to SARUK
+CHANGE : Missed APCH PROC for using VOR/DME abolished.
+(EFF:2 OCT 2025) 4/9/25
+RJFU AD2.24-IAC-5
+NAGASAKI
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFU AD2.24-IAC-6
+INSTRUMENT APPROACH CHART
+RJFU / NAGASAKI RNP RWY14
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00367
+SBAS service provider identifier 2 FPAP latitude 325424.8850N
+Airport identifier RJFU FPAP longitude 1295527.0410E
+Runway 14 Threshold crossing height 00015.0
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M14A 䶩 length offset 0000
+LTP/FTP latitude 325537.2480N HAL 40.0
+LTP/FTP longitude 1295409.7775E VAL 50.0
+CRC remainder
+Required additional data
+LTP/FTP orthometric height 4.5
+B756639A
+CHANGE : Description of FAS DATA BLOCK ITEM(CRC remainder).
+NAGASAKI
+(EFF:29 DEC 2022) 29/12/22
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1558 1660 1575
+2848
+MISSED APPROACH
+Climb via OLE R312 to
+OLE 6.0DME, turn right,
+direct to OLE VOR/DME
+and hold at 4000FT.
+Contact NAGASAKI APP .
+3471
+1096
+OMURA AD
+321
+846
+1175
+591
+1613
+1841
+1742
+1467
+502
+541
+233
+2710 3530
+2456
+10NM
+1700
+1998
+1643
+509
+26002106
+1195
+4000 OLE
+853
+263
+DME to OLE
+NM to THR
+1.0
+0.8
+3.4
+3.2
+6.0
+5.80
+0.2
+NAGASAKI  APP
+261.2
+NAGASAKI  VOR/DME
+ATIS  126.85
+VOR RWY32
+Û
+Û
+MAPt
+D1.0 OLE
+D6.0 OLE
+MAPt
+INASA(FAF)
+D6.0 OLE
+116.6  OLE
+CH-113X
+ÛÝ1ÛÝ(
+119.175 - 121.025
+SDF
+1600
+(1592)1170
+(1162)MDA
+INASA
+(FAF)
+RJFU / NAGASAKI
+MAX Turning speed
+200KIAS
+Turn initiation within
+D11.0 OLE
+Turn initiation within D11.0 OLE
+INASA(FAF) : 1(
+PAPI and descent angles not coincident.
+Timing not authorized for defining the MAPt.
+Û
+Û
+Û
+Û
+NM to OLE
+$/7Û$3&+3DWK
+FAF
+2106
+4
+1406
+5
+1756
+3
+1055
+MAPt
+–
+Û
+Û
+Û
+Û
+MINIMA 
+CAT
+870 (862)
+890 (882)
+870 (862)
+1200
+1400
+1600
+2400
+32001800
+MDA(H) RVR/CMV MDA(H) VIS
+CIRCLING
+THR elev. 15 AD elev. 8
+A
+B
+C
+D
+V$5Û:
+Û Û
+Û
+Û
+OLE
+46003700
+60003000
+MSA 25NM
+EQPT REQUIRED
+DME
+NAGASAKI TOWER
+118.5 - 126.2
+2200 – 2245(UTC)
+NAGASAKI RADIO
+118.5
+AFIS provided by
+Fukuoka Airport Office 122.7 - 236.8
+1215 – 1300(UTC) RADAR  AVBL
+CHANGE : PROC course. HLDG pattern. MAX Turning speed. ALT(3.3° APCH Path). Missed APCH PROC. DME to OLE. PROC ALT at SDF, INASA (FAF).
+Û
+Û
+Û
+NOT TO SCALE
+MHA4000
+MAX 230KIAS
+OLE
+VOR/DME
+Û
+(EFF:2 OCT 2025) 4/9/25
+RJFU AD2.24-IAC-7
+NAGASAKI
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1558 1660 1575
+2848
+3471
+1096
+OMURA AD
+321
+846
+1175
+591
+1613
+1841
+1742
+1467
+502
+541
+233
+2710 3530
+2456
+10NM
+1700
+1998
+1643
+509
+853
+263
+MISSED APPROACH
+Climb via OLE R153 to
+OLE 6.0DME, turn left,
+direct to OLE VOR/DME
+and hold at 4000FT.
+Contact NAGASAKI APP .2100
+1896
+4000 OLE
+DME to OLE
+NM to THR
+2.3
+0.8
+2.7
+1.2
+7.3
+08.5
+1.5
+NAGASAKI  APP
+261.2
+NAGASAKI  VOR/DME
+ATIS  126.85
+VOR RWY14
+Û
+Û
+Û
+Û
+MAPt
+D2.3 OLE
+HARIO(FAF)
+D7.3 OLE
+116.6  OLE
+CH-113X
+ÛÝ1ÛÝ(
+119.175 - 121.025
+RJFU / NAGASAKI
+Û
+Û
+ÛÛ
+MAX Turning speed
+200KIAS
+Turn initiation 
+within D11.0 OLE
+Turn initiation 
+within D11.0 OLE
+D6.0 OLE
+MAPt
+VDP
+1500
+(1492) MDA
+HARIO
+(FAF)
+Timing not authorized for defining the MAPt.
+ÛÛ
+Û
+Missed APCH climb gradient MNM 3.0%
+MINIMA with Missed APCH climb gradient 2.5% are not established.
+Û
+MINIMA 
+CAT
+440 (432)
+890 (882)
+620 (612)
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 14 AD elev. 8
+A
+B
+C
+D
+V$5Û: EQPT REQUIRED
+DME
+Û Û
+Û
+Û
+OLE
+46003700
+60003000
+MSA 25NM
+HARIO(FAF) : 1(
+NM to OLE
+$/7Û$3&+3DWK
+FAF
+1896
+4
+858
+5
+1176
+3
+539
+6
+1495
+7
+1813
+MAPt
+–
+RADAR  AVBLNAGASAKI TOWER
+118.5 - 126.2
+2200 – 2245(UTC)
+NAGASAKI RADIO
+118.5
+AFIS provided by
+Fukuoka Airport Office 122.7 - 236.8
+1215 – 1300(UTC)
+CHANGE : PROC course. Missed APCH PROC. MAX Turning speed. ALT(3.0° APCH Path). PROC ALT at HARIO(FAF). DME to OLE. NM to THR. MDA(H), CMV for MINIMA.
+Û Û
+MHA4000
+OLE
+VOR/DME
+NOT TO SCALE
+MAX 230KIAS
+(EFF:2 OCT 2025) 4/9/25
+RJFU AD2.24-IAC-8
+NAGASAKI
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFU / NAGASAKI Visual REP
+ᕝᲴ 㻶㻾㥐
+Kawatana JR Station
+䚷ᙼᯂ 㻶㻾㥐
+Sonogi JR Station
+㕥⏣ 㛗ᓮ⮬ື㌴㐨䛸ᅜ㐨㻟㻠ྕ⥺䛾஺Ⅼ
+Suzuta Intersection
+㛗⏣ ୙▱ⅆᶫ
+Nagata Bridge
+すᙼ 䜸䝷䞁䝎ᮧ
+Seihi Windmill
+஧ᓥ ஧ᓥ
+Futashima Island
+ᇽᓮ ᇽᓮ㰯
+Dozaki A point of land
+㮚ᓥ 㮚ᓥ
+Takashima Island
+᫬ὠ ᫬ὠ 
+Tokitsu Harbor
+୕㔜 ୕㔜ᓮ
+Mie A point of land
+237°T
+Call sign BRG / DIST from ARP
+/4 . 3 N M
+7.4NM360°T
+112°T
+345°T
+113°T
+CHANGE : Map updated. BRG/DIST from ARP.
+/
+233°T / 11.1NM
+301°T / 9.2NM
+/3 . 1 N M244°T
+217°T
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹㻔㼙㻕䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+213°T
+/
+/
+/
+2.7NM
+5.4NM
+6.0NM
+Remarks
+/9 . 4 N M
+9.4NM/
+NAGASAKI CONTROL ZONE
+NAG
+At
+GASAKI CONTRO
+NAG
+At
+At or below 3000FT
+VAR 7
+R 7
+77
+
+W(2008) /
+/ ƍ:
+KAWATANA
+KAKAKAKAWAWAWAWATATATATANANAANANA
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+2245 
+5 -
+-
+ 1215(UTC)
+224
+5 
+-
+ 215(UTC)
+1
+1
+NAGASAKI TOWER
+AGASA
+AGA
+A
+SA
+118.5 
+A
+AKI
+A
+A
+5 
+5 -
+TOWER
+TOWER
+T
+T
+KI
+KI
+- 126.2  
+2200 
+0 -
+-
+ 2245(UTC)
+220
+1215 
+0 
+5 -
+245(UTC)
+2
+-
+ 2
+-
+ 1300(UTC)
+121
+121
+5 
+5
+ -
+ 300(UTC)
+300(UTC)
+1
+1
+1
+1
+NAGASAKI RADIO
+ASAKI RA
+A
+ASAKI RA
+ASA
+ASA
+118.5
+AFIS
+18.5
+18 5
+1
+1
+S
+S
+ provided by
+AFIS
+S
+S
+ rovided by
+rovided
+p
+p
+Fukuoka Airport Office
+SONOGI
+SOSOSONONONOGIGIGI
+NAGATA
+NANAGAGAG TATA
+SUZUTA
+SEIHI
+SESESEIHIHIHIII
+TAKASHIMA
+TATATAKAKAKASHSHSHS IMIMIMAAAA
+ DOZAKI
+DODOOZAZAKIKI
+TOKITSU
+TOTOTOKIKIKITSTSTSUUU
+MIE
+OMURA AD
+FUTASHIMA
+(EFF:14 JUL 2022) 14/7/22
+RJFU AD2.24-OTHER-1
+NAGASAKI
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SCALE
+1000 1000 30000
+500 500
+ft
+m0 1000
+VOR/DME
+NAGASAKI
+116.6     OLE
+ELEV 8ft
+ALB
+PAPI
+OMURA
+AD
+RVR
+Aspn Conc
+9840× 200ft
+3940× 100ft
+ABN
+CH-113X
+ÛÝ1ÛÝ(
+ELEVATIONS AND
+HEGHTS IN FEET
+MEAN SEA LEVEL
+LDG CHARTRJFU / NAGASAKI
+VAR 7˚W(2007) 660
+209
+256
+660  
+1613
+1480
+1174
+846
+䷵
+䷶
+䷵䢮䢢䷶
+32
+12
+PAPI  Angle  3.0°
+MEHT 22.5m(74ft)
+471m FM THR
+PAPI  Angle  3.0°
+MEHT 19.7m(65ft)
+444m FM THR
+58䯩
+57䯩
+56䯩
+55䯩
+54䯩
+53䯩
+32° 51䯩
+129° 52䯩 54䯩 56䯩 58䯩
+118.5 - 126.2
+NAGASAKI  TOWER
+122.7 - 236.8
+2200 - 2245(UTC)
+1215 - 1300(UTC)
+NAGASAKI  RADIO
+118.5
+AFIS provided by
+Fukuoka Airport Office
+CHANGE : AFIS unit added. 
+(EFF:24 MAR 2022) 24/2/22
+RJFU AD2.24-OTHER-2
+NAGASAKI
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFU / NAGASAKI HOLDING PATTERN
+D15.0 OLE
+D20.0 OLE
+MHA 5000
+OSETO
+R263
+083˚
+263˚
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+ÛÝ1ÛÝ(
+CHANGE : HLDG course.
+(EFF:27 JAN 2022) 30/12/21
+RJFU AD2.24-OTHER-3
+NAGASAKI
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFU / NAGASAKI Minimum Vectoring Altitude CHART
+VAR 7˚W (2011)
+10NM
+18NM
+30NM
+30NM
+40NM
+50NM
+60NM
+22NM
+25NM
+14N
+M
+13NM 20NM
+15NM
+15NM
+4NM
+4NM
+5NM
+CENTERɿ325458N/1295428E (RADAR SITE)
+8000
+4000
+6000
+5000
+2000
+7000
+6000
+4000
+9000
+14000
+12000
+10000
+8000
+030˚
+100˚
+115˚
+136˚
+165˚
+198˚
+213˚
+250˚
+300˚
+330˚
+4000
+6000 8000
+10000
+3000
+5000
+60002500
+5000
+4000
+8NM
+310˚
+010˚
+050˚
+290˚
+191˚
+12000
+10000
+8000
+1000012000
+3000
+5000
+6000
+5000
+3000
+40003700
+3000ᶃ
+340˚
+346˚
+8NM
+ᶃ 2300
+ɿ324540N/1301756E RADIUSɿ3NM
+(EFF:13 SEP 2018) 13/9/18
+RJFU AD2.24-OTHER-4
+NAGASAKI
+←
+

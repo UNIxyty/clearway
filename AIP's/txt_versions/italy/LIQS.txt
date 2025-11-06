@@ -1,0 +1,733 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIQS 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIQS AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIQS AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIQS - SIENA/Ampugnano
+LIQS AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIQS AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+43°15'31''N 011°15'18''E
+2 Direzione e distanza dalla città 13 km
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+634 FT / 26.6° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2005.0) / 5'E
+5 Autorità amministrativa aeroportuale ENAC - DT Toscana
+Aeroporto di Firenze
+Via del Termine, 11
+50127 Firenze 
+Tel: +39 055 3061200  Fax: +39 055 308036 
+E-mail: toscana.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Aeroporto a diretta gestione di ENAC: attivita' di coordinamento effettuata dall'
+Aeroclub di Siena. Traffico permesso previa chiamata 24 ore prima ai numeri:
++39 0577 392237 +39 338 9371815
+e-mail: ampugnanosiena@gmail.com
+ Aerodrome operator ENAC airport coordinator: Aeroclub di Siena. Traffic allowed only prior telephone
+communication 24h in advance with Aeroclub di Siena at the following numbers:
++39 0577 392237 +39 338 9371815
+e-mail: ampugnanosiena@gmail.com
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aeroporto aperto al traffico aereo di Aviazione Generale tra paesi dell'Unione
+Europea limitatamente all'area Schengen.
+2. Attività vietate: trasporto commerciale di linea o charter
+ Remarks 1. Aerodrome open to General Aviation air traffic between European Union countries
+within the Schengen area only.
+2. Forbidden activities: scheduled or charter commercial flights
+LIQS AD 2.3 ORARIO DEI SERVIZI
+LIQS AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale Di giorno
+ Aerodrome Administration During day
+2 Dogana ed immigrazione Su richiesta solo per voli comunitari
+ Customs and immigration O/R only for EC flights
+3 Servizio sanitario Ambulanza con medico solo per voli commerciali
+ Health and sanitation Ambulance with doctor for commercial flights
+
+=== Page 2 ===
+AD 2 LIQS 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+4 AIS Briefing Office NIL
+   
+5 ARO NIL
+   
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento Il servizio di rifornimento è soggetto all’approvazione di ‘AIR BP’. Contattare il
+numero +39 335 7151261.
+ Fuelling Fuelling service is subject to approval by ‘AIR BP’. Contact number +39 335 7151261.
+9 Handling Sì
+  Yes
+10 Servizi di sicurezza 0730-SS + 30 (0600-1800 o 0600-SS + 30 quale dei due si verifica prima)
+ Security 0730-SS + 30 (0600-1800 or 0600-SS + 30 whichever is earlier)
+11 De-icing NIL
+ De-icing  
+12 Note 1. Preavviso di 3 ore per trasporti equipe medica e/o organi per trapianti/espianti;
+contattare tel +39 393 4891086
+ Remarks 1. HR PN for medical team transport and/or organs’ transplant; contact tel +39 393
+4891086
+LIQS AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIQS AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / EE 100, EE 80
+ Fuel/Oil types  
+3 Capacità di rifornimento JET A1: 50000 litri, impianto fisso (rifornimento a gravità e pressione) AVGAS 100LL:
+50000 litri, impianto fisso
+ Fuelling capacity JET A1: 50000 litres, fixed pump (gravity and pressure refuelling) AVGAS 100LL:
+50000 litres, fixed pump
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note 1. GPU 28-155 volts
+ Remarks 1. GPU 28-155 volts
+LIQS AD 2.5 SERVIZI PER I PASSEGGERI
+LIQS AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città e limitrofi
+ Hotels In town and surroundings
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi O/R
+ Transportation  
+4 Servizio medico Ospedale in città 13 km
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIQS 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+ Medical facilities Hospital in town 13 km
+5 Banca e ufficio postale In città e limitrofi
+ Bank and Post office In town and surroundings
+6 Ufficio turistico In città e limitrofi
+ Tourist office In town and surroundings
+7 Note 1. Bar in aeroporto
+ Remarks 1. Bar inside the airport
+LIQS AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIQS AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso YES
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà YES
+ Capability for removal of disabled aircraft  
+4 Note NIL
+ Remarks  
+LIQS AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIQS AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIQS AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIQS AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron ASPH SIWL 7000 KG
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 6.0 M ASPH SIWL 7000 Kg
+B 18.0 M ASPH PCN 25/F/B/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+
+=== Page 4 ===
+AD 2 LIQS 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIQS 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIQS AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIQS AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note 1. Segnaletica orizzontale non pienamente rispondente alla normativa ICAO.
+Disponibili vettura follow-me e servizio di marshalling per parcheggio e sosta.
+ Remarks 1. Markings not fully compliant with ICAO regulations.
+Follow-me car and marshalling service for parking and stops are available.
+LIQS AD 2.10 OSTACOLI AEROPORTUALI
+LIQS AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+NIL
+LIQS AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIQS AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / IT, EN
+ Flight documentation and
+language used
+Charts, abridged plain language text / IT, EN
+
+=== Page 6 ===
+AD 2 LIQS 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+7 Carte e documentazione disponibili per 
+consultazione
+S, U, P, W, T
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Internet
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LIQS AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIQS AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+18 NIL 1393 x 30
+PCN 27/F/C/W/T
+ASPH
+43°15'40.40''N
+011°15'17.37''E
+634.1 FT / NIL
+36 NIL 1393 x 30
+PCN 27/F/C/W/T
+ASPH
+43°14'55.35''N
+011°15'19.25''E
+604.0 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+18
+Trasversale: NIL
+Longitudinale:
+vedi AOC
+Transversal: NIL
+Longitudinal: see AOC
+NIL 150 x 150 1513 x 300 90 x 60
+36
+Trasversale: NIL
+Longitudinale:
+vedi AOC
+Transversal: NIL
+Longitudinal: see AOC
+NIL 143 x 150 1513 x 300 90 x 60
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+18 NIL NIL
+36 NIL NIL
+LIQS AD 2.13 DISTANZE DICHIARATE
+LIQS AD 2.13 DECLARED DISTANCES
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIQS 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+18 1393 1543 1393 1393
+36 1393 1536 1393 1393
+NOTE
+REMARKS
+NIL
+LIQS AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIQS AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+18 NIL NIL NIL THR +
+wing bar
+ G
+NIL NIL
+ 
+NIL NIL
+36 NIL NIL NIL THR
+ G
+NIL NIL
+ 
+NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+18 NIL NIL NIL NIL 928
+465
+60
+60
+W
+Y
+VRB
+VRB
+36 NIL NIL NIL NIL 928
+465
+60
+60
+W
+Y
+VRB
+VRB
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+18 R NIL NIL NIL NIL NIL
+36 R NIL NIL Sì
+Yes
+NIL NIL
+
+=== Page 8 ===
+AD 2 LIQS 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIQS AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIQS AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 43°15'26''N   011°14'59''E
+Caratteristiche: rotante, luci bianco-verde alternate
+Orario: OR
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 43°15'26''N   011°14'59''E
+Characteristics: revolving, white-green alternating lights
+Hours: OR
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: 43°15'35"N  011°15'05"E illuminato
+Anemometro: 43°15'26"N 011°14'59"E non illuminato
+ LDI location and lights 
+Anamometer location and lights
+LDI: 43°15'35"N 011°15'05"E lighted
+Anemometer: 43°15'26"N 011°14'59"E not lighted
+3 Illuminazione bordo e asse centrale TWY TWY A non illuminata TWY B illuminato solo bordo
+ TWY edge and center line lighting TWY A not lighted TWY B only edge
+4 Alimentatore secondario/Tempo di 
+intervento
+Sì / 6 sec
+ Secondary power supply/Switch over time Yes / 6 sec
+5 Note NIL
+ Remarks  
+LIQS AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIQS AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIQS 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIQS AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIQS AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Siena ATZ
+Circular area centered on
+43°15'31"N 011°15'18"E
+within a 3.0 NM radius.
+1500
+FT AGL
+G NIL 6000 FT
+1) WI Roma FIR
+LIQS AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIQS AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+LIQS AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIQS AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIQS AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIQS AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+NIL NIL
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+
+=== Page 10 ===
+AD 2 LIQS 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+NIL NIL
+LIQS AD 2.21 PROCEDURE ANTIRUMORE
+LIQS AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+I generatori APU (Auxiliary Power Unit) di bordo possono essere usati
+da 30 minuti prima della partenza e fino a 30 minuti dopo l’arrivo; il
+GPU (Ground Power Unit) può essere usato da 30 minuti prima della
+partenza e fino a 30 minuti dopo l’arrivo
+Onboard APU (Auxiliary Power Unit) generators can be used from
+30 minutes before departure and till 30 minutes after arrival; GPU
+(Ground Power Unit) can be used from 30 minutes before departure
+and till 30 minutes after arrival
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIQS AD 2.22 PROCEDURE DI VOLO
+LIQS AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+NIL NIL
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+Gli aeromobili in arrivo e in partenza dovranno obbligatoriamente
+osservare i circuiti di traffico standard nel rispetto delle altezze minime
+fissate dalle vigenti regole del volo in considerazione, anche, degli
+ostacoli nelle vicinanze.
+Arriving and departing aircraft shall mandatorily perform the standard
+traffic circuits complying with minimum heights set forth by the flight
+rules in force, also taking into account nearby obstacles.
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+VFR notturno non consentito Night VFR operations not allowed
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIQS 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIQS AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIQS AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIQS AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIQS AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIQS 2 - 1
+LIQS AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIQS AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 12 ===
+AD 2 LIQS 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+

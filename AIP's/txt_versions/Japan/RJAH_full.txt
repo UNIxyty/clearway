@@ -1,0 +1,4609 @@
+=== Page 1 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-1
+AD 2 AERODROMES
+RJAH AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJAH - HYAKURI
+RJAH AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJAH AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD  361054N / 1402453E
+2 Direction and distance from (city)  12NM NE TSUCHIURA
+3 Elevation/ Reference temperature  107ft / -
+4 Geoid undulation at AD ELEV PSN  Nil
+5 MAG VAR/ Annual change  7°W(2007)
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+ JSDF-A
+7 Types of traffic permitted (IFR/VFR)  IFR/VFR
+8 Remarks Hyakuri Airport Office(CAB)
+1601-21, Yozawa, Omitama-City, Ibaraki Prefecture, 311-3416 JAPAN
+TEL:0299-54-0600, FAX:0299-54-0690
+1 AD Administration H24
+2 Customs and immigration Customs: 2330-0815
+Immigration: INTL SKED FLT hours only
+3 Health and sanitation Quarantine(human): 2330-0815
+Quarantine(animal, plant): INTL SKED FLT hours only
+4 AIS Briefing Office H24 (CAB:Nil)
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24(TOKYO)
+7A T S H 2 4
+8 Fuelling To be issued later
+9 Handling To be issued later
+10 Security Scheduled flight only
+11 De-icing Nil
+12 Remarks HR of service at CAB OPS section 2230-1200(Daily)
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 2 ===
+RJAH AD2-2 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD 2.4 HANDLING SERVICES AND FACILITIES
+RJAH AD 2.5 PASSENGER FACILITIES
+RJAH AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJAH AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the modern institutions t hat deal with the weight thing to Airbus A320 type.
+2 Fuel/ oil types JET A-1
+JP-4 JP-4A for JSDF
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels At Tsuchiura City 
+2 Restaurants At Tsuchiura City 
+3 Transportation Bus and taxi
+4 Medical facilities At Omitama City
+5 Bank and Post Office At Omitama City
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting To be issued later
+2 Rescue equipment (CAB) 
+Emergency medical equipments conveyance truck x 1
+Lighting power supply truck x 1
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Ask Hyakuri Airport Office(CAB)*
+2 Clearance priorities Nil
+3 Remarks *For Civil Apron and TWY W
+(EFF:18 AUG 2016) 21/7/16
+
+
+=== Page 3 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-3
+RJAH AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJAH AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Apron surface and strength CIVIL APRON
+Surface: cement-concrete 
+Strength: PCR 747/R/C/W/T
+2 Taxiway width, surface and 
+strength
+C1, C5
+Width: 28.5m
+C2, C4
+Width: 34m
+C3
+Width: 23m
+W 
+Width: 34m
+Surface: Asphalt-concrete 
+Strength: PCR 825/F/C/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Spot NR
+1: 361042.72N/1402431.73E
+2: 361040.89N/1402430.91E
+3: 361039.06N/1402430.10E
+4: 361037.23N/1402429.28E
+6 Remarks Nil
+1 Use of aircraft stand ID signs, 
+TWY guide lines and 
+Visual docking/ parking guidance 
+system of aircraft stands
+ Nil
+2 RWY and TWY markings and 
+LGT
+RWY:03L/21R
+ (Marking) RWY designation, RWY CL, RWY THR, Aiming point, TDZ, RWY side 
+stripe, RWY turn pad CL, RWY turn pad edge
+ (LGT) RCLL, REDL, RTHL, RENL, RWY DIST marker LGT, TKOF aiming LGT,
+TPIL
+RWY:03R/21L
+ (Marking) RWY designation, RWY CL, RWY THR, TDZ, RWY side stripe
+ (LGT) REDL, RTHL, RENL, RWY DIST marker LGT, TKOF aiming LGT, WBAR
+TWY:
+C1, C2, C4, C5
+ (Marking) TWY CL, TWY side stripe
+ (LGT) TWY edge LGT, TWY CL LGT
+C3
+ (Marking) TWY CL
+ (LGT) TWY edge LGT
+W
+ (Marking) TWY CL, TWY side stripe, Mandatory instruction
+ (LGT) TWY edge LGT, TWY CL LGT, Taxiing guidance sign
+3 Stop bars  Nil
+4 Remarks  (Marking) Overrun area
+ (LGT) Apron flood LGT
+(EFF:23 JAN 2025) 23/1/25
+
+
+=== Page 4 ===
+RJAH AD2-4 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD 2.10 AERODROME OBSTACLES
+RJAH AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+1 Associated MET Office TOKYO
+2 Hours of service
+MET Office outside hours
+H24(TOKYO)
+3 Office responsible for TAF preparation
+Periods of validity
+TOKYO
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing is available upon inquiry at TOKYO
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment 
+available for providing information
+Doppler Radar for Airport Weather(See below figure)
+9 ATS units provided with information TWR, APP
+10 Additional information(limitation of 
+service, etc.)
+Observation is made by the Ministry of Defense.
+(EFF:3 MAR 2016) 4/2/16
+
+
+=== Page 5 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-5
+UPPER  LIMIT : 1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT : FIELD  ELEV  LEVEL
+ˎ ONL Y FOR DEPARTING AIRCRAFT FROM RWY 21L AND RWY 21R
+Airspace for the advisory service concerning low level wind shear
+03L 03R
+21R
+21L
+ˎ ˎ
+1NM
+FIELD  ELEV 107ft
+1.14NM
+1.14NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM Detection  Area  for  Departing  Aircraft
+Detection  Area  for  Arriving  Aircraft
+(EFF:3 MAR 2016) 4/2/16
+
+
+=== Page 6 ===
+RJAH AD2-6 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJAH AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR TRUE BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ 
+of precision APP RWY
+12 3 4 5 6
+03L 019° 2700 ×45 PCR 628/F/A/X/T
+SW67000kg
+(147700lbs)
+DW89000kg
+(196200lbs)
+DTW137000kg
+(302000lbs)
+Asphalt-concrete 
+To be issued
+later
+THR ELEV:107ft
+21R 199° 2700 ×45 THR ELEV:107ft
+03R 019° 2700 ×45 PCR 691/R/A/W/T
+SW38000kg
+(83700lbs)
+DW61000kg
+(134400lbs)
+DTW136000kg
+(299800lbs)
+Concrete
+To be issued
+later
+THR ELEV:106.9ft
+TDZ ELEV:107.1ft
+21L 199° 2700 ×45 THR ELEV:106.8ft
+TDZ ELEV:107.7ft
+   Slope of RWY Strip
+ Dimensions(M) Remarks
+71 0 1 2
+See below figure 2820 ×150  RWY grooving:
+ RWY 03L/21R 2700mx30m
+          2820
+×150
+See below figure 3300 ×300
+3300×300
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+03L 2700 2700 2700 2700 Nil
+21R 2700 2700 2700 2700 Nil
+03R 2700 2700 2700 2700 Nil
+21L 2700 2700 2700 2700 Nil
+RWY 03L
+107.0ft
+0m
+0%
+RWY 21R
+107.0ft
+2700m
+RWY 03R
+106.9ft 107.1ft 106.9ft 107.8ft 107.7ft 107.6ft
+0m 675m 860m 1410m 1650m 2025m
+0.0074% -0.023% 0.048% -0.015% -0.0021% -0.035%
+RWY 21L
+106.8ft
+2700m
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 7 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-7
+RJAH AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+03L SALS
+420m
+LIH
+Green
+-
+PAPI
+2.75°/LEFT
+413.9m
+61FT
+Nil 2700m
+30m
+Coded color
+(White/Red)
+LIH
+2700m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+21R Green
+-
+PAPI
+2.75°/LEFT
+413.9m
+61FT
+Nil 2700m
+30m
+Coded color
+(White/Red)
+LIH
+2700m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+03R PALS
+(CAT I)
+840m
+LIH
+Green
+Green
+PAPI
+2.75°/LEFT
+420.9m
+60.7FT
+Nil Nil 2700m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+21L PALS
+(CAT I)
+748m
+LIH
+Green
+Green
+PAPI
+2.75°/LEFT
+424.5m
+60.7FT
+Nil Nil 2700m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+Remarks
+10
+RWY THR ID LGT for RWY21R THR(Color: White)
+(EFF:3 MAR 2016) 4/2/16
+
+
+=== Page 8 ===
+RJAH AD2-8 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJAH AD 2.16 HELICOPTER LANDING AREA
+RJAH AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics 
+and hours of operation ABN: 361104N1402533E, White/Green EV4sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : LGTD
+3 TWY edge and center line lighting TWY edge LGT : Blue
+TWY CL LGT (C1, C2, C4, C5 and W) : Green
+4 Secondary power supply/
+switch-over time Within 15 SEC : TWY edge LGT(TWY W), TWY CL LGT (TWY W)
+5 Remarks WDI LGT, OBST LGT
+To be issued later
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+HYAKURI 
+CTR
+(1)Area within a radius 5nm of HYAKURI ARP 
+(3611N14025E), in the west side of a line 
+connecting 361553N/1402433E and 
+360600N/1402339E
+3,000 or 
+below
+D Hyakuri Tower
+En
+(2)Area within a radius 5nm of HYAKURI ARP, 
+in the east side of a line connecting 
+361553N/1402433E and 360600N/1402339E, 
+and in the south side of a line connecting 
+360957N/1402401E and 360739N/1402935E
+6,000 or 
+below
+(exc 6,000)
+(3)Area within a radius of 5nm HYAKURI ARP, 
+in the east side of a line connecting 
+361553N/1402433E and 360600N/1402339E, 
+and in the north side of a line connecting 
+360957N/1402401E and 360739N/1402935E
+6,000 or 
+below
+HYAKURI 
+ACA
+SEE RJAH ATTACHED CHART E Hyakuri Approach
+Hyakuri Departure
+En
+HYAKURI 
+TCA
+SEE RJAH ATTACHED CHART E Hyakuri  TCA
+En
+(EFF:17 AUG 2017) 17/8/17
+
+
+=== Page 9 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-9
+ 百里進入管制区
+  Hyakuri Approach Control Area
+NRE
+RJAK
+ARP
+NRE 49NM
+FL230
+1800 2500
+80006000
+(EXC 6000)
+3000
+(EXC 3000)
+4000
+(EXC 4000)
+13000
+5NM
+80NM
+Point list
+(1) 360023N/1401723E
+(2) 355930N/1401651E
+(3) 355626N/1403002E
+(4) 355732N/1402939E
+(5) 355600N/1403154E
+(6) 355600N/1403535E
+(7) 360705N/1401514E
+(8) 360705N/1401134E
+(9) 360453N/1402703E
+(10) 361321N/1400930E
+(11) 360623N/1400824E
+(12) 360602N/1402056E
+(13) 361053N/1402147E
+(14) 361204N/1401853E
+(15) 355600N/1403828E
+(16) 360407N/1403112E
+(17) 355600N/1404746E
+(18) 360250N/1403803E
+(19) 355600N/1410841E
+(20) 360503N/1410017E
+(21) 360500N/1403600E
+(22) 364138N/1402708E
+(23)
+(24)
+(25)
+363429N/1401317E
+(26)
+360858N/1402626E
+(27)
+361619N/1402619E
+(28)
+361628N/1402245E
+(29)
+361630N/1403849E
+(30)
+361152N/1402623E
+(31)
+360500N/1414604E
+(32)
+355600N/1411534E
+(33)
+360419N/1414409E
+(34)
+363547N/1402606E
+(35)
+362938N/1405126E
+(36)
+371659N/1412135E
+(37)
+364309N/1402724E
+(38)
+364406N/1410527E
+(39)
+364533N/1412604E
+(40)
+364514N/1415447E
+(41)
+360721N/1415233E
+(42)
+363057N/1420100E
+361115N/1402448E
+7000
+10000
+4000
+(EXC 4000)
+(9)
+(3)
+(4)
+(2) (6)
+(14)(10)
+(1)
+(11)
+(13)
+(17)
+(18)
+(7)(8)
+(12)
+(5)
+(16)
+(29)
+(35)
+(39)(37)
+(38)
+(41)
+(34)
+(40)
+(30)
+(32)
+(31)(19)
+(36)
+(22)
+(23)
+(33)
+(27)
+(28)
+(20)
+5000
+(EXC 5000)
+(26)
+8000
+(21)
+(15)
+(24)
+361913N/1404125E
+(42)
+(25)
+(EFF:15 AUG 2019) 15/8/19
+
+
+=== Page 10 ===
+RJAH AD2-10 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+  百里ターミナルコントロールエリア
+   Hyakuri Terminal Control Area
+1800
+1300
+HYAKURI CTZ
+OUT OF TCA
+5NM
+RJAK (1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(14)
+(11)
+(13)
+(12)
+(23)
+(27)
+(25) (24)
+(15)
+(17)
+(21)
+(26)
+5NM
+6NM
+9NM
+12NM
+19NM
+24NM
+30NM
+14.8NM
+(29)
+(28)
+(22)
+(10)
+(8)
+(7)
+(16)
+(9)
+1
+1 7000
+300015
+2500
+1800
+2 7000
+2200
+16
+2999
+1300
+3 7000
+1300
+17
+3999
+1500
+4 10000
+130018
+4999
+1500
+5 10000
+150019
+5999
+1500
+6 7000
+3500
+20
+3999
+1300
+7 7000
+2500
+21
+5999
+13008 7000
+1500
+22
+8000
+15009 10000
+250023
+8000
+150010 10000
+150024
+3999
+3000
+11 10000
+200025
+3999
+220012 7000
+4000
+26
+8000
+1300
+13 10000
+400027
+7000
+4000
+14
+2
+3
+7
+8
+12
+15
+20
+21
+22
+23
+24
+25
+26
+27
+16
+18
+13
+10
+191714
+11
+4
+5
+6
+9
+033˚ T
+033˚ T
+043˚ T
+003˚ T
+323˚ T
+293˚ T
+253˚ T
+ARP
+(1) 360023N/1401723E
+(2) 355930N/1401651E
+(3) 355626N/1403002E
+(4) 355732N/1402939E
+(5) 355600N/1403154E
+(6) 355600N/1403535E
+(7) 360705N/1401514E
+(8) 360705N/1401134E
+(9) 360453N/1402703E
+(10) 361321N/1400930E
+(11) 360602N/1402056E
+(12) 361053N/1402147E
+(13) 361204N/1401853E
+(14) 355600N/1403828E
+(15) 360407N/1403112E
+(16) 355600N/1404746E
+(17) 360250N/1403803E
+(18) 360423N/1410054E
+(19) 360503N/1410017E
+(20) 360503N/1410105E
+(21) 360500N/1403600E
+(22) 363429N/1401317E
+(23) 360858N/1402626E
+(24) 361619N/1402619E
+(25) 361628N/1402245E
+(26) 361630N/1403849E
+(27) 361152N/1402623E
+(28) 364114N/1402536E
+(29) 364112N/1402654E
+(30) 361913N/1404125E
+(30)
+(20)
+(19)
+(18)
+(EFF:15 AUG 2019) 15/8/19
+
+
+=== Page 11 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-11
+RJAH AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+APP/ASR Hyakuri Approach/
+Hyakuri Radar
+362.3MHz
+305.7MHz(1)
+261.2MHz
+120.1MHz
+123.875MHz
+243.0MHz(E)
+121.5MHz(E)
+H24 (1) Primary
+(2) For rescue only
+     *AVBL on request
+DEP Hyakuri Departure 362.3MHz
+120.1MHz
+H24
+TWR Hyakuri Tower 323.8MHz(1)
+236.8MHz
+118.025MHz(1)
+126.2MHz
+138.05MHz(2)
+247.0MHz(2)*
+123.1MHz(2)*
+243.0MHz(E)
+121.5MHz(E)
+H24
+GCA-ASR
+   -PAR
+Hyakuri Radar 270.8MHz
+335.6MHz
+289.9MHz
+300.4MHz
+306.2MHz
+310.8MHz
+321.2MHz
+125.3MHz
+127.975MHz
+134.1MHz
+H24 ASR RWY 03L/21R, 03R/21L
+PAR RWY 03R/21L
+Glide path  RWY03R 2.75°
+Glide path  RWY21L 2.75°
+GND Hyakuri Ground 275.8MHz(1)
+247.8MHz
+119.5MHz(1)
+126.2MHz
+H24
+TCA Hyakuri TCA 124.8MHz 2300 - 1100
+SUN - THU
+(EXC HOL)
+(EFF:17 JUN 2021) 17/6/21
+
+
+=== Page 12 ===
+RJAH AD2-12 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR declination) ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 34 5 6 7
+VOR
+(7°W/2009)
+HUC 113.3MHz H24 361113.22N/
+1402449.42E
+VOR Unusable:
+  R030-040 beyond 35NM BLW 2000ft.
+  R070-080 beyond 35NM BLW 2000ft.
+  R080-130 beyond 37NM BLW 2000ft.
+  R130-140 beyond 32NM BLW 2000ft.
+  R140-150 beyond 38NM BLW 2000ft.
+  R270-280 beyond 38NM BLW 5000ft.
+  R280-310 beyond 28NM BLW 5000ft.
+  R310-320 beyond 30NM BLW 4000ft.
+  R320-330 beyond 35NM BLW 4000ft.
+TACAN HUC 1167MHz
+(CH-80X)
+H24 361114.81N/
+1402447.53E
+162FT TACAN Unusable:
+  R100-110 beyond 37NM BLW 2000ft.
+  R120-130 beyond 25NM BLW 2000ft.
+  R130-140 beyond 38NM BLW 2000ft.
+  R270-280 beyond 30NM BLW 5000ft.
+  R280-290 beyond 25NM BLW 5000ft.
+  R290-300 beyond 34NM BLW 5000ft.
+  R300-310 beyond 27NM BLW 5000ft.
+  R310-320 beyond 30NM BLW 5000ft.
+ILS-LOC 03R IHY 109.3MHz H24 361147N/ 
+1402520E
+LOC : 475m away FM RWY 21L THR,
+BRG (MAG) 027°
+ILS-GP 03R - 332.0MHz H24 361022.8N/
+1402439.3E
+GP : 349.4m inside FM RWY 03R THR, 
+105m W of RCL.
+Angle 2.75°
+HGT of ILS reference datum 
+16.5m(54FT)
+ILS-DME 03R IHY 991.0MHz
+(CH-30X)
+H24 361022.9N/
+1402438.0E
+128FT DME : 349.4m inside of RWY03R THR,
+115m W of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are satellite
+based.
+HYAKURI  AD
+21
+L
+21
+R
+03
+L
+03
+R
+ILS
+ILS-DME ANTENNA
+ILS-GP ANTENNA
+115m 105m
+349.4m210m475m
+1934.6m
+2700m
+225m
+TACAN ANTENNA
+REMARKS :  1  LOC  Beam  BRG(MAG)  027 °
+ 2  HGT  of  ILS  REF  datum 16.5m(54ft)
+ 3  GP  angle 2.75 °
+ILS-LOC
+ANTENNA
+(EFF:2 DEC 2021) 2/12/21
+
+
+=== Page 13 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-13
+RJAH AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJAH AD 2.21 NOISE ABATEMENT PROCEDURES
+Civil transient aircraft:
+PPR to CAB Hyakuri Airport Office(0299-54-0600) for parking
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:3 MAR 2016) 4/2/16
+→
+
+
+=== Page 14 ===
+RJAH AD2-14 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD 2.22 FLIGHT PROCEDURES
+1. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY03R PAR RWY21L
+MINIMA THR elev. 107 AD elev. 107 MINIMA THR elev. 107 AD elev. 107
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS DA(H) RVR/
+CMV MDA(H) VIS
+A
+307(200) 750
+580(473) 1600
+A
+307(200) 750
+580(473) 1600
+BB
+C
+660(553)
+2400 C
+660(553)
+2400
+D 3200 D 3200
+ASR RWY03R ASR RWY21L
+MINIMA THR elev. 107 AD elev. 107 MINIMA THR elev. 107 AD elev. 107
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+520(413)
+900
+580 (473) 1600
+A
+540(433)
+900
+580(473) 1600
+B
+1000
+B
+1000
+C
+660(553)
+2400 C
+660(553)
+2400
+D 1400 3200 D 1400 3200
+ASR RWY03L ASR RWY21R
+MINIMA THR elev. 107 AD elev. 107 MINIMA THR elev. 107 AD elev. 107
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+520(413)
+1200
+580(473) 1600
+A
+540(433)
+1500 580(473) 1600
+B 1300 B
+C 1400
+660(553)
+2400 C 1800
+660(553)
+2400
+D 1600 3200 D 2000 3200
+(EFF:15 MAY 2025) 15/5/25
+
+
+=== Page 15 ===
+AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan
+RJAH AD2-15
+RJAH AD 2.23 ADDITIONAL INFORMATION
+2. TKOF WX MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL* 
+AVBL
+REDL or RCLL* 
+AVBL
+REDL & RCLL* 
+OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF
+ALTN
+AP FILED
+03R
+A,B,
+C,D
+ -  - 0 ' - 400m 0 ' - 400m  - 0 ' - 500m
+03L 200 ' - 1600m 200 ' - 1600m 200 ' - 1600m 200 ' - 1600m  - 200 ' - 1600m
+21R 200 ' - 1600m 200 ' - 1600m 200 ' - 1600m 200 ' - 1600m  - 200 ' - 1600m
+21L  -  - 0 ' - 400m 0 ' - 400m  - 0 ' - 500m
+OTHER
+03R
+A,B,
+C,D AVBL LDG MINIMA
+03L
+21R
+21L
+NOTE: SIDs are designed in acco rdance with provisional standards for FLIGHT PROCEDURE DESIGN.
+RWY03R/21L RCLL not installed.
+TKOF WX MINIMA for OGITU DEPARTURE and HITAKA DEPARTURE only
+RWY ACFT 
+CAT
+REDL & RCLL* REDL or RCLL* 
+or RCL Marking
+NIL
+ (DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-
+Engine 
+ACFT with 
+TKOF 
+ALTN AP 
+FILED
+03R
+A,B,
+C,D
+ -  - 0 ' - 400m 0 ' - 400m  - 0 ' - 500m
+03L 200 ' - 1600m 200 ' - 1600m 200 ' - 1600m 200 ' - 1600m  - 200 ' - 1600m
+21R 200 ' - 1600m 200
+' - 1600m 200 ' - 1600m 200 ' - 1600m  - 200 ' - 1600m
+21L  -  - 0 ' - 400m 0 ' - 400m  - 0 ' - 500m
+OTHER
+03R
+A,B,
+C,D AVBL LDG MINIMA
+03L
+21R
+21L
+  Note : RWY03R/21L RCLL not installed.
+3. Automated Radar Terminal System (ARTS)
+ 百里進入管制区を航行する航空機は , 管制機関の指示が
+あった場合原則と し て自動高度通報機能を有する 4096
+コー ド による応答装置を作動させる こ と。
+ 上記指示を受けた当該応答装置を有し ない航空機は , 管
+制機関に対し その旨を通報する こ と。
+When instructed by ATC, aircraft flying in and out of Hyakuri 
+Approach control area in principle will reply on 4096 Code(Mode A/
+3) with automatic altitude reporting capability (Mode C); Aircraft not 
+equipped with the said transponder shall report ATC to that effect.
+4. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with HYAKURI Radar are lost for 1 minute in the pattern or 5 seconds (PAR)/15 seconds (ASR) on final
+approach, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact HYAKURI Radar/Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to TACAN IAF or NAKAH IAF at last  assigned altitude or 4,000 feet whichever is higher, and
+execute instrument approach.
+(II) Procedures other than above will be issued when situation required.
+Nil
+(EFF:2 OCT 2025) 2/10/25
+
+
+=== Page 16 ===
+RJAH AD2-16 AIP Japan
+HYAKURI
+Civil Aviation Bureau,Japan (EFF:6 OCT 2022) 11/8/22
+RJAH AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart -1
+Aerodrome/Heliport Chart -2
+Standard Departure Chart - Instrument (OGITU)
+Standard Departure Chart - Instrument (NAKAH)*
+Standard Departure Chart - Instrument (HOKTA, HOKTA EAST)*
+Standard Departure Chart - Instrument (DAPPE)*
+Standard Departure Chart - Instrument (HITAKA-RNAV)
+Standard Arrival Chart - Instrument (DAIGO)* 
+Standard Arrival Chart - Instrument (TATSU-RNAV) 
+Instrument Approach Chart (ILS Z or LOC Z RWY03R)*
+Instrument Approach Chart (ILS Y or LOC Y RWY03R)*
+Instrument Approach Chart (ILS X or LOC X RWY03R) 
+Instrument Approach Chart (ILS W or LOC W RWY03R)*
+Instrument Approach Chart (VOR RWY03R)
+Instrument Approach Chart (VOR RWY03L)
+Instrument Approach Chart (VOR RWY21L)
+Instrument Approach Chart (VOR RWY21R)
+Instrument Approach Chart (VOR B)
+Instrument Approach Chart (TACAN Z RWY03R)*
+Instrument Approach Chart (TACAN Y RWY03R)*
+Instrument Approach Chart (TACAN Z RWY03L)*
+Instrument Approach Chart (TACAN Y RWY03L)*
+Instrument Approach Chart (TACAN Z RWY21L)*
+Instrument Approach Chart (TACAN Y RWY21L)*
+Instrument Approach Chart (TACAN Z RWY21R)*
+Instrument Approach Chart (TACAN Y RWY21R)*
+Instrument Approach Chart (TACAN A)*
+Instrument Approach Chart (RNP RWY03L)
+Instrument Approach Chart (RNP RWY21R)
+Other Chart (MVA CHART)
+*: Designed in accordance with provisional standards for FLIGHT PROCEDURE DESIGN.
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+USABLE TWY FOR CIVIL ACFT 
+C1, C2, C4, C5, W
+107.0ftLONGITUDINAL PROFILE OF RWY
+03R
+03L 21R
+106.9ft
+107.0ft
+107.1ft 106.9ft 107.8ft 107.7ft 107.6ft
+106.8ft
+0%
+21L
+0.007% -0.023% -0.048% -0.015% -0.002% -0.035%
+2700m2025m1650m1410m860m675m0m
+˒
+˙
+LDI  WDIL
+ABN
+E1E2 E4E 3 E5
+C4C5 C1C2
+JSDF APRON
+TWR
+MEHT 18.5m
+PAPI Angle 2.75˃
+WBAR
+PAPI Angle 2.75˃
+MEHT 18.5m
+PAPI Angle 2.75˃
+MEHT 18.5m
+PAPI Angle 2.75˃
+MEHT 18.5m
+LOC
+HUC
+PAR
+ILS-DME
+ILS-GP
+ C3
+ARP
+361054N1402453E
+RVR RVR
+VA
+R7˃
+W(2007)
+413.9m
+SALS
+420m
+TPIL
+413.9m
+RWYTIL
+HYAKURI
+TWR
+HYAKURI
+GND
+118.025 – 126.2
+236.8 – 323.8
+119.5   275.8
+424.5m PALS
+748m420.9mPALS
+840m
+HYAKURI  AD
+ELEV 107ft
+W
+CIVIL
+APRON
+APRON FLOOD LGT
+FOR POLICE ONL Y
+POLICE APRON
+RTHL
+SFL
+AD CHARTRJAH / HYAKURI
+INS CK point
+361042.72N 1402431.73E361040.89N 1402430.91E361039.06N 1402430.10E361037.23N 1402429.28E
+1
+2
+3
+4
+RWY 03L/21R 2700 ʷ45m Asphalt Concrete
+RWY 03R/21L 2700 ʷ45m Concrete
+MAG BRG 026˚ /206˚
+TWY width
+ C1, C5 28.5m
+ C2, C4 34m
+ C3 23m
+ W 34m
+(EFF:24 MAY 2018) 26/4/18
+→ RJAH AD2.24-ADC-1
+HYAKURI
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+䷵䢢䷶䢢䷷䢢䷸䢢
+䷵䢢䷶䢢䷷䢢䷸䢢
+03
+L
+21
+R
+03
+R
+21
+L
+AD CHARTRJAH / HYAKURI
+21R-03L 21R-03L
+Example for MANDATORY INSTRUCTION MARKING
+RWY SIDE
+Installed on TWY
+9$5Û:
+RWY
+03L/21R
+RWY
+03R/21L
+TWY W
+CIVIL APRON
+PCR 628/F/A/X/T
+6:NJOEV
+D:NJOEV
+'7:NJOEV
+PCR 825/F/C/X/T
+3&55&:7
+STRENGTH
+PCR 691/R/A/W/T
+6:NJOEV
+D:NJOEV
+'7:NJOEV
+CHANGE :Description of strength of pavement.
+(EFF:23 JAN 2025) 23/1/25
+RJAH AD2.24-ADC-2
+HYAKURI
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+VORTAC
+HYAKURI
+113.3   HUC
+200 FT
+CH–80X
+ÛÝ1ÛÝ(
+Û
+Û
+Û
+HU
+C R032
++'*Û
+D5.5
+D35.2 HUC ARC
+D35.2 HUC ARCOKUJI
+OKUJI
+600
+600
+10000
+9000
+VOR/DME
+IWAKI
+117.7   IXE
+500FT
+CH–124X
+ÛÝ1ÛÝ(
+R002/D35.2 HUC
+HUC
+R032/D32.5
+HUC VORTAC
+OKUJI TRANSITION
+7000
+OGITU
+OGITU
+RJAH / HYAKURI SID and TRANSITION
+OGITU TWO DEPARTURE
+     RWY 03R/03L : Climb RWY HDG to 600FT,...
+     RWY 21R/21L : Climb RWY HDG to 600FT, turn rLJKW+'*ÛWRLQWHUFHSWDQG
+SURFHHG
+...via HUC R032 to OGITU.
+&URVV+8&5'0(DWRUEHOow 7000FTFURVV2*,78DWRU
+EHOow 10000FT.
+1RWH This SID for V25HTXLSSHGDLUFraft only.
+OKUJI TRANSITION
+     From ovHU2*,7U, via HUC R032 to 32.5DME, turQOHIWWRLQWHUFHSWDQGSURFHHG
+YLD+8&'0(FRXQWHUFORFNZLVH$5&WR2.8-,
+     Cross OKUJI at or abovH)T.
+IWAKI TRANSITION
+     From ovHU2*,7USURFHHGYLD,;(5WR,;( VOR/DME.
+5:</FOLPEJUDGLHQWUHTXLUHGXSWR)7
+2%67$/7)7ORFDWHGDW10)0HQGRI5:</
+IWAKI TRANSITION
+OKUJI TRANSITION
+OGITU TWO DEPARTURE
+R032/D30.0 HUC
+R213/D33.7 IXE
+CHANGE : OBST.
+186(79)
+171(64)
+164(57)
+161(54) 167(60)
+03L
+21R
+RWY
+6HH7$.(2))0,1,0$
+197(90)
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-SID-1
+HYAKURI
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJAH AD2.24-SID-2
+STANDARD DEPARTURE CHART - INSTRUMENT
+5.0NM
+6.0NM
+D6.0 HUC
+NAKAH
+R002/D15.0 HUC
+CHANGE : OBST.
+7000
+Û
+Û
+for
+using VOR)
+VORTAC
+113.3 HUC
+HYAKURI
+200 FT
+CH–80X
+ÛÝ1ÛÝ(
+NAKAH FOUR DEPARTURE
+RWY 03R/03L : Turn left within 5.0NM....
+RWY 21R/21L : Turn right or left within 6.0NM....
+FOLPEYLD+8&55for using VOR) to NAKAH.
+&URVV+8&55for using VOR) /6.0DME at or below 7000FT.
+DISIRUKAYH/HAJR
+21R
+03L
+RWY
+See TAKE OFF MINIMA
+ 
+
+
+ 
+HYAKURI
+(EFF:2 OCT 2025) 2/10/25
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+HOKTA FIVE DEPARTURE
+  RWY 03R/03L :   Climb via RWY HDG until 1.0NM from RWY end/HUC 1.4DME,
+        turn right within 5.0NM....
+  RWY 21R/21L :   Turn left within 6.0NM....
+             ....climb via HUC R071 to HOKTA.
+                  Cross HUC R071/19.3DME at or below 8000FT, cross HOKTA at or
+                  above 11000FT.
+   Note1 :    Take off RWY 21R/21L, cross HUC R130 at or below 5000FT.
+   Note2 :    This SID for TACAN equipped aircraft only.
+HOKTA EAST FIVE DEPARTURE
+   RWY 03R/03L :   Climb via RWY HDG until 1.0NM from RWY end/HUC 1.4DME,
+        turn right within 5.0NM....
+   RWY 21R/21L :   Turn left within 6.0NM....
+              ....climb via HUC R091 to HUC 27.0DME, turn left via HUC 27.0DME 
+    counterclockwise ARC to HOKTA.
+                  Cross HUC R091/23.0DME at or below 8000FT, cross HOKTA at or
+                  above 11000FT.
+   Note1 :    Take off RWY 21R/21L, cross HUC R130 at or below 5000FT.
+   Note2 :    This SID for TACAN equipped aircraft only.
+  MATSUSHIMA TRANSITION
+       From over HOKTA, via CVT R015  to CVT 59.0DME, MXT R195 to MXT TACAN.
+       Cross CVT R015/59.0DME (MXT R195/103.0DME) at assigned altitude.
+  Note  CVT R015/59.0DME (MXT R195/103.0DME) : MXT MRA 12000FT.
+DAIGO TRANSITION
+       From over HOKTA, via CVT R015 to DAPPE, via GOT R117 to GOT TACAN.
+RJAH / HYAKURICHANGE : Course FM DAPPE to GOT.
+SID and TRANSITION
+(EFF:24 MAR 2022) 24/2/22
+RJAH AD2.24-SID-3
+HYAKURI
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJAH AD2.24-SID-4
+STANDARD DEPARTURE CHART - INSTRUMENT
+MATSUSHIMA TRANSITION
+Assigned ALT
+Û
+CVT R015
+MXT R195
+DAPPE
+HOKTA
+RJAH / HYAKURI SID and TRANSITION
+8000
+11000
+Û
+DAIGO TRANSITION
+Û
+Û
+8000
+1.0NM FM RWY end/
+D1.4 HUC
+For TACAN equipped ACFT only.
+    HOKTA FIVE DEPARTURE
+    HOKTA EAST FIVE DEPARTURE
+D27.0 HUC ARC
+CVT R015
+R130
+5000
+5.0NM
+6.0NM
+HOKTA
+FIVE DEPARTURE
+D23.0 HUC
+D59.0 CVT
+D103.0 MXT
+(MRA 12000FT)
+D19.3 HUC
+TACAN
+DAIGO
+GOT1187
+1500FT
+CH–100X
+TACAN
+MATSUSHIMA
+MXT1177
+CH–90X
+VORTAC
+113.3 HUC
+HYAKURI
+200 FT
+CH–80X
+TACAN
+CHOSHI
+CH-83X
+200FT
+1170 CVT
+R117/D30.2 GOT
+R015/D51.6 CVT
+HOKTA EAST 
+FIVE DEPARTURE
+CHANGE : OBST.
+21R
+03L
+RWY
+See TAKE OFF MINIMA
+186(79) 197(90)
+171(64)
+164(57)
+161(54) 167(60)
+HYAKURI
+(EFF:2 OCT 2025) 2/10/25
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+NOITISNARTdnaDISIRUKAYH/HAJR
+DAPPE ONE DEPARTURE
+RWY 03R/03L : Climb via RWY HDG until 1.0NM from RWY end/HUC 1.4DME,
+turn right within 5.0NM....
+RWY 21R/21L : Turn left within 6.0NM....
+....climb via HUC R055 to DAPPE.
+Cross HUC R055/31.0DME at or below 10000FT.
+Note1 : Take off RWY 21R/21L, cross HUC R130 at or below 5000FT.
+Note2 : This SID for TACAN equipped aircraft only.
+HYAKURI TRANSITION
+From over DAPPE, via CVT R015 to ANKOH, via HUC R089 to HUC VORTAC.
+Cross ANKOH  at or above FL170.
+CHOSHI TRANSITION
+From over DAPPE, via CVT R015 to CVT TACAN via ANKOH.
+Cross ANKOH at or above FL170.
+CHANGE: ANKOH established
+(EFF:30 JAN 2020) 2/1/20
+RJAH AD2.24-SID-5
+HYAKURI
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJAH AD2.24-SID-6
+STANDARD DEPARTURE CHART - INSTRUMENT
+DAPPE
+FL170
+RJAH / HYAKURI SID and TRANSITION
+Û
+Û
+1.0NM FM RWY end/
+D1.4 HUC
+For TACAN equipped ACFT only.
+    DAPPE ONE DEPARTURE
+R130
+5000
+5.0NM
+6.0NM
+CHOSHI  TRANSITION
+R055/D34.7 HUC
+R015/D51.6 CVT
+R015/D31.3 CVT
+R089/D23.2 HUC
+D31.0 HUC
+10000
+VORTAC
+113.3 HUC
+HYAKURI
+200 FT
+CH–80X
+ÛÝ1ÛÝ(
+DAPPE ONE DEPARTURE
+HYAKURI TRANSITION
+TACAN
+CHOSHI
+CH-83X
+ÛÝ1ÛÝ(
+200FT
+1170 CVT
+Û
+CHANGE: OBST.
+ANKOH
+21R
+03L
+RWY
+See TAKE OFF MINIMA
+186(79) 197(90)
+171(64)
+164(57)
+161(54) 167(60)
+HYAKURI
+(EFF:2 OCT 2025) 2/10/25
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+2409
+2145
+2878
+1512
+1814
+2044
+2326
+1750
+2159
+600
+600
+  8.5
+䢢䢢䢢
+067°
+  22.0
+䢢䢢䢢
+032°
+HYAKURI
+113.3   HUC
+CH-80X䢢䢢䢢䢢䢢䢢䢢
+36°11'13"N/140°24'49"E
+200FT
+VORTAC
+HUC
+DAIGO
+1187   GOT
+CH-100X䢢䢢䢢䢢䢢䢢䢢
+36°44'41"N/140°20'58"E
+1500FT
+TACAN
+GOT
+AMI
+1194   TLD
+CH-107X䢢䢢䢢䢢䢢䢢
+36°01'16"N/140°12'21"E
+100FT
+DME
+TLD
+        
+3000
+          
+10000
+OGITU
+LICEN
+H1R00
+        
+7000
+䢳䢶䢳䤑䢲䢩䣇䢳䢶䢲䤑䢶䢲䢩䣇䢳䢶䢲䤑䢴䢲䢩䣇䢳䢶䢲䤑䢲䢩䣇
+䢵䢸䤑䢶䢲䢩䣐
+䢵䢸䤑䢴䢲䢩䣐
+VAR 8°W
+CHANGE : OBST.
+RJAH / HYAKURI RNAV SID
+ RWY03R : (Not established)
+ RWY03L : Climb on HDG028° at or above 600FT, direct to LICEN at or below 7000FT, 
+                  to OGITU at or below 10000FT. 
+ RWY21L : (Not established)
+ RWY21R : Climb on HDG208° at or above 600FT, turn right direct to H1R00 at or below
+                   3000FT, to LICEN at 4000FT minimum, 7000FT maximum, to OGITU at or
+                   below 10000FT. 
+ Note RWY03L : 4.1% climb gradient required up to 600FT.
+                           OBST ALT 141FT located at 0.1NM 338˚ FM end of RWY03L.
+ Contour 
+Intervals
+AD elev.107
+4100
+3100
+2100
+1100
+HITAKA ONE DEPARTURE RNAV1
+Note 1) DME/DME/IRU or GNSS required.
+               The aircraft equipped with only
+           DME/DME/IRU must be able to
+           update its position without delay
+           at the starting point of take-off roll.
+        2) RADAR service required.
+ Critical DME                                              -
+ DME GAP                                              -
+ Inappropriate
+ Navaids  See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+䢯
+䢯
+䯲
+028°
+208°
+7000 (for RWY03L)
+(for RWY21R)7000
+4000
+505 10 15 20
+KM
+202468 1 0 1 2
+NM
+See TAKE OFF MINIMA
+186(79) 197(90)
+167(60)
+164(57)
+171(64)
+161(54)
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-SID-7
+HYAKURI
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJAH AD2.24-SID-8
+STANDARD DEPARTURE CHART - INSTRUMENT
+HITAKA ONE DEPARTURE 
+RWY03L
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 028
+(019.8) -7.8 - - +600 - - RNAV1
+002 DF LICEN - - -7.8 - - -7000 - - RNAV1
+003 TF OGITU - 032
+(024.6) -7.8 22.0 - -10000 - - RNAV1
+RWY21R
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 208
+(199.8) -7.8 - - +600 - - RNAV1
+002 DF H1R00 - - -7.8 - R -3000 - - RNAV1
+003 TF LICEN - 067
+(059.5) -7.8 8.5 - -7000
++4000 - - RNAV1
+004 TF OGITU - 032
+(024.6) -7.8 22.0 - -10000 - - RNAV1
+CHANGE : Waypoint Coordinates added.
+OGITU 363831.7N/1404022.8E
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+H1R00 361413.1N/1401954.3E
+LICEN 361830.6N/1402857.4E
+RJAH / HYAKURI RNAV SID
+HYAKURI
+(EFF:10 JUL 2025) 10/7/25
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART -INSTRUMENT
+DAIGO  ARRIVAL
+HUCR041
+JYUOH
+R121/D21.1 GOT
+R080/D26.0 HUC
+R080
+HUC
+TAIYO
+D30.0HUC
+ARC
+TACAN
+DAIGO
+1187    GOT
+1500FT
+CH–100X
+ÛÝ1ÛÝ(
+VORTAC
+HYAKURI
+113.3   HUC
+200 FT
+CH–80X
+ÛÝ1ÛÝ(
+6000
+RJAH / HYAKURI STAR
+DAIGO ARRIVAL
+     From over GOT TACAN, proceed via GOT R121 to JYUOH,
+turn right via HUC 30.0DME clockwise ARC to intercept and
+proceed via HUC R080 to TAIYO.
+     Cross JYUOH at or above 6000FT.
+121°
+CHANGE : Course, DIST FM GOT to JYUOH.
+(EFF:24 MAR 2022) 24/2/22
+RJAH AD2.24-STAR-1
+HYAKURI
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART -INSTRUMENT
+2326
+2145
+2878
+2409
+4000
+        
+7000
+  8.
+9䢢䢢䢢
+221°
+  8.2
+䢢䢢䢢
+221°
+DAIGO
+1187    GOT
+CH-100X  䢢䢢䢢䢢䢢䢢䢢
+36°44'41"N/140°20'58"E
+1500FT
+TACAN
+GOT
+HYAKURI
+113.3   HUC
+CH-80X  䢢䢢䢢䢢䢢䢢䢢
+36°11'13"N/140°24'49"E
+200FT
+VORTAC
+HUC
+AMI
+1194  TLD
+CH-107X 䢢䢢䢢䢢䢢䢢
+36°01'16"N/140°12'21"E
+100FT
+DME
+TLD
+  TATSU
+  YAMAD
+  NAKAH
+䢳䢶䢳䤑䢲䢩䣇䢳䢶䢲䤑䢶䢲䢩䣇䢳䢶䢲䤑䢴䢲䢩䣇䢳䢶䢲䤑䢲䢩䣇
+䢵䢸䤑䢶䢲䢩䣐
+䢵䢸䤑䢴䢲䢩䣐
+䢵䢸䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.107
+4100
+3100
+2100
+1100
+VAR 8°W
+RNAV STARRJAH / HYAKURICHANGE : Waypoint Coordinates added.
+TATSU ARRIVAL RNAV1
+ Note  1) DME/DME/IRU or GNSS required.
+           2) RADAR service required.
+5 0 5 1 01 52 0
+KM
+202468 1 0 1 2
+NM
+From TATSU, to YAMAD at or below 7000FT, to NAKAH at or above 4000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM )
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF TATSU - - -7.8 - - - - - RNAV1
+002 TF YAMAD - 221
+(213.7) -7.8 8.2 - -7000 - - RNAV1
+003 TF NAKAH - 221
+(213.6) -7.8 8.9 - +4000 - - RNAV1
+Waypoint Identifier
+TATSU
+YAMAD
+NAKAH
+Coordinates
+364021.7N/1403436.4E
+363334.9N/1402858.8E
+362609.9N/1402250.8E
+Waypoint Coordinates
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate N AVAIDs for RNAV1
+-
+-
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-STAR-2
+HYAKURI
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+HUC
+MAPt(LOC)
+VDP(LOC)
+FAF 260˚R205
+IF
+R137
+R165
+R115
+R080/D15.0
+FL180
+8000
+600
+3000
+3000
+5000
+2500
+1500
+TAIYO
+(IAF)
+D13.0  ARC
+RDH54
+MDA
+800
+(693)
+HDG027˚ 1500
+RJAH / HYAKURI
+DME to IHY
+NM to THR 0
+0.7
+0.5
+1.4
+1.2
+4.7
+4.5
+7.7
+7.5
+027˚
+070˚
+ILS - LOC
+109.3  IHY        
+ILS-GP  332.0
+ILS-DME  CH-30X  
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+Timing not authorized for defining the MAPt.
+025˚027˚GP 2.75˚2.75˚(LO
+C)
+1500
+1477(LOC)
+MISSED APPROACH
+Climb on HDG027˚ to 600FT,
+turn right climb to 3000FT via 
+HUC R070, via HUC 26.0DME
+Contact HYAKURI APP .
+clockwise ARC to TAIYO and 
+hold.
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+307 (200) 520 (413)
+660 (553)
+580 (473)
+750
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+CHANGE : MDA(H) for LOC.
+ILS Z or LOC Z RWY03R
+VAR 8˚W (2018)
+360°
+090°
+270°
+EMERG SAFE ALT 100NM 14400
+FAF : 360555.40N/1402243.84E
+180
+°
+260˚
+080˚070˚
+TAIYO(IAF)
+R080/D26.0 HUC
+HYAKURI
+113.3    HUC
+VORTAC
+ÛÝ1ÛÝ(
+CH-80X
+025˚
+027˚691R CUH
+IF
+D7.7 IHY
+FAF
+D4.7 IHY
+MAPt(LOC)
+D0.7 IHY
+HUC R165
+1500
+HUC R137
+2500
+5000
+HUC R115
+D32.0 HUC
+MHA 3000
+260˚20NM
+R080R070
+D13.0 HUC ARC
+EQPT REQUIRED
+TACAN
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+KASUMIGAURA AD
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+(EFF:2 NOV 2023) 5/10/23
+RJAH AD2.24-IAC-1
+HYAKURI
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+360°
+090°
+270°
+EMERG SAFE ALT 100NM 14400
+FAF : 360555.40N/1402243.84E
+180°
+260˚
+080˚070˚
+TAIYO
+R080/D26.0 HUC
+ITAKO(IAF)
+R105/D30.0 HUC
+ITAKO(IAF)
+R105/D30.0 HUC
+HYAKURI
+113.3    HUC
+VORTAC
+ÛÝ1ÛÝ(
+CH-80X
+025˚
+027˚
+HUC R196
+IF
+D7.7 IHY
+FAF
+D4.7 IHY
+MAPt(LOC)
+D0.7 IHY
+ILS Y or LOC Y RWY03R
+MISSED APPROACH
+Climb on HDG027˚ to 600FT, 
+turn right climb to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and 
+hold.
+Contact HYAKURI APP.
+D32.0 HUC
+D36.0 HUC
+MHA 3000
+MHA 5000
+HUC
+MAPt(LOC)
+VDP(LOC)
+FAF 285˚
+R205
+IF
+R137R165 R115
+R105/D15.0
+10000
+8000
+600
+3000
+5000
+5000
+1500
+20NM
+R080
+R105
+R070
+D13.0 HUC ARC
+ITAKO
+(IAF)
+RDH54
+MDA
+800
+(693)
+HDG027˚ 1500
+RJAH / HYAKURI
+DME to IHY
+NM to THR 0
+0.7
+0.5
+1.4
+1.2
+4.7
+4.5
+7.7
+7.5
+027˚
+070˚
+EQPT REQUIRED
+TACAN
+ILS - LOC
+109.3  IHY        
+ILS-GP  332.0
+ILS-DME  CH-30X  
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+KASUMIGAURA AD
+2500
+Timing not authorized for defining the MAPt.
+025˚027˚GP 2.75˚2.75˚(LO
+C)
+1500
+1477(LOC)
+105˚
+285˚
+285˚
+285˚
+HUC R165
+1500
+HUC R137
+2500
+5000
+HUC R115
+D13.0  ARC
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+VAR 8˚W (2018)
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+307 (200) 520 (413)
+660 (553)
+580 (473)
+750
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+CHANGE : MDA(H) for LOC.
+NOT TO SCALE
+(EFF:2 NOV 2023) 5/10/23
+RJAH AD2.24-IAC-2
+HYAKURI
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+FAF : 360555.40N/1402243.84E
+ÛÛ
+Û
+Û
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+Û
+Û
+Û
+Û
+ILS - LOC
+109.3  IHY        
+ILS-GP  332.0
+ILS-DME  CH-30X  
+ILS X or LOC X RWY03R
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+MISSED APPROACH
+&OLPERQ+'*ÛWR)T,
+WXrQOHIWFOLPEWR)7YLD
++8&5WR1$.$+DQGKROG
+&RQWDFW+YAKURI APP .
+7LPLQJQRWDXWKRrizHGfRUGHILQLQJWKH0$3W
+HUC
+0$3W
+(LOC)
+VDP
+(LOC)
++'*Û
+FAF R137
+R165
+R205
+R115/
+D11.0
+NAKAH
+(IAF)
+1500600
+5000
+4000
+7000
+4000
+1500 2500
+20NM
+691R CUH
+Û
+Û
+Û
+Û
+D13.0 HUC ARC
+D0.7 IHY
+0$3W/2&
+NAKAH(IAF)
+IF
+D7.7 IHY
+FAF
+D4.7 IHY
+G3Û
+Û/2
+C)
+RDH54
+MDA 800
+(693)
+Û
+Û
+Û
+Û
+9$5Û:
+RJAH / HYAKURI
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+307 (200) 510 (403)
+660 (553)
+580 (473)750
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+7+5HOHY107 $'HOHY107
+A
+B
+C
+D
+'0(WR,+<
+10WR THR
+7.7
+7.5
+4.7
+4.5
+0.7
+0.5
+1.5
+1.30
+EQPT REQUIRED
+VOR
+DME
+Û Û
+IF
+D13.0 ARC
+1500
+1477(LOC)
+HUC R137
+2500
+HUC R165
+1500
+HUC R115/D11.0
+R001/D15.0 HUC
+NAKAH
+(IAF)
+R001/D15.0 HUC
+MAX 230KIAS
+MHA 4000
+50004000
+D20.0 HUC
+HYAKURI
+113.3    HUC
+VORTAC
+ÛÝ1ÛÝ(
+CH-80X
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+KASUMIGAURA AD
+NOT TO SCALE
+CHANGE : VAR.
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-IAC-3
+HYAKURI
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+360°
+090°
+270°
+EMERG SAFE ALT 100NM 14400
+FAF : 360555.40N/1402243.84E
+180°
+260˚
+080˚070˚
+TAIYO
+R080/D26.0 HUC
+HYAKURI
+113.3    HUC 
+VORTAC
+ÛÝ1ÛÝ(
+CH-80X
+027˚
+IF
+D7.7 IHY
+FAF
+D4.7 IHY
+MAPt(LOC)
+D0.7 IHY
+ILS W or LOC W RWY03R
+MISSED APPROACH
+Climb on HDG027˚ to 600FT, 
+turn right climb to 3000FT
+via HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and hold.
+Contact HYAKURI APP.
+D32.0 HUC
+MHA 3000
+HUC
+MAPt(LOC)
+VDP(LOC)
+FAF
+IF
+600
+3000
+20NM
+R080R070
+RDH54
+MDA
+800
+(693)
+HDG027˚
+1500
+RJAH / HYAKURI
+MINIMA 
+CAT
+CAT 䱶 
+DA(H)
+307 (200) 750  520 (413)
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV
+CIRCLING 
+MDA(H) VIS
+LOC
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to IHY
+NM to THR 0
+0.7
+0.5
+1.4
+1.2
+4.7
+4.5
+7.7
+7.5
+027˚
+070˚
+EQPT REQUIRED
+TACAN
+ILS - LOC
+109.3  IHY        
+ILS-GP  332.0
+ILS-DME  CH-30X  
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+KASUMIGAURA AD
+Timing not authorized for defining the MAPt.
+027˚GP 2.75˚2.75˚(LO
+C)
+1500
+1477(LOC)
+660 (553)
+580 (473)
+VAR 8˚W (2018)
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+CHANGE : MDA(H) for LOC. 
+(EFF:2 NOV 2023) 5/10/23
+RJAH AD2.24-IAC-4
+HYAKURI
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+FAF : 360524.20N/1402247.54E
+ÛÛ
+Û
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+Û
+Û
+Û
+Û
+Û
+HYAKURI  VORTAC
+113.3      HUC
+CH-80X
+ÛÝ1ÛÝ(
+VOR RWY03R
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+MISSED APPROACH
+Turn left, climb to 4000FT via 
+HUC R001 to NAKAH and hold.
+Contact HYAKURI APP .
+Timing not authorized for defining the MAPt.
+HUC
+MAPt
+VDP
+FAF R137
+R115/
+D11.0
+NAKAH
+(IAF)
+1500
+4000
+5000
+4000
+7000
+4000
+25001500
+20NM
+491R CUH
+Û
+Û
+Û
+Û
+D13.0 HUC ARC
+D1.1 HUC
+MAPt
+NAKAH(IAF)
+IF
+D13.0 HUC
+FAF
+D6.1 HUC
+MDA 700
+(593)
+Û
+Û
+Û
+Û
+Û
+9$5Û:
+RJAH / HYAKURI
+ 
+MINIMA 
+CAT
+520 (413)
+660 (553)
+580 (473)
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to HUC
+NM to THR
+13.0
+11.9
+5.7
+4.6
+6.1
+5.0
+1.1
+0
+2.4
+1.3
+EQPT REQUIRED
+DME
+R165R203
+Û
+IF
+D13.0 ARC
+1500
+HUC R137
+2500
+HUC R165
+1500
+HUC R115/D11.0
+R001/D15.0 HUC
+NAKAH
+(IAF)
+R001/D15.0 HUC
+MAX 230KIAS
+MHA 4000
+50004000
+D20.0 HUC
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+KASUMIGAURA AD
+NOT TO SCALE
+CHANGE : VAR.
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-IAC-5
+HYAKURI
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+FAF : 360524.20N/1402247.54E
+ÛÛ
+Û
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+Û
+Û
+Û
+Û
+Û
+VOR RWY03L
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+MISSED APPROACH
+Turn left, climb to 4000FT via 
+HUC R001 to NAKAH and hold.
+Contact HYAKURI APP .
+Timing not authorized for defining the MAPt.
+HUC
+MAPt
+VDP
+FAF R137
+R115/
+D11.0
+NAKAH
+(IAF)
+1500
+4000
+5000
+4000
+7000
+4000
+25001500
+20NM
+491R CUH
+Û
+Û
+Û
+Û
+D13.0 HUC ARC
+D1.1 HUC
+MAPt
+NAKAH(IAF)
+IF
+D13.0 HUC
+FAF
+D6.1 HUC
+MDA 700
+(593)
+Û
+Û
+Û
+Û
+Û
+9$5Û:
+RJAH / HYAKURI
+ 
+MINIMA 
+CAT
+520 (413)
+660 (553)
+580 (473)
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to HUC
+NM to THR
+13.0
+11.9
+5.7
+4.6
+6.1
+5.0
+1.1
+0
+2.4
+1.3
+EQPT REQUIRED
+DME
+R165R203
+Û
+IF
+D13.0 ARC
+1500
+HUC R137
+2500
+HUC R165
+1500
+HUC R115/D11.0
+R001/D15.0 HUC
+NAKAH
+(IAF)
+R001/D15.0 HUC
+MAX 230KIAS
+MHA 4000
+50004000
+D20.0 HUC
+HYAKURI  VORTAC
+113.3     HUC
+CH-80X
+ÛÝ1ÛÝ(
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+KASUMIGAURA AD
+NOT TO SCALE
+CHANGE : VAR.
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-IAC-6
+HYAKURI
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+FAF : 361601.00N/1402813.67E
+ÛÛ
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+Û
+Û
+Û
+Û
+VOR RWY21L
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+MISSED APPROACH
+Tur n rLJKWFOLPERQ+'*ÛWR
+intercept and proceed via HUC R001
+to NAKAH and hold at 4000FT.
+Contact HYAKURI APP .
+Timing not authorized for defining the MAPt.
+HUC
+MAPt
+VDP
+FAF
+IF R037
+2000
+7000
+4000
+20NM
+HUC R029
+Û
+Û
+D15.0 HUC ARC
+D1.0 HUC
+MAPt
+NAKAH(IAF)
+KASUMIGAURA AD
+IF
+D11.0 HUC
+FAF
+D5.5 HUC
+MDA 800
+(693)
+Û
+Û
+9$5Û:
+RJAH / HYAKURI
+ 
+MINIMA 
+CAT
+520 (413)
+540 (433) 660 (553)
+580 (473)
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to HUC
+NM to THR
+11.0
+10.6
+5.5
+5.10
+1.0
+0.6
+1.7
+1.3
+EQPT REQUIRED
+DME
+Û
+D15.0
+ARC
++'*Û
++'*Û
+1639
+R001/D15.0 HUC
+MAX 230KIAS
+MHA 4000
+D20.0 HUC
+NAKAH
+(IAF)
+HYAKURI  VORTAC
+113.3     HUC
+CH-80X
+ÛÝ1ÛÝ(
+481
+2874
+2058 1889
+1749
+1167
+740
+768
+4000
+790
+CHANGE : VAR. DME to HUC, NM to THR at VDP. MDA(H) for CAT A,B,C.
+(EFF:15 MAY 2025) 15/5/25
+RJAH AD2.24-IAC-7
+HYAKURI
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+FAF : 361615.20N/1402739.82E
+ÛÛ
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+Û
+Û
+Û
+Û
+VOR RWY21R
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+MISSED APPROACH
+Tur n rLJKWFOLPERQ+'*ÛWR
+intercept and proceed via HUC R001
+to NAKAH and hold at 4000FT.
+Contact HYAKURI APP .
+Timing not authorized for defining the MAPt.
+HUC
+MAPt
+VDP
+FAF
+IF R032
+2000
+7000
+40004000
+20NM
+HUC R024
+Û
+Û
+D15.0 HUC ARC
+D1.0 HUC
+MAPt
+NAKAH(IAF)
+KASUMIGAURA AD
+IF
+D11.0 HUC
+FAF
+D5.5 HUC
+MDA 1000
+(893)
+Û
+Û
+9$5Û:
+RJAH / HYAKURI
+ 
+MINIMA 
+CAT
+520 (413)
+660 (553)
+580 (473)1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to HUC
+NM to THR
+11.0
+10.6
+5.5
+5.10
+1.0
+0.6
+1.7
+1.3
+EQPT REQUIRED
+DME
+Û
+D15.0
+ARC
++'*Û
++'*Û
+1643
+R001/D15.0 HUC
+MAX 230KIAS
+MHA 4000
+D20.0 HUC
+NAKAH
+(IAF)
+HYAKURI  VORTAC
+113.3     HUC
+CH-80X
+ÛÝ1ÛÝ(
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+790
+CHANGE : VAR. OCA(H). DME to HUC, NM to THR at VDP. MDA(H) for MINIMA.
+(EFF:15 MAY 2025) 15/5/25
+RJAH AD2.24-IAC-8
+HYAKURI
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+FAF : 361713.40N/1402401.99E
+ÛÛ
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+Û
+Û
+Û
+Û
+VOR B
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+RADAR  AVBL
+MISSED APPROACH
+Tur n rLJKWFOLPERQ+'*ÛWR
+intercept and proceed via HUC R001
+to NAKAH and hold at 4000FT.
+Contact HYAKURI APP .
+Timing not authorized for defining the MAPt.
+HUC
+MAPt
+FAF
+7000
+4000
+4000
+20NM
+Û
+Û
+Û
+Û
+MAPt
+NAKAH(IF)
+KASUMIGAURA AD
+FAF
+D6.0 HUC
+MDA
+1300
+(1193)
+9$5Û:
+RJAH / HYAKURI
+ 
+MINIMA 
+CAT
+660 (553)
+580 (473) 1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 107
+A
+B
+C
+D
+DME to HUC00.60.51
+EQPT REQUIRED
+DME
++'*Û
+HDGÛ
+R001/D15.0 HUC
+MAX 230KIAS
+MHA 4000
+D20.0 HUC
+NAKAH
+(IF)
+HYAKURI  VORTAC
+113.3      HUC
+CH-80X
+ÛÝ1ÛÝ(
+768
+481
+2874
+2058 1889
+1749
+1167
+740
+CHANGE : VAR.
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-IAC-9
+HYAKURI
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+360°
+090°
+270°
+EMERG SAFE ALT 100NM 14400
+180
+°
+20NM
+R070
+D13.0 HUCARCHUC R165
+1500
+HUC R137
+2500 5000
+HUC R115
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+FAF
+MAPt
+R080
+HUC
+070˚
+MAPt
+VDP FAF
+2.75˚
+R200
+R137
+020˚
+R115
+R080
+/D15.0
+1500 1500
+3000
+FL180
+30008000
+MDA
+50002500
+R165
+260˚070˚
+020˚
+260˚
+080˚
+TAIYO
+(IAF)
+D13.0 ARC
+MINIMA 
+CAT
+540 (433)
+1000 1600
+2400
+32001600
+1200
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+HYAKURI  VORTAC
+113.3    HUC
+ÛÝ1ÛÝ(
+DME to HUC
+NM to THR
+2.1
+1.0
+2.4
+1.3
+8.0
+6.9
+13.0
+11.9
+MISSED APPROACH 
+2.1DME prior to HUC TACAN, right 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and hold.
+Contact HYAKURI APP.
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+TACAN Z RWY03RRJAH / HYAKURI
+EQPT REQUIRED
+–
+020˚
+260˚
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+CH-80X
+660 (553)
+580 (473)
+VAR 8˚W (2018)
+481
+2874
+2058
+1889
+1749
+1167
+740
+768
+TAIYO(IAF)
+R080/D26.0 HUC
+D32.0 HUC
+D8.0 HUC
+D2.1 HUC
+MHA 3000
+KASUMIGAURA AD
+CHANGE : DME to HUC at VDP. NM to THR at VDP. 
+(EFF:2 NOV 2023) 5/10/23
+RJAH AD2.24-IAC-10
+HYAKURI
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+360
+°
+180°
+090°
+270°
+070˚
+R070 R080
+EMERG SAFE ALT 100NM 14400
+260˚
+080˚
+TAIYO
+R080/D26.0 HUC
+ITAKO(IAF)
+R105/D30.0 HUC
+ITAKO(IAF)
+R105/D30.0 HUC
+ITAKO
+(IAF)
+10000
+5000
+D32.0 HUC
+D2.1 HUC
+D8.0 HUC
+MHA 3000
+D36.0 HUCMHA 5000D13.0 HUCARCHUC R165
+1500
+HUC R137
+2500 5000
+HUC R115
+TACAN Y RWY03R
+MISSED APPROACH 
+2.1DME prior to HUC TACAN, right 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and hold.
+Contact HYAKURI APP.
+MDA
+DME to HUC
+NM to THR
+2.4
+1.3
+2.1
+1.0
+8.0
+6.9
+13.0
+11.9
+MAPt
+FAF
+R105
+HUC
+070˚
+MAPt VDP 2.75˚
+FAF
+R137
+R165
+R115
+285˚
+020˚
+R200
+R105
+/D15.0
+1500
+3000
+1500
+2500
+8000
+5000
+285˚
+285˚
+020˚
+20NM
+D13.0 ARC
+RJAH / HYAKURI
+MINIMA 
+CAT
+540 (433)
+1000 1600
+2400
+32001600
+1200
+MDA(H) RVR/
+CMV
+CIRCLING 
+MDA(H) VIS
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+105˚
+285˚
+EQPT REQUIRED
+–
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+020˚
+HYAKURI  VORTAC
+113.3    HUC
+ÛÝ1ÛÝ(
+CH-80X
+660 (553)
+580 (473)
+VAR 8˚W (2018)
+768
+481
+2874
+2058
+1889
+1749
+1167
+740
+KASUMIGAURA AD
+NOT TO SCALE
+CHANGE : DME to HUC at VDP. NM to THR at VDP. 
+(EFF:2 NOV 2023) 5/10/23
+RJAH AD2.24-IAC-11
+HYAKURI
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+260˚
+080˚
+TAIYO(IAF)
+R080/D26.0 HUC
+TAIYO
+(IAF)
+D32.0 HUC
+D2.1 HUC
+D8.0 HUC
+MHA 3000
+360
+°
+090°
+270°
+EMERG SAFE ALT 100NM 14400
+180°
+R070
+20NM
+D13.0 HUCARCHUC R165
+1500
+HUC R137
+2500 5000
+HUC R115
+TACAN Z RWY03L
+FAF
+MAPt
+R080
+HUC
+070˚ MAPt
+VDP
+FAF
+R115 260˚
+021˚
+2.75˚
+R137
+R080
+/D15.0
+1500 1500
+3000
+FL180
+3000
+8000
+MDA
+25005000
+260˚070˚
+021˚
+R201 R165
+D13.0 ARC
+MINIMA 
+CAT
+540 (433)
+580 (473)
+660 (553)
+1400
+1500 1600
+2400
+32001800
+1600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to HUC
+NM to THR
+2.1
+1.0
+2.4
+1.3
+8.0
+6.9
+13.0
+11.9
+MISSED APPROACH 
+2.1DME prior to HUC TACAN, right 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and hold.
+Contact HYAKURI APP.
+RJAH / HYAKURI
+EQPT REQUIRED
+–
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+VAR 8˚W (2018)
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+HYAKURI VORTAC
+113.3  HUC        
+CH-80X
+ÛÝ1ÛÝ(
+481
+2874
+2058
+1889
+1749
+1167
+740
+768
+KASUMIGAURA AD
+CHANGE : DME to HUC at VDP. NM to THR at VDP. 
+(EFF:2 NOV 2023) 5/10/23
+RJAH AD2.24-IAC-12
+HYAKURI
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+360
+°
+180°
+090°
+270°
+070˚
+R070 R080
+EMERG SAFE ALT 100NM 14400
+260˚
+080˚
+TAIYO
+R080/D26.0 HUC
+ITAKO(IAF)
+R105/D30.0 HUC
+ITAKO(IAF)
+R105/D30.0 HUC
+ITAKO
+(IAF)
+D32.0 HUC
+D2.1 HUC
+D8.0 HUC
+MHA 3000
+D36.0 HUCMHA 5000D13.0 HUCARCHUC R165
+1500
+HUC R137
+2500 5000
+HUC R115
+10000
+5000
+TACAN Y RWY03L
+MISSED APPROACH 
+2.1DME prior to HUC TACAN, right 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and hold.
+Contact HYAKURI APP.
+MDA
+DME to HUC
+NM to THR
+2.4
+1.3
+2.1
+1.0
+8.0
+6.9
+13.0
+11.9
+MAPt
+FAF
+R105
+HUC
+070˚
+MAPt VDP 2.75˚
+FAF
+R137
+R115
+285˚
+021˚
+R201
+R105
+/D15.0
+1500
+3000
+1500
+8000
+5000
+2500
+R165
+285˚
+285˚
+021˚
+20NM
+D13.0 ARC
+RJAH / HYAKURI
+MINIMA 
+CAT
+540 (433)
+580 (473)
+660 (553)
+1400 1600
+2400
+32001800
+1500
+1600
+MDA(H) RVR/
+CMV
+CIRCLING 
+MDA(H) VIS
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+105˚
+285˚
+EQPT REQUIRED
+–
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+VAR 8˚W (2018)
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+HYAKURI  VORTAC
+113.3    HUC
+ÛÝ1ÛÝ(
+CH-80X
+021˚
+768
+481
+2874
+2058
+1889
+1749
+1167
+740
+KASUMIGAURA AD
+NOT TO SCALE
+CHANGE : DME to HUC at VDP. NM to THR at VDP. 
+(EFF:2 NOV 2023) 5/10/23
+RJAH AD2.24-IAC-13
+HYAKURI
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Û
+Û
+TAIYO
+R080/D26.0 HUC
+R041/D30.0 HUC
+D32.0 HUC
+D36.0 HUC
+D6.0 HUC
+D1.0 HUC
+KASUMIGAURA AD
+MHA 3000
+090°
+270°
+EMERG SAFE ALT 100NM 14400
+180°
+MHA 4000
+Û R080
+TACAN Z RWY21L
+MISSED APPROACH
+FAF
+20
+NM
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+MAPt
+HUC
+Û
+MAPt
+VDP FAF
+Û
+Û
+1500
+2000
+3000
+3500
+MDA
+10000
+ 4000
+Û
+ÛÛ
+R070
+JYUOH
+(IAF)
+MINIMA 
+CAT
+540 (433)
+900
+1000
+1400
+MDA(H) RVR/
+CMV
+580 (473)
+660 (553)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 107THR elev. 107
+A
+B
+C
+D
+RJAH / HYAKURI
+DME to HUC
+NM to THR
+1.0
+0.6
+1.7
+1.3
+10.0
+9.6
+6.0
+5.6
+15.0
+14.6
+1.0DME prior to HUC TACAN, left 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and 
+hold.
+Contact HYAKURI APP.
+EQPT REQUIRED
+–
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+9$5Û:
+HYAKURI  VORTAC
+113.3    HUC
+ÛÝ1ÛÝ(
+CH-80X
+768
+481
+2874
+2058
+1889
+1749
+1167
+CHANGE : DME to HUC, NM to THR at VDP. MDA(H) for MINIMA.
+(EFF:15 MAY 2025) 15/5/25
+RJAH AD2.24-IAC-14
+HYAKURI
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ITAKO(IAF)
+R105/D30.0 HUC
+ITAKO
+(IAF)
+ITAKO(IAF)
+R105/D30.0 HUC
+D36.0 HUCMHA 5000
+Û
+Û
+Û
+Û
+Û
+TAIYO
+R080/D26.0 HUC
+D32.0 HUC
+MHA 3000
+360°
+090°
+270°
+180°
+D11.0HUC
+ARC
+Û
+R080
+R070
+R105
+EMERG SAFE ALT 100NM 14400
+EQPT REQUIRED
+–
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+9$5Û:
+D1.0 HUC
+D6.0 HUC
+TACAN Y R:</
+MISSED APPROACH
+FAF
+MAPt
+HUC
+MAPt FAFVDP
+Û
+D11.0 ARC
+Û
+Û
+R105
+/D15.0
+R037
+10000
+  50008000
+2000
+3000
+1500
+MDA
+Û
+Û
+20NM
+MINIMA 
+CAT
+540 (433)
+580 (473)
+660 (553)
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to HUC
+NM to THR
+1.0
+0.6
+1.7
+1.3
+6.0
+5.6
+11.0
+10.6
+Û
+1.0DME prior to HUC TACAN, left 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and 
+hold.
+Contact HYAKURI APP.
+RJAH / HYAKURI
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  7:5
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+HYAKURI  VORTAC
+113.3    HUC
+ÛÝ1ÛÝ(
+CH-80X
+768
+481
+2874
+2058
+1889
+1749
+1167
+740
+KASUMIGAURA AD
+NOT TO SCALE
+CHANGE : DME to HUC, NM to THR at VDP. MDA(H) for MINIMA.
+(EFF:15 MAY 2025) 15/5/25
+RJAH AD2.24-IAC-15
+HYAKURI
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Û
+Û
+TAIYO
+R080/D26.0 HUC
+R041/D30.0 HUC
+D32.0 HUC
+D36.0 HUC
+D6.0 HUC
+D1.0 HUC
+KASUMIGAURA AD
+MHA 3000
+090°
+270°
+EMERG SAFE ALT 100NM 14400
+180°
+MHA 4000
+Û R080
+TACAN Z RWY21R
+MISSED APPROACH
+FAF
+20
+NM
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+MAPt
+HUC
+Û
+MAPt
+VDP FAF
+Û
+Û
+1500
+2000
+3000
+3500
+MDA
+10000
+ 4000
+Û
+ÛÛ
+R070
+(IAF)
+MINIMA 
+CAT
+540 (433)
+1500
+1800
+2000
+MDA(H) RVR/
+CMV
+580 (473)
+660 (553)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 107THR elev. 107
+A
+B
+C
+D
+RJAH / HYAKURI
+DME to HUC
+NM to THR
+1.0
+0.6
+1.7
+1.3
+10.0
+9.6
+6.0
+5.6
+15.0
+14.6
+1.0DME prior to HUC TACAN, left 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and 
+hold.
+Contact HYAKURI APP.
+EQPT REQUIRED
+–
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+9$5Û:
+HYAKURI  VORTAC
+113.3    HUC
+ÛÝ1ÛÝ(
+CH-80X
+768
+481
+2874
+2058
+1889
+1749
+1167
+CHANGE : DME to HUC, NM to THR at VDP. MDA(H) for MINIMA.
+(EFF:15 MAY 2025) 15/5/25
+RJAH AD2.24-IAC-16
+HYAKURI
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ITAKO(IAF)
+R105/D30.0 HUC
+ITAKO
+(IAF)
+ITAKO(IAF)
+R105/D30.0 HUC
+D36.0 HUCMHA 5000
+Û
+Û
+Û
+Û
+Û
+TAIYO
+R080/D26.0 HUC
+D32.0 HUC
+MHA 3000
+360°
+090°
+270°
+180°
+D11.0HUC
+ARC
+Û
+R080
+R070
+R105
+EMERG SAFE ALT 100NM 14400
+EQPT REQUIRED
+–
+Û
+Û
+Û
+3300
+1800
+4000
+MSA 25NM
+HUC
+9$5Û:
+D1.0 HUC
+D6.0 HUC
+TACAN Y R:<5
+MISSED APPROACH
+FAF
+MAPt
+HUC
+MAPt FAFVDP
+Û
+D11.0 ARC
+Û
+Û
+R105
+/D15.0
+R037
+10000
+  50008000
+2000
+3000
+1500
+MDA
+Û
+Û
+20NM
+MINIMA 
+CAT
+540 (433)
+580 (473)
+660 (553)
+1500
+1800
+1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 107 AD elev. 107
+A
+B
+C
+D
+DME to HUC
+NM to THR
+1.0
+0.6
+1.7
+1.3
+6.0
+5.6
+11.0
+10.6
+Û
+1.0DME prior to HUC TACAN, left 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME 
+clockwise ARC to TAIYO and 
+hold.
+Contact HYAKURI APP.
+RJAH / HYAKURI
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  7:5
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+HYAKURI  VORTAC
+113.3    HUC
+ÛÝ1ÛÝ(
+CH-80X
+768
+481
+2874
+2058
+1889
+1749
+1167
+740
+KASUMIGAURA AD
+NOT TO SCALE
+CHANGE : DME to HUC, NM to THR at VDP. MDA(H) for MINIMA.
+(EFF:15 MAY 2025) 15/5/25
+RJAH AD2.24-IAC-17
+HYAKURI
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+KASUMIGAURA AD
+360
+˃
+090˃
+270˃
+070°
+Û
+NAKAH(IAF)
+5
+NAKAH
+(IAF)
+20NM
+EMERG SAFE ALT 100NM 14400
+260˚
+080˚
+TAIYO
+R080/D26.0 HUC
+D32.0 HUC
+D1.0 HUC
+D6.0 HUC
+D12.0 HUC
+D15.0 HUC
+D15.0 HUC
+MHA 3000
+TACAN  A
+MISSED APPROACH
+1.0DME prior to HUC TACAN, left 
+climbing turn to 3000FT via 
+HUC R070, via HUC 26.0DME
+clockwise ARCto TAIYO and 
+hold.
+Contact HYAKURI APP.
+MHA3500
+MAPt
+FAF
+ÛÛ
+R070
+R080
+HUC
+070˚
+MAPt
+Û
+Û
+FAF
+2000 3000
+MDA
+DME to HUC1.011.015.0 6.0
+6000
+3500
+1500
+MINIMA
+CAT
+580 (473)
+660 (553)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 107
+A
+B
+C
+D
+RJAH / HYAKURI
+EQPT REQUIRED
+–
+9$5Û:
+HYAKURI  APP
+120.1 - 123.875
+305.7 - 362.3
+RADAR  AVBL
+HYAKURI  TWR
+118.025- 126.2
+236.8 - 323.8
+119.5G - 275.8G
+270˚
+360˚
+180˚
+3300
+1800
+4000
+MSA 25NM
+HUC
+HYAKURI  VORTAC
+113.3    HUC
+36˚11´13˝N/140˚24´49˝E
+CH-80X
+481
+740
+2874
+2058
+1889
+1749 656
+1167
+(EFF:24 MAY 2018) 26/4/18
+RJAH AD2.24-IAC-18
+HYAKURI
+
+
+=== Page 47 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1413
+2326
+1750
+2326
+1512
+1286
+2878
+1814
+10NM
+028°(019.8°T)/1.5
+028°(019.8°T)/1.5
+MAX 200KIAS
+3.9170°(162.3°T)
+5.4
+298°
+(290°.0T)
+3.8
+028°
+(019.
+8°T)
+15.8170°(162.2°T)
+5.7
+208°
+(199.8°T)
+SUMIG
+   (IF)
+   NAKAH
+(IAF/MAHF)
+RW03L
+(MAPt)
+WAZKI
+ (FAF)
+MEGAT
+TOMOE
+H3L51
+H3L50
+䢳䢶䢲䤑䢶䢲䢩䣇䢳䢶䢲䤑䢵䢲䢩䣇䢳䢶䢲䤑䢴䢲䢩䣇䢳䢶䢲䤑䢳䢲䢩䣇
+䢵䢸䤑䢴䢲䢩䣐
+䢵䢸䤑䢳䢲䢩䣐
+䢵䢸䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.107
+2100
+1600
+1100
+ 600
+HYAKURI APP
+120.1 - 123.875
+ 305.7 - 362.3
+RNP  APCH
+HYAKURI TWR
+118.025 - 126.2
+  236.8 - 323.8
+119.5G - 275.8G
+RADAR AVBL
+VAR 8°W
+RNP RWY03LRJAH / HYAKURICHANGE : Description of SDF.
+Baro-VNAV not authorized below -10°C
+ARP
+361054N / 1402453E
+A
+ARP:
+4000
+MSA 25NM
+FAF 2 MAPt
+1112 793 -
+NM to Next Fix
+ALT (3.0°APCH Path)
+但
+但䢲䢻䢲䤑
+䢴䢹䢲䤑
+DA(H) RVR/CMV MDA(H) RVR/CMV MDA(H) VIS
+A 1200 1200
+B 1300 1300
+C 1400 1400 2400
+D 1600 1600 660(553) 3200
+1600
+ MINIMA             THR elev. 107           AD elev. 107
+CAT LNAV/VNAV CIRCLING LNAV
+490(383) 490(383) 580(473)
+1 012345
+NM
+10123456789 1 0
+KM
+1MIN
+MHA 4000
+MAX 210KIAS
+NOT TO SCALE
+NAKAH
+NAKAH 362609.88N
+(IAF/MAHF) 1402250.78E
+H3L50 361105.04N
+1402849.68E
+TOMOE 360720.65N
+1403018.30E
+MEGAT 360158.50N
+1402754.58E
+SUMIG 360348.81N
+(IF) 1402138.67E
+WAZKI 360723.66N
+(FAF) 1402314.20E
+H3L51 360848.49N
+1402351.96E
+RW03L 361013.29N
+(MAPt) 1402429.73E
+800
+(693) MDA520
+(413)
+Þ
+03.0 NM to THR
+MISSED APPROACH
+Turn left direct to NAKAH and hold at 
+4000FT .
+Contact HYAKURI APP.
+PAPI and descent angles not coincident.
+1112
+6.8 1.5
+RW03L
+(MAPt)
+MEGAT
+H3L50
+NAKAH
+(IAF)
+H3L51
+(LNAV)
+WAZKI
+(FAF)
+SUMIG
+(IF)
+TOMOE7000
+4000 5000
+3000 2000
+1400
+1800
+1300
+1300
+634
+028㼻
+RDH 50
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-IAC-19
+HYAKURI
+
+
+=== Page 48 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1512
+2878
+1750
+1286
+2326
+1814
+1413
+10NM
+208°(199.8°T)/1.5
+3.5
+208°
+(199
+.8°T)
+8.7158°(149.8°T)
+208°(199.8°T)/2.5RW21R
+(MAPt)
+MAGRY
+(IF)
+H1R52
+NAKAH
+(IAF/MAHF)
+OMITT
+(FAF)
+䢳䢶䢲䤑䢶䢲䢩䣇䢳䢶䢲䤑䢵䢲䢩䣇䢳䢶䢲䤑䢴䢲䢩䣇䢳䢶䢲䤑䢳䢲䢩䣇
+䢵䢸䤑䢴䢲䢩䣐
+䢵䢸䤑䢳䢲䢩䣐
+Contour
+Intervals
+AD elev.107
+2100
+1600
+1100
+600
+ HYAKURI APP
+120.1 - 123.875
+ 305.7 - 362.3
+        RNP  APCH
+HYAKURI TWR
+118.025 - 126.2
+ 236.8 - 323.8
+119.5G - 275.8G
+RADAR AVBL
+VAR 8°W
+RNP RWY21RRJAH / HYAKURICHANGE : Description of SDF.
+Baro-VNAV not authorized below -10°C
+ARP
+361054N / 1402453E
+A
+ARP:
+4000
+MSA 25NM
+DA(H) RVR/CMV MDA(H) RVR/CMV MDA(H) VIS
+A
+B
+C 1800 1800 2400
+D 520(413) 2000 520(413) 2000 660(553) 3200
+1500 1600
+  MINIMA                         THR elev. 107                         AD elev. 107
+CAT LNAV/VNAV CIRCLING LNAV
+500(393) 1500 500(393) 580(473)
+NM to Next Fix MAPt 2 3 FAF
+ALT(3.0°APCH Path) - 793 1111 1430
+270°但
+090° 但
+10123456789 1 0
+KM
+1012345
+NM
+1MIN
+MHA 4000
+MAX 210KIAS
+NOT TO SCALE
+NAKAH
+NAKAH 362609.88N
+(IAF/MAHF) 1402250.78E
+MAGRY 361839.54N
+(IF) 1402815.72E
+OMITT 361521.72N
+(FAF) 1402647.31E
+H1R52 361357.00N
+1402609.49E
+RW21R 361135.68N
+(MAPt) 1402506.45E
+800
+(693)MDA
+520
+(413)
+Þ
+0 4.0
+RDH 50
+NM to THR
+OMITT
+(FAF)
+MAGRY
+(IF)
+NAKAH
+(IAF)MISSED APPROACH
+Turn right direct to NAKAH and hold at 4000FT .
+Contact HYAKURI APP.
+PAPI and descent angles not coincident.
+1430
+7.5
+H1R52
+(LNAV)
+2.5
+RW21R
+(MAPt)
+7000
+4000
+3000
+2000
+952
+(EFF:10 JUL 2025) 10/7/25
+RJAH AD2.24-IAC-20
+HYAKURI
+
+
+=== Page 49 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJAH / HYAKURI Minimum Vectoring Altitude CHART
+VAR 7˚W (2010)
+CENTERɿ361108N/1402547E (RADAR SITE)
+5000
+3000
+2000
+5000
+2500
+1500
+2200
+3000
+3500
+1800
+1500
+20004000
+1300
+ᶃ
+ᶃ
+ᶄ
+ᶅ
+ᶆ
+ᶇ
+ᶄ
+ᶅᶆ
+ᶇ
+10000
+10000
+010˚
+030˚
+040˚
+050˚
+120˚
+170˚
+230˚
+260˚
+300˚
+330˚
+40NM
+6NM
+9NM
+14.8NM
+70NM
+12NM
+55NM
+70NM
+80NM
+24NM
+19NM
+(EFF:24 MAY 2018) 26/4/18
+→ RJAH AD2.24-OTHER-1
+HYAKURI
+

@@ -1,0 +1,238 @@
+=== Page 1 ===
+EIBR AD 2 - 1AIP IRELAND
+Irish Aviation Authority
+Note: The following sections in this chapter are intentionally left blank: AD-2.7, AD-2.9, AD-2.10, AD-2.14, AD-2.15, 
+AD-2.16, AD-2.17, AD-2.19, AD-2.20, AD-2.21, AD-2.22, AD-2.24
+EIBR AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+EIBR - BIRR
+EIBR AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+EIBR AD 2.3 OPERATIONAL HOURS
+1 ARP and its site 530415N 0075355W
+Mid point RWY 18/36
+2 Direction and distance from (city) 1 NM S of BIRR
+3 AD Elevation, Reference Temperature & Mean 
+Low Temperature
+250 ft/20.3°C (Max Temp) -0.3°C (MNM Temp) 
+4 Geoid undulation at AD ELEV PSN 186 ft
+5 MAG VAR/Annual Change 4° (2014) / 11’ decreasing
+6 AD Operator, address, telephone, telefax, 
+email, AFS, Website
+Post: ORMAND Flying Club Ltd.
+Streamstown
+Roscrea
+Co. Tipperary
+Phone:+353 57 912 1300
+Phone:+353 87 0664545
+Fax: +353 57 912 1300
+Email: info@ormandflyingclub.ie
+URL: http://www.ormandflyingclub.ie
+7 Types of traffic permitted (IFR/VFR) VFR
+8 Remarks Nil
+1 AD Operator HX PPR
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office See remarks
+5 ATS Reporting Office (ARO) See remarks
+6 MET Briefing Office See remarks
+7 ATS Nil
+8 Fuelling HX PPR
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+24 MAR 2022
+AIRAC Amdt 003/22
+24 MAR 2022         
+
+=== Page 2 ===
+EIBR AD 2 - 2 AIP IRELAND
+Irish Aviation Authority
+EIBR AD 2.4 HANDLING SERVICES AND FACILITIES
+EIBR AD 2.5 PASSENGER FACILITIES
+EIBR AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+EIBR AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING AND 
+SNOW PLAN
+NIL
+12 Remarks For HR of operation contact AD ADMIN,
+PIB AVBL from AIS, Shannon, See Section GEN 3.1.5,
+ARO service is AVBL H24 from AIS Shannon See Section 
+GEN 3.1.5,
+Met briefing AVBL from Central Aviation Office, Shannon 
+Airport, See Section GEN 3.5.4,
+1 Cargo-handling facilities Nil
+2 Fuel/oil types FUEL: AVGAS 100LL, MOGAS
+3 Fuelling facilities/capacity AVGAS 7,000 L
+MOGAS 1,000 L
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Contact AD ADMIN
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotel(s) at or in the vicinity of AD Birr
+2 Restaurant(s) at or in the vicinity of AD Birr
+3 Transportation possibilities Nil
+4 Medical facilities Birr
+5 Bank and Post Office at or in the vicinity of AD Birr
+6 Tourist Office Birr
+7 Remarks Nil
+1 AD category for fire fighting CAT 1
+2 Rescue equipment Appropriate to CAT 1
+3 Capability for removal of disabled aircraft Nil
+4 Remarks Nil
+24 MAR 2022
+24 MAR 2022         
+AIRAC Amdt 003/22
+
+=== Page 3 ===
+EIBR AD 2 - 3AIP IRELAND
+Irish Aviation Authority
+EIBR AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+EIBR AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND 
+MARKINGS
+NIL
+EIBR AD 2.10 AERODROME OBSTACLES
+NIL
+EIBR AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Apron surface and strength Surface: Nil
+Strength:
+2 Taxiway width, surface and strength TAXIWAY WIDTH SURFACE STRENGTH
+A 9 M Grass -
+B 9 M Grass -
+C 9 M Grass -
+D 9 M Grass -
+3 Altimeter checkpoint location and elevation Location: Nil
+Elevation: Nil
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Associated MET Office See Section GEN 3.5 for Information
+2 Hours of service H24
+3 Office responsible for TAF preparation 
+Periods of validity 
+Interval of issuance
+Nil
+4 Type of landing forecast
+Interval of issuance
+Nil
+5 Briefing/consultation provided Computer-based self-briefing facility
+URL: https://briefing.met.ie/
+Personal briefing by telephone from Central Aviation Office, 
+Shannon
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available for 
+briefing or consultation
+Nil
+8 Supplementary equipment available for 
+providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information (limitation of service, etc.) Nil
+24 MAR 2022
+24 MAR 2022         
+AIRAC Amdt 003/22
+
+=== Page 4 ===
+EIBR AD 2 - 4 AIP IRELAND
+Irish Aviation Authority
+EIBR AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+EIBR AD 2.13 DECLARED DISTANCES
+EIBR AD 2.14 APPROACH AND RUNWAY LIGHTING
+NIL
+EIBR AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+NIL
+EIBR AD 2.16 HELICOPTER LANDING AREA
+NIL
+EIBR AD 2.17 ATS AIRSPACE
+NIL
+Designations
+RWY
+NR
+TRUE BRG Dimensions of
+RWY
+Strength (PCN) 
+and surface of 
+RWY and SWY
+THR coordinates 
+RWY end 
+coordinates THR 
+geoid undulation
+THR elevation 
+and highest 
+elevation of TDZ 
+of precision APP 
+RWY
+1 2345 6
+18 - 570 M X 18 M Grass - -
+36 - 570 M X 18 M Grass - -
+Slope of 
+RWY-SWY
+SWY 
+dimensions 
+(M)
+CWY 
+dimensions 
+(M)
+Strip 
+dimensions 
+(M)
+RWY End 
+Safety Area 
+dimensions
+Location and 
+description 
+of Arresting 
+System
+OFZ Remarks
+7 8 9 10 11 12 13 14
+- - - 630 M X 60 M - - - -
+- - - 630 M X 60 M - - - -
+RWY 
+Designator
+TORA TODA ASDA LDA Remarks
+12345 6
+18 570 M 570 M 570 M 570 M Nil
+36 570 M 570 M 570 M 570 M Nil
+24 MAR 2022
+24 MAR 2022         
+AIRAC Amdt 003/22
+
+=== Page 5 ===
+EIBR AD 2 - 5AIP IRELAND
+Irish Aviation Authority
+EIBR AD 2.18 ATS COMMUNICATION FACILITIES
+EIBR AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+NIL
+EIBR AD 2.20 LOCAL TRAFFIC REGULATIONS
+NIL
+EIBR AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+EIBR AD 2.22 FLIGHT PROCEDURES
+NIL
+EIBR AD 2.23 ADDITIONAL INFORMATION
+Prior Permission Required.
+EIBR AD 2.24 CHARTS RELATED TO AN AERODROME
+NIL
+Service 
+Designation
+Call sign Channel SATVOICE 
+No.
+Logon 
+Address
+Hours of 
+Operation
+Remarks
+1234567
+Information 
+Only
+BIRR Ground 122.950 MHz - - - PPR
+24 MAR 2022
+24 MAR 2022         
+AIRAC Amdt 003/22
+
+=== Page 6 ===
+THIS PAGE INTENTIONALLY LEFT BLANK
+Irish Aviation Authority
+EIBR AD 2 - 6 AIP IRELAND
+24 MAR 2022
+24 MAR 2022         
+AIRAC Amdt 003/22

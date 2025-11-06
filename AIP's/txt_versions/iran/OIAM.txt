@@ -1,0 +1,721 @@
+=== Page 1 ===
+AIP AD 2-1 OIAM 
+ISLAMIC REPUBLIC OF IRAN Bandar Mahshahr / Mahshahr WEF 02 NOV 23 
+CIVIL AVIATION ORGANIZATION AIRAC AMDT 4/23 
+AD 2. AERODROMES 
+ 
+OIAM AD 2.1 AERODROME LOCATION INDICATOR AND NAME  
+OIAM - BANDAR MAHSHAHR - MAHSHAHR / National 
+ 
+OIAM AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA  
+1 ARP coordinates and site at AD 
+ 
+303332N 0490902E 
+ 
+2 Direction and distance from ( city ) NW, 1 KM from Bandar Mahshahr  
+3 Elevation / Reference temperature 18 FT / 45.4°C 
+4 MAG VAR / Annual change 4° E (2017) 
+5 AD Administration, address, telephone, 
+telefax, telex, AFS  
+ 
+ 
+ 
+ 
+Petrochemical non- industrial operations & service company 
+Mahshahr Airport 
+Bandar Mahshahr - Islamic Republic of Iran 
+Tel:  +9861- 52343579, 52343840 
+Telefax:  +9861- 52341190, 52343842 
+Telex:  NIL    
+AFS: NIL  
+6 Types of traffic permitted (IFR/VFR) IFR/VFR 
+7 Remarks NIL 
+ 
+OIAM AD 2.3 OPERATIONAL HOURS 
+1 AD Administration HJ 
+2 Customs and immigration NIL 
+3 Health and sanitation NIL 
+4 AIS Briefing Office NIL 
+5 ATS Reporting Office ( ARO ) Service available by ATS 
+6 MET Briefing Office NIL 
+7 ATS  HJ, out of this time PPR 
+8 Fuelling HJ, out of this time PPR 
+9 Handling Available during main carrier schedule flights, other times O/R  
+10 Security H24 
+11 De-icing NIL 
+12 Remarks NIL 
+ 
+ 
+
+=== Page 2 ===
+AD 2-2 OIAM AIP 
+WEF 02 NOV 23 Bandar Mahshahr / Mahshahr ISLAMIC REPUBLIC OF IRAN 
+AIRAC AMDT 4/23 CIVIL AVIATION ORGANIZATION 
+OIAM AD 2.4 HANDLING SERVICES AND FACILITIES 
+1 Cargo - handling facilities Iranian oil terminal company – Airport operator 
+2 Fuel / oil types Jet A1 
+3 Fuelling facilities/capacity 2 trucks, 20000 litres, 17 litres/sec. No limitation. 
+1 truck 8000 litres, 8 litres/sec. 
+4 De - icing facilities NIL 
+5 Hangar space for visiting aircraft NIL 
+6 Repaire facilities for visiting aircraft NIL 
+7 Remarks NIL 
+ 
+OIAM AD 2.5 PASSENGER FACILITIES 
+1 Hotels  Available in the city 
+2 Restaurants Available in the city 
+3 Transportation  Taxis   
+4 Medical facilities  Hospital in the city 
+5 Bank and Post Office Available in the city 
+6 Tourist Office Available in the city 
+7 Remarks NIL 
+ 
+OIAM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES 
+1 AD category for fire fighting CAT 6 
+2 Rescue equipment Available in accordance with AD category for fire fighting. 
+3 Capability for removal of disabled 
+aircraft    
+NIL  
+4 Remarks NIL 
+ 
+OIAM AD 2.7 SEASONAL AVAILABILITY - CLEARING 
+All seasons / Not applicable 
+ 
+OIAM AD 2.8 APRONS, TAXIWAYS  
+1 Apron surface and strength Surface:  Asphalt                                                                     
+Strength: Information not available 
+2 Taxiway width, surface and strength Width:   85FT  
+Surface:  Asphalt   
+Strength: Information not available 
+3 Remarks NIL 
+ 
+
+=== Page 3 ===
+AIP AD 2-3 OIAM 
+ISLAMIC REPUBLIC OF IRAN Bandar Mahshahr / Mahshahr WEF 15 JUL 21 
+CIVIL AVIATION ORGANIZATION AIRAC AMDT 2/21 
+OIAM AD 2.9 SURFACE MOVEMENT GUIDANCE AND 
+CONTROL SYSTEM AND MARKINGS 
+1 Use of aircraft stand ID signs,        
+TWY guide lines and  parking guidance 
+system of aircraft stands 
+Guide lines at apron. 
+Nose-in guidance at aircraft stand. 
+ 
+2 RWY and TWY markings and LGT 
+ 
+RWY: Designation, THR, TDZ, centre line, edge & RWY end 
+           marked. THR, edge & RWY end lighted.  
+TWY: Centre line and edge marked. Edge lighted.               
+3 Stop bars NIL 
+4 Remarks NIL 
+ 
+OIAM AD 2.10 AERODROME OBSTACLES 
+In approach / TKOF areas In circling area and at AD Remarks 
+1 2 3 
+RWY/Area 
+affected 
+Obstacle type 
+Elevation/ HGT  
+Markings/LGT 
+Coordinates Obstacle type 
+Elevation / HGT  
+Markings/LGT 
+Coordinates  
+a b c a b  
+      
+13 / APCH 
+31 / TKOF 
+Powerline 
+106 FT AMSL 
+NIL 
+303439N 
+0490751E 
+DVOR/DME Antenna 
+46 FT AMSL 
+LGTD 
+303322.9N 
+0490858.1E 
+ 
+13 / APCH 
+31 / TKOF 
+Powerline 
+106 FT AMSL 
+NIL 
+303433N 
+0490744E 
+Powerline 
+51 FT AMSL 
+NIL 
+303254N 
+0490927E 
+ 
+13 / APCH 
+31 / TKOF 
+Powerline 
+156 FT AMSL 
+NIL 
+303445N 
+0490742E 
+Powerline 
+50 FT AMSL 
+NIL 
+303250N 
+0490931E 
+ 
+13 / APCH 
+31 / TKOF 
+Powerline 
+168 FT AMSL 
+NIL 
+303457N 
+0490841E 
+COM Mast 
+139 FT AMSL 
+NIL 
+303224N 
+0490949E 
+ 
+13 / APCH 
+31 / TKOF 
+Powerline 
+169 FT AMSL 
+NIL 
+303458N 
+0490733E 
+Powerline 
+58 FT AMSL 
+NIL 
+303241N 
+0490940E 
+ 
+31 / APCH 
+13 / TKOF 
+Powerline 
+47 FT AMSL 
+NIL 
+303256N 
+0490928E 
+Billboard 
+56 FT AMSL 
+NIL 
+303239N 
+0490944E 
+ 
+31 / APCH 
+13 / TKOF 
+Powerline 
+46 FT AMSL 
+NIL 
+303254N 
+0490930E 
+Flood Light on bridge 
+60 FT AMSL 
+NIL 
+303241N 
+0490943E 
+ 
+31 / APCH 
+13 / TKOF 
+Road & Mobile OBST 
+33 FT AMSL 
+NIL 
+303247N 
+0490945E 
+COM Mast 
+151 FT AMSL 
+NIL 
+303230N 
+0491021E 
+ 
+31 / APCH 
+13 / TKOF 
+Container 
+30 FT AMSL 
+NIL 
+303248N 
+0490946E 
+COM Mast 
+105 FT AMSL 
+NIL 
+303247N 
+0490955E 
+ 
+ 
+ 
+
+=== Page 4 ===
+AD 2-4 OIAM AIP 
+WEF 15 JUL 21 Bandar Mahshahr / Mahshahr ISLAMIC REPUBLIC OF IRAN 
+AIRAC AMDT 2/21 CIVIL AVIATION ORGANIZATION 
+ 
+ 
+ In approach / TKOF areas In circling area and at AD Remarks 
+1 2 3 
+RWY/Area 
+affected 
+Obstacle type 
+Elevation/ HGT  
+Markings/LGT 
+Coordinates Obstacle type 
+Elevation / HGT  
+Markings/LGT 
+Coordinates  
+a b c a b  
+31 / APCH 
+13 / TKOF 
+Hangar 
+29 FT AMSL 
+NIL 
+303258N 
+0490926E 
+COM Mast 
+104 FT AMSL 
+NIL 
+303249N 
+0490953E 
+ 
+31 / APCH 
+13 / TKOF 
+Powerline 
+57 FT AMSL 
+NIL 
+303240N 
+0490946E 
+COM Mast 
+61 FT AMSL 
+NIL 
+303257N 
+0490945E 
+ 
+31 / APCH 
+13 / TKOF 
+Hangar 
+45 FT AMSL 
+NIL 
+303243N 
+0490949E 
+TWR Building 
+72 FT AMSL 
+NIL 
+303312N 
+0490905E 
+ 
+31 / APCH 
+13 / TKOF 
+Building 
+48 FT AMSL 
+NIL 
+303242N 
+0490949E 
+NDB Antenna 
+76 FT AMSL 
+LGTD 
+303334.0N 
+0490840.2E 
+ 
+31 / APCH 
+13 / TKOF 
+Wall 
+26 FT AMSL 
+NIL 
+303257N 
+0490940E 
+COM Mast 
+315 FT AMSL 
+NIL 
+303315N 
+0491120E 
+ 
+31 / APCH 
+13 / TKOF 
+Powerline 
+49 FT AMSL 
+NIL 
+303256N 
+0490942E 
+COM Mast 
+234 FT AMSL 
+NIL 
+303320N 
+0491038E 
+ 
+31 / APCH 
+13 / TKOF 
+Powerline 
+53 FT AMSL 
+NIL 
+303253N 
+0490944E 
+COM Mast 
+223 FT AMSL 
+NIL 
+303453N 
+0490922E 
+ 
+31 / APCH 
+13 / TKOF 
+Powerline 
+49 FT AMSL 
+NIL 
+303250N 
+0490947E 
+   
+31 / APCH 
+13 / TKOF 
+TV Antenna 
+79 FT AMSL 
+NIL 
+303249N 
+0490949E 
+   
+31 / APCH 
+13 / TKOF 
+Building 
+41 FT AMSL 
+NIL 
+303256N 
+0490941E 
+   
+31 / APCH 
+13 / TKOF 
+Powerline 
+59 FT AMSL 
+NIL 
+303239N 
+0490948E 
+   
+31 / APCH 
+13 / TKOF 
+COM Antenna 
+75 FT AMSL 
+NIL 
+303239N 
+0490953E 
+   
+31 / APCH 
+13 / TKOF 
+Building 
+63 FT AMSL 
+NIL 
+303243N 
+0490953E 
+   
+31 / APCH 
+13 / TKOF 
+Building 
+71 FT AMSL 
+NIL 
+303243N 
+0490957E 
+   
+ 
+ 
+
+=== Page 5 ===
+AIP AD 2-5 OIAM 
+ISLAMIC REPUBLIC OF IRAN Bandar Mahshahr / Mahshahr WEF 21 APR 22 
+CIVIL AVIATION ORGANIZATION AIRAC AMDT 2/22 
+OIAM AD 2.11 METEOROLOGICAL INFORMATION PROVIDED  
+1 Associated MET Office Bandar Mahshahr  
+2 Hours of service MET Office outside hours H24 
+9 ATS units provided with information Mahshahr AFIS 
+Note: Subject concerning item 3 to 8 and 10 not available. 
+ 
+OIAM AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS 
+Designations 
+RWY NR 
+TRUE BRG Dimensions 
+of RWY (M) 
+Strength (PCN) 
+and surface of 
+RWY and SWY 
+THR coordinates 
+THR geoid 
+undulation 
+THR elevation and 
+highest elevation of 
+TDZ of precision APP 
+RWY 
+1 2 3 4 5 6 
+13 137.29° GEO 2695 x 45 30/F/D/Y/T 
+Asphalt 
+303354.50N 
+0490832.30E 
+GUND -55 FT 
+ 
+THR 18 FT 
+ 
+31 317.30° GEO 2695 x 45 30/F/D/Y/T 
+Asphalt 
+ 
+303250.19N 
+490940.89E 
+GUND -55 FT 
+THR 16 FT 
+ 
+Slope of RWY - 
+SWY 
+SWY 
+dimensions (M) 
+CWY 
+dimensions 
+(M) 
+Strip dimensions 
+(M) OFZ Remarks 
+7 8 9 10 11 12 
+0.02 
+ 
+67 x 45 67 x 150 NIL NIL DTHR RWY 13: 398 M 
+ 
+0.02 202 x 45 202 x 150 NIL NIL DTHR RWY 31: 958 M 
+ 
+ 
+OIAM AD 2.13 DECLARED DISTANCES 
+RWY Designator TORA (M) TODA (M) ASDA (M)   LDA (M)  Remarks 
+1 2 3 4 5 6 
+13 
+31 
+2695 
+2695 
+2762 
+2897 
+2762 
+2897 
+2297 
+1737 
+NIL 
+NIL 
+ 
+ 
+
+=== Page 6 ===
+AD 2-6 OIAM AIP 
+WEF 15 JUL 21 Bandar Mahshahr / Mahshahr ISLAMIC REPUBLIC OF IRAN 
+AIRAC AMDT 2/21 CIVIL AVIATION ORGANIZATION 
+ 
+OIAM AD 2.14 APPROACH AND RUNWAY LIGHTING 
+RWY 
+Designator 
+APCH  
+LGT    
+type     
+LEN    
+INTST 
+THR LGT 
+colour    
+WBAR 
+VASIS 
+(MEHT) 
+PAPI 
+TDZ   
+LGT   
+LEN 
+RWY Centre    
+Line LGT        
+LEN,  spacing, 
+colour          
+INTST 
+RWY edge  
+LGT  LEN, 
+spacing 
+colour, INTST 
+RWY End 
+LGT colour 
+WBAR 
+SWY 
+LGT LEN 
+colour 
+Remarks 
+1 2 3 4 5 6 7 8 9 10 
+13 
+ 
+ 
+ 
+31 
+NIL 
+ 
+ 
+ 
+NIL 
+ 
+only Green   
+WBAR 
+ 
+ 
+only Green   
+WBAR 
+ 
+PAPI Left 
+NIL 
+ 
+PAPI Left 
+NIL 
+ 
+ 
+ 
+NIL 
+ 
+ 
+ 
+NIL 
+ 
+ 
+NIL 
+ 
+ 
+ 
+NIL 
+8874 FT 
+60 M  
+White, LIL 
+ 
+8874 FT 
+60 M  
+White, LIL 
+Red  
+ 
+ 
+ 
+Red 
+NIL 
+ 
+ 
+ 
+NIL 
+NIL 
+ 
+ 
+ 
+NIL 
+ 
+Note: Technical information about PAPI Lights will be developed 
+ 
+OIAM AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY 
+1 ABN location, characteristics and 
+hours of operation 
+NIL 
+2 LDI location and LGT        
+Anemometer location and LGT 
+NIL 
+3 TWY edge and centre line lighting Edge lighted 
+4 Secondary power supply/switch-over 
+time 
+Secondary power supply to all lighting at AD 
+ Switch-over time: 30 sec 
+5 Remarks NIL 
+ 
+OIAM AD 2.16 HELICOPTER LANDING AREA  
+NIL 
+ 
+OIAM AD 2.17 ATS AIRSPACE 
+1 Designation and lateral limits Mahshahr ATZ: 
+A circle, radius 5 NM centred at 303332N 0490902E (ARP) 
+ 
+2 Vertical limits  2000 FT AMSL 
+3 Airspace classification  G  
+4 ATS unit call sign                      
+Language(s) 
+Mahshahr Information 
+English / Persian  
+5 Transition altitude  3000 FT AMSL  
+6 Remarks Transition level: FL 50  
+ 
+ 
+
+=== Page 7 ===
+AIP AD 2-7 OIAM 
+ISLAMIC REPUBLIC OF IRAN Bandar Mahshahr / Mahshahr WEF 15 JUL 21 
+CIVIL AVIATION ORGANIZATION AIRAC AMDT 2/21 
+ 
+ 
+OIAM AD 2.18 ATS COMMUNICATION FACILITIES 
+Service       
+designation 
+Call sign Frequency Hours of operation Remarks 
+1 2 3 4 5 
+AFIS 
+ 
+ 
+ 
+ Mahshahr 
+ Information 
+ 
+118.650 MHZ 
+121.500 MHZ 
+ 
+HJ 
+HJ 
+ 
+ 
+Emergency frequency 
+ 
+ 
+ 
+OIAM AD 2.19 RADIO NAVIGATION AND LANDING AIDS 
+Type of aid,        
+CAT of ILS         
+(For VOR/ILS ,   
+give VAR) 
+ID Frequency 
+ Hours    
+of 
+operation 
+Site of 
+transmitting 
+antenna 
+coordinates 
+Elevation of  
+DME 
+transmitting 
+antenna 
+Remarks 
+1 2 3 4 5 6 7 
+DVOR/DME 
+(4°E /2017) 
+MAH 115.800 MHZ 
+CH 105X 
+H24 303322.9N 
+0490858.1E 
+46 FT  
+       
+ 
+ 
+ 
+OIAM AD 2.20 LOCAL TRAFFIC REGULATIONS 
+NIL 
+ 
+ 
+ 
+OIAM AD 2.21 NOISE ABATEMENT PROCEDURES  
+NIL 
+ 
+ 
+ 
+OIAM AD 2.22 FLIGHT PROCEDURES  
+NIL  
+ 
+
+=== Page 8 ===
+AD 2-8 OIAM AIP 
+WEF 15 JUL 21 Bandar Mahshahr / Mahshahr ISLAMIC REPUBLIC OF IRAN 
+AIRAC AMDT 2/21 CIVIL AVIATION ORGANIZATION 
+ 
+OIAM AD 2.23 ADDITIONAL INFORMATION  
+1- Strolling dogs exist on the movement area. 
+2- Intensive bird's accumulation exists in the vicinity of AD particularly in winter period.  
+ 
+ 
+OIAM AD 2.24 CHARTS RELATED TO AN AERODROME 
+ 
+Aerodrome Chart – ICAO…………………………………………………………………………AD 2 OIAM ADC 
+Instrument Approach Chart – ICAO………………………………………………………………AD2 OIAM SID 1 -1 
+AD2 OIAM SID 1-2 
+AD2 OIAM STAR 1-1 
+AD2 OIAM STAR 1-2 
+AD2 OIAM STAR 1-3 
+AD 2 OIAM IAC 2-1 
+AD  2 OIAM IAC 2-2 
+AD  2 OIAM IAC 3-1 
+AD  2 OIAM IAC 3-2 
+ 

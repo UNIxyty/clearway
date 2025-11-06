@@ -1,0 +1,1436 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIPK 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIPK AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIPK AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIPK - FORLÌ
+LIPK AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIPK AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+44°11'44''N 012°04'11''E
+2 Direzione e distanza dalla città 2,7 NM SE
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+98 FT / 29.9° C
+4 Ondulazione del geoide
+ Geoid undulation
+130.5 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+2° E (2010.12) / 5'E
+6 Autorità amministrativa aeroportuale ENAC - DT Emilia-Romagna
+Aeroporto "Guglielmo Marconi"
+Via del Triumvirato, 84
+40132 Bologna
+ Tel: +39 051 6479690
+ E-mail: emiliaromagna.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale F.A. S.R.L.
+Via Carlo Seganti, 103
+47121 Forlì
+Tel: +39 0543 783411
+Fax: +39 0543 783434
+email: info@forli-airport.com
+ Aerodrome operator  
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Forlì
+Tel: +39 0543 475400;
+ fax: +39 0543 475460
+e-mail: ci-forli@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note 1. UFFICIO OPERATIVO
+tel: 0543 783430; fax 0543 783450
+email: ops@forli-airport.com
+2. AREA PASSEGGERI
+tel: 0543 783434
+email: info@forli-airport.com
+3. RIFERIMENTO PER SEGNALAZIONI RELATIVE A PROBLEMATICHE DI SAFETY
+tel: 0543 783416
+email: safety@forli-airport.com
+4. RIFERIMENTO PER SEGNALAZIONI RELATIVE A PROBLEMATICHE DI WILD
+LIFESTRIKE
+tel: 0543 783422
+email: safety@forli-airport.com
+ Remarks 1. OPERATIONS OFFICE
+tel: 0543 783430; fax 0543 783450
+email: ops@forli-airport.com
+2. LANDSIDE AREA
+tel: 0543 783434
+email: info@forli-airport.com
+3. REFERENCE FOR SAFETY RELATED REPORTS
+
+=== Page 2 ===
+AD 2 LIPK 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+tel: 0543 783416
+email: safety@forli-airport.com
+4. REFERENCE FOR WILD LIFE-STRIKE RELATED REPORTS
+tel: 0543 783422
+email: safety@forli-airport.com
+LIPK AD 2.3 ORARIO DEI SERVIZI
+LIPK AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale MON-FRI 0730-1530 (0630-1430)
+ Aerodrome Administration  
+2 Dogana ed immigrazione Immigrazione  MON-SAT 0400-2300 (0300-2200) SUN 0500-2100 (0600-2200):
+Dogana MON-FRI 0800-1330 (0700-1230):
+In altri orari disponibile O/R con 24H di preavviso tramite email a ops@forli-
+airport.com, tel: +39 0543 783430
+ Customs and immigration Immigration MON-SAT 0400-2300 (0300-2200) SUN 0500-2100 (0600-2200):
+Custom MON-FRI 0800-1330 (0700-1230):
+Before and after this operational hours O/R with 24H PN by email to ops@forli-
+airport.com, tel: +39 0543 783430
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS MON-FRI 0900-1700 (0800-1600)
+   
+8 Rifornimento 0600-2200 (0500-2100) o/r H24
+ Fuelling  
+9 Handling 0600-2200 (0500-2100) o/r H24
+ Handling  
+10 Servizi di sicurezza 0600-2200 (0500-2100) o/r H24
+ Security  
+11 De-icing Dal 15 NOV al 31 MAR disponibile 0600-2200 (0500-2100)
+Dal 01 APR al 14 NOV disponibile su richiesta con 4H di anticipo
+ De-icing From NOV 15 to MAR 31 available 0600-2200 (0500-2100)
+From APR 01 to NOV 14 available on request with 4H in advance
+12 Note 1. ARO CBO MILANO: vedi GEN 3.1
+2. Frequenza Handling: F.A. OPERATIVO FREQ 131.415 Mhz
+ Remarks 1. ARO CBO MILANO: see GEN 3.1
+2. Handling Frequency : F.A. OPS OFFICE FREQ 131.415 Mhz
+LIPK AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIPK AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci Nastri trasportatori - fork lift - cargo loader
+ Cargo-handling facilities Conveyor belts - fork lift - cargo loader
+2 Tipi di carburante/Olio JET A1 / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento >60.000
+ Fuelling capacity  
+4 Sistema de-icing 2 veicoli sbrinatori Vestergaard Elephant Beta, percentuale di fluidi 10%, 50%, 100%
+disponibile.
+Tipo di fluido: KILFROST ABC K PLUS
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIPK 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+ De-icing facilities 2 de-Icer Vestergaard Elephant Beta vehicles, fluid percentage 10%, 50%, 100%
+available.
+Fluid type: KILFROST ABC K PLUS
+5 Hangar per aeromobili in transito A richiesta in base alla disponibilità
+ Hangar space for visiting aircraft On request when available
+6 Servizio riparazioni per aeromobili in 
+transito
+Piccole riparazioni aviazione generale c/o scuola di volo Professione Volare
+tel:  +39.0543.781281
+email: info@preofessionevolare.it
+ Repair facilities for visiting aircraft Minor repairs for general aviation  at Professione Volare flight school
+tel:  +39.0543.781281
+email: info@preofessionevolare.it
+7 Note NIL
+ Remarks  
+LIPK AD 2.5 SERVIZI PER I PASSEGGERI
+LIPK AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città e nei pressi dell'aeroporto
+ Hotels Downtown and near the airport
+2 Ristoranti In città e nei pressi dell'aeroporto
+ Restaurants Downtown and near the airport
+3 Trasporti Taxi - Bus- Autonoleggio
+ Transportation Taxi - Bus- Car renting
+4 Servizio medico 118 per intervento di primo soccorso.
+Personale medico e paramedico presso Ospedale Morgagni e Pierantoni in città.
+ Medical facilities 118 for first aid.
+Medical and paramedical staff at Morgagni and Pierantoni Hospital in town.
+5 Banca e ufficio postale Sportello bancomat
+ Bank and Post office ATM
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+
+=== Page 4 ===
+AD 2 LIPK 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIPK AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIPK AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 7 ICAO UP TO CAT 8 O/R PRIOR 24H
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Coordinato da F.A. Srl
+ Rescue equipment Coordinated by F.A.Srl
+3 Rimozione aeromobili in difficoltà Coordinato da F.A. Srl
+ Capability for removal of disabled aircraft Coordinated by F.A. Srl
+4 Note NIL
+ Remarks  
+LIPK AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIPK AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrice aeroportuale, attrezzatura sgombero neve e antighiaccio
+ Types of clearing equipment Sweeper, snow removal and de-icing equipment
+2 Priorità Pista, taxiway, piazzali
+ Clearance priorities Runway, taxiway, aprons
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. Il coefficiente di attrito della pista è misurato utilizzando il rilevatore di aderenza
+tipo Friction tester SARSYS-ASFT TRAIER T5.
+Lo stato di contaminazione della pista si valuta utilizzando MARVIS LUFFT.
+ Remarks 1. The surface friction measure on the runway is done using the Friction system type
+SARSYS-ASFT TRAIER T5.
+The state of contamination on the runway is measured using MARVIS LUFFT.
+LIPK AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIPK AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron Stands
+101-113
+ASPH 21900 mq PCN 79/F/B/W/T
+Apron Stands
+201-211 (see
+remarks)
+NIL NIL
+Apron Stands
+301-303
+ASPH 2200 sqm SIWL 2000 KG
+Apron Stands 304
+and 401 - 404
+GRASS NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 8 M BITUMCONG SIWL 2000 KG
+B 23 M BITUMCONG PCN 45/F/B/W/T
+C 18 M BITUMCONG PCN 45/F/B/W/T
+D 18 M BITUMCONG PCN 50/F/B/W/T
+3 Localizzazione/Elevazione ACL THR RWY 12
+ ACL location/Elevation  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIPK 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. Apron 201-211:
+Superficie: mq 16800; composizione: CALCESTRUZZO; PCN 35/R/C/W/T
+Superficie: mq 22100; composizione: ASFALTO; PCN 71/F/B/W/T
+2. TWY B provvista di spalle di 7.5 m
+3. TWY C provvista di spalle di 2.5 m
+4. TWY E non utilizzabile da aeromobili 
+ Remarks 1. Apron 201-211:
+Surface: 16800 sqm; composition: CONCRETE; PCN: 35/R/C/W/T
+Surface: 22100 sqm; composition: ASPHALT; PCN 71/F/B/W/T
+2. TWY B provided with 7.5 m shoulders
+3. TWY C provided with 2.5 m shoulders
+4. TWY E not available for aircraft 
+
+=== Page 6 ===
+AD 2 LIPK 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIPK AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIPK AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi carte AD e APD in vigore
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See AD and ADP charts in force
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carte AD e APD in vigore
+ RWY and TWY markings and lights See AD and ADP charts in force
+3 Barre d'arresto Vedi carte AD e APD in vigore
+ Stop bars See AD and ADP charts in force
+4 Note NIL
+ Remarks  
+LIPK AD 2.10 OSTACOLI AEROPORTUALI
+LIPK AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL Ciminiera/ Chimney
+57 M (187 FT) AMSL
+32 M (105 FT) AGL
+44°13'28'' N
+012°02'56'' E
+NIL NIL 1. Ostacolo non
+provvisto di
+segnalazione
+ICAO notturna/
+Obstacle without
+ICAO night
+signalling
+Vedi AOC in vigore - See AOC in force
+LIPK AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIPK AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24 HR
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / It, En
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIPK 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts / It, En
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Forlì TWR, Bologna APP
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1
+2. ITALY MFU:vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le nubi con altezza della base al di sotto di 7500ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. ITALY MFU:see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 7500ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+LIPK AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIPK AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+12 NIL 2561 x 45
+PCN 50/F/B/W/T
+BITUMCONG
+44°12'00.53''N
+012°03'22.48''E
+44°11'25.17''N
+012°04'59.30''E
+130.5  FT
+97.6  FT / 98.0 FT
+30 NIL 2561 x 45
+PCN 50/F/B/W/T
+BITUMCONG
+44°11'25.17''N
+012°04'59.30''E
+44°12'00.53''N
+012°03'22.48''E
+130.3  FT
+90.3  FT / 90.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+12 NIL 150 x 45 300 x 150 2681 x 300 90 x 90
+30 NIL NIL 60 x 150 2681 x 300 90 x 90
+
+=== Page 8 ===
+AD 2 LIPK 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+12
+Non applicabile
+Not applicable
+1) RWY provvista di spalle di 3 m/
+RWY provided with 3 m shoulders
+30 NIL
+1) RWY provvista di spalle di 3 m/
+RWY provided with 3 m shoulders
+LIPK AD 2.13 DISTANZE DICHIARATE
+LIPK AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+12
+INT TAKE-OFF A
+2411
+1690
+2711
+1990
+2561
+1840
+2411
+-
+30
+INT TAKE-OFF D
+2561
+1580
+2621
+1640
+2561
+1580
+2411
+-
+NOTE Gli Intersection Take-off sono utilizzabili soltanto su richiesta del pilota o su richiesta della TWR previo benestare
+del pilota
+REMARKS Intersection Take-off are usable only on pilot’s request or on TWR’s request, previous pilot’s agreement
+LIPK AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIPK AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+12 CAT I 450 LIH THR +
+wing bar
+ G
+NIL 3.33°
+entrambi i lati
+/both sides
+20.5 NIL
+30 NIL NIL NIL THR
+ G
+NIL 3°
+entrambi i lati
+/both sides
+18.0 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+12 NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+1810
+600
+60
+60
+W
+Y
+LIH
+LIH
+30 NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+1810
+600
+60
+60
+W
+Y
+LIH
+LIH
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIPK 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+12 R 150 R NIL NIL NIL
+30 R NIL NIL NIL NIL NIL
+
+=== Page 10 ===
+AD 2 LIPK 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIPK AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIPK AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 44°11'29''N   012°04'03''E
+Caratteristiche: Caratteristiche: ABN rotante a luci bianco/verde alternate. Sulla
+TWR
+Orario: O/R
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 44°11'29''N   012°04'03''E
+Characteristics: Characteristics: ABN revolving white/green alternating lights. On
+the TWR
+Hours: O/R
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 1060 m dopo THR RWY 12, 110 m lato destro RCL
+2) 1050 m dopo THR RWY 12, 110 m lato destro RCL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) 1060 m after THR RWY 12, 110 m right side RCL
+2) 1050 m after THR RWY 12, 110 m right side RCL
+3 Illuminazione bordo e asse centrale TWY Vedi carta AD in vigore
+ TWY edge and center line lighting See AD chart in force
+4 Alimentatore secondario/Tempo di 
+intervento
+NR 2 GEIA / 15'' per luci di segnalazione pista, bordo dell'APRON e segnaletica
+luminosa verticale
+UPS continuo / 0'' per tutti gli altri sistemi
+ Secondary power supply/Switch over time NR 2 GEIA / 15'' for RWY guard light, APRON edge and vertical lighting sign
+Continuous UPS / 0'' for all other systems
+5 Note 1. Segnalazioni luminose d'emergenza: lampada per segnalazione
+ Remarks 1. Emergency light signals: signalling lamp
+LIPK AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIPK AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIPK 1 - 11
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIPK AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIPK AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Forli ATZ
+44°10'06"N 012°11'06"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+44°12'30"N
+012°05'00"E till point
+44°14'54"N 011°58'53"E;
+to point of origin.
+1500
+FT AGL
+D
+Forlì TWR
+EN/IT
+6000 FT 1) WI Bologna CTR
+LIPK AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIPK AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 0700-1900 (0600-1800)
+NIL
+APP Bologna APP 118.150 H24
+La frequenza viene utilizzata nelle
+seguenti modalità/The frequency is
+used as follows:
+1) Frequenza principale ad EST della
+linea descritta nella tabella 22.1 (AD2
+  LIPE, AD2 LIPK, AD2 LIPR) ed al para 7
+di ENR 2.1.2.7 CTR Bologna (Vedi anche
+ENR 6.3-5)/Main frequency EAST of line
+described on table 22.1 (AD2  LIPE, AD2
+LIPK, AD2 LIPR) and para 7 ENR 2.1.2.7
+CTR Bologna (See also ENR 6.3-5)
+2) Frequenza a discrezione ATC ad
+OVEST della linea come descritta sopra
+al punto 1/ATC discretion frequency
+WEST of line as described on point 1
+above
+APP Bologna APP 133.775 H24
+La frequenza viene utilizzata nelle
+seguenti modalità/The frequency is
+used as follows:
+1) Frequenza principale ad OVEST della
+linea descritta nella tabella 22.1 (AD2
+  LIPE, AD2 LIPK, AD2 LIPR) ed al
+para 7 di ENR 2.1.2.7 CTR Bologna
+(Vedi anche ENR 6.3-5)/Main frequency
+WEST of line described on table 22.1
+(AD2  LIPE, AD2 LIPK, AD2 LIPR) and
+para 7 ENR 2.1.2.7 CTR Bologna (See
+also ENR 6.3-5)
+2) Frequenza a discrezione ATC ad EST
+della linea come descritta sopra al punto
+1/ATC discretion frequency EAST of line
+as described on point 1 above
+
+=== Page 12 ===
+AD 2 LIPK 1 - 12
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+APP Bologna Radar 118.150 H24
+La frequenza viene utilizzata nelle
+seguenti modalità/The frequency is
+used as follows:
+1) Frequenza principale ad EST della
+linea descritta nella tabella 22.1 (AD2
+  LIPE, AD2 LIPK, AD2 LIPR) ed al para 7
+di ENR 2.1.2.7 CTR Bologna (Vedi anche
+ENR 6.3-5)/Main frequency EAST of line
+described on table 22.1 (AD2  LIPE, AD2
+LIPK, AD2 LIPR) and para 7 ENR 2.1.2.7
+CTR Bologna (See also ENR 6.3-5)
+2) Frequenza a discrezione ATC ad
+OVEST della linea come descritta sopra
+al punto 1/ATC discretion frequency
+WEST of line as described on point 1
+above
+APP Bologna Radar 133.775 H24
+La frequenza viene utilizzata nelle
+seguenti modalità/The frequency is
+used as follows:
+1) Frequenza principale ad OVEST della
+linea descritta nella tabella 22.1 (AD2
+  LIPE, AD2 LIPK, AD2 LIPR) ed al
+para 7 di ENR 2.1.2.7 CTR Bologna
+(Vedi anche ENR 6.3-5)/Main frequency
+WEST of line described on table 22.1
+(AD2  LIPE, AD2 LIPK, AD2 LIPR) and
+para 7 ENR 2.1.2.7 CTR Bologna (See
+also ENR 6.3-5)
+2) Frequenza a discrezione ATC ad EST
+della linea come descritta sopra al punto
+1/ATC discretion frequency EAST of line
+as described on point 1 above
+TWR Forlì TWR 119.750
+MON-FRI 0900-1700
+(0800-1600)
+NIL
+LIPK AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIPK AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Forlì
+Gonio
+Homer
+NIL
+MON-FRI
+0900-1700
+(0800-1600)
+44°11'40.4''N
+012°03'50.5''E
+NIL
+limitazioni a/limitations at 30
+NM
+120°/140° MRA 4000 FT
+140°/270° MRA 7000 FT
+270°/310° MRA 5000 FT
+310°/120° MRA 2000 FT
+1) Disponibile O/R su
+tutte le frequenze di TWR
+ed emergenza/available
+O/R on all TWR and
+emergency frequencies
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIPK 1 - 13
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+DVOR/DME
+(3° E-2020.0)
+BOA
+117.10
+MHZ
+CH 118X
+DVOR H24
+DME H24
+DVOR
+44°32'13.3''N
+011°17'26.4''E
+DME
+44°32'13.2''N
+011°17'26.9''E
+43 M
+AMSL
+DVOR
+50 NM/40000 FT
+DME
+060°/270° 50 NM/40000 FT
+270°/030° 95 NM/40000 FT
+030°/060° 120 NM/40000 FT
+DVOR/DME
+limitazioni a/limitations at 40
+NM
+000°/060° MRA 6000 FT
+060°/120° MRA 5000 FT
+120°/170° MRA 8000 FT
+170°/300° MRA 9000 FT
+300°/360° MRA 7000 FT
+1) MAINT:
+Secondo TUE di ogni
+mese/second TUE of
+each month: 1330-1500
+(1230-1400)
+DVOR/DME
+(2° E-2005.0)
+FOL
+115.75
+MHZ
+CH 104Y
+DVOR H24
+DME H24
+DVOR
+44°11'37.5''N
+012°04'03.6''E
+DME
+44°11'37.1''N
+012°04'03.4''E
+34 M
+AMSL
+40 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+120°/130° MRA 4000 FT
+130°/190° MRA 6000 FT
+190°/225° MRA 7000 FT
+225°/270° MRA 5000 FT
+270°/290° MRA 4000 FT
+290°/120° MRA 2000 FT
+1) MAINT:
+DVOR
+Terzo/Third WED di/of
+FEB, MAY, AUG, NOV
+0800-1000 (0700-0900)
+DME
+Terzo/Third WED di/of
+FEB, AUG 0800-1000
+(0700-0900)
+ILS RWY 30 LOC
+CAT I
+(3° E-2020.1)
+IFRL
+109.55
+MHZ
+H24
+44°12'03.9''N
+012°03'13.2''E
+NIL NIL
+1) Fascio posteriore non
+utilizzabile/Back beam
+not usable
+DME IFRL CH 32Y H24
+44°11'24.8''N
+012°04'42.8''E
+33 M
+AMSL
+25 NM/10000 FT
+limitazioni a/limitations at 25
+NM
+125°/200° MRA 6000 FT
+200°/225° MRA 7000 FT
+225°/290° MRA 5000 FT
+290°/125° MRA 2000 FT
+NIL
+GP -
+332.45
+MHZ
+H24
+44°11'26.1''N
+012°04'43.3''E
+NIL NIL
+Slope 3°
+RDH: 16.65 M
+Copertura lato sinistro
+limitata a 04°/Left side
+coverage limited at 04°
+LIPK AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIPK AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+2.1 Ordinato movimento degli aeromobili sui piazzali 2.1 Orderly movement of aircraft on aprons
+L'ordinato movimento degli aeromobili sul piazzale è fornito in
+collaborazione tra ENAV S.P.A. e il gestore aeroportuale, secondo le
+disposizioni del Codice della Navigazione aerea italiana (Art. 691bis e
+705) come segue:
+The orderly movement of aircraft on apron is provided in cooperation
+with ENAV S.p.A. (Italian company for air navigation) and the
+aerodrome operator according to Italian air navigation law provisions
+(article 691bis and 705) as follows:
+2.1.1 Orario di servizio: 2.1.1 Operational hours:
+0600-2200 (0500-2100) 0600-2200 (0500-2100)
+
+=== Page 14 ===
+AD 2 LIPK 1 - 14
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+2.1.2 Nominativo di chiamata e frequenza: 2.1.2 Call sign and frequency:
+a. ATC:
+Forlì TWR: 119.750 MHz
+b. Gestore aeroportuale:
+Forlì CHARLIE: 131.415 MHz
+a. ATC:
+Forlì TWR: 119.750 MHz
+b. Airport operator:
+Forlì CHARLIE: 131.415 MHz
+2.1.3 Area di applicazione: 2.1.3 Application area:
+APRON 100/200/300/400 APRON 100/200/300/400
+NOTA
+Vedi AIP AD 2 LIPK APDC in vigore
+REMARK
+See AIP AD 2 LIPK APDC in force
+2.1.4 Servizi forniti: 2.1.4 Services provided:
+a. Aeromobili in partenza:
+• istruzioni per il push-back e/o rullaggio
+a. Departing aircrafts:
+• push-back and/or taxing instructions
+b. Aeromobili in arrivo:
+• istruzioni al rullaggio
+• assegnazioni parcheggio
+b. Arrival airctraft:
+• taxing instructions
+• stand allocations
+c. Follow-me:
+• l'assistenza del follow-me è obbligatoria per tutti gli aeromobili
+in arrivo salvo che per la scuola di volo "Professione volare" con
+aeromobili con base a Forlì
+c. Follow-me:
+• follow-me assistance is mandatory for all aircraft on arrival except
+for "Professione volare" flight school with aircrafts based in Forlì
+d. Marshalling:
+• è assicurato per tutti i parcheggi tranne che per gli
+aeromobili della scuola di volo "Professione volare" negli stand
+108-109-110-111-112-113
+d. Marshalling:
+• it is assured for all aircraft parking stand except for "Professione
+volare" flight school aircrafts in stand 108-109-110-111-112-113
+2.1.5 Limitazioni/regolamentazioni sugli Apron
+100-200-300-400:
+2.1.5 Limitations/regulations on Aprons 100-200-300-400:
+Aeromobili in partenza:
+lo start-up verrà dato dopo che l'ATC ha ricevuto "AIRCRAFT READY"
+da parte del gestore aeroportuale
+Departing aircrafts:
+Start-up will be provided after ATC has received "AIRCRAFT READY"
+communication by airport operator
+NOTE
+Lo stato di "AIRCRAFT READY" significa:
+1. operazioni di handling completate;
+2. porte e stive chiuse;
+3. documentazione prevista fornita all'handler;
+4. Aircraft Safety Area libera da veicoli, attrezzature, ostacoli
+e personale a terra ad eccezione dell'attrezzatura essenziale
+per l'avviamento degli aeromobili (GPU, ASU per APU U/S);
+5. aereo pronto al rullaggio o al push-back;
+6. rimorchio per push-back connesso (nose-in stand).
+REMARKS
+"AIRCRAFT READY" status means:
+1. handling operations completed;
+2. aircraft door and holds closed;
+3. compulsory documentation provided to handler;
+4. Aircraft Safe Area clear from vehicles, equipment, obstacles
+and ground personel except for the essential equipment for
+aircraft start-up (GPU, ASU due to APU U/S);
+5. Aircraft ready for taxi or push-back;
+6. push-back tractor connected (nose-in stand).
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+3.1. TWY E non utilizzabile dagli aeromobili 3.1. TWY E not available for aircraft
+3.2. TWY A usabile solo SR–30 fino a SS+30 con visibilità uguale o
+superiore a 5 km a causa dell’assenza di luci di bordo TWY
+3.2. TWY A available only SR-30 to SS+30 with visibility equal or more
+than 5 km, due to TWY edge lights not provided
+4 Procedure speciali applicabili agli aeromobili in condizioni di
+bassa visibilità
+4 Aircraft special procedures in low visibility conditions
+4.1 Generale 4.1 General
+In caso di condizioni di scarsa visibilità una ridotta capacità
+dell'aeroporto può essere prevista a causa di restrizioni applicate ai
+movimenti a terra.
+In case of poor visibility conditions a reduced airport capacity can be
+expected due to restrictions applied on ground movements.
+4.2 Minimi operativi di aeroporto 4.2 Aerodrome operating minima
+Per l'arrivo:
+• RVR non inferiore a 550 m
+Per la partenza:
+For arrival:
+• RVR not less than 550 m
+For departure:
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIPK 1 - 15
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+• RVR non inferiore a 400 m • RVR not less than 400 m
+4.3 Movimentazione al suolo 4.3 Ground movement
+Nella porzione di area di movimento che non è visibile dalla TWR, o
+sull’intera area di movimento quando la RVR, misurata in uno qualsiasi
+dei trasmissometri disponibili, è inferiore a 400 m, non è consentita la
+movimentazione di più di un aeromobile.
+In the portion of the movement area not visible from the TWR, or
+on the entire movement area when the RVR, measured in any of the
+available transmissometers, is less than 400 m, the movement of more
+than one aircraft is not allowed.
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+NIL NIL
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIPK AD 2.21 PROCEDURE ANTIRUMORE
+LIPK AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIPK AD 2.22 PROCEDURE DI VOLO
+LIPK AD 2.22 FLIGHT PROCEDURES
+1 GENERALITA’ 1 GENERAL
+1.1. Il CTR di Bologna fornisce il servizio di APP su due frequenze (vedi
+tabella 18) rispettivamente a EST e ad OVEST della linea congiungente
+i seguenti punti:
+a. 44°01’33”N 011°30’45”E
+b. 44°13’40”N 011°44’07”E
+c. 44°23’26”N 011°39’12”E
+d. 44°40’47”N 011°55’50”E
+1.1. Bologna CTR provides APP service on two frequencies (see table
+18) respectively at EAST and WEST of the line joining the following
+points:
+a. 44°01’33”N 011°30’45”E
+b. 44°13’40”N 011°44’07”E
+c. 44°23’26”N 011°39’12”E
+d. 44°40’47”N 011°55’50”E
+2 PROCEDURE PER I VOLI IFR 2 PROCEDURES FOR IFR FLIGHTS
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: vedi tabella 24 STAR description: see table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+Vedi tabella 24 See table 24
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+Gli aeromobili con avaria radio devono operare come segue
+ 
+Aeromobili in partenza
+Proseguire rigorosamente lungo il percorso di rullaggio assegnato fino
+al limite di autorizzazione e attendere l'arrivo del veicolo follow-me per
+essere guidati fino alla piazzola di parcheggio.
+Aircraft with radio failure must operate as follows
+ 
+Departing aircraft
+Continue strictly on the assigned taxi route to the clearence limit and
+wait for the arrival of the follow-me vheicle in order to be guided to
+the parking stand.
+
+=== Page 16 ===
+AD 2 LIPK 1 - 16
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+ 
+Aeromobili in arrivo
+-Se ha già ricevuto istruzioni di rullaggio:
+prosegue rigorosamente lungo il percorso di rullaggio assegnato fino
+al limite di autorizzazione e attende l'arrivo del veicolo follow-me per
+essere guidato fino alla piazzola di parcheggio o, se istruito, procede
+direttamente verso la piazzola di parcheggio.
+-Se l'avaria si verifica in volo o comunque non sono state ricevute
+istruzioni di rullaggio:
+-se riceve istruzioni specifiche tramite segnali luminosi, libera l'area di
+atterraggio e attende l'arrivo del veicolo follow-me per essere guidato
+fino alla piazzola di parcheggio.
+-Se non riceve tali istruzioni tramite segnali luminosi (ad esempio
+in caso di visibilità ridotta), si ferma sulla pista, al primo raccordo
+disponibile e, in ogni caso, in base a eventuali restrizioni note, attende
+l'arrivo del veicolo follow-me per essere guidato fino alla piazzola di
+parcheggio.
+ 
+Nota
+L'istruzione di liberare l'area di atterraggio, fornita tramite
+segnali luminosi, non implica vincoli sul percorso da seguire
+e quindi può essere utilizzata solo quando compatibile con la
+situazione del traffico in corso nell'area di manovra
+     
+Arriving aircraft
+- If has already received taxiing instructions:
+continues strictly on the assigned taxi route, to the Clearence limit and
+wait for the arrival of the follow-me vheicle in order to be guided to the
+parking stand or, if has been instructed proceed to the parking stand.
+- If the failure occurs in flight or in any case no taxiing Instructions
+have been received:
+- if it receives specific instructions, via light signals, it clears The
+landing area and waits for the follow-me vheicle in order to be guided
+to the parking stand.
+- If it does not receive these instructions via light signals (for Example
+in the case of reduced visibility) it stops on the runway, At the first
+available link, and in any case based on any known Restrictions, waits
+for the follow-me vheicle in order to be guided to the parking stand.
+   
+ 
+  
+Remark
+The instruction to clear the landing area, provided via light
+signals, does not imply constraints on the route to follow and
+therefore can only be used when compatible with the traffic
+Situation in progress in the maneuvering area
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Procedure di salita iniziale e SID: vedi tabella 24 Initial climb procedures and SID: see table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 PROCEDURE RADAR 3 RADAR PROCEDURES
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 PROCEDURE PER I VOLI VFR 4 PROCEDURES FOR VFR FLIGHTS
+4.1 Informazioni generali 4.1 General information
+4.1.1. Il traffico aereo VFR da/per l'aeroporto di Forlì dovrà entrare/
+uscire attraverso uno dei seguenti visual reporting points:
+FAENZA NORD (PRNW4) - CASTROCARO TERME (PKW1) - MELDOLA
+(PKS1) - FORLI’ NORD (PKN1)
+(solo per il traffico autorizzato da Bologna APP)
+4.1.1. VFR flights to/from Forlì aerodrome shall enter/exit via one of
+the underlisted visual reporting points:
+FAENZA NORD (PRNW4) - CASTROCARO TERME (PKW1) - MELDOLA
+(PKS1) - FORLI’ NORD (PKN1)
+(for traffic cleared by Bologna APP only)
+4.2 Attività di circuito 4.2 Circuit activity
+4.2.1. L’ aeroporto di Forlì ha un circuito standard per RWY 30 e un
+circuito non standard per RWY 12 (a sud-ovest del campo)
+4.2.1. Forlì aerodrome has a standard circuit for RWY 30 and a
+nonstandard circuit for RWY 12 (South-West of the field)
+4.2.2. Per gli aeromobili con CAT ICAO ‘A’ con velocità a soglia pista
+inferiore a 91 kt, solo in VMC, Forlì TWR potrebbe assegnare un circuito
+standard per RWY 12 e un circuito non standard per RWY 30 (a nord-
+est del campo)
+4.2.2. For aircraft with ICAO CAT ‘A’ with velocity at threshold less than
+91 kt, in VMC only, Forlì TWR may assign a standard circuit for RWY
+12 and a non-standard circuit for RWY 30 (North-East of the field)
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIPK 1 - 17
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+4.3 Arrivi 4.3 Arrivals
+I piloti in arrivo all’ aeroporto di Forlì o che pianifichino di attraversare
+l’ ATZ, dovranno stabilire e mantenere il contatto radio con Forlì TWR
+al fine di ricevere informazioni di traffico e mantenere attesa VFR al
+di sopra dei suddetti punti di entrata fino a che non siano autorizzati
+ad entrare nell’ ATZ di Forlì
+Pilots inbound to Forlì aerodrome or planning to cross the ATZ shall
+establish and maintain radio contact with Forlì TWR in order to receive
+traffic information and hold VFR over above said entry points until
+cleared to enter Forlì ATZ
+NOTA
+Le regole di cui sopra non esentano i piloti in VFR dal dovere
+di provvedere alla loro separazione da altro traffico e dagli
+ostacoli
+REMARK
+The above rules do not exempt pilots in VFR from duty
+to provide for their own separation from other traffic and
+obstacles
+4.4 Partenze 4.4 Departures
+Il traffico senza FPL dovrà dichiarare le proprie intenzioni, riguardo la
+rotta, durante il rullaggio
+Traffic without FPL shall declare intentions, regarding the route, during
+taxiing
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+Operazioni non consentite agli apparecchi avanzati per il volo da
+diporto sportivo
+Operations not allowed to advanced ultralight machines
+4.7 VFR notturno 4.7 VFR/N
+1. VFR notturno (VFR/N) consentito a tutto il traffico in accordo a
+quanto riportato in ENR 1.2.
+2. Attività di circuito: vedi punto 4.2 precedente
+1. Night VFR (VFR/N) permitted to all traffic according to rules reported
+in ENR 1.2
+2. Traffic circuit: see item 4.2 above
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+5 LVP 5 LVP
+5.1 Attivazione delle LVP 5.1 LVP activation
+Le procedure di bassa visibilità (LVP) sono attivate quando:
+a. il valore di RVR è inferiore a 550 m e/o
+b. la base delle nubi è inferiore a 200 ft in accordo al locale riporto
+meteorologico
+I piloti sono informati dell'attivazione delle LVP tramite trasmissione
+RTF.
+L’attivazione delle LVP su richiesta del pilota, in condizioni diverse da
+quelle specificate, può essere soggetta a ritardo.
+Low visibility procedures (LVP) are activated when:
+a. the RVR value is less than 550 m and/or
+b. cloud base is less than 200 ft according to local meteorological
+reporting
+Pilots are informed of LVP activation via RTF transmission.
+The LVP activation on pilot's request, in conditions other than those
+specified, may be subject to delay.
+5.2 Utilizzo delle piste durante le LVP 5.2 RWY use during LVP
+Sono consentite operazioni LVTO per RWY 12 e RWY 30 con RVR non
+inferiore a 400 m
+LVTO operations are allowed for RWY 12 and RWY 30 with RVR not
+less than 400 m
+5.3 Operazioni in CAT II/III per addestramento 5.3 CAT II/III Operations for training
+NIL NIL
+5.4 Luci e segnaletica a terra per l’utilizzo nell’ambito delle
+LVP
+5.4 Lights and ground signs for use in LVP
+Vedi Aerodrome Chart ICAO See Aerodrome Chart ICAO
+LIPK AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIPK AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIPK AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIPK AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIPK 2 - 1
+AIRCRAFT PARKING DOCKING CHART  AD 2 LIPK 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 12/30  AD 2 LIPK 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIPK 3 - 3
+STAR VOR RWY 12/30  AD 2 LIPK 4 - 1
+STAR VOR RWY 12/30 DESCRIPTION TABLES  AD 2 LIPK 4 - 3
+
+=== Page 18 ===
+AD 2 LIPK 1 - 18
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+Carte - Charts Pagine - Pages
+STAR RNAV1/RNP1 RWY 12  AD 2 LIPK 4 - 5
+STAR RNAV1/RNP1 RWY 12 DESCRIPTION TABLES  AD 2 LIPK 4 - 7
+STAR RNAV1/RNP1 RWY 30  AD 2 LIPK 4 - 9
+STAR RNAV1/RNP1 RWY 30 DESCRIPTION TABLES  AD 2 LIPK 4 - 11
+ICAO VISUAL APPROACH CHART  AD 2 LIPK 5 - 1
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC RWY 30  AD 2 LIPK 5 - 3
+ICAO INSTRUMENT APPROACH CHART ILS OR LOC RWY 30
+DESCRIPTION TABLES
+ AD 2 LIPK 5 - 5
+ICAO INSTRUMENT APPROACH CHART RNP RWY 30  AD 2 LIPK 5 - 7
+ICAO INSTRUMENT APPROACH CHART RNP RWY 30
+DESCRIPTION TABLES
+ AD 2 LIPK 5 - 9
+ICAO INSTRUMENT APPROACH CHART VOR RWY 30  AD 2 LIPK 5 - 11
+ICAO INSTRUMENT APPROACH CHART RNP RWY 12 LPV ONLY  AD 2 LIPK 5 - 13
+ICAO INSTRUMENT APPROACH CHART RNP RWY 12 LPV ONLY
+DESCRIPTION TABLES
+ AD 2 LIPK 5 - 15
+ICAO INSTRUMENT APPROACH CHART VOR RWY 12  AD 2 LIPK 5 - 17
+SID RWY 12  AD 2 LIPK 6 - 1
+SID RWY 12 DESCRIPTION TABLES  AD 2 LIPK 6 - 3
+SID RWY 30  AD 2 LIPK 6 - 5
+SID RWY 30 DESCRIPTION TABLES  AD 2 LIPK 6 - 7
+SID RNAV1/RNP1 RWY 12  AD 2 LIPK 6 - 9
+SID RNAV1/RNP1 RWY 12 DESCRIPTION TABLES  AD 2 LIPK 6 - 11
+SID RNAV1/RNP1 RWY 30  AD 2 LIPK 6 - 13
+SID RNAV1/RNP1 RWY 30 DESCRIPTION TABLES  AD 2 LIPK 6 - 15
+Carte - Charts Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIPK AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIPK AD 2.25 Visual segment surface (VSS) penetration

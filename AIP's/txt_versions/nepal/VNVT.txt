@@ -1,0 +1,2539 @@
+=== Page 1 ===
+1. ARP Coordinates and site at AD 262903N 0871552E**
+2. Direction and Distance from (city) 5. Km, North West of Biratnagar City
+3. Elevation/Reference Temperature 73.8m. (242.1ft.), 40°C (June)
+4. MAG VAR/Annual Change 0 ° W 
+5. AD Administration, address 
+Telephone, Telefax, Telex AFS 
+Civil Aviation Authority of Nepal 
+Biratnagar Civil Aviation Office, Biratnagar,  Morang. 
+Tel: Tower- 021-465641, Airport chief 021-465566,
+Admin Section:021-465060
+Email: - biratnagar _ cao@caanepal.gov.np
+AFS - VNVTYDYX, VNVTZTZX 
+6. Types of traffic permitted (IFR/VFR) IFR / VFR 
+7. Remarks - 
+AIP 
+NEPAL 
+AD 2. AERODROME 
+VNVT AD 2-1 
+30 April 2025
+VNVT AD 2.1 AERODROME LOCATION INDICATOR AND NAME 
+VNVT – BIRATNAGAR / Domestic 
+VNVT AD 2.2 AERODROME GEOGRAPHICAL AND 
+ADMINISTRATIVE DATA 
+VNVT AD 2.3 OPERATIONAL HOURS 
+1. AD Administration 
+2. Customs and immigration NIL 
+3. Health and sanitation NIL 
+4. AIS Briefing Office NIL 
+5. ATS Reporting Office (ARO) NIL 
+6. MET Briefing Half Hourly METAR provided during ATS 
+Operation Hours 
+7. ATS 
+8. Fuelling Jet A1 during Operation Hours 
+9. Handling (Cargo) NIL 
+10. Security H-24
+11. Remarks Any change will be notified by NOTAM 
+* WGS -84 Coordinates
+CIVIL AVIATION AUTHORITY OF NEPAL 
+1)From 16 Feb - 15 Nov (0015 - 1815) UTC
+2 2)) ) ) From 16 Nov - 15 Feb (0045 - 1815) UTC
+SUN-THU 10:00 -17:00 LT (SUMMER), 
+10:00-1600 LT (WINTER), 
+FRI 10:00-1500 LT 
+AMDT 03/2025 
+
+
+=== Page 2 ===
+VNVT AD 2.4      HANDLING SERVICES AND FACILITIES  
+1 Cargo-handling facilities  Available with local airlines operator  
+2. Fuel/Oil Types JET A-1 / Not available  
+3. Fuelling facilities/capacity  Storage Capacity (KL): 
+Physical -210, Mobile-22 
+Storage Type: 
+UG Tank (70×3) 
+Refueller Details: 
+AR15(11KL), AR33 (11KL) 
+6. Repair facilities for visiting aircraft  NIL 
+7. Remarks - 
+VNVT AD 2.5     PASSENGER FACILITIES  
+1. Hotels Near by Airport and in the city  
+2. Restaurants Near by Airport and in the city  
+3. Transportation  Taxi Service, Rickshaw from AD  
+4. Medical Facilities  First Aid at AD, Hospitals in the city  
+5. Bank and Post Office  ATM Availbale (Globle IME Bank)
+6. Tourist Office In the city. 
+7. Remarks - 
+VNVT AD 2.6 RESCUE AND FIRE FIGHTING SERVICE  
+1. AD Category for firefighting  Category 5 
+2. 
+3. 
+4.
+VNVT AD 2.7      SEASONAL AVAILABILITY  
+Aerodrome is available throughout the year.  
+VNVT AD 2.8  APRONS, TAXIWAYS AND CHECK LOCATION DATA  
+1. Apron surface and strength  Surface - Asphalt Concrete, 
+Strength - ... 
+2. Taxiway width, surface and strength  Width -TWY A 18m, TWY B 15m, TWY C 20m, 
+Surface - Asphalt Strength - 20/F/D/Y/T 
+4. VOR/DME checkpoints  VOR:- Taxi holding position.  
+5. Remarks Total APRON area = Flexible 180m × 63m +
+Rigid 69m x 40m 
+CIVIL AVIATION  AUTHORITY OF NEPAL
+3. Altimeter check point location 
+and elevation
+Location: - At Apron 
+Elevation:- - 246  ft.
+4. De-icing facilities  NIL
+5. Hangar space for visiting aircraft NIL
+ AIP
+NEPAL
+Ambulance service and wheel type of fire 
+extinguishers available. 
+Available as per Category
+VNVT AD 2-2    
+30 April 2025
+Rescue equipment
+Capability for removal of disabled aircraft
+Remarks
+NIL
+AMDT 03/2025
+
+
+=== Page 3 ===
+Obstacle ID Obstacle Name WGS84 coordinates Elevation 
+(M/Ft) 
+Remarks 
+Longitudes Latitudes 
+VT0001 Makalu FM 26°26'58.8"N 87°16'41.2"E 106/346 
+VT0002 Telecom Tower 26°27'06.4"N 87°16'47.0"E 120/395 
+VT0003 Water Tank 26°27'36.1"N 87°17'08.8"E 98/322 
+VT0004 Telecom Tower (NTC) 26°27'40.7"N 87°17'09.4"E 136/448 
+VT0005 NDB 26°29'07.0"N 87°15'59.4"E 104/342 
+VT0006 NDB-SML 26°29'05.6"N 87°15'59.6"E 95/313 
+VT0007 ATC Tower 26°29'02.2"N 87°15'57.5"E 95/313 
+VT0008 Noble Medical College Hostel 26°29'27.5"N 87°16'00.5"E 96/313 
+VT0009 Noble Medical College Hostel (Right) 26°29'27.4"N 87°16'01.5"E 96/314 
+VT0010 FM Tower 26°29'02.7"N 87°16'00.3"E 97/319 
+VT0011 House 26°28'58.7"N 87°16'16.4"E 84/277 
+VT0012 House 26°29'02.1"N 87°16'15.3"E 87/287 
+VT0013 House 26°29'02.9"N 87°16'16.0"E 87/284 
+VT0014 House 26°29'01.4"N 87°16'18.1"E 87/285 
+VT0015 Tree 26°28'58.9"N 87°16'18.9"E 84/275 
+VT0016 House 26°28'59.6"N 87°16'19.4"E 86/281 
+VT0017 House 26°28'59.2"N 87°16'19.3"E 83/273 
+VT0018 House 26°28'58.4"N 87°16'20.3"E 82/270 
+VT0019 House 26°29'01.3"N 87°16'21.5"E 85/279 
+VT0020 House 26°28'59.1"N 87°16'21.4"E 83/271 
+VT0021 House 26°28'58.4"N 87°16'21.1"E 81/265 
+VT0022 House 26°29'00.6"N 87°16'22.5"E 86/281 
+VT0023 Tree 26°29'02.5"N 87°16'23.3"E 89/292 
+VT0024 Tree 26°29'02.6"N 87°16'22.5"E 88/289 
+VT0025 Hotel Asiatique Pvt. Ltd 26°29'05.6"N 87°16'25.7"E 97/319 
+VT0026 Tree 26°28'58.3"N 87°16'22.6"E 89/292 
+VT0027 House 26°28'59.2"N 87°16'23.3"E 83/272 
+VT0028 House 26°28'59.6"N 87°16'24.3"E 83/271 
+VNVT AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL 
+SYSTEM AND MARKINGS 
+1. Use of aircraft stand ID signs, TWY 
+guide lines and visual docking/parking 
+guidance system of aircraft stands 
+Taxiing guidance signs at intersections with 
+TWY and RWY and at holding positions. 
+Guide lines at apron.  
+2. RWY and TWY markings and LGT RWY: 09/27, THR, TDZ, Center line, RWY 
+edge marked and RWY END, THR, 
+RWY edge have lights.  
+TWY: Center line, holding positions at all 
+TWY/RWY intersections marked and 
+edge with blue lights. 
+3. Stop bars 
+4. Remarks - 
+VNVT AD 2.10  AERODROME OBSTACLES 
+Not Available
+AIP 
+NEPAL 
+VNVT AD 2-3 
+24 August 2022
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 07/2022
+
+=== Page 4 ===
+VT0029 House 26°29'01.3"N 87°16'26.0"E 85/280 
+VT0030 Tree 26°29'00.2"N 87°16'27.8"E 94/308 
+VT0031 House 26°29'00.3"N 87°16'32.2"E 91/299 
+VT0032 House 26°29'00.7"N 87°16'31.3"E 87/286 
+VT0033 House 26°29'01.6"N 87°16'32.3"E 91/300 
+VT0034 House 26°28'57.3"N 87°16'32.2"E 89/291 
+VT0035 Tree 26°28'57.5"N 87°16'31.2"E 88/288 
+VT0036 House 26°28'57.1"N 87°16'33.4"E 90/295 
+VT0037 House 26°28'56.3"N 87°16'32.1"E 88/288 
+VT0038 Tree 26°28'55.0"N 87°16'31.7"E 91/297 
+VT0039 House 26°28'55.5"N 87°16'32.3"E 85/280 
+VT0040 House 26°28'54.0"N 87°16'32.0"E 86/282 
+VT0041 House 26°28'52.4"N 87°16'32.4"E 86/281 
+VT0042 Tree 26°28'53.0"N 87°16'31.1"E 88/288 
+VT0043 House 26°28'51.6"N 87°16'32.5"E 87/286 
+VT0044 Tree 26°28'51.7"N 87°16'30.4"E 89/290 
+VT0045 Tree 26°28'50.0"N 87°16'29.1"E 87/286 
+VT0046 Tree 26°28'49.3"N 87°16'28.9"E 85/280 
+VT0047 House 26°28'46.0"N 87°16'30.3"E 95/313 
+VT0048 House 26°28'50.6"N 87°16'26.8"E 83/273 
+VT0049 Tree 26°28'51.2"N 87°16'25.1"E 87/286 
+VT0050 Tree 26°28'50.6"N 87°16'25.1"E 82/270 
+VT0051 House 26°28'50.8"N 87°16'23.3"E 82/270 
+VT0052 House 26°28'51.1"N 87°16'22.1"E 83/272 
+VT0053 House 26°28'51.2"N 87°16'21.1"E 84/275 
+VT0054 House 26°28'51.2"N 87°16'21.4"E 83/272 
+VT0055 House 26°28'51.2"N 87°16'19.4"E 86/281 
+VT0056 House 26°28'48.5"N 87°16'16.7"E 85/277 
+VT0057 House 26°28'51.2"N 87°16'17.4"E 83/271 
+VT0058 House 26°28'50.2"N 87°16'15.7"E 86/282 
+VT0059 House 26°28'51.4"N 87°16'16.2"E 80/263 
+VT0060 House 26°28'56.9"N 87°16'38.5"E 96/314 
+VT0061 Tree 26°28'50.3"N 87°15'24.8"E 84/275 
+VT0062 Tree 26°28'48.8"N 87°15'24.7"E 88/289 
+VT0063 Tree 26°28'48.5"N 87°15'20.2"E 86/284 
+VT0064 Tree 26°28'48.9"N 87°15'18.5"E 86/283 
+VT0065 Windshock 26°28'58.6"N 87°15'23.2"E 81/266 
+VT0066 Tree 26°29'03.1"N 87°15'19.0"E 91/299 
+AIP 
+NEPAL 
+VNVT AD 2-4 
+30 April 2024
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 03/2024
+
+
+=== Page 5 ===
+VT0075 Tree 26°28'58.4"N 87°15'05.2"E 85/280 
+VT0076 Tree 26°28'57.7"N 87°15'03.2"E 83/273 
+VT0077 Tree 26°28'48.8"N 87°14'59.2"E 88/290 
+VT0078 Tree 26°28'48.8"N 87°14'59.1"E 87/285 
+VT0079 Tree 26°28'46.5"N 87°14'52.6"E 90/296 
+VT0080 Tree 26°28'49.1"N 87°14'49.6"E 86/281 
+VT0081 Tree 26°29'00.5"N 87°14'42.0"E 90/296 
+VT0082 House 26°29'02.6"N 87°14'45"E 88/289 
+VT0083 Tree 26°29'02.6"N 87°14'50.2"E 90/296 
+VT0084 Tree 26°28'54.6"N 87°14'41.2"E 89/293 
+VT0085 Tree 26°29'06.7"N 87°14'58"E 91/297 
+VT0086 Tree 26°29'06.8"N 87°15'4.3"E 92/302 
+VT0087 VOR 26°28'58.2"N 87°14'58.3"E 86/283 
+VT0088 VOR 26°28'57.5"N 87°14'58.5"E 86/283 
+VT0089 VOR 26°28'57.6"N 87°14'57.7"E 86/283 
+VT0090 Telecom Tower 26°29'12.3"N 87°16'40.0"E 99/325 
+VT0091 Telecom Tower 26°29'10.5"N 87°16'33.1"E 96/314 
+VT0092 House 26°29'11.1"N 87°16'01.4"E 89/293 
+VT0093 House 26°29'11.3"N 87°16'04.5"E 86/282 
+VT0094 Telecom Tower(NTC) 26°30'47.3"N 87°13'46.4"E 104/341 
+VT0095 Telecom Tower 26°30'10.6"N 87°13'48.3"E 110/361 
+VT0096 Noble Medical College 26°29'21.7"N 87°16'12.4"E 99/326 
+VT0097 House 26°30'56.8"N 87°16'45.8"E 111/364 
+VT0098 House 26°30'50.8"N 87°17'07.3"E 135/443 
+VT0099 House 26°30'58.0"N 87°16'45.8"E 102/335 
+VT0100 Telecom Tower 26°31'06.3"N 87°16'48.3"E 114/373 
+VT0101 Chimney 26°31'04.3"N 87°16'43.9"E 111/364 
+VT0102 Chimney 26°31'04.6"N 87°16'23.0"E 117/383 
+VT0103 Chimney 26°31'06.9"N 87°16'23.1"E 110/361 
+VT0104 Telecom Tower 26°31'26.0"N 87°16'42.9"E 136/446 
+VT0105 Water Tank 26°30'07.8"N 87°17'15.8"E 106/348 
+VT0106 Water Tank 26°29'51.9"N 87°17'23.5"E 102/336 
+VT0107 Chimney 26°30'19.9"N 87°18'24.9"E 111/363 
+VT0108 Telecom Tower 26°29'44.2"N 87°18'22.7"E 102/334 
+VT0109 Telecom Tower 26°28'46.3"N 87°18'0.8"E 92/303 
+VT0110 Water Tank 26°28'21.9"N 87°17'4.6"E 103/338 
+VT0111 FM 26°28'05.6"N 87°17'01.0"E 113/370 
+VT0112 House 26°28'03.8"N 87°17'07.0"E 113/370 
+VT0113 Wi-Fi 26°28'02.5"N 87°17'02.1"E 101/331 
+VT0114 Telecom Tower 26°27'51.0"N 87°16'58.0"E 108/354 
+VT0115 Wi-Fi 26°27'53.5"N 87°16'57.5"E 108/354 
+VT0116 Panchmukhi Hanuman Mandir 26°27'21.7"N 87°16'48.2"E 92/301 
+AIP 
+NEPAL 
+VNVT AD 2-5 
+30 April 2024
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 03/2024
+
+
+=== Page 6 ===
+VT0117 Wi-Fi 26°27'22.6"N 87°16'49.3"E 107/349 
+VT0118 Wi-Fi 26°27'26.3"N 87°16'49.6"E 102/336 
+VT0119 Telecom Tower 26°27'27.7"N 87°16'48.7"E 110/360 
+VT0120 Bhatbhateni Supermarket 26°27'35.2"N 87°16'40.2"E 102/333 
+VT0121 Golcha House 26°27'56.8"N 87°16'37.4"E 91/299 
+VT0122 NHC 26°27'46.1"N 87°16'39.4"E 94/309 
+VT0123 Telecom Tower 26°27'59.5"N 87°16'40.2"E 106/349 
+VT0124 Water Tank 26°28'12.3"N 87°16'38.7"E 106/348 
+VT0125 Telecom Tower (Ncell) 26°28'06.4"N 87°16'39.2"E 100/328 
+VT0126 Telecom Tower 26°28'33.7"N 87°16'04.3"E 94/307 
+VT0127 Telecom Tower 26°28'34.6"N 87°15'58.8"E 96/314 
+VT0128 Water Tank 26°28'34.1"N 87°16'11.8"E 98/322 
+VT0129 FM 26°28'20.8"N 87°16'22.4"E 120/392 
+VT0130 Telecom Tower 26°29'32.2"N 87°16'53.6"E 98/321 
+VT0131 Telecom Tower 26°29'32.0"N 87°16'51.3"E 106/346 
+VT0132 Chimney 26°29'56.8"N 87°16'43.2"E 108/354 
+VNVT AD 2.11  METEOROLOGICAL INFORMATION PROVIDED 
+1. Associated MET Office MET office, BIRATNAGAR AIRPORT 
+2. Hours of service MET office outside 
+hours 
+Available during Operation Hrs. 
+3. Office responsible for TAF 
+preparation periods of validity 
+NIL 
+4. Type of landing forecast interval of 
+issuance 
+NIL 
+5. Briefing/Consultation provided METAR 
+6. Flight documentation language(s)used Charts or Tabular forms Text English 
+7. Charts and other information
+available for briefing or consultation
+8. Supplementary equipment available 
+for providing information 
+9. ATS units provided with 
+information  
+Biratnagar TWR 
+10. Additional information (limitation 
+of service, etc.) 
+MET Office Tel: 977 - 021-465276
+AF S : VNVTYMYX
+Personnel consultation based on past data  logbook
+AIP 
+NEPAL 
+VNVT AD 2-6 
+30 April 2025
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 03/2025
+
+
+=== Page 7 ===
+* WGS 8 4Coordinates
+AIP 
+NEPAL 
+VNVT AD 2-7 
+13 July 2025
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 08/2025
+VNVT AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS 
+Designation 
+RWY 
+NR 
+TRUE & 
+MAG 
+BRG 
+Dimensions 
+of RWY (M) 
+Strength 
+(PCN) and 
+surface of 
+RWY and 
+SWY 
+THR 
+Coordinates 
+THR 
+elevation 
+1 2 3 4 5 6 
+09 092 1775x30 37/F/D/Y/T 
+Bitumen 
+262856.93N 
+0871522.24E 
+73.70 m 
+(241.70 ft.) 
+27 272 1775X30 37/F/D/Y/T 
+Bitumen 
+262855.02N 
+0871616.34E 
+73.80 m 
+(242.10 ft.) 
+Slope of 
+RWY-SWY 
+SWY 
+Dimension 
+CWY 
+Dimension 
+Strip 
+Dimension 
+OFZ Remarks 
+7 8 9 10 11 12 
+……………. ……………… …………….. …………….. …………….. …………….. 
+VNVT AD 2.13 DECLARED DISTANCES 
+RWY 
+Designator 
+TORA (m) TODA (m) ASDA (m) LDA (m) Remarks 
+1 2 3 4 5 6 
+09 
+27 
+1775 
+1775 
+1775 
+1775 
+1775 
+1775 
+1675 
+1600 
+VNVT AD 2.14 APPROACH AND RUNWAY LIGHTING 
+RWY 
+Designator 
+APCH 
+LGT 
+type 
+LEN 
+INTST 
+THR 
+LGT 
+color 
+WBAR 
+VASIS 
+PAPI 
+TDZ 
+LGT 
+LEN 
+RWY 
+Center 
+Line LGT 
+Length, 
+spacing 
+RWY edge 
+LGT LEN, 
+spacing color 
+INTST 
+RWY 
+End 
+LGT 
+color 
+SWY LGT 
+LEN (M) 
+c
+olor 
+Re
+marks 
+color, 
+INTST 
+1 2 3 4 5 6 7 8 9 10 
+09 SALS 
+barrette 
+type) 
+420 M
+LIM 
+Green PAPI 
+3.15° 
+NIL NIL 1775m, 60m, 
+variable white, 
+white-yellow, 
+Red-yellow, 
+LIH 
+Red NIL 
+27 NIL Green PAPI 
+3.00° 
+N IL NIL 1775m, 60m, 
+variable white, 
+white-yellow, 
+Red-yellow, 
+LIH 
+Red NIL 
+
+=== Page 8 ===
+Helicopter landing area - RWY  or TWY A and RWY  intersection or paralled TWY B 
+VNVT AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY 
+1. ABN /IBN Location, characteristics and hours 
+of operation 
+ABN: at above Aerodrome Control Tower, 
+Green flashes alternating with white flashes, 28 
+flashes per minute normally after Sunset.
+2. LDI Location and LGT Anemometer Location and LGT NIL 
+3. TWY edge and Centre line lighting Edge: All TWY 
+Centre Line : NIL 
+4. Secondary power supply / switch over time Stand-by Diesel Generator to all lighting and 
+Uninterrupted Power Supply to Airfield 
+Ground Lighting (AGL) System at AD. With 30 
+minutes back up.  
+6. Remarks NIL 
+VNVT AD 2.16 HELICOPTER LANDING AREA 
+VNVT AD 2.17 ATS AIRSPACE 
+1. Designation and
+lateral limits
+Biratnagar CTR: An area bounded by VNSM boundary to the 
+south and an arc of a circle 20 NM in radius centered at 
+'BRT' VOR (262858N, 0871458E*) plus an area enclosed 
+by R295 BRT
+ – R345 BRT upto 30 NM 
+Biratnagar ATZ: An area of a circle of radius 5 NM centered at 
+'ARP' and to the south bounded by VNSM boundary. 
+2. Vertical Limits CTR ATZ 
+10500' MSL 
+GND 
+2000' AGL 
+GND 
+3. Airspace classification C 
+4. ATS units call
+sign/languages(s)
+Biratnagar TWR/English 
+5. Transition Altitude 13500' AMSL 
+6. Remarks - 
+VNVT AD 2.18 ATS COMMUNICATION FACILITIES 
+Service 
+Designation 
+Call Sign Frequency Hours of Remarks 
+Operation** 
+1 2 3 4 5 
+TWR Biratnagar Tower 123.8 MHZ
+* WGS 84 Coordinates
+As ATS
+AIP 
+NEPAL 
+VNVT AD 2-8 
+13 July 2025
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 08/2025
+5. Runway Threshold Identification Light (RTIL)
+Location and Characteristics. Location : RWY Threshold 09, Flashing white 
+light with flash frequency 120 per Minute
+ : RWY Threshold 27, Flashing white light with 
+flash frequency 120 per minutes. 
+
+=== Page 9 ===
+VNVT AD 2.19  RADIO NAVIGATION AND LANDING AID 
+Type of Aid 
+MAG VAR 
+Type of supported 
+OP (for 
+VOR/ILS/MLS 
+give declinations) ID Frequency
+OPR 
+Hours
+Position of 
+Transmitting 
+Antenna 
+Coordinates
+Elevation of 
+DME 
+Transmitting 
+Antenna Remarks 
+1 2 3 4 5 6 7 
+DVOR/DME 
+0° W
+BRT 114.1 MHZ 
+CHN 88 X 
+H24 262858N* 
+0871458E 
+87 m DVOR Range 100NM
+DME Range 100NM
+VNVT AD 2.20  LOCAL TRAFFIC REGULATIONS 
+To be Developed 
+VNVT AD 2.21  NOISE ABATEMENT PROCEDURES 
+NIL 
+______________________ 
+* WGS -84 Coordinates
+AIP 
+NEPAL 
+VNVT AD 2-9
+24 August 2022
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 07/2022
+
+=== Page 10 ===
+VNVT AD 2.22  FLIGHT PROCEDURES 
+Intentionally Blank
+AIP 
+NEPAL 
+VNVT AD 2-10 
+24 August 2022
+VNVT AD 2.23  ADDITIONAL INFORMATION 
+1. Bird Activity
+a) Sometimes cases of bird concentrations in the vicinity of aerodrome may be
+encountered.
+b) 2. No Special procedures have been adopted to control these bird concentrations except 
+driving them through guards and security personnel.
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 07/2022
+
+=== Page 11 ===
+AIP 
+NEPAL 
+VNVT AD 2-11 
+13 July 2025
+VNVT AD 2.24 CHARTS RELATED TO BIRATNAGAR AIRPORT 
+Control Zone and Holding Points VNVT AD 2-12 
+Instrument Approach Chart –ICAO VOR Z RWY 09 VNVT AD 2-13 
+Instrument Approach Chart –ICAO VOR Y RWY 09 VNVT AD 2-14 
+Instrument Approach Chart – ICAO VOR RWY 27 VNVT AD 2-15 
+Standard Departure Chart – Instrument (SID) - ICAO - LAUKI 1 A, VNVT AD 2-16 
+LAUKI 1B, LAUKI 1C, LAUKI 1D  
+Standard Departure Chart – Instrument (SID) - ICAO - ITARI 1A, ITARI VNVT AD 2-17 
+1B, ITARI 1C, ITARI 1D
+ 
+Standard Departure Chart – Instrument (SID) - ICAO - RANGA 1A, VNVT AD 2-18 
+RANGA  1B
+VNVT AD 2-19 
+  VNVT AD 2-22
+2A 
+VNVT AD 2-23 
+Standard Arrival Chart – Instrument (STAR) - ICAO - CHURE
+ARRIVAL 
+RNAV GNSS approach procedure at Biratnagar Airport   
+Standard Arrival Chart – Instrument (STAR) - ICAO - RWY 09 CHURE 
+Instrument Approach Chart – ICAO RNP RWY 09 ( LNAV ONLY)              VNVT AD 2-24
+Standard Departure Chart – Instrument (SID) - ICAO - RWY 27 LAUKI 1E VNVT AD 2-25
+ Aerodrome Chart          VNNT AD 2-26
+AMDT 08/2025 CIVIL AVIATION AUTHORITY OF NEPAL 
+Aerodrome Chart (Aeronautical Ground Lighting System) VNVT AD 2-27
+
+=== Page 12 ===
+CONTROL ZONE AND IFR HOLDING POINTS
+AERODROME ELEV 242' 
+TRANS LEVEL: FL150 
+TRANS ALT: 13500 ft. 
+Mag Var. 0°W (2010)
+TWR 123.8 BIRATNAGAR, NEPAL
+Biratnagar Airport
+VOR 'BRT' 114.1
+NDB  'VTN' 358
+-'LAUKI' and 'RANGA' holdings are laterally 
+separated from each other
+- 'LAUKI' and 'BRT' holdings are laterally
+separated from each other
+NAV FAC  FRQ  COORDINATE
+DVOR/DME  114.1MHz/88X 26°28'58.2’’N
+'BRT'  087°14'58.2’’E
+AIP
+N
+*
+*
+*
+*135°
+315°MAX
+IAS
+160kts9000'
+085°
+265°
+MAX IAS 160kts
+9000'
+3000'
+4000'
+098°/6NM
+MAX
+IAS
+9000'160kts2500'
+128°
+005°
+12DMEarc(min3000')
+315°
+308°
+Max
+IAS
+160kts
+9000'7100'
+185°
+005°
+085°
+305°
+Transitbetweenholdings
+295°
+345°
+CTR30NM(GND-10500' AM
+SL)
+CTR 20NM (GND-10500' AMSL)LAURE
+R305/D20
+26°40'28’’N
+086°56'41’’E
+RANGA
+R085/D12
+26°30'1’’N
+087°28'17’’E
+LAUKI
+R315/D15
+26°39'36’’N
+087°03'8’’E
+ITARI
+R005/D12
+26°40'58’’N
+087°16'8’’E
+500
+1000
+40002000
+3000
+5000
+6000
+7000
+70003000
+2000
+20003000
+5000
+4000
+6000
+338
+318
+299
+243
+3986 7907
+6237
+87°30'0"E
+87°30'0"E
+87°20'0"E
+87°20'0"E
+87°10'0"E
+87°10'0"E
+87°0'0"E
+87°0'0"E
+86°50'0"E
+86°50'0"E
+26°50'0"N
+26°50'0"N
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+26°20'0"N
+26°20'0"N
+KOLKATA
+FIR
+(VECF)
+-Coordinates are in WGS- 84
+0 5 102.5 NM
+From'CHURE'
+Var0°W(2010)
+N
+KATHM
+ANDU
+FIR
+Remain all the time within KATHMANDU FIR
+while holding at 'BRT', 'LAUKI' and 'RANGA'. Scale 1:500,000-
+MSA
+25 NM from 'BRT'
+N
+5100
+9000
+2000
+245°
+150°
+10DME
+CIVIL AVIATION AUTHORITY OF NEPAL
+NEPAL
+-Bearings, Tracks & Radials are magnetic
+-Elevation in feet
+-Heights in feet
+BIRATNAGAR
+VOR/DME 114.1
+‘BRT’
+26° 28' 58.2'' N
+087°14'58.2'' E
+VNVT AD 2-12 
+30 April 2024
+AMDT 03/2024
+
+=== Page 13 ===
+M
+#
+# #
+#
+#
+#
+S
+LAUKI
+RANGA
+BIRATNAGAR
+R085/D12
+26° 30'1’’ N
+087° 28'17’’ E
+R315/D15
+26° 39'36’’ N
+087° 03'8’’ E
+HIMAL
+R305/D30
+26°46'11’’N
+086°47'31’’E
+LAURE
+VOR/DME 114.1
+‘BRT’
+26° 28' 58.2'' N
+087°14'58.2'' E
+IF
+(R272/D7)
+R305/D20
+26°40'28’’ N
+086°56'41’’E
+FAF
+(R272/D3)
+338
+318
+299
+243
+R305
+BRT
+085°
+135°/5NM
+092°
+ThickDottedLine
+R315
+BRT
+125°/10NM
+ThickLine
+MAX
+IAS
+160 KTS9000'4000'
+265°
+098°/6NM
+092°
+____
+17
+9°/6
+.8NM
+MAX IAS 160 KTS
+9000'
+3000'
+315°
+135°
+____
+R290
+BRT
+10 DME BRT
+460
+(224)
+87°30'0"E
+87°30'0"E
+87°20'0"E
+87°20'0"E
+87°10'0"E
+87°10'0"E
+87°0'0"E
+87°0'0"E
+86°50'0"E
+86°50'0"E
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+26°20'0"N
+26°20'0"N
+KOLKATA
+FIR
+(VECF) KATHMANDUFIR(VNSM)
+TWR 123.8 MHZ BIRATNAGAR, NEPALINSTRUMENT 
+APPROACH
+CHART - ICAO
+Var0°W
+N
+MSA
+25 NM from 'BRT'
+5100
+9000
+2000
+245°
+150°
+10DME
+ Remain all the time within KATHM
+ANDU FIR 
+while holding and commencing approach.
+0 2.5 5 107.51.25
+Nautical Miles
+0 6 12 183
+Kilometers
+1:450,000Scale - 
+IF
+R272/D7
+09
+5.5%
+'BRT'
+Cat of ACFT A B D
+OCA (H) - Visibility
+Circlin
+g
+C
+NA
+NA
+ST-IN RWY 09
+MISSED  APPROACH
+AT  'BRT', TU
+RN LEFT TO INTERCEPT R085
+OUTBOUND TO RANGA. REACH RANGA 
+AT OR ABOVE 3000' or as instructed by ATC  
+FAF
+R272/D3
+IAF
+R315/D15
+NOT AUTHORIZED AT NIGHT
+FAF to TH09 3.3 NM
+Knots
+Min:Sec
+Ft/ min 
+@5.5%
+60 90 120 180150
+330 500  670 840 1000
+092°
+1400
+092°
+MAPt
+ALS OUT - 2000m ALS OUT - 2400m
+3:18 2:12 1:39 1:19 1:06
+4NM 3NM
+135° VDP
+0.5D
+D10
+179°
+Biratnagar Airport
+VOR Z RWY 09
+V
+OR 'BRT' 114.1
+DME Required
+CIVIL AVIATION AUTHORITY OF NEPAL
+-Coordinates are in WGS- 84
+-B
+earings, Tracks & Radials are magnetic
+-Elevation in feet
+-Heights in feet
+085°
+AIP
+NEPAL
+M
+AERODROME ELEV 242' 
+TRANS LEVEL: FL150 
+TRANS ALT: 13500 ft. 
+Mag Var. 0°W (2010)
+(318)
+560
+(1158)
+(1258)
+1500
+(3758)
+4000
+(1158)
+1400
+(658)
+900
+560(318)-1600m 560(318)-2000m
+1400(1158)-2000m 1400(1158)-2800m 1500(1258)-3700m
+VNVT AD 2-13 
+30 April 2025
+AMDT 03/2025
+
+=== Page 14 ===
+N
+#
+S9000'
+128°
+308°
+ATZ 5D (GND-2000')
+2500'
+Max
+IAS
+160
+Kts
+500338
+318
+299
+243
+87°30'0"E
+87°30' E 0"
+87°25'0"E
+87°25'0"E
+87°20'0"E
+87°20'0"E
+87°15'0"E
+87°15'0"E
+87°10'0"E
+87°10'0"E
+87°5'0"E
+87°5'0"E
+87°0'0"E
+87°0'0"E
+26°40'0"N
+26°40'0"N
+26°35'0"N
+26°35'0"N
+26°30'0"N
+26°30'0"N
+26°25'0"N
+26°25'0"N
+26°20'0"N
+26°20'0"N
+INSTRUMENT
+APPROACH
+CHART - ICAO
+TWR 123.8 MHZ  
+MISSED APPROACH
+CLIMB STRAIGHT
+AHEAD TO 1000'. TURN RIGHT
+TO JOIN 'BRT' HOLDING PATTERN. REACH
+'BRT' AT OR ABOVE 2500'
+BRT
+09
+2500
+Cat of ACFT A B D
+OCA (H) - Visibility
+Circling
+C
+NAST-I
+N RWY 09
+NOT AUTHORIZED AT NIGHT
+ALS OUT - 2000m ALS OUT - 2400m
+308°
+092°
+3D
+KATHMANDU FIR
+Remain all the time within KATHMANDU R FI le i whholding and
+commencing approach
+1:
+300000
+308°
+092°
+KOLKATA
+FIR
+(VICF)
+MAPt
+(224)
+460
+R305
+560
+MSA
+25 NM from 'BRT'
+N
+5100
+9000
+2000
+245°
+150°
+10DME
+Var0°W(2010)
+N
+VDP
+0.5D
+BIRATNAGAR, NEPAL
+Biratnagar Ai
+rport
+VOR Y RWY 09
+VOR 'BRT' 114.1
+DME Required
+NEPAL
+CIVIL AVIATION AUTHORITY OF NEPAL
+-Coordinates are inWGS- 84
+-Bear
+ings, Tracks & Radials are magnetic
+-Elevationin feet
+-Heights in feet
+AIP
+BIRATNAGAR
+VOR/DME 114.1
+‘BRT’
+26° 28' 58.2'' N
+087°14'58.2'' E
+Mag Var. 0°W (2
+010)
+TRANS ALT: 13500
+ft.
+TRANS LEVEL: FL150
+AERODROME ELEV 242'
+(318)
+(1358)
+1600
+(2258)
+560(318)-1600m 560(318)-2000m
+1400(1158)-2000m 1400(1158)-2800m 1500(1258)-3700m
+VNVT AD 2-14 
+30 April 2025
+AMDT 03/2025
+
+=== Page 15 ===
+S
+Mapt
+TH27
+272°272°
+315°
+135°
+246°
+R085 265°
+085°
+IF
+R092/D9
+LAUKI
+R315/D15
+26°39'36’’N
+087°03'8’’E
+RANGA
+R085/D12
+26°30'1’’N
+087°28'17’’E
+Max IAS 1 0kts
+9000'
+3000'
+Max
+IAS
+1 0kts
+9000'4000'
+FAF
+R092/D5
+500
+1000
+1500
+2000
+338
+318
+299
+243
+87°30'0"E
+87°30'0"E
+87°20'0"E
+87°20'0"E
+87°10'0"E
+87°10'0"E
+87°0'0"E
+87°0'0"E
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+26°20'0"N
+26°20'0"N
+INSTRUMENT
+APPROACH
+CHART - ICAO
+  
+  
+   
+ 
+TWR 123.8 MHZ BIRATNAGAR, NEPAL
+Bir
+atnagar Airpo
+rt
+VOR RWY 27
+VOR 'BRT' 114.1
+IF
+R092/D9
+5.2%
+'BRT'
+Cat of ACFT A B D
+OCA (H) - Visibility
+Circling
+C
+NA
+NA
+ST-IN RWY 27
+MISSED  APPROACH
+CLIMB STRAIGHT AHEAD TO 'BRT
+'. TURN
+RIGHT TO INTERCEPT R315 OUTBOUND TO
+LAUKI. REACH LAUKI AT OR ABOVE 4000'.
+FAF
+R092/D5
+IAF
+R070/D12
+NOT AUTHORIZED AT NIGHT
+FAF to TH27 3.8 NM
+Knots
+Min:Sec
+Ft/ min
+60 90 120 180150
+3:50
+316 474 632 790 948
+272°
+MAPt
+TH27/D1.2
+3.8NM
+2:33 1:55 1:32 1:17
+(224)
+460
+-Coordinates are in WGS- 84
+-Bearings, Tracks & Radi
+als are magnetic
+-Elevation in feet
+in feet   
+KOLKATA
+FIR
+(VEC
+F)
+KATHM
+ANDU
+FIR
+1:350,000
+1 0 1 2 3 4 5 6 70.5
+Nautical Miles
+THIS PROCEDURE REQUIRES A MISSED
+APPROACH GRADIENT OF 4.
+8%
+4NM 3NM
+246°
+560
+Var0°W(2010)
+N
+272°
+MSA
+25 NM from 'BRT'
+N
+5100
+9000
+2000
+245°
+150°
+10DME
+VDP
+2 DME
+6
+6
+DME Required
+CIVIL AVIATION AUTHORITY OF NEPAL
+-Heights
+AIP
+NEPAL
+BIRATNAGAR
+VOR/DME 114.1
+‘BRT’
+26° 28' 58.2'' N
+087°14'58.2'' E
+0°W (2010)
+TRANS ALT: 13500 ft. Var
+TRANS LEVEL: FL150
+AERODROME ELEV 242'
+(2758)
+3000
+(1258)
+1500
+(2158)
+2400
+(
+658)
+900
+(1258)
+1500
+(318)
+(318)
+560
+560(318)- 2000m 560(318)-2400m
+1500(1258)-3700m1400(1158)- 2000m 1400(1158)-2800m
+VNVT AD 2-15 
+30 April 2025
+AMDT 03/2025
+
+=== Page 16 ===
+N
+*
+*
+*
+*
+* * *
+S
+315°MAX
+IAS
+1
+0kts
+9000'
+315°
+36
+18
+27 9
+135°
+4000'
+T o R344 Transit toR344&othersectors
+12DMEarc(min3000')
+09 27
+ATZ (GND-2000')
+085°
+265°
+MAX IAS 1 0kts
+9000'
+3000'
+Max
+IAS
+1
+0kts
+9000'185°
+005°
+7100'
+RANGA
+R085/D12
+26°30'1’’N
+087°28'17’’E
+ITARI
+R005/D12
+26°40'58’’N
+087°16'8’’E
+00
+5°
+085°
+LAUKI
+R315/D15
+26°39'36’’N
+087°03'8’’E
+305°
+12D ARC
+LAUKI1C
+LA U KI1A
+L AUK
+I1B
+LAU
+K
+I1D
+500
+1000
+1500951
+699
+453
+18181066 1519
+87°30'0"E
+87°30'0"E
+87°25'0"E
+87°25'0"E
+87°20'0"E
+87°20'0"E
+87°15'0"E
+87°15'0"E
+87°10'0"E
+87°10'0"E
+87°5'0"E
+87°5'0"E
+87°0'0"E
+87°0'0"E26°45'0"N
+26°45'0"N
+26°40'0"N
+26°40'0"N
+26°35'0"N
+26°35'0"N
+26°30'0"N
+26°30'0"N
+26°25'0"N
+26°25'0"N
+BIRATNAGAR, NEPAL
+Biratnagar Airport
+LAUKI 1A, LAUKI 1B,
+LAUKI 1C, LAUKI 1D
+'BRT' VOR 114.1
+CLIMB STRAIGHT AHEAD. AT 1DME, TURN RIGHT TO INTERCEPT R315 OUTBOUND TO 
+LAUKI (R315/D15) REACH LAUKI AT OR ABOVE 4000'
+CLIMB STRAIGHT AHEAD. AT 1DME, TURN LEFT (REMAINING WITHIN 4 DME ARC) TO 
+'BRT'. FOLLOW OUTBOUND R315 TO LAUKI (R315/D15). REACH LAUKI AT OR ABOVE 
+4000'
+1:300,000
+LAUKI 1A PDG = 5% Max IAS 180Kts
+LAUKI 1B PDG = 5% Max IAS 180Kts
+AERODROME ELEV 242' 
+TRANS LEVEL: FL150 
+TRANS
+ ALT: 13500 ft.
+TWR 123.8 MHZ
+RWY 27
+KATHM
+AN
+DU
+FIR
+(V
+NSM
+)
+KOLKA
+TA
+FIR
+(V
+EC
+F)
+(224)
+460
+MSA
+25 NM from 'BRT'
+N
+5100
+9000
+2000
+245°
+150°
+10DME
+Var0°W(2010)
+N
+RWY 09
+CLIMB STRAIGHT AHEAD.AT 2.5DME, TURN LEFT TO INTERCEPT R315 OUTBOUND
+TO LAUKI  (R315/D15) REACH LAUKI AT OR ABOVE 4000'
+CLIMB STRAIGHT AHEAD. AT 2.5DME, TURN RIGHT (REMAINING WITHIN 4 DME ARC)
+TO INTERCEPT R135 TO 'BRT'. FOLLOW OUTBOUND R315 TO LAUKI (R315/D15).
+REACH LAUKI AT OR ABOVE 4000'
+LAUKI 1C  PDG = 5% Max IAS 180Kts
+LAUKI 1D  PDG = 5% Max IAS 180Kts
+Note: At LAUKI climb to 5000 ft then set course to R344 via LAURE at 4% climb gradient till reaching MEA.
+6
+6
+6
+Minimum visibility required - 1600 m
+NEPAL
+CIVIL AVIATION AUTHORITY OF NEPAL
+STANDARD DEPARTURE 
+CHART - INSTRUMENT  
+(SID) - ICAO
+AIP
+BIRATNAGAR
+VOR/DME 114.1
+‘BRT’
+26° 28' 58.2'' N
+087°14'58.2'' E
+VNVT AD 2-16 
+30 April 2025
+AMDT 03/2025
+
+=== Page 17 ===
+N
+*
+*
+*
+* * *
+S
+315°MAX
+IAS
+1
+0kts
+9000'
+315°
+36
+18
+27
+9
+135°
+4000'
+To R344
+Transit toR344&othersectors
+12DMEarc(min3000')
+09 27
+ATZ (GND-2000')
+085°
+265°
+MAX IAS 1 0kts
+9000'
+3000'
+Max
+IAS
+1
+0kts
+9000'185°
+005°
+7100'
+RANGA
+R085/D12
+26°30'1’’N
+087°28'17’’E
+ITARI
+R005/D12
+26°40'58’’N
+087°16'8’’E
+00
+5°
+085°
+LAUKI
+R315/D15
+26°39'36’’N
+087°03'8’’E
+305°
+ITARI1AITARI1C
+ITARI1B
+ITA RI1D
+500
+1000
+1500951
+699
+453
+18181066 1519
+87°30'0"E
+87°30'0"E
+87°25'0"E
+87°25'0"E
+87°20'0"E
+87°20'0"E
+87°15'0"E
+87°15'0"E
+87°10'0"E
+87°10'0"E
+87°5'0"E
+87°5'0"E
+26°45'0"N
+26°45'0"N
+26°40'0"N
+26°40'0"N
+26°35'0"N
+26°35'0"N
+26°30'0"N
+26°30'0"N
+26°25'0"N
+26°25'0"N
+BIRATNAGAR, NEPAL
+Biratnagar Airport
+ITARI 1A, ITARI 1B,
+ITARI 1C, ITARI 1D
+'BRT' VOR 114.1
+1:300,000
+AERODROME ELEV 242' 
+TRANS LEVEL: FL150 
+TRANS ALT: 13500 ft.
+TWR 123.8
+KATHMA
+NDU
+FIR
+(VN
+SM
+)
+KO
+LKATA
+FIR
+(V
+EC
+F)
+(224)
+460
+MSA
+25 NM from 'BRT'
+N
+5100
+9000
+2000
+245°
+150°
+10DME
+Var0°W(2010)
+N
+RWY 27
+RWY 09
+CLIMB STRAIGHT AHEAD.AT 1DME, TURN RIGHT TO INTERCEPT R005
+TO 'ITARI' (R005/D12). REACH ITARI AT OR ABOVE 7100'
+ITARI 1C PDG = 9% Max IAS 180Kts
+CLIMB STRAIGHT AHEAD.AT 1DME, TURN LEFT (REMAINING WITHIN 4 DME ARC) TO
+'BRT'. THEN INTERCEPT R005 TO 'ITARI' (R005/D12). REACH ITARIAT OR ABOVE 7100'
+ITARI 1D PDG = 7% Max IAS 180Kts
+CLIMB STRAIGHT AHEAD.AT 2.5DME, TURN LEFT TO INTERCEPT R005
+TO 'ITARI' (R005/D12). REACH ITARI AT OR ABOVE 7100'
+ITARI 1A PDG = 9% Max IAS 180Kts
+CLIMB STRAIGHT AHEAD.AT 2.5DME, TURN RIGHT (REMAINING WITHIN 4 DME ARC)
+TO 'BRT'. THEN INTERCEPT R005 TO 'ITARI' (R005/D12). REACH ITARIAT OR ABOVE 7100'
+ITARI 1B PDG = 7% Max IAS 180Kts
+6
+6
+6
+Minimum visibility required - 1600 m
+CIVIL AVIATION AUTHORITY OF NEPAL
+STANDARD DEPARTURE 
+CHART - INSTRUMENT  
+(SID) - ICAO
+NEPAL
+AIP
+BIRATNAGAR
+VOR/DME 114.1
+‘BRT’
+26° 28' 58.2'' N
+087°14'58.2'' E
+VNVT AD 2- 17 
+30 April 2024
+AMDT 03/2024
+
+=== Page 18 ===
+N
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+*
+*
+*
+* * *
+S
+315°MAX
+IAS
+1
+0kts
+9000'
+315°
+36
+18
+27 9
+135°
+4000'
+To R344
+Transit toR344&othersectors
+12DMEarc(min3000')
+09 27
+ATZ (GND-2000')
+085°
+265°
+MAX IAS 1 0kts
+9000'
+3000'
+Max
+IAS
+1
+0kts
+9000'185°
+005°
+7100'
+RANGA
+R085/D12
+26°30'1’’N
+087°28'17’’E
+ITARI
+R005/D12
+26°40'58’’N
+087°16'8’’E
+005°
+085°
+LAUKI
+R315/D15
+26°39'36’’N
+087°03'8’’E
+305°
+RANGA1B
+RANGA1A
+500
+1000
+1500
+781 951
+699
+453
+18181066 1519
+87°30'0"E
+87°30'0"E
+87°25'0"E
+87°25'0"E
+87°20'0"E
+87°20'0"E
+87°15'0"E
+87°15'0"E
+87°10'0"E
+87°10'0"E
+87°5'0"E
+87°5'0"E
+87°0'0"E
+87°0'0"E26°45'0"N
+26°45'0"N
+26°40'0"N
+26°40'0"N
+26°35'0"N
+26°35'0"N
+26°30'0"N
+26°30'0"N
+26°25'0"N
+26°25'0"N
+BIRATNAGAR, NEPAL
+Biratnagar Airport
+RANGA 1A, RANGA 1B
+'BRT' VOR 114.1
+1:300,000
+AERODROME ELEV 242' 
+TRANS LEVEL: FL150 
+TRANS ALT: 13500 ft.
+TWR 123.8
+KA
+THMA
+NDU
+FIR
+(VN
+SM)
+KO
+LKA
+TA
+FIR
+(V
+EC
+F)
+(224)
+460
+MSA
+25 NM from 'BRT'
+N
+5100
+9000
+2000
+245°
+150°
+10DME
+Var0°W(2010)
+N
+RWY 27
+RWY 09 CLIMB STRAIGHT AHEADTO INTERCEPT R085 TO RANGA (R085/D12).
+REACH RANGAAT OR ABOVE 3000'
+RANGA 1B (PDG 4%)
+CLIMB STRAIGHT AHEAD.AT 1DME, TURN LEFT (REMAINING WITHIN 4D ARC)TO
+INTERCEPT R085 OUTBOUND TO RANGA(R085/D12). REACH RANGAAT OR
+ABOVE 3000'
+RANGA 1A PDG = 5% Max IAS 180Kts
+6
+6
+6
+Minimum visibility required - 1600 m
+NEPAL
+CIVIL AVIATION AUTHORITY OF NEPAL
+STANDARD DEPARTURE 
+CHART - INSTRUMENT  
+(SID) - ICAO
+AIP
+BIRATNAGAR
+VOR/DME 114.1
+‘BRT’
+26° 28' 58.2'' N
+087°14'58.2'' E
+VNVT AD 2- 18 
+30 April 2024
+AMDT 03/2024
+
+=== Page 19 ===
+39
+0
+via HIMAL
+N
+#
+#
+#
+098°/6NM
+5000'
+4000'
+From
+'AHALE'
+IAF
+8500'
+135°
+HIMAL
+R305/ D30
+26°46'11’’N
+086°47'31’’E
+CHURE
+R305/D39
+26°51'48’’N
+086°39'7’’E
+LAURE
+R305/D20
+26°40'28’’N
+086°56'41’’E
+LAUKI
+R315/D15
+26°39'36’’N
+087°03'8’’E
+315°
+135°
+MAX
+IAS
+160
+KT
+9000'4000'
+500
+1000
+20003000
+4000
+5000
+338
+243
+87°10'0"E
+87°10'0"E
+87°0'0"E
+87°0'0"E
+86°50'0"E
+86°50'0"E
+86°40'0"E
+86°40'0"E
+27°0'0"N
+27°0'0"N
+26°50'0"N
+26°50'0"N
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+AERODROME ELEV 245'
+AERODROME ELEV 242’ 
+TRANS LEVEL: FL150 
+TRANS ALT: 13500 ft. 
+Var 0°W (2010)
+TWR 123.8 BIRATNAGAR, NEPAL
+Biratnagar Airport
+CHURE ARRIVAL
+VOR 'BRT' 114.1
+1:350000
+Routing: From 'CHURE'(R305/D  'BRT'), track to 'LAURE' (R305/D20 )'BRT'
+then track H098° to 'LAUKI'  (R315/D15 'BRT').
+Altitude: Maintain A1 5 or above till 'CHURE', Then descend to 8500' to 'HIMAL'. Reach
+'LAURE' at or above 5000' then descend to 4000' to LAUKI
+Var 0°W(2010)N
+   MSA
+25 NM from 'BRT'
+N
+5100
+9000
+2000
+245°
+150°
+10DME
+KOLKATAFIR(VECF)
+KATHMANDU FIR (VNSM)
+01 500'
+125° / 10NM
+#
+STANDARD ARRIVAL 
+CHART - INSTRUMENT
+ (STAR) - ICAO
+-Coordinates are in WGS-84
+-Bearings, Tracks & Radials are magnetic
+-Elevation in feet
+AIP 
+NEPAL 
+CIVIL AVIATION AUTHORITY OF NEPAL 
+VNVT AD 2-19 
+30 April 2024
+AMDT 03/2024
+
+=== Page 20 ===
+AIP 
+NEPAL 
+VNVT AD 2-20 
+18 April 2024 
+RNAV (GNSS) approach procedure at BIRATNAGAR AIRPORT (VNVT) 
+1. INTRODUCTION
+1.1 The following RNP Approach (RNAV GNSS) Procedure is designed for VNVT in accordance
+with the criteria as stipulated in the ICAO PANS-OPS (DOC 8168) Vol. II.
+1.2 The RNAV (GNSS) Instrument Approach Procedure to VNVT is designed to enhance the safety
+and efficiency of the aircraft operations with an alternative approach procedure to access the
+airport.
+1.3 This procedure provides an alternate to the existing VNVT VORDME z RWY 09 approach
+procedure to the aircraft with the RNP APCH capability
+1.4 This RNAV GNSS approach procedure along with RNP1 STAR has been designed with LNAV
+Specifications only and utilizes GNSS as primary navigation system as stipulated in ICAO PBN
+Manual DOC 9613.
+1.5 A full arrival, approach and missed approach trajectories have been designed. However, existing
+conventional holdings-LAUKI and RANGA shall be used for  RNP approach and missed
+approach.
+1.6 RNP 1 SID has been designed from RWY27 of the Biratnagar AirPort. This SID is an alternate
+to the existing VNVT LAUKI 1A Departure RWY 27.
+2. APPROVED USERS, EQUIPMENT AND OPERATIONS
+2.1 For the RNAV (GNSS) Approach Procedure, the operators shall ensure that they hold the all
+necessary operational approvals from Civil Aviation Authority of Nepal (CAAN).
+2.2 The aircraft shall be equipped with GNSS as specified in Nepalese Flight Operations
+Requirements (FOR) and governed by the AIC 001/2011 dated 01 August 2011
+(ATS Requirements for PBN in Nepalese Airspace)
+2.3 All necessary navigation system are to installed onboard so as to keep the track keeping
+accuracy while commencing RNP1 SID and STAR, RNP Approach and associated Missed
+Approach.
+2.4 Before commencing the procedure, pilot in command must ensure that the navigation database
+is current and the aircraft's capability of conducting the procedure like GNSS availability, system
+performance, etc.
+3. NAMING OF RNAV (GNSS) APPROACH PROCEDURES
+There is one RNP1 STAR RWY09, one RNP 1 SID RWY27  and one RNP Approach  (LNAV
+only) procedure to Biratnagar Runway 09 and are named in accordance with the ICAO naming
+convention as tabulated below.
+STAR SID RNP Approach 
+CHURE 2A 
+(RWY09) 
+ LAUKI 1E 
+(RWY27) 
+RNP RWY09 (LNAV Only) 
+4. RNP CAPABILITY LOST
+If the RNP APCH capability is lost, ATC shall be informed as soon as possible the alternate course
+of action from the pilots of the concerned aircraft.
+AMDT 02/2024 CIVIL AVIATION AUTHORITY OF NEPAL 
+
+
+=== Page 21 ===
+ RNP RWY 09
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier 
+Fly-
+over 
+Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 IF LAUKI 
+(IAF)  - -  - -  - +4000  - - RNP APCH 
+002 TF INAWA  - 136°   - 3.0 R - -  - RNP APCH 
+003 TF VT202 (IF)  - 162°  - 8.7 L +1500 - 180  - RNP APCH 
+004 TF VT204 
+(FAF)  - 92 °  - 3.0  - +1300  - - RNP APCH 
+004 TF RW09 
+(MAPt)  Y  92 °  - 3.2  - @550  - 3.00/50 RNP APCH 
+005 DF RANGA 
+(MAHF)  - -  - -  L +3000 - - RNP APCH 
+006 HM RANGA 
+(MAHF)  - -  - -  R +3000 - 160  - RNP APCH 
+List way of Waypoints: 
+IAF(LAUKI) 26°39' 36.000" N/087°03' 07.800" E 
+ INAWA 26°37' 26.602" N/087°05' 27.702" E 
+IF(VT202) 26°29' 11.3513" N/087°08' 30.1872" E 
+FAF(VT204) 26°29' 04.3755" N /087°11' 50.7299" E 
+RW09 (MAPt) 26°28' 56.99301" N/ 087°15' 22.24677" E 
+MAHF(RANGA) 26°30' 03.437" N/ 087°28' 17.242" E 
+AIP 
+NEPAL 
+VNVT AD 2-21
+18 April 2024 
+AMDT 02/2024 CIVIL AVIATION AUTHORITY OF NEPAL 
+
+=== Page 22 ===
+Coding Table: SID LAUKI 1E RWY 27 
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier Flyover Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 CA  - - 272°  - - @700 -180  - RNP-1 
+002 DF LAUKI  - -  - -  L +4000  - - RNP-1 
+003 TF   CHURE  - 300 °  - 24.7  - +10500  - - RNP-1 
+List of Way points: 
+DER 26°28' 56.99301" N/ 087°15' 22.24677" E 
+LAUKI 26°39' 36.000" N/087°03' 07.800" E 
+CHURE 26°51'48.000" N/ 086°39'07.000" E 
+Coding Table: CHURE 2A Arrival 
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier 
+Fly-
+over 
+Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 IF CHURE  - -  - -  - +10500  - - RNP-1 
+002 TF HIMAL  - 127°   - 9.4 L +8500 - - RNP-1 
+003 TF PINOR  - 115°  - 9.8  - +6000  - - RNP-1 
+004 TF LAUKI  - 115°   - 5.7  - +4000  - - RNP-1 
+List of Way points: 
+CHURE 26°51'48.000" N / 086°39'07.000" E 
+HIMAL 26°46'05.314" N / 086°47'26.158" E 
+PINOR 26°41' 59.687" N / 086°57' 20.764"E 
+LAUKI 26°39' 36.000" N/087°03' 07.800" E 
+AIP 
+NEPAL 
+VNVT AD 2-22
+18 April 2024 
+AMDT 02/2024 CIVIL AVIATION AUTHORITY OF NEPAL  
+ R 
+
+=== Page 23 ===
+{
+{
+{
+{
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+CHURE
+10500'
+HIMAL
+ 8500'
+PINOR
+ 6000'
+LAUKI
+ 4000'
+ 127°
+9.4 NM
+ 115°
+9.8 NM
+ 115°
+5.7 NM
+MAX IAS 160 KT
+    9000'
+  4000'
+315°
+135°
+482
+682761
+991594
+896
+2290
+14931598
+1296
+18931699
+2083
+2182
+2582
+2497
+29796371
+1384
+1791
+3970
+1191
+4990
+1998
+2697
+87°0'0"E
+87°0'0"E
+86°50'0"E
+86°50'0"E
+86°40'0"E
+86°40'0"E
+27°0'0"N
+27°0'0"N
+26°50'0"N
+26°50'0"N
+26°40'0"N
+26°40'0"N
+1:290,000
+.
+0 3.5 71.75 Nautical Miles
+ S  T  A  N  D  A  R  D    A  R  R  I  V  A  L   
+ C  H  A  R  T  -    I  N  S  T  R  U  M  E  N  T   
+ (  S  T  A  R  )    -  I  C  A  O   
+ A  E  R  O  D  R  O  M  E    E  L  E  .  2  4  2     
+ T  R  A  N  S  I  T  I  O  N    L  E  V  E  L  :    F  L  1  5  0   
+ T  R  A  N  S  I  T  I  O  N    A  L  T  I  T  U  D  E  :    1  3  5  0  0     
+  
+ T  W R    1  2  3  .  8   
+ B  I  R  A  T  N  A  G  A  R  /  B  I  R  A  T  N  A  G  A  R         
+ A  I  R  P  O  R  T    (  V  N  V  T  )   
+ R  W Y    0  9   
+ C  H  U  R  E    2  A   
+RNP1 STAR Routing 
+CHURE 2A From CHURE descend to 8500 ft or above at HIMAL then PINOR at or above 6000 ft then 
+descend to LAUKI at or above 4000ft . 
+- ALTITUDE,ELEVATION
+ AND HEIGHTS IN FEET
+- DISTANCES IN NM
+- TRACK/ BEARING ARE 
+ MAGNETIC
+- Mag.Var : 0 ° E
+KATHMANDU FIR(VNSM)
+KOLKATA FIR (VECF)
+GNSS REQUIRED
+RNP 1
+AIP 
+NEPAL 
+VNVT AD 2-23
+18 April 2024 
+AMDT 02/2024 CIVIL AVIATION AUTHORITY OF NEPAL 
+
+=== Page 24 ===
+|{{
+{
+{
+{
+S
+S
+S
+SSSSSSS
+S
+SS
+S
+S
+10 NM ARP
+MAX IAS 160 KT
+  9000'
+  3000'
+MAX IAS 160 KT
+  9000'
+  4000'
+ 135°
+ 315°
+ 085°
+ 265°
+ 136° 3 NM
+ 162°8.7 NM
+ 092°
+ 3 NM
+ 092°
+ 3.2 NMIF (VT202)
+ 1500' FAF(VT204)
+ 1300'
+MAPt
+RANGA
+(MAHF)
+3000'
+LAUKI
+ 4000'
+INAWA
+      AT IF
+MAX IAS 180 KT
+393
+360
+364
+446362
+383 365
+444364362
+448
+396
+87°30'0"E
+87°30'0"E
+87°15'0"E
+87°15'0"E
+87°0'0"E
+87°0'0"E26°46'0"N
+26°46'0"N
+26°30'30"N
+26°30'30"N
+1:300,000
+.
+II  I  N  S  T  R  U M  E  N  T   
+ A  P  P  R  O  A  C  H    C  H  A  R  T  -
+ I  C  A  O   
+ A  E  R  O  D  R  O  M  E    E  L  E  V    2  4  2     
+ H  E  I  G  H  T  S    R  E  L  A  T  E  D    T  O    T  H  R   
+ R  W  Y    0  9  -  E  L  E  V    2  4  2     
+ T  W  R   
+ 1  2  3  .  8   
+ B  I  R  A  T  N  A  G  A  R  /  B  I  R  A  T  N  A  G  A  R    A  I  R  P  O  R  T   
+ R  N  P    R  W  Y    0  9    (  L  N  A  V    O  N  L  Y  )   
+ L  N  A  V   
+ A  i  r  c  r  a  f t    C  a  t  e  g  o r  y  
+A B   C 
+OCA 
+(OCH) 
+Visibility OCA 
+(OCH) 
+Visibility OCA 
+(OCH) 
+Visibility 
+ S  t  r  a  i  g  h t  -  i  n       5  5  0     
+ (  3  0  8    )   
+ 1  6  0  0  m     5  5  0     
+ (  3  0  8    )   
+ 1  6  0  0  m     5  5  0     
+ (  3  0  8    )   
+ 1  6  0  0  m
+ S  t  r  a  i  g  h t  -  i  n  
+ (  A  L  S  -  O  U T  )   
+     5  5  0     
+ (  3  0  8    )   
+ 2  0  0  0  m     5  5  0     
+ (  3  0  8    )   
+ 2  0  0  0  m     5  5  0     
+ (  3  0  8    )   
+ 2  0  0  0  m
+ C  i  r  c  l  i  n g    7  5  0     
+ (  5  0  8    )   
+ 2  4  0  0  m 7  5  0     
+ (  5  0  8    )   
+ 2  4  0  0  m 8  4  0     
+ (  5  9  8    )   
+ 2  8  0  0  m
+ N  O  T    A  U T  H  O  R  I  Z  E  D    A  T    N  I  G  H  T  
+           F  A  F    T  O    M  A  P  t    :  3  .  2    N  M   
+ G  S   60 90 120 150 180 
+ M  i  n :  S  e  c   3:10 2:6 1:35 1:16 1:30 
+ F  e  e  t  /  M  i  n u t  e  @  5  .  2  %   320 480 640 790 960 
+0 3.5 71.75 Nautical Miles
+- ALTITUDE,ELEVATION AND HEIGHT IN FEET
+- BEARING AND TRACKS ARE MAGNETIC
+- DISTANCES IN NM
+- VAR  0° E
+TRANSITION LEVEL FL150
+TRANSITION ALTITUDE 13500'
+Remain all the time within
+KATHMANDU FIR while
+holding and commencing
+approach.
+PAPI does not coincide with the final approach gradient
+GNSS REQUIRED
+ RNP APCH
+NO TURN BEFORE MAPt
+KATHMANDU FIR(VNSM)
+KOLKATA FIR(VECF)
+AIP 
+NEPAL 
+VNVT AD 2-24 
+18 April 2024 
+AMDT 02/2024 CIVIL AVIATION AUTHORITY OF NEPAL 
+
+=== Page 25 ===
+{
+{
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!!! !
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!!
+!! !
+!
+!
+!
+! !
+!
+!
+!! !
+! !
+!
+!
+!
+!
+09 27
+CHURE
+10500'
+LAUKI
+4000'
+DER
+MAX IAS 160 KT
+      9000'
+  4000'
+315°
+135°
+  300°
+24.7 NM
+700'
+      Turn at 700'
+MAXIMUM TURN IAS 180 KT
+597
+794
+965
+883
+679
+390
+482
+17591286
+258916961982
+1093
+48755085
+13682274 1194
+218226771581 3904
+597
+499
+991
+390
+797
+892
+699 1197
+1991
+22902969
+27892395
+14931598
+1296
+18932083
+1699
+2671
+355
+347
+348
+349
+360
+350
+354
+349
+362
+362
+341
+342
+87°10'0"E
+87°10'0"E
+87°0'0"E
+87°0'0"E
+86°50'0"E
+86°50'0"E
+86°40'0"E
+86°40'0"E
+26°50'0"N
+26°50'0"N
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+26°20'0"N
+26°20'0"N
+- ELEVATIONS,ALTITUDES AND
+HEIGHTS IN FEET
+- DISTANCES IN NM
+- BEARINGS AND TRACKS ARE MAGNETIC
+- VAR 0° E
+ S  T  A  N  D  A  R  D   
+ D  E  P  A  R  T  U  R  E    C  H  A  R  T  -
+ I  N  S  T  R  U  M  E  N  T  (  S  I  D  )  -
+ I  C  A  O   
+ T  W  R   
+ 1  2  3  .  8   
+ A  E  R  O  D  R  O  M  E    E  L  E  V  :  2  4  2     
+ T  R  A  N  S  I  T  I  O  N    L  E  V  E  L  :    F  1  5  0     
+ T  R  A  N  S  I  T  I  O  N    A  L  T  :  1  3  5  0  0     
+ B  I  R  A  T  N  A  G  A  R  /  B  I  R  A  T  N  A  G  A  R    A  I  R  P  O  R  T  (  V  N  V  T  )   
+                                   R  W  Y    2  7   
+                       L  A  U  K  I    1  E     
+ L  A  U  K  I    1  E    R  W  Y    2  7    (      C  l  i  m  b    G  r  a  d  i  e  n  t    4  .  0    %  )   
+Climb RWY heading to 700 f t then turn right direct to LAUKI at or above 40 00 ft. 
+ T  r  a  n  s  i  t  i  o n    t  o   r  o u t  e   
+To 344 : From LAUKI track 300Ú to CHURE at or above 10500ft 
+1:400,000
+.
+0 5 102.5 Nautical Miles
+KATHMANDU  FIR(VNSM)
+KOLKATA  FIR (VECF)
+MINIMUM VISIBILITY REQUIRED-1600m
+NO TURN BEFORE DER
+GNSS REQUIRED
+RNP 1
+AIP 
+NEPAL 
+VNVT AD 2-25 
+18 April 2024 
+AMDT 02/2024 CIVIL AVIATION AUTHORITY OF NEPAL 
+
+=== Page 26 ===
+Rwy 1775mx30m
+FLEXIBLE PAVEMENT APRON=180MX63M
+RIGID PAVEMENT
+APRON=69MX40M
+RETENTION POND
+PARKING
+AVIATIONBLOCK
+CONTROL TOWER
+WAITING
+AREA
+GARDEN
+GARDEN
+GARDEN
+EXISTING BUILDINGS
+AC HOUSE
+TOILET
+RESIDENTIAL
+BLOCKS
+RESIDENTIAL
+BUILDING
+RESIDENTIAL
+BUILDING
+RESIDENTIAL
+BUILDING
+RESIDENTIAL
+BUILDING
+CANTEEN
+FIRE
+EXTINGUISHER
+COURIER
+WATER
+TANKWATERTANK
+POLICE
+STATION
+EXIT
+AIRPORT MAIN
+ENTRY GATE
+GATE-5
+GATE
+GATE
+POST
+PROPOSED
+PARKING TOILET
+PROPOSED
+PARKING SHED
+HP
+PROPOSED DRAIN
+FLEXIBLE PAVEMENT APRON=180MX63M
+RIGID PAVEMENT
+APRON=69MX40M
+AVIATIONBLOCK
+CONTROL TOWER
+WAITINGAREA
+EXISTING BUILDINGS
+RUNWAY, TAXIWAY AND APRON
+PAVEMENTBEARINGSURFACE TYPE DIMENSION/AREA
+RUNWAY27
+92°
+272°
+TAXIWAY A
+ASPHALT1775M X 30M
+TAXIWAYTAXIWAY B
+TAXIWAY C
+ASPHALT
+ASPHALT
+ASPHALT
+79M X 15M
+390M X 20M
+540M X 18M
+APRONASPHALT
+17726.50 sq.m
+5 no. of stands for
+ATR-72 or equivalent
+and 1 rotorwing
+aircraft  stand
+09
+AIRCRAFT STAND LOCATION
+AIRCRAFT STANDCOORDINATES (LAT,LONG)ELEVATION (m AMSL)
+1
+2
+3
+4
+5
+H
+26°29'0.88" 87°16'0.07"
+26°29'0.07" 87°15'58.95"
+26°29'1.09" 87°15'58.81"
+26°29'0.14" 87°15'56.64"
+26°29'1.11" 87°15'56.41"
+26°29'1.03" 87°15'54.3"
+76.54
+76.56
+76.50
+76.11
+76.03
+75.56
+RUNWAY THRESHOLD CO-ORDINATES
+ LATITUDE
+2929735.05 RWY 09
+RWY 27
+26°28'56.93"N      87°15'22.24"E
+ LONGITUDE
+26°28'55.02"N      87°16'16.34"E
+NORTHING
+2929679.29
+525792.76
+EASTING
+527291.08
+ELEVATION
+73.30m
+73.80m
+DECLARED DISTANCES
+ TORA (m)
+RWY 09
+RWY 27
+1775
+TODA (m)ASDA (m)LDA (m) RUNWAY
+177517751675
+1775177517751600
+NOTE
+PAPI
+VOR/DME
+SALSSimple Approach Lighting System
+Precision Approach Path Indicator
+VHF Omni-Directional Radio Range/
+Distance Measuring Equipment
+PAPI LIGHTS 09
+PAPI LIGHTS 27
+STRIP DRAINSTRIP DRAIN
+STRIP OUTLET DRAIN
+VOR/DME
+BASTA OUTLET
+DRAIN
+BASTA OUTLET DRAIN
+N
+0100 200
+0330 660
+Meters
+Feet
+AERODROME CHART-ICAOAERODROME ELEVATION: 242.00 Ft.TWR 123.8 MHZBIRATNAGAR/BIRATNAGAR AIRPORT
+Bearing Strength
+Co-ordinates of ARP: 26°29'03",87°15'52.12"
+ARP
+AERODROME DATA
+ARPAerodrome Reference Point
+        Taxiway20/F/D/Y/T
+        Runway37/F/D/Y/T
+TAXIWAY C TAXIWAY A TAXIWAY B
+ TOWER ABN
+ TOWER ABN
+AIP 
+NEPAL 
+VNVT AD 2-26 
+13 July 2025
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 08/2025
+
+=== Page 27 ===
+CCR
+Room
+09
+27
+IWI MID
+Gen
+Room
+6.835
+55.780
+25.514
+6.871
+60.000
+Access Road
+10.000
+ IWDI 27
+ IWDI 09
+6.871
+Apron Flood Light-L
+Apron Flood Light-M
+Apron Flood Light-R
+SALS (Barrette type)
+420 meter
+END LIGHT
+(RED)
+THRESHOLD LIGHT
+(GREEN)
+RTIL FLASHING
+(WHITE)
+RTIL FLASHING
+(WHITE)
+RTIL FLASHING
+(WHITE)
+RTIL FLASHING
+(WHITE)
+END LIGHT
+(RED)
+THRESHOLD LIGHT
+(GREEN)
+RUNWAY EDGE LIGHT
+(WHITE)
+ARP
+TAXIWAY EDGE
+LIGHT
+(BLUE)
+TAXIWAY EDGE
+LIGHT
+(BLUE)
+Scale - 1:8000
+N
+AERODROME CHART - ICAO AERODROME ELEVATION - 242.00 FT. TWR - 123.8 MHz BIRATNAGAR AIRPORT
+AERONAUTICAL GROUND LIGHTING SYSTEM
+AIP 
+NEPAL 
+VNVT AD 2-27 
+13 July 2025
+CIVIL AVIATION AUTHORITY OF NEPAL AMDT 08/2025

@@ -1,0 +1,3759 @@
+=== Page 1 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-1
+AD 2 AERODROMES
+RJNA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJNA - NAGOYA
+RJNA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJNA AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 351518N/1365528E
+153°/1.42km FM RWY 16 THR 
+2 Direction and distance from (city) 10k m NE FM Nagoya City (Nagoya Station) 
+3 Elevation/ Reference temperature 46ft / 34.3°C(2000-2004)
+4 Geoid undulation at AD ELEV PSN 126ft
+5 MAG VAR/ Annual change 8° W(2024) /Annual Change 4' W 
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Aichi Pref. Public AP
+Nagoya Airport Administration Office
+Toyoba, Toyoyamacho, Nishikasugaigun, Aichi Pref.
+Tel: 0568-29-1785 , Fax: 0568-29-1806
+Web: http://www.pref.aichi.jp/0000005859.html 
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Nil
+1 AD Administration 2200 - 1300
+2 Customs and immigration Customs: On request (052-398-4225)
+Immigration: 2330-1200
+3 Health and sanitation On request
+Quarantine(human): 052-661-4131
+Quarantine(animal): 052-651-0334, 0569-38-8579
+Quarantine(plant): 052-651-0112
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office Nil
+7 ATS H24 by JSDF-A 
+8 Fuelling 2100 - 1200
+9 Handling Ask AD Administration
+10 Security Ask AD Administration
+11 De-icing Nil
+12 Remarks Nil
+(EFF:13 JUN 2024) 13/6/24
+
+
+=== Page 2 ===
+RJNA AD2-2                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.4 HANDLING SERVICES AND FACILITIES
+RJNA AD 2.5 PASSENGER FACILITIES
+RJNA AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJNA AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Fuel grades : 100, JET A-1
+Oil grades : W80,W100, ASTO/500,ASTO/555
+3 Fuelling facilities/ capacity Fuel truck refueling / Ask AD Administration
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Hotels in Nagoya city
+2 Restaurants Around Airport
+3 Transportation Busses and Taxis
+4 Medical facilities Around Airport
+5 Bank and Post Office Around Airport
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 6
+2 Rescue equipment Chemical fire fighting truck × 2
+Emergency medical equipment conveyance truck
+Lighting power supply truck
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Snow remove equipments:Motor graders
+2 Clearance priorities Nil
+3 Remarks Seasonal availability:All seasons
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-3
+RJNA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Apron Surface cement-concrete
+Strength: PCR 626/R/B/W/T
+2 Taxiway width, surface and
+strength
+TWY Surface: asphalt concrete
+Strength: PCR 986/F/D/X/T
+TWY WP1, WP2, WP3, WP4, WP5 Width: 23m
+TWY W1 Width: 26.5m
+TWY W2, W3, W4, W5, W6, W7, W8 Width: 30m
+TWY W9 Width: 28.5m
+M1, M3 TWY Width: 23m
+M2 TWY Width: 30m
+J TWY Width: 18m 
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR 
+1: 351453.04N 1365531.62E
+9A: 351510.82N 1365522.27E
+9B: 351510.30N 1365521.06E
+9C: 351509.78N 1365519.85E
+12A: 351515.48N 1365518.50E 
+12B: 351514.34N 1365516.90E
+12C: 351513.74N 1365515.54E
+12D: 351512.97N 1365520.90E
+12E: 351512.45N 1365519.69E
+12F: 351511.93N 1365518.48E
+13: 351516.36N 1365517.51E
+13A: 351516.28N 1365518.20E
+14: 351516.50N 1365516.93E
+14A: 351515.88N 1365515.92E
+14B: 351515.30N 1365514.55E
+14C: 351519.74N 1365516.08E
+14D: 351518.92N 1365514.15E
+14E: 351518.09N 1365512.23E
+15A: 351522.05N 1365514.62E
+15B: 351521.22N 1365512.69E
+15C: 351520.39N 1365510.76E
+101: 351544.53N 1365501.16E
+102: 351545.82N 1365500.33E
+103: 351547.12N 1365459.51E
+104: 351548.41N 1365458.69E
+105: 351549.70N 1365457.86E
+106: 351551.00N 1365457.04E
+107: 351552.29N 1365456.21E
+6 Remarks Nil
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJNA AD2-4                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJNA AD 2.10 AERODROME OBSTACLES
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual 
+docking/ parking guidance 
+system of aircraft stands
+ Nil
+2 RWY and TWY markings and 
+LGT
+ RWY: RWY16/34
+ (Marking) RWY designation, RWY CL, RWY THR, Aiming point,
+                  TDZ, RWY side stripe.
+ (LGT) RCLL, REDL, RTHL, RENL, RTZL(RWY34), WBAR(RWY34), 
+           RWY DIST marker LGT
+TWY: All TWY
+ (Marking) TWY CL, RWY HLDG PSN, TWY side stripe
+ (LGT) TWY edge LGT, TWY CL LGT, Taxiing guidance sign
+3 Stop bars  Nil
+4 Remarks  (Marking) Overrun area
+ (LGT) Apron flood LGT
+In Area2 See Obstacle data
+In Area3 To be developed
+(EFF:18 JUN 2020) 18/6/20
+
+
+=== Page 5 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-5
+RJNA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Associated MET Office  Aichi Pref.
+2 Hours of service
+MET Office outside hours
+ Nil
+3 Office responsible for TAF 
+preparation
+Periods of validity
+ Nil
+4 Trend forecast
+Interval of issuance
+ Nil
+5 Briefing/ consultation provided  Nil
+6 Flight documentation
+Language(s) used
+ C
+ En
+7 Charts and other information 
+available for briefing or consultation
+ Nil
+8 Supplementary equipment
+available for providing information
+ Nil
+9 ATS units provided with information  TWR
+10 Additional information(limitation of 
+service, etc.)
+ Meteorological charts ( S
+6, U85, U7, U5, U3, PS, P5, PSW, U2/Tr, C) are 
+displayed, while briefing is not provided.
+16
+34
+Detection Area for Arriving Aircraft
+Detection Area for Departing Aircraft
+Airspace for the advisory service
+concerning low level wind shear
+UPPER LIMIT : 1600ft above FIELD ELEV LEVEL
+LOWER LIMIT : FIELD ELEV LEVEL
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+(EFF:10 MAR 2011) 10/2/11
+→
+
+
+=== Page 6 ===
+RJNA AD2-6                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJNA AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+16 152.42° 2740x45 PCR1230/F/D/X/T
+Asphalt Concrete
+351559.16N
+1365502.69E
+125ft
+THR ELEV:52ft
+TDZ ELEV:52ft
+34 332.42° 2740x45 PCR1230/F/D/X/T
+Asphalt Concrete 
+351440.36N
+1365552.86E
+126ft 
+THR ELEV:50.0ft
+TDZ ELEV:52ft
+   Slope of RWY Strip
+ Dimensions(M)
+RESA(Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See Below Chart 2860x300 240x(MNM:197 MAX:341)* RWY grooving : 2740m x 30m
+Overrun barrier(type net) 75m outside from THR,
+Arresting gear 17m outside from THR. 
+See Below Chart 2860x300 240x(MNM:200 MAX:300)*
+*For detail,
+ask airport administrator
+RWY grooving : 2740m x 30m
+Overrun barrier(type net) 42m outside from THR,
+Arresting gear at THR
+RWY Designator TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+16
+TWY:W8
+TWY:W7
+TWY:W6
+TWY:W5
+34
+TWY:W2
+TWY:W3 / W4
+2740
+2426
+2186
+1796
+1585
+2740
+2066
+1550
+2740
+2426
+2186
+1796
+1585
+2740
+2066
+1550
+2740
+2426
+2186
+1796
+1585
+2740
+2066
+1550
+2740
+2740
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+誘導路の TORA,TODA 及び ASDA は、 誘導路中心線と滑走路中心線の交点から滑走路末端までの距離を示す。
+(TORA,TODA and ASDA for TWY indicate distances BTN the point where TWY CL meets RWY CL and RWY THR.)
+O O O O O O O O O O O O O
+49;
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+O
+
+HV
+
+
+
+
+
+
+49;
+(EFF:17 APR 2025) 17/4/25
+
+
+=== Page 7 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-7
+RJNA AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJNA AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+1 2 345 6 7 8 9
+16 PALS
+480m
+LIH
+Green
+-
+PAPI
+3.0°/LEFT
+437m
+64ft
+- 2,740m
+30m
+Coded color
+(White/Red)
+LIH
+2,740m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+34 PALS
+(CAT I)
+450m
+LIH
+Green
+Green PAPI
+3.0°/LEFT
+419m
+67.3ft
+900m 2,740m
+30m
+Coded color
+(White/Red)
+LIH
+2,740m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+Remarks
+10
+ Overrun area edge LGT(LEN:60m Color:Red)(*1)
+1 ABN/IBN location, characteristics
+ and hours of operation ABN: 351508N/1365516E, White/Green EV4.3sec, HO
+2 LDI location and LGT
+Anemometer location and LGT
+LDI : Nil
+Anemometer : RWY16 : 350m FM RWY16 THR, LGTD
+RWY34 : 390m FM RWY34 THR, LGTD
+3 TWY edge and centerline lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/ 
+switch-over time
+Within 1 sec: REDL, RENL, RTHL, WBAR, RCLL and Overrun area edge LGT
+Within 15 sec: Other lights
+6 Remarks WDI LGT
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 8 ===
+RJNA AD2-8                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.16 HELICOPTER LANDING AREA
+RJNA AD 2.17 ATS AIRSPACE
+1 Coordinates TLOF or THR of FATO
+Geoid undulation
+W-HELIPAD: 351503.59N/1365529.85E, Nil
+P-HELIPAD: 351536.34N/1365509.01E, Nil
+2 TLOF and/or FATO elevation W-HELIPAD: 43ft
+P-HELIPAD: 39ft
+3 TLOF and FATO area dimensions,
+surface, strength, marking
+TLOF and FATO area dimensions: 38m×23m
+Surface:
+W-HELIPAD: Cement-Concrete
+P-HELIPAD: Asphalt-Concrete
+Strength: 23ton
+Marking: TDZ
+4 True BRG of FATO 152.42°/332.42°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7 Remarks
+• MAX helicopter type: H47
+• daytime use only
+• TKOF and LDG only
+• located on PARL TWY
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+NAGOYA
+CTR
+Area defined as follows. 
+(1) Area within a radius of 5NM of NAGOYA ARP 
+(3515N/13655E )
+(2) Area within a line connecting
+3515N13659E, 3511N13701E, 3509N13657E,
+3513N13654E and 3515N13659E 
+      in consecutive order.
+--------
+3000
+D NAGOYA TWR
+En
+NAGOYA
+PCA
+1. The airspace bounded by the lines connecting the 
+following points.
+(1) 351103N/1370057E, (2) 350913N/1365637E,
+(3) 350633N/1365818E, (4) 350824N/1370238E
+thence to point(1).
+4000
+--------
+800
+C
+CENTRAIR
+APP
+CENTRAIR
+RADAR
+CENTRAIR
+DEP
+EN
+2. The airspace bounded by the lines connecting the 
+following points.
+(4) 350824N/1370238E, (3) 350633N/1365818E,
+(5) 350338N/1370008E, (6) 350531N/1370426E
+thence to point(4). The line connecting point(5) to 
+point(6) is the minor arc with a radius of 13NM from 
+Nagoya VORTAC(KCC).
+5000
+--------
+1300
+CHUBU
+ACA See RJGG AD2.17 E
+CENTRAIR
+APP/DEP/
+RADAR
+En
+CHUBU
+TCA See RJGG AD2.17 E
+CENTRAIR
+TCA
+En
+(EFF:17 APR 2025) 17/4/25
+
+
+=== Page 9 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-9
+名古屋特別管制区
+Nagoya Positive Control Area
+㻺㻭㻹㻱 㻸㻭㼀㻱㻾㻭㻸㻌㻌㻸㻵㻹㻵㼀㻿
+㼁㻺㻵㼀
+㻼㻾㻻㼂㻵㻰㻵㻺㻳
+㻿㻱㻾㼂㻵㻯㻱
+㻾㻱㻹㻭㻾㻷㻿
+㻡
+㻼㼞㼕㼙㼍㼞㼥
+㻌㻌㻯㼑㼚㼠㼞㼍㼕㼞㻌㻭㻼㻼
+㻌㻌㻌㻌
+㻝㻞㻝㻚㻜㻡㻌㻌㻌㻝㻝㻥㻚㻝㻣㻡
+㻌㻌㻌㻌㻞㻞㻤㻚㻠㻌㻌㻌㻞㻠㻡㻚㻟
+㻌㻌㻯㼑㼚㼠㼞㼍㼕㼞㻌㻾㼍㼐㼍㼞
+㻌㻌㻌㻌
+㻝㻞㻡㻚㻡㻡㻌㻌
+㻿㼑㼏㼛㼚㼐㼍㼞㼥
+㻌㻌㻺㼍㼓㼛㼥㼍㻌㼀㼃㻾
+㻌㻌㻌㻌㻝㻝㻤㻚㻣㻌㻌㻌㻞㻟㻢㻚㻤
+㻌㻌㻌㻌㻝㻞㻞㻚㻣㻌㻌㻌㻟㻜㻡㻚㻣
+㻠
+㼁㻼㻼㻱㻾㻌㻸㻵㻹㻵㼀
+㻔㻭㻹㻿㻸㻕
+㻸㻻㼃㻱㻾㻌㻸㻵㻹㻵㼀
+㻔㻭㻹㻿㻸㻕
+㻹㻔㼒㼠㻕
+㻟
+ୗグ䛻♧䛥䜜䜛༊ᇦ
+㼀㼔㼑㻌㼍㼞㼑㼍㻌㼟㼔㼛㼣㼚㻌㼎㼑㼘㼛㼣
+㻞
+ྡྂᒇ
+㻺㻭㻳㻻㼅㻭
+㻝
+ᙜヱ✵ᇦ䜢㣕⾜䛧䜘䛖䛸䛩䜛⯟
+✵ᶵ䛿䚸㻯㼑㼚㼠㼞㼍㼕㼞䜰䝥䝻䞊䝏䠄
+㻯㼑㼚㼠㼞㼍㼕㼞䝺䞊䝎䞊䠅ཪ䛿ྡྂᒇ
+䝍䝽䞊䛻㐃⤡䛧䚸⌧ᅾ఩⨨䚸㧗
+ᗘཬ䜃ពᅗ䜢㏻ሗ䛧ᣦ♧䜢ཷ
+䛡䜛䛣䛸䚹
+㻼㼕㼘㼛㼠㻌 㼛㼒㻌 㼍㼕㼞㼏㼞㼍㼒㼠㻌 㼛㼜㼑㼞㼍㼠㼕㼚㼓㻌 㼕㼚㻌
+㼠㼔㼕㼟㻌㼍㼞㼑㼍㻌㼟㼔㼍㼘㼘㻌㼏㼛㼚㼠㼍㼏㼠㻌㻯㼑㼚㼠㼞㼍㼕㼞㻌
+㻭㻼㻼㻔㻾㻭㻰㻭㻾㻕㻌㼛㼞㻌㻺㼍㼓㼛㼥㼍㻌㼀㼃㻾㻘㻌
+㼒㼛㼞㻌 㻭㼀㻯㻌 㼕㼚㼟㼠㼞㼡㼏㼠㼕㼛㼚㼟㻌 㼓㼕㼢㼕㼚㼓㻌
+㼕㼚㼒㼛㼞㼙㼍㼠㼕㼛㼚㼟㻌㻌㼛㼚  㼍㼕㼞㼏㼞㼍㼒㼠㻌
+㼕㼐㼑㼚㼠㼕㼒㼕㼏㼍㼠㼕㼛㼚㻘㻌 㼜㼛㼟㼕㼠㼕㼛㼚㻘㻌 㼍㼘㼠㼕㼠㼡㼐㼑㻌
+㼍㼚㼐㻌㼜㼕㼘㼛㼠㻓㼟㻌㼕㼚㼠㼑㼚㼠㼕㼛㼚㻚
+㻷㻯㻯
+㻝㻟㼚㼙
+㻞㼚㼙㻠㻜㻜㻜
+㻤㻜㻜
+㻡㻜㻜㻜
+㻝㻟㻜㻜
+㻟㻡㻝㻝㻜㻟㻺
+㻝㻟㻣㻜㻜㻡㻣㻱
+㻟㻡㻜㻤㻞㻠㻺
+㻝㻟㻣㻜㻞㻟㻤㻱
+㻟㻡㻜㻡㻟㻝㻺
+㻝㻟㻣㻜㻠㻞㻢㻱
+㻟㻡㻜㻟㻟㻤㻺
+㻝㻟㻣㻜㻜㻜㻤㻱
+㻟㻡㻜㻢㻟㻟㻺
+㻝㻟㻢㻡㻤㻝㻤㻱
+㻟㻡㻜㻥㻝㻟㻺
+㻝㻟㻢㻡㻢㻟㻣㻱
+(EFF:25 MAR 2021) 25/3/21
+ 
+
+
+=== Page 10 ===
+RJNA AD2-10                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP Centrair Approach 119.175 MHz (1)
+245.3 MHz (1)
+121.05 MHz
+228.4 MHz
+121.5 MHz (E)
+243.0 MHz (E)
+H24 (1) Primary
+RADAR Centrair Radar 121.225 MHz
+227.2 MHz
+125.55 MHz
+121.5 MHz (E)
+243.0 MHz (E)
+H24
+DEP Centrair Departure 121.225 MHz
+227.2 MHz
+119.175 MHz
+245.3 MHz
+121.5 MHz (E)
+243.0 MHz (E)
+H24
+TCA Centrair TCA 119.25 MHz
+321.2 MHz
+121.175 MHz
+318.0 MHz
+2330 - 1100
+TWR Nagoya Tower 236.8 MHz
+305.7 MHz
+118.7 MHz
+122.7 MHz
+247.0 MHz (1)
+138.05 MHz (1)
+123.1 MHz (1)
+243.0 MHz (E)
+121.5 MHz (E)
+H24 (1) For rescue only 
+GND Nagoya Ground 275.7 MHz
+121.7 MHz
+H24
+DLVRY Nagoya Delivery 258.9 MHz
+121.75 MHz 
+H24
+GCA-ASR
+-PAR
+Nagoya GCA 270.8 MHz
+335.6 MHz
+239.3 MHz
+134.1 MHz
+119.9 MHz
+120.3 MHz
+243.0 MHz(E)
+121.5 MHz(E)
+H24 See AD2.22 "FLIGHT 
+PROCEDURES"
+(EFF:25 MAR 2021) 25/2/21
+
+
+=== Page 11 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-11
+RJNA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(8°W / 2017)
+KCC 114.2MHz H24 351554.96N
+1365453.73E
+VOR Unusable:
+200°-210° beyond 35nm BLW 5000ft.
+260°-270° beyond 30nm BLW 7000ft.
+320°-340° beyond 20nm BLW 8000ft.
+TACAN KCC 1176MHz
+(CH-89X)
+H24 351555.75N
+1365452.23E
+83ft TACAN DME unusable:
+200°-210° beyond 35nm BLW 5000ft.
+TACAN AZM unusable:
+160°-180° beyond 35nm BLW 5000ft.
+180°-200° beyond 30nm BLW 5000ft.
+200°-210° beyond 25nm BLW 5000ft.
+260°-270° beyond 35nm BLW 7000ft.
+ILS-LOC34 IKC 108.9MHz 2200-1300 351611.06N
+1365455.11E
+BRG (MAG) 341°
+414m away FM RWY16 THR 
+ILS-GP34 329.3MHz 2200-1300 351448.37N
+1365542.42E
+GP angle 3.0°
+HGT of ILS Ref datum 55ft
+341m inside FM RWY34 THR 
+120m SW of RCL 
+ILS-DME34 IKC 987MHz
+(CH-26X)
+2200-1300 351448.41N
+1365542.23E
+63.8ft 344m inside FM RWY34 THR
+ 124m SW of RCL
+MSAS 1575.42MHz H24 Transmitting antennas are satellite based
+㻟㻠㻝㼻
+㻝㻢㻚㻤㼙㻌㻔㻡㻡㼒㼠㻕
+㻟㻚㻜㼻
+㻝㻥㻚㻡㼙㻌㻔㻢㻟㻚㻤㼒㼠㻕㻠䠊㻱㻸㻱㼂㻌㼛㼒㻌㻵㻸㻿㻙㻰㻹㻱
+㻟䠊㻳㻼㻌㻭㼚㼓㼘㼑
+㻞䠊㻴㻳㼀㻌㼛㼒㻌㻵㻸㻿㻌㻾㻱㻲㻌㼐㼍㼠㼡㼙
+㻝䠊㻸㻻㻯㻌㼎㼑㼍㼙䚷㻮㻾㻳㻔㻹㻭㻳㻕㻾㻱㻹㻭㻾㻷㻿䠖
+㻵㻸㻿㻙㻸㻻㻯
+㻭㻺㼀㻱㻺㻺㻭
+㻵㻸㻿㻌㼒㼛㼞㻌㻾㼃㼅㻌㻟㻠
+㻺㻭㻳㻻㼅㻭㻌㻭㻵㻾㻼㻻㻾㼀
+㻾㼁㻺㼃㻭㼅
+㻟㻠
+㻝㻢
+㻠㻝㻠㼙 㻞㻣㻠㻜㼙
+㻝㻞㻠㼙
+㻟㻠㻝㼙
+㻟㻠㻠㼙
+㻝㻞㻜㼙
+㻵㻸㻿㻙㻳㻼㻌㻭㻺㼀㻱㻺㻺㻭
+㻵㻸㻿㻙㻰㻹㻱㻌㻭㻺㼀㻱㻺㻺㻭
+(EFF:21 MAY 2020) 23/4/20
+
+
+=== Page 12 ===
+RJNA AD2-12                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+1.1 空港の使用について、 航空機の運航者はあらかじめ
+  愛知県に届け出るこ と。
+1.2 訓練飛行を行 う と きは、 愛知県の承認を得る こ と。
+1.1 On use of NAGOYA airport , aircraft operator is required 
+to notify Aichi Pref in advance.
+1.2 Training flight is subject to the approval of  Aichi Pref.
+Nil
+Nil
+Nil
+Nil
+6.1 誘導路交差地点の翼端ク リ アラ ンス 
+　　　　　　　　　　　　　　　　　　　 （ A D 1 . 1 . 6 . 8参 照)
+6.1 Wing tip clearance at the TWY intersection  
+                                                                          (REF. AD1.1.6.8)
+  誘導路上の停止位置に待機中の航空機と後方の誘導路を
+走行する航空機の翼端ク リ ア ラ ンスは以下のとお り であ
+る。
+Wing tip clearance at the TWY intersection between the 
+aircraft holding at the stop marking on the TWY and the 
+other aircraft taxiing behind it are as follows.
+(1) When B773 holding at the stop marking on TWY W2 or W8
+Wing Span (WS) of aircraft taxiing on
+WP1 - Apron TWY or WP3 - WP4 WS =< 15.2m 15.2m < WS =< 32.2m WS > 32.2m
+Wing tip clearance *A *B *C
+(2) When A333 holding at the stop marking on TWY W7
+Legend: 
+*A : wing tip clearance >= 15m  
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5m
+Wing Span (WS) of aircraft taxiing on
+WP2 - WP3 WS =< 12.9m WS > 12.9m
+Wing tip clearance *B *C
+6.2 B773 のための誘導路運用ガイダンス 6.2 TWY operational guidance for B773
+ 
+  B773 の操縦士は、 誘導路 W2、 W4、 W5、 W6、 W7、 W8 の
+コーナーには特に注意を払うこと。
+The pilots of B773 are required to pay special attention at 
+the corner section TWY W2, W4, W5, W6, W7 and W8.
+Nil
+(EFF:8 MAR 2012) 9/2/12
+
+
+=== Page 13 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-13
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJNA AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+1.  騒音軽減運航方式 1. Noise Abatement Operating Procedures
+   すべてのジ ェ ッ ト 機に対し て、空港周辺における
+航空機騒音軽減のため、 運航の安全に支障のない
+範囲で、 以下の方式が適用される。 ただ し、 これ
+らの方式による こ とができない航空機は実効的に
+これら と同等と認められる代替方式を実施する も
+のとする。
+For all jet aircraft, in order to reduce aircraft noise in 
+the vicinity of the airport, the following procedures 
+shall be applied unless compliance of the 
+procedures adversely affects the safety of aircraft 
+operations. In case that the aircraft is unable to take 
+these procedures, pilots should execute alternative 
+procedures which are considered to be practically 
+equivalent.
+(1) 離陸について （滑走路 16/34）
+　 　  急上昇方式
+(1) For take-off from RWY 16/34
+Steepest Climb Procedure
+(2) 着陸について （滑走路 16/34） 　 　        (2) For landing to RWY 16/34
+       デ ィ レ イ ド ･フ ラ ッ プ進入方式及び
+     低フ ラ ッ プ角着陸方式
+Delayed Flap Approach Procedure and 
+Reduced Flap Setting Procedure
+(3) リ バース･ス ラ ス ト について
+　　  な し
+(3) Reverse Thrust
+Nil
+2.  優先滑走路方式
+　    な し
+2. Preferential Runways Procedures
+Nil
+3.  優先飛行経路 3. Noise Preferential Routes
+   すべてのジ ェ ッ ト 機に対し て、 航行の安全確保及
+び飛行の目的に支障がない範囲において適用され
+る。     
+For all jet aircraft, the following noise preferential 
+routes are adopted, as long as flight safety is not 
+jeopardized or purpose of flight is not hindered.
+(1) 滑走路 34 から離陸する場合 (1) For take-off from RWY 34
+　 　  名古屋 VORTAC から 2 海里の地点を通過する
+     まで直線飛行する。
+Pilots are requested to strictly follow extended 
+runway centerline until passing 2NM from 
+Nagoya VORTAC.
+(2) 滑走路 16 から離陸する場合 (2) For take-off to RWY 16
+        名古屋 VORTAC から 3 海里の地点を通過する
+     まで直線飛行する。
+Pilots are requested to strictly follow extended 
+runway centerline until passing 3NM from 
+Nagoya VORTAC.
+AD 1.1.6.5 参照 See : AD1.1.6.5
+(EFF:8 MAR 2012) 9/2/12
+→
+
+
+=== Page 14 ===
+RJNA AD2-14                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.22 FLIGHT PROCEDURES
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN 
+AP FILED
+16
+A, B, C, D 400m 400m 400m 400m - 500m
+34
+OTHER
+16
+A, B, C, D AVBL LDG MINIMA
+34
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 16 PAR RWY 34
+MINIMA THR ELEV:52 AD ELEV: 46 MINIMA THR ELEV:50 AD ELEV: 46
+CAT
+PAR CIRCLING
+CAT
+PAR CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS DA(H) RVR/
+CMV MDA(H) VIS
+A
+252(200) 750
+680(634) 1600
+A
+252(202) 700
+680(634) 1600
+BB
+C
+860(814)
+2400 C
+860(814)
+2400
+D 3200 D 3200
+ASR RWY 16 ASR RWY 34
+MINIMA THR ELEV:52 AD ELEV: 46 MINIMA THR ELEV:50 AD ELEV: 46
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+680(634)
+1400
+680(634) 1600
+A
+540(494)
+1400
+680(634) 1600
+B 1500 B 1500
+C 1600
+860(814)
+2400 C 1600
+860(814)
+2400
+D 1800 3200 D 1800 3200
+(EFF:18 MAY 2023) 18/5/23
+
+
+=== Page 15 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-15
+3. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Centrair Approach/Radar or NAGOYA GCA are lost for 1 minute, or 5 seconds(PAR)/15
+ seconds(ASR) on final approach, squawk Mode A/3 Code 7600 and;
+(I)  1. Contact Nagoya Tower.
+2. If unable, proceed in accordance with Visual Flight Rules.
+3. If unable,
+a) Proceed to Nagoya VORTAC at last assigned altitude or 3,000FT whichever is higher and execute Instrument
+Approach.
+b) Proceed to SHATI via Nagoya VORTAC at last assi gned altitude or 5,000FT whichever is higher and execute
+TACAN A Approach.
+(II) Procedures other than above will be issued when situation required.
+4. Automated Radar Terminal System(ARTS)
+セン ト レアアプローチの指示のも とに、中部進入管制区を飛
+行する航空機は、 モー ド A/3 の二次レーダー個別コー ド 及
+びモード C による応答を指示される。
+二次レーダー個別コー ド を搭載し ていない航空機が当該
+コー ド によ る応答を指示された場合は、管制官に対し、 その
+旨通報する こ と。
+Aircraft flying under control of “Centrair Approach” in the 
+Chubu approach control area will be instructed to reply with 
+discrete code on Mode A/3 and Mode C.
+If an aircraft with non-discrete code capability be 
+instructed to reply with the discrete code, it shall report a 
+controller accordingly.
+5. Ｐ Ａ Ｒ 進入 　 滑走路 １ ６ ／ ３ ４
+　　 グ ラ イド パ ス  3 . 0 °
+5. PAR RWY16/34
+    Glide path 3.0°
+6. 場周経路を飛行する際の高度  
+  場周経路を飛行する際の高度は以下のとお り。
+  (1) 固定翼航空機
+      1) 　 ジ ェ ッ ト 　 　 　 　 2,000 ﾌｨｰﾄ
+      2) 　 プロペラ
+　 　 　      単発機 　 　 　 　 1,000 ﾌｨｰﾄ
+　 　 　      多発機 　 　 　 　 1,200 ﾌｨｰﾄ （4 発機を除 く 。 ）
+　 　 　      ４ 発機 　  　 　   1,500 ﾌｨｰﾄ
+  (2) 回転翼航空機 　  　 　    800 ﾌｨｰﾄ
+6. Altitude at Traffic Pattern as follows
+Traffic Pattern Altitude as follows.
+(1) Fixed aircraft
+a)Jet 2,000ft
+b)Propeller
+Single engine 1,000ft
+Multi engine 1,200ft(except 4 engines)
+4 engines 1,500ft
+(2) Rotor craft 800ft
+(EFF:21 JUL 2016) 21/7/16
+
+
+=== Page 16 ===
+RJNA AD2-16                      AIP Japan
+                     NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD 2.23 ADDITIONAL INFORMATION
+1. Extensive military jet aircraft and military resc ue helicopter activities in NAGOYA and GIFU CTZ.
+1. 名古屋及び岐阜管制圏内で、軍用ジェット機及び軍用救難ヘリコプターが大規模に活動している。
+2.Building(See below chart) 建築物
+ᑪ▽‛ / Building
+Building
+1.Position :  35°12’′58″”/136°54’47” (4.4km S from NAGOYA ARP)
+                    -See LDG CHART
+2.Height :     552FT (168m) MSL
+                    525FT (160m) AGL
+3.Remarks : Medium-intensity and low-intensity obstacle lights are installed on
+                    this tower as shown in below figure.
+
+    ਛశᐲ⥶ⓨ㓚ኂἮ
+ Medium-intensity obstacle lights
+ ૐశᐲ⥶ⓨ㓚ኂἮ
+ Low-intensity obstacle lights
+ᑪ▽‛
+1.૏⟎ :  35°12’′58″”/136°54’47”ධMO㧕
+               - See LDG CHART
+2.ߐ552FT (168m) MSL
+              525FT (160m) AGL
+3.஻⠨ : ޕࠆ޿ߡࠇߐ
+
+O
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 17 ===
+AIP Japan
+NAGOYA
+Civil Aviation Bureau,Japan
+RJNA AD2-17
+RJNA AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Aircraft Parking/Docking Chart
+Standard Departure Chart - Instrument  (IBUKI)
+Standard Departure Chart - Instrument  (HOUBA)
+Standard Departure Chart - Instrument  (MORIZ)
+Standard Departure Chart - Instrument  (NAGOYA)
+Standard Departure Chart - Instrument  (TALMI)
+Standard Departure Chart - Instrument  (TRANSITION-RNAV)
+Standard Arrival Chart - Instrument  (EXPOH)
+Standard Arrival Chart - Instrument  (ORIBE EAST/SOUTH, SHINO-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY34)
+Instrument Approach Chart (ILS Y or LOC Y RWY34)
+Instrument Approach Chart (VOR RWY34)
+Instrument Approach Chart (VOR A)
+Instrument Approach Chart (TACAN A)
+Instrument Approach Chart (RNP RWY16)
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AD CHARTRJNA / NAGOYA
+JSDF-A  APRON
+E1 E2
+W2W1
+E3
+E4 E5
+G5G4G3G2
+FIRE
+STATION
+WP5WP4WP3
+M3
+WP2
+W8
+RVR WDI
+Abolished TWY
+ELEV 52ft
+ARRESTING
+GEAR
+OVERRUN BARRIER
+PAPI angle 3.0˚
+MEHT 19.5m(64ft)
+437m Inside FM THR
+ABN
+ALS
+0 100 200 300m
+LOC
+108.9
+IKC
+LOC
+108.9
+IKC
+W7
+W6
+W5
+M2M1
+J
+W3
+WP1
+W4
+G1
+2 73 6 1 8
+2 74 5
+5
+46 37 28 1
+4 55 46 37 2
+E TWY
+ARP PAR
+APRON TWY
+TERMINAL
+TWR
+RTHL
+PAPI angle 3.0˚
+MEHT 20.5m(67ft)
+419m inside FM THR
+OVERRUN AREA EDGE LGTSEQUENCED FLASHING LGT (SFL-V)
+RED
+GREEN RED
+34
+ALS
+LIGHT
+AIRCRAFT
+PARKING AREA
+WDI
+RVR
+ILS
+GP 329.3
+ELEV 50ft
+OVERRUN BARRIER
+(Arresting Gear at THR)
+PCR 1230/F/D/X/T
+GP HOLD LINE
+351518N1365528E
+351559.16N1365502.69E
+1 8
+W9
+E6
+APRON  TWY
+16 16
+34
+34
+NAGOYA AD
+ELEV 14m(45.9ft)
+MARKING AIDS
+12
+13
+14 15
+150m 300m
+OVERRUN AREA EDGE LGT
+REDGREENRED
+ASR
+RTHL
+16
+180m300m
+150m
+VORTAC
+114.2
+CH–89X
+KCC
+NAGOYA
+NAGOYA TWR 118.7 - 122.7 MHz
+236.8 - 305.7 MHz
+NAGOYA GND 121.7 - 275.7 MHz
+351440.36N1365552.86E
+Dimensions of RWY : 2740X45m
+Surface of RWY : Asphalt Concrete
+Designations RWY NR : 16 / 34
+Magnetic BRG : 159˚ /339˚
+TWY width
+WP1, WP2, WP3, WP4, WP5, M1, M3 : 23m
+m5.62 :1W
+m5.82 :9W
+W2, W4, W6, W7, W8 : 30.0m
+m03 :2M ,5W ,3W
+ :m81J
+WIND SPEED METER
+WIND SPEED METER
+CEILOMETER
+VAR 8° W (2024)
+ANNUAL CHANGE 4’W
+CHANGE : Description of strength of pavement.
+(EFF:28 NOV 2024) 3/10/24
+RJNA AD2.24-ADC-1
+NAGOYA
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AIRCRAFT PARKING CHARTRJNA / NAGOYA
+MARKING  AIDS  PARKING  AREA
+8A 8B 8C 8D 8E
+W 7 6  W8 W
+P helipad
+Compass setting area
+4 W5 W
+W 3
+W helipad
+W 2
+WP 1
+15 14 91213 34 5 6 2 1
+H
+2
+8 7
+15A 15B 15C
+14C 14D 14E14B14A
+12A 12B 12C
+H
+WP 2WP 3WP 4
+M2 1 M3MJ
+12F12E12D
+9A 9B 9C
+12G
+9G 9H
+9E 9D
+9F
+12H
+912 12A 12B 12C12F12E12D
+9A 9B 9C
+12G
+9G 9H
+9E 9D
+9F
+12H
+3A 3B 3C 3D
+3E 3F 3G 3H
+5A 5B 5C 5D
+5E 5F 5G 5H
+6A 6B 6C 6D
+6E 6F 6G 6H
+8F 8G 8H 8I
+7A 7B 7C 7D
+7E 7F 7G 7H
+4A 4B4A24A1
+4D1 4D2
+4C
+4D 4E 4F
+2A 2B 2C 2D 2E 2F 2G
+2L 2K 2J 2I 2H
+2L 2K 2J 2I 2H
+2A 2B 2C 2D 2E 2F 2G
+13A
+14
+CHANGE: Spot 101-107 added.
+102 101103104105106107
+(EFF:7 SEP 2023) 7/9/23
+RJNA AD2.24-APDC-1
+NAGOYA
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+FL150
+OHNNO
+D40.0 KCC
+319˚
+348˚
+700
+4NM FM RWY end/
+D4.0 KCC
+OHNNO  TRANSITION
+CHANGE : ADGUN TRANSITION, OHNNO TRANSITION established. OTSU TRANSITION, KOMATSU TRANSITION abolished.
+IBUKI  FOUR
+DEPARTURE
+D3.5 KCC
+R319
+SID and TRANSITION
+IBUKI FOUR DEPARTURE
+    RWY16 :   Climb RWY HDG to KCC 3.5DME, turn right HDG004˚...
+    RWY34 :   Climb RWY HDG to 700FT, turn left within 4NM from RWY end/KCC 
+     4.0DME,...
+               ...to intercept and proceed via KCC R319 to IBUKI.
+               Cross IBUKI at or above 11000FT.
+Note RWY16 : 5.0% climb gradient required up to 700FT.
+  OBST ALT 551FT located at 1.9NM 215˚ FM end of RWY16.
+ RWY34 : 5.0% climb gradient required up to 700FT.
+RJNA / NAGOYA
+    ADGUN TRANSITION
+       From over IBUKI, via KCC 29.5DME counterclockwise ARC
+       to intercept and proceed via KCC R262 to ADGUN.
+    OHNNO TRANSITION
+      From over IBUKI, via KCC 29.5DME clockwise ARC
+  ɹto intercept and proceed via KCC R348 to OHNNO.
+VORTAC
+114.2
+CH–89X
+ÛÝ1ÛÝ(
+KCC
+NAGOYA
+100FT
+HDG004˚
+Note : This TRANSITION is for TACAN equipped aircraft only.
+Note : This TRANSITION is for TACAN equipped aircraft only.
+R336
+KCC R348D29.5 KCC ARC
+D29.5 KCC ARC
+R279
+KCC R262
+ADGUN
+D45.5 KCC
+262˚
+ADGUN  TRANSITION
+Cross KCC R336 at or above FL150.
+IBUKI
+D29.5 KCC
+11000
+(EFF:25 FEB 2021) 31/12/20
+RJNA AD2.24-SID-1
+NAGOYA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJNA AD2.24-SID-2
+STANDARD DEPARTURE CHART -INSTRUMENT
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF IBUKI - - -7.9 - - +11000 - - RNAV1
+002 TF MIDER - -7.9 46.2 - - - - RNAV1
+ 
+ 
+ 
+RJNA / NAGOYA RNAV TRANSITION
+MIDER TRANSITION
+VAR 8°W
+NOTE 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+RNAV1
+IBUKI
+353511.4N
+1362733.5E
+MIDER
+350101.4N
+1354933.6E
+46.2
+230˚
+11000
+From IBUKI at or above 11000FT, to MIDER.
+     230
+ʢ222.4ʣ
+CHANGE : Description of VAR and PROC name.
+NAGOYA
+(EFF:13 JUL 2023) 15/6/23
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAGOYA
+STANDARD DEPARTURE CHART -INSTRUMENT
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF IBUKI - - -7.9 - - +11000 - - RNAV1
+002 TF HACHI - -7.9 16.1 - +FL150 - - RNAV1
+003 TF KMC - -7.9 39.1 - - - - RNAV1
+VAR 8°W
+RNAV1
+RJNA / NAGOYA RNAV TRANSITION
+KOMAZ TRANSITION
+NOTE 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+KOMATSU(KMC)
+362347.3N
+1362415.3E
+HACHI
+354704.2N
+1364057.0E
+IBUKI
+353511.4N
+1362733.5E
+39.1348˚
+16.1
+050˚
+FL150
+11000
+From IBUKI at or above 11000FT, to HACHI at or above FL150, to KMC.
+     050
+ʢ042.4ʣ
+     348
+ʢ339.9ʣ
+VORTAC
+KOMATSU
+112.0   KMC
+CH–57X
+ÛÝ1ÛÝ(
+CHANGE : Description of VAR and PROC name.
+RJNA AD2.24-SID-3
+(EFF:13 JUL 2023) 15/6/23
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+HOUBA FOUR DEPARTURE
+    RWY16 :   Climb RWY HDG to 600FT, turQOHIW+'*Û
+    RWY34 :   Climb RWY HDG to 700FT, turn right within 4NM from RWY end/
+.&&'0(YLD+'*Û
+WRLQWHUFHSWDQGSURFHHGYLD.&&5WR+28%$
+&URVV+28%$DWRUDEoYe 8000FT
+SIDRJNA / NAGOYA
+HOUBA
+'.&&
+8000
+Û
+700
+600
+4NM FM RWY end/D.&
+C
+VORTAC
+
+CH–89X
+ÛÝ1ÛÝ(
+KCC
+NAGOYA
+100FT
++'*Û HDG3
+49
+Û
+R034
+Note RWY16 : FOLPEgrDGLHQWUHTXLUHGXSWR)T
+RWY34 : FOLPEgrDGLHQWUHTXLUHGXSWR)T
+CHANGE :'HVFULSWLRQRI352&QDPH
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-SID-4
+NAGOYA
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJNA AD2.24-SID-5
+STANDARD DEPARTURE CHART -INSTRUMENT
+TRANSITION
+KROBE TRANSITION
+  From over HOUBA, via KCC R034 to KROBE via STRAW.
+  Cross STRAW at or above FL200.
+NIIGATA TRANSITION
+  From over HOUBA, via KCC R034 to KROBE via STRAW, 
+via GTC R228(MRA FL220 for using TACAN only) to GTC VORTAC. 
+  Cross STRAW at or above FL200.
+RJNA / NAGOYA
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+ÛÝ1ÛÝ(
+NIIGATA
+CH-102X
+115.5 GTC
+0FT
+ÛÝ1ÛÝ(
+VORTAC
+KROBE
+STRAW
+D86.2 KCC
+D108.2 GTC
+D56.9 KCC
+D35.0 KCC
+HOUBA
+FL200
+8000
+Û
+Û
+KCC R034
+Û
+NIIGATA  TRANSITION
+KROBE  TRANSITION
+CHANGE : MRA for using GTC TACAN added.
+GTC MRA FL220 (for using TACAN only)
+For NIIGATA TRANSITION
+NAGOYA
+(EFF:10 AUG 2023) 10/8/23
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+4NM FM RWY end/
+D4.0 KCC
+D10.0 KCC
+(When using KCC TACAN only)
+MORIZ
+D19.6 KCC
+700
+600
+5000
+7000
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+ÛÝ1ÛÝ(
++'*Û
+Û
+R137
+RJNA / NAGOYA SID
+MORIZ FIVE DEPARTURE
+  RWY16 :   Climb RWY HDG to 600FT, turn left,...
+  RWY34 :   Climb RWY HDG to 700FT, turn right within 4NM from RWY end/KCC 
+'0(YLD+'*ÛWRLQWHUFHSWDQGSURFHHG
+                 ...via KCC R137 to MORIZ.
+                    (Cross KCC R137/10.0DME at or above 5000FT when using KCC 
+    TACAN only.) 
+                     Cross MORIZ at or above 7000FT. 
+Note RWY16 : FOLPEgrDGLHQWUHTXLUHGXSWR)T.
+RWY34 : FOLPEgrDGLHQWUHTXLUHGXSWR)T.
+CHANGE :'HVFULSWLRQRI352&QDPH
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-SID-6
+NAGOYA
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJNA AD2.24-SID-7
+STANDARD DEPARTURE CHART -INSTRUMENT
+MORIZ
+TSUGU
+D52.6 CBE
+D23.9 CBE
+D19.6 KCC
+D30 LHT
+CHAUS
+D70.2 CBE
+067˚
+FL150
+VOR/DME
+CHUBU
+117.8   CBE
+0FT
+CH–125X
+34˚51´29˝N/136˚48´11˝E
+135˚
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+35˚15´55˝N/136˚54´54˝E
+TACAN
+HAMAMATSU
+1181   LHT
+CH–94X
+34˚44´50˝N/137˚42´36˝E
+CHAUS TRANSITION
+HAMAMATSU TRANSITION
+CBE R067
+067˚
+KCC R137
+RJNA / NAGOYA TRANSITION
+HAMAMATSU TRANSITION
+   From over MORIZ, via LHT R315 to LHT TACAN.
+CHAUS TRANSITION
+   From over MORIZ, via CBE R067 to CHAUS via TSUGU.
+    Cross CHAUS at or above FL150.
+NAGOYA
+(EFF:25 FEB 2021) 31/12/20
+→
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAGOYA
+STANDARD DEPARTURE CHART -INSTRUMENT
+NOITISNARTAYOGAN / ANJR
+ALPUS TRANSITION
+    From over MORIZ, via CBE R067 to MUGEN via TSUGU, via KCC R088 
+to ALPUS.
+    Cross MUGEN at or above FL150.
+ALPUS
+MORIZ
+MUGEN
+TSUGU
+D68.6 KCC
+D65.8 CBE
+D52.0 KCC
+D23.9 CBE
+D19.6 KCC
+D52.6 CBE
+Û
+Û
+Û
+FL150
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+ÛÝ1ÛÝ(
+KCC R088
+KCC R137
+CBE R067
+VOR/DME
+CHUBU
+117.8   CBE
+0FT
+CH–125X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+RJNA AD2.24-SID-8
+(EFF:13 JUL 2023) 15/6/23
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJNA AD2.24-SID-9
+STANDARD DEPARTURE CHART -INSTRUMENT
+SHIMA TRANSITION
+   From over MORIZ, via CBE 23.9DME clockwise ARC to intercept and proceed 
+via CBE R205 to SHIMA.
+NOITISNARTAYOGAN / ANJR
+VORTAC
+114.2
+CH–89X
+ÛÝ1ÛÝ(
+KCC
+NAGOYA
+100FT
+0FT
+VOR/DME
+CHUBU
+ÛÝ1ÛÝ(
+117.8      CBE
+CH-125X
+KCC R137
+MORIZ
+D19.6 KCC
+D23.9 CBE
+SHIMA
+D34.9 CBE
+Û
+CBE R205
+CBE R067
+R199
+D23.9 CBE ARC
+CHANGE : Description of PROC name.
+NAGOYA
+(EFF:13 JUL 2023) 15/6/23
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+SIDRJNA / NAGOYA
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+ÛÝ1ÛÝ(
+4NM FM RWY end/D4.0 KCC
+600
+3000
+700
+NAGOYA EAST REVERSAL ONE DEPARTURE
+Climb RWY HDG to 600FT, turn left, direct to KCC VORTAC.
+Cross KCC VORTAC at or above 3000FT.
+Note RWY16 : 5.0% climb gradient required up to 600FT.
+RWY16 :
+Climb RWY HDG to 700FT, turn right within 4NM from RWY end/KCC 4.0DME, 
+direct to KCC VORTAC.
+Cross KCC VORTAC at or above 3000FT.
+RWY34 :
+RWY34 : 5.0% climb gradient required up to 700FT.
+CHANGE : Description of PROC name.
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-SID-10
+NAGOYA
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJNA AD2.24-SID-11
+STANDARD DEPARTURE CHART -INSTRUMENT
+SIDRJNA / NAGOYA
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+ÛÝ1ÛÝ(
+4NM FM RWY end/D4.0 KCC
+D3.5 KCC
+3000
+700
+NAGOYA WEST REVERSAL ONE DEPARTURE
+Climb RWY HDG to KCC 3.5DME, turn right, direct to KCC VORTAC.
+Cross KCC VORTAC at or above 3000FT.
+Note RWY16 : 5.0% climb gradient required up to 700FT.
+RWY16 :
+Climb RWY HDG to 700FT, turn left within 4NM from RWY end/KCC 4.0DME, 
+direct to KCC VORTAC.
+Cross KCC VORTAC at or above 3000FT.
+RWY34 :
+RWY34 : 5.0% climb gradient required up to 700FT.
+OBST AL7)7ORFDWHGDW10Û)0HQGRIRWY16.
+CHANGE : Description of PROC name.
+NAGOYA
+(EFF:13 JUL 2023) 15/6/23
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+SID
+TALMI
+D18.9 KCC
+7000
+RJNA / NAGOYA
+Û
+700
+D3.5 KCC
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+ÛÝ1ÛÝ(
+R319
++'*Û
+4NM FM RWY end/
+D4.0 KCC
+Note RWY16 : 5.0% climb gradient required up to 700FT.
+OBST AL7)7ORFDWHGDW10Û)0HQGRIRWY16.
+RWY34 : 5.0% climb gradient required up to 700FT.
+TALMI FOUR DEPARTURE
+    RWY16 :   Climb RWY HDG to KCC 3.5DME, turn rLJKW+'*Û
+    RWY34 :   Climb RWY HDG to 700FT, turQOHIWZLWKLQ10IURPRWY end/KCC 
+     4.0DME,...
+               ...to intercept and proceed via KCC R319 to TALMI.
+               Cross TALMI at or above 7000FT.
+CHANGE :'HVFULSWLRQRI352&QDPH
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-SID-12
+NAGOYA
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+7000
+KAMMY TRANSITION
+VAR 7˚W 
+WAKIT TRANSITION
+PIONE TRANSITION
+RJNA / NAGOYA RNAV TRANSITION
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+TF
+TF
+Course
+˚M(˚T)
+Tur n
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟 
+凟
+凟
+凟 
+凟 
++7000
+凟
+凟
+凟
+凟
+凟
+凟
+凟 
+凟
+42.8
+45.2
+49.8
+-7.3
+-7.3
+-7.3
+-7.3
+001
+002
+003
+004
+凟
+凟
+凟
+凟 
+TALMI
+HEIAN
+WAKIT
+PIONE
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(260.2)
+(245.6)
+(244.4)
+凟 
+268
+253
+252
+PIONE TRANSITION
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+TF
+Course
+˚M(˚T)
+Tur n
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟 
+凟
+凟
+凟 
++7000
+凟
+凟
+凟
+凟
+凟 
+凟
+42.8
+45.2
+-7.3
+-7.3
+-7.3
+001
+002
+003
+凟
+凟
+凟 
+TALMI
+HEIAN
+WAKIT
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(260.2)
+(245.6)
+凟 
+268
+253
+WAKIT  TRANSITION
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+TF
+Course
+˚M(˚T)
+Tur n
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟 
+凟
+凟
+凟 
++7000
+凟
+凟
+凟
+凟
+凟 
+凟
+42.8
+56.8
+-7.3
+-7.3
+-7.3
+001
+002
+003
+凟
+凟
+凟 
+TALMI
+HEIAN
+KAMMY
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(260.2)
+(248.3)
+凟 
+268
+255
+KAMMY TRANSITION
+PIONE TRANSITION / WAKIT TRANSITION / KAMMY TRANSITION RNAV 1
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+TALMI
+352815.6N
+1363725.7E
+HEIAN
+352047.0N
+1354543.6EKAMMY
+345927.6N
+1344118.7E
+WAKIT
+350157.9N
+1345532.0E
+PIONE
+344017.0N
+1340054.5E
+42.8
+56.8
+268˚
+255˚ 45.2
+49.8
+253˚
+252˚
+From TALMI at or above 7000FT, to HEIAN, to WAKIT, to PIONE.
+From TALMI at or above 7000FT, to HEIAN, to WAKIT.
+From TALMI at or above 7000FT, to HEIAN, to KAMMY .
+VORTAC
+NAGOYA
+114.2   KCC
+100FT
+CH–89X
+ÛÝ1ÛÝ(
+Inappropriate Navaids
+DME GAP –
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+CHANGE : Critical DME deleted.
+–
+(EFF:21 MAR 2024) 22/2/24
+RJNA AD2.24-SID-13
+NAGOYA
+
+
+=== Page 34 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART -INSTRUMENT
+STARRJNA / NAGOYA
+EXPOH SOUTH ARRIVAL
+  From over SHIMA, via CBE R205, via CBE 24.0DME counterclockwise 
+ARC to intercept and proceed via KCC R159 to EXPOH.
+  Cross KCC R159/23.0DME at or above 5000FT, cross EXPOH at or above 2500FT.
+EXPOH SOUTH ARRIVAL
+EXPOH NORTH ARRIVAL
+  From over SWING, via KCC 18.4DME clockwise ARC to intercept 
+and proceed via KCC R159 to EXPOH.
+  Cross KCC R151 at or above 3900FT, cross EXPOH at or above 2500FT.EXPOH NORTH ARRIVAL
+339˚
+3900
+2500
+EXPOH
+5000
+D23.0 KCC
+D36.4 KCC
+D10.9 KCC
+SHIMA
+D34.9 CBE
+SWING
+D18.4 KCC
+R151
+CBE R205
+025˚
+D18.4 KCC ARC
+D24.0 CBE ARC
+R159
+KCC R074VORTAC
+114.2
+CH–89X
+35˚15´55˝N/136˚54´54˝E
+KCC
+NAGOYA
+100FT
+0FT
+VOR/DME
+CHUBU
+34˚51´29˝N/136˚48´11˝E
+117.8      CBE
+CH-125X
+(EFF:29 MAR 2018) 1/3/18
+RJNA AD2.24-STAR-1
+NAGOYA
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART -INSTRUMENT
+RNAV STARRJNA / NAGOYA
+VORTAC
+114.2
+CH–89X
+ÛÝ1ÛÝ(
+KCC
+NAGOYA
+100FT
+Note   1) DME/DME/IRU or GNSS required.
+2) RADAR service required.
+RNAV1ORIBE EAST ARRIVAL 
+SHINO  ARRIVAL
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++7000
++5100
+–
+24.5
+14.6
+ADGUN
+DOZAN
+SHINO
+(054.0)
+(054.2)
+062
+062
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+Û0Û7
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.7
+-7.7
+-7.7
+–
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++9000
++7000
++6000
+–
+6.6
+17.9
+MAMLA
+SIMON
+ORIBE
+(270.4)
+(270.3)
+278
+278
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+Û0Û7
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.7
+-7.7
+-7.7
+–
+From ADGUN, to DOZAN at or above 7000FT, to SHINO at or above 5100FT.
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+From MAMLA, at or above 9000FT, to SIMON at or above 7000FT, to ORIBE at or above 6000FT.
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+–
+–
+SHINO  ARRIVAL
+ORIBE EAST ARRIVAL
+ORIBE EAST ARRIVAL
+SHINO ARRIVAL
+MAMLA
+GIFU AD
+1
+(
+SIMON
+1
+(
+ORIBE
+1
+(
+SHINO
+1
+(
+DOZAN
+1
+(
+ADGUN
+1
+(
+6.6
+Û
+17.9
+Û
+TACAN
+992 GFT
+CH-31X
+ÛÝ1ÛÝ(
+GIFU
+24.5
+Û
+14.6
+Û
+7000
+7000 9000
+6000
+5100
+GFT : 5.0NM to SIMON - 4.0NM to ORIBE
+YME : 4.0NM to ORIBE - ORIBE
+V$5Û:
+CHANGE : Description of VAR.
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-STAR-2
+NAGOYA
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+NAGOYA
+STANDARD ARRIVAL CHART -INSTRUMENT
+RNAV STARRJNA / NAGOYA
+GIFU AD
+TACAN
+992 GFT
+CH-31X
+ÛÝ1ÛÝ(
+GIFU
+TACAN
+KOWA
+1169   XMT
+300FT
+CH–82X
+ÛÝ1ÛÝ(
+15.0327˚
+20.5018˚
+20.5018˚
+30.2
+045˚
+345˚
+R165
+165˚
+KCC
+VORTAC
+RYUDO
+D14.7 KCC D21.0 
+KCC
+MHA 6000
+MAX 230KIAS
+VORTAC
+114.2
+CH–89X
+ÛÝ1ÛÝ(
+KCC
+NAGOYA
+100FT
+0FT
+VOR/DME
+CHUBU
+ÛÝ1ÛÝ(
+117.8      CBE
+CH-125X
+Note   1) DME/DME/IRU or GNSS required.
+2) RADAR service required.
+RNAV1ORIBE SOUTH ARRIVAL 
+ORIBE
+1
+(
+GRIPP
+1
+(
+RYUDO
+1
+(
+KOHWA
+1
+(
+SHIMA
+1
+(
+6000
+8000
+IF
+TF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++8000
+–
+–
++6000
+–
+30.2
+20.5
+20.5
+15.0
+SHIMA
+KOHWA
+RYUDO
+GRIPP
+ORIBE
+(037.1)
+(010.1)
+(010.2)
+(319.2)
+045
+018
+018
+327
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Tur n
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.9
+-7.9
+-7.9
+-7.9
+-7.9
+–
+From SHIMA, to KOHWA at or above 8000FT, to RYUDO, to GRIPP , to ORIBE at or above 6000FT.
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+GFT :  11.0NM to ORIBE - 6.0NM to ORIBE
+YME : 2.0NM to ORIBE - ORIBE
+VAR 8˚W
+3.0NM to ORIBE - 2.0NM to ORIBE
+Using NAVAID
+NOT TO SCALE
+CHANGE : Description of VAR and PROC name.
+RJNA AD2.24-STAR-3
+(EFF:13 JUL 2023) 15/6/23
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+43YWR Z COL ro Z SLIAYOGAN / ANJR
+NAGOYA  TOWER RADAR  AVBLCENTRAIR APP
+121.05 – 119.175
+228.4 – 245.3
+10NM
+MISSED APPROACH
+961
+1434
+1076
+23001578
+2060
+2064
+531
+532
+476
+1368
+1135 552
+702
+627
+090°
+270°
+180°
+360°
+MAPt
+(LOC)
+D0.6 IKC
+D6.0 KCC
+118.7 - 122.7
+236.8 - 305.7 CALL CENTRAIR RADAR
+ILS – LOC
+ILS–GP
+ILS–DME
+329.3
+CH–26X
+108.9   IKC
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 4.0%
+VORTAC
+114.2
+CH–89X
+ÛÝ1ÛÝ(
+KCC
+NAGOYA
+Timing not authorized for defining the MAPt.
+No turn before IKC 0.6DME.
+Û
+Û
+KCC
+1073
+10301115
+12571079
+361
+481
+355
+1162
+GIFU AD
+Û
+Û
+3.0
+2.8
+5.7
+5.6
+9.6
+9.4
+1.5
+1.3
+0.6
+0.5
+DME to IKC
+NM to THR
+0.2
+0
+VDP
+(LOC)
+950
+(904)
+1200
+(1154)MDA
+SDF
+(LOC)
+DOALA
+(FAF)
+EXPOH
+(IF)
+MAPt
+(LOC)
+2500
+EXPOH(IF)
+D9.6 IKC
+R159/D10.9 KCC
+DOALA(FAF)
+D5.7 IKC
+DOALA(FAF) : 
+350944.64N/1365900.87E
+MHA 3000
+MAX 230KIAS
+&OLPEWR)7RQ+'*ÛWXrn left 
++'*ÛWRLQWHUFHSWDQGSURFHHGYLD
+.&&5WR.&&'0(WXrQOHIW
+direct to KCC VORTAC and hold at 3000FT.
+Contact CENTRAIR APP .
+Û
+Û
+Û
+*3Û
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+250 (200) 490 (444)
+850 (804)
+650 (604)
+700
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+7+5HOHY50 $'HOHY46
+A
+B
+C
+D
+V$5Û:
+Û Û
+Û
+Û
+52005600
+49005200
+MSA 25NM
+KCC
+EQPT REQUIRED
+DME
+VOR
+R230
+HD
+G185
+Û
+NM to IKC
+$/7Û$3&+3DWK
+2
+677
+MAPt
+–
+3
+996
+4
+1314
+5
+1633
+FAF
+1867
+1900
+1867
+(LOC)996
+(LOC)
+159
+Û
+R159
+339
+Û
+KCC
+VORTAC
+EXPOH
+D10.9 KCC
+D17.0 KCC
+MHA 2500
+MAX 230KIAS
+RDH55
++'*Û
+CHANGE :'HVFULSWLRQRI9$5
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-IAC-1
+NAGOYA
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+43YWR Y COL ro Y SLIAYOGAN / ANJR
+NAGOYA  TOWER RADAR  AVBLCENTRAIR APP
+121.05 – 119.175
+228.4 – 245.3
+10NM
+961
+1434
+1076
+23001578
+2060
+Max Turning speed 200KIAS
+Turn initiation within D11.0 KCC
+Turn initiation within D11.0 KCC
+2064
+531
+532
+476
+1368
+2011
+1135 552
+702
+627
+090°
+270°
+180°
+360°
+118.7 - 122.7
+236.8 - 305.7 CALL CENTRAIR RADAR
+ILS – LOC
+ILS–GP
+ILS–DME
+329.3
+CH–26X
+108.9   IKC
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 4.0%
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+No turn before IKC 0.6DME.
+D6.0 KCC
+MAPt
+(LOC)
+D0.6 IKC
+1073
+10301115
+12571079
+361
+481
+355
+1162
+GIFU AD
+Û
+Û
+Û
+VORTAC
+114.2
+CH–89X
+ÛÝ1ÛÝ(
+KCC
+NAGOYA
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+250 (200) 490 (444)
+850 (804)
+650 (604)
+700
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 50 AD elev. 46
+A
+B
+C
+D
+KCC
+3.0
+2.8
+5.7
+5.6
+1.5
+1.3
+0.6
+0.5
+DME to IKC
+NM to THR
+0.2
+0
+VDP
+(LOC)
+950
+(904)
+1200
+(1154)
+MDA
+SDF
+(LOC)
+DOALA
+(FAF)
+MAPt
+(LOC)
+1900
+3000
+&OLPEWR)7RQ+'*ÛWXrn left 
++'*ÛWRLQWHUFHSWDQGSURFHHGYLD
+.&&5WR.&&'0(WXrQOHIW
+direct to KCC VORTAC and hold at 3000FT.
+Contact CENTRAIR APP .
+Û
+Û
+*3Û
+1900
+1867
+(LOC)996
+(LOC)
+RDH55
+DOALA(FAF) : 350944.64N/1365900.87E NM to IKC
+$/7Û$3&+3DWK
+2
+677
+MAPt
+–
+3
+996
+4
+1314
+5
+1633
+FAF
+1867
+MHA 3000
+MAX 230KIAS
++'*Û
+DOALA
+(FAF)
+D5.7 IKC
+V$5Û:
+Û Û
+Û
+Û
+52005600
+49005200
+MSA 25NM
+KCC
+Û
+EQPT REQUIRED
+DME
+VOR
+Û
+Û
+ÛR230
+HDG18
+Û
+CHANGE : Description of VAR.
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-IAC-2
+NAGOYA
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJNA / NAGOYA
+NAGOYA  VORTAC NAGOYA  TOWER
+118.7 - 122.7
+236.8 - 305.7
+RADAR  AVBL
+CALL CENTRAIR RADARCH-89X
+10NM
+114.2      KCC
+VOR RWY34
+961
+1434
+1076
+23001578
+2060
+2064
+531
+532
+476
+1368
+1135 552
+702
+627
+090°
+270°
+180°
+360°
+EMITT
+(FAF)
+D6.5 KCC
+MAPt
+D1.5 KCC
+CENTRAIR APP
+121.05 – 119.175
+228.4 – 245.3
+D6.0 KCC
+Max Turning speed 200KIAS
+Turn initiation within D11.0 KCC
+Turn initiation within D11.0 KCCMISSED APPROACH
+Timing not authorized for defining the MAPt.
+No turn before MAPt.
+1073
+10301115
+12571079
+361
+481
+355
+1162
+ÛÝ1ÛÝ(
+GIFU AD
+Û
+Û
+V$5Û:
+EQPT REQUIRED
+DME
+Û
+Û
+Û
++'*Û
+R230
+MHA 3000
+MAX 230KIAS
+Û Û
+Û
+Û
+52005600
+49005200
+MSA 25NM
+KCC
+ 
+MINIMA 
+CAT
+490 (444)
+850 (804)
+650 (604)1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 50 AD elev. 46
+A
+B
+C
+D
+KCC
+4.0
+2.5
+6.5
+5.0
+2.8
+1.3
+DME to KCC
+NM to THR
+1.5
+0
+VDP
+620
+(574)
+1200
+(1154)
+MDA
+SDF
+EMITT
+(FAF)
+MAPt
+1800
+3000
+Tur nOHIW+'*ÛWRLQWHUFHSWDQGSURFHHG
+via KCC R230 to KCC 6.0DME, turn left, 
+GLUHFWWR.&& VORTAC and hold at 3000FT.
+&RQWDFW&(175$,5$3P.
+Û
+Û
+Û
+902 Û
+1698
+EMITT(FAF) : 351020.74N/1365900.12ENM to KCC
+$/7Û$3&+3DWK
+3
+584
+MAPt
+–
+4
+902
+5
+1221
+6
+1539
+FAF
+1698
+Û
+CHANGE :'HVFULSWLRQRI9$5
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-IAC-3
+NAGOYA
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJNA / NAGOYA
+NAGOYA  VORTAC NAGOYA  TOWER
+118.7 - 122.7
+236.8 - 305.7CH-89X
+114.2     KCC
+VOR A
+961
+1073
+1076 2300
+1578
+2060
+2064
+531
+1368
+552
+702
+1162627
+D6.0 KCC
+YADAR
+(IF) RAIKO
+(FAF)
+MAPt
+KCC
+MAPt
+DME to KCC6.012.0
+Û
+Û
+1434
+103011151257
+361
+481
+355
+GIFU AD
+1371
+1038
+CENTRAIR APP
+121.05 – 119.175
+228.4 – 245.3
+RADAR  AVBL
+CALL CENTRAIR RADAR
+Û
+R2
+30
+MHA 3000
+MAX 230KIAS
+RAIKO(FAF) : 352115.95N/1365133.33E
+HDGÛ
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+Tur n rLJKW+'*ÛWRLQWHUFHSWDQGSURFHHG
+via KCC R230 to KCC 6.0DME, turn left, 
+GLUHFWWR.&& VORTAC and hold at 3000FT.
+&RQWDFW&(175$,5$3P.
+KCC
+ÛÝ1ÛÝ(
+MDA
+1700
+(1654)
+4000
+Û
+Û
+Û
+10NM
+V$5Û:
+Û Û
+Û
+Û
+52005600
+49005200
+MSA 25NM
+KCC
+EQPT REQUIRED
+DME
+D12.0KCCARC
+270°
+360°
+Û
+Û
+R331
+Û
+Û
+RAIKO
+(FAF)
+D6.0 KCC
+YADAR
+(IF)
+D12.0 KCC
+Û
+3000
+1900
+MINIMA 
+CAT
+650 (604)
+690 (644)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 46
+A
+B
+C
+D
+&LUFOLQJWR($67VLGHRIRWY only.
+CHANGE :'HVFULSWLRQRI9$5
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-IAC-4
+NAGOYA
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+KCC
+4000 4100
+3000
+SHATI(IAF)
+Circling to EAST side of RWY only.
+ÛÝ1ÛÝ(
+GIFU AD
+RAIKO
+(FAF)
+YADAR
+(IF)
+MAPt
+D12.0KCCARC
+D15.0KCC
+ARC
+Û
+Û
+Û
+D19.0
+KCC
+RAIKO(FAF) : 1(
+YADAR
+(IF)
+D12.0 KCC
+MAPt
+KCC MHA 4100
+MAX 240KIAS
+SHATI(IAF)
+KCC R091/D10.0 KCC
+Û
+Û
+R331
+R099
+Û
+Û
+Û
+Û
+Û
+Û
+19001700
+(1654) MDA
+DME to KCC6.012.0
+Û
+Û
+Û
+RAIKO
+(FAF)
+D6.0 KCC
+RJNA / NAGOYA
+NAGOYA  VORTAC NAGOYA  TOWER
+118.7 - 122.7
+236.8 - 305.7
+RADAR  AVBL
+CALL CENTRAIR RADARCH-89X
+10NM
+114.2      KCC
+TACAN A
+MISSED APPROACH
+Turn left, climb to 4100FT via 
+KCC R131, turn left, via KCC 
+15.0DME counterclockwise ARC, 
+turn left, via KCC R091 to SHATI 
+and hold.
+Contact CENTRAIR APP .
+CENTRAIR APP
+121.05 – 119.175
+228.4 – 245.3
+V$5Û:
+MINIMA 
+CAT
+650 (604)
+690 (644)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+AD elev. 46
+A
+B
+C
+D
+EQPT REQUIRED
+–
+Û Û
+Û
+Û
+52005600
+49005200
+MSA 25NM
+KCC
+Timing not authorized for defining the MAPt.
+961
+1434
+1076
+23001578
+2060
+2064
+531
+532
+476
+1368
+2011
+1135 552
+702
+627
+1073
+10301115
+1079
+481
+395
+1162
+361
+1257
+355
+CHANGE : Description of VAR.
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-IAC-5
+NAGOYA
+
+
+=== Page 43 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ĸ
+ĺ
+ĺ
+ĸ
+ĸ
+ĸ
+6000
+
+RJNA / NAGOYA RNP RWY16
+CENTRAIR APP
+121.05 - 119.175
+228.4 - 245.3
+NAGOYA TOWER
+118.7 - 122.7
+236.8 - 305.7
+RADAR AVBL
+CALL CENTRAIR RADAR
+Baro-VNAV not authorized below -10䰳
+VAR 8˃W 
+25NM to DIMAC
+6700
+DIMAC
+IF
+070°
+242°
+070°
+(062.3°T)
+6.0
+(234.5°T)
+7.8
+242°
+DIMAC
+(IAF)
+5600 160°(152.5°T)3.3
+MONET(IF)
+MAX 230KIAS
+ORIBE
+(IAF)
+SHINO
+(IAF)
+5100
+160°(152.5°T)9.1
+IF
+IF
+5600
+340°
+070°
+242°
+ORIBE
+SHINO
+7600
+340°
+25NM to SHINO
+25NM to ORIBE
+180°
+360°
+10NM
+SHINO
+D16.2 KCC
+R319319°
+139°
+D22.0
+KCC
+MHA 5100
+MAX 230KIAS KCC
+VORTAC
+RNAV HLDG
+1MIN
+272°
+092°
+MHA 6000
+MAX 230KIAS
+ORIBE
+270°
+090°
+GIFU AD
+AQTOH
+(FAF)
+160°(152.5°T)6.0
+RW16
+(MAPt)
+R230
+HDG
+275˃230°NA651
+(MATF)
+R230/D6.0
+KCC
+DIMAC
+(IAF)
+ORIBE
+(IAF)
+SHINO
+(IAF)
+MONET
+(IF)
+AQTOH
+(FAF)
+RW16
+(MAPt)
+NA651
+(MATF)
+KCC
+(MAHF)
+VORTAC
+NAGOYA
+114.2
+CHʵ89X
+KCC
+ƍƎ1ƍƎ(
+1
+(
+1
+(
+1
+(
+1
+(
+35211
+(
+1
+(
+3511
+(
+1
+(
+NM to Next Fix FAF
+2000
+5
+1693
+4
+1375
+3
+1057
+2
+738
+MAPt
+-ALT (3.0° APCH Path)
+MONET
+(IF)
+AQTOH
+(FAF) VDP
+(LNAV)
+RW16
+(MAPt)
+KCC
+RDH 50MDA
+2000
+(1954)
+2900
+2000
+160°
+160°
+3.00°
+15.1 6.0 1.7 0 NM to THR
+MINIMA THR elev . 52 AD elev . 46
+LNAV/VNAV LNAV CIRCLINGCAT
+A
+B
+C
+D
+610 (558)
+DA(H) RVR/
+CMV
+1400
+1500
+1600
+1800
+610 (564)
+RVR/
+CMV
+1400
+1500
+1600
+1800
+MDA(H) MDA(H)
+650 (604)
+690 (644)
+1600
+2400
+3200
+VIS
+Circling to EAST side of RWY only .
+Turn right direct to NA651, turn left, direct to
+KCC and hold at 3000FT .
+Contact CENTRAIR APP.
+(For using VORTAC)
+TurQULJKW+'*ÛWRLQWHUFHSWDQGSURFHHG
+via KCC R230 to KCC 6.0DME, turn left
+direct to KCC VORTAC and hold at 3000FT .
+Contact CENTRAIR APP.
+MISSED APPROACH
+Using NAVAID
+NOT TO SCALE
+NOT TO SCALE
+313°
+133°
+MHA 3000
+MAX 230KIAS
+VORTAC
+NOT TO SCALE
+Using NAVAID
+NAGOYA
+(KCC)
+1073
+1433
+2300
+RNP APCH
+CHANGE :'HVFULSWLRQRI9$5
+(EFF:13 JUL 2023) 15/6/23
+RJNA AD2.24-IAC-6
+NAGOYA
+
+
+=== Page 44 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJNA / NAGOYA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+㧗ⶶᑎ䝇䝔䞊䝅䝵䞁 㻶㻾㧗ⶶᑎ㥐
+Kozoji Station Station
+䚷ධ㮵 ụ
+Iruka Pond
+୍ᐑ䝇䝔䞊䝅䝵䞁 㻶㻾ᑿᙇ୍ᐑ㥐
+Ichinomiya Station Station
+✄ἑ䝇䝔䞊䝅䝵䞁 㻶㻾✄ἑ㥐
+Inazawa Station Station
+୓ሙ኱ᶫ ᗉෆᕝ䛸ྡྂᒇ㧗㏿㐨㊰㻡ྕ୓ሙ⥺䛸䛾஺Ⅼ
+Manba Bridge Bridge
+㻖ྡྂᒇ䜲䞁䝍䞊䝏䜵䞁䝆 ᮾྡ㧗㏿㐨㊰䛾䜲䞁䝍䞊䝏䜵䞁䝆
+*Nagoya Interchange Interchange
+㻖⍞✑䜾䝷䜴䞁䝗 ⥲ྜ㝣ୖ➇ᢏሙ
+*Mizuho Ground Ground
+࡚ࡌ
+ࠋࡿ࠶࡛
+Note㸸The asterisk (*) indicates the visual reporting point where a pilot is to request
+            ATC clearance regarding to PCA and to make position report as required.
+/ 5.1NM
+085°T 5.9NM/
+294°T / 6.8NM
+6.4NM035°T
+CHANGE : VAR.
+/
+173°T / 8.0NM
+216°T / 7.3NM
+/ 7.0NM136°T
+Call sign BRG / DIST from ARP Remarks
+269°T
+MIZUHO GROUND
+ZUHO GROUN
+NAGOYA CONTROL ZONE
+NAG
+At
+GOYA CONTROL
+NAG
+At
+At or below 3000FT
+INAZAWA
+INAZAWA
+INAZAWA
+STATION
+STATION
+NAGOYA TOWER
+NAGOYA T
+236.8 
+YA T
+8 
+8 -
+TOWER
+T
+A T
+- 118.7
+IRUKA
+U A
+KOZOJI
+KOZOJI
+OO J
+STATION
+SO
+NAGOYA
+NAGOYA
+GO
+INTERCHANGE
+INTERCHANGE
+MANBA BRIDGE
+G
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+VAR 8
+R 8
+888888888888
+
+W(2024) /
+) / 4'W
+ICHINOMIYA
+ICHINOMIY
+CO
+STATION
+SO
+GIFU AD
+(EFF:13 JUN 2024) 16/5/24
+RJNA AD2.24-OTHER-1
+NAGOYA
+
+
+=== Page 45 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+VORTAC
+NAGOYA
+114.2 KCC
+CH-89X
+223 355
+197
+256
+203
+210
+217
+205
+214
+200
+76
+215
+204
+203
+212
+192 208
+179
+206 208
+118.7-122.7
+236.8-305.7
+PAPI ANGLE 3.0
+MEHT 20.5m(67ft)
+419m FM THR
+PAPI ANGLE 3.0
+MEHT 19.5m(64ft)
+437m FM THR
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+NAGOYA
+STATION
+BUILDING
+(See page
+         66-24)
+BUILDING
+(See page
+         AD2-16)
+552
+RVR
+RVR TWR
+ABN
+SCALE
+ELEV 46ft
+8990
+×150
+ft
+Asph-Conc
+34
+16
+53´ 55´ 57´
+18´
+16´
+14´
+35˚12´
+136˚59´
+1000 30000 1000
+500
+ft
+m0 1000 2000
+LDG CHARTRJNA / NAGOYACHANGE : VAR.
+ÛÝ1ÛÝ(
+VAR 8° W (2024)ANNUAL CHANGE 4’W
+(EFF:13 JUN 2024) 16/5/24
+RJNA AD2.24-OTHER-2
+NAGOYA
+
+
+=== Page 46 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMAYOGAN / ANJR
+CENTER 凬 345129N/1364811E (C 凬 CBE)
+CENTER 凬 351555N/1365454E (K 凬 KCC)
+11000
+5000
+6000
+15000
+8000
+K030˚
+7000
+12000
+8000
+6000
+(1)
+(1)
+(2)
+(3)
+(4)
+(5)
+343821N/1371935E
+342638N/1370237E
+342240N/1370744E
+341804N/1370143E
+340628N/1364640E
+(6)
+(7)
+(8)
+(9)
+(10)
+341414N/1362958E
+343322N/1362638E
+343442N/1363458E
+344656N/1363203E
+344507N/1362348E
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(10)
+(8)
+(9)
+5000
+11000
+4000
+2500䷶
+䷸䢢
+5000
+2500
+10000
+8000
+6000
+1900 3500
+3500
+䷵
+1800
+䷷䢢
+䷷䢢
+K092˚
+K113˚
+K133˚
+K146˚
+K164˚
+C137˚
+C179˚
+C277˚
+C310˚
+C325˚
+C342˚
+C332˚
+C356˚ C006˚K351˚
+1500
+3500
+C346˚
+K070˚
+2500
+䷵䢢 2000
+䷶䢢 3000
+䷷䢢 4000
+䷸䢢 5000
+CBE
+KCC
+VAR 8˚W (2024)
+C33NM
+C18NM
+K8NM
+K8NM
+K18N
+M
+K18N
+MK14NM
+K25NM
+K30NM
+K40NM
+K60NM
+K15NM
+K15NMK20NM
+C6NMC14NMC18NM
+C35NM
+C20NM
+C20NM
+C25NM
+C60NM
+C50NM
+C80NM
+C70NM
+XMT236˚
+LHT20NM
+7NM
+凬 343722N/1365140E 1
+2凬 343140N/1364148E
+1
+1 14NM
+1 21NM
+2
+2 20NM
+CHANGE : VAR.
+(EFF:17 APR 2025) 20/3/25
+RJNA AD2.24-OTHER-3
+NAGOYA
+

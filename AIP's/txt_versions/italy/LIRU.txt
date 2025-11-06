@@ -1,0 +1,913 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIRU 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIRU AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIRU AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIRU - ROMA/Urbe
+LIRU AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIRU AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+41°57'07''N 012°30'03''E *
+2 Direzione e distanza dalla città 3.24 NM NNW Roma
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+55 FT / 25.8° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+2° E (2005.0) / 5'E
+5 Autorità amministrativa aeroportuale ENAC - Direzione Territoriale Lazio
+Aeroporto "Leonardo Da Vinci"
+00054 Fiumicino (Roma)
+ Tel. +39 06 65953139
+ E-mail: laziofco.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale ENAC UOC Tel +39 06 88641451, fax +39 06 88643494
+ Aerodrome operator Authority Operational Office Tel +39 06 88641451, fax +39 06 88643494
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Roma/Urbe
+Tel: +39 06 88343022;
+ fax: +39 06 88343067
+e-mail: ci-romaurbe@enav.it
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aeroclub Tel +39 06 8120290/8120297
+2. Il pagamento in contanti di tasse e diritti aeroportuali non è accettato
+ Remarks 1. Aeroclub Tel +39 06 8120290/8120297
+2. Cash payments for airport charges are not accepted
+LIRU AD 2.3 ORARIO DEI SERVIZI
+LIRU AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0630-2100 (0530-2000)
+ Aerodrome Administration  
+2 Dogana ed immigrazione MON-FRI 0600-1600 (0500-1500)
+SAT-SUN 0600-1400 (0500-1300)
+ Customs and immigration  
+3 Servizio sanitario 0630-SS +30  (0530-SS +30 )
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+
+=== Page 2 ===
+AD 2 LIRU 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+   
+7 ATS 0630-1630 (0600-1800)
+   
+8 Rifornimento 0630-2100 (0530-2000)
+ Fuelling  
+9 Handling 0630-2100 (0530-2000)
+   
+10 Servizi di sicurezza H24
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+LIRU AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIRU AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+Sì
+ Repair facilities for visiting aircraft Yes
+7 Note 1. A1 e AVGAS 100LL disponibili anche esente da imposta, come segue: 0700 (0600)
+fino ad 1 ora prima del tramonto
+ Remarks 1. A1 and AVGAS 100LL available also duty-free, as follows: 0700 (0600) until 1 hour
+before SS
+LIRU AD 2.5 SERVIZI PER I PASSEGGERI
+LIRU AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti NIL
+ Restaurants  
+3 Trasporti Taxi O/R, Bus
+ Transportation  
+4 Servizio medico Servizio medico assicurato da C.R.I.
+Equipaggiamento: 2 ambulanze
+ Medical facilities Medical assistance assured by C.R.I.(Italian Red Cross)
+Rescue equipment: 2 ambulances
+5 Banca e ufficio postale Sportello Bancomat
+ Bank and Post office Cash dispenser
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIRU 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIRU AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIRU AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio corrispondente a H2
+ Aerodrome category for fire fighting Fire fighting protection corresponding to H2
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Il servizio antincendio è a pagamento ed è fornito in base alle tariffe approvate
+dall’ENAC
+ Remarks 1. Fire fighting service is provided against payment of a charge as approved by Civil
+Aviation Authority (ENAC)
+LIRU AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIRU AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIRU AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIRU AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron BITUMCONG PCN 50/F/C/W/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+C 12.0 M BITUMCONG PCN 78/F/C/W/T
+N 12.0 M BITUMCONG PCN 19/F/D/W/T
+S 12.0 M BITUMCONG PCN 31/F/C/W/T
+T 12.0 M BITUMCONG PCN 25/F/C/W/T
+W 12.0 M BITUMCONG PCN 19/F/D/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. Si raccomanda ai piloti precauzione sul piazzale, a causa della presenza di
+fessurazioni sulla pavimentazione.
+ Remarks 1. Pilots are advised to taxi with caution on the apron due to crackings on the paving.
+LIRU AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+
+=== Page 4 ===
+AD 2 LIRU 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIRU AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedere AD 2 LIRU 2-1 in vigore
+ RWY and TWY markings and lights See AD 2 LIRU 2-1 in force
+3 Barre d'arresto Sui raccordi C, N e S: segnaletica orizzontale (pattern A - colore giallo associato al
+marking bianco/rosso di pista ed alle tabelle indicatrici)
+ Stop bars On TWY C, N and S: marking (pattern A - yellow associated to white/red RWY
+marking and vertical signs)
+4 Note 1. Segnaletica orizzontale di indicazione del limite fisico del piazzale di sosta (“END
+OF APRON” - giallo/nero)
+2. Segnaletica verticale (tabelle indicatrici non luminose) sulle vie di circolazione e sul
+limite apron
+ Remarks 1. Apron limits marking (“END OF APRON” - yellow/black)
+2. Vertical signs: not lighted signs on TWY and apron
+LIRU AD 2.10 OSTACOLI AEROPORTUALI
+LIRU AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+RWY 34 Edificio\Building
+81 M AMSL
+NIL
+NIL NIL NIL 1. Ubicato 1550 m
+prima della testata
+pista 34, 210 m a
+destra /
+Placed 1550 m
+before RWY head 34,
+210 m right side
+Vedi AOC in vigore - See AOC in force
+LIRU AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIRU AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 9H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO ROMA, telefono Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO ROMA, telephone Consultation: ITALY MFU, telephone
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIRU 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Urbe TWR
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO ROMA: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le nubi con altezza della base al di sotto di 5000ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO ROMA: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 5000ft and
+cumulonimbus or towering cumulus with any base height are considered
+operatively relevant
+LIRU AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIRU AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+16 NIL 1084 x 30
+PCN 49/F/C/W/T
+BITUMCONG
+41°57'21.75''N
+012°30'01.62''E
+54.9 FT / NIL
+34 NIL 1084 x 30
+PCN 49/F/C/W/T
+BITUMCONG
+41°56'59.67''N
+012°30'12.30''E
+54.1 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+16 -0.3% NIL 70 x 80 1204 x 80 NIL
+34 + 0.3% NIL 80 x 80 1204 x 80 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+16 NIL
+1) DTHR 110 m
+2) Testate in conglomerato bituminoso / heads bituminous conglomerate PCN 78/F/C/W/T
+34 NIL
+1) DTHR 250 m
+2) Testate in conglomerato bituminoso / heads bituminous conglomerate PCN 85/F/C/W/T
+
+=== Page 6 ===
+AD 2 LIRU 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIRU AD 2.13 DISTANZE DICHIARATE
+LIRU AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+16 1084 1154 1084 974
+34 1084 1164 1084 834
+NOTE
+REMARKS
+NIL
+LIRU AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIRU AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+16 NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+34 NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+16 NIL NIL NIL NIL NIL NIL NIL NIL
+34 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+16 NIL NIL NIL NIL NIL NIL
+34 NIL NIL NIL NIL NIL NIL
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIRU 1 - 7
+AIRAC effective date 03 OCT 2024
+ENAV - Roma (A10/24)
+LIRU AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIRU AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+AnemometrI:
+1) Circa 510 m dopo THR RWY 16, 165 m lato destro RCL
+2) Circa 290 m dopo THR RWY 16, 150 m lato destro RCL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometers:
+1) About 510 m after THR RWY 16, 165 m right side RCL
+2) About 290 m after THR RWY 16, 150 m right side RCL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIRU AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIRU AD 2.16 HELICOPTER LANDING AREA
+1 Posizione Coordinate: 41°57’15.74’’ N 012°30’09.21’’ E
+ Position Coordinates: 41°57’15.74’’ N 012°30’09.21’’ E
+2 Elevazione 17 m / 56 ft 
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+Dimensioni: FATO 40 m x 30 m TLOF 13 m x 13 m
+Superficie: conglomerato bituminoso
+Resistenza: PCN 32/F/C/W/T
+Segnaletica: segnaletica orizzontale ICAO di eliporto; bordo FATO:
+tratti bianchi di lunghezza 9 m spessore 1 m; area interna FATO:
+colore azzurro; bordo quadrato TLOF: linea bianca spessore 50 cm;
+delimitazione Touchdown Area: cerchio giallo spessore 50 cm; H e
+nominativo “URBE”: colore bianco.
+Vedi anche AD 2 LIRU 2-3
+ Dimensions, surface, strength, marking Dimensions: FATO 40 m x 30 m TLOF 13 m x 13 m
+Surface: bituminous conglomerate
+Strength: PCN 32/F/C/W/T
+Marking: ICAO heliport markings; FATO edge: white line of 9 m
+length 1 m thick; FATO inner area: blue; TLOF square edge: white
+line 50 cm; Touchdown Area: yellow circle 50 cm thick; H and
+“URBE” call sign: white.
+See also AD 2 LIRU 2-3
+4 Orientamento 159°-339° (16-34)
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+
+=== Page 8 ===
+AD 2 LIRU 1 - 8
+AIRAC effective date 03 OCT 2024 AIP - Italia
+(A10/24) ENAV - Roma
+6 Luci 1) ICAO APCH PATH 16: lunghezza 90 m, 7 luci bianche HI, fisse, omnidirezionali,
+barra trasversale lunghezza 18 m composta da 5 luci
+2) HAPI 16: 6° MEHT 5.2 m 
+3) FATO: 24 luci bianche HI, omnidirezionali, sul perimetro del rettangolo
+4) TLOF: 20 luci gialle, omnidirezionali HI, sul perimetro del quadrato; 8 luci bianche
+HI, unidirezionali, radenti, su due lati del quadrato
+5) Scritta nominativo "URBE": due luci bianche HI, unidirezionali, radenti
+6) Luci blu omnidirezionali di bordo taxiway per collegamento tra FATO e piazzale di
+sosta elicotteri limitrofo alla TWR
+7) Torre faro di illuminazione del piazzale di sosta elicotteri limitrofo alla TWR
+8) Comando via radio per accensione di tutti gli impianti di segnalazione luminosa
+dell'eliporto, della taxiway e del piazzale di sosta elicotteri
+9) Faro di eliporto sulla TWR: 2 lampade Xenon funzionanti in alternanza
+Vedi anche AD 2 LIRU 2-3 
+ Lighting 1) ICAO APCH PATH 16: 90 m length, 7 steady omnidirectional, white lights HI,
+transversal bar 18 m length consisting of 5 lights
+2) HAPI 16: 6° MEHT 5.2 m
+3) FATO: 24 white lights HI, omnidirectional, on the perimeter of the rectangle
+4) TLOF: 20 yellow lights, omnidirectional HI, on the perimeter of the square; 8
+white lights HI, one-way directional, inset, on two sides of the square
+5) Call sing “URBE”: two white ligths HI, one-way directional, inset
+6) Taxiway edge blue omnidirectional lights for the connection between FATO area
+and helicopters apron near the TWR
+7) Tower beacon to light up helicopters apron near the TWR
+8) Radio controlled switch of all lighting signs systems of the heliport, of taxiway and
+of helicopters apron area
+9) Heliport beacon on the TWR: 2 Xenon lamps working alternatively
+See also AD 2 LIRU 2-3
+7 Note 1. Nessun ostacolo
+ Remarks 1. No obstacles
+LIRU AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIRU AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Roma Urbe ATZ
+41°59'00"N 012°24'31"E;
+42°01'12"N 012°26'10"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+41°57'07"N
+012°30'03"E till point
+41°59'48"N 012°35'43"E;
+41°57'40"N 012°35'48"E;
+41°55'36"N 012°31'30"E;
+41°55'20"N 012°28'09"E;
+to point of origin.
+1500 FT
+AMSL
+G
+Urbe TWR
+EN/IT
+6000 FT
+1) WI Roma FIR
+2) Aeroporto controllato/
+Controlled aerodrome
+LIRU AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIRU AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 0630-1630 (0600-1800)
+NIL
+TWR Urbe GND 122.700 0630-1630 (0600-1800) NIL
+TWR Urbe TWR 123.800 0630-1630 (0600-1800) NIL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIRU 1 - 9
+AIRAC effective date 03 OCT 2024
+ENAV - Roma (A10/24)
+LIRU AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIRU AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Urbe
+Gonio
+Homer
+NIL
+0630-1630
+(0600-1800)
+41°57'11.7''N
+012°29'59.8''E
+NIL
+limitazioni a/limitations at
+25 NM
+020°/220° MRA 5000 FT
+limitazioni a/limitations at
+30 NM
+220°/280° MRA 5000 FT
+280°/020° MRA 4000 FT
+ 
+1) VDF:
+disponibile su richiesta
+su tutte le frequenze di
+TWR ed  emergenza /
+available on request on
+all frequencies of TWR
+and emergency
+2) HR:
+0630-1630 (0600-1800)
+3) COORD: dato non
+WGS84 / datum not
+WGS84
+LIRU AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIRU AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+Area di movimento sud delimitata da segnaletica orizzontale di "fine
+piazzale" (fascia a scacchi giallo/neri con scritta "END OF APRON")
+South movement area limited by markings (“END OF APRON” on
+yellow/black checked background)
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+3.1. Al fine di rispettare le distanze di sicurezza sull'area di manovra,
+l'utilizzo delle vie di rullaggio è limitato agli aeromobili di codice A e B.
+A richiesta, gli aeromobili di codice B sono soggetti ad essere trainati
+per rullaggio assistito. Tutto il traffico sarà istruito dalla torre sulla
+frequenza GND 122.700
+3.1. In order to respect safety distance on manoeuvring area, TWY
+use is limited to code A and B aircraft. On request code B aircraft are
+subject to be towed for assisted taxiing. All traffic will be instructed by
+TWR on GND frequency 122.700
+3.2. Durante le ore operative notturne il rullaggio nelle aree non
+illuminate è consentito solo con il follow-me
+3.2. During night operational hours taxiing in not lighted area is
+allowed only with the follow-me car
+3.3. All’interno dell’Apron Sud gli aeromobili ad ala fissa a turbina e gli
+elicotteri con diametro rotore principale superiore a 12 m (40ft), sono
+soggetti ad essere trainati per rullaggio assistito
+3.3. Fixed wing jet engine aircraft and helicopters with main rotor
+diameter larger than 12 m (40ft), on Apron Sud, are subject to be
+towed for assisted taxiing
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Attività di volo dopo il tramonto: in base alla disposizione NR
+136 del 4 Febbraio 1991 della Direzione Circoscrizionale, nei 30’ dopo
+il tramonto, secondo le effemeridi, il decollo e l’atterraggio saranno
+consentiti soltanto ai piloti ed aeromobili abilitati all’IFR.
+6.1. Flying activity after sunset: according to provision NR 136 dated 4
+February 1991 of the Airport Authority, in the period of 30’ after sunset,
+according to ephemeris data, take-off and landing will be allowed only
+to IFR certified aircraft and IFR qualified pilots.
+6.2. Concentrazione di volatili sull’area di manovra e nelle sue
+vicinanze.
+6.2. Concentration of birds on and in the vicinity of the manoevring
+area.
+6.3. Atterraggi e decolli su LIRU AD dei voli internazionali da/per i paesi
+della Comunità Europea ed extraeuropei sono soggetti a PPR almeno
+90 minuti prima dell’ETA o ETD all’ufficio dogana di Roma/Ciampino
+(Tel/Fax +39 06 79340122)
+6.3. Landing and take-off from/to LIRU AD of international flights to/
+from European Community and non-european countries are subject to
+PPR at least 90 minutes before ETA or ETD to Roma/Ciampino custom
+office (Tel/Fax +39 06 79340122)
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+
+=== Page 10 ===
+AD 2 LIRU 1 - 10
+AIRAC effective date 03 OCT 2024 AIP - Italia
+(A10/24) ENAV - Roma
+A causa della mancanza di un sistema di indicatore visivo dell’angolo
+di avvicinamento (VASIS) gli atterraggi non sono permessi agli
+aeromobili a propulsione a getto quando operano in condizioni di
+trasporto pubblico ed in configurazione maggiore o uguale a 10
+passeggeri o con peso massimo al decollo maggiore di 5700 kg come
+prescritto dal manuale ENAC sugli aeroporti
+Due to lack of visual approach slope indicator system (VASIS) landing
+is not permitted to Jet propeller aircraft when operating in public
+transport activity and with configuration of ten passengers or more or
+maximum take off weight more than 5700 kg as prescribed by Civil
+Aviation Authority aerodrome manual
+LIRU AD 2.21 PROCEDURE ANTIRUMORE
+LIRU AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIRU AD 2.22 PROCEDURE DI VOLO
+LIRU AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+Non sono consentiti voli IFR all'interno di ROMA Urbe ATZ. IFR flights are not allowed within ROMA Urbe ATZ.
+2.2 Aeromobili in arrivo 2.2 Arriving aircraft
+Qualora si intenda interessare la TMA di Roma la pianificazione del
+volo deve prevedere il cambio delle regole di volo sul punto LOCRI a
+3000Ft.
+Qualora il pilota, su LOCRI, non riscontri le condizioni per il cambio
+delle regole di volo, potrà richiedere di effettuare una procedura di
+avvicinamento su LIRA al fine del raggiungimento delle stesse.
+When it is intended to affect Roma TMA, the flight planning must
+provide for the change of the flight rules on LOCRI point at 3000 ft.
+  
+When the pilot, on LOCRI, doesn't experience the conditions for
+the change of flight rules, he may request to perform an approach
+procedure on LIRA in order to reach them.
+2.3 Aeromobili in partenza 2.3 Departing airtcraft
+Qualora si intenda interessare la TMA di Roma la pianificazione del volo
+deve preferibilmente prevedere il cambio delle regole di volo su KASCI
+a 3000 ft.
+When it is intended to affect Roma TMA, the flight planning must
+preferentially provide for the change of the flight rules on KASCI at
+3000 ft.
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+4.1.1. L'attività di volo nel circuito di traffico aeroportuale è
+regolamentata come di seguito indicato:
+a. di giorno, in accordo ai minimi VFR riportati in ENR 1.2, 2)
+b. è richiesto il contatto radio bilaterale continuo
+c. in caso di visibilità al suolo inferiore a 5 km e fino a 1500 m, possono
+essere autorizzati ad operare, a discrezione del controllore di TWR,
+fino ad un massimo di 3 aeromobili contemporaneamente, comprese
+operazioni di decollo e atterraggio
+4.1.1. Flight activity in the aerodrome traffic circuit is regulated as
+follows:
+a. during day, according to VFR minima reported in ENR 1.2, 2)
+b. continuous two-way radio contact is required
+c. when the ground visibility is less than 5 km but not less than 1500
+m, a maximum of 3 aircraft may be authorised, at TWR controller
+discretion, to operate simultaneously, including landing and takeoff
+operations
+NOTA
+Allo scopo di non superare il numero massimo di tre aeromobili
+nel circuito di traffico di aeroporto, ai voli addestrativi può
+essere richiesto temporaneamente, dal controllore di TWR, di
+atterrare o di lasciare il circuito di traffico di aeroporto per
+attendere al di fuori dell'ATZ.
+REMARK
+For the purpose of never exceed the maximum amount of three
+aircraft in the aerodrome traffic circuit, training flights may
+temporarily be requested, by the TWR controller, either to land
+or to leave the aerodrome traffic circuit to hold outside the ATZ.
+4.1.2. I piloti dei voli VFR che operino in spazi aerei classificati G e che
+intendano entrare nell'ATZ di Roma Urbe, se non riescono a stabilire
+4.1.2. Pilots of VFR flights operating in class G airspaces
+intending to enter Roma Urbe ATZ, if unable to establish bilateral
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIRU 1 - 11
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+comunicazione radio bilaterale con l'unita ATS Urbe TWR dovranno
+contattare Roma ACC/FIC per inoltrare la richiesta ed attendere
+istruzioni prima di procedere.
+radiocommunication with Urbe TWR ATS unit shall contact Roma ACC/
+FIC to relay the request and wait for instructions before proceeding.
+4.2 Attività di circuito 4.2 Circuit activity
+Nessuna restrizione applicata No restriction applied
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+4.7.1. VFR/N consentito solo agli elicotteri HR SS+30-2100 (SS
++302000)
+4.7.1. VFR/N permitted only to helicopters HR SS+30-2100 (SS
++302000)
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIRU AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIRU AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIRU AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIRU AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIRU 2 - 1
+AERODROME CHART ICAO HELICOPTER LANDING AREA  AD 2 LIRU 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 16/34  AD 2 LIRU 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIRU 3 - 3
+ICAO VISUAL APPROACH CHART  AD 2 LIRU 5 - 1
+Carte - Charts Pagine - Pages 
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIRU AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIRU AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 12 ===
+AD 2 LIRU 1 - 12
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+

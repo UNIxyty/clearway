@@ -1,0 +1,883 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIQW 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIQW AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIQW AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIQW - SARZANA/Luni
+LIQW AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIQW AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+44°05'12''N 009°59'17''E *
+2 Direzione e distanza dalla città 2 NM SE Sarzana
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+46 FT / 31.9° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+4° E (2025.1) / 8'E
+5 Autorità amministrativa aeroportuale Aeronautica Militare-Distaccamento aeroportuale Sarzana Luni
+Via Ghiarettolo, 101
+19038 Sarzana (SP)
+ Centralino +390187675238
+ E-mail: aeropdistlunisarzana@aeronautica.difesa.it
+ENAC - DT Nord-Ovest
+Aeroporto “Sandro Pertini”
+10072 – Caselle Torinese (TO)
+ Tel +39 0115678407/5678413/5676800
+ Fax +39 011 4704320
+ Pec: protocollo@pec.enac.gov.it
+ E-mail: nordovest.apt@enac.gov.it
+Ufficio Aeroportuale di Genova
+16154 - Genova Sestri Ponente
+Tel +39 010 6512309/729
+ Fax +39 010 6503258
+ Aerodrome administration authority  
+ 
+ 
+ Gestore aeroportuale Aeronautica Militare
+ Aerodrome operator Italian Air Force
+ Autorità ATS Aeronautica Militare
+ARO-CBO Pisa  tel +39 050928483 +39 050928486
+e-mail: aerobrigata46.log.uiv@aeronautica.difesa.it
+TWR tel +39 0187 272471
+e-mail: aeropdistlunisarzana.ats@aeronautica.difesa.it
+ ATS authority Italian Air Force
+ARO-CBO Pisa tel +39 050928483 +39 050928486
+e-mail: aerobrigata46.log.uiv@aeronautica.difesa.it
+TWR tel +39 0187 272471
+e-mail: aeropdistlunisarzana.ats@aeronautica.difesa.it
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aeroporto militare aperto al traffico civile federato con ‘Aeroclub Italia’ autorizzato
+dall’Ente Nazionale Aviazione Civile (ENAC) previo nulla osta dello ‘Stato Maggiore
+Aeronautica’
+2. ACB tel +39 0187 673180, fax +39 0187 914840
+E-mail: aeroclubsarzana@tiscali.it
+Direttore dei voli tel +39 328 8112642
+
+=== Page 2 ===
+AD 2 LIQW 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+3. Codice di riferimento Annesso 14 per infrastruture di volo: 2B
+ 
+ Remarks 1. Military aerodrome open to civil air traffic belonging to ‘Aeroclub Italia’ authorized
+by Civil Aviation Authority (ENAC) previous consent by ‘Stato Maggiore
+Aeronautica’
+2. ACB tel +39 0187 673180, fax +39 0187 914840
+E-mail: aeroclubsarzana@tiscali.it
+Flights director tel +39 328 8112642
+3. Reference code Annex 14 flight infrastructure: 2B
+ 
+LIQW AD 2.3 ORARIO DEI SERVIZI
+LIQW AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL e 30 NOV servizio non disponibile
+ Aerodrome Administration MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL and NOV 30 service not available
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario Non assicurato
+ Health and sanitation Not assured
+4 AIS Briefing Office H24 ARO-CBO Pisa
+   
+5 ARO H24 ARO-CBO Pisa
+   
+6 METEO Briefing Office MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL e 30 NOV servizi non disponibili
+  MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL and 30 NOV services not available
+7 ATS MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL e 30 NOV servizi non disponibili
+  MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL and 30 NOV services not available
+8 Rifornimento O/R
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. METEO Briefing Office: è richiesto il preventivo contatto telefonico a COAMET - Sala
+previsioni di Poggio Renatico (Vedi Tabella 11)
+ Remarks 1. METEO Briefing Office: previous phone contact is requested to COAMET - Sala
+previsioni di Poggio Renatico (See Table 11)
+LIQW AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIQW AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio 100LL / NIL
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIQW 1 - 3
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+LIQW AD 2.5 SERVIZI PER I PASSEGGERI
+LIQW AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi; bus a 500 m
+ Transportation Taxi; bus at 500 m
+4 Servizio medico In città
+ Medical facilities In town
+5 Banca e ufficio postale In città
+ Bank and Post office In town
+6 Ufficio turistico In città
+ Tourist office In town
+7 Note Bar
+ Remarks Bar
+LIQW AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIQW AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso Disponibile
+ Rescue equipment AVBL
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Per attivare le procedure per il servizio contattare l’Aeroclub locale. Vedi item 2,
+punto 7, nota 2)
+ Remarks 1. To activate the procedures for the service contact local ACB. See item 2, point 7,
+remark 2)
+LIQW AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIQW AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+
+=== Page 4 ===
+AD 2 LIQW 1 - 4
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIQW AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIQW AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+ACB Apron CONC/ASPH NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+TWY N 15.0 M CONC/ASPH NIL
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIQW AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIQW AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+TWY e guida ai parcheggi: strisce gialle
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+TWY and parking guidance: yellow strips
+2 Illuminazione e segnaletica per RWY e TWY Segnalazioni diurne:
+non conforme agli standard ICAO.
+Luci: non conforme agli standard ICAO.
+ RWY and TWY markings and lights Markings aids:
+not in accordance with ICAO Standard.
+Lights: not in accordance with ICAO Standard.
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note 1. Follow-me non disponile
+ Remarks 1. Follow-me car not available
+LIQW AD 2.10 OSTACOLI AEROPORTUALI
+LIQW AD 2.10 AERODROME OBSTACLES
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIQW 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIQW AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIQW AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+COAMET - Sala previsioni di Poggio Renatico
+2 Orario di servizio
+ Hours of service
+MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL e 30 NOV chiuso
+MON-THU 0700-1500 (0600-1400)
+FRI 0700-1100 (0600-1000)
+SAT, HOL and 30 NOV closed
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+COAMET Poggio Renatico / 9H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing orale/ telefono
+ Briefing and consultation provided Oral briefing/ phone
+6 Documentazione di volo e
+lingua usata
+Carte di rotta/ IT/EN
+ Flight documentation and
+language used
+Enroute chart/ IT/EN
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Sarzana TWR
+
+=== Page 6 ===
+AD 2 LIQW 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. COAMET - Sala previsioni di Poggio Renatico:
+Tel. e fax: +39 0532 828195
+Email: aerocoa.aoc.smv@aeronautica.difesa.it
+2. TAF emessi:
+Periodo invernale:
+• MON-THU 0700-1500, 0900-1800, 1200-2100, 1500-2400
+• FRI 0700-1500, 0900-1800
+Periodo estivo:
+• MON-THU 0600-1500, 0900-1800, 1200-2100
+• FRI 0600-1500, 0900-1800
+SAT, HOL e 30 NOV non disponibili
+ Climatological information and additional
+information
+1. COAMET - Sala previsioni di Poggio Renatico:
+Tel. and fax: +39 0532 828195
+Email: aerocoa.aoc.smv@aeronautica.difesa.it
+2. TAF issued:
+Winter time:
+• MON-THU 0700-1500, 0900-1800, 1200-2100, 1500-2400
+• FRI 0700-1500, 0900-1800
+Summer time:
+• MON-THU 0600-1500, 0900-1800, 1200-2100
+• FRI 0600-1500, 0900-1800
+SAT, HOL and 30 NOV not available
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIQW 1 - 7
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIQW AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIQW AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+18 180.85° 1099 x 23
+PCN 21/F/C/W/T
+ASPH
+44°05'21.82''N
+009°59'16.82''E
+37.7 FT / NIL
+36 000.85° 1099 x 23
+PCN 21/F/C/W/T
+ASPH
+44°05'00.54''N
+009°59'16.47''E
+16.4 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+18 -1% NIL 15 x 80 1219 x 80 NIL
+36 +1% NIL 62 x 80 1219 x 80 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+18 NIL
+1) DTHR 248 m
+2) Uniformità e compattezza dei bordi pista 18/36 e della striscia erbosa adiacente non garantita/
+Uniformity and compactness of RWY 18/36 edges and adjacent grass strip not granted
+36 NIL
+1) DTHR 194 m 
+2) Uniformità e compattezza dei bordi pista 18/36 e della striscia erbosa adiacente non garantita/
+Uniformity and compactness of RWY 18/36 edges and adjacent grass strip not granted
+LIQW AD 2.13 DISTANZE DICHIARATE
+LIQW AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+18 1099 1114 1099 851
+36 1099 1161 1099 905
+NOTE
+REMARKS
+NIL
+LIQW AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIQW AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 8 ===
+AD 2 LIQW 1 - 8
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+36 NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+18 NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIQW 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIQW AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIQW AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 44°05'22''N   009°59'02''E
+Caratteristiche: ABN rotante a luce bianca/verde alternata
+Orario: HO
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 44°05'22''N   009°59'02''E
+Characteristics: ABN revolving white/green alternating light
+Hours: HO
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: 1 ad ultrasuoni a circa metà della RWY 18/36. Illuminato
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: 1 ultrasonic at approximately halfway RWY 18/36. Lighted
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+Disponibile/NIL
+ Secondary power supply/Switch over time Available/NIL
+5 Note NIL
+ Remarks  
+LIQW AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIQW AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note 1. Area di atterraggio elicotteri disponibile solo per l’attività militare
+ Remarks 1. Landing area available for Military activity only
+
+=== Page 10 ===
+AD 2 LIQW 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIQW AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIQW AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Sarzana Luni ATZ
+Circular area centered on
+44°05'20"N 009°59'20"E
+within a 3.0 NM radius.
+2000 FT
+AMSL
+G
+Sarzana TWR
+EN/IT
+NIL
+1) WI Milano FIR
+2) Aeroporto controllato/
+Controlled aerodrome
+LIQW AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIQW AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500
+MON-THU 0700-1500
+(0600-1400) FRI
+0700-1100 (0600-1000)
+1) HR: Servizi non disponibili:
+SAT, HOL e 30 NOV/Services not
+available: SAT, HOL and 30 NOV
+TWR Sarzana TWR 119.650
+MON-THU 0700-1500
+(0600-1400) FRI
+0700-1100 (0600-1000)
+1) HR: Servizi non disponibili:
+SAT, HOL e 30 NOV/Services not
+available: SAT, HOL and 30 NOV
+2) Negli orari e nei periodi di
+indisponibilità del servizio di TWR,
+la FREQ  è assegnata alla procedura
+informazioni di traffico trasmesse
+dall'aeromobile (TIBA) e non deve
+essere utilizzata per scopi ATS/
+During HR and periods of TWR
+service unavailability, the FREQ is
+assigned to the traffic information
+broadcast by aircraft (TIBA) and
+must not be used for ATS purposes
+TWR Sarzana TWR 122.100
+MON-THU 0700-1500
+(0600-1400) FRI
+0700-1100 (0600-1000)
+1) HR: Servizi non disponibili:
+SAT, HOL e 30 NOV/Services not
+available: SAT, HOL and 30 NOV
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIQW 1 - 11
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIQW AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIQW AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIQW AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIQW AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Aeroporto militare aperto al traffico civile federato con ‘Aeroclub
+Italia’ autorizzato dall’Ente Nazionale Aviazione Civile (ENAC) previo
+nulla osta dello ‘Stato Maggiore Aeronautica’
+6.1. Military aerodrome open to civil air traffic belonging to ‘Aeroclub
+Italia’ authorized by Civil Aviation Authority (ENAC) previous consent
+by ‘Stato Maggiore Aeronautica’
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIQW AD 2.21 PROCEDURE ANTIRUMORE
+LIQW AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIQW AD 2.22 PROCEDURE DI VOLO
+LIQW AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+
+=== Page 12 ===
+AD 2 LIQW 1 - 12
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+4.1.1. L'attività di volo nel circuito di traffico aeroportuale è
+regolamentata come di seguito indicato:
+a. di giorno, in accordo ai minimi VFR riportati in ENR 1.2, 2)
+b. è richiesto il contatto radio bilaterale continuo
+c. in caso di visibilità al suolo inferiore a 5 km e fino a 1500 m, possono
+essere autorizzati ad operare, a discrezione del controllore di TWR,
+fino ad un massimo di 3 aeromobili contemporaneamente, comprese
+operazioni di decollo e atterraggio
+NOTA
+Allo scopo di non superare il numero massimo di tre aeromobili
+nel circuito di traffico di aeroporto, ai voli addestrativi può
+essere richiesto temporaneamente, dal controllore di TWR, di
+atterrare o di lasciare il circuito di traffico di aeroporto per
+attendere in specifiche zone all'interno o al di fuori dell'ATZ.
+d. fuori dalle nubi in contatto visivo con il suolo e/o con l'acqua
+e. gli aeromobili in decollo devono dare la precedenza agli aeromobili
+in atterraggio
+f.gli aeromobili in addestramento che operano nel circuito di traffico
+di aeroporto devono dare la precedenza agli aeromobili in decollo
+che intendono uscire dal circuito di traffico di aeroporto
+4.1.1. Flight activity in the aerodrome traffic circuit is regulated as
+follows:
+a. during day, according to VFR minima reported in ENR 1.2, 2
+b. continuous two-way radio contact is required
+c. when the ground visibility is less than 5 km but not less than 1500
+m, a maximum of 3 aircraft may be authorised, at TWR controller
+discretion, to operate simultaneously, including landing and take-
+off operations
+REMARK
+For the purpose of never exceed the maximum amount of three
+aircraft in the aerodrome traffic circuit, training flights may
+temporarily be requested, by the TWR controller, either to land
+or to leave the aerodrome traffic circuit to hold in appropriate
+areas either within or outside the ATZ.
+d. clear of cloud and with the surface in sight
+e. departing aircraft shall give way to landing aircraft
+                 
+f.training aircraft operating in the aerodrome traffic circuit shall give
+way to departing aircraft intending to leave the aerodrome traffic
+circuit
+4.1.2. In condizioni di visibilità al suolo inferiore a 1500 m, agli
+elicotteri in VFR è fornito solo il servizio informazioni volo aeroportuale.
+4.1.2. When ground visibility is less than 1500 m, VFR helicopters will
+be provided with aerodrome flight information service only.
+4.1.3. Durante l'orario in cui è fornito il servizio di controllo di
+aeroporto, i voli in entrata, in uscita e all'interno di Sarzana/Luni
+ATZ istituita come zona radio obbligatoria (RMZ), devono stabilire
+e mantenere un contatto radio aria/terra con Sarzana TWR sulla
+frequenza 119.650 MHz.
+4.1.3. During time the aerodrome control service is provided, the
+flights entering, going outside and operating within Sarzana/Luni ATZ
+set as mandatory radio zone (RMZ) shall establish and maintain air/
+ground radio contact with Sarzana TWR on frequency 119.650 MHz.
+4.1.4. Quando il servizio ATS non è fornito, è attivo il TIBA secondo
+quanto riportato in ENR 1.1 sulla frequenza 119.650 MHz. Eventuali
+attraversamenti dell' ATZ di Sarzana/Luni devono essere effettuati
+prestando particolare attenzione alla possibile presenza di traffico
+aereo militare e/o civile autorizzato.
+4.1.4. When ATS is not provided, TIBA is active according to ENR 1.1 on
+frequency 119.650 MHz. Any crossings of Sarzana/Luni ATZ must be
+carried out paying particular attention to possible presence of military
+and/or authorized civil air traffic.
+4.2 Attività di circuito 4.2 Circuit activity
+Circuito di traffico: a destra per RWY 36 e a sinistra per RWY 18, 1200
+ft AMSL
+Traffic circuit: right for RWY 36 and left for RWY 18, 1200 ft AMSL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIQW 1 - 13
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIQW AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIQW AD 2.23 ADDITIONAL INFORMATION
+1. Area di movimento disponibile con precauzione causa lavori di sfalcio
+erba.
+Presenza di uomini e mezzi in contatto radio con la TWR.
+1. Movement area available with caution due to grass cutting work.
+Presence of men and equipment in radio contact with TWR.
+LIQW AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIQW AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME LANDING CHART  AD 2 LIQW 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 18/36  AD 2 LIQW 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIQW 3 - 3
+LIQW AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIQW AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 14 ===
+AD 2 LIQW 1 - 14
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+

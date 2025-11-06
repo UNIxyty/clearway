@@ -1,0 +1,1498 @@
+=== Page 1 ===
+AIP Japan
+TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD2-1
+AD 2 AERODROMES
+RJBT AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJBT - TAJIMA
+RJBT AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJBT AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 353046N/1344713E
+003°/0.6km FM RWY 01 THR
+2 Direction and distance from (city) 2.6NM SW from TOYOOKA city
+3 Elevation/ Reference temperature 578ft / 31°C(2015-2019)
+4 Geoid undulation at AD ELEV PSN To be developed
+5 MAG VAR/ Annual change 8°W(2020) /  5'W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+TAJIMA AIRPORT TERMINAL CO.,LTD.
+1598-34, Aza-Kodani, Iwai, Toyooka-city, Hyogo Pref.
+Tel: 0796-26-1500 Fax: 0796-26-1501
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Nil
+1 AD Administration 2330 - 0930
+2 Customs and immigration On request
+Customs: 078-333-3010
+Immigration: 078-391-6377
+3 Health and sanitation Quaranti ne(human): On request(078-672-9653)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office Nil
+7 ATS 2330 - 0930
+Remarks: AFIS provided by Osaka Airport Office.
+8 Fuelling 2330 - 0930
+9 Handling 2330 - 0930
+10 Security 0015 - 0915
+11 De-icing Nil
+12 Remarks Nil
+(EFF:1 OCT 2021) 12/8/21
+
+
+=== Page 2 ===
+RJBT AD2-2                      AIP Japan
+                     TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD 2.4 HANDLING SERVICES AND FACILITIES
+RJBT AD 2.5 PASSENGER FACILITIES
+RJBT AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJBT AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JET A-1, AVGAS 100LL
+3 Fuelling facilities/ ca pacity Fuel truck(200L/min)
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Not at Airport, but in Toyooka city
+2 Restaurants Not at Airport, but in Toyooka city
+3 Transportation Busses and Taxis
+4 Medical facilities Not at Ai rport, but in Toyooka city
+5 Bank and Post Office Not at Airport, but in Toyooka city
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 4 on scheduled FLT OPS
+CAT 3 on other OPS
+2 Rescue equipment Chemical fire fi ghting truck x 2 on scheduled FLT OPS
+Chemical fire fighting truck x 1 on other OPS
+3 Capability for removal of disabled 
+aircraft
+Ask AD administration
+4 Remarks Nil
+1 Types of clearing equipment Snow removal equipments: Snow plow x 2, Wheel loader x 1, Snow rotary x 2, 
+Snow sweeper x 2
+2 Clearance priorities 1.RWY  2.TWY  3.APRON
+3 Remarks Seasonal availabi lity: Winter season only
+Snow removal will be commenced, if RWY are covered with snow a depth of 
+3cm or more in principle.
+(EFF:8 JAN 2015) 8/1/15
+
+
+=== Page 3 ===
+AIP Japan
+TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD2-3
+RJBT AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJBT AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJBT AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface: asphalt-concrete    Strength: PCR 177/F/C/X/T
+2 Taxiway width, surface and
+strength
+Terminal apron
+Width: 18m Surface: asphalt-concrete Strength: PCR 177/F/C/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not Available
+5 INS checkpoints Spot NR
+1:  353057.11N/1344719.04E
+2:  353058.83N/1344719.15E
+3:  353100.45N/1344719.25E
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:01/19
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point,
+                Aiming point, TDZ, RWY side stripe
+(LGT) REDL, RTHL, RENL, RWY DIST marker LGT
+TWY:
+(Marking) TWY CL, RWY HLDG PSN, TWY side stripe
+Mandatory instruction
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT) Apron flood LGT
+In Area2 See Obstacle data
+Other obstacles
+OBST ID / designation Obstacle type  Coordinates Elevation Markings/LGT Remarks
+RJBT1 Building 353058N/1344722E 639ft Nil/LIL Under transitional SFC
+RJBT2 Garage 353105N/1344710E 593ft Nil/LIL Under transitional SFC
+In Area3 To be developed
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJBT AD2-4                      AIP Japan
+                     TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJBT AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office  TAJIMA AIRPORT TERMINAL CO.,LTD
+2 Hours of service
+MET Office outside hours
+ 2330 - 0930
+ Nil
+3 Office responsible for TAF preparation
+Periods of validity
+ Nil
+4 Trend forecast
+Interval of issuance
+ Nil
+5 Briefing/ consultation provided  Nil
+6 Flight documentation
+Language(s) used
+ C, En, Jp
+7 Charts and other information available 
+for briefing or consultation  S6, U85, U7, U5, U3, U25, PS, P5, P3, P25, PSW(Domestic), U2/Tr, C, N, E
+8 Supplementary equipment
+available for providing information
+ Nil
+9 ATS units provided with information  RADIO 
+ TAJIMA AIRPORT TERMINAL CO.,LTD.(Flight Advisory Service Station)
+10 Additional information
+(limitation of service, etc.)
+ Nil
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+01 003.00° 1200×30 PCR 177/F/C/X/T
+Asphalt-Concrete
+353026.83N
+1344711.94E
+THR ELEV: 583.5FT
+19 183.00° 1200×30 PCR 177/F/C/X/T
+Asphalt-Concrete
+353105.71N
+1344714.43E
+THR ELEV: 572.7FT
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See AD2.24 AD Chart 1320×120 40×120 RWY grooving : 1200m × 30m
+See AD2.24 AD Chart 1320×120 40×120 RWY grooving : 1200m × 30m
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 5 ===
+AIP Japan
+TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD2-5
+RJBT AD 2.13 DECLARED DISTANCES
+RJBT AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJBT AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+01
+19
+1200
+1200
+1200
+1200
+1200
+1200
+1200
+1200
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 34 56 7 8 9
+01 Nil Green
+-
+PAPI
+3.0°/LEFT
+294.0m
+45ft
+Nil Nil 1200m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+19 Nil Green
+-
+PAPI
+3.0°/LEFT
+263.8m
+45ft
+Nil Nil 1200m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+Remarks
+10
+Overrun area edge LGT(LEN:60m Color:Red)(*1)
+CGL for RWY 01/19, East side only
+RWY THR ID LGT for RWY 01/19 THR (Color: White)
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 353055N/1344722E,White/Green EV4.3sec,HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI: Nil
+Anemometer: RWY01: 225m inside FM RWY01 THR, LGTD 
+RWY19: 90m inside FM RWY19 THR, near WDI LGT  
+3 TWY edge and center line lighting TWY edge LGT: Blue
+TWY centerline LGT: Nil
+4 Secondary power supply/    
+switch-over time
+All lights within 15 seconds
+5 Remarks WDI LGT
+(EFF:30 JUN 2011) 2/6/11
+
+
+=== Page 6 ===
+RJBT AD2-6                      AIP Japan
+                     TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD 2.16 HELICOPTER LANDING AREA
+RJBT AD 2.17 ATS AIRSPACE
+RJBT AD 2.18 ATS COMMUNICATION FACILITIES
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+Nil
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+AFIS TAJIMA RADIO 118.4MHz 2330 - 0930 O perated by Osaka Airport Office
+A/G TAJIMA FLIGHT 
+SERVICE
+130.8MHz 2330 - 0930 FOR AD INFO ONLY
+(EFF:1 OCT 2021) 12/8/21
+
+
+=== Page 7 ===
+AIP Japan
+TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD2-7
+RJBT AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+LOC 01 ITH 108.55MHz 2330 - 0930 353108.56N/
+1344715.81E
+LOC:90m(295ft) away FM
+    RWY 19 THR,
+30m(98ft) E of RCL,
+BRG(MAG)12°,
+Offset angle 0.75°.
+LOC-DME 01 ITH 1109MHz
+(CH-22Y)
+2330 - 0930 353108.78N/
+1344716.67E
+576ft DME:98m(322ft) away FM
+    RWY 19 THR,
+52m(171ft) E of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are 
+satellite based.
+RUNWAY
+LOC-DME ANTENNA
+REMARKS : 1. LOC OFF SET ANGLE    0.75°
+2. LOC beam BRG(MAG)    12°
+3. ELEV of LOC-DME          175.7m(576ft)
+LOC ANTENNA
+RUNWAY CENTERLINE
+1000m1200m90m
+30m
+22m
+LOC
+19
+01
+8m
+0.75˃
+(EFF:2 NOV 2023) 5/10/23
+
+
+=== Page 8 ===
+RJBT AD2-8                      AIP Japan
+                     TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJBT AD 2.21 NOISE ABATEMENT PROCEDURES
+1. On use of Tajima airport, aircraft operator is required to notify AD administrator in advance. 
+2. Training flight is subject to the coordination with AD administrator in advance.
+Contact Number: 0796-26-1500
+1. 空港の使用について、 航空機の運航者はあらかじめ但馬空港ター ミ ナル株式会社に届け出る こ と。
+2. 訓練飛行を行 う と きは、 但馬空港ター ミ ナル株式会社と事前に調整する こ と。
+　 連絡先 ： 0796-26-1500
+Nil
+Ask AD Administrator
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:5 JAN 2017) 5/1/17
+
+
+=== Page 9 ===
+AIP Japan
+TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD2-9
+RJBT AD 2.22 FLIGHT PROCEDURES
+RJBT AD 2.23 ADDITIONAL INFORMATION
+1.TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN
+AP FILED
+01 A,B,C - - - 400m - 500m
+19 A,B,C - - - 400m - 500m
+OTHER
+01 A,B,C
+AVBL LDG MINIMA
+19 A,B,C
+2.IFR Operation Procedures at Tajima Aerodrome
+2.1 Departure
+1) Pilot shall request ATC clearance on 118.4MHz to Tajima Radio, thereafter, follow the instructions from ATC via Tajima
+Radio. (ATC does not instruct to change to Tajima Flight Service frequency.)      
+2) Tajima Flight Service provides the aerodrome information on 130.8MHz.
+3) Pilot shall report the airborne time to Tajima Radio.
+2.2 Arrival 
+1) Pilot shall monitor Tajima Radio frequency at all times, follow the instructions from ATC via Tajima Radio. (ATC does not
+instruct to change to Tajima Flight Service frequency.)
+2) Tajima Flight Service provides the aerodrome information on 130.8MHz.
+3) Pilot shall report the landing time to Tajima Radio.
+2.3 Radio Communication Equipment
+Aircraft intended to fly in accordance wi th IFR at Tajima aerodrome shall be equipped with two sets or more of radio
+communication equipment.
+Nil
+(EFF:1 OCT 2021) 12/8/21
+2. 但馬飛行場における計器飛行方式の運用方法
+2.1 出発機
+   1） 管制承認は、 118.4MHz で但馬レデ ィ オに要求し、 以後は管制機関 （但馬レデ ィ オ経由） の指示に従 う こ と。
+　 　 　 （管制機関は但馬フ ラ イ ト サービスへの周波数の切り替えを指示し ない。 ）
+   2） 離陸に係る飛行場情報の提供は、 但馬フ ラ イ ト サービス （130.8MHz） によ り行われる。
+   3） 離陸時刻を但馬レデ ィ オに通報する こ と。
+2.2 到着機
+   1） 但馬レデ ィ オの周波数を常時聴取し、 管制機関 （但馬レデ ィ オ経由） の指示に従 う こ と。
+　 　 　 （管制機関は但馬フ ラ イ ト サービスへの周波数の切り替えを指示し ない。 ）
+   2） 着陸に係る飛行場情報の提供は、 但馬フ ラ イ ト サービス （130.8MHz） によ り行われる。
+   3） 着陸時刻を但馬レデ ィ オに通報する こ と。
+2.3 無線通信機
+　 　 但馬飛行場において計器飛行方式によ り飛行する航空機は、 常時 ２ 局以上と交信可能な無線機器の搭載が必要である。
+
+
+=== Page 10 ===
+RJBT AD2-10                      AIP Japan
+                     TAJIMA
+Civil Aviation Bureau,Japan
+RJBT AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (MIYAZU)
+Standard Departure Chart - Instrument (ROKKO-RNAV)
+Instrument Approach Chart (LOC RWY01)
+Instrument Approach Chart (RNP RWY01)
+Instrument Approach Chart (RNP RWY19)
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:22 FEB 2024) 25/1/24
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+48
+9
+10
+11 7
+6
+5
+01-19 01-19
+Example for MANDATORY INSTRUCTION MARKING
+Installed on TWY
+RWY SIDE
+RJBT / TAJIMA AD  CHART
+PAPI    Angle 3.0°  
+MEHT  13.6m(45ft)
+PAPI   Angle  3.0°  
+MEHT 13.6m(45ft)
+2    2
+2    2
+3
+3   1 1   3
+930m
+0.13%0.3%
+1010m 1090m850m
+263.8m
+(572.7ft)
+174.6m(574ft)
+175.0m
+(574.7ft)
+175.2m
+LEVEL
+(574.7ft)
+175.2m
+(575ft)
+175.3m(583.5ft)
+177.9m
+RWY 01
+0m 1200m
+294.0m
+WDIL
+RWY 19
+WDIL
+ABN
+LONGITUDINAL PROFILE OF RWY
+TAJIMA AD
+0.25% 0.41%
+1   3
+TRUE NORTH
+RTHL
+CGL
+OVERRUN AREA EDGE LGT
+1
+01
+RWY THR ID LGT 19
+APRON FLOOD LGT
+TERMINAL APRON
+CGL
+RTHL
+REMARKS :
+m0021 GNIVOORG YWR    × 30m
+    RWY STRENGTH PCR 177/F/C/X/T
+    WIDTH & STRENGTH OF TERMINAL APRON TWY 18m PCR 177/F/C/X/T
+    DIMENTION & STRENGTH OF TERMINAL APRON
+150m × 60m PCR 177/F/C/X/T
+12 3
+CHANGE : Description of strength of pavement.
+(EFF:28 NOV 2024) 3/10/24
+RJBT AD2.24-ADC-1
+TAJIMA
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+1900
+RWY01 : Climb RWY HDG to 1900FT, turn right HDG150˚... 
+RWY19 : Climb RWY HDG to 1900FT, turn left  HDG060˚...
+ ... to intercept and proceed via YME R285 to YME VOR/DME.
+ Cross YME 10.0DME at or above 5000FT.
+Note RWY01 : 5.0% climb gradient required up to 2200FT.
+  OBST ALT 1956FT located at 5.6NM 007˚ FM end of RWY01.
+ RWY19 : 5.0% climb gradient required up to 3200FT.
+  OBST ALT 2888FT located at 8.3NM 144˚ FM end of RWY19. 
+MIYAZU THREE DEPARTURE
+1900
+D10.0 YME
+5000
+5000
+D10.0 YME
+ YME R285
+RJBT / TAJIMA SID
+VOR/DME
+MIYAZU
+2400FT
+YME112.6
+ÛÝ1ÛÝ(
+CH-73X
+MIYAZU THREE DEPARTURE
+105˚
+HDG150˚
+HDG060˚
+CHANGE : PROC renamed. TAJIMA VOR/DME(THE) abolished. 
+(EFF:25 MAR 2021) 25/2/21
+RJBT AD2.24-SID-1
+TAJIMA
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RNAV SIDRJBT / TAJIMA
+ROKKO ONE DEPARTURE
+RWY01 : Climb on HDG011˚ at or above 1900FT, turn right direct to GUNZE, to ROKKO.
+RWY19 : Climb on HDG191˚ at or above 1900FT, turn left direct to GUNZE, to ROKKO.
+Note RWY01 : 5.0% climb gradient required up to 2200FT.
+ OBST ALT 1956FT located at 5.6NM 007˚ FM end of RWY01.
+Note RWY19 : 5.0% climb gradient required up to 3200FT.
+ OBST ALT 2854FT located at 8.2NM 144˚ FM end of RWY19.
+VAR 8˚W (2020)
+ROKKO ONE DEPARTURE RNP1
+Note GNSS required. 
+ROKKO
+350700.6N
+1351800.9E
+GUNZE
+351624.9N
+1351348.5E
+1900
+1900
+011˚
+191˚
+ROKKO ONE DEPARTURE
+168˚10.0
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1). 
+(EFF:21 MAR 2024) 22/2/24
+RJBT AD2.24-SID-2
+TAJIMA
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJBT AD2.24-SID-3
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY01
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 011
+(003.0) -8.2 - - +1900 - - RNP1
+002 DF GUNZE - - -8.2 - R - - - RNP1
+003 TF ROKKO - 168
+(159.9) -8.2 10.0 - - - - RNP1
+RWY19
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 191
+(183.0) -8.2 - - +1900 - - RNP1
+002 DF GUNZE - - -8.2 - L - - - RNP1
+003 TF ROKKO - 168
+(159.9) -8.2 10.0 - - - - RNP1
+RJBT / TAJIMA RNAV SID
+ROKKO ONE DEPARTURE
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+TAJIMA
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+LOC RWY01
+ Timing not authorized for defining the MAPt.
+NM to THR
+DME to ITH
+0
+0.715.0 6.311.5 10.0 3.7 1.5
+14.3 5.6 10.8 9.3 3.0 0.8
+5.0
+4.3
+LOC
+108.55  ITH
+LOC-DME  CH–22Y
+KOBE  CONTROL
+133.8 – 126.1 NO RADAR
+287.6 – 278.2
+MINIMA THR elev. 584 AD elev. 578
+CAT
+A
+B
+C
+D
+MDA(H) CMV
+–
+1500
+920(342)
+–
+1800
+CIRCLING
+MDA(H) VIS
+–
+2400
+–
+1600
+1020(442)
+1030(452)
+860(282)
+Circling to EAST side of RWY only.
+Missed APCH climb gradient MNM 5.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+TAKDA
+(IF)
+VDP
+2003 MAPt
+SHRAK
+(FAF)SDF
+SDF
+MDA
+1589
+1560
+(982)
+D1.5 ITH (CAT A,B)
+D1.7 ITH (CAT C)
+SDF
+2417
+1690
+(1112)
+2400
+(1822)
+4500
+VDP
+3400
+SDF
+4000
+012˚
+3.0˚
+012˚
+MAPt
+D1.5 ITH
+SHRAK
+(FAF)
+D6.3 ITH
+FOSTA
+TAKDA(IF)
+D15.0 ITH
+090˚
+360˚
+270˚
+10NM
+EQPT REQUIRED
+DME
+VOR
+VAR 8˚W (2020)
+6100
+MSA 25NM
+012˚
+012˚
+HDG012˚
+LOC OFFSET 0.8˚
+2332
+4297
+3109
+3523
+3162
+2939
+2913 1863
+1441 1440
+1112 1401 1463
+2112
+2178
+2414
+2417
+2752
+1820
+1476
+2168
+2286
+1859
+2158
+2201
+1903
+919
+2888
+SHRAK(FAF):352450.72N/1344645.54E
+VOR/DME
+MIYAZU
+CH-73
+ÛÝ1ÛÝ(
+112.6      YME
+ARP
+ARP : 353046N/1344713E
+HDG150˚
+YME R285
+1 5˚
+233˚
+18.5
+(225.2°T)
+  351608.8N
+  1344603.1E
+  350832.9N
+  1344532.8E
+BT159
+  351308.7N
+  1344551.1E
+ASAGI(IAF)
+  350237.2N
+  1344502.4E
+BT158
+  351548.7N
+  1345208.8E
+7000
+4700
+7000
+011°(003.1°T)/3.0
+011°(003.1°T)/4.6
+012°(004.0°T)/5.9
+NM to ITH
+ALT (3.0˚ APCH Path)
+FAF
+2417
+5
+2003
+6
+2321
+4
+1685
+3
+1366
+2
+1048
+MAPt
+–
+2 ˚
+5.0
+ʢ273.9°T)
+ME
+VOR/DME
+MHA 5000
+MAX 230KIAS
+053˚
+233˚
+NOTE : For lnitial approa h segment
+(1) RNP1.
+(2) GNSS required.
+MISSED APPROACH
+Climb on HDG012˚ to 2200FT, 
+turn right, HDG150° to intercept and 
+proceed via YME R285 to YME VOR/DME 
+and hold at 5000FT. 
+Contact TAJIMA RADIO. 
+  352850.5N
+  1350813.3E
+RJBT / TAJIMA
+   TAJIMA RADIO
+118.4
+        AFIS provided              
+  by Osaka Airport Office  
+YME(IAF/MAHF)
+CHANGE : FREQ for KOBE CONTROL. 
+(EFF:5 SEP 2024) 5/9/24
+RJBT AD2.24-IAC-1
+TAJIMA
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Baro-VNAV not authorized below -10˚C
+VAR 8˚W (2020)
+090˚
+360˚
+270˚
+RJBT / TAJIMA RNP RWY01
+MISSED APPROACH
+Direct to BT155, turn right 
+direct OLSOP and hold at 
+5000FT. 
+Contact TAJIMA RADIO.  
+ 
+NM to THR0
+BT151
+(IF)
+VDP
+(LNAV)
+BT153
+(LNAV)
+BT152
+(LNAV)
+3400
+BT154
+(MAPt)
+YABOO
+(FAF)
+MDA
+8.7 8.07.31 2.9
+1556
+1530
+(952)
+2034
+4.4
+1660
+(1082)
+3400
+(2822)
+3900
+2000
+KOBE  CONTROL
+133.8 – 126.1 NO RADAR
+287.6 – 278.2
+NM to Next Fix
+ALT (3.0˚ APCH Path)
+FAF
+3400
+4
+2161
+7
+3117
+6
+2798
+5
+2480
+3
+1843
+2
+1524
+1
+1206
+MAPt
+–
+MSA 25NM
+6100
+ARP
+ARP : 353046N/1344713E
+Missed APCH climb gradient MNM 5.0%
+3.00˚
+Circling to EAST side of RWY only.
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+990 (406) 990 (412)
+1030 (452)
+1020 (442)1500 1600
+––––––
+MDA(H) VMCVMC MDA(H) VIS
+LNAV CIRCLING
+THR elev. 584 AD elev. 578
+A
+B
+C
+D
+1500
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+RDH50
+353404.99N
+1344725.92E
+352938.80N
+1344708.87E
+352145.15N
+1344638.59E
+351245.22N
+1344556.72E
+350832.91N
+1344532.83E
+351644.97N
+1344619.46E
+FOSTA
+BT150
+352732.73N
+1344700.80E
+BT153
+352602.68N
+1344655.04E
+BT152
+BT151
+(IF)
+YABOO
+(FAF)
+BT154
+(MAPt)
+BT155
+(MATF)
+OLSOP(IAF/MAHF)
+BT154(MAPt)
+BT153
+BT152
+BT150
+BT151(IF)
+ASAGI(IAF)
+YABOO(FAF)
+BT155(MATF)
+011˚(003.0˚T)/2.1
+011˚(003.0˚T)/1.5
+013˚(004.4˚T)/4.0
+011
+˚
+5.
+0
+(003.
+0˚
+T)
+011˚4.
+3
+10NM
+(003.
+0˚
+T)
+011˚
+011˚
+2333
+3525
+3737
+2941
+1863
+1441
+14151112
+1399
+1463
+2111
+2177
+2415
+2416
+2766
+18221474
+2169
+2286
+164˚10.5ʢ
+155.9°T)
+˚191
+0.5
+ʢ
+)T°0.381
+BT156
+BT157281˚
+5.0
+ʢ273.1°T)
+FOSTA
+013˚4.2
+ʢ
+004.4°T)
+012˚5.9
+ʢ
+004.0°T)
+4700
+7000
+7000
+353104.66N
+1344729.27E
+OLSOP
+352129.30N
+1345245.02E
+BT156
+351629.14N
+1345225.50E
+BT157
+350237.24N
+1344502.37E
+ASAGI
+(IAF/MAHF)
+OLSOP
+1MIN
+MHA 5000
+MAX 210KIAS
+106˚
+286˚
+RNAV HLDG
+OLSOP
+MAX 170KIAS
+285˚
+105˚
+D13.0
+YME
+D17.0 YME
+MHA 5000
+VOR/DME
+MIYAZU
+CH-73X
+ÛÝ1ÛÝ(
+112.6      YME
+R285
+Using NAVAID
+VDP
+0.4NM to MAPt
+(IAF)
+   TAJIMA RADIO
+118.4
+        AFIS provided              
+  by Osaka Airport Office  
+NOT TO SCALE
+NOT TO SCALE
+3009
+3745
+3298
+RNP APCH
+CHANGE : FREQ for KOBE CONTROL. 
+(EFF:5 SEP 2024) 5/9/24
+RJBT AD2.24-IAC-2
+TAJIMA
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Baro-VNAV not authorized below -5˚C
+VAR 8˚W (2020)
+BT951
+BT950
+BT953
+BT954
+BT952
+(IF)
+BT955
+(MAPt)
+BT956(MATF)
+AMARB
+(FAF)
+OLSOP
+(IAF/MAHF)
+FOSTA
+191˚(183.0˚T)/1.9
+191˚(183.0˚T)/2.8
+191˚(183.0˚T)/1.5
+191˚3.5
+(183.0˚T)
+281˚
+3.1
+(273.1˚T)
+017˚30.0
+(009.3˚T)
+033˚
+7.7
+(024.9˚T)
+011˚
+5.3
+(003.0˚T)
+10NM
+180˚
+090˚
+270˚
+3525
+3737
+2941
+3009
+1863
+1415
+1399
+1463
+2111
+2766
+1822
+1474
+RJBT / TAJIMA RNP RWY19
+MISSED APPROACH
+Direct to BT956, turn left 
+direct OLSOP and hold at 
+5000FT. 
+Contact TAJIMA RADIO.  
+NM to THR 0
+VDP
+(LNAV)
+BT955
+(MAPt)
+MDA
+7.2 10.72.51.0
+1170
+(592)
+2310
+2900
+1418
+5.3
+2210
+(1632)
+2300
+(1722)
+2400
+KOBE  CONTROL
+133.8 – 126.1 NO RADAR
+287.6 – 278.2
+MSA 25NM
+6100
+ARP
+ARP : 353046N/1344713E
+Missed APCH climb gradient MNM 5.0%
+3.00˚
+Circling to EAST side of RWY only.
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+1000 (427) 1000 (422)
+1030 (452)
+1020 (442)1500 1600
+––––––
+MDA(H) VMCVMC MDA(H) VIS
+LNAV CIRCLING
+THR elev. 573 AD elev. 578
+A
+B
+C
+D
+1500
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+RDH50
+AMARB
+(FAF)
+BT952
+(IF)
+BT953
+(LNAV)BT954
+(LNAV)
+191˚
+191˚
+NM to Next Fix
+ALT (3.0˚ APCH Path)
+FAF
+2900
+3
+1896
+MAPt
+–
+2
+1577
+4
+2214
+5
+2533
+6
+2851
+4600
+5000
+7000
+7000 ASAGI(IAF)
+012˚5.9
+ʢ
+004.0°T)
+OLSOP
+MAX 170KIAS
+285˚
+105˚
+D13.0
+YME
+D17.0 YME
+MHA 5000
+VOR/DME
+MIYAZU
+CH-73X
+ÛÝ1ÛÝ(
+112.6      YME
+R285
+Using NAVAID
+OLSOP
+1MIN
+MHA 5000
+MAX 210KIAS
+106˚
+286˚
+RNAV HLDG
+352723.58N
+1344700.21E
+353335.79N
+1344724.05E
+353623.88N
+1344734.83E
+354135.44N
+1345143.61E
+353104.66N
+1344729.27E
+350832.91N
+1344532.83E
+353805.34N
+1345129.94E
+FOSTA
+OLSOP
+   (IAF/MAHF)
+353815.16N
+1344741.98E
+AMARB
+(FAF)
+354145.27N
+1344755.48E
+BT952
+(IF)
+BT950
+BT951
+BT953
+353205.74N
+1344718.28E
+BT955
+(MAPt)
+BT954
+BT956
+(MATF)
+350237.24N
+1344502.37E
+ASAGI
+(IAF)
+VDP
+0.3NM to MAPt
+   TAJIMA RADIO
+118.4
+        AFIS provided              
+  by Osaka Airport Office  
+1
+1259
+NOT TO SCALE
+NOT TO SCALE
+RNP APCH
+CHANGE : FREQ for KOBE CONTROL. 
+(EFF:5 SEP 2024) 5/9/24
+RJBT AD2.24-IAC-3
+TAJIMA
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJBT / TAJIMA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ᇛᓮ JRᇛᓮ Ἠ㥐
+Kinosaki Station
+⚄㘠ᒣ ᒣ
+Kannabeyama Mountain
+ฟ▼ ฟ▼ᕷ⾤
+Izushi Town
+ඵ㮵 JRඵ㮵㥐
+Yoka Station
+5.5NM
+/ 5.1NM125°T
+BRG / DIST from ARP
+CHANGE : Map updated. BRG/DIST from ARP. Remarks(Kinosaki).
+ͤTAJIMA FLIGHT SERVICE :   130.8MHz
+RemarksCall sign
+011°T / 6.8NM
+183°T / 5.9NM
+266°T /
+KINOSAKI
+KIKINONOSASAKIKI
+5NM from ARP
+TAJIMA
+A
+ RADIO 
+JIMA
+A
+ RAD
+R
+118.4
+9$5
+5 
+
+
+:
+ 
+ ë
+
+ëëë:
+㼃㼑㼎
+㼑㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+KANNABEYAMA
+KAKANNNNABABEYEYAMAMAA
+IZUSHI
+IZIZUSUSUSHIHI
+YOKA
+YOYOOKAKA
+(EFF:24 MAR 2022) 24/3/22
+RJBT AD2.24-OTHER-1
+TAJIMA
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJBT / TAJIMA LDG  CHART
+ELEV 578ft
+647
+603
+872
+892 640
+951
+832
+866
+850
+1263
+1320
+CGL
+CGL
+ABN
+RWYTIL
+PAPI ANGLE 3.0° 
+MEHT 13.6m (45ft)
+294.0m FM THR
+ELEVATIONS AND
+HEIGHTS IN FEET
+MEAN SEA LEVEL
+PAPI ANGLE 3.0° 
+MEHT 13.6m (45ft)
+263.8m FM THR
+01
+19
+500
+689
+660
+660
+660
+660
+660
+01000 1000 3000
+500 1000m
+ft
+SCALE
+134°46䯩 
+35°31˄ 
+48˄䢢 50˄ 
+33˄ 
+34˄
+32˄
+30˄ 
+29˄
+VAR 8°W
+(2020)CHANGE : TAJIMA VOR/DME(THE) abolished. 
+(EFF:25 MAR 2021) 25/2/21
+RJBT AD2.24-OTHER-2
+TAJIMA
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJBT / TAJIMA Minimum Vectoring Altitude CHART
+1
+30NM
+1
+CENTERɿ353046N/1344713E (ARP)
+7000
+6000
+8000
+350058N
+1344221E
+353313N
+1343651E
+353141N
+1341028E
+355618N
+1342746E
+355500N
+1343300E
+360026N
+1345310E
+(EFF:19 JUL 2018) 21/6/18
+→ RJBT AD2.24-OTHER-3
+TAJIMA
+

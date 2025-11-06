@@ -1,0 +1,1262 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIMA 1 - 1
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+LIMA AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIMA AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIMA - TORINO/Aeritalia
+LIMA AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIMA AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+45°05'04''N 007°36'11''E
+2 Direzione e distanza dalla città 3.24 NM W Torino
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+943 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2005.0) / 6'E
+5 Autorità amministrativa aeroportuale ENAC - DT Nord-Ovest
+Aeroporto “Sandro Pertini”
+10072 – Caselle Torinese (TO)
+ Tel +39 0115678407/5678413/5676800
+ Fax +39 011 4704320
+ Pec: protocollo@pec.enac.gov.it
+ E-mail: nordovest.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Aeroclub Torino
+Tel +39 011 7790916/7740922; fax +39 011 7791691
+e-mail: info@aeroclubtorino.it; segreteria@aeroclubtorino.it
+ Aerodrome operator  
+ Autorità ATS ENAV S.p.A. - Centro Aeroportuale Torino/Aeritalia
+Tel: +39 011 77964201;
+ fax: +39 011 77964253
+e-mail: ci-torinoaeritalia@enav.it
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. AD aperto al traffico turistico comunitario
+2. Variazione annuale zona anomala
+ Remarks 1. AD open to EC tourist traffic
+2. Annual change anomaly zone
+LIMA AD 2.3 ORARIO DEI SERVIZI
+LIMA AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0800-1600 (0700-1730) – Chiuso il MON; quando MON è festivo la chiusura è
+spostata al TUE
+ Aerodrome Administration 0800-1600 (0700-1730) – Closed on MON; when MON is holiday,AD closed on TUE
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario 0800-1600 (0700-1730)
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+
+=== Page 2 ===
+AD 2 LIMA 1 - 2
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS 0800-1600 (0700-1730)
+   
+8 Rifornimento 0800-1200 (0700-1100) e 1300-1600 (1200-1730)
+ Fuelling 0800-1200 (0700-1100) and 1300-1600 (1200-1730)
+9 Handling Aeroclub Torino 0800-1600 (0700-1730)
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. Tutti i MON 0630-1600 (0530-1730) e tutti i giorni 0630-0800 e 1600-SS+30
+(0530-0700 e 1730-SS+30) è consentita solo l’attività del servizio di soccorso
+medico con elicottero (HEMS) e i voli preventivamente autorizzati da Aeroclub
+Torino.
+Assicurato il servizio antincendio.
+Gli estremi dell’autorizzazione dovranno essere riportati nella casella 18-Remarks
+del piano di volo.
+2. ARO CBO MILANO: vedi GEN 3.1
+3. Durante l’orario SS+30-0630 (SS+30-0530) traffico non consentito ad eccezione
+del servizio di soccorso medico con elicotteri (HEMS) previo coordinamento con
+operatore aeroportuale che assicurerà il servizio antincendio.
+ Remarks 1. Every MON 0630-1600 (0530-1730) and every day 0630-0800 and 1600-SS+30
+(0530-0700 and 1730-SS+30) only Helicopter Emergency Medical Service (HEMS)
+activity and flights previously authorized by Aeroclub Torino are allowed.
+Fire fighting service is assured.
+Authorization must be notified on FPL-Point 18 Remarks.
+2. ARO CBO MILANO: see GEN 3.1
+3. During HR SS+30-0630 (SS+30-0530) traffic not allowed except Helicopter
+Emergency Medical Service (HEMS) prior coordination with aerodrome operator to
+assure fire fighting service
+LIMA AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIMA AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio AVGAS 100LL, MOGAS / EE 100, EE 80
+ Fuel/Oil types  
+3 Capacità di rifornimento AVGAS 100LL 22000 litri, MOGAS 22000 litri
+ Fuelling capacity AVGAS 100LL 22000 litres, MOGAS 22000 litres
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito Sì
+ Hangar space for visiting aircraft Yes
+6 Servizio riparazioni per aeromobili in 
+transito
+Sì
+ Repair facilities for visiting aircraft Yes
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIMA 1 - 3
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIMA AD 2.5 SERVIZI PER I PASSEGGERI
+LIMA AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi O/R, tel +39 011 7790916
+ Transportation  
+4 Servizio medico Sì
+ Medical facilities Yes
+5 Banca e ufficio postale In città
+ Bank and Post office In town
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIMA AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIMA AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 2 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà Secondo esigenze
+ Capability for removal of disabled aircraft According to necessities
+4 Note NIL
+ Remarks  
+LIMA AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIMA AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrici - Spartineve
+ Types of clearing equipment Sweepers - Snow sweepers
+2 Priorità Pista - raccordi - piazzali
+ Clearance priorities RWY - TWY - Apron
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIMA AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIMA AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron ASPH 25000 sq SIWL 8000 KG
+
+=== Page 4 ===
+AD 2 LIMA 1 - 4
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 10.0 M ASPH SIWL 8000 kg
+B 10.0 M ASPH SIWL 8000 kg
+C 10.0 M ASPH SIWL 8000 kg
+D 7.5 M ASPH SIWL 2400 kg
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIMA AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIMA AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIMA AD 2.10 OSTACOLI AEROPORTUALI
+LIMA AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIMA 1 - 5
+AIRAC effective date 12 JUN 2025
+ENAV - Roma (A06/25)
+LIMA AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIMA AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / O/R
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO, telefono Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO MILANO, telephone Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato IT, EN
+ Flight documentation and
+language used
+Charts, abbreviated plain language texts IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+AFIU Torino Aeritalia
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le nubi con altezza della base al di sotto di 5000ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 5000ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+LIMA AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIMA AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+10L NIL 1074 x 30
+SIWL 8000 KG
+ASPH
+45°05'14.31''N
+007°35'48.08''E
+943.2  FT / NIL
+28R NIL 1074 x 30
+SIWL 8000 KG
+ASPH
+45°05'09.03''N
+007°36'25.02''E
+919.7  FT / NIL
+
+=== Page 6 ===
+AD 2 LIMA 1 - 6
+AIRAC effective date 12 JUN 2025 AIP - Italia
+(A06/25) ENAV - Roma
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+10R NIL 750 x 40
+NIL
+Grass
+45°05'08.30''N
+007°36'00.30''E
+935.0 FT / NIL
+28L NIL 750 x 40
+NIL
+Grass
+45°05'04.90''N
+007°36'23.90''E
+923.0 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+10L 0.6% NIL 60 x 80 1194 x 80 NIL
+28R 0.6% NIL 120 x 80 1194 x 80 70 x 60
+10R NIL 30 x 40 NIL NIL NIL
+28L NIL 250 x 40 NIL NIL NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+10L NIL NIL
+28R NIL 1) DTHR 250 m
+10R NIL NIL
+28L NIL 1) DTHR 250 m
+LIMA AD 2.13 DISTANZE DICHIARATE
+LIMA AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+10L NIL NIL NIL 1074
+28R 1074 1194 1074 824
+10R NIL NIL NIL 750
+28L 750 750 1000 500
+NOTE
+REMARKS
+NIL
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIMA 1 - 7
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIMA AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIMA AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+10L NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+28R NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+10R NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+28L NIL NIL NIL NIL NIL NIL
+ 
+NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+10L NIL NIL NIL NIL NIL NIL NIL NIL
+28R NIL NIL NIL NIL NIL NIL NIL NIL
+10R NIL NIL NIL NIL NIL NIL NIL NIL
+28L NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+10L NIL NIL NIL NIL NIL NIL
+28R NIL NIL NIL NIL NIL NIL
+10R NIL NIL NIL NIL NIL NIL
+28L NIL NIL NIL NIL NIL NIL
+LIMA AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIMA AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 45°05'07''N   007°41'15''E
+Caratteristiche: rotante a luci bianco/verde alternate
+Orario:
+0630-SS +30 (0530-SS +30)
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 45°05'07''N   007°41'15''E
+Characteristics: revolving white/green alternate light
+Hours:
+0630-SS +30 (0530-SS +30)
+
+=== Page 8 ===
+AD 2 LIMA 1 - 8
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometri:
+1) 75 m prima di THR RWY 28R, 150 m lato destro RCL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometeters:
+1) 75 m before THR RWY 28R, 150 m right side RCL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIMA AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIMA AD 2.16 HELICOPTER LANDING AREA
+1 Posizione 45°05’14.15” N 007°36’23.09” E 
+ Position  
+2 Elevazione 921 ft
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+Dimensioni: diametro 27 m
+Superficie: calcestruzzo
+Resistenza: 5000 kg
+Segnaletica: diurna/notturna
+ Dimensions, surface, strength, marking Dimensions: diameter 27 m
+Surface: concrete
+Strength: 5000 kg
+Marking: night/day
+4 Orientamento 320°
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci Luci perimetrali, A-PAPI 06°
+ Lighting Perimeter lights, A-PAPI 06°
+7 Note 1. Area di atterraggio elicotteri utilizzabile durante le ore notturne dal solo traffico del
+servizio medico di emergenza con elicotteri (HEMS).
+ Remarks 1. Helicopters landing area usable during night time only by Helicopter Emergency
+Medical Service (HEMS) .
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIMA 1 - 9
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIMA AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIMA AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+TORINO/Aeritalia
+ATZ Sector 3
+45°06'47"N 007°35'30"E;
+45°06'47"N 007°38'30"E;
+45°03'00"N 007°38'30"E;
+45°03'00"N 007°35'00"E;
+45°04'30"N 007°35'30"E;
+to point of origin.
+700 FT AGL G
+Aeritalia
+Aerodrome INFO
+EN/IT
+6000 FT
+1) WI CTR Torino
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+(RMZ)
+TORINO/Aeritalia
+ATZ Sector 4
+45°06'47"N 007°33'56"E;
+45°06'47"N 007°35'30"E;
+45°04'30"N 007°35'30"E;
+45°03'00"N 007°35'00"E;
+45°03'00"N 007°33'56"E;
+to point of origin.
+1500
+FT AGL
+G
+Aeritalia
+Aerodrome INFO
+EN/IT
+6000 FT
+1) WI CTR Torino
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+(RMZ)
+TORINO/Aeritalia
+ATZ Sector 5
+45°06'47"N 007°30'00"E;
+45°06'47"N 007°33'56"E;
+45°03'00"N 007°33'56"E;
+45°03'00"N 007°30'00"E;
+to point of origin.
+3000
+FT AGL
+G
+Aeritalia
+Aerodrome INFO
+EN/IT
+6000 FT
+1) WI CTR Torino
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+(RMZ)
+LIMA AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIMA AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 0800-1600 (0700-1730)
+NIL
+AFIS Aeritalia Aerodrome INFO 119.800 0800-1600 (0700-1730) NIL
+
+=== Page 10 ===
+AD 2 LIMA 1 - 10
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+LIMA AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIMA AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Aeritalia
+Gonio
+Homer
+119.80
+MHZ
+0630-SS
++30 (0530-
+SS +30 )
+45°05'11.7''N
+007°36'36.9''E
+NIL
+limitazioni entro/
+limitations within 30 NM
+030°/100° MRA 4000 FT
+100°/180° MRA 6000 FT
+180°/030° MRA 15000 FT
+ 
+NIL
+LIMA AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIMA AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+1.1. La pista preferenziale è la 28R. Le operazioni di volo da/per pista
+28R non saranno consentite quando la componente di vento in coda
+supera i 5 kt o quando richiesto dai piloti per motivi di sicurezza.
+1.1. Preferential RWY 28R. Flight operations to/from RWY 28R will not
+be allowed when the tail wind is more than 5 kt or when asked by
+pilots for safety reasons.
+1.2. Le piste 10L e 10R sono vietate per i decolli; gli atterraggi saranno
+consentiti per emergenza ed improvvisi cambi delle condizioni meteo.
+1.2. Take off is not allowed from RWY 10L/10R; landings on these RWY
+will be allowed for emergency and sudden changes of meteorological
+condition.
+1.3. La pista 10R/28L è aperta solo per l’attività volovelistica. 1.3. RWY 10R/28L is dedicated to gliders activity.
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Atterraggi, decolli e rullaggio con precauzione a causa di
+operazioni di sfalcio erba; uomini e mezzi in contatto radio con l’AFIU.
+6.1. Landing, take-off and taxiing with caution due to grass cutting
+operations; men and equipment in radio contact with AFIU.
+6.2. in caso di assenza dei servizi ATS:
+a. lo spazio aereo dell'ATZ rimane RMZ con designatore, limiti laterali e
+verticali, classificazione dello spazio aereo, come descritto nell'item
+17
+b. le condizioni meteo sono valutate dal comandante che rimane
+l'unico responsabile per la decisione di applicabilita' delle
+minimemeteorologiche, in accordo a quanto previsto in AIP AD 2
+LIMA 1-6 item 22.
+E’ consentita l'attivita' dei soli ACFT di base, autorizzati
+dall'esercente aeroportuale, che abbiano intenzione di:
+- entrare nell'ATZ con lo scopo di atterrare
+- decollare con lo scopo di lasciare l'ATZ
+6.2. during ATS unavailability:
+a. ATZ remains RMZ with designation, lateral and vertical limits,
+airspace classifications as described in item 17
+b. meteorological conditions are assessed by the pilot in command
+who remains also responsible for the determination of the applicable
+meteorological minima according to AIP AD 2 LIMA 1-6 item 22.
+FLT operations are allowed only for based ACFT, authorized by AD
+operator, with the intent to:
+- enter the ATZ for landing
+- take-off and leave the ATZ
+c. operazioni di volo non consentite:
+• decollo di alianti
+• attivita' acrobatica
+• attivita' di addestramento
+c. FLT operations not allowed:
+• gliders take-off
+• aerobatics activity
+• training activity
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIMA 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+d. è consentita l'attivita' di un solo ACFT per volta all'interno dell'ATZ
+di Torino/Aeritalia, fanno eccezione i voli HEMS, BAT, voli di Stato,
+SAR, che possono operare anche in presenza di altro traffico gia'
+presente all'interno dell'ATZ di Torino Aeritalia:
+• tutto il traffico deve dare precedenza ai voli HEMS, durante le
+operazioni entro l'ATZ.
+• i  voli HEMS dovranno evitare il circuito degli ACFT ad ala fissa, al
+fine di evitare turbolenza di scia
+d. only one ACFT activity at a time allowed within Torino/ Aeritalia ATZ,
+except for HEMS, BAT, State, SAR and emergency FLT which are
+allowed with other traffic already operating in Torino/Aeritalia ATZ:
+ 
+• all traffic shall give the way to HEMS FLT during operations within
+the ATZ
+• HEMS FLT shall avoid fixed wing ACFT pattern, in order to avoid
+wake turbulence
+e. i piloti che intendono operare da/per LIMA AD, prima di
+decollare devono notificare all'esercente aeroportuale, telefonando
+ai numeri +390117790916 in orario 0800-1600 (0700-1700) o
++393480448082 in orario 0630-0800 (05300700) e 1600-1700
+(1700-1830), le seguenti informazioni:
+• nominativo, tipo di ACFT e numero di persone a  bordo
+• ETA/ETD
+• ogni altra informazione ritenuta utile dal pilota responsabile
+e. pilots intending to operate from/to LIMA AD, before departing, shall
+notify to AD operator by phone +390117790916 HR 0800-1600
+(0700-1700) or +393480448082 HR 0630-0800 (0530-0700) and
+16001700 (1700-1830) the following information:
+ 
+• call sign, type of ACFT, number of persons on board
+• ETA/ETD
+• any other information deemed as useful by pilot in command
+f.gli ACFT in partenza con FPL 'Z' (misto VFR/IFR) dovranno contattare
+prima della partenza, il servizio di controllo d'avvicinamento,
+nominativo ’Milano  Radar', per notificare il volo ed ottenere
+informazioni riguardanti eventuali restrizioni o assegnazione di
+CTOT, via radio, sulla appropriata frequenza o telefono ai numeri
++390270143448/+390870143312
+g. comunicazioni:
+i piloti devono effettuare un radio-check prima della partenza e
+prima di entrare nell'ATZ di Torino/Aeritalia. in seguito dovranno
+effettuare comunicazioni 'all'aria' utilizzando la lingua italiana sulla
+frequenza 119.800Mhz, iniziando la trasmissione con il nome
+dell'aeroporto (Torino/ Aeritalia), riportando nominativo, tipo di
+ACFT e posizione come segue:
+1.   ACFT in partenza riporteranno la propria posizione:     
+• prima del rullaggio comunicando la posizione al parcheggio 
+• al punto attesa
+• prima dell'ingresso in pista
+• prima del decollo
+• a decollo avvenuto, specificando quota, virata e punto di  uscita
+(VRP)
+• in prossimita' del punto di uscita, comunicando quota e
+direzione di allontanamento   
+2.  gli ACFT in arrivo riporteranno la propria posizione:         
+• in prossimita' del punto di ingresso (VRP), specificando
+direzione e quota
+• all'ingresso in sottovento
+• tratto base
+• in finale o in caso di mancato avvicinamento/ atterraggio
+• a pista libera
+• al parcheggio
+f.departing ACFT with FPL 'Z' (mixed VFR/IFR) shall contact, before
+departure, approach control service, call sign ’Milano  Radar', for
+the FLT notification and to obtain information about restrictions or
+assigned CTOT, via radio, on the relevant frequence by phone at
++390270143448/+390870143312
+g. communications:
+pilots shall broadcast a radio-check before departure and before
+entering Torino/Aeritalia ATZ. After that, 'blind transmissions' shall
+be made using italian language on FREQ 119.800Mhz, starting
+communication with aerodrome name (Torino/ Aeritalia), reporting
+call sign, type of ACFT and position as FLW:
+1. departing ACFT will report position:
+• before starting taxi operations, reporting parking stand
+• at holding point
+• before entering the runway
+• before take-off
+• after take-off, reporting altitude, turn direction and exit  point
+(VRP)
+• approaching the exit point, reporting altitude and outbound
+direction         
+2.  landing ACFT will report position:
+• approaching entry point (VRP), reporting inbound direction and
+altitude
+• entering downwind leg
+• on base leg
+• on final leg or in case of missed approach/balked landing
+• runway vacated
+• at parking stand
+h. procedure aggiuntive per voli HEMS che intendono lasciare l'ATZ per
+entrare nel CTR di Torino:
+in aggiunta alle procedure di comunicazione 'all'aria', di cui
+sopra, i voli HEMS devono notificare al servizio di controllo
+d’avvicinamento 'Milano Radar', sull'appropriata frequenza quando
+in volo o telefonando ai numeri +390270143448/+390870143312
+quando a terra, comunicando aeroporto di destinazione/zona
+operazioni, rotta magnetica e quota richiesta.
+Quando in volo, richiederanno l'autorizzazione ATC per l'ingresso nel
+CTR di Torino sulla appropriata frequenza.
+h. additional prescriptions for HEMS FLT leaving ATZ and entering
+Torino CTR:
+in addition to 'blind transmission' reports as stated above, HEMS
+FLT shall notify to approach control service, call sign 'Milano Radar'
+on frequency when flying, or by phone at  +390270143448/
++390870143312 when on the ground: destination AD/ operational
+area, magnetic track and altitude requested.
+ 
+During the FLT an appropriate ATC clearance to enter Torino CTR
+shall be requested on frequency
+i. Contingency:
+condizioni meteo sotto le minime VMC:
+i. Contingency:
+weather conditions below VMC minima:
+
+=== Page 12 ===
+AD 2 LIMA 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+• il traffico in arrivo dirottera' su altro aeroporto idoneo, dandone
+immediata notifica all'esercente aeroportuale di LIMA AD,
+specificando l'aeroporto di arrivo e provvedendo a chiudere il piano
+di volo, qualora aperto, con il competente ente ATS  
+• il traffico in partenza cancellera' o ritardera' il volo, notificando
+all'esercente aeroportuale di LIMA nuovo stimato o la
+cancellazione del volo
+  avaria delle comunicazioni G/A/G
+• il traffico in arrivo procedera' per il sottovento sinistro RWY 28R.
+In caso di pista libera procedera' in base e finale per l'atterraggio
+RWY 28R. In caso di pista occupata effettuera' orbite a sinistra in
+sottovento, in attesa che la pista sia libera, in seguito base, finale
+e atterraggio
+• nel caso di ACFT in partenza, il volo verra' annullato
+• arriving traffic shall divert to another suitable aerodrome, landing
+shall be immediately notified to LIMA AD operator specifying the
+aerodrome of arrival, and if opened the FPL shall be closed with
+the relevant ATS unit
+• departing ACFT shall cancel or delay the FLT, notifying to LIMA AD
+operator the new ETD or the FLT cancellation
+ 
+G/A/G communication failure:
+• arriving traffic shall join left downwind leg RWY 28R, in case of RWY
+clear will proceed to base leg and final leg for landing RWY 28R. In
+case of RWY engaged, shall orbit on left downwind leg, until the RWY
+is clear, then proceed for base leg and final leg, for landing
+• in case of departing ACFT the FLT shall be cancelled
+j. apertura e chiusura del piano di volo:
+• l'apertura del piano di volo sara' effettuata con il primo ente ATS
+con cui l'ACFT sara' in contatto ('Milano FIC' o 'Milano ACC' in
+funzione dello spazio aereo interessato). La chiusura del piano
+di volo dovra' essere effettuata con l'ARO/CBO di Milano tramite
+telefono al numero +390270143697
+k. orari di attivita' aeroportuale durante l'assenza dei servizi ATS
+eccetto per i voli HEMS:
+• periodo invernale: 0630-0800 e 1600-SS
+• periodo estivo: 0530-0700 e 1730-SS
+j. opening/closing flight plan:
+• FLT plan will be normally opened with the first contacted ATS
+unit ('Milano FIC' or 'Milano ACC', depending on the affected
+airspace). FLT plan shall be closed with ARO/CBO Milano, by phone
+at +390270143697.
+ 
+k. aerodrome operational hours during ATS unavailability exc HEMS
+FLT:
+• winter period: 0630-0800 and 1600-SS
+• summer period: 0530-0700 and 1730-SS
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIMA AD 2.21 PROCEDURE ANTIRUMORE
+LIMA AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIMA AD 2.22 PROCEDURE DI VOLO
+LIMA AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+Sono consentiti con visibilità al suolo, su Torino/Aeritalia uguale o
+superiore a 1500 m e ceiling non inferiore a 450 m (1500 ft).
+IFR flights are allowed when ground visibility on Torino/Aeritalia airport
+is equal or more than 1500 m and ceiling is not less than 450 m (1500
+ft).
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIMA 1 - 13
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+2.2 Aeromobili in arrivo 2.2 Arriving aircraft
+I voli IFR diretti all’aeroporto di Torino/Aeritalia dovranno eseguire
+una delle procedure di avvicinamento strumentale previste per Torino/
+Caselle. Il proseguimento per l’aeroporto di Torino/Aeritalia dovrà
+avvenire in VFR o VFR speciale, una volta raggiunte, durante la
+procedura di avvicinamento strumentale, condizioni che consentono la
+cancellazione del piano di volo IFR.
+IFR flights bound to Torino/Aeritalia aerodrome shall execute an
+instrument approach procedure as published for Torino/Caselle, and to
+proceed VFR or special VFR to destination, after achieving conditions
+for cancellation of IFR PLN.
+Qualora la visibilità ed il ceiling riportati su Torino/Aeritalia siano
+inferiori rispettivamente a 1500 m e/o a 450 m (1500 ft), essi dovranno
+completare la procedura di avvicinamento strumentale con atterraggio
+a Torino/Caselle o dirottare verso l’aeroporto alternato.
+In the event of ground visibility and ceiling reported over Torino/
+Aeritalia are respectively less than 1500 m and/or 450 m (1500
+ft), aircraft shall complete approach procedure for landing at Torino/
+Caselle or divert to the alternate aerodrome.
+2.3 Aeromobili in partenza 2.3 Departing aircraft
+2.3.1. I voli IFR in partenza dall’aeroporto di Torino/Aeritalia dovranno
+ottenere, prima del decollo, l’autorizzazione ATC da Milano ACC.
+2.3.1. IFR flights from Torino/Aeritalia airport shall obtain, prior to
+take-off, the ATC clearance by Milano ACC.
+2.3.2. Dopo il decollo gli aeromobili dovranno proseguire in VFR o in
+VFR speciale sino all’inserimento nelle rotte standard di uscita previste
+per l’aeroporto di Torino/Caselle.
+2.3.2. After take-off, aircraft shall proceed VFR or special   VFR until
+joining SIDs of Torino/Caselle airport.
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+Sono consentiti voli in VFR, in deroga a quanto previsto in ENR 1.2,
+con visibilità al suolo, su Torino/Aeritalia, uguale o superiore a 1500 m
+e ceiling non inferiore a 450 m (1500 ft).
+Derogating from what stated on ENR 1.2, the VFR flights are allowed
+when the ground visibility, on Torino/Aeritalia airport, is equal or more
+then 1500 m and the ceiling is not less than 450 m (1500 ft).
+4.2 Attività di circuito 4.2 Circuit activity
+Circuito di traffico: aeromobili e alianti a  Sud  della  pista.  Nei circuiti
+di traffico non è ammessa la presenza contemporanea di più di tre
+alianti e di tre aeromobili. Non più di due aerei per volta potranno
+volare nel tratto sottovento.
+Traffic circuit: airplanes and gliders South of the RWY. In the  traffic
+circuit maximum three airplanes and three gliders are allowed at the
+same moment. Not more than two aircraft will be flown on downwind
+leg.
+4.2.1 RWY 28R 4.2.1 RWY 28R
+Dopo il decollo mantenendo rotta 280°, raggiungere 700 ft AGL (1600
+ft QNH) a Sud di Pianezza, quindi virare a sinistra rotta 180° (è
+consigliato riportare in controbase). All’inizio di Corso Allamano virare
+a sinistra per rotta 090° mantenendosi a Nord di Corso Allamano
+e riportare in sottovento su Grugliasco. Sull’incrocio   ferroviario
+riportare virando in base mantenendo la quota. Dopo aver virato a
+sinistra rotta 020° iniziare a scendere per portarsi a 500 ft AGL (1400
+ft QNH) quindi riportare in finale.
+After take-off, maintain track 280°,until passing 700 ft AGL (1600 ft
+QNH) South of Pianezza, then turn left track 180° (it is suggested to
+report before downwind). At the beginning of Corso Allamano turn left
+track 090° keeping North of Corso Allamano and report downwind over
+Grugliasco. Report turning on base over the railway cross maintaining
+altitude. Start descending to 500 ft AGL (1400 ft QNH) after left turn
+track 020°, then report on final.
+4.2.2 RWY 10L 4.2.2 RWY 10L
+Circuito di traffico non disponibile a causa della non usabilità della pista
+10L per i decolli.
+Traffic circuit not available as RWY 10L cannot be used  for take-off
+operations.
+4.2.3 Inserimento ed uscita dai circuiti di traffico 4.2.3 Entry and exit traffic circuits routes
+Gli inserimenti e le uscite dai circuiti di traffico per pista 10L/28R
+dovranno essere effettuati lungo le direttrici:
+a. Pista in uso 10L:
+arrivi: ALPIGNANO (MAW1) – finale diretto per pista 10L;
+b. Pista in uso 28R: b)
+arrivi: RIVOLI (MASW) – rotta magnetica 090° per Grugliasco –
+sottovento;
+partenze: rotta diretta per ALPIGNANO (MAW1).
+Aircraft inbound and outbound from the traffic circuits RWY 10L/28R
+shall fly along the following routes:
+a. RWY in use 10L:
+arrivals:  ALPIGNANO (MAW1) – direct final for RWY 10L;
+b. RWY in use 28R:
+arrivals: RIVOLI (MASW) – magnetic track 090° to Grugliasco –
+downwind;
+departures: direct route to ALPIGNANO (MAW1).
+4.3 Arrivi 4.3 Arrivals
+4.3.1 Entrata da Nord 4.3.1 From North
+Riportare a due minuti da CASELETTE (MANW1); quindi CASELETTE
+(MANW1) a quota non inferiore a 1500 ft AGL (2500 ft QNH). Virare
+per rotta 155° riportando RIVOLI (MASW) mantenendo 1500 ft AGL.
+Virare a sinistra rotta 090° e dopo la tangenziale iniziare a scendere per
+700 ft AGL (1600 ft QNH). Riportare sottovento seguendo le procedure
+previste per il circuito di traffico aeroportuale.
+Report two minutes before CASELETTE (MANW1); then report
+CASELETTE (MANW1) not below 1500 ft AGL (2500 ft QNH). Turn on
+track of 155° reporting RIVOLI (MASW) maintaining 1500 ft AGL. Turn
+left track 090° and descend to 700 ft AGL (1600 ft QNH) after ring road.
+Report downwind according to procedures in force for the aerodrome
+traffic pattern.
+4.3.2 Entrata da Sud 4.3.2 From South
+Riportare sorvolando ORBASSANO (MAS1), specificando la
+provenienza TOP VOR/DME o NONE (MFSW4), quindi RIVOLI (MASW)
+ad una quota non inferiore a 1500 ft AGL (2500 ft QNH). Virare a destra
+rotta 090° e dopo la tangenziale iniziare a scendere per 700 ft AGL
+(1600 ft QNH). Quindi raggiungere il circuito di traffico aeroportuale.
+Report flying over ORBASSANO (MAS1), specifying coming point TOP
+VOR/DME or NONE (MFSW4), then  RIVOLI (MASW) not below 1500 ft
+AGL (2500 ft QNH). Turn right track 090° and descend to 700 ft AGL
+(1600 ft QNH), after the ring road. Then join aerodrome traffic pattern.
+
+=== Page 14 ===
+AD 2 LIMA 1 - 14
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+4.4 Partenze 4.4 Departures
+Sia per le uscite dirette a Nord che ad Ovest che a Sud, il punto di
+riporto è ALPIGNANO (MAW1) che deve essere raggiunto a 1000 ft
+AGL (2000 ft QNH) e non al di sopra. Riportare lasciando ALPIGNANO
+(MAW1) specificando se diretti a Nord (mantenere la quota fino ad
+Mathi) a Ovest (mantenere la quota fino ad Almese) a Sud, mantenere
+la quota fino a NONE (MFSW4).
+E’ importante che i piloti rispettino le quote e diano i riporti di posizione
+in modo corretto.
+ALPIGNANO (MAW1) is the reporting point of Northbound, Westbound
+and Southbound traffic, which is to be flown steady at 1000 ft AGL
+(2000 ft QNH). Report leaving ALPIGNANO (MAW1), specifying if
+Northbound (maintain level to Mathi) or Westbound (maintain level to
+Almese) or Southbound, maintain level to NONE (MFSW4).
+It is important that pilots comply with levels and make position reports
+in a correct way.
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIMA AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIMA AD 2.23 ADDITIONAL INFORMATION
+1 Generalità 1 General
+L’attività volovelistica è consentita: Gliders activity permitted:
+1.1. in deroga a quanto previsto in AIP ENR 1.2, con visibilità al suolo
+su Torino/Aeritalia, uguale o superiore a 1500 m e ceiling non inferiore
+a 450 m (1500 ft);
+1.1. by way of exception to AIP ENR 1.2 when visibility at Torino/
+Aeritalia is not less than 1500 m and ceiling not less than 450 m (1500
+ft);
+1.2. è svolta entro il circuito di traffico della pista 10L/28R; 1.2. the activity is carried out within traffic circuit RWY 10L/28R;
+1.3. i piloti dovranno mantenere contatto radio ed attenersi alle regole
+generali del volo VFR.
+1.3. pilots shall maintain radio contact and comply with general VFR
+flight rules.
+2 Restrizioni 2 Restrictions
+Nel circuito di traffico non è ammessa la presenza contemporanea di
+più di tre alianti.
+Not more than three gliders may fly simultaneously in the traffic
+pattern.
+3 Norme particolari 3 Special rules
+3.1 Decolli 3.1 Take-off
+Avverranno normalmente per pista 28L e dovranno effettuare una
+virata a sinistra. In caso di inagibilità della pista 28L avverranno per
+pista 28R e dovranno comunque effettuare una virata a sinistra dopo
+il decollo.
+Take-off allowed normally from RWY 28L. ACFT must turn left. If RWY
+28L is not available take-off allowed from RWY 28R. In any case ACFT
+must turn left after take-off.
+3.2 Rotta di uscita 3.2 Exit route
+Traino ed aliante dopo il decollo saliranno a Sud-Ovest della pista,
+effettuando, normalmente, un 360° a sinistra raggiungendo una quota
+non inferiore a 1500 ft; dirigeranno quindi i voli verso BRUERE (MAW2)
+attraversando Cascine Vica ad una quota non inferiore a 2000 ft,
+mantenendosi sempre lateralmente a Nord di Corso Francia.
+After take-off towing aircraft and gliders shall climb South-West of
+runway, making normally a 360° on the left side reaching at least 1500
+ft; they shall proceed then to BRUERE (MAW2) crossing Cascine Vica
+not below 2000 ft, always flying North side of Corso Francia.
+3.3 Rotta di rientro e circuito di atterraggio alianti 3.3 Return route and landing pattern of gliders
+Gli alianti di rientro dovranno procedere da BRUERE (MAW2) verso
+Corso Francia ad una quota di sicurezza che garantisca il rientro fino a
+Cascine Vica. Dopo il cavalcavia ferroviario dirigeranno sulla verticale
+degli stabilimenti “ALENIA” per eventuale perdita di quota e successiva
+sequenza all’atterraggio che avverrà su apposite zone per alianti a Sud
+della pista 10R/ 28L.
+Proceed from BRUERE (MAW2) toward Corso Francia, flying at a safety
+altitude to allow the arrival over Cascine Vica. After the bridge over
+the railway proceed to the vertical of “ALENIA” plant for altitude loss,
+if needed, and the following landing sequence that will take place in
+areas suitable for gliders South of RWY 10R/28L.
+3.4 Altezze massime 3.4 Maximum levels
+Sono quelle consentite nel rispetto dei limiti verticali previste per
+i settori 3, 4 e 5 (vedi tab 17). Altezze diverse possono essere
+autorizzate da Milano ACC, in funzione del traffico strumentale in atto
+su Torino/Caselle.
+The levels according to the vertical limits of sectors 3, 4 and 5 (see
+tab 17). Different levels may be authorized by Milano ACC according
+to the current instrumental traffic over Torino/ Caselle.
+3.5 Rotta di rientro e circuito di atterraggio del trainatore 3.5 Return route and landing pattern of towing ACFT
+Dopo lo sgancio, il velivolo  trainatore,  per portarsi all’atterraggio,
+ procederà seguendo le rotte ed i circuiti previsti per il volo a
+After unhooking, the towing aircraft shall proceed following routes and
+circuit for engine aircraft and, after unhooking the wire rope, shall land
+on runway 28L or 28R according to the current  traffic.
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIMA 1 - 15
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+motore;dopo aver effettuato lo sgancio del cavo di traino, atterrerà
+sulla pista 28L o 28R in funzione del traffico in atto.
+ 
+ 
+ 
+3.6 Impiego operativo delle piste in volo 3.6 Operational use of RWY
+Rispetto all’attività di volo a motore svolta sulla pista 10L/28R è
+ammessa contemporaneità di impiego solo con l’atterraggio alianti
+sulla zona delimitata a Sud della pista 10R/28L. Non è consentito
+l’impiego contemporaneo delle piste 10L/28R e 10R/ 28L.
+When engine aircraft activity is operative on RWY 10L/28R
+simultaneous use is possible only with gliders landing on the area south
+of RWY 10R/28L. No simultaneous use of RWYs 10L/28R or 10R/28L
+is allowed.
+LIMA AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIMA AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIMA 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 10L/28R  AD 2 LIMA 3 - 1
+AERODROME PATTERNS  AD 2 LIMA 8 - 1
+Carte - Charts Pagine - Pages 
+Aerodrome Obstacle Chart - Type B Vedi/See GEN 3.2
+LIMA AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIMA AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 16 ===
+AD 2 LIMA 1 - 16
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+

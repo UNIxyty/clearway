@@ -1,0 +1,3991 @@
+=== Page 1 ===
+AIP-CUBA AD 2 MUCL 1 - 1
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+AD 2 AERODROMOS AD 2 AERODROMES
+MUCL AD 2.1 INDICADOR DE LUGAR Y NOMBRE DEL AERODROMO
+MUCL AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+MUCL - CAYO LARGO DEL SUR / Vilo Acuña Intl.
+MUCL AD 2.2 DATOS GEOGRAFICOS Y ADMINISTRATIVOS DEL AERODROMO
+MUCL AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordenadas del ARP y
+emplazamiento en el AD
+  ARP coordinates and site at AD
+213658N 0813244W
+Punto centro de
+Mid point of RWY 12/30
+2 Dirección y distancia desde (ciudad)
+  Direction and distance from (city) 293º, 4 KM FM área turística  / 293°, 4KM FM touristic area
+3 Elevación/temperatura de referencia
+  Elevation / Reference temperature
+(Mean Low temperature)
+Elev: 10 FT (3 M) / T: 31.7° C (Mean Low T: NIL)
+4 Ondulación geoidal en AD ELEV PSN
+  Geoid undulation at AD ELEV PSN -62 FT (-19 M)
+5 MAG VAR/Cambio anual
+  MAG VAR / Annual change 7° W (2025) / -0.10°
+6 Administración, dirección, teléfono,
+telefax, télex, AFS del AD
+  AD Administration, address, telephone,
+telefax, telex, AFS
+ECASA
+Aeropuerto Internacional “Vilo Acuña”
+Cayo Largo del Sur, Cuba. 
+  
+Tel: (53-45) 24 8207 EXT 187 / 121
+Tel: (53-45) 24 8141 EXT 187 / 121
+Tel: (53-45) 24 8142 EXT 187 / 121
+Tel: (53-45) 24 8143 EXT 187 / 121
+Tel: (53-45) 24 8144 EXT 187 / 121
+Tel: (53-45) 24 8145 EXT 187 / 121
+Tel: (53-45) 24 8146 EXT 187 / 121
+Fax: (53-45) 24 8205
+Fax: (53-45) 24 8207
+email: direccion@cyo.ecasa.avianet.cu
+7 Tipos de tránsito permitidos (IFR/VFR)
+  Types of traffic permitted (IFR/VFR) IFR/VFR
+8 Observaciones
+  Remarks NIL
+MUCL AD 2.3 HORAS DE FUNCIONAMIENTO
+MUCL AD 2.3 OPERATIONAL HOURS
+1 Administración del AD
+  AD Administration
+1200/ 2359 UTC DLY. 
+Horario de Verano/Summer Time: 1100/ 2300 UTC DLY
+ 
+2 Aduanas e inmigración
+  Customs and immigration
+1200/ 2359 UTC DLY. 
+Horario de Verano/Summer Time: 1100/ 2300 UTC DLY
+3 Dependencias de sanidad
+  Health and sanitation
+1200/ 2359 UTC DLY. 
+Horario de Verano/Summer Time: 1100/ 2300 UTC DLY
+4 Oficina de notificación AIS
+  AIS Briefing Office
+1200/2359 UTC DLY.
+Horario de Verano / Summer Time: 1100/ 2300 UTC DLY
+
+=== Page 2 ===
+AD 2 MUCL 1 - 2
+05 FEB 2025
+AIP-CUBA
+AIP AMDT 01/25 AIS-CUBA
+5 Oficina de notificación ATS (ARO)
+  ATS Reporting Office (ARO)
+1200/2359 UTC DLY.
+Horario de Verano / Summer Time: 1100/ 2300 UTC DLY
+6 Oficina de notificación MET
+  MET Briefing Office
+1200/2359 UTC DLY.
+Horario de Verano/Summer Time: 1100/ 2300 UTC DLY.
+7 ATS
+  ATS
+1200/2359 UTC DLY.
+Horario de Verano / Summer Time: 1100/ 2300 UTC DLY.
+8 Abastecimiento de combustible
+  Fuelling
+1200/ 2359 UTC DLY. 
+Horario de Verano/Summer Time: 1100/ 2300 UTC DLY
+9 Servicios de escala
+  Handling
+1200/ 2359 UTC DLY. 
+Horario de Verano/Summer Time: 1100/ 2300 UTC DLY
+10 Seguridad
+  Security H24
+11 Descongelamiento
+  De-icing NIL
+12 Observaciones
+  Remarks
+Para vuelos domésticos fuera de estas horas  O/R 24 HR BFR
+For domestic flights out of these hours O/R 24 HR BFR
+MUCL AD 2.4 INSTALACIONES Y SERVICIOS DE ESCALA
+MUCL AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Instalaciones de manipulación de la
+carga
+  Cargo-handling facilities
+Portacontenedores, cinta transportadora, elevadoras y carretillas a
+granel. 
+Plataforma elevadora
+Max altura: Hasta 3.7 m
+Max peso: Hasta 7 ton
+Carries containers, conveyor belt, lifts and load wagons.
+Higloader
+Max height: Up to 3.7 m
+Max weight: Up to 7 ton
+2 Tipos de combustible/lubricante
+  Fuel / oil types
+Combustible: JET A1
+Lubricante: NIL
+Fuel: JET A1
+Oil: NIL
+3 Instalaciones/capacidad de
+reabastecimiento
+  Fuelling facilities/capacity
+Camiones cisternas 8800 l. 2400 l/min
+Tanker trucks 8800 l. 2400 l/min
+4 Instalaciones de descongelamiento
+  De-icing facilities NIL
+5 Espacio de hangar para aeronaves
+visitantes
+  Hangar space for visiting aircraft
+NIL
+6 Instalaciones para reparaciones de
+aeronaves visitantes
+  Repair facilities for visiting aircraft
+NIL
+7 Observaciones
+  Remarks
+Instalaciones y equipos para la asistencia en tierra.
+GPU: 115v CA/ 90Kva.
+GPU: 28v CD.
+ASU: 40 psi/ 250 lb/ min.
+Descarga de baños.
+Facilities and equipment for ground handling.
+GPU: 115v AC/ 90Kva.
+GPU: 28v DC.
+ASU: 40 psi/ 250 lb/ min.
+Toilet flushing.
+
+=== Page 3 ===
+AIP-CUBA AD 2 MUCL 1 - 3
+11 DEC 2024
+AIS-CUBA AMDT 106-24
+MUCL AD 2.5 INSTALACIONES Y SERVICIOS PARA LOS PASAJEROS
+MUCL AD 2.5 PASSENGER FACILITIES
+1 Hoteles
+  Hotels
+Cerca del AD
+Near the AD
+2 Restaurantes
+  Restaurants
+Cerca del AD
+Near the AD
+3 Transporte
+  Transportation
+Autobuses, taxis y alquiler de automóviles desde el AD
+Buses, taxis and car hire from the AD.
+4 Instalaciones y servicios médicos
+  Medical facilities
+Primeros auxilios en el AD, ambulancias (H24). Clínica cerca del
+AD/First aids at AD, ambulances (H24).
+Clinic near the AD.
+5 Oficinas bancarias y de correos
+  Bank and Post Office
+Banco: Cerca del AD
+Oficinas de correos: Cerca del AD
+Bank: Near the AD
+Post: Near the AD
+6 Oficina de turismo
+  Tourist Office
+En los hoteles
+In the hotels
+7 Observaciones
+  Remarks
+Cafetería en el AD.
+Cafeteria in the AD.
+MUCL AD 2.6 SERVICIOS DE SALVAMENTO Y DE EXTINCIÓN DE INCENDIOS
+MUCL AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 Categoría del AD para la extinción de
+incendios
+  AD category for fire fighting
+CAT 9
+2 Equipo de salvamento
+  Rescue equipment
+Disponible, acorde a la categoría del AD.
+Available, according to airport category.
+3 Capacidad para retirar aeronaves
+inutilizadas
+  Capability for removal of disabled
+aircraft
+NIL
+4 Observaciones
+  Remarks NIL
+MUCL AD 2.7 DISPONIBILIDAD SEGÚN LA ESTACIÓN DEL
+AÑO – REMOCIÓN DE OBSTACULOS EN LA SUPERFICIE
+MUCL AD 2.7 SEASONAL AVAILABILITY — CLEARING
+No se aplica / Not applicable
+MUCL AD 2.8 DATOS SOBRE LA PLATAFORMA,
+CALLES DE RODAJE Y EMPLAZAMIENTOS /
+POSICIONES DE VERIFICACIÓN DE EQUIPO /
+MUCL AD 2.8 APRONS, TAXIWAYS AND
+EMPLACEMENT / EQUIPMENT CHECK LOCATIONS DATA
+
+=== Page 4 ===
+AD 2 MUCL 1 - 4
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+1 superficie y resistencia de la
+plataforma
+  Apron surface and strength
+Designación Superficie Resistencia
+Designator Surface Strength
+1 Asfalto
+Asphalt NIL
+2 Asfalto
+Asphalt NIL
+2 Anchura, superficie y resistencia de las
+calles de rodaje
+  Taxiway width, surface and strength
+Designación Anchura Superficie Resistencia
+Designator
+of TWY
+Width Surface Strength
+A 23 M Asfalto
+Asphalt NIL
+B 23 M Asfalto
+Asphalt NIL
+C 23 M Asfalto
+Asphalt NIL
+3 Emplazamiento y elevación ACL
+  Altimeter checkpoint location and
+elevation
+Emplazamiento/Elevación: En la plataforma / NIL
+Location/Elevation: At apron / NIL
+4 Puntos de verificación VOR
+  VOR checkpoints NIL
+5 Puntos de verificación INS
+  INS checkpoints NIL
+6 Observaciones
+  Remarks PCR ver/ see AIRAC AIP-SUP 02/25
+MUCL AD 2.9 SISTEMA DE GUIA Y CONTROL DEL
+MOVIMIENTO EN LA SUPERFICIE Y SEÑALES
+MUCL AD 2.9 SURFACE MOVEMENT GUIDANCE
+AND CONTROL SYSTEM AND MARKINGS
+1 Uso de signos ID en los puestos de
+aeronaves Líneas de guía TWY y
+sistemas de guía visual de atraque
+y estacionamiento de los puestos de
+aeronaves
+  Use of aircraft stand ID signs, TWY
+guide lines and visual docking/parking
+guidance system of aircraft stands
+Señales de guía de rodaje en todas las intersecciones con TWY
+y RWY y en todos los puntos de espera. Líneas de guía en la
+plataforma. Guía de estacionamiento proa hacia adentro en los
+puestos de ACFT.
+Taxing guidance sings at all intersections with TWY and RWY and
+at all holding positions. Guide lines at apron. Nose-in guidance at
+ACFT stands.
+2 Señales y LGT de RWY y TWY
+  RWY and TWY markings and LGT
+RWY: Designación, THR, TDZ y eje señalados. Bordes y extremos
+de pista iluminados. 
+TWY: Eje, borde y puntos de espera señalados. Bordes iluminados.
+RWY: Designation, THR, TDZ and center line marked. Edges and
+runway ends lighted. 
+TWY: Center line, edge and holding positions marked. Edges
+lighted.
+3 Barras de parada
+  Stop bars and runway guard lights NIL
+4 Otra protección de pista
+  Other runway protection measures NIL
+5 Observaciones
+  Remarks NIL
+MUCL AD 2.10 OBSTÁCULOS DEL AERÓDROMO
+
+=== Page 5 ===
+AIP-CUBA AD 2 MUCL 1 - 5
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+MUCL AD 2.10 AERODROME OBSTACLES
+En el Área 2 / In Area 2
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+En las áreas de aproximación/TKOF / In approach/TKOF areas
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+CL5 Árbol / Tree TREE 213621N 0813132W 22 M /
+20 M
+NIL 30/APCH
+ 
+CL6 Árbol / Tree TREE 213623N 0813132W 22 M /
+19 M
+NIL 30/APCH
+ 
+CL7 Árbol / Tree TREE 213624N 0813130W 22 M /
+19 M
+NIL 30/APCH
+ 
+CL8 Árbol / Tree TREE 213638N 0813154W 19 M /
+17 M
+NIL 30/APCH
+ 
+CL9 Árbol / Tree TREE 213634N 0813157W 19 M /
+18 M
+NIL 30/APCH
+ 
+CL10 Árbol / Tree TREE 213635N 0813155W 21 M /
+19 M
+NIL 30/APCH
+ 
+CL11 Árbol / Tree TREE 213631N 0813146W 21 M /
+19 M
+NIL 30/APCH
+ 
+CL12 Árbol / Tree TREE 213632N 0813153W 21 M /
+18 M
+NIL 30/APCH
+ 
+CL13 Árbol / Tree TREE 213628N 0813148W 21 M /
+18 M
+NIL 30/APCH
+ 
+CL14 Árbol / Tree TREE 213633N 0813140W 22 M /
+20 M
+NIL 30/APCH
+ 
+CL15 Árbol / Tree TREE 213624N 0813141W 22 M /
+20 M
+NIL 30/APCH
+ 
+CL16 Árbol / Tree TREE 213623N 0813140W 23 M /
+20 M
+NIL 30/APCH
+ 
+En el Área 3 / In Area 3
+OBST ID / Designación
+Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation
+OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+
+=== Page 6 ===
+AD 2 MUCL 1 - 6
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+MUCL AD 2.11 INFORMACION METEOROLÓGICA PROPORCIONADA
+MUCL AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Oficina MET asociada
+  Associated MET Office Cayo Largo del Sur
+2 Horas de servicio
+Oficina MET fuera de horario
+  Hours of service
+MET Office outside hours
+1200/2359 UTC DLY.
+Horario de Verano / Summer Time: 1100/2300 UTC DLY.
+Para operaciones nacionales fuera de estas horas / 
+For national operations out of these hours O/R 24HR BFR.
+3 Oficina responsable de la preparación
+TAF
+Períodos de validez
+  Office responsible for TAF preparation
+Period of validity
+MWO La Habana
+H24
+4 Tipo de pronóstico de aterrizaje
+Intervalo de emisión
+  Trend forecast
+Interval of issuance
+NIL
+5 Aleccionamiento/consulta
+proporcionados
+  Briefing/consultation provided
+Consulta personal (P)
+Personal consultation (P)
+6 Documentación de vuelo
+Idioma(s) utilizado(s)
+  Flight documentation
+Language(s) used
+Cartas, METAR, TAF, SIGMET, Texto, Español-Inglés.
+Charts, METAR, TAF, SIGMET, Plain Text, Spanish-English.
+7 Cartas y demás información disponible
+para aleccionamiento o consulta
+  Charts and other information available
+for briefing or consultation
+S, U85, U70, U50, U30, U20, P85, P70, P50, P40, P30, P20,
+SWH, SWM, T.
+8 Equipo suplementario disponible para
+proporcionar información
+  Supplementary equipment available for
+providing information
+Telefax, Estación de trabajo de la red METEONET.
+Telefax, Work station of METEONET network
+9 Dependencias ATS que reciben
+información
+  ATS units provided with information
+APP Habana Center.
+TWR Cayo Largo del Sur.
+10 Información adicional (limitación de
+servicio, etc.)
+  Additional information (limitation of
+service, etc.)
+NIL
+MUCL AD 2.12 CARACTERÍSTICAS FÍSICAS DE LAS PISTAS
+MUCL AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+
+=== Page 7 ===
+AIP-CUBA AD 2 MUCL 1 - 7
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+Designadores
+RWY
+BRG GEO
+y MAG
+Dimensiones
+de RWY
+Resistencia (PCN)
+y superficie de
+RWY y SWY
+Coordenadas THR
+Coordenadas
+RWY end
+ondulación
+geoidal THR
+Elevación THR
+y elevación
+máxima de
+TDZ de RWY
+APP precisión
+RWY
+Designator
+TRUE &
+MAG BRG
+Dimension
+of RWY (M)
+Strength (PCN)
+and surface of
+RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation
+and highest
+elevation of
+TDZ of precision
+APP RWY
+1 2 3 4 5 6
+12 116.00° GEO
+123.00° MAG 3000 x 45
+Asfalto
+Asphalt
+SWY: NIL
+213719.91N
+0813331.02W
+END: NIL
+GUND: -19 M
+THR 2 M
+TDZ: NIL
+30 296.00° GEO
+303.00° MAG 3000 x 45
+Asfalto
+Asphalt
+SWY: NIL
+213637.11N
+0813157.26W
+END: NIL
+GUND: -19 M
+THR 3 M
+TDZ: NIL
+Designadores
+RWY
+Pendiente
+de RWY-
+SWY
+Dimensiones
+SWY
+Dimensiones
+CWY
+Dimensiones
+de franja
+Dimensiones
+del RESA
+Localización/
+descripción
+del sistema
+de retención
+OFZ
+RWY
+Designator
+Slope of
+RWY-SWY
+SWY
+dimensions
+(M)
+CWY
+dimensions
+(M)
+Strip
+dimensions
+(M)
+RESA
+dimensions
+(M)
+Location/
+description
+of arresting
+system
+OFZ
+1 7 8 9 10 11 12 13
+12 +0.033% 60 x 45 NIL 3240 x 300 90 x 90 NIL NIL
+30 -0.033% 60 x 45 NIL 3240 x 300 90 x 90 NIL NIL
+Designadores
+RWY
+Observaciones
+RWY
+Designator Remarks
+1 14
+12
+PCR ver/ see AIRAC AIP-SUP 02/25
+Slope of RWY-SWY
++0.06% -0.06%
+(900M) (960M)
++0.08% 0.0% 
+(1140M) (60M SWY)
+30
+PCR ver/ see AIRAC AIP-SUP 02/25
+Slope of RWY-SWY
+-0.08% +0.06%
+ (1140M) (960M)
+ -0.06% -0.34% 
+(900M) (60M SWY)
+MUCL AD 2.13 DISTANCIAS DECLARADAS
+MUCL AD 2.13 DECLARED DISTANCES
+
+=== Page 8 ===
+AD 2 MUCL 1 - 8
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+Designador
+RWY
+Observaciones
+RWY
+Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+12 3000 3000 3060 3000 NIL
+30 3000 3000 3060 3000 NIL
+MUCL AD 2.14 LUCES DE APROXIMACIÓN Y DE PISTA
+MUCL AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designador
+RWY
+Tipo LGT APCH
+y LEN INTST
+Color LGT
+THR WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN Longitud,
+espaciado,
+color, INTST
+LGT eje RWY
+RWY
+Designator
+APCH LGT type
+LEN INTST
+THR LGT
+colour WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN RWY Centre
+Line LGT
+Length, spacing,
+colour, INTST
+1 2 3 4 5 6
+12
+SALS
+SIMPLE
+420 M
+LIM
+Verde
+Green
+PAPI
+Left side/3°
+20.4 M
+NIL NIL
+30 NIL Verde
+Green
+PAPI
+Left side/3°
+19.53 M
+NIL NIL
+Designador
+RWY
+Longitud, espaciado,
+color, INTST
+LGT borde RWY
+Color LGT extremo
+RWY WBAR
+LEN (M) LGT SWY
+color
+Observaciones
+RWY
+Designator
+RWY edge LGT LEN,
+spacing colour INTST
+RWY End LGT
+colour WBAR
+SWY LGT LEN
+colour
+Remarks
+1 7 8 9 10
+12
+3000 M, 60 M
+Blanco
+White
+LIM
+YCZ 600 M.
+Rojo
+Red NIL NIL
+30
+3000 M, 60 M
+Blanco
+White
+LIM
+YCZ 600 M.
+Rojo
+Red NIL NIL
+MUCL AD 2.15 OTRAS LUCES, FUENTE SECUNDARIA DE ENERGÍA
+MUCL AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 Emplazamiento, características y horas
+de funcionamiento ABN/IBN
+  ABN/IBN location, characteristics and
+hours of operation
+ABN: En el edificio de la torre FLG W/G EV 2 SEC.
+H24
+ABN: At tower building FLG W/G EV 2 SEC.
+H24
+2 Emplazamiento LDI Y LGT y
+Anemómetro y LGT
+  LDI location and LGT Anemometer
+location and LGT
+Anemómetro ultrasónico:
+1- 200M FM THR 12  y 120M FM RWY CL
+Ultrasonic anemometer.
+1- 200M FM THR 12 and 120M FM RWY CL
+
+=== Page 9 ===
+AIP-CUBA AD 2 MUCL 1 - 9
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+3 Luces de borde y eje de TWY
+  TWY edge and centre line lighting
+Borde de TWY/Taxiway edge:
+A BLUE
+B BLUE
+C BLUE
+  
+Eje de TWY/Taxiway centre line:
+A No disponible
+Not available
+B No disponible
+Not available.
+C No disponible
+Not available
+4 Fuente auxiliar de energía/tiempo de
+conmutación
+  Secondary power supply/switch-over
+time
+Fuente auxiliar de energia para todas las luces en el AD.Tiempo de
+conmutacion: 14 SEC.
+Secondary power supply to lighting at AD. Switch-over time: 14 SEC
+5 Observaciones
+  Remarks NIL
+MUCL AD 2.16 ÁREA DE ATERRIZAJE DE HELICÓPTEROS
+MUCL AD 2.16 HELICOPTER LANDING AREA
+No se aplica / Not applicable
+MUCL AD 2.17 ESPACIO AÉREO ATS
+MUCL AD 2.17 ATS AIRSPACE
+Designación y
+límites laterales
+Límites
+verticales
+Clasificación
+del espacio
+aéreo
+Distintivo de
+llamada de la
+dependencia
+ATS Idioma (s)
+Altitud de
+transición
+Horas de
+aplicabilidad
+Observaciones
+Designation
+and lateral limits
+Vertical limits Airspace
+classification
+ATS unit
+call sign
+Language(s)
+Transition
+altitude
+Hours of
+applicability
+Remarks
+1 2 3 4 5 6 7
+CTR
+Circulo centrado
+en / Circular
+area centered on
+213658N 0813244W
+(ARP MUCL) en un
+radio de / withing a
+radius 10 NM.
+  FL065   
+  GND   
+D Santa Clara
+Terminal
+Terminal
+Santa Clara
+Inglés, Español
+English,
+Spanish
+3000 FT
+AMSL
+1200/2359
+UTC DLY.
+Horario de
+Verano/
+Summer Time:
+1100/ 2300
+UTC DLY.
+NIL
+ATZ
+Circulo centrado
+en / Circular
+area centered on
+213658N 0813244W
+(ARP MUCL) en un
+radio de / withing a
+radius 3 NM.
+  1500
+FT AGL
+  
+  GND   
+D Cayo
+Largo TWR
+Inglés, Español
+English,
+Spanish
+3000 FT
+AMSL
+1200/2359
+UTC DLY.
+Horario de
+Verano/
+Summer Time:
+1100/ 2300
+UTC DLY.
+NIL
+MUCL AD 2.18 INSTALACIONES DE COMUNICACIONES ATS
+MUCL AD 2.18 ATS COMMUNICATION FACILITIES
+
+=== Page 10 ===
+AD 2 MUCL 1 - 10
+04 SEP 2025
+AIP-CUBA
+AIRAC AIP AMDT 1/25 AIS-CUBA
+Designación
+del servicio
+Distintivo de llamada Frecuencia SATVOICE Dirección
+de
+conexión
+Horas de
+funcionamiento
+Observaciones
+Service
+designation
+Callsign Frequency SATVOICE Logon
+address
+Hours of operation Remarks
+1 2 3 4 5 6 7
+126.900 MHZ H24
+5562.000 KHZ H24
+8876.000 KHZ H24
+A/G MUCL Radio Boyeros
+11321.000
+KHZ
+NIL NIL
+H24
+NIL
+119.100 MHZ 1400/2000 UTC
+124.550 MHZ 1200-1529 UTC
+DLY Horario de
+Verano / Summer
+Time: 1100-1429
+UTC DLY.
+APP Terminal Santa Clara
+133.700 MHZ
+NIL NIL
+2001/1359 UTC
+NIL
+118.500 MHZ 1200-2359 UTC
+DLY Horario de
+Verano / Summer
+Time: 1100-2300
+UTC DLY
+TWR Cayo Largo TWR
+121.500 MHZ
+NIL NIL
+1200-2359 UTC
+DLY Horario de
+Verano/Summer
+Time: 1100-2300
+UTC DLY
+Para emergencia
+solamente /
+For emergency
+use only 121.500
+MHZ
+MUCL AD 2.19 RADIOAYUDAS PARA LA NAVEGACIÓN Y EL ATERRIZAJE
+MUCL AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo de ayuda
+MAG VAR
+Tipo de
+ILS/MLS
+ID Frecuencia Horas de
+funcionamiento
+Coordenadas
+del
+emplazamiento
+de la antena
+transmisora
+Elevación
+de la antena
+transmisora
+del DME
+Servicio
+volume
+radio
+de GBAS
+referencia
+Punto
+Observ.
+Type of aid
+MAG VAR
+CAT of
+ILS/MLS
+ID Frequency Hours of
+operation
+Site of
+transmitting
+antenna
+coordinates
+Elevation
+of DME
+transmitting
+antenna
+Service
+volume
+radius
+from GBAS
+reference
+Point
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+06° W (2025)
+UCL 112.100
+MHZ
+CH 58X
+H24 213618.07N
+0813157.71W
+30 M
+(98 FT)
+NIL Cobertura /
+Coverage: 170
+NM
+ AE
+MUCL AD 2.20 REGLAMENTO LOCAL DEL AERODROMO
+MUCL AD 2.20 LOCAL AERODROME REGULATIONS
+Aeródromo cerrado para aeronaves NORDO. Aerodrome closed for NORDO aircraft.
+
+=== Page 11 ===
+AIP-CUBA AD 2 MUCL 1 - 11
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+Circuito de tránsito izquierdo, a menos que el ATC indique
+otro.
+Left traffic circuit, unless the ATC indicates another one.
+Prohibido realizar giros de 180º en el área de las pistas
+12/30 a aeronaves con más de MTOW 25 TON. Los giros
+serán posibles en los extremos de pista (plataforma de
+viraje) 12/30.
+Aircraft more than MTOW 25 TON prohibited to make 180
+deg turns on runways 12/30.The turns will be possible only
+in runway ends (apron taxiway) of runways 12/30.
+MUCL AD 2.21 PROCEDIMIENTOS DE ATENUACION DEL RUIDO
+MUCL AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL NIL
+MUCL AD 2.22 PROCEDIMIENTOS DE VUELO
+MUCL AD 2.22 FLIGHT PROCEDURES
+Tiempo estimado de arribo:
+Todas las Aeronaves con no más de 40 minutos y no
+menos de 20 minutos antes del arribo deben informar a
+la Estación Aeronáutica de Radio Boyeros a través de la
+frecuencia de 126.900 MHz la hora prevista de llegada
+(ETA), cantidad de pasajeros, carga, correo o alguna otra
+información adicional necesaria para el servicio a prestar
+en Rampa.
+Estimated time of arrival:
+All Aircraft with not more than 40 minutes and not
+less than 20 minutes before the arrival should inform
+to the Aeronautical Station of Radio Boyeros through
+the frequency 126.900 MHz the estimated time of arrival
+(ETA), quantity of passengers, loads, mail or some other
+necessary additional information for the service to lend in
+Apron.
+Después de comunicar la hora prevista de llegada (ETA)
+a dicha estación aeronáutica, cada aeronave (procediendo
+VFR o IFR) recibirá del radioperador la rampa y posición de
+estacionamiento asignada por el Departamento de Control
+de Rampas pertenecientes a la Subdirección de
+Operaciones en Tierra.
+After communicating the estimated time of arrival (ETA)
+to this aeronautical station, each aircraft (proceeding VFR
+or IFR) will receive from the radioperator the apron and
+parking position assigned by the Aprons Control
+Department belonging to the Assistant Director of Ground
+Operations.
+Los cambios que surjan de ultima hora les serán
+informados a la tripulación posterior a su aterrizaje en
+118.500 MHz por la Torre de Control.
+Changes which arise lately will be informed to the crew
+members after their landing in 118.500 MHz by the Control
+Tower.
+MUCL AD 2.23 INFORMACION ADICIONAL
+MUCL AD 2.23 ADDITIONAL INFORMATION
+Concentraciones de aves en las
+proximidades del aeropuerto
+Bird concentration in the vicinity of the airport
+No disponible. Not available.
+Aviso de inspección rutinaria de aeronavegabilidad
+por parte de la Autoridad Aeronáutica.
+Warning of routine airworthiness inspection
+on behalf of the Aeronautical Authority.
+En cumplimiento con el manual OACI-Manual de Vigilancia
+de la Seguridad Operacional - Capítulo 2, se comunica a
+los operadores nacionales y extranjeros de la realización
+de inspecciones rutinarias de aeronavegabilidad por parte
+de la Autoridad Aeronáutica. Se exceptúan aeronaves en
+vuelos de Estado.
+In accomplishment with the ICAO-Manual of Surveillance
+of the Operational Safety - Chapter 2, national and
+foreign operators are communicated about the realization
+of routine airworthiness inspections on behalf of the
+Aeronautical Authority. Aircrafts in State flights are
+excluded.
+COORDENADAS DE LOS PUNTOS DE RECORRIDO / WAYPOINTS COORDINATES AD MUCL
+Punto de recorrido/
+Waypoint name
+Latitud (N) Longitud (W) Propósito / Purpose
+BITGI 21º34’37.39’’N 081º27’35.19’’W RNP RWY 30
+
+=== Page 12 ===
+AD 2 MUCL 1 - 12
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+Punto de recorrido/
+Waypoint name
+Latitud (N) Longitud (W) Propósito / Purpose
+CL610 21º47’32.64’’N 081º42’06.54’’W STAR RWY 12, RNP RWY12, VOR RWY12
+CL611 21º37’22.16’’N 081º47’24.60’’W STAR RWY 12, RNP RWY12, VOR RWY12
+CL614 21º39’39.78’’N 081º37’41.39’’W VOR RWY12
+CL615 21º39’19.62’’N 081º37’53.37’’W RNP RWY12
+CL620 21º37’49.53’’N 081º19’56.19’’W RNP RWY30, STAR RWY30
+CL621 21º27’00.56’’N 081º25’35.80’’W RNP RWY30, STAR RWY30
+CL630 21º35’22.60’’N 081º27’19.03’’W VOR RWY 30
+EMUNO 21º53’16.68’’N 081º40’51.87’’W SID RWY30, STAR RWY 12
+ESTAS 21º32’56.32’’N 081º51’29.09W STAR RWY12
+IGROV 21º41’33.32’’N 081º42’46.79’’W RNP RWY12, STAR RWY 12
+IKLAR 21º20’10.01’’N 081º41’08.74’’W SID RWY30, RNP RWY12, RNP RWY30, VOR
+RWY12, VOR RWY30
+OTMUS 21º42’27.33’’N 081º42’27.33’’W VOR RWY12
+PELAO 21º32’25.07’’N 081º22’46.10’’W STAR RWY 30, RNP RWY30
+VARCA 21º54’18.89’’N 081º24’46.38’’W SID RWY12, STAR RWY 30
+TARTA 21º18’40.24’’N 081º24’28.86W STAR RWY30
+YANTE 21º24’23.02’’N 081º23’54.17’’W SID RWY12
+MUCL AD 2.24 CARTAS RELATIVAS AL AERODROMO
+MUCL AD 2.24 CHARTS RELATED TO AN AERODROME
+Charts Pages
+AD2 MUCL ADC.pdf AD 2 MUCL 2 - 1
+AD2 MUCL APDC.pdf AD 2 MUCL 3 - 1
+AD2 MUCL AOC.pdf AD 2 MUCL 4 - 1
+AD2 MUCL SID CCO RWY12.pdf AD 2 MUCL 5 - 1
+AD2 MUCL SID CCO RWY30.pdf AD 2 MUCL 5 - 5
+AD2 MUCL STAR CDO RWY12.pdf AD 2 MUCL 6 - 1
+AD2 MUCL STAR CDO RWY30.pdf AD 2 MUCL 6 - 5
+AD2 MUCL RNP RWY12.pdf AD 2 MUCL 7 - 1
+AD2 MUCL RNP RWY30.pdf AD 2 MUCL 7 - 5
+AD2 MUCL VOR RWY12.pdf AD 2 MUCL 7 - 9
+AD2 MUCL VOR RWY30.pdf AD 2 MUCL 7 - 11
+AD2 MUCL VAC.pdf AD 2 MUCL 9 - 1
+MUCL AD 2.25 PENETRACIÓN DE LA SUPERFICIE DEL SEGMENTO VISUAL (VSS)
+MUCL AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+No se aplica / Not applicable
+
+=== Page 13 ===
+A
+A
+PLANO DE AERODROMO - OACI /
+AERODROME CHART - ICAO
+CAYO LARGO DEL SUR / Vilo Acuña Intl21º36’58’’N
+081º32’44’’W
+ELEV 3 TWR 118.50
+THR
+21º37’19.91’’N
+081º33’31.02’’W
+ESCALA / SCALE
+1:10 000
+0100 100 200 300 400 m
+SWY
+60 x 45
+ELEV
+2
+3000 x 45 ASFALTO / ASPHALT
+FRANJA / STRIP 3240 x 300
+12
+PLATAFORMA /
+APRON 1
+ESTACIONAMIENTO /
+CAR PARK
+TERMINAL
+ADUANA / CUST
+ARO/AIS/MET
+PAPI 3º
+MEHT 20.40
+PLATAFORMA /
+APRON 2
+ELEV
+3
+SWY
+60 x 4530
+ARP
+B
+C
+A
+12
+30
+VAR 7º W - 2020REGIMEN VARIACION
+ANUAL /
+ANUAL RATE
+OF CHANGE 06’W
+TWR
+ABN
+FLG W-G
+SISTEMA SENCILLO DE ILUMINACION
+DE APROXIMACION / SIMPLE APPROACH
+LIGHTING SYSTEM
+ESCALA / SCALE
+1:20 000
+0200 200 400 600 800 m
+SEÑALES Y AYUDAS LUMINOSAS RWY 12/30 Y CALLES DE RODAJE DE SALIDA / MARKING AND LIGHTING AIDS RWY 12/30 AND EXIT TAXIWAYS
+WDI
+PAPI 3º
+MEHT 19.53
+RESA
+90 x 90
+RESA
+90 x 90
+WDI
+-19.18
+-18.97
+RWY DIRECCION /
+DIRECTION
+DIMENSIONES /
+DIMENSIONS
+RWY
+GUND RESISTENCIA /
+STRENGTH
+303º30
+123º12 PCN- F/ / / 70 C X U
+ASPH3000 x 45
+3000 x 4521º36’37.11’’N
+081º31’57.26’’W
+PCN- F/ / / 70 C X U
+ASPH
+RESISTENCIA CALLES DE RODAJE  /
+BEARING STRENGTH:TAXIWAYS
+TWY A: PCN / /W/ .73 F D T
+TWY B: PCN / /W/ .82 F C T
+TWY C: PCN / /W/ .95 F C T
+ELEV Y DIMENSIONES EN M/ AND / DIMENSIONS / IN
+MAG BRG
+CALLES DE RODAJE ANCHO /
+TAXIWAYS WIDE 23
+RESISTENCIA 1 / APN
+APN 1 BEARING STRENGTH :
+PCN / /W/ 73 F B T
+RESISTENCIA 2 / APN
+APN 2 BEARING STRENGTH :
+PCN / /W/ 117 F B T
+AIP-CUBA AD 2 MUCL 2 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 15 ===
+PLANO DE ESTACIONAMIENTO
+Y ATRAQUE DE AERONAVES - OACI /
+AIRCRAFT PARKING / DOCKING  CHART - ICAO
+ELEV
+APN
+NIL
+CAYO LARGO DEL SUR / Vilo Acuña IntlTWR  118.5
+ESCALA / SCALE
+1:10 000
+0100 100 200 300 400 m
+CALLES DE RODAJE ANCHO /
+TAXIWAYS WIDE 23
+LEYENDA / LEGEND
+5
+A
+12
+PLATAFORMA /
+APRON 1
+ESTACIONAMIENTO /
+CAR PARK TERMINAL
+ADUANA / CUST
+ARO/AIS/MET
+PAPI 3º
+MEHT 20.40
+BA
+VAR 7º W - 2020REGIMEN VARIACION
+ANUAL /
+ANUAL RATE
+OF CHANGE 06’W
+TWR
+ABN
+FLG W-G
+WDI
+1
+THR 30
+5
+2
+6
+RWY 12 / 30
+RESA
+90 x 90
+COORDENADAS INS DE PUESTOS
+DE ESTACIONAMIENTO DE AERONAVES /
+INS COORDINATES FOR AIRCRAFT STANDS
+PLATAFORMA / APRON
+1      21º37’21.96’’N  081º33’16.09’’W
+2      21º37’20.89’’N  081º33’13.77’’W
+5      21º37’19.83’’N  081º33’17.81’’W
+6      21º37’18.33’’N  081º33’14.52’’W
+PUESTOS ESTACIONAMIENTO
+AERONAVES / AIRCRAFT STAND
+LUCES CALLES DE RODAJE /
+TAXIWAY LIGHT
+RODAJE - PUNTO DE ESPERA /
+TAXI - HOLDING POSITION
+LIMITE DEL SERVICIO ATC /
+ATC SERVICE BOUNDARY
+RESISTENCIA APN / 1
+1 BEARING STRENGTH :APN
+WPCN 73 F/B/ /T
+RESISTENCIA APN / 2
+2 BEARING STRENGTH :APN
+WPCN 117 F/B/ /T
+RESISTENCIA CALLES DE RODAJE  /
+BEARING STRENGTH:TAXIWAYS
+TWY A: PCN / /W/ .73 F D T
+TWY B: PCN / /W/ .82 F C T
+TWY C: PCN / /W/ .95 F C T
+AIP-CUBA AD 2 MUCL 3 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 17 ===
+ESCALA HORIZONTAL / HORIZONTAL SCALE
+0 500 1000 1500 2000
+1000 2000 3000 4000 5000 60000
+1:15 000
+METROS / METER
+PIES / FEET
+100 200
+500
+2500300400
+1000 7000 8000
+DISTANCIAS DECLARADAS/
+DECLARED DISTANCES
+RWY 12
+3000
+3000
+3060
+3000
+RWY 30
+3000
+3000
+3060
+3000
+RECORRIDO DE DESPEGUE DISPONIBLE /
+TAKE-OFF RUN AVAILABLE
+DISTANCIA DE DESPEGUE DISPONIBLE /
+TAKE-OFF DISTANCE AVAILABLE
+DISTANCIA DE ACELERACION - PARADA DISPONIBLE /
+ACCELERATE STOP DISTANCE AVAILABLE
+DISTANCIA DE ATERRIZAJE DISPONIBLE /
+LANDING DISTANCE AVAILABLE
+VA R 7ºW - 2020
+0
+25
+50
+75
+100
+0
+50
+100
+150
+200
+250
+300
+METROS / METER
+PIES / FEET
+ESCALA VERTICAL / VERTICAL SCALE
+1:1 500
+CUBA
+/ CAYO LARGO DEL SUR / VILO ACUÑA INTLPLANO DE OBSTACULOS DE AERODROMO - OACI TIPO A / AERODROME OBSTACLE CHART - ICAO TYPE A
+RWY 12/30
+Poste, torre, aguja, antena, etc. / Pole, tower, spire,
+antenna, etc.
+Construcción / Construction
+Cota de terreno / Ground elevation
+PLANTA /
+PLAN
+PERFIL /
+PROFILE
+SWY
+CWY
+Árbol o arbusto / Tree or shrub
+Zona de parada / Stopway
+Zona libre de obstáculos / Clearway
+67.4
+Contorno de vegetación / Vegetation outline
+LEYENDA / LEGEND
+ORDEN DE PRECISION / ORDER OF ACCURACY
+HORIZONTALE   0.05m
+VERTICALE  0.10m.
+CLAVE / KEY CODE
+RWY 12 /  30
+3
+REGISTRO DE ENMIENDAS /
+AMENDMENT RECORD
+NO. FECHA/
+DATE
+ANOTADA POR /
+ENTERED BY
+CARTóGRAFO AERONÁUTICO /
+AERONAUTICAL CARTOGRAPHER
+AIRAC 1 - 21
+23 MAR 23AIRAC 1 - 23
+CARTóGRAFO AERONÁUTICO /
+AERONAUTICAL CARTOGRAPHER28 JAN 21
+Zona de ciénaga / Swamp area
+22.6
+0.2 0.6
+1.3
+119.2
+219.0
+3
+20.9 21.251 3.1
+2 11.8
+4
+0.9
+4
+21.1
+21.16
+21.57
+21.68
+21.7
+1022.9
+9
+21.511
+21.7
+12
+18.0
+3
+3000 3300 3600
+0
+30
+PENDIENTE /SLOPE 1.2 %
+03.0
+PENDIENTE /SLOPE 1.2 %
+0
+3600 3300 3000
+2.0
+0
+30
+3900
+3
+7
+9
+124
+3000 x 45 ASFALTO / ASPHALT
+FRANJA / STRIP 3240 x 300
+303º
+SWY
+60 X 45
+30
+12
+123º
+SWY
+60 X 45
+HDG MAGELEV EN
+Y / AND DIMENSIONES / DIMENSIONS
+/ IN M
+3 6
+1
+2
+5
+4
+10
+12
+118
+3900
+AMDT 103-24
+(Nuevo formato eAIP /
+New format eAIP)
+AIP-CUBA AD 2 MUCL 4 - 1
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 19 ===
+" "ì""
+ß
+34.7
+"
+"ì
+""
+ß44.4
+123°
+YANTE2A
+MU P2
+FL240
+MSL
+MU R3
+FL080
+MSL
+188°223°
+132°
+"
+"ì
+""
+ß
+84.1
+"
+"ì
+""
+ß
+97.0
+CA
+1500 FT
+DF
+"
+"ì""
+ß
+64.4
+322°
+VARCA3A
+21° 04' 07"N
+080° 53' 41"W
+21° 24' 23.02"N
+081° 23' 54.17"W
+20° 00' 00"N
+081° 25' 15"W
+20° 05' 41"N
+082° 24' 55"W
+UDNET
+YANTE
+ATUVISELEK
+007°
+22° 38' 54"N
+081° 24' 08"W22° 40' 18"N
+082° 13' 34"W
+21° 54' 18.89"N
+081° 24' 46.38"W
+XOPLI
+DUTAN
+VARCA
+294
+(284)
+AD MUCL
+DF
+81°0'W
+81°0'W
+82°0'W
+82°0'W
+22°0'N 22°0'N
+21°0'N 21°0'N
+CARTA DE SALIDA NORMALIZADA - VUELO POR INSTRUMENTOS (SID) - OACI / 
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO
+CAYO LARGO DEL SUR / Vilo Acuña Intl
+RNAV CCO RWY 12
+APP  119.10
+  133.70
+TWR 118.50VARCA3A, YANTE2A
+Especificación de NAV/
+NAV Specification: RNAV-1
+HDG MAG
+ALT, ELEV Y / AND 
+HGT EN / IN FT
+DIST EN / IN NM
+TA 3000 FT
+2020
+VAR 7°W
+H
+51
+24
+47
+14
+10 10 10
+2432
+Dentro de los 5 MIN AFT TKOF, si considera no conveniente terminar el FLT, active SSR 7600, CONT 
+en SID y/o RTE asignada, ascienda a FL160 o FL REQ en FPL, el que sea menor. 10 MIN AFT TKOF, 
+ascienda a FL REQ en FPL si es superior a FL160. / Within 5 MIN AFT TKOF, and if it is not convenient 
+ to finish the FLT, active SSR 7600, CONT on assigned SID and/or RTE, climb to FL160 or the REQ FL
+ in FPL, whichever is lower. 10 MIN AFT TKOF climb to the  REQ FL in FPL if it is higher than FL160.
+FALLA DE COM / COM FAILURE:
+>
+ARP
+21°36'58"N
+081°32'44"W
+MSA
+25 NM
+ESCALA / SCALE 1:750 000
+0 4 8 12 16 20 242
+NM
+0 8 16 24 32 40 484
+KM
+1300
+AIP-CUBA AD 2 MUCL 5 - 1
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 20 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUCL 5 - 2
+25 APR 2024
+AIP-CUBA
+AMDT 104-24 AIS-CUBA
+
+=== Page 21 ===
+SALI
+DA VARCA3A (RWY 12) VARCA3A DEPARTURE  (RWY 12)
+Ascienda en derrota 123º hasta 1500 FT, vire a la izquierda
+directo a VARCA y continue por transición asignada.
+Climb on 123º track to 1500 FT, turn left proceed direct to
+VARCA and continue by assigned transition.
+TRANSICIONES: 
+DUTAN: Desde VARCA proceda en derrota 322º hasta
+DUTAN.
+XOPLI: Desde VARCA proceda en derrota 007º hasta
+XOPLI.
+TRANSITIONS:
+DUTAN: From  VARCA proceed  on 322º  track  to
+DUTAN.
+XOPLI: From VARCA  proceed  on 007º  track  to XOPLI.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+VARCA3A SID RWY12
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation
+(°T)  
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+001 CA - - 123
+(116.0) -6.6 - - @1500 - - - RNAV-1 
+002 DF VARCA - - -6.6 - L - - -                      - R N A V - 1  
+SALIDA YANTE2A (RWY 12) YANTE2A DEPARTURE  (RWY 12)
+Ascienda en derrota 123º hasta 1500 FT, vire a la derecha
+directo a YANTE y continue por transición asignada .
+Climb on 123º track to 1500 FT, turn right proceed direct to
+YANTE and continue by asigned transition.
+TRANSICIONES: 
+ATUVI: Desde YANTE proceda en derrota 188º hasta
+ATUVI.
+SELEK: Desde YANTE proceda en derrota 223º hasta
+SELEK.
+UDNET: Desde YANTE proceda en derrota 132º hasta
+UDNET.
+TRANSITIONS:
+ATUVI:  From  YANTE   proceed  on  188º   track   to
+ATUVI.
+SELEK:  From  YANTE  proceed  on  223º  track  to
+SELEK. 
+UDNET:  From  YANTE  proceed  on 132º  track  to
+UDNET.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+YANTE2A SID RWY12
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation
+(°T)  
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+001 CA - - 123
+(116.0) -6.6 - - @1500 - - - RNAV-1 
+0 0 2 D F Y A N T E - - - 6 . 6 - R - -  - - R N A V - 1  
+AIP-CUBA AD 2 MUCL 5 - 3
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 23 ===
+#B!!B
+BBBB!A
+!!B
+#B#B
+BBBB!A
+294
+(284)
+74
+(64)
+"
+"ì""
+ß
+55.8 "
+"ì
+""
+ß48.0
+303°
+334°
+025°
+1500 FT
+DF
+CA
+EMUNO3B
+193°
+216° 127°
+"
+"ì
+""
+ß
+80.3
+"
+"ì
+""
+ß
+84.8 " "ì""ß
+95.0
+IKLAR1
+DF
+20° 30' 56" N
+080° 14' 17" W
+20° 05' 41" N
+082° 24' 55" W
+21° 20' 10.01" N
+081° 41' 08.74" W
+20° 00' 00" N
+081° 50' 00" W
+22° 38' 54" N
+081° 24' 08" W22° 40' 18" N
+082° 13' 34" W
+21° 53' 16.68" N
+081° 40' 51.87" W
+XOPLI
+DUTAN
+EMUNO
+LACET
+IBSEN
+SELEK
+IKLAR
+MU P2
+FL240
+MSL
+MU R3
+FL080
+MSL
+81°0'W
+81°0'W
+82°0'W
+82°0'W
+22°0'N 22°0'N
+21°0'N 21°0'N
+CARTA DE SALIDA NORMALIZADA - VUELO POR INSTRUMENTOS (SID) - OACI / 
+STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO
+CAYO LARGO DEL SUR / Vilo Acuña Intl
+RNAV CCO RWY 30 APP  119.10
+ 133.70
+TWR 118.50
+EMUNO3B, IKLAR1
+Especificación de NAV/
+NAV Specification: RNAV-1
+TA 3000 FT
+51
+24
+47
+14
+10 10 10
+2432
+HDG MAG
+ALT, ELEV Y / AND 
+HGT EN / IN FT
+DIST EN / IN NM
+2020
+VAR 7°W
+H
+Dentro de los 5 MIN AFT TKOF, si considera no conveniente terminar el FLT, active 
+SSR 7600, CONT en SID y/o RTE asignada, ascienda a FL160 o FL REQ en FPL, 
+el que sea menor. 10 MIN AFT TKOF, ascienda a FL REQ en FPL si es superior a 
+FL160. / Within 5 MIN AFT TKOF, and if it is not convenient  to finish the FLT, active 
+SSR 7600, CONT on assigned SID and/or RTE, climb to FL160 or the REQ FL in FPL,
+ whichever is lower. 10 MIN AFT TKOF climb to the  REQ FL in FPL  if it is higher
+ than FL160.
+FALLA DE COM / COM FAILURE:
+ARP
+21°36'58"N
+081°32'44"W
+MSA
+25 NM
+1300
+AIP-CUBA AD 2 MUCL 5 - 5
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 24 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUCL 5 - 6
+25 APR 2024
+AIP-CUBA
+AMDT 104-24 AIS-CUBA
+
+=== Page 25 ===
+SALIDA EMUN
+O3B (RWY 30) EMUNO3B DEPARTURE  (RWY 30)
+Ascienda en derrota 303º hasta 1500 FT, vire a la derecha
+directo a EMUNO  y continue por  transición asignada .
+Climb on 303º track to 1500 FT, turn right proceed direct to
+EMUNO and continue by asigned transition . 
+TRANSICIONES: 
+DUTAN: Desde EMUNO proceda en derrota 334º hasta
+DUTAN.
+XOPLI:  Desde EMUNO proceda en derrota 025º hasta
+XOPLI.
+TRANSITIONS:
+DUTAN:  From  EMUNO  proceed on  334º track  to
+DUTAN.
+XOPLI:  From  EMUNO   proceed  on 025º  track  to
+XOPLI.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+EMUNO3B SID RWY30
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation
+(°)  
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+010 CA - - 303
+(296.0) -6.6 - - @1500 - - - RNAV-1 
+020 DF EMUNO - - -6.6 - R - - - - RNAV-1 
+SALIDA IKLAR1(RWY 30) IKLAR1  DEPARTURE  (RWY 30)
+Ascienda en derrota 303º hasta 1500 FT, vire a la izquierda
+directo a IKLAR  y continue por  transición asignada. 
+Climb on 303º track to 1500 FT, turn left proceed direct to
+IKLAR and continue by asigned transition. 
+TRANSICIONES: 
+IBSEN: Desde IKLAR proceda en derrota 127º hasta
+IBSEN.
+LACET: Desde IKLAR proceda en derrota 193º hasta
+LACET.
+SELEK: Desde IKLAR proceda en derrota 216º hasta
+SELEK.
+TRANSITIONS:
+IBSEN:  From  IKLAR  proceed  on  127°   track°  to
+IBSEN.
+LACET:  From   IKLAR   proceed   on 193º   track  to
+LACET.
+SELEK:  From  IKLAR   proceed  on  216º   track  to
+SELEK.
+TABLA DE CODIFICACIÓN DE SALIDA RNAV CCO / CCO RNAV DEPARTURE CODING TABLE. 
+IKLAR1SID RWY30
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation
+(°)  
+Distancia/
+Distance 
+(NM) 
+Dirección 
+del viraje/
+Turn 
+Direction 
+Altitud/
+Altitude 
+(FT) 
+Velocidad 
+límite/
+Speed 
+limit
+(KT) 
+RadioAyuda
+Requerida/
+Required 
+Navaid 
+Marcación/
+Course/
+desde/from 
+Navaid 
+Especificación 
+de navegación/
+Navigation 
+Specification 
+010 CA - - 303
+(296.0) -6.6 - - @1500 - - - RNAV-1 
+020 DF IKLAR - - -6.6 - L - - - - RNAV-1 
+AIP-CUBA AD 2 MUCL 5 - 7
+25 APR 2024
+AIS-CUBA AMDT 104-24
+
+=== Page 27 ===
+&
+&&
+&
+&
+&
+&
+&&
+#B#B
+BBBB!A
+BBBB!A
+#B
+BBBB!A
+BBBB!A
+>
+#B #B!!B!!B
+BBBB!A
+5.8 NM
+"
+"ì
+""
+ß73.9
+"
+"ì
+""
+ß
+78.4
+"
+"ì
+""
+ß55.8
+198°
+168°
+217°
+154°
+198°
+018°
+MOCA 1000 FT
+MOCA 2100 FT
+MOCA 1300 FT
+5.8NM
+"ì
+""""
+ß
+95.2"ì
+"""
+ß
+92.6
+"ì
+"""
+ß92.4
+"ì"""" ß
+61.1
+047°
+334°006°
+027°
+304°
+227°
+MOCA 1100 FT
+MOCA 1100 FTMOCA 1100 FT
+MOCA 1100 FT
+23° 01' 13" N
+080° 58' 14" W
+22° 40' 18" N
+082° 13' 34" W
+21° 47' 32.64" N
+081° 42' 06.54" W
+3000
+15.6 NM to THR12
+21° 53' 16.68" N
+081° 40' 51.87" W
+21.4 NM to THR12
+23° 03' 22" N
+082° 06' 46" W
+21° 37' 22.16" N
+081° 47' 24.60" W
+3000
+15.6 NM to THR12
+21° 41' 33.32" N
+081° 42' 46.79" W
+1500
+9.6 NM to THR12
+ALVEKDUTAN
+IAF
+CL610
+EMUNO
+KAVUL
+IAF
+CL611
+IF
+IGROV
+20° 12' 14" N
+080° 56' 59" W
+21° 04' 07" N
+080° 53' 41" W
+20° 00' 00" N
+081° 50' 00" W20° 05' 41" N
+082° 24' 55" W
+21° 32' 56.32" N
+081° 51' 29.09" W
+21.4 NM to THR12
+DEBOR UDNETLACETSELEK
+ESTAS
+MU P2
+FL240
+MSL
+MU R3
+FL080
+MSL
+MU P3
+FL045
+GND
+81°0'W
+81°0'W
+82°0'W
+82°0'W
+22°0'N 22°0'N
+CARTA DE LLEGADA NORMALIZADA - VUELO POR INSTRUMENTOS (STAR) - OACI / 
+STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO
+CAYO LARGO DEL SUR / Vilo Acuña Intl
+RNAV CDO RWY 12
+APP  119.10, 133.70
+TWR 118.50
+EMUNO3A, ESTAS4A
+HDG MAG
+ALT, ELEV, HGT EN / IN FT
+DIST EN / IN NM
+24 47
+14 51
+Active SSR 7600 y proceda según ANEXO 2 y Doc. 4444 de la
+OACI / Active SSR 7600 and proceed according ICAO Annex 2
+and Doc. 4444.
+FALLA DE COM / COM FAILURE:
+TA 3000 FT
+24
+32
+2020
+VAR 7°W
+H
+MOCA 1000 FT
+4.2 NM
+FL MNM
+040I MIN
+EMUNO3A
+1300
+ARP
+21°36'58"N
+081°32'44"W
+MSA
+25 NM
+294
+(284)
+047°
+FL MNM040
+1 MN
+MOCA 1100 FT
+ESTAS4A
+TF
+4.2 NM
+AD MUCL
+KM
+0 10 20 30 40 50
+ESCALA / SCALE 1:750 000
+NM
+0 5 10 15 20 25
+Especificación de NAV/
+NAV Specification: RNAV-1
+TF
+AIP-CUBA AD 2 MUCL 6 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 28 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUCL 6 - 2
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 29 ===
+LLEGADA EMUN
+O3A (RWY 12) EMUNO3A  ARRIVAL  (RWY 12)
+'HVGH(0812SURFHGDHQGHUURWDKDVWD&/D
+)7RVXSHULRU
+)URP(0812SURFHHGRQWUDFNWR&/DW
+)7RUDERYH
+75$16,&,21(6
+$/9(. 'HVGH $/9(. SURFHGD HQ GHUURWD  KDVWD
+(0812
+'87$1'HVGH'87$1SURFHGDHQGHUURWDKDVWD
+(0812
+.$98/ 'HVGH .$98/ SURFHGD HQ GHUURWD  KDVWD
+(0812
+75$16,7,216
+$/9(.  )URP  $/9(.  SURFHHG  RQ    WUDFN WR
+(0812
+'87$1  )URP  '87$1  SURFHHG RQ   WUDFN WR
+(0812
+.$98/  )URP  .$98/  SURFHHG  RQ   WUDFN WR
+(0812
+TABLA DE CODIFICACIÓN DE LLEGADA RNAV CDO / CDO RNAV ARRIVAL CODING TABLE. 
+EMUNO3A STAR RWY12 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+(°) 
+Distancia/
+Distance 
+(NM) 
+Distancia
+ hasta/
+Distance
+to 
+THR 12
+(NM)
+Altitud /
+Altitude 
+(FL) 
+Dirección 
+del viraje/
+Turn 
+Direction
+Velocidad 
+límite/
+Speed
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ ,) (0812          51$9
+ 7) &/  
+        51$9
+LLEGADA ESTAS4A (RWY 12) ESTAS4A  ARRIVAL  (RWY 12)
+'HVGH(67$6SURFHGDHQGHUURWDKDVWD&/D
+)7RVXSHULRU
+)URP(67$6SURFHHGRQWUDFNWR&/DW)7
+RUDERYH
+75$16,&,21(6
+'(%25'HVGH'(%25SURFHGDHQGHUURWDKDVWD
+(67$6
+/$&(7 'HVGH /$&(7 SURFHGD HQ GHUURWD  KDVWD
+(67$6
+6(/(. 'HVGH 6(/(. SURFHGD HQ GHUURWD  KDVWD
+(67$6
+8'1(7'HVGH8'1(7SURFHGDHQGHUURWDKDVWD
+(67$6
+75$16,7,216
+'(%25)URP'(%25SURFHHGRQWUDFNWR
+(67$6
+/$&(7)URP/$&(7SURFHHGRQWUDFNWR
+(67$6
+6(/(.)URP6(/(.SURFHHGRQUDFNWR
+(67$6
+8'1(7)URP8'1(7SURFHHGRQWUDFNWR
+(67$6
+TABLA DE CODIFICACIÓN DE LLEGADA RNAV CDO / CDO RNAV ARRIVAL CODING TABLE. 
+ESTAS4A STAR RWY12 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+(°) 
+Distancia/
+Distance 
+(NM) 
+Distancia
+ hasta/
+Distance
+to 
+THR 12
+(NM)
+Altitud /
+Altitude 
+(FL) 
+Dirección 
+del viraje/
+Turn 
+Direction
+Velocidad 
+límite/
+Speed
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ ,) (67$6          51$9
+ 7) &/  
+        51$9
+AIP-CUBA AD 2 MUCL 6 - 3
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 30 ===
+CODIFICACIÓN DE LA
+S ESPERAS CON FUNCIONALIDAD / CODING TABLE FOR HOLDINGS WITH  
+FUNTIONALITY. MUCL STAR RWY 12
+Descriptor 
+de trayectoria/ 
+Path Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación
+ de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ (0812 
+ 510 )/ )/   51$9
+(VSHUD
++ROGLQJ (67$6 
+ 510 )/ )/   51$9
+AD 2 MUCL 6 - 4
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 31 ===
+&
+&
+&
+&
+&
+&
+&
+&
+&
+>
+#B
+#B
+!!B!!B
+BBBB!A
+#B#B
+BBBB!A
+BBBB!A
+BBBB!A
+BBBB!A
+"
+"ì
+" "ß
+71.1
+"
+"ì""
+ß64.4
+17.0 NM
+171°
+351°
+207°
+142°
+MOCA 1000 FT
+MOCA 1300 FT
+4.2 NM
+8.4 NM
+"
+"ì
+""
+ß82.0
+"
+"ì
+""
+ß
+71.0
+"
+"ì
+""
+ß92.2
+""ì"" ß
+32.2
+360°
+180°
+360°
+024°
+345°045°
+303°
+MOCA 1000 FT
+MOCA 1000 FT
+MOCA 1000 FT
+MOCA 1000 FT
+23° 01' 13" N
+080° 58' 14" W
+22° 40' 18" N
+082° 13' 34" W
+21° 37' 49.53" N
+081° 19' 56.19" W
+3000
+15.5 NM to THR30
+21° 54' 18.89" N
+081° 24' 46.38" W
+32.5 NM to THR30
+21° 32' 25.07" N
+081° 22' 46.10" W
+1500
+9.5 NM to THR30
+21° 27' 00.56" N
+081° 25' 35.80" W
+3000
+15.5 NM to THR30
+ALVEKDUTAN
+IAF
+CL620
+VARCA
+IF
+PELAO
+IAF
+CL621
+20° 12' 14" N
+080° 56' 59" W
+21° 18' 40.24" N
+081° 24' 28.86" W
+23.9 NM to THR30
+20° 05' 41" N
+082° 24' 55" W 20° 00' 00" N
+081° 50' 00" W
+21° 04' 07" N
+080° 53' 41" W
+DEBOR
+UDNET
+LACETSELEK
+TARTA
+MU P2
+FL240
+MSL
+MU R3
+FL080
+MSL
+MU P3
+MU P3
+FL045
+GND
+MU P3
+81°0'W
+81°0'W
+82°0'W
+82°0'W
+22°0'N 22°0'N
+21°0'N 21°0'N
+CARTA DE LLEGADA NORMALIZADA - VUELO POR INSTRUMENTOS (STAR) - OACI / 
+STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO
+CAYO LARGO DEL SUR / Vilo Acuña Intl
+RNAV CDO RWY 30
+APP  119.10, 133.70
+TWR 118.50
+TARTA1, VARCA3B
+HDG MAG
+ALT, ELEV, HGT EN / IN FT
+DIST EN / IN NM
+24
+14
+51
+TA 3000 FT
+24
+32
+2020
+VAR 7°W
+H
+1300
+ARP
+21°36'58"N
+081°32'44"W
+MSA
+25 NM
+294
+(284)AD MUCL
+10 1010
+171°
+FL MNM
+0401 MIN
+MOCA 1000 FT 
+VARCA3B
+TF
+4.2 NM
+MOCA 1000 FT
+FL MNM
+040
+1 MN
+TARTA1
+ESCALA / SCALE 1:750 000
+NM
+0 5 10 15 20 25
+KM
+0 10 20 30 40 50
+TF
+47
+Especificación de NAV/
+NAV specification: RNAV-1
+Active SSR 7600 y proceda según ANEXO 2 y Doc. 4444 de la
+OACI / Active SSR 7600 and proceed according ICAO Annex 2
+and Doc. 4444.
+FALLA DE COM / COM FAILURE:
+AIP-CUBA AD 2 MUCL 6 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 32 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUCL 6 - 6
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 33 ===
+LL
+EGADA TARTA1 (RWY 30) TARTA1 ARRIVAL  (RWY 30)
+'HVGH7$57$SURFHGDHQGHUURWDKDVWD&/D
+)7RVXSHULRU
+)URP7$57$SURFHHGRQWUDFNWR&/DW)7
+RUDERYH
+75$16,&,21(6
+'(%25'HVGH'(%25SURFHGDHQGHUURWDKDVWD
+7$57$
+/$&(7 'HVGH /$&(7 SURFHGD HQ GHUURWD  KDVWD
+7$57$
+6(/(. 'HVGH 6(/(. SURFHGD HQ GHUURWD  KDVWD
+7$57$
+8'1(7'HVGH8'1(7SURFHGDHQGHUURWDKDVWD
+7$57$
+75$16,7,216
+'(%25)URP'(%25SURFHHGRQWUDFNWR
+7$57$
+/$&(7)URP/$&(7SURFHHGRQWUDFNWR
+7$57$
+6(/(.)URP6(/(.SURFHHGRQWUDFNWR
+7$57$
+8'1(7)URP8'1(7SURFHHGRQWUDFNWR
+7$57$
+TABLA DE CODIFICACIÓN DE LLEGADA RNAV CDO / CDO RNAV ARRIVAL CODING TABLE. 
+TARTA1 STAR RWY30 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+(°) 
+Distancia/
+Distance 
+(NM) 
+Distancia
+ hasta/
+Distance
+to 
+THR 30
+(NM)
+Altitud /
+Altitude 
+(FL) 
+Dirección 
+del viraje/
+Turn 
+Direction
+Velocidad 
+límite/
+Speed
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ ,) 7$57$          51$9
+ 7) &/  
+        51$9
+LLEGADA VARCA3B (RWY 30) VARCA3B ARRIVAL  (RWY 30)
+'HVGH9$5&$SURFHGDHQGHUURWDKDVWD&/D
+)7RVXSHULRU
+)URP9$5&$SURFHHGRQWUDFNWR&/DW)7
+RUDERYH
+75$16,&,21(6
+$/9(. 'HVGH $/9(. SURFHGD HQ GHUURWD  KDVWD
+9$5&$
+'87$1'HVGH'87$1SURFHGDHQGHUURWDKDVWD
+9$5&$
+75$16,7,216
+$/9(.)URP$/9(.SURFHHGRQWUDFNWR
+9$5&$
+'87$1 )URP  '87$1  SURFHHG  RQ   WUDFN  WR
+9$5&$
+TABLA DE CODIFICACIÓN DE LLEGADA RNAV CDO / CDO RNAV ARRIVAL CODING TABLE. 
+VARCA3B STAR RWY30 
+Número 
+de Serie/
+Serial 
+Number 
+Descriptor 
+de 
+Trayectoria/
+Path 
+Descriptor 
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course 
+ºMAG 
+(°T) 
+Variación 
+Magnética/
+Magnetic 
+Variation 
+(°) 
+Distancia/
+Distance 
+(NM) 
+Distancia
+ hasta/
+Distance
+to 
+THR 30
+(NM)
+Altitud /
+Altitude 
+(FL) 
+Dirección 
+del viraje/
+Turn 
+Direction
+Velocidad 
+límite/
+Speed
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación 
+de navegación/
+Navigation 
+Specification 
+ ,) 9$5&$          51$9
+ 7) &/  
+        51$9
+CODIFICACIÓN DE LAS ESPERAS CON FUNCIONALIDAD / CODING TABLE FOR HOLDINGS WITH 
+FUNTIONALITY. MUCL STAR RWY 30
+Descriptor 
+de trayectoria/ 
+Path Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación
+ de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ 7$57$ 
+ 510 )/ )/   51$9
+(VSHUD
++ROGLQJ 9$5&$ 
+ 510 )/ )/   51$9
+AIP-CUBA AD 2 MUCL 6 - 7
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 35 ===
+303°
+303°
+193°
+053°
+193°
+053°
+25 NM
+TO
+CL610
+25 NM TO CL611
+25NM
+TO
+IGRO
+V
+6.0 NM
+6.0 NM
+4.5 NM
+5.1 NM
+193°
+053° 123°
+123°
+123°
+MOCA 1000
+MOCA 1100
+MOCA 1000
+TF
+TF
+TF
+TF
+DF
+21° 20' 10.01" N
+081° 41'08.74" W
+FL040
+21° 37' 22.16" N
+081° 47' 24.60" W
+3000
+15.6 NM to THR12
+21° 41' 33.32" N
+081° 42' 46.79" W
+1500
+9.6 NM to THR12
+21° 47' 32.64" N
+081° 42' 06.54" W
+3000
+15.6 NM to THR12
+21° 39' 19.62" N
+081° 37' 53.37" W
+1500
+IKLAR
+IAF
+CL611
+IF
+IGROV
+IAF
+CL610
+RW12
+FAF
+CL615
+10 NM
+81°20'W
+81°20'W
+81°30'W
+81°30'W
+81°40'W
+81°40'W
+81°50'W
+81°50'W
+21°40'N
+21°40'N
+21°30'N
+21°30'N
+21°20'N
+21°20'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 10
+OCH REF THR RWY 12 
+ELEV 7 
+CAYO LARGO DEL SUR / Vilo Acuña Intl
+RNP (LNAV/VNAV, LNAV)
+RWY 12
+CAT A, B, C, D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 123° HASTA 1500 FT, 
+VIRE A LA DERECHA DIRECTO A PATRÓN DE 
+ESPERA IKLAR A FL040 Y ESPERE INSTRUCCIONES 
+ATC / CLIMB ON TRACK 123° UNTIL 1500 FT, TURN 
+RIGHT DIRECT TO IKLAR HOLDING PATTERN AT
+FL040 AND EXPECT ATC INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+LNAV / VNAV
+CIRCULAR
+CIRCLING
+A B C D
+260 (253) 1.0 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW12   4.5
+VSP GS 3.00°
+NM to RW12
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+3:24 2:43 2:16 1:56 1:42 1:31
+430 530 640 740 850 960
+ALT / (HGT)
+4.0 3.0 2.0 1.0
+1330
+(1323)
+1010
+(1003)
+690
+(683)
+370
+(363)
+1000 (990) 5.5 KM
+ESCALA / SCALE 1:350 000
+0 2 4 6 81
+NM
+0 4 8 12 162
+KM
+LNAV 330 (323) 1.4 KM
+(POR LA PÉRDIDA DE CAPACIDAD RNAV/
+FOR LOSS OF RNAV CAPABILITY): ASCIENDA 
+EN DERROTA 123° HASTA 3000 FT Y SOLICITE
+INSTRUCCIONES ATC / CLIMB ON TRACK  123° 
+UNTIL 3000 FT AND REQUEST ATC INSTRUCTIONS.    
+NOTA / REMARK
+APP  119.10, 133.70
+TWR 118.50
+2020
+VAR 7°W
+H Especificación de NAV/
+NAV Specification: RNP-APCH
+1000
+1300
+1300
+IF 
+IGROV
+IF 
+IGROV
+IF 
+IGROV
+IAF 
+CL610
+IAF 
+CL611
+Cayo Rico
+Cayos Los Majaes
+Punta Sirena
+Punta Mal Tiempo
+CAYO LARGO
+CA
+1500 FT
+NO A ESCALA/
+NOT TO SCALE
+MAPt
+RW12
+1500 (1493)
+ELEV 7
+IF
+IGROV
+VPA 3.0º
+OCA
+123º
+MOCA 1000 (993)
+5.1
+123º
+1500 (1493)  
+1500 (1493)
+TURN RIGHT
+TO IKLAR
+CA
+DF
+(116.0ºT)
+FAF
+CL615
+TA 3000
+123º
+294
+(284)
+74
+(64)
+&
+&
+!
+####!A(
+168°
+348°
+MAHF
+IKLAL
+FL MNM
+0401 MIN
+4.2 NM
+10.0 NM 9.0 8.0 7.0 6.0 5.0 4.0 3.0 2.0 1.0
+(THR RWY 12)
+RDH
+50
+0
+MAHF
+IKLAR
+AIP-CUBA AD 2 MUCL 7 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 36 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUCL 7 - 2
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 37 ===
+TABLAS DE CODIF
+ICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP  INSTRUMENT APPROACH PROCEDURE CODING TABLES.
+MUCL RWY 12 VILO ACUÑA INTL.    
+IAF CL610
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 12  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &/          513$3&+
+ 7) ,*529  
+        513$3&+
+ 7) &/  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+     #   513$3&+
+ ') ,./$5 <     5 )/   513$3&+
+IAF CL611
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Sobre
+vuelo/
+Fly-Over 
+Curso/
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 12  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &/          513$3&+
+ 7) ,*529  
+        513$3&+
+ 7) &/  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$   
+     #   513$3&+
+ ') ,./$5 <     5 )/   513$3&+
+CODIFICACIÓN DE LAS ESPERAS CON FUNCIONALIDAD / CODING TABLE FOR HOLDINGS WITH 
+FUNTIONALITY. RNAV (GNSS) MUCL RWY 12
+Descriptor de 
+trayectoria/ 
+Path Descriptor
+Identificador 
+ del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ ,./$5 
+ 510 )/ )/   51$9
+AIP-CUBA AD 2 MUCL 7 - 3
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 39 ===
+21° 20' 10.01" N
+081° 41' 08.74" W
+FL040
+21° 32' 25.07" N
+081° 22' 46.10" W
+1500
+9.5 NM to THR30
+21° 34' 37.39" N
+081° 27' 35.19" W
+1500
+21° 27' 00.56" N
+081° 25' 35.80" W
+3000
+15.5 NM to THR30
+21° 37' 49.53" N
+081° 19' 56.19" W
+3000
+15.5 NM to THR30
+MAHF
+IKLAR
+RW30
+IF
+PELAO
+FAF
+BITGI
+IAF
+CL621
+IAF
+CL620
+25NM
+TO
+CL621
+25NMTO CL620
+25NM
+TO
+PELAO
+213°
+033°
+033°
+213°
+123°
+123°
+213°
+033°
+213°
+033°
+303°
+071°
+251°
+6.0NM
+6.0NM
+4.5NM
+5.0NM
+1500FT
+MOCA 1000FT
+MOCA 1000FT
+TF
+TF
+DF
+10 NM
+81°20'W
+81°20'W
+81°30'W
+81°30'W
+81°40'W
+81°40'W
+21°40'N
+21°40'N
+21°30'N
+21°30'N
+21°20'N
+21°20'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI / 
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 10
+OCH REF THR RWY 30 
+ELEV 10
+CAYO LARGO DEL SUR / Vilo Acuña Intl
+RNP (LNAV/VNAV, LNAV)
+RWY 30
+CAT A, B, C, D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 303° HASTA 1500 FT, VIRE A LA
+IZQUIERDA DIRECTO A PATRÓN DE ESPERA IKLAR A 
+FL040 Y ESPERE INSTRUCCIONES ATC / CLIMB ON 
+TRACK  303° UNTIL 1500 FT, TURN LEFT DIRECT TO 
+IKLAR HOLDING PATTERN AT FL040 AND EXPECT ATC
+INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+LNAV / VNAV
+CIRCULAR
+CIRCLING
+A B C D
+260 (250) 1.4 KM
+DISTANCIA
+DISTANCE NM
+FAF - RW30   4.5
+VSP GS 3.00°
+NM to RW30
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+3:24 2:43 2:16 1:56 1:42 1:31
+430 530 640 740 850 960
+ALT / (HGT)
+4.0 NM 3.0 NM 2.0 NM 1.0 NM
+1330
+(1320)
+1010
+(1000)
+700
+(690)
+380
+(370)
+1000 (990) 5.5 KM
+ESCALA / SCALE 1:350 000
+0 2 4 6 81
+NM
+0 4 8 12 162
+KM
+Especificación de NAV/
+NAV Specification: RNP-APCH
+LNAV 340 (330) 1.8 KM
+(POR LA PÉRDIDA DE CAPACIDAD RNAV/FOR LOSS 
+OF RNAV CAPABILITY): ASCIENDA EN DERROTA 303° 
+HASTA 3000 FT, Y SOLICITE INSTRUCCIONES ATC /
+CLIMB ON TRACK  303° UNTIL 3000 FT AND REQUEST
+ATC INSTRUCTIONS.      
+NOTA / REMARK
+APP  119.10, 133.70
+TWR 118.50
+2020
+VAR 7°W
+H
+303°
+MOCA 1000FT303°
+1000
+1300
+1300
+CA
+TF
+TF
+FL MNM040
+1MIN
+4.2 NM
+0
+MAPt
+RW30 VPA 3.0º
+OCA
+CA
+DF
+RDH
+  50 TA 3000
+ELEV 10
+(THR RWY ) 30
+1500 (149 )  0
+IF
+PELAO
+303º
+1500 (149 )  0
+FAF
+BITGI
+MOCA 1000 (990)
+5.0
+303º(296.0ºT)
+1500 (1490)
+TURN LEFT
+TO IKLAR
+303º
+Cayo Rico
+Cayos Los Majaes
+Punta Sirena
+Punta Mal Tiempo
+CAYO LARGO
+IF
+PELAO
+IF
+PELAO
+IAF
+CL621
+IAF
+CL620
+74
+(64) 294
+(284)
+10.0NM9.08.07.05.0 6.04.03.01.0 2.0
+IF
+PELAO
+AIP-CUBA AD 2 MUCL 7 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 40 ===
+THIS PAGE 
+INTENTIONALLY
+LEFT BLANK
+AD 2 MUCL 7 - 6
+22 FEB 2024
+AIP-CUBA
+AMDT 103-24 AIS-CUBA
+
+=== Page 41 ===
+TABLAS DE CODIF
+ICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP  INSTRUMENT APPROACH PROCEDURE CODING TABLES.
+MUCL RWY 30 VILO ACUÑA INTL.    
+IAF CL620
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 30  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &/       513$3&+
+ 7) 3(/$2  
+        513$3&+
+ 7) %,7*,  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$  
+     #   513$3&+
+ ') ,./$5 <     5 )/   513$3&+
+TABLAS DE CODIFICACIÓN DEL PROCEDIMIENTO DE APROXIMACIÓN POR INSTRUMENTOS RNP / 
+RNP  INSTRUMENT APPROACH PROCEDURE CODING TABLES.
+MUCL RWY 30 VILO ACUÑA INTL.    
+IAF CL621
+Número 
+de serie/ 
+Serial 
+Number
+Descriptor 
+de 
+trayectoria/ 
+Path 
+Descriptor
+Identificador 
+del punto de 
+recorrido/
+Waypoint 
+Identifier
+Sobre
+vuelo/
+Fly-Over 
+Curso/ 
+Course/ 
+°MAG 
+(°T)
+Variación 
+magnética/
+Magnetic 
+variation
+(°)
+Distancia/
+Distance 
+(NM) 
+Distancia 
+hasta/
+Distance 
+to THR 30  
+(NM) 
+Dirección 
+viraje/
+Turn 
+direction
+Altitud/
+Altitude
+(FT)
+Velocidad 
+límite/
+Speed 
+limit
+(KT)
+VPA (°)
+TCH
+(FT)
+Especificación
+de navegación/
+Navigation 
+Specification
+ ,) &/       513$3&+
+ 7) 3(/$2  
+        513$3&+
+ 7) %,7*,  
+     #   513$3&+
+ 7) 5: < 
+        513$3&+
+ &$  
+     #   513$3&+
+ ') ,./$5 <     5 )/   513$3&+
+CODIFICACIÓN DE LAS ESPERAS CON FUNCIONALIDAD / CODING TABLE FOR HOLDINGS WITH 
+FUNTIONALITY. RNAV (GNSS) MUCL RWY 30
+Descriptor de 
+trayectoria/ 
+Path Descriptor
+Identificador 
+ del punto de 
+recorrido/
+Waypoint 
+Identifier 
+Rumbo de 
+acercamiento/
+Approach 
+heading
+°MAG 
+(°T)
+Dirección viraje/
+Distancia
+Turn direction/
+Distance
+Altitud 
+mínima/
+Minimum
+altitude
+(FT)
+Altitud 
+máxima/ 
+Maximum
+altitude
+(FT)
+Límite de 
+Velocidad/ 
+Speed 
+Limit
+(KT)
+Declinación
+magnética/
+Magnetic
+declination
+(°)
+Especificación 
+de navegación/
+Navigation 
+Specification
+(VSHUD
++ROGLQJ ,./$5 
+ 510 )/ )/   51$9
+AIP-CUBA AD 2 MUCL 7 - 7
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 43 ===
+"TZ
+!
+#$
+#B
+#B
+#B
+#B
+CAYO LARGO DEL SUR
+112.1 UCL
+CH 58X
+– –– –
+21º36'18.07''N
+081º31'57.71''W
+IAF
+VOR/DME
+21° 20' 10.01" N
+081° 41' 08.74" W
+UCL
+R-215 / 18.2 DME
+FL040
+21° 37' 22.16" N
+081° 47' 24.60" W
+UCL
+R-281/14.4DME
+3000
+21° 47' 32.64" N
+081° 42' 06.54" W
+UCL
+R-327/14.7DME
+3000
+21° 42' 27.33" N
+081° 42' 27.33" W
+UCL
+R-309/11.5DME
+1500
+21° 39' 39.78 N
+081° 37' 41.39" W
+UCL
+R-309/6.3DME
+1500
+IKLAR
+IAF
+CL611
+IAF
+CL610
+IF
+OTMUS
+FAF
+CL614
+R-215
+190°
+049°
+R-160
+160°
+R-309
+R-215
+129°
+5.2 NM
+5.1 NM
+6.9 NM 4.5 NM
+MOCA 1000
+MOCA 1000
+MOCA 1100
+R-340 CAT A-B-C-D
+1500 FT
+DME
+8.0
+R-299
+10 NM
+81°30'W
+81°30'W
+81°40'W
+81°40'W
+81°50'W
+81°50'W
+21°50'N 21°50'N
+21°40'N 21°40'N
+21°30'N 21°30'N
+21°20'N 21°20'N
+CARTA DE APROXIMACION POR INSTRUMENTOS - OACI /
+INSTRUMENT APPROACH CHART - ICAO
+ELEV 10
+OCH REF THR RWY 12
+ELEV 7
+CAYO LARGO DEL SUR / Vilo Acuña Intl
+VOR
+RWY 12
+CAT A, B, C, D
+APROXIMACIóN FRUSTRADA / MISSED APPROACH
+ASCIENDA EN DERROTA 129° HASTA 1500 FT,
+VIRE A LA DERECHA E INTERCEPTE R-215
+VORDME/UCL, HACIA PATRÓN DE ESPERA IKLAR
+A FL040 Y ESPERE INSTRUCCIONES ATC / CLIMB
+ON TRACK 129° UNTIL 1500 FT, TURN RIGHT AND
+INTERCEPT R-215 UCL/VORDME TO IKLAR HOLDING
+PATTERN AT FL040 AND EXPECT ATC INSTRUCTIONS.
+HDG MAG
+ALT, ELEV Y / AND, HGT EN / IN FT
+DIST EN / IN NM
+OCA(H)
+VOR DME
+ABCD
+440 (4 3) 1.8 KM 3
+DISTANCIA
+DISTANCE NM
+FAF - Mapt 4.5
+VSP GS 5.2 %
+DME UCL
+KT
+MIN
+SEC
+FT
+MIN
+80 100 120 140 160 180
+3:24 2:43 2:16 1:56 1:42 1:31
+430 530 640 740 850 960
+ALT / (HGT)
+6.0 5.0 4.0 3.0
+1390
+(1383)
+1080
+(1073)
+760
+(753)
+440
+(433)
+ESCALA / SCALE 1:350 000
+024681
+NM
+048 1 2 1 62
+KM
+NOTA / RMK
+CIRCULAR
+CIRCLING 1000 (990) 5.5 KM
+APP 119.10, 133.70
+TWR 118.50
+2020
+VAR 7°W
+H
+Cayo Rico
+Cayos
+Los Majaes
+Punta Sirena
+Punta Mal Tiempo
+CAYO LARGO
+294
+(284)
+74
+(64)
+ALT MNM
+0301 MIN
+MSA
+25 DME
+FM UCL VOR
+1300
+&
+&
+#$
+FL MNM040
+1 MIN
+215°
+R-215
+MAHF
+IKLAR
+Mapt
+DME/UCL
+1.8
+R-309
+1500 (1493)
+ELEV 7
+(THR RWY 12)
+OCA
+1500(1493)
+FAF
+CL614
+1°60
+3000 (2993)
+MAPt
+DME/UCL
+1.8
+IF
+OTMUS
+R-309
+129º
+MOCA 1000 (993)
+5.2
+1500 (1493)
+OFFSET 6º L
+DME /UCL
+6.3
+8.0
+DME
+R-340
+R-160
+R-309
+DME/UCL
+11.5
+5.2%( 3.0º)
+0
+TA 3000
+IAF
+VOR/DME
+UCL
+30 M
+DME REQUERIDO / REQUIRED.
+10.0NM 9.0 7.08.0 6.0 5.0 3.0 2.0 1.04.0
+") -"
+AIP-CUBA AD 2 MUCL 7 - 9
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 45 ===
+#$
+#B
+"TZ
+!
+"TZ
+!
+"TZ
+!
+ C  A  Y  O    L  A  R  G  O    D  E  L    S  U  R
+ 1  1  2  .  1    U  C  L
+ C  H    5  8  X
+ "    "                "       "        "       " "
+ 2  1  º  3  6  '  1  8  .  0  7  '  '  N
+ 0  8  1  º  3  1  '  5  7  .  7  1  '  '  W
+ I  A  F
+ V  O  R  /  D  M  E
+ 2  1  °    2  0  '    1  0  .  0  1  "    N
+ 0  8  1  °    4  1  '    0  8  .  7  4  "    W
+ U  C  L
+ R  -  2  1  5    /  1  8  .  2    D  M  E
+ F  L  0  4  0
+ 2  1  °    3  5  '    2  2  .  6  0  "    N
+ 0  8  1  °    2  7  '    1  9  .  0  3  "    W
+ U  C  L
+ R  -  1  0  9    /    4  .  4    D  M  E
+ 1  5  0  0
+ M  A  H  F
+ I  K  L  A  R
+ F  A  F
+ C  L  6  3  0
+ 3  3  0  °
+ 2  1  5  °
+ R  -  3  3  0
+ R  -  2  1  5
+ R  -  1  5  0        C  A  T  A  -  B  -  C  -  D
+ R  -  2  1  5
+ R  -  2  1  5
+ R  -  1  0  9
+ 1  0    N  M
+ 8  1  °  2  0  '  W
+ 8  1  °  2  0  '  W
+ 8  1  °  3  0  '  W
+ 8  1  °  3  0  '  W
+ 8  1  °  4  0  '  W
+ 8  1  °  4  0  '  W
+ 2  1  °  4  0  '  N
+ 2  1  °  4  0  '  N
+ 2  1  °  3  0  '  N
+ 2  1  °  3  0  '  N
+ 2  1  °  2  0  '  N
+ 2  1  °  2  0  '  N
+ C  A  R  T  A    D  E    A  P  R  O  X  I  M  A  C  I  O  N    P  O  R    I  N  S  T  R  U  M  E  N  T  O  S    -    O  A  C  I    /   
+ I  N  S  T  R  U  M  E  N  T    A  P  P  R  O  A  C  H    C  H  A  R  T    -    I  C  A  O
+ E  L  E  V    1  0
+ O  C  H    T  H  R    R  W Y    3  0   
+ E  L  E  V    1  0
+ C  A  Y  O    L  A  R  G  O    D  E  L    S  U  R    /    V  i  l  o   A  c u  ñ a    I  n t  l
+ V  O  R
+ R  W Y    3  0
+ C  A  T    A  ,    B  ,    C  ,    D
+APROXIMACIÓN FRUSTRADA / MISSED APPROACH
+ A  S  C  I  E  N  D  A    E  N    D  E  R  R  O  T  A    2  8  9  °    H  A  S  T  A    1  5  0  0    F  T   
+ V  I  R  E    A    L  A    I  Z  Q U  I  E  R  D  A    E    I  N  T  E  R  C  E  P  T  E    R  -  2  1  5   
+ V  O  R  D  M  E  /  U  C  L  ,    H  A  C  I  A    P  A  T  R  Ó  N    D  E    E  S  P  E  R  A    I  K  L  A  R   
+ A    F  L  0  4  0    Y    E  S  P  E  R  E    I  N  S  T  R  U  C  C  I  O  N  E  S    A  T  C    /    C  L  I  M  B   
+ O  N    T  R  A  C  K    2  8  9  °    U  N  T  I  L    1  5  0  0    F  T  ,    T  U  R  N    L  E  F  T    A  N  D   
+ I  N  T  E  R  C  E  P  T    R  -  2  1  5    U  C  L  /  V  O  R  D  M  E    T  O    I  K  L  A  R    H  O  L  D  I  N  G   
+ P  A  T  T  E  R  N    A  T    F  L  0  4  0    A  N  D    E  X  P  E  C  T    A  T  C    I  N  S  T  R  U  C  T  I  O  N  S  .
+ H  D  G    M A  G
+ A  L  T  ,    E  L  E  V    Y    /    A  N  D  ,    H  G  T    E  N    /    I  N    F  T
+ D  I  S  T    E  N    /    I  N    N  M
+ O  C  A  (  H  )
+ V  O  R    /    D  M  E
+ A  B  C  D
+ 4  4  0    (  4  3  0  )    2  .  3    K  M
+ D  I  S  T  A  N  C  I  A
+ D  I  S  T  A  N  C  E N  M
+ F  A  F    -    M  a  p t        4  .  4
+ V  S  P    G  S    3  .  0  0  °
+ D  M  E    U  C  L
+ K  T
+ M  I  N
+ S  E  C
+ F  T
+ M  I  N
+ 8  0  1  0  0 1  2  0 1  4  0 1  6  0 1  8  0
+ 3  :  1  8 2  :  3  8 2  :  1  2 1  :  5  3 1  :  3  9 1  :  2  8
+ 4  3  0 5  3  0 6  4  0 7  4  0 8  5  0 9  6  0
+ A  L  T    /    (  H  G  T  )
+ 4  .  0 3  .  0 2  .  0 1  .  0
+ 1  3  6  0
+ (  1  3  5  0  )
+ 1  0  4  0
+ (  1  0  3  0  )
+ 7  2  0
+ (  7  1  0  )
+ 4  1  0
+ (  4  0  0  )
+ E  S  C  A  L  A    /    S  C  A  L  E    1  :  3  5  0    0  0  0
+ 0  2  4  6  8 1
+ N  M
+ 0  4  8  1  2  1  6 2
+ K  M
+NOTA / RMK
+ C  I  R  C  U  L  A  R
+ C  I  R  C  U  L  I  N  G
+ 1  0  0  0    (  9  9  0  )    5  .  5    K  M
+ A  P  P      1  1  9  .  1  0  ,    1  3  3  .  7  0
+ T  W R    1  1  8  .  5  0
+ 2  0  2  0
+ V  A  R    7  °  W
+H
+ C  a  y  o   R  i  c o C  a  y  o s    L  o s    M  a  j  a  e s
+ P  u  n t  a    S  i  r  e n a
+ P  u  n t  a    M a  l    T  i  e m  p o
+ C  A  Y  O    L  A  R  G  O
+ 2  9  4
+ (  2  8  4  )
+ 7  4
+ (  6  4  )
+ F  L    M  N  M 0  4  0
+ 1    M  I  N
+ A  L  T    M  N  M
+ 0  3  0
+ 1    M  I  N
+ R  -  1  0  9
+ 4  .  5    N  M
+ 2  8  9  °
+ 1  5  0  0   
+ D  M  E
+ 6  .  0
+ D  M  E
+ 6  .  0
+TA 3000
+ D  M  E  /  U  C  L
+ 4  .  4   
+ I  A  F
+ V  O  R  /  D  M E
+ U  C  L
+ E  L  E  V    1  0
+ (  T  H  R    R  W Y    3  0  )
+ 6  .  0
+ D  M  E
+ R - 1 5 0   F  A  F
+ C  L  6  3  0
+ 1  5  0  0  (  1  4  9  )    0
+ O  C  A  O  F  F  S  E  T    1  4  º    R 4  .  4
+   °          3  3  0
+ 3  0  0  0 (  2  9  9 )    0
+ R  -  3  3  0
+ M  A  P  t 2 8 9 º  5 . 2 % (   3 . 0 º )  
+ R - 1 0 9
+ 1  5  0  0  (  1  4  9  )  0
+ M  a  p t
+ 3  0    M
+ D  M  E    R  E  Q U  E  R  I  D  O    /    R  E  Q U  I  R  E  D  .
+ 0  1  .  0 2  .  0 3  .  0 4  .  0 5  .  0 6  .  0 7  .  0  N  M
+ M  S  A   
+ 2  5    D  M  E
+ F  M    U  C  L    V  O  R
+ 1  3  0  0
+AIP-CUBA AD 2 MUCL 7 - 11
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+
+=== Page 47 ===
+81º30’W 25’35’81º40’W
+25’
+21º
+30’
+N
+35’
+21º
+40’
+N
+45’
+21º
+50’
+N
+25’
+21º
+30’
+N
+35’
+21º
+40’
+N
+45’
+21º
+50’
+N
+81º30’W 25’35’81º40’W
+Punta Iguanita
+CAYO LARGO
+LOS COCOS
+Punta Mangle Prieto
+Cayo Piedra
+Cayos Los Pajaros
+Cayo Rico Cayería Los MajaesCayos Peraza
+Punta Sirena
+COCODRILO
+COMBINADO
+CARTA DE APROXIMACION VISUAL - OACI /
+VISUAL APPROACH CHART - ICAO
+CAYO LARGO DEL SUR / Vilo Acuña IntlELEV 10
+OCH REF TO AD ELEV
+0 2                 4                    6 8
+0 5 10 15
+ESCALA / SCALE 1: 250 000
+NM
+KM
+2020
+VAR 7º W
+VOR/DME
+CAYO LARGO DEL SUR
+112.1 UCL
+CH 58X
+21º36'18.07"N
+081º31'57.71"W
+269
+(259)
+APP 1 133.719.10,
+TWR 118.5
+30 M
+HDG MAG
+ALT, ELEV Y/AND
+HGT EN/IN FT
+DIST EN/IN NM
+F5L6
+GND
+CTR
+D
+10 NM
+74
+(64)
+AIP-CUBA AD 2 MUCL 9 - 1
+22 FEB 2024
+AIS-CUBA AMDT 103-24

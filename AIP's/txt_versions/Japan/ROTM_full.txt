@@ -1,0 +1,413 @@
+=== Page 1 ===
+AIP Japan
+FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD2-1
+AD 2 AERODROMES
+ROTM AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ROTM - FUTENMA
+ROTM AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+ROTM AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 2616N/12745E, 261614.50N/1274452.97E*
+2 Direction and distance from (city) 5nm NE of NAHA
+3 Elevation/ Reference temperature 246ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+USMC
+7 Types of traffic permitted(IFR/
+VFR)
+Nil
+8R e m a r k s N i l
+1 AD Administration Nil
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office Nil
+7A T S N i l
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:10 NOV 2016) 10/11/16
+
+
+=== Page 2 ===
+ROTM AD2-2                      AIP Japan
+                     FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD 2.4 HANDLING SERVICES AND FACILITIES
+ROTM AD 2.5 PASSENGER FACILITIES
+ROTM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+ROTM AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types 115/145 JP-4
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of dis-
+abled aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD2-3
+ROTM AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+ROTM AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+ROTM AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not Available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual 
+docking/ parking guidance sys-
+tem of aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:06/24
+(LGT):RTHL
+3 Stop bars Nil
+4R e m a r k s N i l
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+((EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+ROTM AD2-4                      AIP Japan
+                     FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+ROTM AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office FUTENMA
+2 Hours of service
+MET Office outside hours
+Nil
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuanc
+Nil
+5 Briefing/ consulta tion provided Nil
+6 Flight documentation
+Language(s) used
+Nil
+7 Charts and other information available 
+for briefing or consultation
+Nil
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+06
+24
+To be issued
+Later 
+2740×45
+2740×45
+PCN 48/F/A/W/T
+Asphalt Concrete
+Nil
+Nil
+Nil
+Nil
+   Slope of RWY 
+Strip
+ Dimensions(M)
+Remarks
+71 0 1 2
+To be issued later
+(EFF:16 JUL 2020) 16/7/20
+
+
+=== Page 5 ===
+AIP Japan
+FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD2-5
+ROTM AD 2.13 DECLARED DISTANCES
+ROTM AD 2.14 APPROACH AND RUNWAY LIGHTING
+ROTM AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+ROTM AD 2.16 HELICOPTER LANDING AREA
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+06 AVBL AVBL
+Nil
+24 AVBL
+Nil
+Remarks
+10
+Nil
+1 ABN/IBN location , characteristics 
+and hours of operation ABN:AVBL
+2 LDI location and LGT 
+Anemometer location and LGT Nil
+3 TWY edge and centerline lighting Nil
+4 Secondary power supply/    switch-
+over time Nil
+5 Remarks Nil
+To be issued later
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 6 ===
+ROTM AD2-6                      AIP Japan
+                     FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD 2.17 ATS AIRSPACE
+ROTM AD 2.18 ATS COMMUNICATION FACILITIES
+ROTM AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+FUTENMA
+CTR
+Area bounded by a line drawn from 
+AJA Bridge ( 261429N/1274125E ) to 
+the intersection of Highways 58 and 
+Highway 81 ( 261708N/1274519E ) to a 
+point on Highway 81 one and half nau-
+tical mile east of the Highway 58 and 
+Highway 81 intersection ( 261717N/
+1274551E ) to the intersection of High-
+way 329 and Highway 20 ( 261905N/
+1274912E ) to AWASE Point 
+(261904N/1275047E ) to YONABARU 
+(261206N/1274508E ) to AJA Bridge.
+--------
+2246
+(exc 2246)
+DF U T E N M A
+TOWER
+En
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+TWR
+GND
+Futenma Tower
+Futenma
+Ground Control
+340.2MHz
+118.8MHz
+243.0MHz(E)
+121.5MHz(E)
+360.2MHz
+122.8MHz
+H24
+H24
+APP ser provided by Naha APP .
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 34 5 6 7
+TACAN NFO 1003 MHz
+(CH-42X)
+H24 261607.8N/1274434.8E Unusable:
+031° - 229° beyond 
+28NM BLW 6000ft.
+230° - 030° beyond 
+28NM BLW 3500ft.
+(EFF:4 JAN 2018) 4/1/18
+
+
+=== Page 7 ===
+AIP Japan
+FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD2-7
+ROTM AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+ROTM AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:4 JAN 2018) 4/1/18
+→
+
+
+=== Page 8 ===
+ROTM AD2-8                      AIP Japan
+                     FUTENMA
+Civil Aviation Bureau,Japan
+ROTM AD 2.22 FLIGHT PROCEDURES
+ROTM AD 2.23 ADDITIONAL INFORMATION
+ROTM AD 2.24 CHARTS RELATED TO AN AERODROME
+WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+ 
+NOTE:REPRINTING DOD FLIP
+Nil
+Aerodrome/Heliport Chart
+RADAR INSTRUMENT APPROACH MINIMUMS
+FUTENMA MCAS (ROTM) 
+Naha, Okinawa I, Japan  Amdt 6  10JUL25  (25191)  (USN) ELEV 248
+RADAR .3 - Call NAHA APP CON (E) 257.5x  297.2x  317.8x 
+RWY GS/TCH/RPI CAT
+DA/
+MDA-VIS
+HAT/HATh
+HAA CEIL-VIS
+PAR $/ 6 1 3.1°/52/909 ABCDE 504-¾ 259 (300-¾)
+24 1 3.2°/50/903 ABCDE 515-7/8 267 (300-7/8)
+PAR (W/O GS) / 6 4 AB 780-¾ 535 (600-¾)
+CDE 780-1¼ 535 (600-1¼)
+24 AB 820-1 572 (600-1)
+CDE 820-15/8 572 (600-15/8)
+ASR / 24 AB 940-1 692 (700-1)
+CDE 940-2 692 (700-2)
+6 2 AB 1000-1 755 (800-1)
+CDE 1000-17/8 755 (800-17/8  )
+CIR /( All Rwy AB 980-1 732 (800-1)
+(PAR W/O GS) C 980-2 732 (800-2)
+D 980-2¼ 732 (800-2¼)
+E 1160-3 912 (1000-3)
+CIR /( All Rwy AB 1000-1¼ 752 (800-1¼)
+(ASR) C 1000-2¼ 752 (800-2¼)
+D 1000-2½ 752 (800-2½)
+E 1160-3 912 (1000-3)
+. Acft will be RADAR vectored by NAHA APP CON for handoff to FUTENMA RADAR at 2200 for Rwy 06 
+and 2000 for Rwy 24. 
+3 MP 2200-0200Z Mon.
+$ PAR svc degraded dur heavy rain. 
+/ TERPS
+1 CAUTION: GS exceeds 3°.
+4 When ALS inop, increase CAT AB vis to 1 mile, CAT CDE vis to 1½ miles. 
+2 When ALS inop, increase CAT AB vis to 1¼ miles, CAT CDE vis to 2 miles.
+( Circling NA NW of Rwy 6/24. CAT DE remain within 2.8 NM. 
+T
+(EFF:4 SEP 2025) 4/9/25
+
+
+=== Page 9 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+ NOTE: REPRINTING DOD FLIP
+5270)87(10$ $'&+$57
+&+$1*(8SGDWH
+(EFF:16 JUN 2022) 16/6/22
+ROTM AD2.24-ADC-1
+FUTENMA
+

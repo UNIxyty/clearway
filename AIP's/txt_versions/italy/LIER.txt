@@ -1,0 +1,838 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIER 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIER AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIER AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIER - ORISTANO/Fenosu
+LIER AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIER AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+39°53'42''N 008°38'35''E
+2 Direzione e distanza dalla città 2.29 NM E Oristano
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+40 FT / 31.09° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2023.7) / 8'E
+5 Autorità amministrativa aeroportuale ENAC - DT Sardegna
+Aeroporto di Cagliari
+09067 Elmas (CA)
+ Tel: +39 070 0937571 E-mail: sardegna.apt@enac.gov.it
+ protocollo@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale SOGEAOR srl
+tel +39 070504818
+e-mail: amministrazione@sogeaor.it
+Ufficio operativo: tel +39 070504818
+e-mail: operativo@sogeaor.it
+PEC: protocollo@pec.sogeaor.it
+SITA: FNUKKXH
+ Aerodrome operator SOGEAOR srl
+tel +39 070504818
+e-mail: amministrazione@sogeaor.it
+Operational office: tel +39 070504818
+e-mail: operativo@sogeaor.it
+PEC: protocollo@pec.sogeaor.it
+SITA: FNUKKXH
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aeroporto civile statale aperto al traffico di aviazione generale
+ Remarks 1. Civil aerodrome open to General Aviation traffic
+LIER AD 2.3 ORARIO DEI SERVIZI
+LIER AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale HJ
+ Aerodrome Administration  
+2 Dogana ed immigrazione Non disponibile
+
+=== Page 2 ===
+AD 2 LIER 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+ Customs and immigration Not available
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office NIL
+   
+5 ARO NIL
+   
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento NIL
+ Fuelling  
+9 Handling Solo assistenza aeromobile all’arrivo ed alla partenza
+  Handling service assured only at arrival and departure
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note NIL
+ Remarks NIL
+LIER AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIER AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio NIL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIER 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIER AD 2.5 SERVIZI PER I PASSEGGERI
+LIER AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti In città
+ Restaurants In town
+3 Trasporti NIL
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIER AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIER AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio di primo intervento di soccorso e lotta antincendio (vedere “Note”)
+ Aerodrome category for fire fighting First aid and firefighting facility (see "Notes")
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note Presidio Antincendio assicurato in accordo alla "Disciplina Generale della protezione
+antincendio per aeroporti di aviazione generale e aviosuperficie" ENAC
+ Remarks Fire Protection ensured in accordance with ENAC “Disciplina generale della protezione
+antincendio per aeroporti di aviazione generale e aviosuperficie"
+LIER AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIER AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Autospazzatrice
+ Types of clearing equipment Sweeper
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIER AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIER AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron CONC PCN 53/R/C/X/T
+
+=== Page 4 ===
+AD 2 LIER 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 24.0 M ASPH PCN 11/F/C/X/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. Dimensioni dell’area di stazionamento: 14.820 mq
+2. Area di parcheggio provvista di segnaletica orizzontale standard ENAC. Sono
+disponibili le piazzole 1, 2 e 3 ed aree per aviazione generale
+3. TWY A situata in corrispondenza del bordo nord della SWY RWY 32 che conduce
+direttamente al piazzale principale
+4. E’ vietato il transito sulla TWY A di aeromobili con ACN superiore a 11
+ Remarks 1. Apron dimensions: 14.820 sqm
+2. Apron provided with CAA standard marking. Stands identified as 1, 2 and 3 and
+areas for general aviation are available
+3. TWY A located on North side of SWY RWY 32 linking to main apron
+4. Transit on TWY A of aircraft with ACN value higher than 11 is forbidden
+LIER AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIER AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedere ADC in vigore
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See ADC in force
+2 Illuminazione e segnaletica per RWY e TWY Segnaletica di THR con numero identificativo della pista, la TWY è provvista di CL e di
+posizione attesa per l'ingresso in pista (vedere ADC in vigore)
+RWY 14 AIMING POINT marking: 173.50 metri dalla THR
+RWY 32 AIMING POINT marking: 189.00 dalla THR
+ RWY and TWY markings and lights RWY THR signal with RWY identification number, TWY provided with CL and with
+holding for RWY entering (see ADC in force)
+RWY 14 AIMING POINT marking: 173.50 metres from THR
+RWY 32 AIMING POINT marking: 189.00 metres from THR
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note 1. Segnali d’ obbligo e di informazione disponibili
+ Remarks 1. Mandatory and information signs available
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIER 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIER AD 2.10 OSTACOLI AEROPORTUALI
+LIER AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+THR 14 / TOCS Albero / 20.58 / NIL 39°54′3.140″
+8°38′9.252″
+NIL NIL NIL
+THR 14 / TOCS Palo ENEL /
+19.78/ NIL
+39°54′2.385″
+8°38′7.344″
+NIL NIL NIL
+THR 14 / TOCS Filare alberi /
+26.28/ NIL
+39°54′2.803″
+8°38′7.849″
+NIL NIL NIL
+THR 14 / TOCS Palo ENEL /
+19.93/ NIL
+39°54′3.670″
+8°38′8.617″
+NIL NIL NIL
+THR 14 / TOCS Filare alberi /
+21.7/ NIL
+39°54′4.851″
+8°38′9.012″
+NIL NIL NIL
+THR 14 / TOCS Filare alberi /
+20.27/ NIL
+39°54′4.907″
+8°38′4.401″
+NIL NIL NIL
+THR 32 / TOCS Paletto recinzione /
+14.89/ NIL
+39°53′23.728″
+8°38′58.562″
+NIL NIL NIL
+THR 32 / TOCS Filare alberi /
+27.27/ NIL
+39°53′23.722″
+8°39′0.088″
+NIL NIL NIL
+THR 32 / TOCS Filare alberi /
+29.6/ NIL
+39°53′22.261″
+8°38′58.831″
+NIL NIL NIL
+THR 32 / TOCS Filare alberi /
+29.4/ NIL
+39°53′20.871″
+8°39′3.731″
+NIL NIL NIL
+THR 32 / TOCS Palo ENEL /
+20.09/ NIL
+39°53′20.289″
+8°39′3.091″
+NIL NIL NIL
+THR 32 / TOCS Filare alberi /
+30.05/ NIL
+39°53′19.492″
+8°39′2.697″
+NIL NIL NIL
+THR 32 / TOCS Filare alberi /
+28.96/ NIL
+39°53′14.326″
+8°39′8.016″
+NIL NIL NIL
+THR 32 / TOCS Albero / 30.98/ NIL 39°53′16.181″
+8°39′11.173″
+NIL NIL NIL
+LIER AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIER AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Consultazione telefonica
+ Briefing and consultation provided Telephone consultation
+6 Documentazione di volo e
+lingua usata
+Testi in linguaggio chiaro abbreviato / IT, EN
+ Flight documentation and
+language used
+Abridged plain language text / IT, EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+
+=== Page 6 ===
+AD 2 LIER 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Internet
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. WDI
+ Climatological information and additional
+information
+ 
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIER 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIER AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIER AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+14 135.54° 1199 x 30
+PCN 40/F/C/X/T
+BITUMCONG
+39°53'55.84''N
+008°38'17.57''E
+33.7 FT / NIL
+32 315.54° 1199 x 30
+PCN 40/F/C/X/T
+BITUMCONG
+39°53'28.18''N
+008°38'53.08''E
+40.4 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+14
+Pendenza
+longitudinale media:
+0,19 % Pendenza
+longitudinale
+massima:
+0,30% Pendenza
+trasversale:0,20%/
+Longitudinal
+mean slope: 0,19
+% Longitudinal
+maximum slope:
+0,30% Transverse
+slope: 0,20%
+40 187 x 80 1419 x 80 90 x 90
+32
+Pendenza
+longitudinale media:
+0,19 % Pendenza
+longitudinale
+massima:
+0,30% Pendenza
+trasversale:0,20%/
+Longitudinal
+mean slope: 0,19
+% Longitudinal
+maximum slope:
+0,30% Transverse
+slope: 0,20%
+60 238 x 80 1419 x 80 90 x 90
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+14 NIL NIL
+32 NIL NIL
+
+=== Page 8 ===
+AD 2 LIER 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIER AD 2.13 DISTANZE DICHIARATE
+LIER AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+14
+START POINT RWY 14
+1199
+1259
+1386
+1446
+1239
+1299
+1199
+-
+32
+START POINT RWY 32
+1199
+1239
+1437
+1477
+1259
+1299
+1199
+-
+NOTE
+REMARKS
+NIL
+LIER AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIER AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+14 NIL NIL NIL NIL NIL NIL NIL NIL
+32 NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+14 NIL NIL NIL NIL NIL NIL NIL NIL
+32 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+14 NIL NIL NIL NIL NIL NIL
+32 NIL NIL NIL NIL NIL NIL
+LIER AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIER AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 39°53'59''N   008°38'25''E
+ABN rotante a luce bianco/verde alternata
+Orario: HN -/+30
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 39°53'59''N   008°38'25''E
+ABN revolving white/green alternating light
+Hours: HN -/+30
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: 1 a 261 metri dopo la THR RWY 14, 137 metri  a sinistra della RCL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIER 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: 1 at 261 metres from THR RWY 14, 137 metres left side RCL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL/NIL
+ Secondary power supply/Switch over time  
+5 Note 1. Lampada segnalazioni di emergenza
+ Remarks 1. Emergency lights lamp
+LIER AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIER AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 10 ===
+AD 2 LIER 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIER AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIER AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Oristano/Fenosu ATZ
+39°49'02"N 008°40'40"E;
+39°57'56"N 008°34'49"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+39°53'42"N 008°38'18"E
+till point of origin.
+2000 FT
+AMSL
+G NIL NIL
+1) WI Roma FIR
+2) Escluso il CTR di Cagliari/
+Except Cagliari CTR
+LIER AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIER AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+LIER AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIER AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIER AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIER AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Servizio apron 2 Apron management service
+2.1. Gli stand 1 e 3 sono disponibili in self-manoeuvring per aeromobili
+con apertura alare fino a 25 metri.
+Lo stand 2 è disponibile per aeromobili con apertura alare fino a 29
+metri
+Dovranno essere seguite le istruzioni del marshaller
+2.1. Stands 1 and 3 are available for self-manoeuvring for aircraft with
+wingspan up to 25 metres.
+Stand 2 is available for aircraft with wingspan up to 29 metres.
+Marshaller’s instructions shall be followed
+2.2. L’aeromobile in partenza non potrà lasciare il parcheggio sino a
+quando un eventuale altro aeromobile in arrivo non avrà a sua volta
+raggiunto lo stand di parcheggio assegnato
+2.2. Departing aircraft shall not leave the apron till any other arriving
+aircraft have reached the assigned stand
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIER 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+NIL NIL
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+Contattare l’ufficio operativo del gestore per l’eventuale assegnazione
+di una specifica piazzola.
+Contact the Operations Office for assignment of a specific stand.
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+NIL NIL
+LIER AD 2.21 PROCEDURE ANTIRUMORE
+LIER AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIER AD 2.22 PROCEDURE DI VOLO
+LIER AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+1.1. Circuito di traffico: sempre ad est della pista 1000 ft QNH 1.1. Traffic circuit: always East of the RWY 1000 ft QNH
+1.2. Possibile presenza di elicotteri di Stato in volo operativo con
+entrata ed uscita al di sotto della quota di circuito
+1.2. Operating flights of State helicopters entering and leaving below
+the circuit altitude are possible
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+4.1.1. Gli aeromobili in atterraggio per pista 14 e quelli in partenza
+per pista 32 devono effettuare la manovra di turn back seguendo la
+segnaletica orizzontale di turn pad
+4.1.1. Aircraft arriving on RWY 14 and departing from RWY 32 shall
+perform back track following turn pad marking
+4.2 Attività di circuito 4.2 Circuit activity
+NIL NIL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+
+=== Page 12 ===
+AD 2 LIER 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIER AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIER AD 2.23 ADDITIONAL INFORMATION
+1. A causa della presenza nelle vicinanze di vaste superfici d’acqua
+e di aree intensamente coltivate, negli spazi aerei circostanti e
+sull’aeroporto stesso è possibile la presenza di volatili, più probabile
+nelle prime ore del mattino e al tramonto
+1. Presence of birds is possible in the surrounding air space and
+over the aerodrome, more likely early in the morning and at sunset,
+because of the presence of vast water surfaces and intensely cultivated
+areas
+LIER AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIER AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIER 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 14/32  AD 2 LIER 3 - 1
+LIER AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIER AD 2.25 Visual segment surface (VSS) penetration

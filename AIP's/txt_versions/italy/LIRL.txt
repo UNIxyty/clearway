@@ -1,0 +1,885 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIRL 1 - 1
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIRL AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIRL AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIRL - LATINA
+LIRL AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIRL AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+41°32'33''N 012°54'33''E
+2 Direzione e distanza dalla città 4.53 NM N Latina
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+94 FT / 30.5° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+4° E (2024.4) / 7'E
+5 Autorità amministrativa aeroportuale Aeronautica Militare - Aeroporto 'E. Comani'
+Comando 70° Stormo
+Via dell'Aeroporto, 1
+04013 Latina Scalo (LT) 
+Ufficio Operazioni +3907738212365
+ e-mail: aerostormo70@aeronautica.difesa.it
+ENAC - Direzione Territoriale Lazio
+Aeroporto "Leonardo Da Vinci"
+00054 Fiumicino (Roma)
+ Tel. +39 06 65953139
+ E-mail: laziofco.apt@enac.gov.it
+ Aerodrome administration authority Italian Air Force - 'E. Comani' Aerodrome
+70° Stormo Command
+Via dell'Aeroporto, 1
+04013 Latina Scalo (LT) 
+Operations Office +3907738212365
+ e-mail: aerostormo70@aeronautica.difesa.it
+ 
+ Gestore aeroportuale Aeronautica Militare
+Tel: +3907738211
+ Aerodrome operator Italian Air Force
+Tel: +3907738211
+ Autorità ATS Aeronautica Militare
+ 
+ ATS authority Italian Air Force
+ 
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aeroporto militare aperto al locale Aeroclub.
+Eventuali e temporanee autorizzazioni ad altro traffico civile dovranno essere
+rilasciate dall’ENAC previo nulla osta dello Stato Maggiore dell’Aeronautica.
+ Remarks 1. Military AD open to local ACB.
+Any temporary authorization to other civil traffic must be released by Civil Aviation
+Authority (ENAC) with a previous consent by “Stato Maggiore dell’Areonautica”.
+LIRL AD 2.3 ORARIO DEI SERVIZI
+LIRL AD 2.3 OPERATIONAL HOURS
+
+=== Page 2 ===
+AD 2 LIRL 1 - 2
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+1 Amministrazione aeroportuale MON-THU 0700-1530 (0600-1430)
+FRI 0700-1100 (0600-1000)
+ Aerodrome Administration  
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario MON-FRI 0600-1800 (0500-1700)
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO PRATICA DI MARE
+   
+5 ARO H24 ARO CBO PRATICA DI MARE
+   
+6 METEO Briefing Office MON-FRI 0600-1800 (0500-1700)
+   
+7 ATS MON-FRI 0600-1800 (0500-1700)
+   
+8 Rifornimento MON-FRI 0600-1800 (0500-1700)
+ Fuelling  
+9 Handling MON-THU 0700-1530 (0600-1430)
+FRI 0700-1100 (0600-1000)
+   
+10 Servizi di sicurezza H24
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. Aeroporto chiuso nei giorni festivi e il 6 luglio
+2. Il servizio handling per aeromobili non di base è assicurato con 24 HR di preavviso
+al centro operativo di base
+3. In caso di estensione dell’orario di attività il servizio handling è fornito
+esclusivamente agli aeromobili militari di base
+ Remarks 1. Aerodrome closed on HOL and 6th of July
+2. Handling service for not based aircraft assured PN 24 HR to base operational
+center
+3. In case of operational hours extended handling service is provided for military base
+aircraft only
+LIRL AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIRL AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio NIL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIRL 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIRL AD 2.5 SERVIZI PER I PASSEGGERI
+LIRL AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti In città
+ Restaurants In town
+3 Trasporti Taxi O/R
+ Transportation  
+4 Servizio medico Ospedale in città
+ Medical facilities Hospital in town
+5 Banca e ufficio postale In città
+ Bank and Post office In town
+6 Ufficio turistico In città
+ Tourist office In town
+7 Note NIL
+ Remarks  
+LIRL AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIRL AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 1 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Nei giorni di SAT, SUN, HOL e 6 luglio il sevizio antincendio è assicurato
+dall’Aeroclub Latina con mezzi propri
+ Remarks 1. SAT, SUN HOL and 6th of July fire fighting service assured by Aeroclub Latina with
+own equipments
+LIRL AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIRL AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura 1 spazzatrice
+ Types of clearing equipment 1 sweeper
+2 Priorità RWY, TWY, Apron
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. Disponibile MON-FRI 0600-1800 (0500-1700)
+ Remarks 1. Available MON-FRI 0600-1800 (0500-1700)
+LIRL AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIRL AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+
+=== Page 4 ===
+AD 2 LIRL 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+APRON 1 CONC/ASPH NIL
+APRON 2 CONC/ASPH NIL
+APRON 3 CONC/ASPH NIL
+APRON 4 CONC/ASPH NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 12.0 M NIL NIL
+B 17.0 M ASPH NIL
+D 18.0 M ASPH NIL
+E 20.0 M NIL NIL
+J 13.0 M ASPH NIL
+K 18.0 M NIL NIL
+L 10.0 M ASPH NIL
+M 10.0 M NIL NIL
+W 5.0 M NIL NIL
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note 1. TWY L chiusa
+ Remarks 1. TWY L closed
+LIRL AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIRL AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Guida al parcheggio e al rullaggio: strisce gialle
+Follow-me disponibile
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+TWY and parking guidance: yellow strips
+Follow me car available
+2 Illuminazione e segnaletica per RWY e TWY RWY marking di colore bianco: THR, identificativo, strip laterale, TDZ, RCL
+TWY marking di colore giallo: asse centrale, RWY holding position
+ RWY and TWY markings and lights White coloured RWY markings: THR, identification, side strip, TDZ, RCL
+Yellow coloured TWY markings: centreline, RWY holding position
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note 1. Follow-me disponibile MON-FRI 0600-1800 (0500-1700)
+ Remarks 1. Follow-me available MON-FRI 0600-1800 (0500-1700)
+LIRL AD 2.10 OSTACOLI AEROPORTUALI
+LIRL AD 2.10 AERODROME OBSTACLES
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIRL 1 - 5
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+NIL
+LIRL AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIRL AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+LATINA
+2 Orario di servizio
+ Hours of service
+MON-FRI 0600-1800 (0500-1700) eccetto HOL e JUL 06
+Al di fuori degli orari di servizio di Latina UMA: Centro Operativo per la Meteorologia
+(COMET) Pratica di Mare
+MON-FRI 0600-1800 (0500-1700) except HOL and JUL 06
+Outside Latina AD MET Office OPR HR: Centro Operativo per la Meteorologia
+(COMET) Pratica di Mare
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+COMET Pratica di Mare / 9H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Consultazione personale, telefono
+ Briefing and consultation provided Personal consultation, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato Italiano
+ Flight documentation and
+language used
+Charts, abridged plain language texts Italian
+7 Carte e documentazione disponibili per 
+consultazione
+S, U85, U70, U50, P85, P70, P50, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Telefax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Latina TWR, Latina APP
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. Latina UMA: tel/fax +39 0773 8212248/2328
+Centro Operativo per la Meteorologia (COMET) - Pratica di Mare tel +39 06
+91293229
+2. TAF emessi: 0600-1500, 0900-1800, 1200-2100, 1500-2400, 1800-0300
+ Climatological information and additional
+information
+1. Latina AD MET Office: tel/fax +39 0773 8212248/2328
+Centro Operativo per la Meteorologia (COMET) - Pratica di Mare tel +39 06
+91293229
+2. TAF issued: 0600-1500, 0900-1800, 1200-2100, 1500-2400, 1800-0300
+LIRL AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+
+=== Page 6 ===
+AD 2 LIRL 1 - 6
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+LIRL AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+12 124.45° 1712 x 40
+PCN 22/R/C/Y/T
+ASPH
+41°32'48.31''N
+012°54'02.28''E
+93.5 FT / NIL
+30 304.46° 1712 x 40
+PCN 22/R/C/Y/T
+ASPH
+41°32'18.74''N
+012°54'59.64''E
+57.4 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+12 0.7% NIL 43 x 150 1953 x 280 NIL
+30 0.7% 118 x 40 118 x 150 1953 x 280 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+12 NIL
+1) STRIP:
+le dimensioni della STRIP non soddisfano gli standard ICAO a causa della presenza della recinzione
+aeroportuale all'interno della della parte Nord/Ovest della STRIP stessa (tratto iniziale pista 12)/
+STRIP dimensions are not in accordance with ICAO standard due to the presence of fence within
+North/West portion of the STRIP (first segment of RWY 12)
+30 NIL
+1) DTHR 100 m
+2) STRIP:
+le dimensioni della STRIP non soddisfano gli standard ICAO a causa della presenza della recinzione
+aeroportuale ad Est della testata pista 30/
+STRIP dimensions are not in accordance with ICAO standard due to the presence of fence on
+East side of RWY 30 head.
+LIRL AD 2.13 DISTANZE DICHIARATE
+LIRL AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+12 1712 1755 1712 1712
+30 1712 1830 1830 1612
+NOTE
+REMARKS
+NIL
+LIRL AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIRL AD 2.14 APPROACH AND RUNWAY LIGHTING
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIRL 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+12 NIL NIL NIL G NIL 3°
+wing bar
+lato sx
+left side
+17.6 NIL
+30 NIL NIL NIL G NIL 3°
+wing bar
+entrambi i lati
+both sides
+17.6 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+12 NIL NIL NIL NIL NIL 60 W NIL
+30 NIL NIL NIL NIL NIL 60 W NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+12 R NIL NIL NIL NIL NIL
+30 R NIL NIL NIL NIL NIL
+LIRL AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIRL AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 41°32'50''N   012°54'33''E
+Caratteristiche: rotante a luci bianco/verde alternate Intensità 1000 IC: 1500
+Orario: MON-FRI 0600-1800 (0500-1700)
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 41°32'50''N   012°54'33''E
+Characteristics: revolving white-green alternating lights Intensity 1000 IC: 1500
+Hours: MON-FRI 0600-1800 (0500-1700)
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: posizionato 440 m dopo la soglia pista 12 nella direzione di atterraggio, 180 m
+a sinistra della RCL. MON-FRI HR 0600-1800 (0500-1700) / Illuminato
+Anemometro ad ultrasuoni a circa 180 m a sinistra della RCL e a circa 900 m dopo la
+testata 12, illuminato.
+Anemometro ad ultrasuoni a circa 200 m a sinistra della RCL e a circa 290 m dopo
+THR RWY 30, illuminato.
+Anemometro (SAIP IA/FMQ-20) a circa 440 m dopo la soglia pista 12 nella direzione
+di atterraggio, 180 m a sinistra della RCL, illuminato
+
+=== Page 8 ===
+AD 2 LIRL 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+ LDI location and lights 
+Anamometer location and lights
+LDI: positioned 440 m after THR RWY 12 in landing direction, 180 m left side RCL.
+MON-FRI HR 0600-1800 (0500-1700) / Lighted
+Ultrasonic anemometer at about 180 m left side RCL and about 900 m after head
+RWY 12,  lighted.
+Ultrasonic anemometer at about 200 m left side RCL and about 290 m after THR
+RWY 30, lighted.
+Anemometer (SIAP IA/FMQ-20) at about 440 m after THR RWY 12
+in landing direction, 180 m left side RCL, lighted.
+3 Illuminazione bordo e asse centrale TWY Bordo: blu; asse centrale: giallo
+ TWY edge and center line lighting Edge: Blue; centreline: yellow
+4 Alimentatore secondario/Tempo di 
+intervento
+Disponibile
+ Secondary power supply/Switch over time AVBL
+5 Note 1. Orari ABN/IBN: festivi e 6 luglio non disponibile
+ Remarks 1. ABN/IBN hours of operation: HOL and 6th of July not available
+LIRL AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIRL AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIRL AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIRL AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Latina ATZ
+41°34'02"N 013°01'02"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+41°32'27"N
+012°54'42"E till point
+41°36'55"N 012°51'40"E;
+to point of origin.
+2000
+FT AGL
+D
+Latina TWR
+IT/EN
+6000 FT
+1) WI Latina CTR
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIRL 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIRL AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIRL AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500
+MON-FRI 0600-1800
+(0500-1700)
+1) HOL e/and 06 JUL servizi non
+disponibili/services not available
+APP Latina APP 122.100
+MON-FRI 0600-1800
+(0500-1700)
+1) HOL e/and 06 JUL servizi non
+disponibili/services not available
+APP Latina APP 126.550
+MON-FRI 0600-1800
+(0500-1700)
+1) HOL e/and 06 JUL servizi non
+disponibili/services not available
+TWR Latina TWR 119.150
+MON-FRI 0600-1800
+(0500-1700)
+1) HOL e/and 06 JUL servizi non
+disponibili/services not available
+2) SAT, SUN, HOL e 06 JUL la
+FREQ 119.150MHz è assegnata per
+esigenze del locale Aeroclub, tale
+FREQ non deve essere usata per
+scopi ATS/SAT, SUN, HOL and 06
+JUL FREQ 119.150MHz is assigned
+for local Aeroclub needs, this FREQ
+must not be used for ATS purposes
+TWR Latina TWR 122.100
+MON-FRI 0600-1800
+(0500-1700)
+1) HOL e/and 06 JUL servizi non
+disponibili/services not available
+
+=== Page 10 ===
+AD 2 LIRL 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIRL AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIRL AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(3° E-2020.0)
+LAT
+111.20
+MHZ
+CH 49X
+VOR H24
+DME H24
+VOR
+41°32'28.0''N
+012°55'05.0''E
+DME
+41°32'27.9''N
+012°55'04.4''E
+24 M
+AMSL
+60 NM/25000 FT
+limitazioni oltre/
+limitations beyond 15 NM
+RDL 018 NU
+DME
+limitazioni oltre/
+limitations beyond 17 NM
+RDL 024 NU
+limitazioni a/limitations at
+25 NM
+010°/100° NU
+100°/130° MRA 5000 FT
+130°/290° MRA 2500 FT
+290°/330° MRA 5000 FT
+330°/010° MRA 10000 FT
+VOR
+limitazioni oltre/
+limitations beyond 29 NM
+entro/limitations within 35
+NM
+RDL 024 MRA 14000 FT
+ 
+1) MAINT:
+Primo MON di ogni
+mese: / first MON each
+month:
+0800-1000 (0700-0900)
+LIRL AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIRL AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+Gli aeromobili civili dovranno utilizzare esclusivamente la TWY W.
+Eventuali deroghe possono essere ottenute previa autorizzazione del
+Comando 70° Stormo Aeronautica Militare
+Civil aircraft shall use TWY W only. Possible derogation may be granted
+previuos authorization issued by Italian Air Force Comando 70° Stormo
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+Scali su Latina AD sono consentiti solo agli aeromobili che abbiano
+coordinato l’atterraggio con Aeroclub di Latina e abbiano ottenuto
+l’autorizzazione all’atterraggio dal Comando 70° Stormo con le
+seguenti modalità:
+a. da lunedì a venerdì dall’Ufficio Operazioni
+b. i numeri della preventiva autorizzazione e del coordinamento con
+l’Aeroclub di Latina devono essere inseriti nella casella 18 del FPL
+Stops on Latina AD are allowed only to ACFT that have coordinated
+landing clearance with Latina ACB and that have obtained landing
+authorization from Comando 70° Stormo as follows:
+              
+a. from MON to FRI from Ufficio Operazioni
+b. the numbers of previous authorization and coordination with Latina
+ACB must be indicated in FPL item 18
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIRL 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIRL AD 2.21 PROCEDURE ANTIRUMORE
+LIRL AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIRL AD 2.22 PROCEDURE DI VOLO
+LIRL AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+Non sono istituite procedure standard strumentali per il Traffico Aereo
+Generale.
+Standard instrument procedures have not been established for General
+Air Traffic.
+2.2 Procedure di radio avaria 2.2 Radio failure procedure
+In caso di radioavaria, la radioassistenza designata su cui iniziare la
+discesa per l’atterraggio è “LAT” VOR/DME.
+In the event of radio failure, the radio aid designated to descend for
+landing is “LAT” VOR/DME.
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+Vedere ENR 6.3-9 See ENR 6.3-9
+4.2 Attività di circuito 4.2 Circuit activity
+Circuito di traffico:
+a. RWY 12 a destra
+b. RWY 30 a sinistra
+Traffic circuit:
+a. RWY 12 right side
+b. RWY 30 left side
+4.3 Arrivi 4.3 Arrivals
+Gli aeromobili diretti a LIRL dovranno richiedere preventivamente una
+‘entry clearance’ a Latina APP prima di lasciare i seguenti punti di
+entrata: 2 NM WEST TERRACINA (RLSE1), TOR SAN LORENZO (RES1),
+APRILIA (RESE1) e PROSSEDI (RLE2).
+Ogniqualvolta necessario Latina APP può richiedere di effettuare
+un’attesa su tali punti fornendo le informazioni di traffico. Ai voli
+VFR può anche essere richiesta un’attesa sul punto BORGO ISONZO
+(RLS1).
+La ‘entry clearance’ non esime il pilota dal rispetto della separazione
+dagli ostacoli e dagli altri aeromobili in volo.
+Aircraft bound to LIRL shall request an ‘entry clearance’ to Latina APP
+before leaving following entry points:2 NM WEST TERRACINA (RLSE1),
+TOR SAN LORENZO (RES1), APRILIA (RESE1) and PROSSEDI (RLE2).
+                       
+Whenever necessary, Latina APP may request to hold over such points
+and traffic information will be provided. VFR flights may also be
+requested to hold over VRP BORGO ISONZO (RLS1).
+The ‘entry clearance’ does not exempt the pilots from observing the
+standard separation from obstacles and other traffic.
+4.4 Partenze 4.4 Departures
+Le entrate, le uscite e gli attraversamenti del CTR Latina debbono
+essere effettuati secondo le rotte pubblicate in ENR 6.3-9 e ai livelli
+non superiori a 1000 ft AGL.
+Inbound, outbound and crossing Latina CTR shall be flown not above
+1000 ft AGL and in accordance with routes shown in ENR 6.3-9.
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+
+=== Page 12 ===
+AD 2 LIRL 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIRL AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIRL AD 2.23 ADDITIONAL INFORMATION
+Circolazione nell' area di movimento con precauzione per lavori di
+sfalcio erba. Presenza di uomini e mezzi in contatto con la TWR.
+Taxi on movement area with caution due to grass cutting. Presence of
+men and equipment in radio contact with TWR.
+LIRL AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIRL AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME LANDING CHART  AD 2 LIRL 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A -  RWY 12/30  AD 2 LIRL 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIRL 3 - 3
+LIRL AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIRL AD 2.25 Visual segment surface (VSS) penetration

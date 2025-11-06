@@ -1,0 +1,856 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIPN 1 - 1
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIPN AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIPN AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIPN - VERONA/Boscomantico
+LIPN AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIPN AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+45°28'23''N 010°55'37''E *
+2 Direzione e distanza dalla città 1,5 NM NW
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+286 FT / 25.4° C
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2005.0) / 6'E
+5 Autorità amministrativa aeroportuale ENAC - DT Nord-Est
+Aeroporto "Marco Polo"
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+ Aerodrome administration authority ENAC - DT Nord-Est
+"Marco Polo" Airport
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+ Gestore aeroportuale ENAC - DT Nord-Est
+Aeroporto "Marco Polo"
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera
+Tel +39 041 2605701
+e-mail: nordest.apt@enac.gov.it
+pec: protocollo@pec.enac.gov.it
+website: www.enac.gov.it
+ Aerodrome operator  
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Per tutte le informazioni operative contattare Boscomantico Servizi SCARL: tel +39
+045 8103661, e-mail operations@boscomanticoservizi.it
+2. Aeroporto aperto al traffico VFR nazionale e comunitario, no extra-UE.
+ Remarks 1. For all operational information contact Boscomantico servizi SCARL: tel tel +39 045
+8103661, e-mail operations@boscomanticoservizi.it
+2. Aerodrome open to domestic and UE VFR traffic, no extra-UE.
+
+=== Page 2 ===
+AD 2 LIPN 1 - 2
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+LIPN AD 2.3 ORARIO DEI SERVIZI
+LIPN AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale TUE-SUN 0800-1800 (0700-1700) o 0800-SS (0700-SS) quale dei due si verifichi
+prima. MON chiuso.
+Dal 15 MAY al 15 SEP, TUE-FRI 0700-1700, SAT e SUN 0600-1800. MON chiuso.
+ Aerodrome Administration TUE-SUN 0800-1800 (0700-1700) or 0800-SS (0700-SS) whichever is earlier. MON
+closed.
+From 15 MAY to 15 SEP, TUE-FRI 0700-1700, SAT and SUN 0600-1800. MON closed.
+2 Dogana ed immigrazione AD aperto ai soli voli nazionali e comunitari, no extra-ue.
+Per tutti i voli comunitari e per i soli voli nazionali operati da aeromobili immatricolati
+in paesi extra-ue, dogana e immigrazione disponibili come segue:
+- da MON a FRI con preavviso 3 HR di anticipo
+- SAT e SUN con preavviso entro le ore 1200(1100) di FRI.
+Il preavviso deve essere inviato a tutti i seguenti indirizzi e-mail:
+dogane.verona@adm.gov.it
+dogane.verona.aeroporto@adm.gov.it
+operations@boscomanticoservizi.it
+ Customs and immigration AD open only for national and european community flights, no extra-ue.
+For all european community flights and only for domestic flights operated by aircraft
+registered in extra-ue countries, custom and immigration avbl as FLW:
+- from MON to FRI notice 3 HR before
+- SAT and SUN notice by 1200(1100) on FRI.
+The notice must be sent to all the following addresses:
+dogane.verona@adm.gov.it
+dogane.verona.aeroporto@adm.gov.it
+operations@boscomanticoservizi.it
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS NIL
+   
+8 Rifornimento Carburante disponibile
+ Fuelling Fuel available
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO MILANO: vedi GEN 3.1
+2. Aeroporto chiuso il Lunedì a tutto il traffico
+ Remarks 1. ARO CBO MILANO: see GEN 3.1
+2. Aerodrome closed on Monday to all traffic
+LIPN AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIPN AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIPN 1 - 3
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+2 Tipi di carburante/Olio AVGAS / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito Disponibile su richiesta
+ Hangar space for visiting aircraft Available on request
+6 Servizio riparazioni per aeromobili in 
+transito
+Servizio disponibile solo per velivoli certificati
+ Repair facilities for visiting aircraft Service available only for certified aircraft
+7 Note NIL
+ Remarks  
+LIPN AD 2.5 SERVIZI PER I PASSEGGERI
+LIPN AD 2.5 PASSENGER FACILITIES
+1 Alberghi Alberghi in città
+ Hotels Hotels in town
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Solo taxi su richiesta
+ Transportation Only taxi O/R
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LIPN AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIPN AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Vedi note
+ Aerodrome category for fire fighting See remarks
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Servizio antincendio fornito in accordo con “Disciplina generale della protezione
+antincendio per aeroporti di Aviazione Generale e aviosuperfici” (Regolamento
+ENAC - 1a Edizione del 2 FEB 2011 - consultare il sito web ENAC www.enac.gov.it)
+2. Servizio antincendio disponibile come segue: TUE-SUN 0800-1800 (0700-1700) o
+0800-SS (0700-SS) quale dei due si verifichi prima. MON chiuso. Dal 15 MAY al 15
+SEP, TUE-FRI 0700 1700, SAT e SUN 0600-1800. MON chiuso.
+ Remarks 1. Fire fighting service provided in accordance with “Disciplina generale della
+protezione antincendio per aeroporti di Aviazione Generale e aviosuperfici” (ENAC
+Regulation - 1st Edition of 2nd FEB 2011 - see ENAC website www.enac.gov.it)
+2. Fire fighting service available as follows: TUE-SUN 0800-1800 (0700-1700) or
+0800-SS (0700-SS) whichever is earlier. MON closed. From 15 MAY to 15 SEP,
+TUE-FRI 0700-1700, SAT and SUN 0600-1800. MON closed.
+LIPN AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIPN AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+
+=== Page 4 ===
+AD 2 LIPN 1 - 4
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIPN AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIPN AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+NIL NIL NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+R1 15.0 M ASPH SIWL 1500 kg
+R2 15.0 M ASPH SIWL 1500 kg
+R3 15.0 M ASPH SIWL 1500 kg
+R4 15.0 M ASPH SIWL 1500 kg
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIPN AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIPN AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY Vedi carta AD in vigore
+ RWY and TWY markings and lights See AD chart in force
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIPN 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIPN AD 2.10 OSTACOLI AEROPORTUALI
+LIPN AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+RWY 08 GRU/CRANE
+35m/115ft AGL
+131.5m/432ft AMSL
+NIL
+NIL NIL NIL Gru posizionata 787m
+dopo la testata pista,
+67.5m a sinistra RCL.
+Raggio d’azione
+braccio mobile 57.3m.
+Crane located 787m
+after THR, 67.5m left
+RCL.
+Crane’s reach 57.3m.
+RWY 08 GRU/CRANE
+36.2m/119ft AGL
+127.2m/417ft AMSL
+NIL
+NIL NIL NIL Gru posizionata
+793m dopo la testata
+pista, su RCL.
+Raggio d’azione
+braccio mobile 66.7m.
+Crane located 793m
+after THR, on RCL.
+Crane’s reach 66.7m.
+RWY 08 GRU/CRANE
+23m/75ft AGL
+114m/374ft AMSL
+NIL
+NIL NIL NIL Gru posizionata 721m
+dopo la testata pista,
+15m a sinistra RCL.
+Raggio d’azione
+braccio mobile 35m.
+Crane located 721m
+after THR, 15m
+left RCL.
+Crane’s reach 35m.
+Vedi AOC in vigore - See AOC in force
+LIPN AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIPN AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+
+=== Page 6 ===
+AD 2 LIPN 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIPN 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIPN AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIPN AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+08 NIL 1014 x 22
+SIWL 1500 KG
+ASPH
+45°28'14.95''N
+010°55'17.99''E
+286.4 FT / 286.0 FT
+26 NIL 1014 x 22
+SIWL 1500 KG
+ASPH
+45°28'23.58''N
+010°56'03.02''E
+271.0 FT / 271.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+08 NIL NIL NIL 1134 x 80 NIL
+26 NIL NIL NIL 1134 x 80 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+08 NIL NIL
+26 NIL NIL
+LIPN AD 2.13 DISTANZE DICHIARATE
+LIPN AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+08 1014 1014 1014 1014
+26 1014 1014 1014 1014
+NOTE
+REMARKS
+NIL
+LIPN AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIPN AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+08 NIL NIL NIL NIL NIL NIL NIL NIL
+26 NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 8 ===
+AD 2 LIPN 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+08 NIL NIL NIL NIL NIL NIL NIL NIL
+26 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+08 NIL NIL NIL NIL NIL NIL
+26 NIL NIL NIL NIL NIL NIL
+LIPN AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIPN AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro ultrasonico a destra della RWY 26 - 300 m from THR
+Anemometro ad elica a destra della RWY 26 - 280 m from THR
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Ultrasonic anemometer on right side of RWY 26 - 300 m from THR
+Propeller anemometer on right side of RWY 26 -280 m from THR
+3 Illuminazione bordo e asse centrale TWY Vedi carta AD in vigore
+ TWY edge and center line lighting See AD chart in force
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIPN AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIPN AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIPN 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIPN AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIPN AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Verona Boscomantico ATZ
+45°27'30"N 010°59'44"E;
+45°27'55"N 010°51'25"E
+then arc of circle in
+clockwise direction
+radius 3.0 NM centred on
+45°28'20"N 010°55'38"E
+till point of origin.
+2000
+FT AGL
+G NIL 6000 FT
+WI Milano
+FIR
+LIPN AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIPN AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+LIPN AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIPN AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 10 ===
+AD 2 LIPN 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIPN AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIPN AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+L’uso della pista 26 è preferenziale The use of RWY 26 is preferential
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+Tutto il traffico in uscita dal parcheggio stabilirà il contatto radio con
+la radio locale per ricevere informazioni di traffico
+Before leaving the apron, all traffic has to establish radio contact with
+local radio to receive traffic information
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. L’attività aerea non è consentita quando il servizio antincendio
+non è disponibile
+6.1. Flying activity is prohibited when the fire fighting service is not
+available
+6.2. L’attività volovelistica dovrà svolgersi, nella fase iniziale,
+all’interno dei limiti dell’ ATZ di Verona/Boscomantico.
+Successivamente allo sgancio, gli alianti potranno dirigere verso Nord e
+potranno interessare il CTR di Verona all’interno dell’area compresa tra
+gli orientamenti 310° (direttrice W: aeroporto - Affi) e 050° (direttrice
+E: aeroporto - Grezzana) da LIPN ARP.
+L’attività sarà coordinata con Milano ACC in accordo a quanto sancito
+in ENR 1
+6.2. Gliders activity, during initial climb, will take place within Verona/
+Boscomantico ATZ.
+After the release by aerotow, gliders may fly northbound, even
+interesting Verona CTR, within the following sector: bearing 310°
+(border W: aerodrome - Affi) and 050° (border E: aerodrome -
+Grezzana) from LIPN ARP.
+The activity will be coordinated with Milano ACC according to ENR 1
+6.3. TGL e bassi passaggi vietati nei giorni festivi 6.3. TGL and low passages forbidden in public holiday
+6.4. Boscomantico, deve collegarsi sulla frequenza 125.255MHz per lo
+scambio di informazioni di traffico
+6.4. Before entering Verona/Boscomantico ATZ, air traffic must
+establish radio contact with frequency 125.255MHz for the exchange
+of traffic information
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIPN AD 2.21 PROCEDURE ANTIRUMORE
+LIPN AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIPN AD 2.22 PROCEDURE DI VOLO
+LIPN AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Arrivi 2.2 Arrival
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIPN 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+Gli aeromobili diretti all’aeroporto di VERONA/Boscomantico con piano
+di volo IFR/VFR, qualora non abbiano cancellato il piano di volo IFR
+prima di entrare nel CTR di Verona, devono effettuare le procedure
+di avvicinamento strumentale previste per l’aeroporto di VERONA/
+Villafranca. Una volta effettuata la procedura di avvicinamento
+strumentale, in base alle condizioni meteorologiche esistenti in volo,
+il pilota deciderà di:
+Aircraft arriving to VERONA/Boscomantico airport with IFR/VFR flight
+plan, if IFR plan has not been cancelled before entering Verona CTR,
+shall comply with the instrument approach procedures prescribed for
+VERONA/Villafranca airport. When instrument approach procedure has
+been completed, flight meteorological conditions allowing, the pilot
+shall decide ::
+1. cancellare il piano di volo IFR e procedere in VFR per l’aeroporto di
+destinazione; oppure
+2. dirottare per l’aeroporto alternato
+1. to cancel IFR flight plan and proceed VFR to Boscomantico airport; or
+2. to divert to alternate aerodrome
+2.3 Partenze 2.3 Departures
+Gli aeromobili in partenza presenteranno un piano di volo Z (VFR/IFR).
+I piloti, dopo il decollo, si atterranno alle istruzioni di Milano ACC
+Departing aircraft shall submit a Z flight plan (VFR/IFR). Pilots, after
+take-off, will adhere to Milano ACC instructions
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+Il traffico VFR da/per l’aeroporto di Verona/Boscomantico, se non
+diversamente istruito, stabilirà il contatto radio:
+VFR traffic from/to Verona/Boscomantico airport, unless otherwise
+instructed, will establish radio contact:
+1. con Milano ACC, prima di interessare Verona CTR; o
+2. sulla frequenza 125.255MHz per lo scambio di informazioni di
+traffico
+1. with Milano ACC, before entering Verona CTR; or
+2. on frequency 125.255MHz for traffic information exchange
+4.2 Attività di circuito 4.2 Circuit activity
+NIL NIL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+4.8.1. Procedure per i voli PJE
+Generalità:
+L’attività sarà coordinata con Milano ACC e soggetta a quanto previsto
+in ENR 5.
+Il termine dell’attività sarà notificato a Milano ACC
+ 
+Operazioni:
+L’aeromobile effettuerà la salita iniziale all’interno dell’ATZ di Verona/
+Boscomantico; una volta stabilito il contatto radio, Milano ACC fornirà
+ulteriori istruzioni
+ 
+Contingenze:
+L’attività potrà essere momentaneamente sospesa o ritardata da
+Milano ACC , che ne fornirà la motivazione
+4.8.1. PJE flights procedures
+General:
+The activity will be coordinated with Milano ACC according to ENR 5.
+The end of activity must be notified to Milano ACC
+   
+ 
+Operations:
+The aircraft will perform initial climb within Verona/ Boscomantico
+ATZ; once radio contact has been established, Milano ACC will provide
+further instructions
+ 
+Contingency:
+The activity may be delayed or suspended by Milano ACC, that will
+inform about the reason
+4.8.2. F.T.O. (Flight Training Organizations) - Aeroclub
+Se l’attività addestrativa dovesse interessare gli aeroporti di LIPO e
+LIPX, questa dovrà essere oggetto di preventivo coordinamento con
+Milano ACC
+4.8.2. F.T.O. (Flight Training Organizations) - Aeroclub
+In case of training activity affecting LIPO and LIPX airports, prior
+coordination should be made with Milano ACC
+
+=== Page 12 ===
+AD 2 LIPN 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+LIPN AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIPN AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIPN AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIPN AD 2.24 CHARTS RELATED TO THE AERODROME
+LIPN AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIPN AD 2.25 Visual segment surface (VSS) penetration
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIPN 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 08/26  AD 2 LIPN 3 - 1

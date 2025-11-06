@@ -1,0 +1,671 @@
+=== Page 1 ===
+AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD2-1
+AD 2 AERODROMES
+RJSO AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJSO - OMINATO
+RJSO AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJSO AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 411358N/1410756E 
+2 Direction and distance from (city) 2.7NM SSW
+3 Elevation/ Reference temperature 24 ft / - 
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+JSDF-M
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration H24
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office H24
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24
+7 ATS 2300 - 0745 [2300 SUN - 0745 FRI] EXC HOL Other time 1HR PN
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:1 APR 2025) 20/2/25
+
+
+=== Page 2 ===
+RJSO AD2-2 AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD 2.4 HANDLING SERVICES AND FACILITIES
+RJSO AD 2.5 PASSENGER FACILITIES
+RJSO AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJSO AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types JP-5
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD2-3
+RJSO AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJSO AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJSO AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not available 
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY04/22:
+(LGT): RTHL, TKOF aiming LGT
+TWY:
+(LGT): TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 4 ===
+RJSO AD2-4 AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJSO AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office OMINATO
+2 Hours of service
+MET Office outside hours
+H24
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consulta tion provided P, Ja
+6 Flight documentation
+Language(s) used
+Ja, En
+7 Charts and other information available for 
+briefing or consultation
+S, P, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+04
+22
+To be 
+issued 
+Later 
+600×45
+600×45 
+SW
+12500kg
+(27500lbs)
+Concrete 
+Nil
+Nil
+Nil
+Nil
+   Slope of RWY 
+Strip
+ Dimensions(M)
+Remarks
+71 0 1 2
+Nil
+Nil
+720×150
+720×150
+(EFF:25 APR 2019) 25/4/19
+
+
+=== Page 5 ===
+AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD2-5
+RJSO AD 2.13 DECLARED DISTANCES
+RJSO AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJSO AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJSO AD 2.16 HELICOPTER LANDING AREA
+RJSO AD 2.17 ATS AIRSPACE
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+04
+22
+Remarks
+10
+RWY THR ID LGT:AVBL
+1 ABN/IBN location,characteristics and 
+hours of operation
+ABN: 411411N/1410831E, White/Green EV3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:LGTD
+3 TWY edge and centerline lighting TWY edge LGT:AVBL
+4 Secondary power supply/    switch-
+over time
+Nil
+5 Remarks WDI LGT
+To be issued later 
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+OMINATO 
+CTR
+Area within a radius of 5NM of OMINATO ARP
+(41°14'N 141°08'E)
+3000 or 
+below
+D Ominato Tower
+(EFF:18 MAY 2023) 20/4/23
+
+
+=== Page 6 ===
+RJSO AD2-6 AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation 
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+TWR Ominato Tower 126.2MHz
+284.4MHz
+228.2MHz
+122.0MHz
+123.1MHz(1)(2)
+243.0MHz(E)
+121.5MHz(E)
+2300 - 0745
+EXC FRI 0746 -
+SUN 2259 & HOL.
+Other time 1HR PN
+APP provided by Misawa APP.
+(1) AVBL on request
+(2) For rescue only
+GCA-ASR
+  -PAR
+Ominato GCA 335.6MHz
+270.8MHz
+125.3MHz
+306.8MHz
+317.2MHz
+133.4MHz
+121.5MHz(E)
+243.0MHz(E)
+122.0MHz
+2300 - 0745
+EXC FRI 0746 -
+SUN 2259 & HOL. 
+Other time 1HR PN
+ASR,PAR RWY 04
+Glide path 3.0°
+Maintenance period:
+2300-0745 FRI in VMC.
+(EFF:1 APR 2025) 20/2/25
+
+
+=== Page 7 ===
+AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD2-7
+RJSO AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN OMT 1056MHz
+(CH-95Y)
+2300 - 0745
+EXC
+FRI 0746 - SUN 2259
+& HOL
+Other time 1HR PN
+411351N/1410809E 52.6ft Unusable:
+R010-020 beyond 16NM BLW 5000ft.
+R020-030 beyond 30NM BLW 5000ft.
+R090-100 beyond 35NM BLW 3000ft.
+R100-120 beyond 33NM BLW 4000ft.
+R120-130 beyond 30NM BLW 4000ft.
+R130-150 beyond 28NM BLW 4000ft.
+R150-160 beyond 32NM BLW 4000ft.
+R250-260 beyond 29NM BLW 5000ft.
+R260-270 beyond 27NM BLW 5000ft.
+R270-290 beyond 25NM BLW 5000ft.
+R290-300 beyond 20NM BLW 5000ft.
+R300-320 beyond 12NM BLW 5000ft.
+R320-350 beyond 5NM BLW 5000ft.
+R350-010 beyond 7NM BLW 5000ft.
+(EFF:1 APR 2025) 20/2/25
+
+
+=== Page 8 ===
+RJSO AD2-8 AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 9 ===
+AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD2-9
+RJSO AD 2.21 NOISE ABATEMENT PROCEDURES
+RJSO AD 2.22 FLIGHT PROCEDURES
+ 
+RJSO AD 2.23 ADDITIONAL INFORMATION
+Nil
+1. TAKE OFF MINIMA
+RWY
+REDL AVBL REDL OUT
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+TKOF ALTN AP 
+FILED
+04 200'-1600m 200'-1600m - 200'-1600m
+22 - 200'-800m - 200'-800m
+OTHER
+04
+AVBL LDG MINIMA
+22
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 04 ASR RWY 04
+MINIMA THR elev. 24 AD elev. 24 MINIMA THR elev. 24 AD elev. 24
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+274(250) 1000 800(776) 1600
+A
+700(676) 1500 800(776) 1600
+BB
+C
+----
+C
+----
+DD
+3. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with OMINATO GCA are lost for 1 minute in the pattern or 5 seconds (PAR)/15 seconds (ASR) on
+final approach, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact OMINATO Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to BATTL at last assigned altitude or 3,000ft whichever is hi gher, and execute TACAN A
+approach. 
+(II) Procedures other than above will  be issued when situation required.
+Nil
+(EFF:11 JUL 2024) 13/6/24
+
+
+=== Page 10 ===
+RJSO AD2-10 AIP Japan
+OMINATO
+Civil Aviation Bureau,Japan
+RJSO AD 2.24 CHARTS RELATED TO AN AERODROME
+Standard Departure Chart - Instrument -1
+Standard Departure Chart - Instrument -2
+Instrument Approach Chart (TACAN A)
+(EFF:6 DEC 2018) 8/11/18
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+HIBAR
+OHMAR
+HIBAR TRANSITION
+OHMAR TRANSITION
+OMT 10.0DME
+OMINATO REVERSAL
+THREE DEPARTURE
+6000
+6000
+5000
+3000
+257°257°257°
+314°314°314°
+200°200°200°
+SIDRJSO / OMINATO
+OMINATO  REVERSAL  THREE  DEPARTURE
+RWY 04 :  Climb RWY HDG to 200FT, turn right,....
+RWY 22 :  Climb RWY HDG to 200FT, turn left,....
+....climb via OMT R200 to 3000FT or above, then turn left and proceed to OMT
+TACAN within OMT 10.0DME.
+    Cross OMT TACAN at or above 5000FT.
+TACAN
+CHANGE : PROC renamed. PROC course. OHMAR TRANSITION, HIBAR TRANSITION established. 
+OMINATO
+CH-95Y
+ƍƎ1ƍƎ(
+0FT
+1056     OMT
+Speed (Knots) 60 90 120 150 180 210
+Rate (Feet/Min) 300 450 600 750 900 1050
+Note:   
+1Following climb gradient should be maintained until 3000FT.
+2    Obstructions exist,
+      149FT MSL height group of trees at 0.97NM SW from ARP.
+From over OMT TACAN, climb via OMT R314 to OHMAR.
+Cross OHMAR at or above 6000FT.
+From over OMT TACAN, climb via OMT R257 to HIBAR.
+Cross HIBAR at or above 6000FT.
+OHMAR TRANSITION
+HIBAR TRANSITION
+(EFF:12 JUN 2025) 15/5/25
+RJSO AD2.24-SID-1
+OMINATO
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+SIDRJSO / OMINATO
+Speed (Knots)
+Rate (Feet/Min)
+60
+300
+90
+450
+120
+600
+150
+750
+180
+900
+210
+1050
+Note :   
+1 Following climb gradient should be maintained until 200FT.
+MUTSU TWO DEPARTURE
+RWY 04 : Climb RWY HDG to 200FT , turn right,....
+RWY 22 : Climb RWY HDG to 200FT , turn left,....
+....climb via OMT R200 to MUTSU. Cross MUTSU at or above 4000FT . 
+2 Obstructions exist,
+   149FT MSL height group of trees at 0.97NM SW from ARP.
+MISAWA TRANSITION
+HACHINOHE TRANSITION
+After MUTSU, proceed via MIS R328 to MIS VORTAC.
+Cross MIS VORTAC at or above 4000FT or specified altitude.
+After MUTSU, proceed via HVT R333 to HVT TACAN.
+Cross HVT TACAN at or above 4000FT or specified altitude.
+    OMINATO
+TACAN(OMT)
+MUTSU  TWO  DEPARTURE
+MUTSU MISAWA  TRANSITION
+HACHINOHE  TRANSITION
+MISAWA 
+VORTAC(MIS)
+4000 or
+specified ALT .
+HACHINOHE
+TACAN(HVT)
+200°
+148°153°
+4000
+CHANGE : PROC renamed(MUTSU TWO DEPARTURE). PROC course. Note added.
+(EFF:11 JUL 2024) 13/6/24
+RJSO AD2.24-SID-2
+OMINATO
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+18
+0˚
+360˚
+090˚
+2867
+1749
+965
+1706
+1312 
+1421
+1096
+2225
+2546
+2251
+2120 2070
+997
+MNM SECT ALT
+    270˚ - 360˚
+  4900    25nm
+MNM SECT ALT
+    360˚ - 090˚
+  4900    25nm
+MNM SECT ALT
+    180˚ - 270˚
+  4900    25nm
+MNM SECT ALT
+    090˚ - 180˚
+  4900    25nm
+10nm 
+RJSO / OMINATO
+    MISAWA  APP
+120.7 - 261.2 - 317.8
+OMINATO   TOWER
+126.2 - 122.0    
+284.4 - 228.2    
+   GCA  AVAILABLE
+            CALL
+     MISAWA   APP
+2884
+205
+˚
+025
+˚
+      MISSED APPROACH
+At 1.0 DME  prior to OMT TACAN,
+turn right, climb to 3000´ via
+OMT R-205 to BATTL and hold.
+Contact MISAWA APP.
+TACAN  A
+OMINATO   TACAN
+ CH-95Y    OMT
+EMERG  SAFE  ALT  100nm  8700
+HAKODATE
+ 112.3 HWE
+   CH-70
+  MISAWA
+115.4 MIS
+  CH-101
+  AOMORI
+114.1MRE
+  CH-88
+HACHINOHE
+CH-23 HVT
+050˚
+205˚
+175(44
+)
+ 049
+(25)
+ 337(35)
+334
+(25)
+IAF BATTL
+R-205/11 DME
+14DME
+1DME
+6DME
+050˚ 205˚
+R - 230
+ IAF  BATTL
+R-205 / 11DME
+IAF BATTL
+R-205
+11
+DME
+R-230
+11
+DME
+6DME
+1DME
+4000
+3000
+3000
+2000 1500
+050˚
+205˚
+11DME ARC
+OMT
+VAR 9˚W (2006)
+MINIMA 
+CAT
+600 (576) 1600
+––
+MDA(H) VIS
+CIRCLING
+AD elev. 24
+A
+B
+C
+D
+Circling to East side of RWY only.
+41˚13´51˝N/141˚08´09˝E
+(EFF:6 DEC 2018) 8/11/18
+→ RJSO AD2.24-IAC-1
+OMINATO
+

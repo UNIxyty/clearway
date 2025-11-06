@@ -1,0 +1,802 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LILQ 1 - 1
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LILQ AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LILQ AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LILQ - MASSA CINQUALE
+LILQ AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LILQ AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+43°59'10''N 010°08'38''E *
+2 Direzione e distanza dalla città 2 NM S Marina di Massa
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+13 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+NIL
+5 Autorità amministrativa aeroportuale ENAC - DT Toscana
+Aeroporto di Firenze
+Via del Termine, 11
+50127 Firenze 
+Tel: +39 055 3061200  Fax: +39 055 308036 
+E-mail: toscana.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale Truestar Real Estate SA
+c/o Aeroporto di Massa-Cinquale
+Via Intercomunale 12/B, 54100 Massa (MS)
+Tel: +39 335 332190
+PEC: truestarealestate@pec.it
+Responsabile tecnico: +39 349 2910213
+Email: aptmanagement@truestarrealestate.com
+Operativo di scalo: +39 347 3912608
+Email: aptoperations@truestarrealestate.com
+ Aerodrome operator Truestar Real Estate SA
+c/o Aeroporto di Massa-Cinquale
+Via Intercomunale 12/B, 54100 Massa (MS)
+tel: +39 335 332190
+PEC: truestarealestate@pec.it
+Operation Manager: +39 349 2910213
+email: aptmanagement@truestarrealestate.com
+Operation Office: +39 347 3912608
+email: aptoperations@truestarrealestate.com
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aeroporto aperto al traffico aereo tra paesi dell’Unione Europea di area Schengen
+2. Attività consentite: voli di aviazione generale, comprendenti voli privati, di scuola,
+di lavoro aereo e di business aviation, inclusi i voli di aerotaxi effettuati a domanda
+con aeromobili aventi configurazione non superiore a 19 posti
+3. Attività proibite: voli di linea o charter
+
+=== Page 2 ===
+AD 2 LILQ 1 - 2
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+4. Aeroporto aperto al traffico di Aviazione Generale ed HEMS
+  
+ Remarks 1. Aerodrome open to air traffic among European Community countries belonging to
+the Schengen area
+2. Allowed activities: general aviation flights, inlcuding private flights, training flights,
+aerial work, business aviation, inlcuding on-demand air taxi flights operated by
+aircraft with maximum passenger configuration not exceeding 19 seats
+3. Prohibited activities: scheduled or chartered flights
+4. Airport open to General Aviation traffic and HEMS
+LILQ AD 2.3 ORARIO DEI SERVIZI
+LILQ AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0800-1600 (0700-1500)
+chiuso 25 DEC e 01 JAN
+ Aerodrome Administration 0800-1600 (0700-1500)
+closed on 25 DEC and 01 JAN
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+   
+7 ATS NIL
+   
+8 Rifornimento Di giorno
+ Fuelling During day
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. Aperture dell’ufficio ammnistrativo al di fuori degli orari pubblicati possono essere
+concordate con il gestore
+2. Rifornimento: servizio carburante per aerei non di base o elicotteri da coordinare 1
+ora prima per telefono al numero:
++39 3356731623 o email a enrico.ibba@bp.com e
+deposito.qmm@abpit.onmicrosoft.com
+Supplemento applicato prima delle 0700 UTC e dopo le 1600 UTC e possono essere
+applicate penali alle richieste di carburante o cancellazioni comunicate con meno di
+2 ore in anticipo.
+ Remarks 1. Administration office openings periods different than published may be agreed with
+the aerodrome operator
+2. Fuelling: fuel service for non-based ACFT or HEL to be coordinated 1HR PN by
+phone at:
++39 3356731623 or email at enrico.ibba@bp.com and
+deposito.qmm@abpit.onmicrosoft.com
+Surcharge applied before HR 0700 UTC and after HR 1600 UTC and penalties may
+apply to fuel requests or cancellations notified less than 2HR in advance.
+LILQ AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LILQ AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LILQ 1 - 3
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento 30000 litri
+ Fuelling capacity 30000 litres
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+LILQ AD 2.5 SERVIZI PER I PASSEGGERI
+LILQ AD 2.5 PASSENGER FACILITIES
+1 Alberghi Vari a 300-500 m dall'aeroporto
+ Hotels Various, 300-500 m from the airport
+2 Ristoranti NIL
+ Restaurants  
+3 Trasporti Taxi O/R
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Distributore automatico
+ Remarks 1. Vending machine AVBL
+LILQ AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LILQ AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Servizio antincendio disponibile come segue: HJ -/+30
+ Remarks 1. Firefighting service available as FLW: HJ -/+30
+LILQ AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LILQ AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+
+=== Page 4 ===
+AD 2 LILQ 1 - 4
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LILQ AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LILQ AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+NIL NIL NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza 
+(M)
+Superficie Resistenza
+Designator 
+of TWY
+Width (M) Surface Strength
+NIL NIL NIL NIL
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LILQ 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LILQ AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LILQ AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note 1. Segnaletica orizzontale non pienamente rispondente alla normativa ICAO
+ Remarks 1. Markings not fully compliant with ICAO regulations
+LILQ AD 2.10 OSTACOLI AEROPORTUALI
+LILQ AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Viene richiamata all’attenzione dei piloti la presenza dei seguenti
+ostacoli data la particolare posizione rispetto alla pista di volo. 
+All’esterno del sedime aeroportuale, lato Nord-Ovest, alberi e
+vegetazione di altezza fino a 31m AGL nell’area parallela alla pista
+di volo delimitata dalle seguenti coordinate: 
+43°59’22’’N010°08’44’’E, 43°59’21’’N010°08’47’’E,
+43°59’04’’N010°08’24’’E, 43°58’58’’N010°08’14’’E,
+43°59’00’’N010°08’12’’E.
+All’interno del sedime aeroportuale, in prossimità della soglia
+pista 05, lato Sud, alberi e vegetazione di altezza fino a 15m AGL
+nell’area delimitata dalle seguenti coordinate: 
+43°58’58’’N010°08’22’’E, 43°59’01’’N010°08’26’’E,
+43°58’59’’N010°08’29’’E, 43°58’55’’N010°08’23’’E. 
+The presence of following obstacles is brought to pilots’ attention
+due to the specific positions referred to runway.
+Outside airfield area, on the North-West side, trees and vegetation
+with height up to 31m AGL, within the area parallel to the runway
+bounded by the following coordinates:
+43°59’22’’N010°08’44’’E, 43°59’21’’N010°08’47’’E,
+43°59’04’’N010°08’24’’E, 43°58’58’’N010°08’14’’E,
+43°59’00’’N010°08’12’’E.
+Inside airfield area, next to the runway threshold 05, on the South
+side, trees and vegetation with height up to 15m AGL, within the
+area bounded by the following coordinates:
+43°58’58’’N010°08’22’’E, 43°59’01’’N010°08’26’’E,
+43°58’59’’N010°08’29’’E, 43°58’55’’N010°08’23’’E.
+LILQ AD 2.11 INFORMAZIONI METEOROLOGICHE
+LILQ AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+
+=== Page 6 ===
+AD 2 LILQ 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LILQ AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LILQ AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+05 NIL 510 x 20
+NIL
+SOD NIL NIL / NIL
+23 NIL 510 x 20
+NIL
+SOD NIL NIL / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+05 NIL NIL 30 x 60 570 x 60 105 x 60
+23 NIL NIL 30 x 60 570 x 60 150 x 60
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+05 NIL
+1) Recinzione aeroportuale alta 2.5 m, situata 60 m prima della testata pista/Aerodrome fence
+2.5 m high, located 60 m before RWY THR
+23 NIL
+1) Recinzione aeroportuale alta 2.5 m, situata 15 m prima della testata pista/Aerodrome fence
+2.5 m high, located 15 m before RWY THR
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LILQ 1 - 7
+AIRAC effective date 23 JAN 2025
+ENAV - Roma (A01/25)
+LILQ AD 2.13 DISTANZE DICHIARATE
+LILQ AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+05 510 540 510 510
+23 510 540 510 510
+NOTE
+REMARKS
+NIL
+LILQ AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LILQ AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+05 NIL NIL NIL NIL NIL NIL NIL NIL
+23 NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+05 NIL NIL NIL NIL NIL NIL NIL NIL
+23 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+05 NIL NIL NIL NIL NIL NIL
+23 NIL NIL NIL NIL NIL NIL
+LILQ AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LILQ AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: NIL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+
+=== Page 8 ===
+AD 2 LILQ 1 - 8
+AIRAC effective date 23 JAN 2025 AIP - Italia
+(A01/25) ENAV - Roma
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LILQ AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LILQ AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LILQ AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LILQ AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Massa ATZ
+Circular area centered on
+43°59'10"N 010°08'38"E
+within a 2.5 NM radius.
+2500 FT
+AMSL
+G
+ NIL
+ NIL
+1) Zona TIBA, informazioni
+di traffico trasmesse
+dall’aeromobile. Vedi ENR 2.2 /
+TIBA zone, traffic information
+broadcast by aircraft. See ENR
+2.2
+LILQ AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LILQ AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+LILQ AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LILQ AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LILQ 1 - 9
+AIRAC effective date 23 JAN 2025
+ENAV - Roma (A01/25)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LILQ AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LILQ AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. I voli dovranno svolgersi a quote inferiori a 3000 FT, evitando
+la Zona 2 del CTR di Pisa, a meno che sia stata ottenuta una
+autorizzazione all’ingresso nella zona da Pisa APP
+6.1. Flights shall be carried out below 3000 FT, avoiding Zone 2 of Pisa
+CTR, unless a permission to enter has been obtained from Pisa APP.
+6.2. Le operazioni VDS (Volo da diporto sportivo) sono consentite solo
+con:
+6.2. ULM (Ultra light machines) operations allowed only with:
+a. apparecchi VDS avanzato
+b. apparecchi VDS delle categorie ‘tre assi’ e ‘autogiro’ se equipaggiati
+con radio VHF e condotti da piloti titolari di certificato di
+radiotelefonia aeronautica
+a. advanced ULM
+b. ‘three axis’ or ‘gyro’ ULM equipped with VHF radio and flown by a
+pilot holder of an aeronautical radiotelephony certificate
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LILQ AD 2.21 PROCEDURE ANTIRUMORE
+LILQ AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LILQ AD 2.22 PROCEDURE DI VOLO
+LILQ AD 2.22 FLIGHT PROCEDURES
+
+=== Page 10 ===
+AD 2 LILQ 1 - 10
+AIRAC effective date 23 JAN 2025 AIP - Italia
+(A01/25) ENAV - Roma
+1 Generalità 1 General
+All’interno dell’ATZ di Massa, classificata G e nella quale
+non sono forniti servizi di traffico aereo, è attiva la procedura
+“TIBA” (informazioni di traffico trasmesse dall’aeromobile). I piloti
+degli aeromobili che operano su e nelle vicinanze dell’aeroporto
+di Foligno devono mantenere l’ascolto radio continuo sulla FREQ
+120.355 MHz e trasmettere le informazioni di traffico secondo quanto
+segue:
+Whitin Massa ATZ, classified G and where no air traffic service is
+provided, “TIBA” (Traffic broadcast by aircraft) operative  procedure
+is active. Pilots of aircraft operating on and in the vicinity of Foligno
+airport, shall maintain continuos listening watch on FREQ 120.355 MHz
+and broadcast traffic information according to the following:
+1.1 Aeromobili in attraversamento: 1.1 Aircraft crossing the ATZ:
+a. prima di entrare nell’ATZ, comunicando nominativo, tipo aeromobile,
+rotta e livello
+b. lasciando l’ATZ
+a. before entering the ATZ, indicating call sign, type of aircraft, route
+and level
+b. leaving the ATZ
+1.2 Aeromobili in arrivo: 1.2 Arriving aircraft:
+a. prima di entrare nell’ATZ, comunicando nominativo, tipo aeromobile
+e livello
+b. entrando nel circuito di traffico aeroportuale, specificando la
+direzione di atterraggio e le intenzioni in finale (“finito”, “touch and
+go” o “basso passaggio”)
+c. iniziando la manovra relativa alle “intenzioni in finale” specificate
+oppure liberando la pista, in caso di atterraggio
+a. before entering the ATZ, indicating call sign, type of aircraft, route
+and level
+b. entering the aerodrome traffic circuit indicating landing direction
+and “intentions on final” (“full stop”, “touch and go” or “low pass”)
+ 
+c. commencing the manoeuvre related to the indicated “intentions on
+final” or vacating the runway in case of fullstop landing
+1.3 Aeromobili in partenza: 1.3 Departing aircraft:
+a. prima di iniziare il rullaggio, comunicando nominativo,
+tipo aeromobile, direzione di decollo e destinazione
+b. prima di entrare in pista
+c. lasciando l’ATZ
+a. before taxing, indicating call sign, type of aircraft, takeoff direction
+and destination
+b. before entering the runway
+c. leaving the ATZ
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+NIL NIL
+2.2 Aeromobili in arrivo 2.2 Arriving aircraft
+NIL NIL
+2.3 Aeromobili in partenza 2.3 Departing aircraft
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+Circuito di traffico standard Standard traffic circuit
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LILQ 1 - 11
+AIRAC effective date 23 JAN 2025
+ENAV - Roma (A01/25)
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LILQ AD 2.23 INFORMAZIONI AGGIUNTIVE
+LILQ AD 2.23 ADDITIONAL INFORMATION
+Nel periodo estivo prestare attenzione in avvicinamento e in decollo per
+la presenza di aeromobili lenti che svolgono attività di traino striscioni
+Be aware of slow banner-towing aircraft, during approach and takeoff
+during summer
+LILQ AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LILQ AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME LANDING CHART  AD 2 LILQ 2 - 1
+LILQ AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LILQ AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 12 ===
+AD 2 LILQ 1 - 12
+AIRAC effective date 23 JAN 2025 AIP - Italia
+(A01/25) ENAV - Roma
+

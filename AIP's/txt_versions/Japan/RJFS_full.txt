@@ -1,0 +1,2990 @@
+=== Page 1 ===
+AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD2-1
+AD 2 AERODROMES
+RJFS AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJFS - SAGA
+RJFS AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJFS AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 330859N/1301808E 
+286° /1.0km FM RWY29 THR
+2 Direction and distance from (city) 14. 2km(7.6NM) S FM Saga JR station
+3 Elevation/ Reference temperature 6.0ft/  31.8°C(2002-2006)
+4 Geoid undulation at AD ELEV PSN 106.34ft
+5 MAG VAR/ Annual change 7°W(2006) / 1.5'W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Saga Pref.
+9476-187, Inuido, Kawasoe-machi, Saga-city, Saga Pref.
+Tel: 0952-46-0150, Fax: 0952-46-0153
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Saga Airport Branch(CAB).
+9476-187, Inuido, Kawasoe-machi, Saga-city, Saga Pref., Japan
+Tel: 0952-46-0002, Fax: 0952-46-0004 
+1 AD Administration 2130 - 1500
+2 Customs and immigr ation Customs: 2330-0815
+Immigration: INTL SKED FLT hours only
+3 Health and sanitation INTL SKED FLT hours only
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Of fice H24 (FUKUOKA) 
+7 ATS 2130 - 1500
+Remarks:2130-2300 and 1030-1500, AFIS provided by Fukuoka 
+Airport Office. 
+8 Fuelling 2130 - 1300
+9 Handling 2130 - 1300
+10 Security 2130 - 1300
+11 De-icing Nil
+12 Remarks Nil
+(EFF:1 OCT 2021) 12/8/21
+
+
+=== Page 2 ===
+RJFS AD2-2 AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD 2.4 HANDLING SERVICES AND FACILITIES
+RJFS AD 2.5 PASSENGER FACILITIES
+RJFS AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJFS AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the modern institutions that deal with the weight thing to Boe-
+ing767 type.
+2 Fuel/ oil types Fuel grades: Jet A1
+3 Fuelling facilities/ capacity Fuel truck / Not limited
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels At Saga city
+2 Restaurants At Airport
+3 Transportation Buses and Taxi
+4 Medical facilities First aid, Hospital in Saga city 12km
+5 Bank and Post Office Bank : At Saga City
+Post Office : 6km North from Airport
+6 Tourist Office At Saga city
+7 Remarks Nil
+1 AD category for fire fighting CAT 8
+2 Rescue equipment Chemical fire fighting truck × 3
+Emergency medical equipments conveyance truck × 1
+3 Capability for removal of disabled aircraft Ask AD administration
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD2-3
+RJFS AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJFS AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Apron surface and strength West Apron
+ Surface: Concrete, Strength: PCR 1132/R/B/W/T
+East Apron
+ Surface: Asphalt-Concrete, Strength: PCR 175/F/C/Y/T 
+2 Taxiway width, surface and
+strength Asphalt Concrete
+TWY T1
+ Width: 30m, Surface: asphalt-concrete, Strength: PCR 889/F/B/X/T
+TWY T2
+ Width: 9m, Surface: asphalt-concrete, Strength: PCR 175/F/C/Y/T 
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints (Spot NR)
+10 : 330910.32N 1301805.68E
+11 : 330910.79N 1301807.45E
+12 : 330910.55N 1301809.07E
+21 : 330910.25N 1301811.22E
+22 : 330909.87N 1301813.98E
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+ACFT stand ID signs: Spot 12, 21
+TWY guide line: T1
+Visual docking guidance system: Nil 
+2 RWY and TWY markings and 
+LGT
+RWY: RWY11/29
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point, 
+                Aiming point, TDZ, RWY side stripe, RWY turn pad CL, 
+                RWY turn pad edge line
+(LGT) RCLL, REDL, RTHL,  RTZL, WBAR, Turning point indicator LGT
+TWY: T1
+(Marking) Intermediate HLDG PSN
+(LGT) TWY edge LGT, TWY CL LGT,Taxiing guidance sign
+TWY: T2
+(LGT) TWY edge LGT,Taxiing guidance sign
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area, Aircraft pa rking position, Aircraft stand taxi lane.
+(LGT) Apron flood LGT
+(EFF:23 JAN 2025) 23/1/25
+
+
+=== Page 4 ===
+RJFS AD2-4 AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+180° TURN ON RWY
+B767Ṗ⿛〝 180° ォ࿁ታᣉⷐ㗄
+ 1. ޕࠆߔ
+2. ォ࿁Ἦ1ォ࿁Ἦ 2ォ࿁
+  ߪMAX STEERING ANGLEޕࠆߔ
+180°turn procedure on RWY for B767 aircraft
+ 1.  Proceed along the RWY Center Line to the starting point of the RWY Turn
+      Pad Centerline Marking ; then
+ 2.  Proceed along RWY Turn Pad Center Line Marking to see the Turning Point
+  Indicator Light 1 on a straight line, then commence turn at the spot where you
+  (pilot)can see the Turning Point Indicator Lights 2 on a straight line at an angle
+  of 9 o'clock. When turning, take MAX STEERING ANGLE.
+TURNING  POINT  INDICATOR  LGT 1(BLUE)
+TURNING  POINT  INDICATOR  LGT 2(BLUE)
+RWY TURN  PAD  EDGE  MARKING
+RWY TURN  PAD  CENTERLINE  MARKING
+(YELLOW)
+19m
+65m
+65m
+8.5m
+TURNING  POINT  INDICATOR  LGT 1(BLUE)
+TURNING  POINT  INDICATOR  LGTS 2(BLUE)
+RWY TURN  PAD  EDGE  MARKING
+RWY TURN  PAD  CENTERLINE  MARKING
+(YELLOW)
+65m
+65m
+19m
+8.5m
+SAGA   AP
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 5 ===
+AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD2-5
+RJFS AD 2.10 AERODROME OBSTACLES
+Other obstacles
+RJFS AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area2 Nil
+OBST ID/designation Obstacle type  C oordinates Elevation Markings/LGT Remarks
+RJFS1 Levee 330915.3N1301706.0E 25ft - / LIL Under APCH surface
+RJFS2 Levee 330907.7N1301709.0E 25ft - / LIL Under APCH surface
+RJFS3 Levee 330859.9N1301712.1E 25ft - / LIL Under APCH surface
+In Area3 To be developed
+1 Associated MET Office FUKUOKA 
+2 Hours of service
+MET Office outside hours
+H24 (FUKUOKA)
+3 Office responsible for TAF preparation
+Periods of validity
+FUKUOKA
+30 Hours
+4 Type of landing forecast interval of 
+issuance
+Nil 
+5 Briefing/ consultation provided Briefi ng is available upon inquiry at FUKUOKA
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available for 
+briefing or consultation
+S6,  U85,  U7,  U5,  U3,  U25,  U2/Tr, PS,  P5,  P3,  P25,  PSWE,  
+PSWF,  PSWG,  PSWI,  PSWM,  PSW(domestic),   E,  C,  WE,  WF,  
+WG,  WI,  W,  N 
+8 Supplementary equipment available for 
+providing information
+Nil 
+9 ATS units provided with information TWR, APP , ATIS, RADIO
+10 Additional information(limitation of service, 
+etc.)
+Nil 
+(EFF:1 JUL 2025) 15/5/25
+
+
+=== Page 6 ===
+RJFS AD2-6 AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJFS AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+11
+29
+099.25° 
+279.25°
+2000×45
+2000×45 
+PCR 1042/F/C/X/T
+Asphalt-Concrete
+PCR 1042/F/C/X/T
+Asphalt-Concrete
+330904.20N
+1301729.91E
+330853.77N
+1301846.08E
+THR ELEV: 6ft
+THR ELEV: 6ft
+Slope of RWY
+and SWY
+Strip
+Dimensions(M)
+RESA(Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See below figure
+See below figure
+2120 x 300
+2120 x 300
+40x(MNM:247 MAX:300)*
+193x(MNM:96 MAX:300)*
+*For detail, ask airport administrator
+RWY grooving: 2000m x 30m
+Turning pad installed
+RWY grooving: 2000m x 30m
+Turning pad installed
+RWY Designator TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+11
+29
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+Nil
+Nil
+0m 1200m 1400m 2000m
+. .
+RWY 11 RWY 29
+LEVELLEVEL
+6ft .
+6ft
+.
+6ft 6ft
+0.1%
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 7 ===
+AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD2-7
+RJFS AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJFS AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJFS AD 2.16 HELICOPTER LANDING AREA
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 78 9
+11 SALS
+(*1)
+420m
+LIH
+Green
+-
+PAPI
+3.0°/LEFT
+366.2M
+61ft
+- 2,000m
+30m
+Coded color
+(White/Red)
+2,000m
+60m
+Coded color
+(White/Yellow)
+Red Nil
+(*2)
+29 PALS
+(CATI)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/LEFT
+374.6M
+61ft
+900m 2,000m
+30m
+Coded color
+(White/Red)
+2,000m
+60m
+Coded color
+(White/Yellow)
+Red Nil
+(*2)
+Remarks
+10
+SALS with APCH LGT beacon(600m and 900m FM RWY 11 THR)(*1)
+Overrun area edge LGT(LEN:60m Color:Red)(*2) 
+CGL for RWY 11 and RWY 29
+1 ABN/IBN location, characteristics 
+and hours of operation ABN: 330919N/1301752E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+Nil
+RWY 11, RWY29/LGTD
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/
+switch-over time
+Within 1 sec : REDL, RTHL, WBAR, RCLL, Overrun area edge LGT, 
+                      Turning point indicator LGT
+Within 15 sec : Other LGT
+5 Remarks WDI LGT
+Nil
+(EFF:2 OCT 2025) 4/9/25
+
+
+=== Page 8 ===
+RJFS AD2-8 AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD 2.17 ATS AIRSPACE
+RJFS AD 2.18 ATS COMMUNICATION FACILITIES
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit 
+call sign
+ Language
+Remarks
+12 3 4 6
+SAGA 
+CTR
+Area within a radius of 5nm of SAGA ARP 
+(3309N/13018E).
+--------
+3000 D
+SAGA TWR
+SAGA 
+RADIO(1)
+En
+(1)2130-2300
+ 1030-1500
+FUKUOKA 
+ACA See RJFF attached chart E
+FUKUOKA APP
+FUKUOKA 
+DEP
+FUKUOKA 
+RADAR
+En
+ 
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP Fukuoka Radar 119.7MHz
+279.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2145 - 1315 2130 - 2145 and 1315 - 1500: 
+APP service provided by Kobe ACC
+TWR Saga Tower 118.025MHz(1)
+126.2MHz
+232.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2300 - 1030(*) (1)Primary
+ATIS Saga Airport 126.825MHz 2300 - 1030
+AFIS Saga Radio 118.025MHz 2130 - 2300
+1030 - 1500(*)
+ 
+Operated by Fukuoka Airport Office. 
+*Depending on air traffic situation, ATC service will be provided from 2245 to 2300 and from 1030 to 1045.
+(EFF:1 JUL 2025) 15/5/25
+
+
+=== Page 9 ===
+AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD2-9
+RJFS AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Site of
+transmitting antenna 
+coordinates
+Elevation
+DME
+transmitting
+antenna
+Remarks
+123 4 5 6 7
+VOR
+(7°W/2013)
+SGE 114.75MHz H24  330855.03N
+1301734.43E
+DME SGE 1055MHz
+(CH-94Y)
+H24 330855.03N
+1301734.43E
+40ft 
+ILS-LOC 29
+(CAT-I)
+ISG 110.15MHz 2130 - 1500 330905.42N
+1301721.02E
+BRG(MAG)286°
+233m(764ft) away FM RWY11 THR
+ILS-GP 29 334.25MHz 2130 - 1500  330851.56N
+1301833.39E
+GP angle 3.0° 
+HGT of ILS Ref datum 16.5m(54ft). 
+315m(1034ft) inside FM RWY29 THR 
+120m(394ft) S of RCL
+ILS-DME 29 ISG 1125MHz 2130 - 1500 330851.33N
+1301832.99E
+22ft 323m(1060ft) inside FM RWY29 THR
+129m(423ft) S of RCL
+MSAS 1575.42MHz H24 Transmitting antennas are sate llite 
+based.
+REMARKS : 1. LOC  beam  BRG(MAG) 286˚
+2. HGT of  ILS  REF  datum 16.5m(54ft)
+3. GP  Angle 3.0˚
+4. ELEV  of  ILS-DME 6.6m(22ft) 
+11
+29
+120m
+129m
+233m
+323m
+315m
+2000m
+ILS–LOC
+ANTENNA
+ILS
+ILS–GP ANTENNA
+ILS–DME ANTENNA
+(EFF:9 AUG 2019) 18/7/19
+
+
+=== Page 10 ===
+RJFS AD2-10 AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+1.1 Prior notification should be required with AD Admini stration for the purpose of getting the permission when crossing
+Saga CTR from 2130UTC to 2300UTC or from 1030UTC to 1500UTC.
+For further information (0000UTC - 0800UTC MON-FRI EXC HOL)
+Air Traffic Controller Office, Saga Airport Branch
+TEL: 0952-46-0001
+1.1  6 時 30 分から 8 時 00 分または 19 時 30 分から 24 時 00 分までの間、 佐賀管制圏を通過する場合は、 当該通過の許可を
+得るためにあらかじめ佐賀空港出張所へ調整する こ と。
+問い合わせ先
+佐賀空港出張所管制官事務室
+（月曜日から金曜日までの う ち、 9 時 00 分から 17 時 00 分までの間。 ただ し休日を除 く 。 ）
+TEL ： 0952-46-0001
+1.2 On use of Saga airport, aircraft operator is required to notify Saga Pref In advance.
+TEL: 0952-46-0150
+1.2 佐賀空港の使用について、 航空機の運航者はあらかじめ佐賀県に届け出る こ と。
+TEL ： 0952-46-0150
+Nil
+Nil
+Nil
+Nil
+  コー ド C 以上 （翼端が 30m 以上） の航空機は原則と し て
+ターニングパッドを使用すること。
+Aircraft with Wing span 30m or longer should use turning 
+pads in principle.
+Nil
+Nil
+Nil
+(EFF:1 JUL 2025) 15/5/25
+
+
+=== Page 11 ===
+AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD2-11
+RJFS AD 2.21 NOISE ABATEMENT PROCEDURES
+RJFS AD 2.22 FLIGHT PROCEDURES
+RJFS AD 2.23 ADDITIONAL INFORMATION
+計器進入方式および標準計器出発方式の使用
+(SEE AD1.1.6.5)
+Use of Instrument Approach Procedure(IAP) & Standard 
+Instrument Departure(SID)   (SEE AD1.1.6.5)
+すべての航空機を対象に、 午後 10 時以降、 午前 0 時までの
+間においては、 空港周辺における航空機騒音軽減のため、 緊
+急またはやむを得ない状況にある場合を除き、 以下の計器進
+入方式及び標準計器出発方式による ものとする。
+(1) 到着 ： VOR RWY11, RNP RWY11 (AR), RNP RWY29 (AR),
+VOR A, VOR C
+(2) 出発：ARIAKE REVERSAL DEPARTURE, SOIGI DEPARTURE
+注） 以下の方式は当該時間帯に限り使用される方式である。
+(1) 到着 ： VOR RWY11
+(2)出発： ARIAKE REVERSAL DEPARTURE, SOIGI DEPARTURE
+ 
+For all aircraft, between 2200JST(1300UTC) and
+0000JST(1500UTC), in order to reduce aircraft noise in the
+vicinity of airport, except  in emergency or unavoidable
+situation, pilots are requested to fly via the following SID and
+IAP. 
+(1) For arrivals : VOR RWY11, RNP RWY11 (AR), 
+       RNP RWY29 (AR), VOR A, VOR C
+(2) For departures : ARIAKE REVERSAL DEPARTURE, 
+       SOIGI DEPARTURE
+Note) Following procedures should be used only between 
+          2200JST(1300UTC) and 0000JST(1500UTC)
+(1) For arrivals : VOR RWY11
+(2) For departures : ARIAKE REVERSAL DEPARTURE, 
+        SOIGI DEPARTURE
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL
+ or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with
+TKOF ALTN 
+AP FILED
+11 A,B,C,D - 400m - 400m - 500m
+29 A,B,C,D 400m 400m 400m 400m - 500m
+OTHER
+11 A,B,C,D
+AVBL LDG MINIMA
+29 A,B,C,D
+2. Lost Communication Procedures for Arrival Aircraft under radar navigational guidance
+If radio communications with Fukuoka Approach / Radar are lost for 30 seconds, squawk Mode A/3 Code 7600 and:
+(I) 1. Contact Saga Tower / Radio.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to SAGA VOR/DME at last assigned altitude or 5,000ft whichever is higher, 
+and execute instrument approach.
+(II) Procedures other than above will be issued when situation required.
+1. 空港を使用する場合は、あらかじめ佐賀空港事務所へ
+ 調整すること。
+1. Prior notification should be required with AD 
+Admsnistration when using the Airport.
+(EFF:1 JUL 2025) 15/5/25
+
+
+=== Page 12 ===
+RJFS AD2-12 AIP Japan
+SAGA
+Civil Aviation Bureau,Japan
+RJFS AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (SAGA, ARIAKE)
+Standard Departure Chart - Instrument (KIKYU)
+Standard Departure Chart - Instrument (BALLOON - RNAV)
+Standard Departure Chart - Instrument (SOIGI - RNAV)
+Standard Arrival Chart - Instrument (IRPIN NORTH, IRPIN SOUTH)
+Instrument Approach Chart (ILS or LOC RWY29)
+Instrument Approach Chart (VOR RWY29)
+Instrument Approach Chart (VOR RWY11)
+Instrument Approach Chart (RNP RWY29 (AR))
+Instrument Approach Chart (RNP RWY11 (AR))
+Instrument Approach Chart (VOR A)
+Instrument Approach Chart (VOR B)
+Instrument Approach Chart (VOR C)
+Other Chart (Visual REP)
+Other Chart (BALLOON)
+Other Chart (MVA CHART)
+(EFF:1 JUL 2025) 15/5/25
+←
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TURNING  POINT  ID  LGT
+TURNING POINT ID LGT
+CGL
+SALS
+APCH  LIGHTING  SYSTEM
+APCH  LGT  BEACONS
+OVERRUN AREA EDGE  LGT
+68m
+52m
+2000m1400m1200m
+65m
+65m
+374.6m
+RWY 29
+6ft 
+(1.9m)
+6ft 
+(1.7m)
+6ft 
+(1.9m)
+900m
+110m
+366.2m
+WDI
+65m
+65m
+420m
+180m300m
+TRUE NORTH
+VOR/DME
+286m
+ABN
+300m
+LEVELLEVEL
+RWY 11
+6ft
+(1.7m)
+0m
+0.1%
+WDI
+EAST  APRON
+WEST  APRON
+10
+T- 2  T W YT -1 TWY
+DETAIL DRAWING EAST APRON
+SEQUENCED  FLASHING  LGT
+(SFL-V)
+LONGITUDINAL PROFILE OF RWY
+P$3,$QJOHÛ
+MEHT 18.5m(61ft)
+P$3,$QJOHÛ
+MEHT
+18.5m(61ft)
+SAGA AP
+REMARKS :  RWY GROOVING   2000m×30m
+ STRENGTH OF RWY  PCR 1042/F/C/X/T
+ WIDTH & STRENGTH OF TWY
+   T -1  30m  PCR 889/F/B/X/T
+   T -2  9m  PCR 175/F/C/Y/T
+ DIMENSION & STRENGTH OF APRON
+  WEST APRON  286m×110m  PCR 1132/R/B/W/T
+  EAST APRON  68m×52m  PCR 175/F/C/Y/T
+11
+29
+29
+10
+4
+7
+2
+6
+1
+5
+9
+3
+8 
+RVR
+RJFS / SAGA AD CHART
+11 12 21 22
+WIND SPEED METER
+WIND SPEED METER
+CEILOMETER
+CHANGE :  ABN relocated.
+SAGA PREF DISASTER
+PREVENTION TWY & APRON
+JSDF-G TWY & APRON
+TWR
+(EFF:2 OCT 2025) 4/9/25
+RJFS AD2.24-ADC-1
+SAGA
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFS / SAGA   SID
+R243
+500
+500
+HDG 288˚
+HDG 090˚
+D9.0 SGE
+D7.0 SGE
+HDG 198˚
+R135
+135˚
+6000 for SAGA REVERSAL
+TWO DEPARTURE
+6000 for ARIAKE REVERSAL 
+TWO DEPARTURE
+ARIAKE REVERSAL 
+TWO DEPARTURE
+SAGA REVERSAL 
+TWO DEPARTURE
+SAGA REVERSAL TWO DEPARTURE
+RWY11 : Climb RWY HDG to 500FT, turn right,...
+RWY29 : Climb RWY HDG to 500FT,turn left HDG 090˚ to intercept and proceed...
+...via SGE R135 to 9.0DME, turn left, direct to SGE VOR/DME. 
+Cross SGE VOR/DME at 6000FT. 
+Note RWY29 : 3.5% climb gradient required up to 500FT.
+ARIAKE REVERSAL TWO DEPARTURE
+RWY11 : Climb RWY HDG to 500FT, turn right HDG 288˚...
+RWY29 : Climb RWY HDG to 500FT, turn left HDG 198˚...
+...to intercept and proceed via SGE R243 to 7.0DME, turn right, direct to SGE VOR/DME. 
+Cross SGE VOR/DME at or above 6000FT.
+Note RWY29 : 3.5% climb gradient required up to 500FT.
+243˚
+VOR/DME
+114.75 SGE
+CH-94Y
+SAGA
+0FT
+33˚08´55˝N/130˚17´34˝E
+(EFF:26 MAR 2020) 27/2/20
+→ RJFS AD2.24-SID-1
+SAGA
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SAGA
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFS / SAGA TRANSITION
+VOR/DME
+KUMAMOTO
+112.8   KUE
+700FT
+CH–75X
+32˚50´05˝N/130˚50´29˝E
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+32˚54´19˝N/129˚55´05˝E
+VOR/DME
+0 FT
+SAGA
+114.75   SGE
+CH-94Y
+33˚08´55˝N/130˚17´34˝E
+195˚
+D6.0 SGE
+KUMAMOTO TRANSITIONNAGASAKI TRANSITION
+6000
+D18.0 SGE
+10000
+KUE R271
+091˚
+KUMAMOTO TRANSITION
+From over SGE VOR/DME, via SGE R195 to 18.0DME, turn left, via KUE R271 
+to KUE VOR/DME.
+Cross SGE R195/6.0DME at 6000FT, cross SGE R195/18.0DME at or above 10000FT.
+NAGASAKI TRANSITION
+From over SGE VOR/DME, via SGE R195 to 18.0DME, turn right, direct to OLE 
+VOR/DME.
+Cross SGE R195/6.0DME at 6000FT, cross SGE R195/18.0DME at or above 10000FT.
+RJFS AD2.24-SID-2
+(EFF:26 MAR 2020) 27/2/20
+←
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFS / SAGA SID
+KIKYU FIVE DEPARTURE
+RWY11 : Climb RWY HDG to 500FT, turn right,...
+RWY29 : Climb RWY HDG to 500FT, turn left HDG075˚ to intercept and proceed...
+... via SGE R120 to 9.0DME, turn left HDG048˚ to intercept
+and proceed via SGE R093 to KIKYU.
+Cross KIKYU at or above 13000FT.
+   Note RWY29 : 3.5% climb gradient required up to 500FT.
+VOR/DME
+0 FT
+SAGA
+114.75   SGE
+CH-94Y
+ÛÝ1ÛÝ(
+120˚
+093˚
+500
+500
+HDG075˚
+13000
+HDG048˚D9.0 SGE
+SGE R093
+SGE
+R120
+KIKYU
+D32.0 SGE
+CHANGE : Description of PROC name. 
+(EFF:13 JUN 2024) 16/5/24
+RJFS AD2.24-SID-3
+SAGA
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFS AD2.24-SID-4
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFS / SAGA TRANSITION
+MUSASHI TRANSITION 
+FL140
+R253/D38.0 TFE
+R253/D44.2 TFE
+KIKYU
+R253/D31.0 TFE
+FL170
+From over KIKYU, via TFE R253 to TFE VOR/DME.
+Cross TFE R253/38.0DME at or above FL140, cross TFE R253/31.0DME at or above FL170.
+073˚
+VOR/DME
+100 FT
+MUSASHI
+117.7   TFE
+CH-124X
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name. 
+SAGA
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+SAGA
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFS / SAGA RNAV TRANSITION
+331122.1N
+1310519.4E331051.1N
+1305540.3E
+KIKYU WAITA 331313.2N
+1314211.7E
+OOITA
+FL17013000
+From KIKYU at or above 13000FT, to WAITA at or above FL170, to OOITA.
+094˚
+30.9
+094˚
+8.1
+VOR/DME
+100 FT
+MUSASHI
+117.7   TFE
+CH-124X
+1VANRNOITISNART  ATIOO
+NOTE 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME
+–
+–
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+VAR 8˚  W
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++13000
++FL170
+–
+–
+8.1
+30.9
+KIKYU
+WAITA
+OOITA
+(086.3)
+(086.4)
+094
+094
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-7.9
+-7.9
+-7.9
+–
+ÛÝ1ÛÝ(
+CHANGE : VAR. 
+RJFS AD2.24-SID-5
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 20 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFS / SAGA RNAV SID
+331051.1N
+1305540.3E
+330522.1N
+1302725.6E
+KIKYU
+FS100
+330410.1N
+1301727.8E
+FS900
+13000
+500
+500
+287˚
+RWY11 : Climb on HDG107˚ at or above 500FT, turn right to FS100 on course 121˚, to KIKYU at or 
+above 13000FT.
+RWY29 : Climb on HDG287˚ at or above 500FT, turn left direct to FS900, to FS100, to KIKYU 
+at or above 13000FT.
+NOTE RWY29 : 3.5% climb gradient required up to 500FT.
+085˚
+24.3
+090˚
+8.4
+BALLOON TWO DEPARTURE RNP1
+Note GNSS required. 
+VAR 8˚  W
+107˚
+121˚
+CHANGE : PROC course. PROC renamed. VAR. 
+(EFF:13 JUN 2024) 16/5/24
+RJFS AD2.24-SID-6
+SAGA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFS AD2.24-SID-7
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY11
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 107
+(099.3) -7.9 - - +500 - - RNP1
+002 CF FS100 - 121
+(113.2) -7.9 - - - - - RNP1
+003 TF KIKYU - 085
+(076.8) -7.9 24.3 - +13000 - - RNP1
+RWY29
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 287
+(279.3) -7.9 - - +500 - - RNP1
+002 DF FS900 -- - 7 . 9- L - - - RNP1
+003 TF FS100 - 090
+(081.8) -7.9 8.4 - - - - RNP1
+004 TF KIKYU - 085
+(076.8) -7.9 24.3 - +13000 - - RNP1
+RJFS / SAGA RNAV SID
+BALLOON TWO DEPARTURE
+ CHANGE : PROC course. PROC renamed. VAR.
+SAGA
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJFS / SAGA RNAV SID
+324754.1N
+1302746.7E
+FS112
+325005.3N
+1305029.5E
+KUMAMOTO(KUE)
+FS111
+FS110
+6000
+500
+500
+287˚
+RWY11 : Climb on HDG107˚ at or above 500FT, turn right direct to FS110, to FS111 at or above 
+6000FT, to FS112, to KUE.
+RWY29 : Climb on HDG287˚ at or above 500FT, turn left direct to FS110, to FS111 at or above 
+6000FT, to FS112, to KUE.
+NOTE RWY29 : 3.5% climb gradient required up to 500FT.
+091˚
+19.2
+153˚6.8
+153˚6.6
+1PNR ERUTRAPED  I TWO GIOS
+Note GNSS required. 
+VAR 8˚  W
+107˚
+1302314.3E
+VOR/DME
+KUMAMOTO
+112.8     KUE
+700FT
+CH–75X
+ÛÝ1ÛÝ(
+CHANGE : PROC course. PROC renamed. VAR. 
+325328.4N
+1301846.0E
+325856.8N
+(EFF:13 JUN 2024) 16/5/24
+RJFS AD2.24-SID-8
+SAGA
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJFS AD2.24-SID-9
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY11
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 107
+(099.3) -7.9 - - +500 - - RNP1
+002 DF FS110 - - -7.9 - R - - - RNP1
+003 TF FS111 - 153
+(145.5) -7.9 6.6 - +6000 - - RNP1
+004 TF FS112 - 153
+(145.6) -7.9 6.8 - - - - RNP1
+005 TF KUE - 091
+(083.4) -7.9 19.2 - - - - RNP1
+RWY29
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 287
+(279.3) -7.9 - - +500 - - RNP1
+002 DF FS110 -- - 7 . 9- L - - - RNP1
+003 TF FS111 - 153
+(145.5) -7.9 6.6 - +6000 - - RNP1
+004 TF FS112 - 153
+(145.6) -7.9 6.8 - - - - RNP1
+005 TF KUE - 091
+(083.4) -7.9 19.2 - - - - RNP1
+RJFS / SAGA RNAV SID
+SOIGI TWO DEPARTURE
+ CHANGE : PROC course. PROC renamed. VAR.
+SAGA
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJFS / SAGA STAR
+From over IRPIN, via OLE R102 to MILEP, via SGE R194 to SGE
+VOR/DME via UGAMU.
+Cross MILEP at 6000FT, cross SGE VOR/DME at or above 5000FT.
+IRPIN SOUTH ARRIVAL
+From over IRPIN, via OLE R102 to MILEP.
+Cross MILEP at 6000FT.
+UGAMU
+D11.6 SGE
+MILEP
+D16.2 SGE
+D16.8 OLE
+IRPIN
+D22.8 OLE
+6000
+014°
+282°
+014°
+R194OLE R102
+5000
+SGE R185
+IRPIN NORTH  ARRIVAL
+IRPIN NORTH ARRIVAL
+IRPIN SOUTH ARRIVAL
+CHANGE: New PROC
+VOR/DME
+200FT
+NAGASAKI
+116.6   OLE
+CH-113X
+ÛÝ1ÛÝ(
+VOR/DME
+0 FT
+SAGA
+114.75    SGE
+CH-94Y
+ÛÝ1ÛÝ(
+(EFF:26 MAR 2020) 27/2/20
+RJFS AD2.24-STAR-1
+SAGA
+
+
+=== Page 26 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Û
+Û
+Û
+Û
+ILS or LOC RWY29
+RADAR AVBL
+ATIS 126.825
+MISSED APPROACH
+SGE
+ILS - LOC
+ILS-GP   334.25
+ILS-DME   CH-38Y
+110.15  ISG
+&OLPEWR)7RQ+'*Û
+WXUQOHIW+'*ÛWRLQWHUFHSWDQG
+SURFHHGYLD6*(5WR'0(
+WXUQOHIWGLUHFWWR6*(925'0(
+DQGKROGDW)7
+&RQWDFW)8.82.$5$'$5
+)8.82.$5$'$ R
+119.7 –  279.2
+SAGA   TOWER
+118.025
+SAGA RADIO
+118.025 – 232.2
+±87&
+±87&
+0,1,0$ZLWK0LVVHG$3&+FOLPEJUDGLHQWRIDUHQRWHVWDEOLVKHG
+&LUFOLQJWR6287+VLGHRI5:<RQO\
+5-)66AGA
+10NM
+&$87,21
+$IWHU+,*+67$7,216*(925'0(
+PDLQWDLQ)7RUDERYHXQWLO
+LQWHUFHSWLQJRXWERXQG6*(5
+TimiQJ not DXWKorizeG for GHILQLQJ WKH MAPt.
++'*Û
++'*Û
+R135
+Û
+Û
+Û
+Û Û
+D9.0 SGE
+6$66<)$)
+D5.5 ISG
+SASSY
+)$)
+0$3W/2&
+D0.6 ISG
+925'0E
+114.75 SGE
+CH-94Y
+SAGAÛ Û
+Û
+51004700
+6000
+MSA 25NM
+SGE
+V$5Û: (4375(48,5('
+DME
+VOR
+Û
+Û
+MHA 5000
+0$;.,$6
+SGE
+925'0(
+SASSY(F$)330801.58N/1302505.75E NM to ISG
+$/7Û$3&+3DWK
+FAF
+1769
+5
+1593
+4
+1275
+3
+956
+2
+638
+MAPt
+–
+TurQLQLWLDWLRQZLWKLQ'6*(
+MAX TurQLQJ6SHHG.,$6
+TurQLQLWLDWLRQZLWKLQ'6*(
+DME to ISG
+NM to THR
+0.2
+0
+0.6
+0.5
+1.1
+0.9
+VDP
+/2&
+RDH 54 MDA
+460
+
+/2&
+/2&
+1000
+
+2000
+
+2400
+5000
+SDF
+/2& SDF
+MAPt
+/2&
+4.0
+3.8
+5.5
+5.4
+8.0
+7.8
+Û
+Û
+*3Û
+ 
+MINIMA
+0LVVHG$3&+FOLPEJUDGLHQW010
+CAT
+
+
+
+
+1000
+1600
+2400
+32001400
+0'$+ 595
+CMV
+ 550
+'$+ 595
+CMV 0'$+ VIS
+CIRCLINGLOCCAT  
+7+5HOHY6 $'HOHY
+A
+B
+C
+D
+3432 1647
+1150
+14701329
+1345
+1132
+3530 1645
+1524
+2506
+$),6SUoYLGHG
+b\)XNXRND AirSRrt OfILFH
+&+$1*($7&72:(55$'$5$7,6$9%/
+NOT TO SCALE
+900
+ÛÝ1ÛÝ(
+1275
+1800
+1769
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-1
+SAGA
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+Û
+Û
+Û
+Û
+VOR RWY29
+MISSED APPROACH
+5000
+24001648
+1011
+ÛÛ
+Û
+Û
+Û
+Û
+Û
+Û
+MDA
+SDF
+SDF
+VDP
+MAPt
+MOSSA
+(FAF)
+DME to SGE
+NM to THR
+1.0
+0
+1.9
+0.9
+4.0
+3.0
+6.0
+5.0
+9.0
+8.0
+460
+(454)
+800
+(794)
+2000
+(1994)
+SGE
+SAGA   VOR/DME
+3432 1647
+1150
+14701329
+1345
+1132
+3530 1645
+153
+MAPt
+D1.0 SGE MOSSA(FAF)
+D6.0 SGE
+D9.0 SGE
+R135
++'*Û Û
+1524
+2506
+CH-94Y
+114.75   SGE
+CAUTION:
+After HIGH-STATION(SGE VOR/DME),
+maintain 5000FT or above until 
+intercepting outbound SGE R118
+Climb  to 500FT via SGE R282, 
+WXUQOHIW+'*ÛWRLQWHUFHSWDQG
+proceed via SGE R135 to 9.0DME,
+turn left, direct to SGE VOR/DME
+and hold at 5000FT.
+Contact FUKUOKA  RADAR.
+FUKUOKA  RADAR
+119.7 –  279.2
+Û
+Û
+MHA 5000
+MAX 210KIAS
+SGE
+VOR/DME
+Circling to SOUTH side of RWY only.
+RJFS / SAGA
+10NM
+Turn initiation within D10.0 SGE
+MAX Turning Speed 190KIAS
+Turn initiation within D10.0 SGE
+EQPT REQUIRED
+DME
+Û Û
+Û
+51004700
+6000
+MSA 25NM
+SGE
+MOSSA(FAF) : 330825.59N/1302441.67E 
+NM to SGE
+$/7Û$3&+3DWK
+FAF
+1648
+5
+1330
+4
+1011
+3
+693
+2
+374
+MAPt
+–
+Timing not authorized for defining the MAPt.
+V$5Û:
+ 
+MINIMA
+CAT
+330 (324)
+560 (554)
+460 (454)
+360 (354)900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 6 AD elev. 6
+A
+B
+C
+D
+NOT TO SCALE
+CHANGE : ATC(TOWER, RADAR, ATIS AVBL).
+ÛÝ1ÛÝ(
+RADAR AVBL
+ATIS 126.825
+SAGA   TOWER
+118.025
+SAGA RADIO
+118.025 – 232.2
+2130–2300(UTC)
+1030–1500(UTC)
+AFIS provided
+by Fukuoka Airport Office
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-2
+SAGA
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Û
+Û
+Û
+Û
+VOR RWY11
+5000
+2500
+1617
+Û
+Û
+R243
++'*Û
+Û Û
+Û
+Û
+Û
+Û
+Û
+SGE
+SDF
+1900
+(1894) 700
+(694) MDA
+SAGA   VOR/DME
+3432 1647
+1150
+14701329
+1345
+1132
+3530 1645
+153
+9811524
+2506
+CH-94Y
+114.75   SGEFUKUOKA  RADAR
+119.7 –  279.2
+MAPt
+SGE
+MITCH(FAF)
+D5.0 SGE
+MITCH
+(FAF)
+MAPt
+D7.0 SGE
+Circling to SOUTH side of RWY only.
+RJFS / SAGA
+Turn initiation 
+within D11.0 SGE
+MAX Turning Speed 
+200KIAS
+Turn initiation within D11.0 SGE
+Û Û
+Û
+51004700
+6000
+MSA 25NM
+SGE
+V$5Û:
+MITCH(FAF) : 331003.89N/1301146.58E NM to SGE
+$/7Û$3&+3DWK
+FAF
+1617
+1
+343
+4
+1299
+3
+980
+2
+662
+MAPt
+–
+10NM
+EQPT REQUIRED
+DME
+Û
+Û
+MHA 5000
+MAX 210KIAS
+SGE
+VOR/DME
+DME to SGE
+NM to THR
+0.1
+0
+5.0
+4.9
+8.0
+7.9
+MISSED APPROACH
+Climb to 500FT via SGE R110, 
+WXUQULJKW+'*ÛWRLQWHUFHSWDQG
+proceed via SGE R243 to 7.0DME,
+turn right, direct to SGE VOR/DME
+and hold at 5000FT.
+Contact FUKUOKA  RADAR.
+Timing not authorized for defining the MAPt.
+ 
+MINIMA
+CAT
+330 (324)
+560 (554)
+360 (354)
+460 (454)
+1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 6 AD elev. 6
+A
+B
+C
+D
+2454
+NOT TO 
+ SCALE
+CHANGE : ATC(TOWER, RADAR, ATIS AVBL).
+340 (334)
+370 (364)
+390 (384)
+ÛÝ1ÛÝ(
+RADAR AVBL
+ATIS 126.825
+SAGA   TOWER
+118.025
+SAGA RADIO
+118.025 – 232.2
+2130–2300(UTC)
+1030–1500(UTC)
+AFIS provided
+by Fukuoka Airport Office
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-3
+SAGA
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+3530
+1132
+103 160
+10NM   2.9
+128°
+  4.7
+062°
+6.3
+   5.0017°
+1.6
+1.6
+287°/0.9
+1.4
+287°/1.5
+   4.7017°
+FS959
+FS960
+LEENO
+(IF)
+FS956
+EAZAR
+(FAF)
+MAX 165 KIAS
+MILEP
+(IAF)
+SGE
+FS958
+RW29
+FS961
+NIVAL
+FS957
+䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢳䢲䢩䣇䢳䢵䢲䤑䢲䢩䣇
+䢵䢵䤑䢳䢲䢩䣐
+䢵䢵䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.6
+2000
+1500
+1000
+500
+FUKUOKA   RADAR
+119.7 - 279.2
+RNP  AR
+RF  required.
+SAGA TOWER
+118.025 - 232.2
+RADAR AVBL
+ATIS 126.825
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP RWY29(AR)RJFS / SAGACHANGE : ATC(TOWER, RADAR, ATIS AVBL).
+EAZAR(FAF) :330507.25N/1302122.72E
+10123456789 1 0
+KM
+1012345
+NM
+090° 270°
+180°
+l
+53004700
+6000
+MSA  RW29  25NM
+2130 - 2300(UTC)
+1030 - 1500(UTC)
+SAGA RADIO
+118.025
+AFIS provided
+by Fukuoka Airport Office
+NOT TO SCALE
+MHA 5000
+MAX 210KIAS
+SAGA
+(SGE)
+1MIN
+NOT TO SCALE
+MHA 6000
+MAX 210KIAS
+MILEP
+1MIN
+Þ
+1.5
+RDH 54
+NM to THR
+FS958
+MILEP
+(IAF)MISSED APPROACH
+Climb to 5000FT , to FS959, to
+FS960 via fixed radius turn, to
+FS961 on course 128, turn left,
+direct to SGE and hold.
+Contact FUKUOKA RADAR.
+20.5
+RW29
+4.5
+FS956
+10.80
+LEENO
+(IF)
+1998
+0000
+6000
+NIVAL
+15.86.1
+EAZAR
+(FAF)
+2.9
+FS957 0000
+5000
+1493
+990
+551
+Missed APCH climb gradient MNM 5.0%
+DA(H) RVR/CMV DA(H) RVR/CMV
+A
+B
+C 800 1000
+D 1200 1400
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Authorization Required
+306(300)
+-
+CAT RNP 0.30
+-
+RNP 0.10
+--
+256(250)
+MINIMA       THR elev. 6          AD elev. 6
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-4
+SAGA
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFS AD2.24-IAC-5
+INSTRUMENT APPROACH CHART 
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.9 - - - -
+002 TF - -7.9 - - - 0.3
+003 TF - -7.9 - - - 0.3
+004 TF - -7.9 - -165 - 0.3
+005
+RF
+Center:
+FSRF8
+r=2.02NM
+- -7.9 L - -3.00 0.10
+0.30
+006
+RF
+Center:
+FSRF9
+r=1.98NM
+- -7.9 L - -3.00 0.10
+0.30
+007
+RF
+Center:
+FSRF0
+r=1.75NM
+- -7.9 L - -3.00 0.10
+0.30
+008 TF Y -7.9 - - -3.00/54 0.10
+0.30
+009 TF - -7.9 - - - 0.10
+0.30
+010
+RF
+Center:
+FSRF2
+r=2.28NM
+- -7.9 L - - 1.0
+011 CF Y -7.9 - - - 1.0
+012 DF - -7.9 L - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Speed
+(KIAS)
+RNP
+Value
+Hold MILEP R -210
+(-14000) 1.0
+Hold SGE L -210
+(-14000) 1.0
+FS958
+325250.49N / 1301501.22E
+325726.55N / 1301554.33E
+FS956
+FS957
+330626.19N / 1302220.91E
+330756.35N / 1302156.32E
+CHANGE : Waypoint (FS959, FS960, FS961) established. RF Arc Center (FSRF2) established. RNP Value. HLDG pattern added. Waypoint (FS955) abolished. VAR.
+330645.72N / 1301958.78E
+FSRF0 330654.73N / 1302014.52E
+5000 FL140
+-7.9
+-7.9
+015
+(007.6)
+143
+(134.8)
+NIVAL 017
+(009.2) 4.7 5000
+FS956 - 1.6 1493
+EAZAR 062
+(054.2) 4.7 1998
+LEENO 017
+(009.2) 5.0 -
+RJFS / SAGA RNP RWY29(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+MILEP - - 6000
+-
+FS957 - 1.6
+SGE 330855.03N / 1301734.43E
+FS960 330448.74N / 1301558.06E
+FS961 330322.31N / 1301854.74E
+330838.87N / 1302034.72E
+RF Arc Center Identifier
+FSRF8
+FSRF9
+MILEP
+NIVAL
+LEENO 330223.31N / 1301651.53E
+330507.25N / 1302122.72E
+FS959 330902.03N / 1301745.78E
+FSRF2
+RW29 330853.77N / 1301846.08E
+990
+SGE - - 5000
+551
+60
+-
+RW29
+FS960
+287
+(279.3)
+-
+FS959
+-
+287
+(279.3) 0.9 -
+1.4
+1.5
+6.3
+FS961 128
+(120.3) 2.9
+FS958
+330647.02N / 1301719.68E
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+1.0(-14000)
+1.0(-14000)
+6000 FL140
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+EAZAR
+Coordinates
+330646.63N / 1302001.15E
+SAGA
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+1273
+16453530
+1132
+103
+160
+10NM
+1.6
+   5.0017°
+1.6
+   4.7017°
+  3.8
+272°
+1.4
+107°/1.6
+6.6
+  4.7332°
+107°/0.7
+SGE
+FS158
+NIVAL
+FS156
+WEKKA
+(FAF)
+MAX 165 KIAS
+FS154
+MILEP
+(IAF)
+FS155
+RW11
+LEENO
+(IF)
+FS157
+FS159
+䢳䢵䢲䤑䢵䢲䢩䣇䢳䢵䢲䤑䢴䢲䢩䣇䢳䢵䢲䤑䢳䢲䢩䣇
+䢵䢵䤑䢳䢲䢩䣐
+䢵䢵䤑䢲䢩䣐
+Contour
+Intervals
+AD elev.6
+2000
+1500
+1000
+500
+FUKUOKA   RADAR
+119.7 - 279.2
+RNP  AR
+RF  required.
+SAGA TOWER
+118.025 - 232.2
+RADAR AVBL
+ATIS 126.825
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP RWY11(AR)RJFS / SAGACHANGE : ATC(TOWER, RADAR, ATIS AVBL).
+WEKKA(FAF) :330612.58N/1301335.04E
+10123456789 1 0
+KM
+1012345
+NM
+090° 270°
+180°
+l
+51004700
+6000
+MSA  RW11  25NM
+2130 - 2300(UTC)
+1030 - 1500(UTC)
+SAGA RADIO
+118.025
+AFIS provided
+by Fukuoka Airport Office
+NOT TO SCALE
+MHA 6000
+MAX 210KIAS
+MILEP
+1MIN
+NOT TO SCALE
+MHA 5000
+MAX 210KIAS
+SAGA
+(SGE)
+1MIN
+Þ
+1.6
+RDH 50
+NM to THR
+FS156
+MILEP
+(IAF)
+MISSED APPROACH
+Climb to 5000FT, to FS157, to
+FS158 via fixed radius turn, to
+FS159 on course 272, turn right,
+direct to SGE and hold.
+Contact FUKUOKA RADAR.
+20.6
+RW11
+4.6
+FS154
+10.9 0
+LEENO
+(IF)
+1990
+NIVAL
+15.9 6.2
+WEKKA
+(FAF)
+3.0
+FS155
+0000
+6000
+1486
+989
+550
+0000
+5000
+Missed APCH climb gradient MNM 5.0%
+D A ( H )C M VD A ( H )C M V
+A
+B
+C 1200 1400
+D 1400 1600
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Authorization Required
+309(303)
+-
+CAT RNP 0.30
+-
+RNP 0.10
+--
+256(250)
+MINIMA       THR elev. 6          AD elev. 6
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-6
+SAGA
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJFS AD2.24-IAC-7
+INSTRUMENT APPROACH CHART 
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.9 - - - -
+002 TF - -7.9 - - - 0.3
+003 TF - -7.9 - - - 0.3
+004 TF - -7.9 - -165 - 0.3
+005
+RF
+Center:
+FSRF5
+r=2.02NM
+- -7.9 R - -3.00 0.10
+0.30
+006
+RF
+Center:
+FSRF6
+r=1.98NM
+- -7.9 R - -3.00 0.10
+0.30
+007
+RF
+Center:
+FSRF7
+r=1.77NM
+- -7.9 R - -3.00 0.10
+0.30
+008 TF Y -7.9 - - -3.00/50 0.10
+0.30
+009 TF - -7.9 - - - 0.10
+0.30
+010
+RF
+Center:
+FSRF1
+r=2.28NM
+- -7.9 R - - 1.0
+011 CF Y -7.9 - - - 1.0
+012 DF - -7.9 R - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Speed
+(KIAS)
+RNP
+Value
+Hold MILEP R -210
+(-14000) 1.0
+Hold SGE L -210
+(-14000) 1.0
+330642.73N / 1301750.06E
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Minimum
+Altitude
+(FT)
+Maximum
+Altitude
+(FT)
+1.0(-14000)
+1.0(-14000)
+6000 FL140
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+WEKKA
+Coordinates
+330723.80N / 1301529.68E
+989
+SGE - - 5000
+550
+56
+-
+RW11
+FS158
+107
+(099.3)
+-
+FS157
+-
+107
+(099.3) 0.7 -
+1.4
+1.6
+6.6
+FS159 272
+(264.2) 3.8
+FS156 -
+FS155 - 1.6
+SGE 330855.03N / 1301734.43E
+FS158 330426.51N / 1301806.37E
+FS159 330403.61N / 1301337.58E
+330919.21N / 1301540.15E
+RF Arc Center Identifier
+FSRF5
+FSRF6
+MILEP
+NIVAL
+LEENO 330223.31N / 1301651.53E
+330612.58N / 1301335.04E
+FS157 330857.86N / 1301816.20E
+FSRF1
+RW11 330904.20N / 1301729.91E
+RJFS / SAGA RNP RWY11(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+MILEP - - 6000
+1486
+WEKKA 332
+(324.3) 4.7 1990
+LEENO 017
+(009.2) 5.0 -
+FS156
+325250.49N / 1301501.22E
+325726.55N / 1301554.33E
+FS154
+FS155
+330742.91N / 1301309.63E
+330900.65N / 1301406.71E
+CHANGE : Waypoint (FS157, FS158, FS159) established. RF Arc Center (FSRF1) established. RNP Value. HLDG pattern added. Waypoint (FS153) abolished. VAR.
+330723.51N / 1301531.82E
+FSRF7 330735.05N / 1301520.05E
+5000 FL140
+-7.9
+-7.9
+015
+(007.6)
+143
+(134.8)
+NIVAL 017
+(009.2) 4.7 5000
+FS154 - 1.6
+SAGA
+(EFF:13 JUN 2024) 16/5/24
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MISSED APPROACH
+At 1.2DME prior to SGE VOR/DME,
+turn left and climb via SGE R194,
+turn left direct to SGE VOR/DME within 
+SGE 9.0DME and hold at 5000FT.
+Contact FUKUOKA RADAR.
+MINIMA                                   AD elev. 6
+CAT
+CIRCLING
+MDA(H)
+A
+B
+C
+D
+VIS
+3200
+1600
+2400
+SGE
+5000
+460(454)
+560(554)
+Circling to SOUTH side of RWY only.
+360(354)
+DME
+EQPT REQUIR ED
+VOR  A
+MAPt
+11.6 9.3
+014°
+1.2 DME to SGE
+SGE
+5100
+6000
+4700
+MSA 25NM
+270°090°
+180°
+VAR 8°W 
+10NM
+SGE
+VOR/DME
+MHA 5000
+MAX 210KIAS
+32
+2°142°
+MAPt
+D1.2 SGE
+014°
+014°
+16.2
+MILEP
+D16.2 SGE
+1600
+194°
+6000
+MILEP
+270°
+360°
+090°
+014°
+UGAMU
+D11.6 SGE
+UGAMU
+MILEP
+MHA 6000
+MAX 210KIAS
+D21.0
+SGE
+D16.2 SGE
+SGE
+VOR/DME
+R194
+194°
+014°
+FUKUOKA RADAR
+119.7 –  279.2
+RJFS/SAGA
+VOR/DMESAGA
+114.75    SGE
+CH-94Y
+1132
+1150
+1329
+1273
+NOT TO 
+ SCALE NOT TO SCALE
+CHANGE : ATC(TOWER, RADAR, ATIS AVBL).
+ÛÝ1ÛÝ(
+RADAR AVBL
+ATIS 126.825
+SAGA   TOWER
+118.025
+SAGA RADIO
+118.025 – 232.2
+2130–2300(UTC)
+1030–1500(UTC)
+AFIS provided
+by Fukuoka Airport Office
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-8
+SAGA
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MINIMA                                   AD elev. 6
+CAT
+CIRCLING
+MDA(H)
+A
+B
+C
+D
+VIS
+3200
+1600
+2400
+SGE
+5000
+460(454)
+560(554)
+Circling to SOUTH side of RWY only.
+360(354)
+VOR  B
+MAPt
+4.3 1.3 DME to SGE
+SGE
+5100
+6000
+4700
+MSA 25NM
+10NM
+270°090°
+180°
+VAR 8°W 
+MAPt
+D1.3 SGE
+NEKKY(FAF)
+D4.3 SGE
+GATAL(IF)
+D9.3 SGE
+NEKKY
+(FAF)
+194°
+9.3
+GATAL
+(IF)
+MDA
+3600
+070°
+070°
+SGE 
+R238
+2800
+1100
+(1094)
+D9.3 SGE AR C
+Timing not authorized for defining the MAPt.
+D7.0 SGE
+HDG239°
+SGE
+VOR/DME
+270°
+360°
+090°
+MHA 5000
+MAX 210KIAS
+MILEP
+(IAF)
+R238
+322°
+142°
+6000
+MILEP(IAF)
+D16.2 SGE
+UGAMU
+D11.6 SGE
+MHA 6000
+MAX 210KIAS194°
+D21.0 SGE
+°410
+DME
+EQPT REQUIRED
+Missed APCH climb gradient MNM 5.0%
+NEKKY(FAF) : 330700.93N/1301300.37E
+SGE 
+R194
+014°
+D9.3 SGE ARC
+070°
+070°
+014°
+014°
+UGAMU
+OHKOK
+4000
+R210
+OHKOK
+R210/D9.3 SGE
+FUKUOKA RADAR
+119.7 –  279.2
+           MISSED APPROACH
+Turn right HDG239° to intercept and
+proceed via SGE R194 to 7.0DME,
+turn left, direct to SGE VOR/DME
+and hold at 5000FT .
+Contact FUKUOKA RADAR.
+RJFS/SAGA
+VOR/DMESAGA
+114.75    SGE
+CH-94Y
+1150
+1329
+1273
+1645
+NOT TO SCALE
+CHANGE : ATC(TOWER, RADAR, ATIS AVBL).
+ÛÝ1ÛÝ(
+RADAR AVBL
+ATIS 126.825
+SAGA   TOWER
+118.025
+SAGA RADIO
+118.025 – 232.2
+2130–2300(UTC)
+1030–1500(UTC)
+AFIS provided
+by Fukuoka Airport Office
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-9
+SAGA
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MINIMA                                   AD elev. 6
+CAT
+CIRCLING
+MDA(H)
+A
+B
+C
+D
+VIS
+3200
+1600
+2400
+SGE
+5000
+460(454)
+560(554)
+Circling to SOUTH side of RWY only.
+360(354)
+DME
+EQPT REQUIR ED
+VOR  C
+MAPt014°
+1.2 DME to SGE
+SGE
+5100
+6000
+4700
+MSA 25NM
+270°090°
+180°
+VAR 8°W 
+270°
+090°
+360°
+10NM
+MHA 5000
+MAX 210KIAS322°
+142°
+MAPt
+D1.2 SGE
+014°
+Remain within D10.0 SGE 
+214°
+1800
+180°
+D6.0 SGE
+4000
+194°
+214°
+FUKUOKA RADAR
+119.7 –  279.2
+             MISSED APPROACH
+At 1.2DME prior to SGE VOR/DME, turn
+left and climb via SGE R194, turn left
+direct to SGE VOR/DME within SGE
+9.0DME and hold at 5000FT .
+Contact FUKUOKA RADAR.
+RJFS/SAGA
+VOR/DMESAGA
+114.75    SGE
+CH-94Y
+ÛÝ1ÛÝ(
+1150
+1329
+1273
+1645
+1470
+1524
+2454
+3530
+CHANGE : ATC(TOWER, RADAR, ATIS AVBL).
+RADAR AVBL
+ATIS 126.825
+SAGA   TOWER
+118.025
+SAGA RADIO
+118.025 – 232.2
+2130–2300(UTC)
+1030–1500(UTC)
+AFIS provided
+by Fukuoka Airport Office
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-IAC-10
+SAGA
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJFS / SAGA
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+బ㈡኱࿴ బ㈡኱࿴䜲䞁䝍䞊䝏䜵䞁䝆
+Sagayamato Interchange
+䚷ஂಖ⏣ ஂಖ⏣ᶫ
+Kubota Bridge
+኱୰ᓥ ⟃ᚋᕝ᪼㛤ᶫ
+Onakashima Bridge
+⟃ᚋ ඵዪ䜲䞁䝍䞊䝏䜵䞁䝆
+Chikugo Interchange
+㮵ᓥ ᪂὾኱ᶫ
+Kashima Bridge
+༡㛵 ༡㛵䜲䞁䝍䞊䝏䜵䞁䝆
+Nankan Interchange
+኱∹⏣ JR኱∹⏣㥐
+Omuta Station
+ᾏୖ
+Over the sea
+➉ᓮ ➉ᓮ 
+Takezaki Harbor
+CHANGE : ATC(TOWER, RADAR, ATIS AVBL). CONTROL ZONE established. INFORMATION ZONE abolished.
+072°T / 11.7NM
+353°T 10.4NM/
+037°T / 4.9NM
+4.9NM329°T /
+Call sign BRG / DIST from ARP Remarks
+249°T / 9.5NM
+13.1NM111°T /
+200°T
+/
+12.4NM
+10NM S / 10.0NM180°T
+/
+135°T 10.1NM
+ONAKASHIMA
+SAGAYAMATO
+5NM from ARP
+SAGA CONTROL ZONE
+At or below 3000 FT
+VAR 7W(2006) / 1.5'W
+KASHIMA
+KUBOTA
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+TAKEZAKI
+10NM S
+OMUTA
+NANKAN
+CHIKUGO
+2300 - 1030(UTC)
+SAGA TOWER      
+118.025 - 232.2  
+2130 - 2300(UTC)
+1030 - 1500(UTC)
+SAGA RADIO
+118.025
+AFIS provided
+by Fukuoka Airport Office
+Visual REP
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-OTHER-1
+SAGA
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+傍⇕Ẽ⌫僔㣕⾜傲ୗᅗ༊ᇦෆ働⾜僵僲僱傏 凚ᮇ㛫 : 5᭶୰᪪傱僯6᭶୰᪪僤働ཬ僙10
+᭶୰᪪傱僯2᭶ୗ᪪僤働 : RJFS
+Hot air balloon flight will be conducted within below area.
+(Period: from mid MAY to mid JUN and from mid OCT to late FEB: see NOTAM RJFS)
+㣕⾜㧗ᗘ 3000ft ௨ୗ
+FLT ALT At or below 3000ft
+㣕⾜㧗ᗘ 4000ft ௨ୗ
+FLT ALT At or below 4000ft
+Balloon FLT area Nr1 Balloon FLT area Nr2*
+* 傍బ㈡✵ 僸Ⓨ╔傿僱⯟✵ᶵ僑ᑐ傽傎⇕Ẽ⌫僑ಀ僱᝟ሗ凚㣕⾜✵ᇦ凤ཬ僙凥ෆ働
+傍㣕⾜傿僱Ẽ⌫僔ᴫᩘ➼凛僔ᥦ౪傲బ㈡儣兓兠ཪ僕బ㈡児儫儇儎僑僮僰⾜僵僲僱傏
+Balloon FLT area Nr3*
+*傍 The information of hot air balloon(aprx number of balloon etc.in flight area
+  number 2 and 3) will be provided for departing/arriving acft from/to SAGA airport
+  by SAGA TOWER / SAGA RADIO.
+Example of phraseology:"Two flying balloons reported in balloon flight area
+                                       number two."
+RJFS / SAGA BALLOON
+33°20䯩N
+33°30`N
+33°10䯩N
+33°00䯩N
+130°30䯩E130°15䯩E130°00䯩E
+RJFS
+RJDM
+CHIKUGO
+CHIKUGO
+RIVER
+IMARI
+KARATSU
+TAKU
+SAGA
+TAKEO
+PRAmfMN5
+HACHIMANDAKE
+TENZAN
+KINRYUZAN
+333012N
+1295822E
+331612N
+1295952E
+331027N
+1295952E
+330717N
+1300828E
+331047N
+1301253E
+331152N
+1301421E
+331228N
+1302222E
+331301N
+1302952E
+331931N
+1301847E
+331457N
+1302222E
+331431N
+1302446E 331431N
+1302952E
+332312N
+1301847E
+332038N
+1301815E
+331648N
+1300141E
+332318N
+1295750E
+333012N
+1295952E
+333012N
+1295552E 332019N
+1300829E
+儲兠儣兄ཧ↷凛
+CHANGE : ATC(SAGA TOWER established).
+(EFF:1 JUL 2025) 15/5/25
+RJFS AD2.24-OTHER-2
+SAGA
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+(2)
+(1)
+TRAHC edutitlA gnirotceV muminiMAGAS / SFJR
+V$5Û:
+CENTER 凬
+CENTER 凬
+凬
+
+
+ 
+
+
+
+
+
+Û
+Û
+Û Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+
+
+䷶䢢
+
+
+Û
+Û
+Û
+Û Û
+
+
+
+䷸䢢
+
+
+䷷䢢
+8NM
+2NM
+Û
+Û
+Û
+
+
+10
+10
+10
+10
+10
+10
+10
+10
+
+䷺䢢 ䷹䢢
+
+
+
+)7Û )7Û
+)7Û
+)7Û
+䷵ 
+䷶ 
+䷷ 
+䷸ 
+䷹ 
+䷺ 
+䷵䢢
+)7Û
+)7Û
+)7Û
+10
+)710
+FT26NM
+)710
+10
+1010
+10
+10
+(RJFT RADAR SITE)325011N/1305203E 
+10
+10
+10
+&+$1*(/DWLWXGHDQGORQJLWXGHRI
+
+
+)6Û
+
+
+)610
+)610
+
+)6Û )6Û
+)6Û
+)7Û
+)7Û
+)6Û
+)6Û )610
+)710
+FS8NM)710
+)610
+FS8NM
+)610
+)610
+
+(1) 340934N/1311037E
+(2) 335009N/1311439E
+333504N/1302706E (RJFF ARP)
+330908N/1301817E (RJFS RADAR SITE)
+(EFF:2 OCT 2025) 2/10/25
+RJFS AD2.24-OTHER-3
+SAGA
+

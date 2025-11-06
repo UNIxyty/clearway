@@ -1,0 +1,3635 @@
+=== Page 1 ===
+AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD2-1
+AD 2 AERODROMES
+RJOB AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJOB - OKAYAMA
+RJOB AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJOB AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 344525N/1335119E
+059°/1.5km FM RWY 07 THR
+2 Direction and distance from (city) 11.5km(6.2nm) NW of Okayama Station (Japan Railway)
+3 Elevation/ Reference temperature 785ft / 32°C(2017-2022)
+4 Geoid undulation at AD ELEV 
+PSN
+117ft
+5 MAG VAR/ Annual change 8°W(2015) / 4’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Okayama Pref Public AP.
+1277 Nichiouji, Kita-ku, Okayama-shi, Okayama Pref.
+Tel : 086-294-5550 Fax : 086-294-4178
+E-mail : kukokanri@pref.okayama.lg.jp
+Web site : http://www.pref.okayama.jp/doboku/kukokanri/kukokanri.htm
+7 Types of traffic permitted (IFR/
+VFR)
+IFR/VFR
+8 Remarks Okayama airport branch
+1277 Nichiouji, Kita-ku, Okayama-shi, Okayama Pref.
+Tel : 086-294-2326 Fax : 086-294-4351
+1 AD Administration 2200 - 1300
+2 Customs and immigration Customs: 2200-1300
+Immigration: 0100 - 0930 (MON, THU, SAT)
+0000 - 0930 (TUE, WED, FRI, SUN)
+3 Health and sanitation Quarantine(human): 2330-1230
+Quarantine(animal): 2330-0800
+Quarantine(plant): INTL SKED FLT hours only
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (KANSAI)
+7 ATS 2200 - 1300
+8 Fuelling 2100 - 1100
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:12 JUN 2025) 12/6/25
+
+
+=== Page 2 ===
+RJOB AD2-2 AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD 2.4 HANDLING SERVICES AND FACILITIES
+RJOB AD 2.5 PASSENGER FACILITIES
+RJOB AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJOB AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities AVBL up to B747-400 aircraft
+2 Fuel/ oil types JET A-1
+3 Fuelling facilities/ capa city Fuel truck refueling
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Fueling spot 1, 1A, 1B, 2, 3, 5, 5B, 6, 6B, 7, 7B, 8 only
+1 Hotels Nil
+2 Restaurants At airport, not continuous
+3 Transportation Busses and Taxis
+4 Medical facilities In Okayama city
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Fire fighting truck x 3,  Pumper truck x 1, Medical truck x 1
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Antifreezing agent spr eader x 2, Motor grader x 2, Tractor shovel x 2
+2 Clearance priorities Nil
+3 Remarks Seasonal av ailability : mid DEC - mid MAR
+(EFF:11 AUG 2022) 11/8/22
+
+
+=== Page 3 ===
+AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD2-3
+RJOB AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength Spot 1-8
+Surface : Cement-concrete, Strength : PCR 1132/R/B/W/T
+Spot11-15
+Surface : Asphalt-concrete, Strength : AUW 5700kg/0.28MPa
+Spot21
+Surface : Asphalt-concrete, Strength : PCR 245/F/C/X/T
+2 Taxiway width, surface and 
+strength
+T1, T7
+Width : 26.5m, Surface : Asphalt-concrete, PCR 864/F/A/X/T
+T2, T3, T6
+Width : 30m, Surface : Asphalt-concrete, PCR 628/F/A/X/T
+T4
+Width : 30m, Surface : Asphalt-concrete,PCR 779/F/B/X/T
+T5
+Width : 30m, Surface : Asphalt-concrete,PCR 648/F/B/X/T
+P1, P2, P3
+Width : 23m, Surface : Asphalt-concrete, PCR 864/F/A/X/T
+P4, P5, P6
+Width : 23m, Surface : Asphalt-concrete, PCR 747/F/A/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+1 : 344533.14N/1335108.77E
+1A : 344532.89N/1335108.12E
+1B : 344533.56N/1335109.49E
+2 : 344534.22N/1335111.30E
+3 : 344535.54N/1335113.66E
+5 : 344536.66N/1335115.93E
+5B : 344536.45N/1335116.47E
+6 : 344537.56N/1335117.63E
+6B : 344537.89N/1335118.31E
+7 : 344538.21N/1335118.96E
+7B : 344538.56N/1335119.69E
+8 : 344538.88N/1335120.33E
+6 Remarks Nil
+(EFF:20 FEB 2025) 20/2/25
+
+
+=== Page 4 ===
+RJOB AD2-4 AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJOB AD 2.10 AERODROME OBSTACLES
+RJOB AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Use of aircraft stand ID signs, TWY 
+guide lines and Visual docking/ 
+parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:RWY07/25
+(Marking) RWY designation, RWY CL, RWY THR, Aiming point, TDZ, RWY side
+stripe
+(LGT) RCLL, REDL, RTHL, RENL, WBAR(RWY07), RTZL(RWY07)
+TWY:
+(Marking) TWY CL, TWY side stripe, RWY HLDG PSN, Mandatory instruction
+(LGT) TWY edge LGT, TWY CL LGT, RWY guard LGT(T1-T7), Taxiing guidance
+sign(T1-T7)
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT) Apron flood LGT
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office KANSAI
+2 Hours of service
+MET Office outside hours
+H24 (KANSAI)
+3
+Office responsible for TAF preparation
+Periods of validity
+KANSAI
+30 Hours
+4 Trend forecast 
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Brie fing is available upon inquiry at KANSAI
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available for 
+briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+(EFF:28 DEC 2023) 28/12/23
+
+
+=== Page 5 ===
+AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD2-5
+RJOB AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJOB AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+123 4 5 6
+07 059.23 ° 3000×45 PCR 824/F/A/X/T
+Asphalt-Concrete
+344500.07N
+1335028.89E
+117.1ft
+THR ELEV : 806ft
+TDZ : 805.9ft
+25 239.23 ° 3000×45 PCR 835/F/B/X/T
+Asphalt-Concrete
+344549.88N
+1335210.24E
+117.3ft
+THR ELEV : 804ft
+Slope of RWY Strip
+Dimensions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+See AD2.24 AD chart
+3120×300
+3120×300
+190×(MNM:160 MAX:300)*
+40×280
+*For detail, ask airport administrator
+RWY Grooving:3000×30m
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+07
+TWY:T2
+TWY:T3
+TWY:T4
+25
+TWY:T6
+TWY:T5
+TWY:T4
+3000
+2500
+2000
+1500
+3000
+2489
+2000
+1500
+3000
+2500
+2000
+1500
+3000
+2489
+2000
+1500
+3000
+2500
+2000
+1500
+3000
+2489
+2000
+1500
+3000
+3000
+Nil
+Nil
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 6 ===
+RJOB AD2-6 AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJOB AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJOB AD 2.16 HELICOPTER LANDING AREA
+RJOB AD 2.17 ATS AIRSPACE
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+07 PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/LEFT
+413m
+66ft
+900m 3000m
+30m
+Coded color
+(White/Red)
+LIH
+3000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+25 SALS
+420m
+LIH
+Green PAPI
+3.0°/LEFT
+511.6m
+74ft
+Nil 3000m
+30m
+Coded color
+(White/Red)
+LIH
+3000m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*1)
+Remarks
+10
+Overrun area edge LGT(LEN:60m Color:Red)(*1)
+CGL for RWY 25
+1 ABN/IBN location, characteristics and 
+hours of operation ABN: 344544N/1335120E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : Nil
+Anemometer : 
+RWY 07 : 45m away from RWY 07 THR, 220.5m N of RCL.
+RWY 25 : 250m inside from RWY 25 THR, 120m S of RCL.
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply / switch-
+over time
+Within  1 sec : RCLL, REDL, RTHL, RENL, WBAR, Overrun area edge LGT
+Within 15 sec : Other LGT
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+OKAYAMA 
+CTR
+Area within a radius of 5nm of OKAYAMA 
+ARP(34°45'N/133°51'E )
+3000 or 
+below
+D  OKAYAMA 
+TOWER
+En
+(EFF:23 FEB 2023) 23/2/23
+←
+
+
+=== Page 7 ===
+AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD2-7
+RJOB AD 2.18 ATS COMMUNICATION FACILITIES
+RJOB AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 34 5
+APP/ASR Kansai Approach/
+Kansai Radar
+121.2MHz(1)
+120.4MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1300 (1) Primary
+APP Service Provided by 
+Kansai APP
+DEP Kansai Departure 121.2MHz(1)
+120.4MHz
+261.2MHz
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1300
+TWR Okayama Tower 124.3MHz(1)
+126.2MHz
+2200 - 1300 (1)Primary
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(8°W/2016)
+OYE 111.0MHz H24 344501.38N
+/
+1335006.20E
+DME OYE 1008MHz
+(CH-47X)
+H24 344501.38N/
+1335006.20E
+880ft
+ILS-LOC 07 IOY 110.3MHz 2200-1300 344553.74N/
+1335218.11E
+LOC:233m(764ft) away FM 
+RWY 25 THR, 
+BRG(MAG) 067°
+ILS-GP 07 - 335.0MHz 2200-1300 344501.76N/
+1335042.01E
+GP:315m(1034ft) inside FM 
+RWY 07 THR, 126m(413ft) S
+of RCL. 
+HGT of ILS REF datum 
+16.5m(54ft)
+GP angle 3.0°
+ILS-DME 07 IOY 1001MHz
+(CH-40X)
+2200-1300 344501.70N/
+1335042.50E
+819ft DME:324m(1063ft) inside FM  
+RWY 07 THR, 133m(436ft) S 
+of RCL. 
+MSAS 1575.42MHz H24 Transmitting antennas are 
+satellite based.
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 8 ===
+RJOB AD2-8 AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+Nil
+Nil
+Nil
+Nil
+Nil
+1.Wing tip clearance at the TWY intersection (REF AD1.1.6.8)
+  Wing tip clearance at the TWY intersection between the ai rcraft holding at the stop marking on the TWY and the other
+aircraft taxiing behind it are as follows.
+  When B772 holding at the stop marking on TWY T2 or T6
+Wing Span (WS) of aircraft 
+taxiing on TWY P1-P2 or P5-P6
+WS 
+=<14.6m WS >14.6m Legend: 
+*A : wing tip clearance >= 15m  
+*B : 10.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 10.5mWing tip clearance *B *C
+REMARKS : 1. ILS - LOC beam BRG(MAG) 067 ˃
+2. HGT of ILS REF datum 16.5m(54ft)
+3. ILS - GP Angle 3.0 ˃
+ &-&7 PG *-4  %.& N	GU
+315m
+9m
+133m126m
+RWY
+3000m
+233m 25
+07
+ILS-GP ANTENNA
+ILS-DME ANTENNA
+ILS-LOC
+ANTENNA
+(EFF:23 FEB 2023) 23/2/23
+←
+
+
+=== Page 9 ===
+AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD2-9
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+10. Remarks
+RJOB AD 2.21 NOISE ABATEMENT PROCEDURES
+RJOB AD 2.22 FLIGHT PROCEDURES
+RJOB AD 2.23 ADDITIONAL INFORMATION
+Nil
+Nil
+Nil
+Nil
+Nil
+1.TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine ACFT with
+TKOF ALTN AP FILED
+07 A, B, C, D 400m 400m 400m 400m - 500m
+25 A, B, C, D - 400m - 400m - 500m
+OTHER
+07
+A, B, C, D AVBL LDG MINIMA
+25
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Kansai Approach/Radar are lost for 1 minute, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact Okayama Tower.
+2. If unable, proceed in accordanc e with Visual Flight Rules.
+3. If unable, 
+(1)When the aircraft is at or above 4,000ft,
+proceed to Kibi VOR/DME maintaining the last assigned altitude or 4,000ft whichever is higher 
+and execute instrument approach.
+(2)When the aircraft is below 4,000ft,
+a. and established on a segment of the Instrument Approach Procedure, execute that Instrument Approach.
+b. and not yet established on a segment of the Instrument Approach Procedure, climb and maintain 4,000ft and 
+proceed to Kibi VOR/DME and execute instrument approach. 
+(II) Procedures other than above will  be issued when situation required.
+Nil
+(EFF:23 FEB 2023) 23/2/23
+→
+
+
+=== Page 10 ===
+RJOB AD2-10 AIP Japan
+OKAYAMA
+Civil Aviation Bureau,Japan
+RJOB AD 2.24 CHARTS RELATED TO AN AERODROME
+Aerodrome/Heliport Chart
+Aerodrome Obstacle Chart - ICAO type A (RWY07)
+Aerodrome Obstacle Chart - ICAO type A (RWY25)
+Aerodrome Obstacle Chart - ICAO type B
+Standard Departure Chart - Instrument (KIBI)
+Standard Departure Chart - Instrument (CHIZU)
+Standard Departure Chart - Instrument (MIYAZU TRANSITION)
+Standard Departure Chart - Instrument (OLIVE-RNAV)
+Standard Departure Chart - Instrument (WASYU-RNAV)
+Instrument Approach Chart (ILS Z RWY07)
+Instrument Approach Chart (ILS Y RWY07)
+Instrument Approach Chart (LOC RWY07)
+Instrument Approach Chart (VOR RWY07)
+Instrument Approach Chart (VOR RWY25)
+Instrument Approach Chart (RNP Z RWY07 (AR))
+Instrument Approach Chart (RNP Y RWY07 (AR))
+Instrument Approach Chart (RNP Z RWY25 (AR))
+Instrument Approach Chart (RNP Y RWY25 (AR))
+Other Chart (Visual REP)
+Other Chart (LDG Chart)
+Other Chart (MVA Chart)
+(EFF:23 FEB 2023) 23/2/23
+←
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+1112
+13 14 15 21
+413m
+900m
+300m 292m
+420m
+511.6m
+RWY  07
+0.0%
+0.6%
+%0.0
+0.6%
+0.7%
+0.6%
+380mm0 2000m m 0652m0051 m0003m0052
+RWY  25806ft
+(245.640m)
+806ft
+(245.636m)
+785ft
+(239.184m)
+785ft
+(239.220m)
+794ft
+(242.150m)
+796ft
+(242.577m)
+804ft
+(245.155m)
+WDI
+WDI
+ABN
+3-P2-P1-P 123 5 6 7
+7-B
+6-B
+5-B
+8 6-P5-P4-P
+T-7
+25
+25
+6-T5-TT-4T-3T-2T-1
+07
+07
+OKAYAMA  AP   
+APRON  FLOOD  LGT  
+AD  CHART
+TRUE  NORTH
+PAPI   Angle  3.0°
+MEHT 22.5m(74ft)
+CGL PAPI   Angle  3.0Û
+MEHT 20m (66ft)
+REMARKS   :
+  STRENGTH  OF  RWY RWY25   PCR  835 / F / B / X / T
+  RWY  GROOVING                               3000m ×  30m
+  WIDTH  AND  STRENGTH  OF  TWY
+m5.621 - T       
+       T - 2, T - 3, T - 6 30m PCR  628 / F / A / X / T
+m034 - T       
+m035 - T       
+m5.627 - T       
+       P - 1, P - 2, P - 3 23m PCR  864 / F / A / X / T
+m32 4, P - 5, P - 6- P       
+  DIMENSION   AND   STRENGTH   OF   APRON
+     SPOT   1-8              399.0m × 190m PCR 1132 / R / B / W / T
+     SPOT   11-15                           65m ×  87m 
+                                                  AUW  5700kg / 0.28MPa
+     SPOT   21                        65m ×  27m PCR 245 / F / C / X / T
+RTHL
+OVERRUN  AREA  EDGE  LGT  
+TAXIING
+GUIDANCE  SIGNS  
+SALSALS
+SEQUENCED  FLASHING  LGT  
+LONGITUDINAL  PROFILE  OF  RWY 
+RJOB / OKAYAMA
+RWY GUARD LGT(T-1~T-7)
+1-B
+1-A
+RWY07   PCR  824 / F / A / X / T
+PCR  864 / F / A / X / T
+PCR  779 / F / B / X / T
+PCR  648 / F / B / X / T
+PCR  864 / F / A / X / T
+PCR  747 / F / A / X / T
+WIND SPEED METER
+WIND SPEED METER
+CEILOMETER
+RVR
+CHANGE : Description of strength of pavement/gid00015
+(EFF:20 FEB 2025) 20/2/25
+RJOB AD2.24-ADC-1
+OKAYAMA
+
+
+=== Page 12 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+䲏䢴䢶䢹䤑
+䢴䢷
+䢲䢸䢹䤑䲑
+䢲䢹
+䣃䣕䣒䣊䣃䣎䣖䢢䣅䣑䣐䣅䣔䣇䣖䣇
+䢵䢲䢲䢲䣯䣚䢶䢷䣯
+䢹䢷䢲
+䢺䢲䢲
+䢻䢲䢲
+䢳䢲䢲䢲
+䢳䢳䢲䢲
+䢻䢺䢶䢴
+䢲䲑
+䢳䢳䢲䢲䢲䢳䢴䢲䢲䢲䢳䢵䢲䢲䢲
+䣕䣎䣑䣒䣇䢢䢳䢰䢴凘
+䢹䢷䢲 䢹䢷䢲
+䢺䢲䢲 䢺䢲䢲
+䢻䢲䢲 䢻䢲䢲
+䢳䢲䢲䢲 䢳䢲䢲䢲
+䢳䢳䢲䢲 䢳䢳䢲䢲
+䢻䢺䢶䢴
+䲏䢲
+䢳䢳䢲䢲䢲 䢳䢴䢲䢲䢲 䢳䢵䢲䢲䢲 䢳䢶䢲䢲䢲 䢳䢷䢲䢲䢲 䢳䢸䢲䢲䢲 䢳䢹䢲䢲䢲 䢳䢺䢲䢲䢲 䢳䢻䢲䢲䢲 䢴䢲䢲䢲䢲 䢴䢳䢲䢲䢲 䢴䢴䢲䢲䢲 䢴䢵䢲䢲䢲 䢴䢶䢲䢲䢲 䢴䢷䢲䢲䢲 䢴䢸䢲䢲䢲 䢴䢹䢲䢲䢲 䢴䢺䢲䢲䢲 䢴䢻䢲䢲䢲 䢵䢲䢲䢲䢲 䢵䢳䢲䢲䢲 䢵䢴䢲䢲䢲
+䣕䣎䣑䣒䣇䢢䢳䢰䢴凘
+䢺䢲䢸 䢺䢲䢶
+䢳䢳䢶䢸
+䢳䢳䢶䢸
+䢺䢷䢺
+䢳䢳䢴䢻
+䢳䢳䢴䢻
+䢺䢵䢲
+䢳䢳䢴䢵
+䢳䢳䢴䢵
+䢺䢴䢵
+䢳䢳䢴䢴
+䢳䢳䢴䢴
+䢺䢴䢶
+䢳䢳䢳䢺
+䢳䢳䢳䢺
+䢺䢴䢶
+䢳䢳䢳䢸
+䢳䢳䢳䢸
+䢺䢳䢻
+䢳䢳䢲䢵
+䢳䢳䢲䢵
+䢺䢶䢵
+䢳䢲䢸䢸
+䢳䢲䢸䢸
+䢺䢵䢴
+DIMENSIONS AND ELEVATIONS IN FEET BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+MAGNETIC VARIATION 8°W - MAR 2022
+OKAYAMA AIRPORT
+RWY : 07/25
+RWY07
+3000m
+3000m
+3000m
+3000m
+TAKE OFF RUN AVAILABLE
+TAKE OFF DISTANCE AVAILABLE
+ACCELERATE STOP DISTANCE AVAILABLE
+LANDING DISTANCE AVAILABLE
+DECLARED DISTANCES
+RWY25
+3000m
+3000m
+3000m
+3000m
+AERODROME OBSTACLE CHART - ICAO
+TYPE A (OPERATING LIMITATIONS)
+CHANGE:Update.
+䢳
+LEGEND
+IDENTIFICATION NUMBER
+POLE, TOWER, SPIRE, ANTENNA, ETC
+TREE LEVEE
+RAILROAD RIVER
+TRANSMISSION LINE OR OVERHEAD CABLE
+TRIANGULATION POINT
+AERONAUTICAL GROUND LIGHT
+BUILDING OR LARGE STRUCTURE
+CONTOURS(ft)
+(EFF:28 DEC 2023) 28/12/23
+RJOB AD2.24-AOC-1
+OKAYAMA
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+䲏䢴䢶䢹䤑
+䢴䢷
+䢲䢸䢹䤑䲑
+䢲䢹
+䣃䣕䣒䣊䣃䣎䣖䢢䣅䣑䣐䣅䣔䣇䣖䣇
+䢵䢲䢲䢲䣯䣚䢶䢷䣯
+䢹䢷䢲䢹䢷䢲
+䢺䢲䢲䢺䢲䢲
+䢻䢲䢲䢻䢲䢲
+䢳䢲䢲䢲䢳䢲䢲䢲
+䢳䢳䢲䢲䢳䢳䢲䢲
+䢻䢺䢶䢴
+䢲䲑
+䢳䢳䢲䢲䢲䢳䢴䢲䢲䢲䢳䢵䢲䢲䢲䢳䢶䢲䢲䢲䢳䢷䢲䢲䢲䢳䢸䢲䢲䢲䢳䢹䢲䢲䢲䢳䢺䢲䢲䢲䢳䢻䢲䢲䢲䢴䢲䢲䢲䢲䢴䢳䢲䢲䢲䢴䢴䢲䢲䢲䢴䢵䢲䢲䢲䢴䢶䢲䢲䢲䢴䢷䢲䢲䢲䢴䢸䢲䢲䢲䢴䢹䢲䢲䢲䢴䢺䢲䢲䢲䢴䢻䢲䢲䢲䢵䢲䢲䢲䢲䢵䢳䢲䢲䢲䢵䢴䢲䢲䢲
+䣕䣎䣑䣒䣇䢢䢳䢰䢴凘
+䢹䢷䢲
+䢺䢲䢲
+䢻䢲䢲
+䢳䢲䢲䢲
+䢳䢳䢲䢲
+䢻䢺䢶䢴
+䲏䢲
+䢳䢳䢲䢲䢲 䢳䢴䢲䢲䢲 䢳䢵䢲䢲䢲 䢳䢶䢲䢲䢲
+䣕䣎䣑䣒䣇䢢䢳䢰䢴凘
+䢺䢲䢸 䢺䢲䢶
+䢳䢴䢻䢲
+䢳䢴䢻䢲
+䢻䢹䢹
+䢴䢺䢹
+䢴䢺䢹
+䢻䢻䢻
+䢴䢺䢺
+䢴䢺䢺
+䢳䢲䢵䢲
+䢳䢳䢶䢸
+䢳䢳䢶䢸
+䢺䢷䢺
+䢳䢳䢴䢻
+䢳䢳䢴䢻
+䢺䢵䢲
+䢳䢳䢴䢵
+䢳䢳䢴䢵
+䢺䢴䢵
+䢳䢳䢴䢴
+䢳䢳䢴䢴
+䢺䢴䢶
+䢳䢳䢳䢺
+䢳䢳䢳䢺
+䢺䢴䢶
+䢳䢳䢳䢸
+䢳䢳䢳䢸
+䢺䢳䢻
+䢳䢳䢲䢵
+䢳䢳䢲䢵
+䢺䢶䢵
+䢳䢲䢸䢸
+䢳䢲䢸䢸
+䢺䢵䢴
+DIMENSIONS AND ELEVATIONS IN FEET BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+MAGNETIC VARIATION 8°W - MAR 2022
+OKAYAMA AIRPORT
+RWY : 07/25
+RWY07
+3000m
+3000m
+3000m
+3000m
+TAKE OFF RUN AVAILABLE
+TAKE OFF DISTANCE AVAILABLE
+ACCELERATE STOP DISTANCE AVAILABLE
+LANDING DISTANCE AVAILABLE
+DECLARED DISTANCES
+RWY25
+3000m
+3000m
+3000m
+3000m
+AERODROME OBSTACLE CHART - ICAO
+TYPE A (OPERATING LIMITATIONS)
+CHANGE:Update.
+䢳
+LEGEND
+IDENTIFICATION NUMBER
+POLE, TOWER, SPIRE, ANTENNA, ETC
+TREE LEVEE
+RAILROAD RIVER
+TRANSMISSION LINE OR OVERHEAD CABLE
+TRIANGULATION POINT
+AERONAUTICAL GROUND LIGHT
+BUILDING OR LARGE STRUCTURE
+CONTOURS(ft)
+(EFF:28 DEC 2023) 28/12/23
+RJOB AD2.24-AOC-2
+OKAYAMA
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+䢷䢲䢲
+䢴䢲䢲
+䢷䢲䢲
+䢵䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢺䢲䢲
+䢹䢲䢲
+䢸䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢹䢲䢲
+䢺䢲䢲
+䢵䢲䢲
+䢸䢲䢲
+䢹䢲䢲
+䢹䢲䢲
+䢶䢲䢲
+䢺䢲䢲
+䢹䢲䢲
+䢷䢲䢲
+䢸䢲䢲
+䢸䢲䢲
+䢷䢲䢲
+䢺䢲䢲
+䢹䢲䢲
+䢸䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢹䢲䢲
+䢹䢲䢲
+䢹䢲䢲
+䢷䢲䢲
+䢶䢲䢲
+䢺䢲䢲 䢷䢲䢲
+䢸䢲䢲
+䢺䢲䢲
+䢺䢲䢲
+䢸䢲䢲 䢺䢲䢲
+䢵䢲䢲
+䢹䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢷䢲䢲
+䢴䢲䢲
+䢶䢲䢲
+䢷䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢸䢲䢲
+䢸䢲䢲
+䢹䢲䢲
+䢶䢲䢲
+䢷䢲䢲
+䢷䢲䢲
+䢹䢲䢲
+䢵䢲䢲
+䢷䢲䢲
+䢴䢲䢲
+䢵䢲䢲
+䢷䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢶䢲䢲
+䢶䢲䢲
+䢸䢲䢲
+䢹䢲䢲
+䢴䢲䢲
+䢳䢲䢲
+䢷䢲䢲
+䢴䢲䢲
+䢴䢲䢲
+䢵䢲䢲
+䢺䢲䢲
+䢶䢲䢲
+䢷䢲䢲
+䢴䢲䢲
+䢴䢲䢲
+䢺䢲䢲
+䢹䢲䢲
+䢻䢲䢲
+䢷䢲䢲
+䢸䢲䢲
+䢴䢲䢲
+䢸䢲䢲
+䢷䢲䢲
+䢶䢲䢲
+䢳䢲䢲
+䢶䢲䢲
+䢵䢲䢲
+䢸䢲䢲
+䢺䢲䢲
+䢴䢲䢲
+䢸䢲䢲
+䢵䢲䢲
+䢹䢲䢲
+䢸䢲䢲
+䢷䢲䢲
+䢳䢲䢲
+䢵䢲䢲
+䢴䢲䢲
+䢸䢲䢲
+䢷䢲䢲
+䢶䢲䢲
+䢶䢲䢲
+䢴䢲䢲
+䢵䢲䢲
+䢴䢲䢲
+䢹䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢸䢲䢲
+䢷䢲䢲
+䢷䢲䢲
+䢷䢲䢲
+䢵䢲䢲
+䢹䢲䢲
+䢵䢲䢲
+䢷䢲䢲
+䢴䢲䢲
+䢶䢲䢲
+䢵䢲䢲
+䢶䢲䢲
+䢵䢲䢲
+䢴䢲䢲
+䢸䢲䢲
+䢷䢲䢲
+䢵䢲䢲
+䢶䢲䢲
+䢵䢲䢲
+䢷䢲䢲
+䢵䢲䢲
+䢶䢲䢲
+䢵䢲䢲
+䢵䢲䢲
+䢵䢲䢲
+䢷䢲䢲
+䢳䢲䢲
+䢶䢲䢲
+䢵䢲䢲
+䢹䢲䢲
+䢷䢲䢲
+䢷䢲䢲
+䢷䢲䢲
+䢶䢲䢲
+䢷䢲䢲
+䢶䢲䢲
+䢵䢲䢲
+䢸䢲䢲
+䢹䢲䢲
+䢺䢲䢲
+䢸䢲䢲
+䢶䢲䢲
+䢶䢲䢲
+䢺䢲䢲
+䢹䢲䢲
+䣖䣕䣗䣛䣃䣏䣃䢢䣎䣋䣐䣇
+䣐䣃䣖䣋䣑䣐䣃䣎䢢䣔䣑䣗䣖䣇䢢䢷䢵
+䣐䣃䣖䣋䣑䣐䣃䣎䢢䣔䣑䣗䣖䣇䢢䢷䢵
+䣃䣕䣊䣋䣏䣑䣔䣋䢢䣔䣋䣘䣇䣔
+䣃䣕䣊䣋䣏䣑䣔䣋䢢䣔䣋䣘䣇䣔
+䣃䣕䣃䣊䣋䢢䣔䣋䣘䣇䣔
+䣗䣍䣃䣋䢢䣔䣋䣘䣇䣔
+䣗䣍䣃䣋䢢䣔䣋䣘䣇䣔
+䣊䣋䣌䣋䣍䣃䣋䢢䣔䣋䣘䣇䣔
+䣕䣗䣉䣋䣖䣃䣐䣋䢢䣔䣋䣘䣇䣔
+䣛䣑䣕䣊䣋䣏䣗䣔䣃䢢䣔䣋䣘䣇䣔
+䣕䣗䣐䣃䣉䣃䣙䣃䢢䣔䣋䣘䣇䣔
+䣛䣑䣍䣑䣑䢢䣔䣋䣘䣇䣔
+䣃䣄䣇䣍䣗䣔䣃䢢䣔䣋䣘䣇䣔
+䣏䣃䣐䣃䣄䣑䣕䣊䣋䢢䣔䣋䣘䣇䣔
+䣋䣕䣊䣋䣜䣗䣏䣃䢢䣔䣋䣘䣇䣔
+䣛䣃䣏䣃䣐䣑䣗䣇䢢䣔䣋䣘䣇䣔
+䣑䣑䣖䣃䣐䣋䢢䣔䣋䣘䣇䣔
+䣏䣋䣖䣃䣐䣋䢢䣔䣋䣘䣇䣔
+䣕䣗䣉䣃䣐䣑䢢䣔䣋䣘䣇䣔
+䣍䣃䣔䣃䣍䣑䣗䢢䣔䣋䣘䣇䣔
+䣛䣑䣕䣊䣋䣏䣗䣐䣇䢢䣔䣋䣘䣇䣔
+䣕䣃䣕䣃䣉䣃䣕䣇䢢䣔䣋䣘䣇䣔
+䣖䣃䣄䣃䣔䣃䢢䣔䣋䣘䣇䣔
+䣈䣗䣔䣗䣍䣃䣙䣃䢢䣔䣋䣘䣇䣔
+䣑䣍䣃䣛䣃䣏䣃䢢䣅䣋䣖䣛
+䣕䣑䣗䣌䣃䢢䣅䣋䣖䣛
+䲏䢴䢶䢹䤑
+䢴䢷
+䢲䢸䢹䤑䲑
+䢲䢹
+䣃䣕䣒䣊䣃䣎䣖䢢䣅䣑䣐䣅䣔䣇䣖䣇
+䢵䢲䢲䢲䣯䣚䢶䢷䣯
+䣊䣑䣔䣋䣜䣑䣐䣖䣃䣎䢢䣕䣗䣔䣈䣃䣅䣇
+䢺䢶䢶
+䢺䢺䢲
+䢺䢵䢴
+䢺䢷䢻
+䢺䢶䢵
+䢺䢵䢸
+䢺䢴䢶
+䢺䢷䢲
+䢺䢴䢶
+䢺䢴䢵
+䢺䢷䢴
+䢺䢵䢲
+䢺䢳䢹
+䢻䢵䢵
+䢳䢲䢴䢺 䢳䢳䢵䢺
+䢳䢳䢴䢸
+䢳䢲䢲䢺
+䢳䢴䢷䢷
+䢳䢳䢴䢶
+䢳䢲䢴䢵
+䢳䢲䢲䢵
+䢻䢻䢵
+䢻䢻䢹
+䢻䢹䢺
+䢳䢲䢲䢳
+䢳䢲䢷䢲䢳䢲䢸䢷
+䢳䢲䢴䢸
+䢻䢷䢷
+䢻䢺䢺
+䢳䢵䢷䢳
+䢺䢷䢹
+䢻䢶䢷
+䢻䢶䢳
+䢻䢵䢸
+䢻䢵䢻
+䢻䢶䢵
+䢻䢶䢴
+䢻䢶䢶
+䢻䢻䢵
+䢳䢲䢲䢶
+䢳䢲䢷䢹
+䢳䢴䢵䢺
+䢳䢳䢺䢸䢳䢳䢹䢵
+䢳䢲䢴䢻
+䢳䢲䢺䢳
+䢳䢳䢶䢹
+䢳䢳䢹䢻 䢳䢳䢹䢹
+䢳䢴䢸䢹䢳䢳䢸䢸
+䢳䢳䢸䢴
+䢳䢳䢴䢻
+䢳䢲䢺䢵
+䢳䢳䢶䢹
+䢳䢴䢺䢶
+䢳䢴䢲䢹
+䢳䢴䢲䢴
+䢳䢴䢶䢲
+䢳䢳䢸䢸
+䢳䢲䢹䢸
+䢳䢳䢳䢻
+䢳䢳䢻䢴
+䢳䢳䢴䢹
+䢳䢳䢶䢸
+䢳䢲䢳䢻
+䢳䢲䢴䢵
+䢳䢳䢷䢶
+䢳䢵䢳䢵
+䢳䢳䢹䢹
+䢳䢳䢶䢷
+䢳䢲䢻䢻
+䢻䢺䢵
+䢻䢺䢷
+䢳䢵䢺䢻
+䢳䢵䢷䢶
+䢳䢳䢻䢹
+䢳䢴䢶䢶
+䢳䢵䢷䢻
+䢳䢴䢲䢳
+䢳䢴䢵䢲
+䢻䢸䢹
+䢻䢷䢷
+䢻䢷䢵
+䢻䢹䢴
+䢳䢲䢳䢲
+䢳䢲䢳䢵
+䢻䢷䢳
+䢳䢳䢳䢴
+䢳䢲䢴䢸
+䢳䢲䢳䢶
+䢳䢲䢶䢵
+䢳䢲䢵䢹
+䢳䢳䢶䢶
+䢳䢲䢸䢸
+䢳䢲䢴䢳
+䢻䢸䢴
+䢻䢻䢸
+䢳䢲䢵䢲
+䢻䢻䢻
+䢻䢶䢸
+䢻䢻䢴
+䢳䢲䢻䢹
+䢻䢹䢺
+䢻䢹䢸
+䢻䢷䢶
+䢻䢶䢺
+䢻䢶䢷
+䢻䢶䢷
+䢻䢶䢻
+䢻䢷䢶
+䢻䢵䢻
+䢻䢷䢴
+䢻䢶䢸
+䢻䢸䢳
+䢻䢶䢺
+䢻䢷䢹
+䢻䢷䢲
+䢻䢶䢳
+䢻䢶䢺
+䢻䢷䢲
+䢻䢸䢶
+䢻䢵䢹
+䢻䢷䢵
+䢻䢸䢵
+䢻䢷䢻
+䢻䢹䢷
+䢳䢲䢹䢲
+䢳䢳䢴䢹
+䢳䢵䢹䢷
+䢳䢴䢴䢻
+䢳䢳䢻䢻
+䢳䢴䢴䢳
+䢳䢵䢹䢲
+䢻䢸䢹
+䢳䢴䢳䢺
+䢳䢳䢻䢹
+䢳䢳䢲䢲
+䢳䢵䢵䢲
+䢳䢴䢲䢺
+䢳䢶䢻䢲
+䢳䢳䢶䢻䢳䢴䢴䢺䢳䢵䢶䢶
+䢳䢲䢸䢹
+䢳䢶䢵䢶
+䢳䢳䢷䢻
+䢳䢳䢴䢹
+䢳䢶䢺䢺
+䢳䢵䢵䢻
+䢳䢵䢳䢲䢳䢳䢳䢳
+䢳䢳䢶䢺
+䢳䢳䢺䢷
+䢳䢳䢹䢺
+䢳䢳䢳䢴
+䢳䢵䢷䢶
+䢳䢴䢸䢵
+䢳䢳䢳䢶
+䢳䢴䢶䢺
+䢳䢲䢵䢷
+䢳䢲䢹䢸
+䢳䢵䢴䢲
+䢳䢷䢵䢴
+䢳䢲䢹䢺
+䢳䢲䢺䢹
+䢻䢻䢻
+䢻䢻䢲
+䢳䢲䢲䢻
+䢳䢲䢵䢺
+䢳䢴䢳䢶
+䢻䢻䢸
+䢳䢳䢴䢳
+䢻䢺䢺
+䢻䢻䢷
+䢻䢸䢷
+䢻䢻䢵
+䢻䢶䢸
+䢳䢲䢲䢴
+䢳䢳䢸䢵
+䢻䢶䢲
+䢻䢶䢻
+䢻䢶䢹
+䢻䢸䢲
+䢻䢷䢶
+䢳䢲䢶䢳
+䢻䢹䢵
+䢻䢷䢲
+䢻䢶䢷
+䢻䢸䢸
+䢻䢸䢷
+䢻䢹䢶
+䢻䢸䢶
+䢻䢹䢸
+䢻䢷䢷
+䢻䢶䢷 䢻䢸䢳
+䢳䢲䢷䢶
+䢻䢷䢲
+䢻䢵䢺
+䢻䢶䢵
+䢻䢶䢻
+䢻䢶䢻
+䢻䢸䢷
+䢻䢷䢻
+䢻䢶䢻
+䢻䢶䢵
+䢻䢶䢹
+䢻䢵䢻
+䢻䢶䢲
+䢻䢸䢴
+䢻䢶䢲
+䢻䢶䢴
+䢻䢷䢵
+䢻䢶䢲
+䢻䢶䢳
+䢳䢳䢵䢲
+䢳䢲䢵䢻
+䢺䢳䢸
+䢺䢳䢻
+䢺䢴䢶
+䢺䢴䢸
+䢺䢵䢴
+䢺䢵䢷
+DIMENSIONS AND ELEVATIONS IN FEET BEARINGS ARE MAGNETIC
+Transverse Mercator Projection
+AERODROME OBSTACLE CHART-ICAO
+TYPE B
+AERODROME ELEVATION 785ft ARP
+LEGEND
+AERODROME REFERENCE POINT
+34°45'25"N 133°51'19"E
+POLE, TOWER, SPIRE, ANTENNA, ETC
+AERONAUTICAL GROUND LIGHT
+OBSTRUCTION LIGHT
+BUILDING OR LARGE STRUCTURE
+RAILROAD
+Nr DATE
+AMENDMENT RECORD
+ENTERED BY
+TRIANGULATION POINT
+TRANSMISSION LINE OR OVERHEAD CABLE
+LEVEE
+TREE
+LAKE
+RIVER
+CONTOURS(ft)
+CHANGE:Update.
+ARP
+(EFF:28 DEC 2023)
+28/12/23
+RJOB AD2.24-AOC-3
+OKAYAMA
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJOB / OKAYAMA SID
+KIBI REVERSAL SIX DEPARTURE
+CH-47X
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+900FT
+5000
+1400
+1400
+D6.0 OYE
+D9.0 OYE
+226˚
+071˚
+RWY 07 :  Climb RWY HDG to 1400FT, via OYE R071 to 9.0DME, turn right,...
+RWY 25 :  Climb RWY HDG to 1400FT, turn left, via OYE R226 to 6.0DME, turn left,...
+...direct to OYE VOR/DME.
+   Cross OYE VOR/DME at or above 5000FT.
+Note RWY07 : 5.3% climb gradient required up to 1400FT. 
+OBST ALT 1083FT located at 1.0NM 047˚ FM end of RWY07.
+         RWY25 : 4.0% climb gradient required up to 1400FT.
+OBST ALT 1017FT located at 1.1NM 228˚ FM end of RWY25.
+CHANGE : Description of PROC name.
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-SID-1
+OKAYAMA
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJOB / OKAYAMA SID
+CHIZU TWO DEPARTURE
+CH-47X
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+900FT
+5000
+11000
+1400
+1400
+D6.0 OYE
+CHIZU
+D37.1 OYE
+D20.0 OYE
+226˚
+071˚
+RWY 07 :  Climb RWY HDG to 1400FT, via OYE R071 to CHIZU.
+ Cross OYE R071/20.0DME at or above 11000FT.
+RWY 25 :  Climb RWY HDG to 1400FT, turn left, via OYE R226 to 6.0DME, turn left,
+ direct to OYE VOR/DME, via OYE R071 to CHIZU.
+ Cross OYE VOR/DME at or above 5000FT.
+ Cross OYE R071/20.0DME at or above 11000FT.
+Note RWY07 : 5.3% climb gradient required up to 1400FT. 
+OBST ALT 1083FT located at 1.0NM 047˚ FM end of RWY07.
+         RWY25 : 4.0% climb gradient required up to 1400FT.
+OBST ALT 1017FT located at 1.1NM 228˚ FM end of RWY25.
+CHANGE : Description of PROC name.
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-SID-2
+OKAYAMA
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+NOITISNARTAMAYAKO / BOJR
+MIYAZU TRANSITION
+CHIZU
+D41.1 YME
+From over CHIZU, via YME R236 to YME VOR/DME.
+Cross YME R236/10.0DME at assigned altitude.
+assigned ALT
+056˚
+D10.0 YME
+VOR/DME
+MIYAZU
+112.6    YME
+CH-73X            
+2400FT
+ÛÝ1ÛÝ(
+CHANGE : Description of PROC name.
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-SID-3
+OKAYAMA
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RNP1
+Note GNSS required.
+NOITISNART dna DIS VANRAMAYAKO / BOJR
+OLIVE THREE DEPARTURE
+SANDA TRANSITION 
+HYOGO
+345130.6N
+1345944.0E
+SANDA
+345550.2N
+1352143.9E
+27.6
+085˚
+18.6
+084˚067˚
+1400
+247˚
+1400
+OLIVE
+344517.7N
+1342700.2E
+OB700
+344734.2N
+1335542.5E
+OLIVE THREE DEPARTURE
+ 
+SANDA TRANSITION
+CH-47X
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+900FT
+Note RWY07 : 5.4% climb gradient required up to 1400FT. 
+RWY25 : 4.0% climb gradient required up to 1600FT.
+OBST ALT 1922FT located at 5.0NM 104˚ FM end of RWY25.
+From OLIVE, to HYOGO, to SANDA.
+SANDA TRANSITION
+OLIVE THREE DEPARTURE
+RWY07 : Climb on HDG067˚ at or above 1400FT, direct to OB700, to OLIVE.
+RWY25 : Climb on HDG247˚ at or above 1400FT, turn left direct to OLIVE.
+VAR 8˚W 
+25.8
+103˚
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOB AD2.24-SID-4
+OKAYAMA
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+OKAYAMA
+STANDARD DEPARTURE CHART - INSTRUMENT
+RWY07
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 067
+(059.1) -8.1 - - +1400 - - RNP1
+002 DF OB700 - - -8.1 - - - - - RNP1
+003 TF OLIVE - 103
+(094.9) -8.1 25.8 - - - - RNP1
+RWY25
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 247
+(239.1) -8.1 - - +1400 - - RNP1
+002 DF OLIVE - - -8.1 - L - - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF OLIVE - - -8.1 - - - - - RNP1
+002 TF HYOGO - 085
+(076.8) -8.1 27.6 - - - - RNP1
+003 TF SANDA - 084
+(076.4) -8.1 18.6 - - - - RNP1
+RJOB / OKAYAMA RNAV SID and TRANSITION
+OLIVE THREE DEPARTURE
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+SANDA TRANSITION
+RJOB AD2.24-SID-5
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RNP1
+Note GNSS required.
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+Course
+˚M(˚T)
+Tur n
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNP1凟
+凟
+凟䢢
+凟
+凟
+凟䢢
++1400
++7000
+凟䢢
+凟
+R
+凟䢢
+凟䢢
+凟䢢
+12.3
+-8.1
+-8.1
+-8.1
+001
+002
+003
+凟
+凟
+凟䢢
+凟
+DANGO
+WASYU
+凟
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(059.1)
+(248.3)
+067
+256
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+Course
+˚M(˚T)
+Tur n
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+凟
+凟
+凟䢢
+凟
+凟
+凟䢢
++1400
++7000
+凟䢢
+凟
+L
+凟䢢
+凟䢢
+凟䢢
+12.3
+-8.1
+-8.1
+-8.1
+001
+002
+003
+凟
+凟
+凟䢢
+凟
+DANGO
+WASYU
+凟
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(239.1)
+(248.3)
+247
+256
+DIS VANRAMAYAKO / BOJR
+WASYU TWO DEPARTURE
+12.3
+256˚
+067˚
+247˚
+DANGO
+343251.6N
+1333654.4E
+WASYU
+342817.5N
+1332301.1E
+CH-47X
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+900FT
+Note RWY07 : 5.4% climb gradient required up to 2300FT. 
+OBST ALT 1922FT located at 3.8NM 118˚ FM end of RWY07.
+RWY25 : 4.0% climb gradient required up to 1400FT.
+OBST ALT 1018FT located at 1.1NM 227˚ FM end of RWY25.
+RWY07
+RWY25
+RWY07 : Climb on HDG067˚ at or above 1400FT, turn right direct to DANGO
+at or above 7000FT, to WASYU.
+RWY25 : Climb on HDG247˚ at or above 1400FT, turn left direct to DANGO
+at or above 7000FT, to WASYU.
+VAR 8˚W 
+7000
+1400
+1400
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+(EFF:21 MAR 2024) 22/2/24
+RJOB AD2.24-SID-6
+OKAYAMA
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180
+°
+090°
+360
+°
+4000
+2500
+GP 3.0˚2800
+1307
+Turn initiation within D8.0 OYE
+MAX turning speed 200KIAS
+URAJA(FAF) : 344223.72N/1334511.28E
+Turn initiation within D8.0 OYE
+1684
+1250
+1368
+1048
+CH-47X
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+1546
+1641
+1996
+1798
+2291
+1398
+1574
+1670
+1759
+1394
+1455
+951OYE R067
+1938
+1600
+HDG067˚
+URAJA
+(FAF)
+D5.2 IOY
+D5.0 OYE
+1099
+2009
+1921
+2376
+OYE
+URAJA
+(FAF)
+268˚
+268˚
+268˚
+088˚
+067˚
+067˚
+RJOB / OKAYAMA
+KANSAI   APP
+121.2 - 120.4 - 261.2
+OKAYAMA   TOWER
+124.3 - 126.2
+RADAR  AVBL
+      ILS - LOC
+110.3   IOY
+ILS - GP  335.0
+ILS - DME    CH-40X
+ILS Z RWY07
+  MISSED APPROACH
+Climb on HDG067˚ to 1600FT,
+via OYE R067 to 5.0DME,
+turn left, direct to OYE VOR/DME 
+and hold at 4000FT.
+Contact KANSAI APP.
+090˚ 270˚
+360˚
+MSA 25NM
+5100
+38003700
+OYE
+EQPT REQUIRED
+DME
+VOR
+DME to IOY2.02.5
+NM to THR01.5
+RDH54
+MHA 4000
+MAX 230KIAS
+OYE
+VOR/DME
+067˚
+067˚
+067˚
+10NM
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+1006 (200) 550
+RVR/
+CMV
+1510 (725)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+THR elev. 806 AD elev. 785
+A
+B
+C
+D
+Circling to SOUTH side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+VAR 8˚W 
+CHANGE : Description of VAR.
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-1
+OKAYAMA
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+090°
+360
+°
+ILS - DME    CH-40X
+3200
+GP 3.0˚
+3200
+1307
+1684
+1250
+1368
+1048
+CH-47X
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+1546
+1641
+1996
+2009 1398
+1670
+1394
+1455
+951OYE R067
+19381600
+HDG067˚
+SARUU
+OB791
+(IF)
+ASIMO
+(FAF)
+D7.4 IOY
+ASIMO
+(FAF)
+ASIMO (FAF) : 1(
+OB791
+(IF)
+INOOK
+(IAF)
+INOOK
+(IAF)
+D18.5 OYE
+1
+(
+1
+(
+1
+(
+5000
+D5.0 OYE
+1099
+1921
+OYE
+268˚
+088˚
+067˚
+067˚
+RJOB / OKAYAMA
+KANSAI   APP
+121.2 - 120.4 - 261.2
+OKAYAMA   TOWER
+124.3 - 126.2
+RADAR  AVBL
+      ILS - LOC
+110.3   IOY
+ILS - GP  335.0
+ILS Y RWY07
+      MISSED APPROACH
+Climb on HDG067˚ to 1600FT,
+via OYE R067 to 5.0DME,
+turn left, direct to OYE VOR/DME 
+and hold at 4000FT.
+Contact KANSAI APP.
+090˚ 270˚
+360˚
+MSA 25NM
+5100
+38003700
+OYE
+EQPT REQUIRED
+DME
+VOR
+DME to IOY7.4 2 .04.01
+NM to THR7.2 02.01
+RDH54
+MHA 4000
+MAX 230KIAS
+NOTE: For Initial approach segment
+(1) RNP1.
+(2) GNSS required.
+OYE
+VOR/DME
+223˚043˚
+R223
+MHA 5000
+MAX 220KIAS
+OYE
+VOR/DME
+067˚
+067˚
+10NM
+3200
+067˚
+037˚4.5
+(029.0˚T)
+007˚(359.1˚T)/6.0
+D24.0 OYE
+D10.4 IOY
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+1006 (200) 550
+RVR/
+CMV
+1510 (725)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+THR elev. 806 AD elev. 785
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to SOUTH side of RWY only.
+Missed APCH climb gradient MNM 5.0%
+VAR 8˚W 
+CHANGE : Navigation Specification(Basic RNP1 ˠ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOB AD2.24-IAC-2
+OKAYAMA
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180
+°
+090°
+360
+°
+URAJA
+(FAF)
+D5.2 IOY
+URAJA
+(FAF)
+268˚
+067˚
+067˚
+ILS - DME    CH-40X
+4000
+2472
+19563.0˚2800
+1307
+Turn initiation within D8.0 OYE
+MAX turning speed 200KIAS
+Timing not authorized for defining the MAPt.
+URAJA(FAF): 344223.72N/1334511.28E
+Turn initiation within D8.0 OYE
+1684
+1250
+1368
+1048
+CH-47X
+ÛÝ1ÛÝ(
+VOR/DME
+KIBI
+111.0    OYE
+1546
+1641
+1996
+1798
+2291
+1398
+1574
+1670
+1759
+1394
+1455
+MAPt
+D0.6 IOY 951OYE R067
+1938
+1600
+HDG067˚
+D5.0 OYE
+1099
+2009
+1921
+2376
+OYE
+2100
+(1315) 1550
+(765) MDA
+MAPt
+SDF
+VDP
+268˚
+268˚
+088˚
+067˚
+RJOB / OKAYAMA
+KANSAI   APP
+121.2 - 120.4 - 261.2
+OKAYAMA   TOWER
+124.3 - 126.2
+RADAR  AVBL110.3   IOY
+ ILS - LOC
+LOC RWY07
+  MISSED APPROACH
+Climb on HDG067˚ to 1600FT,
+via OYE R067 to 5.0DME,
+turn left, direct to OYE VOR/DME 
+and hold at 4000FT.
+Contact KANSAI APP.
+090˚ 270˚
+360˚
+MSA 25NM
+5100
+38003700
+OYE
+EQPT REQUIRED
+DME
+VOR
+DME to IOY5.2
+5.1
+0.6 0.2
+NM to THR0.5
+3.6
+3.5
+1.4
+1.3 0
+MHA 4000
+MAX 230KIAS
+OYE
+VOR/DME
+067˚
+067˚
+10NM
+NM to IOY
+ALT (3.0˚ APCH Path)
+FAF
+2472
+5
+2392
+4
+2073
+3
+1755
+2
+1436
+MAPt
+–
+MINIMA 
+1240 (455) 1510 (725)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 806 AD elev. 785
+CAT
+A
+B
+C
+D
+Circling to SOUTH side of RWY only.
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+VAR 8˚W 
+CHANGE : Description of VAR.
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-3
+OKAYAMA
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180
+°
+090°
+360
+°
+4000
+2523
+18863.0˚2700
+1307
+Turn initiation within D8.0 OYE
+MAX turning speed 200KIAS
+Timing not authorized for defining the MAPt.
+AKAOH (FAF): 344141.03N/1334534.95E
+Turn initiation within D8.0 OYE
+1684
+1250
+1368
+1048
+CH-47X
+ÛÝ1ÛÝ(
+KIBI  VOR/DME
+111.0     OYE
+1546
+1641
+1996
+1798
+2291
+1398
+1574
+1670
+1759
+1394
+1455
+MAPt
+OYE
+MAPt
+VDPSDF
+AKAOH
+(FAF)
+AKAOH
+(FAF)
+951
+1938
+D5.0 OYE
+D5.0 OYE
+10992009
+1921
+2376
+OYE
+1900
+(1115) 1460
+(675) MDA
+258˚
+258˚
+268˚
+088˚
+056˚
+056˚
+RJOB / OKAYAMA
+KANSAI   APP
+121.2 - 120.4 - 261.2
+OKAYAMA   TOWER
+124.3 - 126.2
+RADAR  AVBL
+VOR RWY07
+  MISSED APPROACH
+Climb via OYE R056 to 5.0DME,
+turn left, direct to OYE VOR/DME 
+and hold at 4000FT.
+Contact KANSAI APP.
+090˚ 270˚
+360˚
+MSA 25NM
+5100
+38003700
+OYE
+EQPT REQUIRED
+DME
+DME to OYE
+NM to THR
+4.10.5 3.0 0
+6.12.5 3.2 0.2 0
+MHA 4000
+MAX 230KIAS
+OYE
+VOR/DME
+056˚
+056˚
+056˚
+NM to OYE
+ALT (3.0˚ APCH Path)
+FAF
+2523
+4
+2205
+3
+1886
+2
+1568
+MAPt
+–
+10NM
+MINIMA 
+1350 (565) 1510 (725)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 806 AD elev. 785
+CAT
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Circling to SOUTH side of RWY only.
+Missed APCH climb gradient MNM 3.0%
+VAR 8˚W 
+CHANGE : Description of VAR.
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-4
+OKAYAMA
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+270°
+180
+°
+090°
+360
+°
+4000
+2445
+3.0˚
+3000
+1307
+Turn initiation within D11.0 OYE
+MAX turning speed 200KIAS
+Timing not authorized for defining the MAPt.
+AONII (FAF): 344801.16N/1335737.92E
+Turn initiation within D11.0 OYE
+1250
+1368
+1048
+CH-47X
+ÛÝ1ÛÝ(
+KIBI  VOR/DME
+111.0     OYE
+1546
+1641
+1996
+1798
+2291
+1398
+1574
+1670
+1759
+1394
+1455
+MAPt
+D1.9 OYE
+OYE
+MAPt VDP
+AONII
+(FAF)
+AONII
+(FAF)
+951
+1938
+D5.0 OYE
+D6.9 OYE
+1099
+2009
+1921
+2376
+OYE
+2100
+(1315)MDA
+055˚
+055˚
+235˚
+RJOB / OKAYAMA
+KANSAI   APP
+121.2 - 120.4 - 261.2
+OKAYAMA   TOWER
+124.3 - 126.2
+RADAR  AVBL
+VOR RWY25
+  MISSED APPROACH
+Climb via OYE R252 to 5.0DME,
+turn right, direct to OYE VOR/DME 
+and hold at 4000FT.
+Contact KANSAI APP.
+090˚ 270˚
+360˚
+MSA 25NM
+5100
+38003700
+OYE
+EQPT REQUIRED
+DME
+DME to OYE
+NM to THR
+6.91.9 4.4
+5.02.50
+MHA 4000
+MAX 210KIAS
+OYE
+VOR/DME
+252˚
+252˚
+NM to OYE
+ALT (3.0˚ APCH Path)
+FAF
+2445
+5
+1846
+6
+2164
+MAPt
+–
+252˚
+055˚
+252˚
+252˚
+10NM
+MINIMA 
+1620 (835) 1620 (835)
+1500
+1800
+1600
+2400
+32002000
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 804 AD elev. 785
+CAT
+A
+B
+C
+D
+Circling to SOUTH side of RWY only.
+VAR 8˚W 
+CHANGE : Description of VAR.
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-5
+OKAYAMA
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1001
+1591
+1047 1119
+1116
+1247
+1426
+1546
+942
+1641
+1070
+1670
+1317
+1639 1025
+1303
+1369
+981
+1703
+936
+1503
+1053
+1378
+10NM
+4000
+ 14.0
+239°
+6.3
+3.8
+3500
+067°䢱2.0
+ 10.2
+088°
+  6.3
+067°
+  3.7
+239°
+OB752
+OB760
+(MATF)
+OB751
+ (FAF)
+RW07
+OB750
+MAX 185KIAS
+INARI
+(IF)
+BENES
+(IAF/MAHF)
+䢳䢵䢶䤑䢳䢲䢩䣇䢳䢵䢶䤑䢲䢩䣇䢳䢵䢵䤑䢷䢲䢩䣇
+䢵䢶䤑䢷䢲䢩䣐
+䢵䢶䤑䢶䢲䢩䣐
+Contour
+Intervals
+AD elev.785
+2800
+2300
+1800
+1300
+OB751(FAF) :  343843.33N/1334816.50E
+KANSAI   APP
+121.2 - 120.4 - 261.2
+RNP  AR
+RF  required.
+OKAYAMA   TOWER
+124.3 - 126.2 RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP Z RWY07(AR)RJOB / OKAYAMACHANGE : Description of VAR.
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360°
+270°l
+5100
+3700 3800
+MSA  RW07  25NM
+Þ
+2.0
+RDH 54
+NM to THR
+OB752
+4000
+MISSED APPROACH
+Climb to 4000FT , to OB760,
+to BENES and hold. 
+Contact KANSAI APP.
+BENES
+(IAF)
+29.8
+RW07
+8.3
+OB751
+(FAF)
+12.1 0
+OB750
+3500
+INARI
+(IF)
+15.8
+3500
+1507
+Missed APCH climb gradient MNM 4.0%
+DA(H) RVR/CMV
+A
+B
+C 1000
+D 1400
+MINIMA  THR elev. 806  AD elev. 785
+Authorization Required
+1233(427)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+-
+CAT RNP 0.30
+-
+NOT TO SCALE
+MHA 4000
+MAX 210KIAS
+D22.0 
+OYE
+oye
+VOR/DME
+KIBI
+111.0   OYE
+CH-47X
+34䜪45’01”N/133䜪50’06”E
+Using NAVAID
+BENES
+(MAHF)
+D16.6 OYE
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-6
+OKAYAMA
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOB AD2.24-IAC-7
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.1 - - - -
+002 TF - -8.1 - - - 1.0
+003 TF - -8.1 - -185 - 1.0
+004
+RF
+Center:
+OBRF1
+r=3.07NM
+-- 8 . 1 R - - 1 . 0
+005
+RF
+Center:
+OBRF1
+r=3.07NM
+- -8.1 R - -3.00 0.3
+006 TF Y -8.1 - - -3.00/54 0.3
+007 TF - -8.1 - - - 1.0
+008 TF - -8.1 - - - 1.0
+BENES
+344115.72N / 1335605.70E
+343855.80N / 1335236.42E
+RW07
+OB760
+344500.07N / 1335028.89E
+344814.99N / 1335705.97E
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+OB752
+4000
+Coordinates
+344119.08N / 1335015.95E
++3500
+OB751 - 3.8 3500
+OB750 239
+(230.9) 3.7 -
+1507
+860
+-
+BENES - - +4000
+OB752
+RW07
+OB760
+-
+067
+(059.1)
+067
+(059.1)
+INARI 239
+(231.0) 14.0
+RJOB / OKAYAMA RNP Z RWY07(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+CHANGE : PROC renamed.
+345004.35N / 1340919.47E
+RF Arc Center Identifier
+OBRF1INARI
+OB750
+OB751 343843.33N / 1334816.50E
+344357.48N / 1334821.64E
+6.3
+2.0
+6.3
+BENES 088
+(079.6) 10.2
+OKAYAMA
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+991
+1996
+1641
+1369
+1684
+896
+1546 1639
+1503
+16701921
+1658
+10NM
+5.8
+067°
+7.4157°
+17.4
+247°
+1.8
+4.7
+031°
+031°/0.6
+6.0
+247°
+6.3
+067°
+6.4
+031°
+OB754
+(FAF)
+OB761
+MOMOU(IF)
+    INOOK
+(IAF/MAHF)
+OB762
+OB755
+ RW07
+OB756
+OB760
+(MATF)
+䢳䢵䢶䤑䢳䢲䢩䣇䢳䢵䢶䤑䢲䢩䣇䢳䢵䢵䤑䢷䢲䢩䣇䢳䢵䢵䤑䢶䢲䢩䣇䢳䢵䢵䤑䢵䢲䢩䣇
+䢵䢶䤑䢷䢲䢩䣐
+䢵䢶䤑䢶䢲䢩䣐
+䢵䢶䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.785
+2800
+2300
+1800
+1300
+OB754(FAF) : 344004.70N/1334239.54E
+KANSAI   APP
+121.2 - 120.4 - 261.2
+RNP  AR
+RF  required.
+OKAYAMA   TOWER
+124.3 - 126.2 RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP Y RWY07(AR)RJOB / OKAYAMACHANGE : Description of VAR.
+090°
+360
+°
+270°l
+5100
+3700 3800
+MSA  RW07  25NM
+NOT TO SCALE
+MHA 5000
+MAX 220KIAS
+OYE
+VOR/DME
+KIBI
+111.0       OYE
+CH-47X
+34䜪45’01”N/133䜪50’06”E
+INOOK
+D18.5 OYE
+D24.0 OYE
+Using NAVAID
+1012345
+NM
+10123456789 1 0
+KM
+RDH 54
+NM to THR
+OB756
+INOOK
+(IAF)
+5000
+MISSED APPROACH
+Climb to 5000FT , to OB760, 
+to OB761, to OB762, at 5000FT , 
+to INOOK and hold.
+Contact KANSAI APP.
+3500
+19.4
+RW07
+13.0
+OB754
+(FAF)
+0
+MOMOU
+(IF)
+8.3 7.6 5.8
+OB755
+2722
+32955000
+Þ
+Missed APCH climb gradient MNM 4.0%
+A
+B
+C
+D
+MINIMA with Missed APCH Climb gradient of 2.5% are not established.
+ MINIMA             THR elev. 806            AD elev. 785
+CAT RNP 0.30
+RVR/CMVDA(H)
+--
+1400
+10001233(427)
+Authorization Required
+KOHNAN AD
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-8
+OKAYAMA
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOB AD2.24-IAC-9
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.1 - - - -
+002 TF - -8.1 - - - 0.3
+003 TF - -8.1 - - - 0.3
+004 TF - -8.1 - - -3.00 0.3
+005
+RF
+Center:
+OBRF2
+r=2.89NM
+- -8.1 R - -3.00 0.3
+006 TF Y -8.1 - - -3.00/54 0.3
+007 TF - -8.1 - - - 1.0
+008 TF - -8.1 - - - 1.0
+009 TF - -8.1 - - - 1.0
+010 TF - -8.1 - - - 1.0
+CHANGE : PROC renamed.
+5000
+Waypoint䚷Identifier Coordinates
+Waypoint Coordinates
+OB755
+OB756
+OB762 247
+(239.2) 17.4
+RW07
+OB760
+OB761
+342952.48N / 1333718.65E
+343543.45N / 1334022.43E
+344152.88N / 1340140.81E
+-
+MOMOU 031
+(023.3) 6.4 +5000
+OB755 031
+(023.4) 0.6 3295
+OB754 031
+(023.3) 4.7 3500
+2722
+860
+-
+INOOK - - +5000
+RJOB / OKAYAMA RNP Y RWY07(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+MOMOU
+OB754 344004.70N / 1334239.54E
+344040.07N / 1334258.12E
+1.8
+5.8
+6.3
+OB761 157
+(149.4) 7.4
+OB756
+RW07
+OB760
+-
+067
+(059.0)
+067
+(059.1)
+INOOK 247
+(239.0) 6.0 5000
+OB762 343257.58N / 1334332.75E
+Coordinates
+343930.88N / 1334610.90E
+344200.00N / 1334423.17E
+344500.07N / 1335028.89E
+344814.99N / 1335705.97E
+RF Arc Center Identifier
+OBRF2INOOK
+OKAYAMA
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1639
+1116
+1119
+942
+10471369
+1503
+1247
+981
+1001
+1670
+1303
+1025
+1426
+1641
+1317
+1070
+1546 936
+10NM
+1141 1378
+1403
+4000
+  4.0
+247°
+  5.0
+293°
+  8.8
+247°
+  5.8
+067°
+ 17.4
+060°
+  5.8157°
+  6.7
+247°
+3000
+BENES
+(IAF/MAHF)
+RW25
+OB562
+BIKAN
+(IF)
+OB561
+(MATF)
+OB560
+(FAF)
+OB563
+䢳䢵䢶䤑䢳䢲䢩䣇䢳䢵䢶䤑䢲䢩䣇䢳䢵䢵䤑䢷䢲䢩䣇
+䢵䢶䤑䢷䢲䢩䣐
+䢵䢶䤑䢶䢲䢩䣐
+Contour
+Intervals
+AD elev.785
+2800
+2300
+1800
+1300
+OB560(FAF) :  344916.90N/1335912.35E
+KANSAI   APP
+121.2 - 120.4 - 261.2 RNP  AR OKAYAMA   TOWER
+124.3 - 126.2 RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP Z RWY25(AR)RJOB / OKAYAMACHANGE : Description of VAR.
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360°
+270°
+18
+0°
+l
+52005100
+3700 3800
+MSA  RW25  25NM
+Þ
+RDH 50
+NM to THR
+BENES
+(IAF)
+4000
+MISSED APPROACH
+Climb to 4000FT , to OB561, to
+OB562, to OB563, to BENES
+and hold. 
+Contact KANSAI APP.
+15.7
+RW25
+6.7
+OB560
+(FAF)
+3000
+10.70
+BIKAN
+(IF)
+3000
+Missed APCH climb gradient MNM 5.0% for RNP 0.10
+DA(H) CMV DA(H) CMV
+A
+B
+C 1600 1800
+D 1800 2000
+MINIMA with Missed APCH climb gradient of 2.5% are not established for RNP 0.10.
+--
+ MINIMA             THR elev. 804            AD elev. 785 
+CAT RNP 0.10
+--
+RNP 0.30
+1276(472) 1564(760)
+Authorization Required
+NOT TO SCALE
+MHA 4000
+MAX 210KIAS
+D22.0 
+OYE
+oye
+VOR/DME
+KIBI
+111.0   OYE
+CH-47X
+34䜪45’01”N/133䜪50’06”E
+Using NAVAID
+BENES
+(MAHF)
+D16.6 OYE
+KOHNAN AD
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-10
+OKAYAMA
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOB AD2.24-IAC-11
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.1 - - - -
+002 TF - -8.1 - - - 1.0
+003 TF - -8.1 - - - 1.0
+004 TF Y -8.1 - - -3.00/50 0.10
+0.30
+005 TF - -8.1 - - - 1.0
+006 TF - -8.1 - - - 1.0
+007 TF - -8.1 - - - 1.0
+008 TF - -8.1 - - - 1.0
+344119.10N / 1334300.25E
+RF Arc Center Identifier
+㸫BIKAN
+OB560
+Waypoint Identifier Coordinates
+8.8
+5.8
+5.8
+BENES 060
+(051.6) 17.4
+OB561
+OB562
+OB563
+247
+(239.1)
+157
+(149.3)
+067
+(059.1)
+BENES - - +4000
+RJOB / OKAYAMA RNP Z RWY25(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+4000
+BIKAN 293
+(284.5) 5.0 +3000
+RW25 247
+(239.1) 6.7 854
+OB560 247
+(239.2) 4.0 3000
+-
+-
+-
+CHANGE : PROC renamed.
+Waypoint Coordinates
+OB561
+OB562
+OB563
+BENES
+345119.60N / 1340323.18E
+344916.90N / 1335912.35E
+Coordinates
+㸫
+343617.70N / 1334637.94E
+343917.37N / 1335242.76E
+345004.35N / 1340919.47E
+RW25 344549.88N / 1335210.24E
+OKAYAMA
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+757
+1639
+1503 1670
+1641
+1684
+1921
+1658
+1996
+1546
+1094
+1403
+1141
+10NM
+4.1
+210°
+18.9
+  064°
+8.8
+247°
+4.2
+8.3
+210°
+  247°/3.1 5.2
+3.1
+ 064°
+KORAK
+(IF)
+OB561
+(MATF)
+RW25
+INOOK
+(IAF)
+OB550
+MAX185KIAS
+OB552
+OB551
+(FAF)
+OB564
+䢳䢵䢶䤑䢳䢲䢩䣇䢳䢵䢶䤑䢲䢩䣇䢳䢵䢵䤑䢷䢲䢩䣇䢳䢵䢵䤑䢶䢲䢩䣇䢳䢵䢵䤑䢵䢲䢩䣇
+䢵䢶䤑䢷䢲䢩䣐
+䢵䢶䤑䢶䢲䢩䣐
+䢵䢶䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.785
+2800
+2300
+1800
+1300
+OB551(FAF) :  344559.10N/1340043.14E
+KANSAI   APP
+121.2 - 120.4 - 261.2
+RNP  AR
+RF  required.
+OKAYAMA   TOWER
+124.3 - 126.2 RADAR  AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP Y RWY25(AR)RJOB / OKAYAMACHANGE : Description of VAR.
+090°
+360°
+270°l
+5100
+3700 3800
+MSA  RW25  25NM
+5200
+180°
+NOT TO SCALE
+MHA 5000
+MAX 220KIAS
+OYE
+VOR/DME
+KIBI
+111.0       OYE
+CH-47X
+34䜪45’01”N/133䜪50’06”E
+INOOK
+D18.5 OYE
+D24.0 OYE
+Using NAVAID
+10123456789 1 0
+KM
+1012345
+NM
+0 8.3 15.6 34.5
+RW25
+RDH 50
+NM to THR
+OB550
+KORAK
+(IF)
+INOOK
+(IAF)
+5000
+MISSED APPROACH
+Climb to 5000FT, to OB561, 
+to OB564 at 5000FT , to INOOK
+and hold. 
+Contact KANSAI APP . OB552
+3.1
+OB551
+(FAF)
+3500
+12.5
+5000
+1840 Þ
+Missed APCH climb gradient MNM 5.0% for RNP 0.10
+DA(H) CMV DA(H) CMV
+A
+B
+C 1600 1800
+D 1800 2000
+MINIMA with Missed APCH climb gradient of 2.5% are not established for RNP 0.10.
+--
+ MINIMA             THR elev. 804            AD elev. 785
+CAT RNP 0.10
+--
+RNP 0.30
+1276(472) 1564(760)
+Authorization Required
+KOHNAN AD
+(EFF:15 JUN 2023) 18/5/23
+RJOB AD2.24-IAC-12
+OKAYAMA
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOB AD2.24-IAC-13
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.1 - - - -
+002 TF - -8.1 - - - 1.0
+003 TF - -8.1 - -185 - 1.0
+004
+RF
+Center:
+OBRF3
+r=3.06NM
+-- 8 . 1 L - - 1 . 0
+005
+RF
+Center:
+OBRF3
+r=3.06NM
+- -8.1 L - -3.00 0.10
+0.30
+006 TF Y -8.1 - - -3.00/50 0.10
+0.30
+007 TF - -8.1 - - - 1.0
+008 TF - -8.1 - - - 1.0
+009 TF - -8.1 - - - 1.0
+CHANGE : PROC renamed.
+5000
+Waypoint䚷Identifier Coordinates
+Waypoint Coordinates
+OB551
+OB552
+INOOK 210
+(202.3) 8.3
+RW25
+OB561
+OB564
+342952.48N / 1333718.65E
+344031.39N / 1335618.17E
+343730.82N / 1334106.50E
+5000
+KORAK 064
+(055.7) 18.9 +5000
+OB551 - 4.2 3500
+OB550 064
+(055.8) 3.1 -
+1840
+854
+-
+INOOK - - +5000
+RJOB / OKAYAMA RNP Y RWY25(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+5.2
+3.1
+8.8
+OB564 210
+(202.3) 4.1
+OB552
+RW25
+OB561
+-
+247
+(239.2)
+247
+(239.1)
+Coordinates
+344446.88N / 1335718.07E
+344725.06N / 1335524.13E
+344549.88N / 1335210.24E
+344119.10N / 1334300.25E
+RF Arc Center Identifier
+OBRF3INOOK
+KORAK
+OB550 344214.38N / 1335922.79E
+344559.10N / 1340043.14E
+OKAYAMA
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJOB / OKAYAMA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+Ụ୚࿡ Ụ୚࿡ᶫ
+Eyomi Bridge
+䚷㧗ᱱ JR㥐
+Takahashi JR Station
+಴ᩜ JR㥐
+Kurashiki JR Station
+ᒸᒣ JR㥐
+Okayama JR Station
+ᒣ㝧IC ᒣ㝧䜲䞁䝍䞊䝏䜵䞁䝆
+Sanyo IC Sanyo Highway Interchange
+Call sign BRG / DIST from ARP Remarks
+CHANGE : Map updated. BRG/DIST from ARP. Location indicator of Kohnan AD added.
+349°T 11.6NM/
+12.0NM279°T /
+096°T / 8.4NM
+205°T / 10.3NM
+/ 6.2NM150°T
+OKAYAMA CONTROL
+L
+ ZONE
+MA CO
+At
+ONTRO
+L
+ ZONE
+Z
+A CO
+At
+At or below 3000FT
+EYOMI
+EYOMO I
+CONTRO
+L
+ ZONE
+Z
+5NM from ARP
+OKAYAMA TOWER
+KAYAMA 
+124.3 
+MA 
+3 
+3 -
+TOWE
+T
+MA 
+- 126.2
+VAR 8
+R 8
+8888888
+
+W(2015) /
+ / 4'W
+㼃㼑㼎
+㼑㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+TAKAHASHI
+TATAKAKAHAHASHSHII
+SANYO IC
+SASANYNYO O ICIC
+KURASHIKI
+KUKURARASHSHIKIKII
+OKAYAMA
+OKOKAYAYAMAMAA
+RJBK
+(EFF:24 FEB 2022) 24/2/22
+RJOB AD2.24-OTHER-1
+OKAYAMA
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+LDG  CHART
+ELEV  785 ft
+1142
+1351
+VAR  8
+˃W 
+(JUL 2015)
+1099
+1339
+1069
+1047
+0 1000 2000m
+133˚49´
+47´
+49´
+45´
+51´ 53´
+928
+1086
+CGL
+1207
+1352
+PALS
+1394
+1296
+948
+990
+990
+990
+990
+RJOB / OKAYAMA
+PAPI  ANGLE   3.0˃
+MEHT  20m (66ft)
+413m  fm  THR
+PAPI  ANGLE   3.0˃
+MEHT  22.5m (74ft)
+511.6m  fm  THR
+ELEVATIONS  AND
+HEIGHTS  IN  FEET
+MEAN  SEA  LEVEL
+VOR / DME
+KIBI
+111.0    OYE
+CH-47X
+34˚45´01˝N / 133˚50´06˝E
+OKAYAMA  TWR
+124.3 – 126.2
+Asph-Conc
+9840 
+ʷ150ft
+07
+25
+34˚43´
+(EFF:18 JUN 2020) 21/5/20
+RJOB AD2.24-OTHER-2
+OKAYAMA
+←
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMAMAYAKO / BOJR
+VAR 8˚W (2018)
+30N
+M
+30NM
+25NM
+15NM 4NM
+5NM
+10NM
+10NM
+15NM
+20NM
+20NM
+40NM
+50NM
+55NM
+45NM
+35NM
+35NM
+45NM
+55NM
+40NM
+50NM
+60NM
+60NM
+CENTER 凬341315N/1340115E  (RJOT RADAR SITE)
+9000
+5000
+010˚
+10000
+5000 3000
+14000
+8000
+11000
+12000
+4000
+8000
+䷷䢢
+8000
+030˚
+060˚
+095˚
+085˚
+110˚
+130˚
+270˚
+360˚
+230˚
+250˚
+260˚
+300˚
+340˚
+3100
+6000
+10000
+15000
+3600
+(1)
+(2)
+(3)
+(4)
+14000
+8000
+5000
+2700
+䷵䢢
+10000
+䷸䢢 80008000 6000
+䷶䢢
+10000 ䷸䢢
+14000
+6000
+7000
+40NM
+10000
+7000
+4000
+2800
+3000
+䷵䢢 4000
+䷶䢢 5000
+䷷䢢 6000
+䷸䢢 12000
+(1)
+(2)
+(3)
+(4)
+342946N/1332749E
+343957N/1333528E
+344445N/1334517E
+344928N/1335453E
+(5)
+(6) (7)
+(8)
+(9)
+(10)
+(11)
+25NM
+傜䢳傝
+傜䢴傝
+傜䢵傝
+傜䢶傝
+(5)
+(6)
+(7)
+(8)
+344932N/1335502E
+345247N/1335429E
+345311N/1340229E
+345434N/1340519E
+(9)
+(10)
+(11)
+345733N/1342446E
+344828N/1342739E
+344758N/1342134E
+傜䢳傝䢢25NM (CENTER : 344525N/1335119E)
+傜䢴傝䢢5NM (CENTER : 344525N/1335119E)
+傜䢵傝䢢30NM (CENTER : 344525N/1335119E)
+傜䢶傝䢢25NM (CENTER : 344525N/1335119E)
+CHANGE : Update(BTN 130° and 230°). 
+䷵䢢
+350˚
+210˚
+13000
+(EFF:20 MAR 2025) 23/1/25
+RJOB AD2.24-OTHER-3
+OKAYAMA
+
+
+=== Page 38 ===
+INTENTIONALLY LEFT BLANK
+

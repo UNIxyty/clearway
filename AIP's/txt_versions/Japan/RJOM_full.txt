@@ -1,0 +1,2871 @@
+=== Page 1 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-1
+AD 2 AERODROMES
+RJOM AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJOM - MATSUYAMA
+RJOM AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJOM AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 334938N/1324159E
+131°/1.25km FM RWY 14 THR
+2 Direction and distance from (city) 3nm WSW from Matsuyama city
+3 Elevation/ Reference temperature 13ft / 31°C(2001-2008)
+4 Geoid undulation at AD ELEV PSN 109ft
+5 MAG VAR/ Annual change 8°W (2024) / 5’W
+6 AD Administration, address,
+ telephone, telefax, telex, AFS,
+ e-mail and/or Web-site addresses
+Civil Aviation Bureau, Public AP
+Minamiyoshida - machi, Matsuyama, Ehime Pref.
+Tel: 089-972-0319 , 089-972-0393(AIS)
+Fax: 089-973-1056 , 089-974-8185(AIS)
+AFS: RJOMYFYX
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Nil
+1 AD Administration 2200 - 1300
+2 Customs and immigration INTL SKED FLT hours only
+3 Health and sanitation INTL SKED FLT hours only
+4 AIS Briefing Office 2200 - 1300
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (KANSAI)
+7 ATS 2200 - 1300
+8 Fuelling On Request(tel:089-972-1319)
+9 Handling Nil
+10 Security 2200 - 1300
+11 De-icing Nil
+12 Remarks Nil
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 2 ===
+RJOM AD2-2 AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD 2.4 HANDLING SERVICES AND FACILITIES
+RJOM AD 2.5 PASSENGER FACILITIES
+RJOM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJOM AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Institutions that deal  with passenger airplanes at most B747 type
+2 Fuel/ oil types JET A-1, AVGAS100
+3 Fuelling facilities/ capacity Fuel truck
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels In Matsuyama city.
+2 Restaurants At airport
+3 Transportation Buses and Taxis
+4 Medical facilities Hospital  in Matsuyama city 2km
+5 Bank and Post Office Nil
+6 Tourist Office At airport
+7 Remarks Nil
+1 AD category for fire fighting CAT 9
+2 Rescue equipment Chemical fire figh ting truck x 3, Water-supply truck
+Lighting power supply truck, Emergency medical equipments conveyance truck
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Ask AD administration
+2 Clearance priorities RWY14/32, TWY T1 T8 and P1-P7, APRON
+3 Remarks Seasonal av ailability : DEC MID - FEB MID
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 3 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-3
+RJOM AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+1 Apron surface and strength SPOT 1-7
+Surface : Cement-concrete
+Strength : PCR 925/R/B/W/T
+SPOT 10-14, B-H, J, K
+Surface : Asphalt-concrete
+Strength : PCR 757/F/D/X/T
+SPOT 15-18
+Surface : Semi-flexible pavement
+Strength : PCR 394/F/B/X/T
+2 Taxiway width, surface and 
+strength
+T1-T8, P1-P3, P5-P7
+Surface : Asphalt-concrete
+Strength : PCR 754/F/A/X/T
+P4
+Surface : Cement-concrete
+Strength : PCR 925/R/B/W/T
+T1, T8
+Width : 28.5m
+T2 - T7
+Width : 34m
+P1 - P7
+Width : 23m
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints Spot NR
+1R: 334937.13N,1324217.01E
+1: 334939.65N,1324217.65E
+1L: 334939.76N,1324217.39E
+2: 334941.05N,1324215.75E
+3: 334942.58N,1324213.61E
+4: 334943.92N,1324211.60E
+5: 334945.26N,1324209.93E
+6: 334946.42N,1324207.95E
+7: 334947.78N,1324206.16E
+6 Remarks Nil
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJOM AD2-4 AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJOM AD 2.10 AERODROME OBSTACLES
+RJOM AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Aircraft stand identification signs: Spot NR1-5
+Visual docking/ parking guidance system: Nil
+2 RWY and TWY markings and 
+LGT
+RWY 14/32:
+(Marking): RWY designation, RWY CL, RWY THR, RWY middle point, 
+Aiming point, TDZ, RWY side stripe
+(LGT): RCLL, REDL, RTHL, RENL, WBAR(RWY 14)
+TWY: All TWY
+(Marking): TWY CL, RWY HLDG PSN, TWY side stripe
+(LGT): TWY edge LGT, TWY CL LGT(T1-T8,P1-P7), 
+Taxiing guidance sign(T1-T8), RWY guard LGT(T1-T8)
+TWY: P6
+(Marking): Intermediate HLDG PSN
+3 Stop bars Nil
+4 Remarks (Marking): Overrun area
+(LGT): APN flood LGT
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office KANSAI
+2 Hours of service
+MET Office outside hours
+H24 (KANSAI)
+3 Office responsible for TAF preparation
+Periods of validity
+KANSAI
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Brie fing is available upon inquiry at KANSAI
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S
+6, U85, U7, U5, U3, U25, U2/Tr, Ps, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR, ATIS
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+(EFF:20 FEB 2025) 23/1/25
+
+
+=== Page 5 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-5
+RJOM AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJOM AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR
+TRUE BRG
+Dimensions of
+RWY(M)
+Strength(PCR) and
+Surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+14
+32
+130.55°
+310.55°
+2500×45
+2500×45
+PCR 754/F/A/X/T
+Asphalt Concrete
+PCR 754/F/A/X/T
+Asphalt Concrete
+335004.50N
+1324121.73E
+334911.75N
+1324235.61E
+THR ELEV:25ft
+TDZ ELEV:25ft
+THR ELEV:17FT
+Slope of RWY
+Strip
+Dimensions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+See below figure 2620×300
+2620×300
+90×(MNM:205 MAX:254)*
+42×300
+*For detail, ask airport administrator
+RWY Grooving:
+ 2500m× 30m
+RWY Designa-
+tor
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m)
+Remarks
+12 3 4 5 6
+14
+32
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+Nil
+Nil
+LONGITUDINAL  PROFILE  OF  RUNWAY
+49;
+HV
+
+O
+HV
+
+O
+HV
+
+OHV
+
+O
+HV
+
+OHV
+
+O
+HV
+
+OHV
+
+OHV
+
+O
+HV
+
+O
+HV
+
+O
+HV
+
+O
+HV
+
+O
+
+
+
+
+.'8'.
+49;
+HV
+
+O
+O O O O O O O O O O O O O O
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 6 ===
+RJOM AD2-6 AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD 2.14 APPROACH AND RUNWAY LIGHTING
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 3 4 5 6 7 8 9
+14 Nil Green
+Green
+PAPI
+3.0° / Left
+415m
+66ft
+Nil 2500m
+30m
+Coded color
+(White/Red)
+LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+32 SALS
+420m
+(*1)
+LIH
+Green PAPI(*2)
+3.0° / Left
+461.3m
+74ft
+Nil 2500m
+30m
+Coded color
+(White/Red)
+LIH
+2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+(*3)
+Remarks
+10
+SALS with APCH LGT beacon(585m and 936m FM RWY 32 THR)(*1)
+Usable area of PAPI : WI 3.5NM FM RWY 32 THR(See below figure)(*2)
+Overrun area edge LGT(LEN:60m Color:Red)(*3)
+CGL for RWY 32
+RWY THR ID LGT for RWY 14 THR(Color:White)
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 7 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-7
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 8 ===
+RJOM AD2-8 AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJOM AD 2.16 HELICOPTER LANDING AREA
+RJOM AD 2.17 ATS AIRSPACE
+1 ABN/IBN location, characteristics 
+and hours of operation
+ABN: 334952N/1324156E, White/Green EV4.3sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI:Nil
+Anemometer : 80m FM RWY 14/32 THR, LGTD
+3 TWY edge and centerline lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply/    switch-
+over time
+Within 1 sec : REDL, RENL, RTHL, WBAR, RCLL, Overrun area edge LGT
+Within 15 sec : Other LGT
+5 Remarks WDI LGT
+1 Coordinates TLOF or THR of FATO
+Geoid undulation 334955.94N/1324144.69E, Nil
+2 TLOF and/or FATO elevation 18ft
+3 TLOF and FATO area dimensions,
+surface, strength, marking
+TLOF and FATO area dimensions: 23m×37m
+Surface: Asphalt - Concrete
+Strength: 22ton
+Marking: TDZ, See AIP AD2.24 AD chart
+4 True BRG of FATO 130.55°/310.55°
+5 Declared distance available Nil
+6 APCH and FATO lighting Nil
+7R e m a r k s
+• MAX helicopter type: H47
+• HJ use only
+• located on TWY P2
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language
+Remarks
+12 3 4 6
+MATSUYAMA 
+CTR
+Area within a radius of 5nm of MATSUYAMA
+ARP(33°50'N 132°42'E).
+3000 or 
+below D
+MATSUYAMA
+TOWER
+En
+(EFF:20 MAR 2025) 20/3/25
+
+
+=== Page 9 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-9
+RJOM AD 2.18 ATS COMMUNICATION FACILITIES
+RJOM AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Service
+designation
+Call sign Frequency
+Hours of
+operation
+Remarks
+12 3 4 5
+TWR Matsuyama Tower 118.35MHz(1)
+126.2MHz
+121.5MHz(E)
+2200 - 1300 (1) Primary
+APP SER is provided by Iwakuni APP
+THRU TWR 
+ATIS Matsuyama Airport 126.65MHz 2200 - 1300
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(7°W/2016)
+MYE 110.65MHz H24 334948.37N/1324132.00E VOR Unusable in the following area
+070°-090° beyond 30NM BLW 9,000FT.
+100°-150° beyond 30NM BLW 9,000FT.
+DME MYE 1130MHz
+(CH-43Y)
+H24 334948.37N/1324132.00E 46ft DME Unusable in the following area
+050°-070° beyond 30NM BLW 9,000FT.
+070°-080° beyond 25NM BLW 9,000FT.
+080°-200° beyond 30NM BLW 9,000FT.
+200°-220° beyond 30NM BLW 6,000FT.
+340°-350° beyond 30NM BLW 6,000FT.
+ILS-LOC 14 IMP 109.3MHz 2200-1300 334906.89N/1324242.41E LOC: 230m(755ft) away FM RWY32 
+THR, BRG(MAG)138°.
+ILS-GP 14 - 332.0MHz 2200-1300 334954.70N/1324127.87E GP:317m(1040ft) inside FM RWY14 
+THR, 
+126m(413ft) SW of RCL.  
+GP angle 3.0° 
+HGT of ILS REF datum 16.6m(55ft).
+ILS-DME 14 IMP 991MHz
+(CH-30X)
+2200-1300 334954.25N/1324127.91E 37ft DME:326m(1070ft) inside FM RWY14 
+THR, 
+137m(449ft) SW of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are 
+satellite based.
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 10 ===
+RJOM AD2-10 AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+Aircraft operations other than scheduled flights or in an emergency.
+  On use of this airport, aircraft operator is required to obtain the prior permission of the airport administrator.
+ILS-LOC
+ANTENNA
+RWY
+32
+14
+137mILS-GP  ANTENNA
+ILS-DME  ANTENNA
+317m
+9m
+REMARKS : 1. LOC beam BRG (MAG) 138˚
+2. HGT of ILS REF datum 16.6m (55ft)
+3. GP Angle 3.0˚
+4. ELEV of ILS-DME 11m (37ft)
+2500m 230m
+126m
+(EFF:20 MAR 2025) 20/3/25
+←
+
+
+=== Page 11 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-11
+2. Taxiing to and from stands
+2.1 自走アウ ト 方式 2.1 Power-out procedure
+DH8D, AT76, AT46, CRJ7 及びSF34 は、 スポ ッ ト 1R, 1L, 2-7 におい
+て自走アウ ト が実施でき る。 その他の型式の航空機については、
+空港管理者に確認する こ と。
+なお、 スポ ッ ト 7 での自走アウ ト は、 スポ ッ ト 6 に翼幅が 36m 以
+上の航空機が駐機し ている場合は不可である。
+自走アウ ト する場合は、 以下の自走アウ ト 方式に従 う こ と。
+状況によ っ ては、 空港管理者が他の自走アウ ト 方式を指示する場
+合がある。
+a) 自走アウ ト 用の導入線及び旋回線に従う こ と。
+b) 旋回線の起点までに旋回を開始する こ と。
+DH8D, AT76, AT46, CRJ7 and SF34 can make power-
+out of operation at spot 1R, 1L, 2-7. For other types of 
+aircraft, ask AD administrator.
+Also power-out of operation at spot 7 is not approved if 
+an aircraft with a wingspan 36m or longer is parked at 
+spot 6.
+When making power-out of operation, pilots shall comply 
+with the following power-out procedure.
+Depending on the situation, AD administrator may 
+instruct other power-out of procedure.
+a) Pilots shall follow lead-in line and turning line for 
+power-out operation.
+b) Commence turning at or before the starting point of the 
+turning line.
+Lead-in line for
+power-out operation
+(Yellow broken line)
+Turning line for
+power-out operation
+(Yellow broken line)
+Stop bar for
+power-out operation
+(Yellow line)
+(EFF:20 MAR 2025) 20/3/25
+→
+
+
+=== Page 12 ===
+RJOM AD2-12 AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+2.2 プ ッ シュバッ ク方式 2.2 Push back procedure
+スポ ッ ト 2-5 において、航空機はシ ョ ー ト プ ッ シ ュバッ クが実施で
+き る。ただ し、スポ ッ ト 2 における滑走路 14 シ ョ ー ト プ ッ シ ュバッ
+クは実施不可である。
+シ ョ ー ト プ ッ シ ュバッ ク を行 う 場合は、パイ ロ ッ ト は管制官に要求
+すること。
+ショートプッシュバック：
+エプロン境界線から ター ミ ナル側に 13m と航空機導入線から 9.3m
+の位置に表示されたシ ョ ー ト プ ッ シ ュバッ ク ラ イ ンの交点に ノ ー
+ズギアを乗せて行う方法。
+ショートプッシュバックライン：
+シ ョ ー ト プ ッ シ ュバッ ク実施時に使用する白の実線。 （下図参照）
+At spot 2-5, an aircraft can make short-pushback.
+But it can’t make short-pushback for RWY14 at spot 2.
+When making a short-pushback, pilots shall request 
+approval for short-pushback from the ATC.
+Short-pushback:
+The procedure is performed by placing the nose gear on 
+the intersection of short-pushback lines marked 13m on 
+the terminal side from the apron boundary line and 9.3m 
+from lead-in line.
+Short-pushback line:
+White line used when making short-pushback. (See the 
+figure below)
+2.3 エプロンにおける安全対策について 2.3 Safety measures in aprons
+ジ ェ ッ ト ブ ラ ス ト 等による地上の車両、設備及び隣接スポ ッ ト の他
+の航空機への影響を回避するため、 エプロン内においては、 エンジ
+ン出力を必要最小限にする こ と。
+In order to avoid jet blast, etc, damage to ground 
+vehicles, equipments and other aircrafts in adjacent 
+spots, engine power should be kept to minimum 
+necessary within aprons.
+13m
+9.3m
+Apron boundary line
+(Red line)
+Short-pushback line
+(White line)
+Lead-in line
+(Yellow line)
+(EFF:20 FEB 2025) 23/1/25
+
+
+=== Page 13 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-13
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+Nil
+Nil
+Nil
+Wing tip clearance at the TWY intersection (REF AD1.1.6.8)
+  Wing tip clearance at the TWY intersection between the aircraft holding at the stop marking on the TWY and the other aircraft
+taxiing behind it are as follows.
+(1) When B789 holding at the stop marking on TWY T2 THRU T7
+Wing Span (WS) of
+ aircraft taxiing
+ on TWY P1-P7
+WS =<40.1m 40.1m <WS 
+=<57.1m WS >57.1m Legend: 
+*A : wing tip clearance >= 15m 
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5mWing tip clearance *A *B *C
+(2) When B773 holding at the stop marking on TWY T2 THRU T7
+Wing Span (WS) of
+ aircraft taxiing
+ on TWY P1-P7
+WS =<15.2m 15.2m <WS 
+=<32.2m WS >32.2m Legend: 
+*A : wing tip clearance >= 15m 
+*B : 6.5m =< wing tip clearance < 15m
+*C : wing tip clearance < 6.5mWing tip clearance *A *B *C
+Nil
+Nil
+Nil
+(EFF:18 APR 2024) 18/4/24
+→
+
+
+=== Page 14 ===
+RJOM AD2-14 AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD 2.21 NOISE ABATEMENT PROCEDURES
+(See AIP AD1.1.6.5)
+1. 騒音軽減運航方式
+  
+  すべてのジ ェ ッ ト 機に対し て、 空港周辺における航空
+機騒音軽減のため、 運航の安全に支障のない範囲で、 以
+下の方式が適用される。
+  ただ し、 これらの方式による こ とができない航空機は
+実効的にこれら と同等と認められる代替方式を実施す
+るものとする。
+a) 離陸について （滑走路 14）
+　 　  急上昇方式
+b) 着陸について （滑走路 32）
+　 　  デ ィ レ イ ド ･フ ラ ッ プ進入方式及び
+     低フ ラ ッ プ角着陸方式
+c) リバース･ス ラス ト について
+　　  な し
+2. 優先滑走路方式
+  原則と し て、 着陸は滑走路 14、 離陸は滑走路 32 によ
+り行 う こ と とする。 ただ し、 航行の安全確保などに万全
+を期すため、 以下に示す条件等にあっては、 本方式は適
+用されない。
+a) 機長が航行の安全を考慮し て、反対側滑走路に離着陸
+する こ とが必要である と判断し た場合
+b) 滑走路面の状況が適当でない場合
+c) 突風を含め追風成分が 5knot を超える場合
+d) 突風を含め横風成分が 15knot を超える場合
+e) 秩序ある航空交通流が乱される恐れがある場合
+3. 優先飛行経路
+  な し
+1. Noise Abatement Operating Procedures
+  For all jet aircraft, in order to reduce aircraft noise in the
+vicinity of airport, the follow ing procedures shall be applied
+unless compliance of the procedures adversely affects the
+safety of aircraft operations. 
+  In case that the aircraft is unable to take these
+procedures, pilots should exec ute alternative procedures
+which are considered to be practically equivalent
+a) For take-off from RWY14
+Steepest Climb Procedure
+b) For landing to RWY32
+Delayed Flap Approach Procedure and Reduced
+Flap Setting Procedure
+c) Reverse Thrust
+Nil
+2. Preferential Runways Procedures
+In principle, RWY32 for take-off and RWY14 for landing are
+preferentially to be used strictly. However, in order to
+achieve maximum flight safety, this procedure is not applied
+under the following circumstances.
+a) When a pilot- in-command determines that the use of 
+other runway is necessary in consideration of safety 
+of the aircraft operation.
+b) When the condition of the specified runway is not 
+suitable for landing or take-off.
+c) When the tail wind component, including gusts, 
+exceeds 5 knots.
+d) When the cross wind component, including gusts, 
+exceeds 15 knots.
+e) When the possibility exists that orderly flow of traffic 
+may be impeded.
+3. Noise Preferential Routes
+Nil
+(EFF:18 APR 2024) 18/4/24
+←
+
+
+=== Page 15 ===
+AIP Japan
+MATSUYAMA
+Civil Aviation Bureau,Japan
+RJOM AD2-15
+RJOM AD 2.22 FLIGHT PROCEDURES
+RJOM AD 2.23 ADDITIONAL INFORMATION
+RJOM AD 2.24 CHARTS RELATED TO AN AERODROME
+1.TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL or 
+RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN
+AP FILED
+14 A,B,C,D 400m 400m 400m 400m - 500m
+32 A,B,C,D - 400m - 400m - 500m
+OTHER
+14
+A,B,C,D AVBL LDG MINIMA
+32
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Iwakuni Approach are lost for 1 minute, squawk Mode A/3 Code 7600 and ;
+(I) 1. Contact Matsuyama Tower.
+2. If unable, proceed in accordanc e with Visual Flight Rules.
+3. If unable, proceed to MATSUYAMA VOR/DME at last assigned altitude or 6,000 feet whichever is higher, 
+and execute instrument approach.
+(II)  Procedures other than above will be issued when situation required.
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument  (MATSUYAMA)
+Standard Departure Chart - Instrument  (IYO-RNAV)
+Standard Departure Chart - Instrument  (SAKAR-RNAV)
+Standard Departure Chart - Instrument  (MARCO-RNAV)
+Standard Arrival Chart - Instrument  (MASKU)
+Standard Arrival Chart - Instrument  (ROBIN WEST-RNAV)
+Standard Arrival Chart - Instrument  (ROBIN EAST, MADON, KIKMA-RNAV)
+Instrument Approach Chart  (ILS Z or LOC Z RWY14)
+Instrument Approach Chart  (ILS Y or LOC Y RWY14)
+Instrument Approach Chart  (VOR RWY14)
+Instrument Approach Chart  (RNP RWY14(AR))
+Instrument Approach Chart  (RNP RWY32(AR))
+Other Chart  (Visual REP)
+(EFF:20 MAR 2025) 20/3/25
+
+
+=== Page 16 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+AD  CHART
+P-7P-6P-5P-4P-3P-2P-1
+RVR
+T- 5T- 4T- 3
+RWY  GUARD  LGT
+T- 2T- 1 T- 8T- 7T- 6
+32
+OVERRUN  LGT
+190m
+WIND  DIRECTION  INDICATOR  LGT
+461.3m
+PAPI  Angle  3.0°
+MEHT  22.5m (74 ft)
+CGL
+468m
+TWR
+MATSUYAMA  AP
+396m
+ABN
+85m
+PAPI  Angle  3.0°
+MEHT  20m (66 ft)
+GUIDANCE LINE OF SPARE SPOT FOR MAINTENANCE
+OR NIGHT STAY  (PPR ON USE)
+RWY  THR  ID  LGT
+415m
+2356 4
+H
+G
+FD
+E
+K
+JCB
+101114 13 12
+APCH  LGT  BEACONS
+SIMPLE APCH LIGHTING SYSTEM
+351m165m420m
+32
+LONGITUDINAL  PROFILE  OF  RUNWAY
+REMARKS :
+RWY STRENGTH PCR  754/F/A/X/T
+RWY GROOVING              2500m × 30m                 STRENGTH OF APRON
+WIDTH & STRENGTH OF TWY                                  SPOT 1 thru 7        PCR 925/R/B/W/T
+T-1, T-8                   28.5m  PCR  754/F/A/X/T   SPOT 10 thru 14, B thru H, J, K
+T-2 thru T-7             34m    PCR  754/F/A/X/T                                  PCR 757/F/D/X/T
+     P-1 thru P-3             23m    PCR  754/F/A/X/T
+P-4                           23m    PCR  925/R/B/W/T
+P-5 thru P-7             23m    PCR  754/F/A/X/T
+RWY  32
+16 ft
+(5.076m)
+16 ft
+(4.908m)
+15 ft
+(4.739m)15 ft
+(4.718m)
+15 ft
+(4.635m)14 ft
+(4.286m)
+13 ft
+(4.147m)13 ft
+(4.011m)11 ft
+(3.524m)
+21 ft
+(6.566m)
+24 ft
+(7.424m)
+25 ft
+(7.658m)
+17 ft
+(5.203m)
+0.159%0.14%0.104%0.134%0.063%0.118%0.094%
+0.78%
+0.613%
+0.195%
+0.106%0.026%
+LEVEL
+RWY  14
+25 ft
+(7.658m)
+m0052m0242m0032m0412m0602m0891m0271m0051m0031m098m005m063m042m0
+14
+RJOM / MATSUYAMA
+WIND  DIRECTION  INDICATOR  LGT
+1L 1
+1R
+15161718
+  SPOT 15 thru 18                                 PCR 394/F/B/X/T
+7
+VAR 8° W
+2024
+(Annual change 5
+ƍW)
+ARP
+334938N
+1324159E
+CEILOMETER
+WIND SPEED 
+ɹMETER WIND SPEED METER
+䣅䣊䣃䣐䣉䣇䢢䢼䢢䣋䣰䣶䣧䣴䣯䣧䣦䣫䣣䣶䣧䢢䣊䣎䣆䣉䢢䣒䣕䣐䢢䣏䣣䣴䣭䣫䣰䣩䢢䣣䣶䢢䣒䢯䢸䢢䣧䣵䣶䣣䣤䣮䣫䣵䣪䣧䣦䢰
+(EFF:20 FEB 2025) 23/1/25
+RJOM AD2.24-ADC-1
+MATSUYAMA
+
+
+=== Page 18 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+DISAMAYUSTAM / MOJR
+MATSUYAMA REVERSAL FIVE DEPARTURE
+RWY32 :   Climb RWY HDG to 500FT, turn left HDG 270˚ to 3500FT, turn left...
+RWY14 :   Climb RWY HDG to 1300FT, turn right HDG 270˚ to 3500FT, turn right...
+...direct to MYE VOR/DME.
+Cross MYE VOR/DME at or above 6500FT.
+Note RWY14 : 7.0% climb gradient required up to 3200FT.
+OBST ALT 2822FT located at 7.6NM 173˚ FM end of RWY14.
+No turn before DER.
+3500
+3500
+6500
+500
+HDG 270˚
+HDG 270˚
+1300
+VOR/DME
+0FT
+MATSUYAMA
+110.65    MYE
+CH-43Y
+ÛÝ1ÛÝ(
+CHANGE : OBST. 
+(EFF:20 MAR 2025) 23/1/25
+RJOM AD2.24-SID-1
+MATSUYAMA
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+Note GNSS required.
+VAR 8˚  W
+IYO TWO DEPARTURE RNP1
+RWY14 : Climb on HDG139˚ at or above 1300FT, turn right direct to SHONO at or above 10000FT. 
+RWY32 : Climb on HDG319˚ at or above 500FT, turn left direct to SHONO at or above 10000FT. 
+NOTE RWY14 : 7.0% climb gradient required up to 1800FT. 
+OBST ALT 1464FT located at 4.3NM 154˚ FM end of RWY14.  
+No turn before DER. 
+1300500
+139˚
+319˚
+SHONO
+10000
+DIS VANRAMAYUSTAM / MOJRCHANGE : PROC renamed. PROC course. VAR.  
+(EFF:20 MAR 2025) 23/1/25
+RJOM AD2.24-SID-2
+MATSUYAMA
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOM AD2.24-SID-3
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY14
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 139
+(130.7) -8.1           - - +1300 - - RNP1
+002 DF SHONO - - -8.1           - R +10000 - - RNP1
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 319
+(310.7) -8.1           - - +500 - - RNP1
+002 DF SHONO - - -8.1           - L +10000 - - RNP1
+RJOM / MATSUYAMA RNAV SID
+IYO TWO DEPARTURE
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+SHONO 332744.0N / 1320647.1E
+CHANGE : PROC renamed. PROC course. VAR. Waypoint Coordinates added.
+  
+MATSUYAMA
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+Note GNSS required.
+VAR 8˚  W
+RNP1
+ 
+SAKAR TWO DEPARTURE
+RWY14 : Climb on HDG139˚ at or above 1300FT, turn right direct to OM400, to SAKAR at or above 5000FT.
+RWY32 : Climb on HDG319˚ at or above 500FT, turn left direct to OM400, to SAKAR at or above 5000FT.
+NOTE RWY14 : 7.0% climb gradient required up to 3200FT.
+OBST ALT 2822FT located at 7.6NM 173˚ FM end of RWY14.
+No turn before DER.
+RWY32 : 5.3% climb gradient required up to 3600FT.
+OBST ALT 3084FT located at 10.5NM 178˚ FM end of RWY32.
+URDET TRANSITION
+From SAKAR at or above 5000FT, to JINBE at or above 13000FT, to URDET.
+JINBE TRANSITION
+From SAKAR at or above 5000FT, to JINBE at or above 13000FT.
+ROSIE TRANSITION
+From SAKAR at or above 5000FT, to MOTOQ at or above 13000FT, to ROSIE at or above FL160.
+KOCHI TRANSITION
+From SAKAR at or above 5000FT, to NOUEH at or above 13000FT, to NOKMO at or above FL160, to KRE
+.
+057˚
+25.8
+084˚
+19.8
+072˚
+17.6
+085˚
+16.4
+100˚
+19.0
+100˚
+8.6
+101˚
+17.2
+151˚7.5
+SAKAR TWO DEPARTURE
+URDET TRANSITION / JINBE TRANSITION
+ROSIE TRANSITION / KOCHI TRANSITION 
+NOITISNART dna DIS VANRAMAYUSTAM / MOJR
+SAKAR TWO
+DEPARTURE
+URDET TRANSITION
+JINBE TRANSITION
+ROSIE TRANSITION
+KOCHI TRANSITION
+139˚
+319˚
+500
+1300
+5000
+OM400
+SAKAR
+13000
+NOUEH
+13000
+MOTOQ
+13000
+JINBE
+FL160
+NOKMO
+FL160
+ROSIE
+URDET
+KOCHI(KRE)
+CHANGE : PROC renamed(SAKAR TWO DEPARTURE). URDET TRANSITION, URDET established. 
+                   RANDY TRANSITION, RANDY abolished. VAR. PROC course.  
+(EFF:20 MAR 2025) 23/1/25
+RJOM AD2.24-SID-4
+MATSUYAMA
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOM AD2.24-SID-5
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY14
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 139
+(130.7) -8.1           - - +1300 - -
+002 DF OM400 - - -8.1           - R - - -
+003 TF SAKAR -
+151
+(142.7) -8.1         7.5 - +5000 - -
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 319
+(310.7) - - +500 - -
+002 DF OM400 - - -8.1           - L - - -
+003 TF SAKAR - 151
+(142.7) 7.5 - +5000 - -
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF SAKAR - - -8.1           - - +5000 - -
+002 TF JINBE - 057
+(048.8) -8.1        25.8 - +13000 - -
+003 TF 072
+(064.0) -8.1        17.6           -              - - -
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF SAKAR - - -8.1           - - +5000 - -
+002 TF JINBE - 057
+(048.8) -8.1        25.8 - +13000 - -
+RJOM / MATSUYAMA RNAV SID and TRANSITION
+SAKAR TWO DEPARTURE
+URDET TRANSITION
+JINBE TRANSITION
+-8.1
+-8.1
+URDET -
+CHANGE : PROC renamed(SAKAR TWO DEP, URDET TRANSITION). URDET established. RANDY abolished. PROC course. VAR.  
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+MATSUYAMA
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MATSUYAMA
+STANDARD DEPARTURE CHART -INSTRUMENT
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF SAKAR - - -8.1           - - +5000 - - RNP1
+002 TF MOTOQ - 084
+(076.4) -8.1        19.8 - +13000 - - RNP1
+003 TF ROSIE - 085
+(076.6) -8.1        16.4 - +FL160 - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF SAKAR - - -8.1           - - +5000 - - RNP1
+002 TF NOUEH - 100
+(092.2) -8.1        19.0           - +13000 - - RNP1
+003 TF NOKMO - 100
+(092.4) -8.1         8.6 - +FL160 - - RNP1
+004 TF KRE - 101
+(092.5) -8.1        17.2           - - - - RNP1
+RJOM / MATSUYAMA RNAV SID and TRANSITION
+ROSIE TRANSITION
+KOCHI TRANSITION
+Waypoint Coordinates
+Waypoint Identifier Coordinates Waypoint Identifier Coordinates
+OM400
+SAKAR
+JINBE
+URDET
+334023.4N / 1324141.5E
+333425.3N / 1324708.8E
+335120.9N / 1331027.5E
+335902.5N / 1332930.9E
+ROSIE
+NOUEH
+NOKMO
+KRE
+334248.4N / 1332926.3E
+333339.4N / 1330955.5E
+333317.2N / 1332014.0E
+333230.4N / 1334048.6E
+MOTOQ 333902.8N / 1331018.4E
+CHANGE : PROC course. VAR. Waypoint Coordinates added.
+  
+RJOM AD2.24-SID-6
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+Note GNSS required.
+VAR 8˚  W
+MARCO TWO DEPARTURE RNP1
+1300500
+139˚
+319˚
+OM401
+MARCO
+OM402
+RWY14 : Climb on HDG139˚ at or above 1300FT, turn right direct to OM401, to OM402, to MARCO.
+RWY32 : Climb on HDG319˚ at or above 500FT, turn left direct to OM402, to MARCO.
+NOTE RWY14 : 7.0% climb gradient required up to 1800FT.
+OBST ALT 1464FT located at 4.3NM 154˚ FM end of RWY14.
+No turn before DER.
+DIS VANRAMAYUSTAM / MOJR
+21.6
+316˚
+8.8316˚
+CHANGE : PROC renamed. VAR. PROC course. 
+(EFF:20 MAR 2025) 23/1/25
+RJOM AD2.24-SID-7
+MATSUYAMA
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOM AD2.24-SID-8
+STANDARD DEPARTURE CHART -INSTRUMENT
+RWY14
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 139
+(130.7) -8.1           - - +1300 - -
+002 DF OM401 - - -8.1           - R - - -
+003 TF OM402 -
+316
+(308.1) -8.1         8.8 - - - -
+004 TF MARCO - 316
+(308.1) -8.1        21.6 - - - -
+RWY32
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 319
+(310.7) -8.1           - - +500 - -
+002 DF OM402 - - -8.1           - L - - -
+003 TF MARCO -
+316
+(308.1) -8.1        21.6 - - - -
+RJOM / MATSUYAMA RNAV SID
+MARCO TWO DEPARTURE
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+OM401 334603.4N / 1323745.6E
+OM402 335129.5N / 1322924.1E
+MARCO 340446.0N / 1320850.2E
+CHANGE : PROC course. VAR. Waypoint Coordinates added.
+  
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+RNP1
+MATSUYAMA
+(EFF:20 MAR 2025) 23/1/25
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+RJOM / MATSUYAMA STAR
+MASKU ARRIVAL 
+   From over MASKU, via MYE R319 to ROBIN.
+   Cross MASKU at or above 5000FT, cross MYE R319/20.0DME at or above 4000FT, 
+cross ROBIN at or above 2600FT. 
+D10.1 MYE
+D10.0 IMP
+ROBIN
+4000
+2600
+D27.9 MYE
+MASKU
+D20.0 MYE
+139˚
+R319
+MASKU ARRIVAL 
+VOR/DME
+0FT
+MATSUYAMA
+110.65    MYE
+CH-43Y
+33˚49´48˝N/132˚41´32˝E
+(EFF:25 FEB 2021) 28/1/21
+→ RJOM AD2.24-STAR-1
+MATSUYAMA
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART -INSTRUMENT
+VOR/DME
+0FT
+MATSUYAMA
+110.65    MYE
+CH-43Y
+ÛÝ1ÛÝ(
+RJOM / MATSUYAMA
+Note GNSS required.
+V$5Û:
+Û
+10.0
+Û
+
+
+4000
+R1 PNR LAVIRRA TSE: NIBO
+ROBIN
+1
+(
+MARCO
+1
+(
+ROMAN
+1
+(
+RNAV STAR R:<
+TACAN
+KUGA
+)7
+,:7
+ÛÝ1ÛÝ(
+CH-90X
+ROBIN :(67$55,VAL
+CHANGE : Navigation SpecificaWLRQ%DVLF513ĺ513
+(EFF:21 MAR 2024) 22/2/24
+RJOM AD2.24-STAR-2
+MATSUYAMA
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOM AD2.24-STAR-3
+STANDARD ARRIVAL CHART -INSTRUMENT
+ From MARCO, to ROMAN at or above 4000FT, to ROBIN at or above 2600FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF MARCO - - -7.4 - - - - - RNP1
+002 TF ROMAN - 120
+(113.0) -7.4 10.0 - +4000 - - RNP1
+003 TF ROBIN - 120
+(113.1) -7.4 11.2 - +2600 - - RNP1
+RJOM / MATSUYAMA RNAV STAR RWY14
+ROBIN WEST ARRIVAL
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+MATSUYAMA
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART -INSTRUMENT
+RJOM / MATSUYAMA
+Note GNSS required.
+VAR 7˚W (2016)
+ROBIN EAST ARRIVAL
+KIKMA ARRIVAL
+2600
+4000 6000
+ITUKI
+340415.9N
+1324811.3E
+KIKMA
+340027.5N
+1324912.0E
+MADON
+ROBIN
+340037.9N
+1324017.5E
+OM450
+340234.2N
+1323721.6E
+OM451
+340013.4N
+1323042.9E
+335627.6N
+1323221.8E
+248˚
+7.5
+254˚
+6.0
+267˚
+9.1
+ROBIN EAST ARRIVAL
+MADON ARRIVAL
+KIKMA ARRIVAL
+RNP1
+RNAV STAR RWY14/32
+175˚3.9
+167˚4.0
+MADON ARRIVAL
+VOR/DME
+0FT
+MATSUYAMA
+110.65    MYE
+CH-43Y
+ÛÝ1ÛÝ(
+6000
+CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+(EFF:21 MAR 2024) 22/2/24
+RJOM AD2.24-STAR-4
+MATSUYAMA
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOM AD2.24-STAR-5
+STANDARD ARRIVAL CHART -INSTRUMENT
+ From ITUKI at or above 6000FT, to OM450, to OM451, to ROBIN at or above 2600FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ITUKI - - -7.4 - - +6000 - - RNP1
+002 TF OM450 - 267
+(259.4) -7.4 9.1 - - - - RNP1
+003 TF OM451 - 254
+(247.0) -7.4 6.0 - - - - RNP1
+004 TF ROBIN - 167
+(160.0) -7.4 4.0 - +2600 - - RNP1
+ From ITUKI at or above 6000FT, to MADON at or above 4000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ITUKI - - -7.4 - - +6000 - - RNP1
+002 TF MADON - 248
+(241.0) -7.4 7.5 - +4000 - - RNP1
+ From ITUKI at or above 6000FT, to KIKMA at or above 6000FT.
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF ITUKI - - -7.4 - - +6000 - - RNP1
+002 TF KIKMA - 175
+(167.6) -7.4 3.9 - +6000 - - RNP1
+RJOM / MATSUYAMA RNAV STAR RWY14/32
+ROBIN EAST ARRIVAL
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+MADON ARRIVAL
+KIKMA ARRIVAL
+MATSUYAMA
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJOM / MATSUYAMA
+IWAKUNI  APP ILS-LOC MATSUYAMA  TOWER RADAR   AVBL
+ILS Z or LOC Z RWY14
+128.0 - 236.2
+109.3  IMP
+ATIS  126.65ILS-GP  332.0
+ILS-DME  CH-30X 118.35 - 126.2
+10NM
+4045
+1699
+4170
+4777
+1457
+1496
+676
+971
+180
+˃
+138˚
+278
+968 696
+417
+198
+505
+214
+439433
+205
+217
+377
+159
+165
+85
+183
+411
+1106
+2080
+2940
+090˃
+2950
+4016
+360
+˃
+MYE
+RDH55
+ROBIN
+(IF)
+D10.0 IMP
+MAPt(LOC)
+D0.6 IMP
+MHA 5000
+MAX 210KIAS
+HDG138˚
+MIKAS(FAF): 335506.61N/1323417.74E
+2600
+2600
+2538(LOC)
+2089(LOC)
+1300
+(1287) 640
+(627)
+Timing not authorized for defining the MAPt.MDA
+GP 3.0˚
+MAPt
+(LOC)
+VDP
+(LOC)
+SDF
+(LOC)
+MIKAS
+(FAF)
+ROBIN
+(IF)
+0.2
+0
+0.6
+0.4
+1.5
+1.3
+6.5
+6.3
+7.9
+7.7
+10.0
+9.8
+DME to IMP
+NM to THR
+138˚
+138˚
+MISSED APPROACH
+Climb to 500FT on HDG138˚, 
+turn right, via MYE R255 to 3000FT, 
+turn right, direct to MYE VOR/DME 
+and hold at 5000FT.
+Contact IWAKUNI APP.
+EQPT REQUIRED
+DME
+VOR
+255˚
+R255
+138˚
+NM to IMP
+ALT (3.0˚ APCH Path)
+FAF
+2538
+6
+1928
+7
+2247
+5
+1610
+4
+1292
+3
+973
+2
+654
+MAPt
+–
+MIKAS
+(FAF)
+D7.9 IMP
+185˚ 005˚VOR/DME
+MATSUYAMA
+110.65   MYE
+  CH-43Y
+33˚49´48˝N/132˚41´32˝E
+
+MINIMA 
+CAT
+CATᶗ
+DA(H)
+225 (200) 470 (457)
+570 (557)
+520 (507)1000
+1500 1600
+2400
+32002000
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 25 AD elev. 13
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 4.0%.
+Circling to WEST side of RWY only.
+VAR 7˚W (2017)
+090˚ 270˚
+360˚
+180˚
+6700
+7500
+4000
+5300
+MSA 25NM
+MYE
+319˚
+139˚
+R319
+ROBIN
+D10.1 MYE
+MHA 2700FT
+MAX 230
+KIAS
+MYE VOR/DME
+D16.0 MYE
+MHA 5000FT
+MAX 210KIAS
+MYE
+VOR/DME
+(EFF:25 FEB 2021) 28/1/21
+→ RJOM AD2.24-IAC-1
+MATSUYAMA
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+138˚
+138˚
+335˚
+VOR/DME
+MATSUYAMA
+110.65   MYE
+  CH-43Y
+33˚49´48˝N/132˚41´32˝E
+IWAKUNI  APP ILS-LOC MATSUYAMA  TOWER RADAR  AVBL
+ILS Y or LOC Y  RWY14
+128.0 - 236.2
+109.3  IMP
+ILS-GP  332.0
+ILS-DME  CH-30X 118.35 - 126.2
+090˃
+360
+˃
+10NM
+971676
+6041106
+968 696
+417
+278
+198
+505
+214
+433 439
+377
+85
+183
+HDG138˚
+1699
+3127
+4045
+1457
+411
+217
+1496
+2080
+2940
+2950
+4016MIKAS(FAF): 335506.61N/1323417.74E
+4170
+4777
+205
+159
+165
+ATIS  126.65
+RJOM / MATSUYAMA
+MYE
+RDH55
+5000
+2100
+2600
+2538(LOC)
+2089(LOC)
+1300
+(1287) 640
+(627)
+Timing not authorized for defining the MAPt.
+Turn initiation within D11.0 MYE
+Turn initiation within D11.0 MYE
+MAX Turning speed 200KIAS
+MDA
+GP 3.0˚
+MAPt
+(LOC)
+VDP
+(LOC)
+SDF
+(LOC)
+MIKAS
+(FAF)
+0.2
+0
+0.6
+0.4
+1.5
+1.3
+6.5
+6.3
+7.9
+7.7
+DME to IMP
+NM to THR
+138˚
+138˚
+MISSED APPROACH
+Climb to 500FT on HDG138˚, turn
+right, via MYE R255 to 3000FT, 
+turn right, direct to MYE VOR/DME 
+and hold at 5000FT.
+Contact IWAKUNI APP.
+EQPT REQUIRED
+DME
+VOR
+NM to IMP
+ALT (3.0˚ APCH Path)
+FAF
+2538
+6
+1928
+7
+2247
+5
+1610
+4
+1292
+3
+973
+2
+654
+MAPt
+–
+335˚
+MIKAS
+(FAF)
+D7.9 IMP
+255˚
+R255
+MAPt(LOC)
+D0.6 IMP 185˚ 005˚
+090˚ 270˚
+360˚
+180˚
+6700
+7500
+4000
+5300
+MSA 25NM
+MYE
+MHA 5000FT
+MAX 210KIAS
+MYE
+VOR/DME
+
+MINIMA 
+CAT
+CATᶗ
+DA(H)
+225 (200) 470 (457)
+570 (557)
+520 (507)1000
+1500 1600
+2400
+32002000
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 25 AD elev. 13
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 4.0%.
+Circling to WEST side of RWY only.
+VAR 7˚W (2017)
+(EFF:25 FEB 2021) 28/1/21
+RJOM AD2.24-IAC-2
+MATSUYAMA
+←
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+140˚
+140˚
+336˚
+MATSUYAMA VOR/DME
+110.65      MYE
+  CH-43Y
+ÛÝ1ÛÝ(
+IWAKUNI  APP MATSUYAMA  TOWER RADAR  AVBL
+VOR RWY14
+128.0 - 236.2 118.35 - 126.2
+090°
+360°
+10NM
+971676
+6041106
+968 696
+417
+278
+198
+505
+214
+433 439
+377
+85
+183
+1699
+3127
+4045
+1457
+411
+217
+1496
+2080
+2940
+2950
+4016KOFJI(FAF): 1(
+4170
+4777
+205
+159165
+ATIS  126.65
+RJOM / MATSUYAMA
+MYE
+5000
+2100
+
+
+1300
+(1287) 780
+(767)
+Timing not authorized for defining the MAPt.
+Turn initiation within D11.0 MYE.
+Turn initiation within D11.0 MYE.
+MAX Turning speed 200KIAS.
+MDA
+3.0˚
+MAPt
+VDPSDF
+KOFJI
+(FAF)
+0.3
+0
+1.0
+0.7
+1.6
+1.3
+5.0
+4.7
+2.6
+2.3
+DME to MYE
+NM to THR
+140˚140˚
+MISSED APPROACH
+Climb to 700FT via MYE R140, 
+turn right, via MYE R255 to 3000FT,
+turn right, direct to MYE VOR/DME 
+and hold at 5000FT.
+Contact IWAKUNI APP.
+EQPT REQUIRED
+DME
+NM to MYE
+ALT (3.0˚ APCH Path)
+FAF
+1576
+4
+1258
+3
+939
+2
+621
+MAPt
+–
+336˚
+KOFJI
+(FAF)
+D5.0 MYE
+255˚
+R255
+MAPt
+D1.0 MYE 185˚ 005˚
+090˚ 270˚
+360˚
+180˚
+6700
+7500
+4000
+5300
+MSA 25NM
+MYE
+MHA 5000FT
+MAX 210KIAS
+MYE
+VOR/DME
+MYE
+VOR/DME
+ 
+MINIMA 
+CAT
+470 (457)
+570 (557)
+520 (507)1500 1600
+2400
+32002000
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 25 AD elev. 13
+A
+B
+C
+D
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 4.0%.
+Circling to 
+WEST side of RWY only.
+VAR 7˚W (2017)
+(EFF:25 FEB 2021) 28/1/21
+→ RJOM AD2.24-IAC-3
+MATSUYAMA
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+384
+572
+927
+2904
+1686
+509
+1246
+4193
+496
+716
+3259
+675 949
+1104
+603
+972
+406
+2836
+935
+1463
+395
+1263
+282
+613
+1052
+656
+506
+632
+470
+442
+218
+159
+169
+10NM   2.3210°
+  3.2210°
+  3.0138°
+----
+3.9
+700
+  5.4
+026°
+  7.2
+318° 138°
+RW14
+UNSHU
+(FAF)
+OM484
+OM482
+ROBIN
+OM483
+OM481
+MADON
+(IF)
+䢳䢵䢴䤑䢷䢲䢩䣇䢳䢵䢴䤑䢶䢲䢩䣇䢳䢵䢴䤑䢵䢲䢩䣇
+䢵䢶䤑䢲䢩䣐
+䢵䢵䤑䢷䢲䢩䣐
+Contour
+Intervals
+AD elev.13
+2000
+1500
+1000
+500
+IWAKUNI   APP
+128.0 - 236.2
+RNP  AR
+RF  required.
+MATSUYAMA   TOWER
+118.35 - 126.2
+RADAR  AVBL
+ATIS   126.65
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 50°C
+VAR 7°W (2013)
+RNP RWY14(AR)RJOM / MATSUYAMACHANGE : PROC renamed. Requirement for RNP .
+UNSHU(FAF) :335740.45N/1323845.52E
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360°
+180°
+l
+4000
+5800
+7500
+MSA  RW14  25 NM
+NOT TO SCALE
+D16.0 
+MYE
+MADON
+D10.9 MYE
+MHA 4000
+MAX 230KIAS
+mye
+VOR/DME
+MATSUYAMA
+110.65  MYE
+CH-43Y
+33䜪49’48”N/132䜪41’32”E
+Þ
+3.0
+RDH 55
+NM to THR
+OM482
+MADON
+(IF)
+4000
+MISSED APPROACH
+From RW14 on track 138, 
+at or above 700FT turn right, 
+direct to OM483, to OM484,
+to ROBIN and hold at 
+2700FT . 
+Contact IWAKUNI APP.
+1023
+12.4
+RW14
+6.9
+OM481
+9.2 0
+UNSHU
+(FAF)
+2265
+3000
+NOT TO SCALE
+D16.0 MYE
+ROBIN
+D10.1 MYE
+MHA 2700
+MAX 230KIAS
+MATSUYAMA
+VOR/DME
+(MYE)
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV
+A
+B
+C
+D
+MINIMA       THR elev. 25         AD elev. 13
+2000
+Authorization Required
+505(480)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+-
+CAT RNP 0.30
+-
+(EFF:6 OCT 2022) 11/8/22
+RJOM AD2.24-IAC-4
+MATSUYAMA
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOM AD2.24-IAC-5
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.1 - - - -
+002 TF - -7.1 - - - 1.0
+003 TF - -7.1 - - -3.00 0.3
+004
+RF
+Center:
+OMRF4
+r=3.06NM
+- -7.1 L - -3.00 0.3
+005 TF Y -7.1 - - -3.00/55 0.3
+006 FA - -7.1 - - - 1.0
+007 DF - -7.1 R - - 1.0
+008 TF - -7.1 - - - 1.0
+009 TF - -7.1 - - - 1.0
+OM484
+340037.92N / 1324017.47E
+335740.45N / 1323845.52E
+RW14
+OM483
+335004.50N / 1324121.73E
+334643.12N / 1323652.81E
+OM482
+2700
+Coordinates
+335420.16N / 1324102.43E
+- - +4000
+3000
+-
+-
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+3.0
+OM481 210
+(203.2) 2.3 2265
+1023
+5.4
+80
++700
+RJOM / MATSUYAMA RNP RWY14(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+UNSHU 210
+(203.3) 3.2
+OM482 - 3.9
+MADON
+CHANGE : PROC renamed.
+335123.09N / 1323018.19E
+RF Arc Center Identifier
+OMRF4MADON
+UNSHU
+OM481 335533.13N / 1323739.63E
+335159.96N / 1323839.26E
+-
+-
+7.2
+ROBIN 026
+(018.6)
+ROBIN 335627.62N / 1323221.80E
+RW14 138
+(130.5)
+OM483
+OM484
+-
+318
+(310.5)
+- 138
+(130.5)
+MATSUYAMA
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+2183
+2973
+603
+675
+972
+2195
+716
+927
+1701
+1944
+1686
+3127
+2836
+949
+1495
+2374
+496
+649
+1249
+2343
+2376
+1978
+3259
+1205
+442
+3395
+656
+506
+935
+1339
+395
+3299
+169
+632
+470
+613
+163
+282
+3121
+1463
+10NM
+----
+3.4
+281°䢱1.0
+318°䢱2.1
+1.2
+   6.3185°
+700
+   4.7185°
+318°
+OM273 OM272
+RW32
+JYAKO
+OM274
+OM271
+MAX 165KIAS
+KIKMA
+(IF)
+HENRO
+(FAF)
+»
+䢳䢵䢴䤑䢷䢲䢩䣇䢳䢵䢴䤑䢶䢲䢩䣇䢳䢵䢴䤑䢵䢲䢩䣇
+䢵䢶䤑䢲䢩䣐
+䢵䢵䤑䢷䢲䢩䣐
+Contour
+Intervals
+AD elev.13
+2000
+1500
+1000
+500
+IWAKUNI   APP
+128.0 - 236.2
+RNP  AR
+RF  required.
+MATSUYAMA   TOWER
+118.35 - 126.2
+RADAR  AVBL
+ATIS   126.65
+For uncompensated Baro-VNAV systems, procedure not authorized below -5°C / above 50°C
+VAR 7°W (2013)
+RNP RWY32(AR)RJOM / MATSUYAMACHANGE : PROC renamed. Requirement for RNP .
+HENRO(FAF) :335408.87N/1324925.09E
+10123456789 1 0
+KM
+1012345
+NM
+090°
+360°
+180°
+l
+4000
+5800
+7500
+MSA  RW32  25 NM
+NOT TO SCALE
+D18.0 
+MYE
+KIKMA
+D12.4 
+MYE
+MHA 6000
+MAX 230KIAS
+mye
+VOR/DME
+MATSUYAMA
+110.65  MYE
+CH-43Y
+33䜪49’48”N/132䜪41’32”E
+Þ
+2.1
+RDH 50
+NM to THR
+OM274
+KIKMA
+(IF)
+6000
+MISSED APPROACH
+From RW32 on track 318, 
+at or above 700FT turn left, 
+direct to JYAKO and hold at 
+4000FT .
+Contact IWAKUNI APP.
+18.7
+RW32
+3.3
+OM273
+0 7.7
+2505
+4000
+4.3
+OM272
+12.4
+HENRO
+(FAF)OM271
+1423
+1108
+729
+NOT TO SCALED15.0 MYE
+JY AKO
+D9.0 MYE
+MHA 4000
+MAX 230KIAS
+MATSUYAMA
+VOR/DME
+(MYE)
+Missed APCH climb gradient MNM 5.0%
+DA(H) CMV
+A
+B
+C 1600
+D 1800
+MINIMA       THR elev. 17         AD elev. 13
+Authorization Required
+484(467)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+-
+CAT RNP 0.30
+-
+(EFF:6 OCT 2022) 11/8/22
+RJOM AD2.24-IAC-6
+MATSUYAMA
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOM AD2.24-IAC-7
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -7.1 - - - -
+002 TF - -7.1 - - - 1.0
+003 TF - -7.1 - -165 -3.00 0.3
+004
+RF
+Center:
+OMRF1
+r=2.04NM
+- -7.1 R - -3.00 0.3
+005 TF - -7.1 - - -3.00 0.3
+006
+RF
+Center:
+OMRF2
+r=1.85NM
+- -7.1 R - -3.00 0.3
+007 TF Y -7.1 - - -3.00/50 0.3
+008 FA - -7.1 - - - 1.0
+009 DF - -7.1 L - - 1.0
+RW32
+340027.49N / 1324911.96E
+335408.87N / 1324925.09E
+OM273
+OM274
+334724.21N / 1324547.47E
+334750.46N / 1324429.38E
+OM272
+4000
+Coordinates
+334915.02N / 1324555.54E
+334923.23N / 1324707.68E
+- - +6000
+4000
+67
++700
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+1.0
+OM271 185
+(178.4) 4.7 2505
+1423
+-
+1108
+729
+RJOM / MATSUYAMA RNP RWY32(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+HENRO 185
+(178.4) 6.3
+OM272 - 3.4
+KIKMA
+CHANGE : PROC renamed.
+334911.75N / 1324235.61E
+RF Arc Center Identifier
+OMRF1
+OMRF2
+KIKMA
+HENRO
+OM271 334926.79N / 1324934.83E
+334720.59N / 1324658.72E
+1.2
+2.1
+-
+JYAKO -
+JYAKO 334643.83N / 1323118.89E
+OM273 281
+(273.5)
+RW32
+-
+318
+(310.7)
+318
+(310.7)
+OM274 -
+MATSUYAMA
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJOM / MATSUYAMA Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ᇼỤ ᇼỤ 
+Horie Horie harbor
+䚷ᯇᒣ䝅䝔䜱䞊 ᯇᒣᇛ
+Matsuyama City Matsuyama castle
+ᾏୖ
+Over the sea
+᳃ᯇ 㔜ಙ኱ᶫ
+Morimatsu Shigenobu-ohashi bridge
+䝃䜴䝇䝫䜲䞁䝖 ᳃ᕝἙཱྀ
+South Point Mouth of Mori river
+㟷ᓥ 㟷ᓥ
+Aoshima Aoshima island
+཮ᾏ 䜅䛯䜏䝅䞊䝃䜲䝗බᅬ
+Futami Futami seaside park
+7.0NM
+3.4NM072°T /
+201°T / 9.1NM
+192°T / 5.1NM
+/ 12.3NM243°T
+CHANGE : VAR.
+7NM WEST
+䚷ὀ䠖᭷ど⏺㣕⾜᪉ᘧ䛻䜘䜚ᯇᒣ✵ 䛻╔㝣䛧䜘䛖䛸䛩䜛⯟✵ᶵཪ䛿ᯇᒣ⯟✵஺㏻⟶ไᅪ䜢㏻㐣䛧䜘䛖䛸䛩䜛
+䚷䚷䚷⯟✵ᶵ䛿䚸༡᪉ྥ䛛䜙㐍ධ䛩䜛ሙྜ䛿཮ᾏ䝫䜲䞁䝖௜㏆䛷䚸༡す䡚す᪉ྥ䛛䜙㐍ධ䛩䜛ሙྜ䛿㟷ᓥ䝫䜲
+䚷䚷䚷䞁䝖ཪ䛿㻣㻺㻹㻌㼃㻱㻿㼀௜㏆䛷䚸ᯇᒣ䝍䝽䞊䛸㏻ಙタᐃ䛩䜛䛣䛸䚹
+  NOTE : When VFR flight is going to enter the cont rol zone for landing or passing through, the pilot should
+               contact with the control tower before passing following points;
+               FUTAMI in case of coming from south/
+               AOSHIMA or 7NM WEST in case of coming from southwest to west.
+Call sign BRG / DIST from ARP Remarks
+119°T / 5.0NM
+027°T 5.4NM/
+270°T /
+MORIMATSU
+MOMOMORIRIRIMAMAMATSTSTSUUU
+MATSUYAMA CONTROL ZONE
+MA CO
+At
+ONTROL ZONE
+A CO
+At
+At or below 3000FT
+HORIE
+HOHOHORIRIRIEEE
+5NM from ARP
+MATSUYAMA TOWER
+ATSUYAMA
+118.35
+A
+AMA
+5
+5 -
+TOWE
+A 
+MA
+- 126.2
+VAR 8
+R 8
+8888888888
+
+W(2024) /
+) / 5'W
+SOUTH POINT
+SOSOSOUTUTUTHHH POPOPOINININTTT
+AOSHIMA
+AOAOAOSHSHSHIMIMIMAAA
+7NM WEST
+7N7N7NMMM WEWEWESTSTST
+FUTAMI
+FUFUFUTATATAMIMIMI
+㼃㼑㼎
+㼑㼎㼎㼎㼎㼎㼎㼎㼎㼎㼎
+䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅
+䠅 /
+/ Web Mercator projection
+MATSUYAMA CITY
+MAMAMATSTSTSUYUYUYAMAMAMAAA CICICITYTYTY
+AAA
+(EFF:21 MAR 2024) 22/2/24
+RJOM AD2.24-OTHER-1
+MATSUYAMA
+
+
+=== Page 40 ===
+INTENTIONALLY LEFT BLANK
+

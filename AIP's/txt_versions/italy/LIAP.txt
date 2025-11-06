@@ -1,0 +1,770 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIAP 1 - 1
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIAP AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIAP AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIAP - L'AQUILA/Parchi
+LIAP AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIAP AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+42°22'46''N 013°18'34''E
+2 Direzione e distanza dalla città 4 NM WNW L'Aquila
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+2211 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+2° E (2005.0) / 5'E
+5 Autorità amministrativa aeroportuale Aeroporto "Giuliana Tamburro"
+Ufficio di Pescara
+Via Tiburtina Km 229,100
+65131 Pescara
+ tel. +39 085 4311962
+ aero.pescara@enac.gov.it
+regionicentro.apt@enac.gov.it
+ENAC - DT Regioni Centro
+Aeroporto "Raffaello Sanzio"
+60015 Falconara Marittima (Ancona)
+ Tel +39 071 9156083 
+regionicentro.apt@enac.gov.it
+ Aerodrome administration authority "Giuliana Tamburro" Airport
+Pescara Office
+Via Tiburtina Km 229,100
+65131 Pescara
+ tel. +39 085 4311962
+ aero.pescara@enac.gov.it
+regionicentro.apt@enac.gov.it
+ 
+ Gestore aeroportuale SUNRISE AVIATION SRL
+Via dell' Aringo, 60
+67100 Preturo (AQ)
+Tel: +39 0862 020209; fax: +39 0862 461880
+Tel operativo +39 351 5969855
+Segreteria: +39 348 3638684 e +39 0862 020209
+E-mail: aeroportodeiparchi@sunriseaviation.eu ,
+info@sunriseaviation.eu
+ Aerodrome operator SUNRISE AVIATION SRL
+Via dell' Aringo, 60
+67100 Preturo (AQ)
+Tel: +39 0862 020209; fax: +39 0862 461880
+Operating tel +39 351 5969855
+Secretariat: +39 348 3638684 and +39 0862 020209
+E-mail: aeroportodeiparchi@sunriseaviation.eu ,
+info@sunriseaviation.eu
+ Autorità ATS NIL
+
+=== Page 2 ===
+AD 2 LIAP 1 - 2
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Aerodromo aperto al traffico di Aviazione Generale
+ Remarks 1. Aerodrome open to General Aviation traffic
+LIAP AD 2.3 ORARIO DEI SERVIZI
+LIAP AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale Aeroporto aperto al traffico tutti i giorni SR-SS LT
+ Aerodrome Administration Aerodrome open to traffic every day SR-SS LT
+2 Dogana ed immigrazione Garantita su richiesta
+ Customs and immigration Guaranteed O/R
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento MON-SUN 0730-1830 (0630-1730) o 0730-SS (0630-SS), quale dei due si verifichi
+prima
+ Fuelling MON-SUN 0730-1830 (0630-1730) or 0730-SS (0630-SS), whichever is earlier
+9 Handling MON-SUN 0730-1830 (0630-1730) o 0730-SS (0630-SS), altri orari previa richiesta
+preventiva
+  MON-SUN 0730-1830 (0630-1730) or 0730-SS (0630-SS), other hours O/R
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note NIL
+ Remarks  
+LIAP AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIAP AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL, MOGAS / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento JET A1 15000 lt - AVGAS 100LL 15000 lt - MOGAS 15000 lt
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito Si
+ Hangar space for visiting aircraft Yes
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIAP 1 - 3
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+7 Note NIL
+ Remarks  
+LIAP AD 2.5 SERVIZI PER I PASSEGGERI
+LIAP AD 2.5 PASSENGER FACILITIES
+1 Alberghi Alberghi nelle vicinanze
+ Hotels Hotels in the area
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi disponibile su richiesta
+ Transportation Taxi on request
+4 Servizio medico Funzione di Assistenza Medica ed ambulanza garantita dalla A.S.L. n.1 Avezzano –
+Sulmona e dall’Ospedale Regionale San Salvatore di Coppito (AQ) a 5 km - Tel: +39
+0862 3681
+ Medical facilities Medical assistance and ambulance function guaranteed by A.S.L. n.1 Avezzano -
+Sulmona and from the Regional Hospital San Salvatore di Coppito (AQ) at 5 km - Tel:
++39 086 23681
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Bar
+ Remarks  
+LIAP AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIAP AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso Mezzo antincendio Daimler-Benz 122 AF con: 3000lt di acqua + idro-schiuma per
+erogare 1000 lt di acqua miscelata al 6% + 50 kg di polvere. A terra: 100 kg di
+polvere su carrello. Categoria antincendio ICAO: 2 Categoria antincendio eliportuale:
+H2
+ Rescue equipment Daimler-Benz 122 AF fire fighting vehicle with: 3000lt of water + hydro-foam to
+dispense 1000 lt of water mixed at 6% + 50 kg of powder. To the ground: 100 kg of
+powder on trolley. ICAO fire fighting category: 2 Heliport fire fighting category: H2
+3 Rimozione aeromobili in difficoltà Servizio disponibile su richiesta
+ Capability for removal of disabled aircraft Service available upon request
+4 Note NIL
+ Remarks  
+LIAP AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIAP AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrice su richiesta
+ Types of clearing equipment Sweeper on request
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+
+=== Page 4 ===
+AD 2 LIAP 1 - 4
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+5 Note NIL
+ Remarks  
+LIAP AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIAP AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+APRON 100 BITUMCONG 21930
+m²
+PCN 23/F/B/W/T
+APRON 200 BITUMCONG 7320
+m²
+PCN 23/F/B/W/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 14.0 M BITUMCONG PCN 27/F/B/W/T
+B 15.0 M BITUMCONG PCN 27/F/B/W/T
+C 35.0 M BITUMCONG PCN 27/F/B/W/T
+D 8.0 M BITUMCONG PCN 27/F/B/W/T
+E 8.0 M BITUMCONG PCN 27/F/B/W/T
+F 40.0 M BITUMCONG PCN 27/F/B/W/T
+T 16.0 M BITUMCONG PCN 27/F/B/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note TWY C chiusa
+ Remarks TWY C closed
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIAP 1 - 5
+AIRAC effective date 08 AUG 2024
+ENAV - Roma (A08/24)
+LIAP AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIAP AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+Vedi carta AD e APDC in vigore
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+See AD and APDC chart in force
+2 Illuminazione e segnaletica per RWY e TWY Segnaletica obbligatoria disponibile
+ RWY and TWY markings and lights Mandatory signs available
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIAP AD 2.10 OSTACOLI AEROPORTUALI
+LIAP AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIAP AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIAP AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+
+=== Page 6 ===
+AD 2 LIAP 1 - 6
+AIRAC effective date 08 AUG 2024 AIP - Italia
+(A08/24) ENAV - Roma
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LIAP AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIAP AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+18 NIL 1410 x 26
+PCN 27/F/B/W/T
+BITUMCONG
+42°23'09.99''N
+013°18'32.20''E
+2210.6 FT / 2211.0 FT
+36 NIL 1410 x 26
+PCN 27/F/B/W/T
+BITUMCONG
+42°22'27.08''N
+013°18'33.99''E
+2201.7 FT / 2202.0 FT
+18GLD NIL 540 x 25
+NIL
+Grass
+42°23'00.70''N
+013°18'31.22''E
+2204.9 FT / NIL
+36GLD NIL 540 x 25
+NIL
+Grass
+42°22'43.15''N
+013°18'31.92''E
+2197.0 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+18 NIL NIL NIL 1445 x 80 90 x 69
+36 NIL NIL NIL 1445 x 80 80 x 50
+18GLD NIL NIL NIL NIL NIL
+36GLD NIL NIL NIL NIL NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+18 NIL NIL
+36 NIL 1) DTHR 85 m
+18GLD NIL 1) Pista delimitata da cinesini/RWY bounded by cones
+36GLD NIL 1) Pista delimitata da cinesini/RWY bounded by cones
+LIAP AD 2.13 DISTANZE DICHIARATE
+LIAP AD 2.13 DECLARED DISTANCES
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIAP 1 - 7
+AIRAC effective date 08 AUG 2024
+ENAV - Roma (A08/24)
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+18 1410 1410 1410 1410
+36 1410 1410 1410 1325
+18GLD 540 540 540 540
+36GLD 540 540 540 540
+NOTE
+REMARKS
+NIL
+LIAP AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIAP AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL 3.5°
+wing bar
+lato sinistro
+left side
+17.7 NIL
+18GLD NIL NIL NIL NIL NIL NIL NIL NIL
+36GLD NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL NIL NIL
+18GLD NIL NIL NIL NIL NIL NIL NIL NIL
+36GLD NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+18 NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL
+18GLD NIL
+ 
+NIL NIL NIL NIL NIL
+36GLD NIL
+ 
+NIL NIL NIL NIL NIL
+LIAP AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIAP AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+   
+     
+
+=== Page 8 ===
+AD 2 LIAP 1 - 8
+AIRAC effective date 08 AUG 2024 AIP - Italia
+(A08/24) ENAV - Roma
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: NIL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIAP AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIAP AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LIAP AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIAP AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+L'Aquila/Parchi ATZ
+42°27'14"N 013°21'38"E;
+42°18'19"N 013°21'37"E
+then arc of circle in
+clockwise direction
+radius 5.0 NM centred on
+42°22'46"N 013°18'34"E
+till point of origin.
+5000 FT
+AMSL
+G NIL NIL
+1) WI Roma FIR
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIAP 1 - 9
+AIRAC effective date 08 AUG 2024
+ENAV - Roma (A08/24)
+LIAP AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIAP AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+
+=== Page 10 ===
+AD 2 LIAP 1 - 10
+AIRAC effective date 08 AUG 2024 AIP - Italia
+(A08/24) ENAV - Roma
+LIAP AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIAP AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIAP AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIAP AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+• E’ vietato l’uso contemporaneo delle piste.
+• Il traffico a motore deve usare la pista in asfalto.
+• Il traffico aliante ed i voli scuola di base possono utilizzare entrambe
+le piste.
+• Simultaneous use of the runways is not allowed.
+• All aircraft must use the asphalt runway.
+• Glider traffic and based training aircraft may use both runways.
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+TWY C chiusa TWY C closed
+4 Procedure applicabili agli aeromobili in condizioni di
+visibilità ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+NIL NIL
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+NIL NIL
+LIAP AD 2.21 PROCEDURE ANTIRUMORE
+LIAP AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIAP AD 2.22 PROCEDURE DI VOLO
+LIAP AD 2.22 FLIGHT PROCEDURES
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIAP 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+NIL NIL
+4.1 Informazioni generali 4.1 General information
+E’ vietato l’uso contemporaneo delle piste Simultaneous use of the runways is not allowed
+4.2 Attività di circuito 4.2 Circuit activity
+• Circuito di traffico aeroplani a EST del campo
+• Circuito alianti sinistro
+• Aircraft traffic pattern EAST of the field
+• Glider traffic pattern LEFT HAND
+4.3 Arrivi 4.3 Arrivals
+Il pilota che deve iniziare la procedura di avvicinamento
+deve assicurarsi che l’altra pista non sia in uso
+The pilot must be sure that the runways are not in use prior
+to commence the approach phase
+4.4 Partenze 4.4 Departures
+Il pilota che deve iniziare la procedura di decollo deve assicurarsi
+che l’altra pista non sia in uso
+The pilot must be sure that the runways are not in use prior
+to commence the take-off phase.
+4.5 Sorvoli 4.5 Overflying
+Altezza di 2000 ft AGL o superiore Height of 2000 ft AGL or higher
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIAP AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIAP AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIAP AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIAP AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIAP 2 - 1
+AIRCRAFT PARKING DOCKING CHART ICAO  AD 2 LIAP 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 18/36  AD 2 LIAP 3 - 1
+LIAP AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIAP AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 12 ===
+AD 2 LIAP 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+

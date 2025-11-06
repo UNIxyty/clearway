@@ -1,0 +1,799 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIMB 1 - 1
+AIRAC effective date 28 NOV 2024
+ENAV - Roma (A12/24)
+LIMB AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIMB AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIMB - MILANO/Bresso
+LIMB AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIMB AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+45°32'29''N 009°12'08''E *
+2 Direzione e distanza dalla città 4.32 NM NNE Milano
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+484 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2005.0) / 6'E
+5 Autorità amministrativa aeroportuale ENAC - Direzione Territoriale Milano Linate
+Aeroporto "Enrico Forlanini"
+20054 Segrate (MI)
+ Tel +39 02 74852952
+ E-mail: linate.apt@enac.gov.it
+Pec: protocollo@pec.enac.gov.it
+ Aerodrome administration authority ENAC - Direzione Territoriale Milano Linate
+"Enrico Forlanini" Airport
+20054 Segrate (MI)
+ Tel +39 02 74852952
+ E-mail: linate.apt@enac.gov.it
+Pec: protocollo@pec.enac.gov.it
+ Gestore aeroportuale ENAC
+ Aerodrome operator  
+ Autorità ATS NIL
+ 
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. Atterraggi e decolli su LIMB AD sono consentiti solo per voli da/ per stati membri
+UE e stati extra-UE aderenti all’area Schengen
+2. Tutti i voli da e per LIMB devono essere notificati all’Aeroclub Milano con un modulo
+disponibile sul sito www.aeroclubmilano.it
+3. Il modulo di notifica deve essere inoltrato:
+a. almeno 12 ore prima dell’ EOBT/ETA per voli da/per stati membri UE e non
+aderenti all’aerea Shengen e da/per stati extra-UE aderenti all’area Schengen
+b. almeno 3 ore prima dell’ EOBT/ETA per tutti gli altri voli
+c. voli non interessati: voli di Stato, HEMS, voli di addestramento effettuati sia
+dai membri di associazioni di volo che da compagnie concessionarie, basati
+su LIMB, con aeromobili sia di proprietà che usualmente di base a LIMB
+4. ACB tel +39 02 6101625/66508616/66508612
+fax +39 02 66505959
+ Remarks 1. Landing and take-off on LIMB AD allowed only for flights to/ from EU member
+States and non-EU States member of the Schengen area
+2. All flights to/from LIMB shall be notified to Aeroclub Milano by means of a specific
+form available at www.aeroclubmilano.it
+3. The notification form shall be forwarded:
+
+=== Page 2 ===
+AD 2 LIMB 1 - 2
+AIRAC effective date 28 NOV 2024 AIP - Italia
+(A12/24) ENAV - Roma
+a. at least 12 HR before EOBT/ETA for flights to/from EU member States and not
+adhering to the Shengen area and from/to non-EU States member of the Schengen
+area
+b. at least 3 HR before EOBT/ETA for all other flights
+c. traffic not affected: State flights, HEMS, training flights performed by members
+of both flying associations and concessionaire companies, based at LIMB, with
+aircraft of their own or aircraft usually based at LIMB dealership companies, with
+both owned and usually based aircraft at LIMB
+4. ACB tel +39 02 6101625/66508616/66508612
+fax +39 02 66505959
+LIMB AD 2.3 ORARIO DEI SERVIZI
+LIMB AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0800-SS +30 (0700-SS +30)
+ Aerodrome Administration  
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento 0800-SS +30  (0700-SS +30 )
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. AD chiuso il 24, 25 e 31 dicembre, 1 gennaio, le due settimane centrali di agosto
+con eccezione delle operazioni HEMS
+2. ARO CBO MILANO: vedi GEN 3.1
+ Remarks 1. AD closed on 24th, 25th and 31st December, 1st of January, two middle weeks of
+August with the exception of HEMS operations
+2. ARO CBO MILANO: see GEN 3.1
+LIMB AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIMB AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito Contattare ACB Milano
+ Hangar space for visiting aircraft Contact ACB Milano
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIMB 1 - 3
+AIRAC effective date 28 NOV 2024
+ENAV - Roma (A12/24)
+6 Servizio riparazioni per aeromobili in 
+transito
+Contattare ACB Milano
+ Repair facilities for visiting aircraft Contact ACB Milano
+7 Note 1. Per il rifornimento contattare l’ACB tel +39 02 6101625
+ Remarks 1. For refuelling service contact ACB tel +39 02 6101625
+LIMB AD 2.5 SERVIZI PER I PASSEGGERI
+LIMB AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi O/R, Bus
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Bar
+ Remarks 1. Bar
+LIMB AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIMB AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Presidio antincendio
+ Aerodrome category for fire fighting Fire fighting support
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Il presidio antincendio è assicurato negli orari di servizio aeroportuali in accordo
+con il Regolamento ENAC "Disciplina generale della protezione antincendio per
+aeroporti di aviazione generale ed aviosuperfici".
+ Remarks 1. Fire fighting support assured during AD service hours in accordance with ENAC
+(Italian CAA) Regulation "Disciplina generale della protezione antincendio per
+aeroporti di aviazione generale ed aviosuperfici".
+LIMB AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIMB AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+
+=== Page 4 ===
+AD 2 LIMB 1 - 4
+AIRAC effective date 28 NOV 2024 AIP - Italia
+(A12/24) ENAV - Roma
+LIMB AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIMB AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron NIL SIWL 5000 KG
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+TWY NIL NIL SIWL 5000 kg
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIMB AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIMB AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIMB AD 2.10 OSTACOLI AEROPORTUALI
+LIMB AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIMB AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIMB AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIMB 1 - 5
+AIRAC effective date 28 NOV 2024
+ENAV - Roma (A12/24)
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LIMB AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIMB AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+18 NIL 1080 x 30
+SIWL 5000 KG
+ASPH
+45°32'40.99''N
+009°12'08.37''E
+483.5 FT / 484.0 FT
+36 NIL 1080 x 30
+SIWL 5000 KG
+ASPH
+45°32'06.00''N
+009°12'08.58''E
+463.6 FT / 464.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+18 NIL NIL 60 x 150 1200 x 150 NIL
+36 NIL NIL 60 x 150 1200 x 150 NIL
+
+=== Page 6 ===
+AD 2 LIMB 1 - 6
+AIRAC effective date 28 NOV 2024 AIP - Italia
+(A12/24) ENAV - Roma
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+18 NIL 1) Pista provvista di fasce laterali 15 M per parte/RWY provided with lateral strips 15 M each side
+36 NIL 1) Pista provvista di fasce laterali 15 M per parte/RWY provided with lateral strips 15 M each side
+LIMB AD 2.13 DISTANZE DICHIARATE
+LIMB AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+18 1080 1140 1080 1080
+36 1080 1140 1080 1080
+NOTE
+REMARKS
+NIL
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIMB 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIMB AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIMB AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+18 NIL NIL NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+18 NIL NIL NIL NIL NIL NIL
+36 NIL NIL NIL NIL NIL NIL
+LIMB AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIMB AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: NIL
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIMB AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+
+=== Page 8 ===
+AD 2 LIMB 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIMB AD 2.16 HELICOPTER LANDING AREA
+1 Posizione 45°32’05”N 009°12’03”E
+ Position  
+2 Elevazione 484 FT
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+Dimensioni: 26 x 26 M 
+Superficie: conglomerato cementizio 
+Resistenza: NIL 
+Segnaletica: “H” rossa su croce bianca e striscia bianca di bordo piazzola
+ Dimensions, surface, strength, marking Dimensions: 26 x 26 M
+Surface: concrete conglomerate
+Strength: NIL
+Marking: red “H” on white cross and white edge marking
+4 Orientamento NIL
+ Bearing NIL
+5 Distanze dichiarate NIL
+ Declared distances NIL
+6 Luci Luci gialle di bordo; proiettori radenti di luce bianca; Visual Approach Slope Indicator
+(SAN 311); manica a vento illuminata; faro di avvistamento
+ Lighting Yellow edge lights; white surface floodlights; Visual Approach Slope Indicator (SAN
+311); WDI lighted; heliport beacon
+7 Note NIL
+ Remarks  
+LIMB AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIMB AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Milano Bresso ATZ
+45°36'00"N 009°09'30"E;
+45°35'00"N 009°12'30"E;
+45°31'00"N 009°12'30"E;
+45°29'00"N 009°09'30"E;
+to point of origin.
+1200
+FT AGL
+G NIL NIL
+1) WI Milano FIR
+1700 ft AMSL QNH Linate
+LIMB AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIMB AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+LIMB AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIMB AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIMB 1 - 9
+AIRAC effective date 17 APR 2025
+ENAV - Roma (A04/25)
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LIMB AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIMB AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+Decolli e atterraggi con precauzione a causa di asfalto usurato sulla
+RWY 18/36
+Take-off and landing with caution due to worn asphalt on RWY 18/36
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LIMB AD 2.21 PROCEDURE ANTIRUMORE
+LIMB AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+2.1 Partenze 2.1 Departures
+• Procedura antirumore pista 18:
+dopo il decollo virare a destra per entrare in tratto controbase al
+raggiungimento dell’altezza di 300ft AGL - 800ft AMSL o al traverso
+del depuratore Niguarda-Bresso, quale dei due punti è raggiunto
+prima. In ogni caso è vietato estendere i decolli verso sud per la
+prossimità dell’elisuperficie HEMS dell’ospedale di Niguarda.
+• Procedura antirumore pista 36:
+dopo il decollo virare a sinistra per entrare in tratto controbase
+all’altezza di 500ft AGL - 1000ft AMSL.
+• Noise abatement procedure RWY 18:
+after take-off turn right to enter the crosswind leg when reaching
+the height of 300ft AGL - 800ft AMSL or across the Niguarda-Bresso
+purification plant, whichever of the two points is reached first. In any
+case it is forbidden to extend takeoff towards the south due to the
+proximity of the HEMS helisurface of Niguarda hospital.
+• Noise abatement procedure RWY 36:
+after take-off turn left to enter the crosswind leg at the height of
+500ft AGL - 1000ft AMSL.
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+
+=== Page 10 ===
+AD 2 LIMB 1 - 10
+AIRAC effective date 17 APR 2025 AIP - Italia
+(A04/25) ENAV - Roma
+LIMB AD 2.22 PROCEDURE DI VOLO
+LIMB AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+Non sono consentite operazioni IFR No IFR operations are permitted
+2.2 Aeromobili in arrivo 2.2 Arriving aircraft
+NIL NIL
+2.3 Aeromobili in partenza 2.3 Departing aircraft
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 4
+4.1 Informazioni generali 4.1 General information
+Vedi ENR 6.3-3 Milano VFR area e AD 2 LIML 5-1 (VAC Milano/Linate) See ENR 6.3-3 Milano VFR area and AD 2 LIML 5-1 (VAC Milano/ Linate)
+4.2 Attività di circuito 4.2 Circuit activity
+Il circuito di traffico deve svolgersi sempre ad Ovest della pista e il
+relativo ingresso nel circuito deve avvenire dal quadrante di nord ovest
+The traffic circuit is West of the runway and entry into the circuit is
+permitted from north western sector only
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+Operazioni consentite esclusivamente ai voli HEMS del 118 Milano solo
+per atterraggi/decolli su relativa piazzola
+Operations allowed for the exclusive use of HEMS 118 Milano flights
+for landing/take-off on helicopter landing area only
+4.8 Attività addestrativa 4.8 Training activity
+4.8.1. con visibilità uguale o superiore a 5 Km è consentita l’attività
+didattica da allievo solista
+4.8.1. with visibility of 5 Km or more, training solo-flights activity is
+allowed
+4.8.2. con visibilità inferiore a 5 Km l’allievo deve essere
+accompagnato da un istruttore VFR, abilitato al volo IFR
+4.8.2. with visibility less than 5 Km, the student pilot must be escorted
+by a VFR instructor, IFR rated pilot
+4.8.3. con visibilità inferiore a 3 Km ma uguale o superiore a 1,5
+Km, per attività non condotte interamente nell’ambito del circuito
+di traffico, quindi in contatto visivo col suolo e con riferimenti
+aeroportuali, l’aeromobile deve essere certificato dallo Stato di
+Registro per il VFR senza riferimenti visivi al suolo ed essere
+equipaggiato come previsto dalla normativa per il traffico VFR speciale
+nel CTR di Linate
+4.8.3. with visibility less than 3 Km and equal to or more than 1.5
+Km, for activities not wholly conducted within the aerodrome traffic
+circuit, therefore in ground contact and with visual reference to the
+field, aircraft shall be approved by the State of Registry for VFR with
+no reference to visual landmarks and equipped as indicated in the
+regulation for VFR traffic within Linate CTR
+NOTA
+Il dato di visibilità deve essere stimato dall’istruttore
+responsabile del volo; qualora la visibilità riportata su Linate
+sia inferiore a 5 Km dovrà essere preventivamente consultato
+il servizio previsioni meteo di Linate.
+REMARK
+Visibility shall be estimated by the instructor in charge of the
+flight; when the visibility at Linate airport is less than 5 Km,
+a previous briefing with Linate weather forecast service shall
+be conducted.
+LIMB AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIMB AD 2.23 ADDITIONAL INFORMATION
+UTILIZZO DELL’AREA ATTERRAGGIO ELICOTTERI:
+a. Gli atterraggi ed i decolli degli elicotteri civili dovranno essere
+effettuati sulla RWY 18/36
+USE OF HELICOPTERS LANDING AREA:
+a. For civil helicopters, landing and take-off shall be performed on RWY
+18/36
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIMB 1 - 11
+AIRAC effective date 17 APR 2025
+ENAV - Roma (A04/25)
+b. La piazzola eleicotteri, posta sulla sinistra della testata RWY 36, è
+riservata al servizio HEMS 118 (H24) e all’unico operatore di base
+c. E’ vietato l’utilizzo contemporaneo della RWY 18/36 e della piazzola
+elicotteri HEMS
+MODALITA’ DI PAGAMENTO DEI DIRITTI AEROPORTUALI:
+Il pagamento dei diritti aeroportuali deve essere effettuato, per
+ogni volo, al momento dell'uso dell'aeroporto ad eccezione dei voli
+effettuati da scuole di volo, di stato, di emergenza e soccorso,
+oppure dagli operatori autorizzati al pagamento mensile delle tasse. La
+riscossione dei diritti aeroportuali è effettuata dall' Aero Club Milano
+tel. +39 026101625, e-mail segreteria@aeroclubmilano.it negli orari
+di apertura dell’aeroporto.
+b. Helicopters landing area, placed on left side RWY head 36, is AVBL
+to HEMS 118 flights (H24) and to local operator only
+c. The contemporaneous use of RWY 18/36 and HEMS helicopter
+landing area is forbidden
+METHOD OF PAYMENT OF AIRPORT CHARGES:
+Airport charges must be paid for each flight as soon as the airport is
+used, with the exception of school flights, state flights and emergency
+or rescue flights and for operators authorized to the monthly payment.
+The airport charges collection is performed by aero club milano tel. +39
+026101625 e-mail segreteria@aeroclubmilano.it during the airport
+opening hours.
+LIMB AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIMB AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIMB 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 18/36  AD 2 LIMB 3 - 1
+LIMB AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIMB AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 12 ===
+AD 2 LIMB 1 - 12
+AIRAC effective date 17 APR 2025 AIP - Italia
+(A04/25) ENAV - Roma
+

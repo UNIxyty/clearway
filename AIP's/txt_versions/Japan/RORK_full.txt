@@ -1,0 +1,1131 @@
+=== Page 1 ===
+AIP Japan
+KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD2-1
+AD 2 AERODROMES
+RORK AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RORK - KITADAITO
+RORK AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RORK AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 255641N/1311937E
+025°/750m from RWY 03 THR
+2 Direction and distance from (city)
+3 Elevation/ Reference temperature 70.9ft / 32°C(2004-2008)
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change 6°W(2024) / 6’W
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+OKINAWA PREF. PUBLIC AP .
+19-16, Aza-Minami, Kitadaitou-son, Shimajiri-gun, Okinawa Pref.
+TEL: 09802-3-4016
+FAX: 09802-3-4217
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2300 - 0900
+2 Customs and immigration On request
+Customs: 098-862-8529
+Immigration: 098-832-4185
+3 Health and sanitation Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (NAHA)
+7A T S ATS: 2300 - 0900
+Remarks: AFIS provided by Naha Airport Office.
+8 Fuelling Nil
+9 Handling Ask AD Administration
+10 Security Ask AD Administration
+11 De-icing Nil
+12 Remarks Nil
+(EFF:3 OCT 2024) 5/9/24
+
+
+=== Page 2 ===
+RORK AD2-2                      AIP Japan
+                     KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD 2.4 HANDLING SERVICES AND FACILITIES
+RORK AD 2.5 PASSENGER FACILITIES
+RORK AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RORK AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types Nil
+3 Fuelling facilities/ capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Clinic 3.8km from airport
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting CAT 6
+2 Rescue equipment Chemical fire fighting truck x 2
+3 Capability for removal of disabled 
+aircraft Incapable
+4 Remarks Nil
+1 Types of clearing equipment Not Applicable
+2 Clearance priorities Not Applicable
+3 Remarks Nil
+(EFF:18 AUG 2016) 18/8/16
+
+
+=== Page 3 ===
+AIP Japan
+KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD2-3
+RORK AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RORK AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RORK AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength Surface : Asphalt-concrete 
+Strength : PCR 196/F/C/Y/T
+2 Taxiway width, surface and
+strength
+Width : 18M
+Surface : Asphalt-concrete
+Strength : PCR 196/F/C/Y/T
+3 ACL and elevation Not Available
+4 VOR checkpoints Not Available
+5 INS checkpoints Not Available
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY:(RWY03/21)
+(Marking) RWY designation, RWY CL, RWY THR, RWY middle point, Aiming 
+point, TDZ, RWY side stripe
+(LGT) REDL, RTHL, RENL
+TWY:
+(Marking) TWY CL, TWY side stripe
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+In Area2 Nil
+In Area3 To be developed
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 4 ===
+RORK AD2-4                      AIP Japan
+                     KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RORK AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office NAHA
+2 Hours of service
+MET Office outside hours
+H24(NAHA)
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing is available upon inquiry at NAHA.
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available for 
+briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, PS, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information RADIO
+10 Additional information(limitation of service, 
+etc.)
+Nil
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+03
+21
+025.50°
+205.50°
+1500×45
+1500×45
+PCR 196/F/C/Y/T
+Asphalt Concrete
+255618.86N
+1311924.69E
+255702.85N
+1311947.89E
+THR ELEV : 74FT
+THR ELEV : 80FT
+   Slope of RWY Strip
+ Dimensions(M)
+RESA (Overrun)
+Dimensions(M) Remarks
+71 0 1 1 1 4
+See AD2.24. AD chart 1620×150
+1620×150
+41 × 152
+41 × 151
+RWY grooving:1500mX30m
+(EFF:23 JAN 2025) 23/1/25
+
+
+=== Page 5 ===
+AIP Japan
+KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD2-5
+RORK AD 2.13 DECLARED DISTANCES
+RORK AD 2.14 APPROACH AND RUNWAY LIGHTING
+RORK AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RORK AD 2.16 HELICOPTER LANDING AREA
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+03
+21
+1500
+1500
+1500
+1500
+1500
+1500
+1500
+1500
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+03 Nil Green PAPI
+3.0°/LEFT
+288.8m
+45ft
+Nil Nil 1500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+21 Nil Green PAPI
+3.0°/LEFT
+302.5m
+45ft
+Nil Nil 1500m
+60m
+Coded color
+(White/Yellow)
+LIH
+Red Nil
+Remarks
+10
+  RWY THR ID LGT for RWY 03/21 THR (Color:White)
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 255643N/1311928E , White/Green EV4.3sec, HO
+2 LDI location and LGT Anemometer 
+location and LGT
+LDI:Nil
+Anemometor: 580m to MID FM RWY03 THR, LGTD
+3 TWY edge and centerline lighting TWY edge LGT installed, see AD2.9
+4 Secondary power supply/    switch-
+over time
+ALL LGT/Within 15sec
+5 Remarks WDI LGT
+Nil
+(EFF:9 NOV 2017) 12/10/17
+
+
+=== Page 6 ===
+RORK AD2-6                      AIP Japan
+                     KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD 2.17 ATS AIRSPACE
+RORK AD 2.18 ATS COMMUNICATION FACILITIES
+RORK AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+Kitadaito
+Information
+Zone
+Area within a radius of 5nm(9km) of ARP 
+excluding the south side of the line between the 
+intersections of swinging arcs 5nm(9km) in 
+radius from Kitadaito ARP and Minamidaito ARP
+3,000 or 
+below
+ED a i t o  
+Radio
+En
+Nil
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+AFIS Daito Radio 118.55MHz 2300 - 0900 Operated by Naha Airport 
+Office
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+1234567
+Nil
+(EFF:1 OCT 2021) 12/8/21
+
+
+=== Page 7 ===
+AIP Japan
+KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD2-7
+RORK AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RORK AD 2.21 NOISE ABATEMENT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:5 APR 2012) 8/3/12
+→
+
+
+=== Page 8 ===
+RORK AD2-8                      AIP Japan
+                     KITADAITO
+Civil Aviation Bureau,Japan
+RORK AD 2.22 FLIGHT PROCEDURES
+RORK AD 2.23 ADDITIONAL INFORMATION
+RORK AD 2.24 CHARTS RELATED TO AN AERODROME
+TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL 
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS CEIL-RVR CEIL-VIS
+Multi-Engine 
+ACFT with TKOF
+ALTN AP FILED
+03 A,B,C - - - 0'- 400m - 0'- 500m
+21 A,B,C - - - 200'- 1600m - 200'- 1600m
+OTHER
+03 A,B,C
+AVBL LDG MINIMA
+21 A,B,C
+ 
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (SOUTH)
+Standard Departure Chart - Instrument (CORCO NORTH-RNAV)
+Instrument Approach Chart (VOR Z RWY03)
+Instrument Approach Chart (VOR Y RWY03)
+Instrument Approach Chart (RNP RWY03)
+Other Chart (Visual REP)
+Other Chart (MVA Chart)
+(EFF:6 OCT 2022) 11/8/22
+
+
+=== Page 9 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RORK / KITADAITO AD  CHART
+21
+03
+KITADAITO AP
+PAPI Angle 3.0°
+MEHT 13.6m (45 ft)
+RWY THR ID LGT
+RWY THR ID LGT
+PAPI Angle 3.0°
+MEHT 13.6m (45 ft) 302.5m
+60m
+45m
+288.8m
+60m
+110m ABN
+70m
+77.5m
+1500m
+ARP
+LONGITUDINAL PROFILE OF RWY
+WDI
+0m
+74 ft
+(22.56m)
+RWY 03
+1500m1300m1020m600m
+78 ft
+(23.70m)
+80 ft
+(24.30m)
+72 ft
+(21.91m)70 ft
+(21.36m)
+RWY 21
+0.13%
+0.64%
+0.30%
+0.20%
+ REMARKS : WIDTH  OF  RWY       1500m × 45m
+WIDTH  OF  TWY       77.5m × 18m
+WIDTH  OF  APRON       110m × 70m
+RWY  GROOVING       1500m × 30m
+STRENGTH  OF  RWY   PCR  196/F/C/Y/T
+STRENGTH  OF  TWY  PCR  196/F/C/Y/T
+STRENGTH  OF  APRON     PCR  196/F/C/Y/T
+KITADAITO
+WDI
+VAR 6˚W(2024)ANNUAL CHANGE 6´W
+WIND SPEED METER
+WIND SPEED METER
+CEILOMETER
+CHANGE :  WIND SPEED METER, CEILOMETER added.
+(EFF:26 DEC 2024) 26/12/24
+RORK AD2.24-ADC-1
+KITADAITO
+
+
+=== Page 10 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+21
+RWY
+03
+108(37)
+122(51)
+154(83)
+RWY21 : See TAKE OFF MINIMA
+2400
+500
+MINAMIDAITO AP
+MINAMIDAITO
+VOR/DME
+200FT
+117.8 MDE 
+CH-125X
+25˚51´16˝N/131˚15´50˝E
+RORK / KITADAITO SID
+SOUTH SIX DEPARTURE
+SOUTH SIX DEPARTURE
+RWY03 : Climb RWY HDG to 500FT, turn right, direct to MDE VOR/DME. 
+RWY21 : Climb to MDE VOR/DME.
+Cross MDE VOR/DME at or above 2400FT.
+(EFF:1 OCT 2018) 16/8/18
+→ RORK AD2.24-SID-1
+KITADAITO
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+CORCO NORTH ONE DEPARTURE
+Note GNSS required.
+CORCO NORTH ONE DEPARTURE
+RWY03 凬Climb on HDG030˚ at or above 500FT, turn left direct to CORCO at or above 5000FT.
+RWY21 凬Climb on HDG210˚ at or above 500FT, turn right direct to CORCO at or above 5000FT.
+NOTE RWY03 凬4.0% climb gradient required up to 500FT due to airspace restrictions only.
+CORCO
+255226.5N
+1305915.1E
+500
+500
+CORCO NORTH ONE DEPARTURE
+MINAMIDAITO AP
+5000
+RNP1
+VAR 5˚W (2015)
+21
+RWY
+03
+108(37)
+122(51)
+154(83)
+RWY21 : See TAKE OFF MINIMA
+DIS VANROTIADATIK / KROR
+RWY03
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+–
+–
+–
+–
+–
+L
+–
+–
++500
++5000
+–
+–
+–
+CORCO
+(025.4)
+030
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-4.9
+-4.9–
+RWY21
+VA
+DF
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+–
+–
+–
+–
+–
+R
+–
+–
++500
++5000
+–
+–
+–
+CORCO
+(205.4)
+210
+Path
+Descriptor
+001
+002
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-4.9
+-4.9–
+210˚
+03
+0˚
+MINAMIDAITO
+VOR/DME
+200FT
+117.8 MDE 
+CH-125X
+2ÛÝ1ÛÝ(
+CHANGE : Navigation Specification(Basic RNP1 䲑 RNP1).
+(EFF:16 MAY 2024) 18/4/24
+RORK AD2.24-SID-2
+KITADAITO
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+VAR 5˚W (2015)
+MINIMA 
+CAT
+480 (409) 560 (489)1500 1600
+490 (419) 630 (559)1800 2400
+– –––
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 74 AD elev. 71
+A
+B
+C
+D
+061˚
+241˚
+180˚
+090˚
+360˚
+270˚
+NM from MDE
+ALT (3.0˚ APCH Path)
+FAF
+2030
+1
+1711
+2
+1393
+3
+1075
+4
+756
+MAPt
+–
+MDE VOR/DME(FAF): 255116.14N/1311549.64E
+EQPT REQUIRED
+DME
+RORK / KITADAITO VOR Z RWY03
+ÛÝ1ÛÝ(
+MINAMIDAITO  VOR/DME
+117.8            MDEFUKUOKA   CONTROL
+5.972 - 5.421
+NO  RADAR
+MISSED APPROACH
+168308
+206
+249
+188
+
+1393
+2000
+1400
+520
+(449)
+900
+(829) MDA
+MDE
+MAPt
+VDP
+SDF*
+MDE
+(FAF)
+10NM
+038˚
+038˚
+241˚
+241˚
+038˚
+MINAMIDAITO AP
+MAPt
+D5.2 MDE
+MDE(FAF) MHA 2000
+MAX 210KIAS
+038˚
+038˚
+3.0˚
+0
+6.0
+2.0
+4.0
+4.8
+1.2
+5.2
+0.8
+6.0
+0
+DME from MDE
+NM to THR
+CH-125X
+Climb to 500FT via MDE R038,
+turn right, direct to MDE VOR/DME
+and hold at 2000FT.
+Contact DAITO RADIO.
+Turn initiation within D8.0 MDE
+MAX Turning speed 200KIAS
+1400
+MSA 25NM
+MDE
+Turn initiation within
+D8.0 MDE
+*Not applicable for circling
+Timing not authorized for defining the MAPt.
+   DAITO  RADIO
+118.55
+        AFIS provided              
+  by Naha Airport Office  
+CHANGE : ATCcall sign.
+(EFF:24 FEB 2022) 24/2/22
+RORK AD2.24-IAC-1
+KITADAITO
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MINIMA 
+CAT
+480 (409) 560 (489)1500 1600
+490 (419) 630 (559)1800 2400
+–– ––
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 74 AD elev. 71
+A
+B
+C
+D
+VAR 5˚W (2015) EQPT REQUIRED
+DME
+180˚
+090˚
+360˚
+270˚
+061˚
+241˚
+RORK / KITADAITO VOR Y RWY03
+ÛÝ1ÛÝ(
+MINAMIDAITO  VOR/DME
+117.8            MDEFUKUOKA  CONTROL
+124.5 - 279.5
+NO  RADAR
+168308
+206
+249
+188
+10NM
+CH-125X
+MISSED APPROACH
+NM from MDE
+ALT (3.0˚ APCH Path)
+FAF
+2030
+1
+1711
+2
+1393
+3
+1075
+4
+756
+MAPt
+–
+MDE VOR/DME(FAF): 1(
+
+
+5000
+1200
+520
+(449)
+900
+(829) MDA
+MDE
+MAPt
+VDP
+SDF*
+(FAF)
+TUBAS
+(IF)
+CORCO
+(IAF)
+038˚
+038˚
+099˚
+3.0˚
+0
+6.0
+7.0
+13.0
+2.0
+4.0
+4.8
+1.2
+5.2
+0.8
+6.0
+0
+DME to/from MDE
+NM to THR
+Climb to 500FT via MDE R038,
+turn right, direct to MDE VOR/DME
+and hold at 2000FT.
+Contact DAITO RADIO.
+*Not applicable for circling
+Timing not authorized for defining the MAPt.
+099˚
+038˚
+MAPt
+D5.2 MDE
+D7.0 MDE
+ARC
+MHA 2000
+MAX 210KIAS
+MINAMIDAITO AP
+CORCO
+(IAF)
+TUBAS(IF)
+D7.0 MDE
+R279/D15.0 MDE
+R235
+R279
+MDE(FAF)
+1400
+MSA 25NM
+MDE
+D7.0 MDE
+ARC
+038˚
+038˚
+   DAITO  RADIO
+118.55
+        AFIS provided              
+  by Naha Airport Office  
+CHANGE : ATCcall sign.
+(EFF:24 FEB 2022) 24/2/22
+RORK AD2.24-IAC-2
+KITADAITO
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+247
+NM to Next Fix
+ALT (3.0˚ APCH Path)
+FAF
+1100
+2
+760
+3
+1079
+1
+442
+MAPt
+–
+RORK / KITADAITO RNP RWY03
+FUKUOKA  CONTROL
+5.972 - 5.421
+NO  RADAR
+CIRCLING
+MDA (H)
+A
+B
+C
+D
+LNAV
+–
+LNAV/VNAV
+DA(H) MDA(H)CMV CMV
+THR elev. 74 AD elev. 71
+1600
+CAT
+MINIMA
+440 (366)
+1500
+440 (369)
+1500 560 (489)
+VIS
+2400630 (559)1800 1800
+–––––
+RW03
+(MAPt)
+AKIBA
+(FAF)
+EZAKI
+(IF)
+1.1
+3.00˚
+MISSED APPROACH
+Turn left direct to MDE and hold at 2000FT. 
+Contact DAITO RADIO.
+(For using VOR/DME)
+Turn left, direct to MDE VOR/DME and hold 
+at 2000FT.
+Contact DAITO RADIO. 
+MDA
+7.2
+800
+(729)
+3.1
+031˚
+NM to THR
+031˚
+1100
+0
+WHALE
+(IAF)
+108˚
+3000 VDP
+(LNAV) 
+RDH50
+1300
+36
+0˚
+090˚
+10NM
+031˚
+167
+243
+3.1
+EZAKI
+(IF)
+AKIBA
+(FAF)
+RW03
+(MAPt)
+031˚
+4.1
+WHALE
+(IAF)
+(025.3˚T)
+(025.4˚T)
+MDE
+(MAHF)
+187
+Baro-VNAV not authorized below 5˚C
+VAR 6˚W  (2022)
+255203.25N
+1310446.65E
+254949.53N
+1311559.59E
+255332.23N
+1311756.86E
+255618.86N
+1311924.69E
+255116.14N
+1311549.64E
+WHALE
+(IAF)
+EZAKI
+(IF)
+AKIBA
+(FAF)
+RW03
+(MAPt)
+MDE
+(MAHF)
+ARP : 255641N / 1311937E
+1400
+MSA 25NM
+ARP
+MINAMIDAITO AP
+108˚
+10.3
+(102.4˚T)
+MINAMIDAITO
+VOR/DME
+117.8 MDE 
+CH-125X
+ÛÝ1ÛÝ(
+   DAITO  RADIO
+118.55
+        AFIS provided              
+  by Naha Airport Office  
+Using NAVAID
+MDE
+VOR/DME
+279˚
+099˚ R279
+D14.0
+MDE
+WHALE
+D10.0 MDE
+MHA 3000
+MAX 175KIAS
+NOT TO SCALE
+287˚
+107˚
+WHALEMHA 3000
+MAX 175KIAS
+NOT TO SCALE
+1MIN
+RNAV HLDG
+MDE
+VOR/DME
+061˚
+241˚
+MHA 2000
+MAX 210KIAS
+Using NAVAID
+NOT TO SCALE
+(MDE)
+MINAMIDAITO
+062˚
+242˚
+MHA 2000
+MAX 210KIAS
+NOT TO SCALE
+RNAV HLDG
+1MIN
+RNP APCH
+CHANGE:PROC renamed. Requirement for RNP.
+(EFF:6 OCT 2022) 11/8/22
+RORK AD2.24-IAC-3
+KITADAITO
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RORK / KITADAITO Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+ᾏୖ
+Over the sea
+䚷ᾏ ୖ
+Over the sea
+༡኱ᮾᓥ ༡኱ᮾ✵ 
+Minamidaitojima Minamidaito Airport
+RemarksCall sign
+CHANGE : VAR.
+6.8NM
+360°T / 10.0NM
+/ 10.0NM270°T
+210°T /
+10NM N
+10NM W
+BRG / DIST from ARP
+10NM N
+DAITO RADIO
+118.55
+VAR 6W (2024) / 6ƍW
+10NM W
+MINAMIDAITOJIMA
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+KITADAITO INFORMATION ZONE
+At or below 3000FT
+MINAMIDAITO INFORMATION ZONE
+At or below 3000FT
+(EFF:3 OCT 2024) 5/9/24
+RORK AD2.24-OTHER-1
+KITADAITO
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+R TRAHC edutitlA gnirotceV muminiMOTIADATIK / KRO
+20NM
+ROMD ARP 20NM
+CENTER 凬255641N/1311937E (RORK ARP)
+REF 凬255048N/1311549E (ROMD ARP)
+6000
+30NM
+262226N
+1313655E
+261437N
+1312942E
+253759N
+1305838E
+253501N
+1305626E
+1314157E
+254023N
+1312720E
+253059N
+1312020E
+255618N
+CHANGE : Shape of segment. Minimum vectoring altitude.
+(EFF:27 JAN 2022) 30/12/21
+RORK AD2.24-OTHER-2
+KITADAITO
+

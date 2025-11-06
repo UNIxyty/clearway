@@ -1,0 +1,1058 @@
+=== Page 1 ===
+AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD2-1
+AD 2 AERODROMES
+RJOE AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJOE - AKENO
+RJOE AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJOE AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 343202N/1364018E
+2 Direction and distance from (city) 3.2nm NW ISE
+3 Elevation/ Reference temperature 20ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS, 
+e-mail and/or Web-site addresses
+JSDF-G
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Nil
+1 AD Administration 2330-0800 MON-FRI,EXC HOL and 29 DEC - 3 JAN
+Other time 1HR PN
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office 2330-0800 MON-FRI,EXC HOL and 29 DEC - 3 JAN
+Other time 1HR PN
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office 2200-0800 MON-FRI,EXC HOL and 29 DEC - 3 JAN
+7 ATS 2330-0800 MON-FRI,EXC HOL and 29 DEC - 3 JAN
+Other time 1HR PN
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks Nil
+(EFF:26 JAN 2023) 26/1/23
+
+
+=== Page 2 ===
+RJOE AD2-2 AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD 2.4 HANDLING SERVICES AND FACILITIES
+RJOE AD 2.5 PASSENGER FACILITIES
+RJOE AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJOE AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Nil
+2 Fuel/ oil types  JET A-1
+3 Fuelling facilities/ capacity To be issued later
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants Nil
+3 Transportation Nil
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Nil
+7 Remarks Nil
+1 AD category for fire fighting Nil
+2 Rescue equipment Nil
+3 Capability for removal of disabled 
+aircraft Nil
+4 Remarks Nil
+1 Types of clearing equipment Nil
+2 Clearance priorities Nil
+3 Remarks Nil
+(EFF:2 JAN 2020) 2/1/20
+
+
+=== Page 3 ===
+AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD2-3
+RJOE AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJOE AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+RJOE AD 2.10 AERODROME OBSTACLES
+1 Apron surface and strength To be issued later
+2 Taxiway width, surface and
+strength
+To be issued later
+3 ACL and elevation Not available
+4 VOR checkpoints Nil
+5 INS checkpoints Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY13/31
+(LGT) RTHL, REDL
+RWY: RWY 04/22
+Nil
+TWY:
+(LGT) TWY edge LGT
+3 Stop bars Nil
+4 Remarks Nil
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+(EFF:2 JAN 2020) 2/1/20
+
+
+=== Page 4 ===
+RJOE AD2-4 AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RJOE AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Associated MET Office AKENO
+2 Hours of service
+MET Office outside hours
+2200 - 0800
+MON-FRI,EXC HOL and 29 DEC - 3 JAN
+Other time on request
+3 Office responsible for TAF preparation
+Periods of validity
+Nil
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Nil
+6 Flight documentation
+Language(s) used
+Ja, En
+7 Charts and other information available 
+for briefing or consultation
+S, U
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+Designations
+RWY NR
+TRUE 
+BRG
+Dimensions of
+RWY(M)
+Strength(PCN) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+13
+31
+04
+22
+To be 
+issued 
+later
+500×30
+500×30
+500×30
+500×30
+SW5000kg (11000lbs)
+Asphalt
+Roll
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+   Slope of RWY Strip
+ Dimensions(M) Remarks
+71 0 1 2
+to be developed 700 × 300
+700 × 300
+620 × 75
+620 × 75
+(EFF:26 JAN 2023) 26/1/23
+
+
+=== Page 5 ===
+AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD2-5
+RJOE AD 2.13 DECLARED DISTANCES
+RJOE AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJOE AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJOE AD 2.16 HELICOPTER LANDING AREA
+RWY Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+13
+31
+04
+22
+Remarks
+10
+1 ABN/IBN location, characteristics and 
+hours of operation ABN: 343156N/1363957E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT Nil
+3 TWY edge and center line lighting TWY edge LGT : AVBL
+4 Secondary power supply/   
+switch-over time
+Nil
+5 Remarks WDI LGT
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 6 ===
+RJOE AD2-6 AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+AKENO CTR Area within a radius of 5nm of AKENO ARP
+ (34°32'N/136°40'E)
+2500 or below D AKENO
+Tower
+AKENO ACA SEE RJOE attached chart
+CBE
+20NM
+AKT
+5NM
+LHT
+4000
+5000
+2500
+343722N
+1365140E
+344217N
+1365729E 4NM
+20NM
+14NM
+14NM
+21NM
+60NM
+33NM
+XAC
+046˚34´ T fm KEC
+᫂㔝㐍ධ⟶ไ༊
+Akeno Approach Control Area
+343140N
+1364148E
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 7 ===
+AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD2-7
+RJOE AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP Akeno Approach
+Control or Radar
+140.5MHz(1)
+362.3MHz(1)
+120.1MHz(1)
+139.45MHz(2)
+141.95MHz(2)
+121.5MHz(E)
+243.0MHz(E)
+2330-0800(3)
+MON-FRI
+Other time 1HR PN
+(1)Primary
+(2)Secondary
+(3)EXC HOL and 12/29 - 1/3
+TWR Akeno Tower 236.8MHz
+126.2MHz
+139.8MHz
+138.05MHz
+140.3MHz
+121.5MHz(E)
+243.0MHz(E)
+2330-0800(3)
+MON-FRI
+Other time 1HR PN
+GCA-ASR
+ -PAR
+Akeno GCA 335.6MHz
+270.8MHz
+134.1MHz
+141.7MHz
+138.3MHz
+122.0MHz
+243.0MHz(E)
+121.5MHz(E)
+2330-0800(3)
+MON-FRI
+Other time 1HR PN
+GP 3.0°.
+ASR for RWY 31 JSDF-G HEL only.
+ASR,PAR RWY13
+(EFF:2 JAN 2020) 2/1/20
+
+
+=== Page 8 ===
+RJOE AD2-8 AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+RJOE AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+Type of aid ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+1 2 3 456 7
+ 
+TACAN AKT 1144MHz
+(CH-57Y)
+2330 - 0800(1)
+MON-FRI
+Other time
+1HR PN
+343142.7N/1364030.6E TACAN Unusable:
+R100-110 beyond 37NM 
+BLW 3000ft.
+R110-120 beyond 35NM 
+BLW 3000ft.
+R120-130 beyond 22NM 
+BLW 4000ft.
+R130-140 beyond 17NM 
+BLW 4000ft.
+R140-150 beyond 20NM 
+BLW 4000ft.
+R150-160 beyond 22NM 
+BLW 4000ft.
+R160-170 beyond 17NM 
+BLW 4000ft.
+R170-180 beyond 13NM 
+BLW 4000ft.
+R180-190 beyond 17NM 
+BLW 4000ft.
+R190-200 beyond 23NM 
+BLW 5000ft.
+R200-210 beyond 25NM 
+BLW 5000ft.
+R210-220 beyond 28NM 
+BLW 6000ft.
+R220-230 beyond 35NM 
+BLW 8000ft.
+R270-290 beyond 35NM 
+BLW 7000ft.
+R300-320 beyond 37NM 
+BLW 5000ft.
+Nil
+Nil
+Nil
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 9 ===
+AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD2-9
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJOE AD 2.21 NOISE ABATEMENT PROCEDURES
+RJOE AD 2.22 FLIGHT PROCEDURES
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+1. TAKE OFF MINIMA
+RWY ACFT 
+CAT
+REDL & RCLL REDL or RCLL
+ or RCL Marking
+NIL
+ (DAY TIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN
+AP FILED
+13
+H
+- - - 400m - 500m
+31 - - - 400m - 500m
+OTHER
+13
+H AVBL LDG MINIMA
+31
+(EFF:22 FEB 2024) 25/1/24
+
+
+=== Page 10 ===
+RJOE AD2-10 AIP Japan
+AKENO
+Civil Aviation Bureau,Japan
+RJOE AD 2.23 ADDITIONAL INFORMATION
+RJOE AD 2.24 CHARTS RELATED TO AN AERODROME
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+ASR RWY 13 ASR RWY 31
+MINIMA THR ELEV:17 AD ELEV: 20 MINIMA THR ELEV:15  AD ELEV: 20
+CAT
+ CIRCLING
+CAT
+ CIRCLING
+MDA(H) CMV MDA(H) VIS MDA(H) CMV MDA(H) VIS
+A
+500(480) 1500 600(580) 1600
+A
+500(480) 1500 600(580) 1600
+BB
+C
+----
+C
+----
+DD
+PAR RWY 13
+MINIMA THR ELEV:17 AD ELEV: 20
+CAT
+ CIRCLING
+DA(H) CMV MDA(H) VIS
+A
+270(253) 1200 600(580) 1600
+B
+C
+----
+D
+3. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Akeno Approach/Radar are lost fo r 1 minute, 15 seconds on surv eillance final approach, or 5
+seconds on PAR final approach, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact Akeno Radar /Tower.
+2. If unable, proceed in accordanc e with Visual Flight Rules.
+3. If unable, execute TACAN RWY13 or RWY31 approach.
+4. Automated  Radar  Terminal  System (ARTS)
+When instructed by ATC, aircraft flying in and out of Akeno approach control area in principle will reply on 4096 Code (Mode A/
+3 ) with automatic altitude reporting capability (Mode C) ; Aircraft not equipped with the said transponder shall report
+ATC to that effect.
+  明野進入管制区を航行する航空機は , 管制機関の指示があった場合 , 原則として自動高度通報機能を有する 4096 コードに
+よる応答装置を作動させること。上記指示を受けた当該応答装置を有しない航空機は,管制機関に対しその旨を通報すること。
+Nil
+Standard Departure Chart-Instrument (KOWA)
+Standard Departure Chart-Instrument (HISAI)
+Standard Departure Chart-Instrument (AKENO REVERSAL)
+Standard Arrival Chart-Instrument
+Instrument Approach Chart (TACAN RWY13)
+Instrument Approach Chart (TACAN RWY31)
+Instrument Approach Chart (TACAN A)
+(EFF:22 FEB 2024) 25/1/24
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJOE / AKENO SID
+KOWA SEVEN DEPARTURE
+   RWY13 : Turn left,...
+   RWY31 : Turn right,...
+...to intercept and proceed via AKT R061 to XMT TACAN.
+    Cross AKT R061/14.0DME at or above 3500FT, cross XMT TACAN at
+    assigned altitude.
+CHANGE : PROC course. PROC renamed(KOWA SEVEN DEPARTURE). NOTE added. ASAMA ONE DEPARTURE abolished.
+Note RWY13/31 : No turn before DER.
+  
+ 
+Assigned ALT
+R061/D17.5AKT
+D14.0 AKT
+3500
+CAT H
+TACAN
+1169
+CH–82X
+XMT
+KOWA
+300FT
+ÛÝ1ÛÝ(
+100FT
+1144 AKT
+CH-57Y
+AKENO
+TACAN
+34Û3ƍ43Ǝ13Û40ƍ3Ǝ(
+Û
+R061
+(EFF:22 FEB 2024) 25/1/24
+RJOE AD2.24-SID-1
+AKENO
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJOE / AKENO SID
+HISAI TWO DEPARTURE
+RWY13 : Turn left,...
+RWY31 : Turn right,...
+Cross HISAI at or above 2500FT.
+CHANGE : PROC course. PROC renamed(HISAI TWO DEPARTURE). NOTE.
+...to intercept and proceed via AKT R321 to HISAI.
+Note RWY13 : No turn before DER. 
+                        5.4% climb gradient required up to 400FT.
+                        OBST ALT 159 FT located at 0.4NM 173° FM end of RWY13.
+Note RWY31 : No turn before DER. 
+ 
+2500
+CAT H
+ 
+100FT
+1144 AKT
+CH-57Y
+AKENO
+TACAN
+34Û31ƍ43ƎN/136Û40ƍ31ƎE
+HISAI
+D11.9AKT
+321˚
+R321
+(EFF:22 FEB 2024) 25/1/24
+RJOE AD2.24-SID-2
+AKENO
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJOE / AKENO SID and TRANSITION
+AKENO REVERSAL FIVE DEPARTURE
+RWY13 : Turn left, to intercept and proceed via AKT R106 to 2500FT, turn left,...
+RWY31 : Turn right, to intercept and proceed via AKT R321 to 2500FT, turn right,... 
+...direct to AKT TACAN.
+ 
+TRIKETRANSITION 
+   Cross AKT R070/14.0DME at or above 4000FT, cross TRIKE at assigned altitude. 
+ 
+CHANGE : PROC course. PROC renamed(AKENO REVERSAL FIVE DEPARTURE). NOTE added(AKENO REVERSAL FIVE DEPARTURE).
+Note RWY13/31 : No turn before DER.
+  
+TRIKE
+ 2500
+2500
+Assigned ALT
+D34.2AKT
+D14.0 AKT
+4000
+CAT H
+R321
+R106
+321˚
+106˚
+070˚
+ 
+100FT
+1144 AKT
+CH-57Y
+AKENO
+TACAN
+34Û31ƍ43ƎN/136Û40ƍ31ƎE
+AKENO REVERSAL 
+ FIVE DEPARTURE
+TRIKE TRANSITION
+From over AKT TACAN, via AKT R070 to TRIKE. 
+(EFF:22 FEB 2024) 25/1/24
+RJOE AD2.24-SID-3
+AKENO
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART-INSTRUMENT
+RJOE / AKENO STAR
+CHANGE : New PROC.
+ ASAMA ARRIVAL
+ 
+From overTRIKE, via AKT R070 to ANROX, via AKT 16.0DME clockwise ARC to
+intercept and proceed via AKT R106 to ASAMA.
+Cross AKT R070/20.5DME at or above 4000FT,
+cross AKT R093/16.0DME at or above 3500FT,
+cross ASAMA at or above 2500FT.    
+ HISAI ARRIVAL
+ 
+From overTRIKE, via AKT R070 to ANROX, via AKT 16.0DME clockwise ARC to
+intercept and proceed via AKT R106 to AKT TACAN, via AKT R321 to HISAI.
+Cross AKT R070/20.5DME at or above 4000FT,
+cross AKT R093/16.0DME at or above 3500FT,
+cross AKT TACAN at or above 2800FT,
+cross HISAI at or above 2500FT.   
+ 
+ 
+2500
+TRIKE
+D34.2AKT
+D20.5AKT
+4000
+3500
+2800
+CAT H
+ ASAMA ARRIVAL
+ HISAI ARRIVAL
+250˚
+321˚
+286˚
+R070
+R093
+102˚
+ 
+100FT
+1144 AKT
+CH-57Y
+AKENO
+34Û31ƍ43ƎN/136Û40ƍ31ƎE
+HISAI
+D11.9AKT ANROX
+D16.0AKT
+ASAMA
+2500
+D11.0AKT
+For ASAMA ARRIVAL
+D16.0 AKT ARC
+TACAN
+(EFF:22 FEB 2024) 25/1/24
+RJOE AD2.24-STAR-1
+AKENO
+
+
+=== Page 16 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJOE / AKENO
+AKENO  APP
+120.1 - 140.5 - 362.3
+AKENO  TOWER
+126.2 - 236.8
+RADAR  AVAILABLE
+CALL
+AKENO  APP
+1998
+1230
+2405
+1785
+1165 1821
+2484
+693
+1053
+2690
+2552
+MISSED APPROACH
+TACAN RWY13
+AKENO  TACAN
+AKT
+CH–57Y
+34˚31´43˝N/136˚40´31˝E
+180˚
+090˚
+360˚
+270˚
+218
+203 166
+ 
+MINIMA 
+CAT
+400 (380) 530 (510)1500 1600
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev. 18 AD elev. 20
+H
+1144
+D14.0
+HISAI
+MHA 2500
+10NM
+151
+(IAF)
+MAX 100KIAS
+OGILA(IF)
+D8.0 AKT
+BITEP(FAF)
+D3.0 AKT
+MAPt
+D1.0 AKT
+321°
+141°
+321°
+141°
+141°
+090˚
+360˚
+180˚
+5200
+MSA 25NM
+5800
+3000AKT
+VAR 8˚W (2023)
+CAT H
+BITEP(FAF) : 343347.58N /1363749.00E
+NM to AKT
+ALT(3.7˚ APCH Path)
+FAF
+1071
+2
+659
+MAPt
+–
+Contact AKENO APP.
+Timing not authorized for defining the MAPt.
+Turn left, climb to 2500FT
+via AKT R321 to HISAI and hold.
+HISAI 
+ (IAF)
+AKT
+2500
+1500
+OGILA
+   (IF) BITEP
+ (FAF)
+MAPt
+1071
+141°
+141°
+141°3.7°
+ 800
+(780)  MDA
+DME to AKT1.0
+NM to THR0.6
+3.0
+2.6
+8.0
+7.6
+Circling to RWY31 ONLY.
+CHANGE : PROC course. PROC renamed. Missed APCH PROC. MINIMA. ALT(3.7°APCH Path) established. HLDG Pattern. DME to AKT,NM to THR established.
+                  OGILA,BITEP established. MSA. VAR. 
+141°
+D11.9 AKT
+(EFF:22 FEB 2024) 25/1/24
+RJOE AD2.24-IAC-1
+AKENO
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+AKENO  APP
+120.1 - 140.5 - 362.3
+AKENO  TACAN AKENO  TOWER
+126.2 - 236.8
+RADAR  AVBL
+CALL
+AKENO  APP
+1998
+1230
+2405
+1785
+1165 1821
+393
+2484
+2690
+2552
+MISSED APPROACH
+AKT
+TACAN RWY31
+AKT
+CH–57Y
+34°31´43ƎN/136°40´31ƎE
+RJOE / AKENO
+1144
+180°
+090°
+360°
+270°
+MHA2500
+166
+ASAMA
+D11.0 AKT
+(IAF)
+MAX 100KIASIGDAT
+(IF)
+D7.5 AKT
+SEMKI
+ (FAF)
+D2.3 AKT
+MAPt
+D0.5 AKT
+154
+549 D13.0106°
+286°286°
+286°
+286° 106°
+V$5Û:
+Û
+Û
+Û
+5200
+MSA 25NM
+5800
+3000AKT
+10NM
+CAT H
+SEMKI(FAF) : 343122.99N /1364319.18E
+NM to AKT
+AL7Û$3&+Path)
+FAF
+1027
+1
+496
+MAPt
+–
+218
+MINIMA 
+CAT
+430 (410) 530 (510)1500 1600
+MDA(H) CMV MDA(H) VIS
+CIRCLING
+THR elev . 15 AD elev . 20
+H
+2500
+2100
+1027
+3.7°
+ 700
+(680) MDA
+ASAMA
+(IAF)IGDAT
+(IF)
+SEMKI
+ (FAF)
+MAPt
+286°
+286°
+286°
+286°
+SDF
+ 2100
+(2080)
+Contact AKENO APP.
+Timing not authorized for defining  the MAPt.
+Turn right, climb to 2500FT
+via AKT R106 to ASAMA and hold.
+DME to AKT
+NM to THR
+5.7
+5.9
+2.3
+2.5
+0.5
+0.7
+7.5
+7.7
+Circling to RWY13 ONLY.
+CHANGE : PROC course. PROC renamed. Missed APCH PROC. MINIMA. ALT(3.7°APCH Path) established. HLDG Pattern. DME to AKT,NM to THR established. 
+                  IGDAT,SEMKI established. MSA. VAR.
+ 
+180
+2
+891
+561
+777
+(EFF:22 FEB 2024) 25/1/24
+RJOE AD2.24-IAC-2
+AKENO
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+RJOE / AKENO
+AKENO  APP
+120.1 - 140.5 - 362.3
+AKENO  TOWER
+126.2 - 236.8
+RADAR  AVAILABLE
+CALL
+AKENO  APP
+1053
+MISSED APPROACH
+TACAN A
+AKENO  TACAN
+AKT
+CH–57Y
+ÛÝ1ÛÝ(
+Û
+Û
+V$5Û:
+ 
+MINIMA 
+CAT
+ 1600
+0'$+ VIS
+CIRCLING
+AD elev. 20
+H
+1144
+1230
+2405
+1785
+1165
+D14.0
+2484
+693
+MHA 2500
+2690
+2552
+10NM
+1998
+1821
+Û
+Û
+218
+203
+166
+151
+MAX 100KIAS
+152
+154
+393
+549
+MAPt
+D0.5 AKT
+AKAPU
+)$)
+D2.0 AKT
+272°
+141°
+321°
+321°
+272°
+105°
+CAT H
+Û
+Û
+Û
+5200
+MSA 25NM
+5800
+3000AKT
+Turn initiation within D5.0 AKT
+MAX Turning speed 100KIAS
+$.$38)$)343155.95N /1364254.97E
+AKT
+2500
+MAPt
+AKAPU
+)$) 1700
+MDA
+ 800
+
+105°
+272°
+272°
+272°
+Turn initiation within D5.0 AKT
+DME to AKT 0.5 2.0 5.0
+Contact AKENO APP.
+Timing not authorized for defining the MAPt.
+7XUQULJKWFOLPEWR)7
+via AKT R321 to HISAI and hold.
+Circling to RWY13/31 ONLY.&+$1*(1HZ352&
+HISAI
+D11.9 AKT
+(EFF:22 FEB 2024) 25/1/24
+RJOE AD2.24-IAC-3
+AKENO
+
+
+=== Page 20 ===
+INTENTIONALLY LEFT BLANK
+

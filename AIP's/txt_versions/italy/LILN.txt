@@ -1,0 +1,764 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LILN 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LILN AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LILN AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LILN - VARESE/Venegono
+LILN AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LILN AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+45°44'32''N 008°53'17''E
+2 Direzione e distanza dalla città 5.4 NM SE Varese
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+1105 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2019.0) / 8'E
+5 Autorità amministrativa aeroportuale ENAC - DT Milano Malpensa
+Aeroporto Malpensa
+21010 Malpensa (Varese)
+ tel +39 02 74867702
+ e-mail: malpensa.apt@enac.gov.it
+pec: protocollo@pec.enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale NIL
+ Aerodrome operator  
+ Autorità ATS NIL
+ ATS authority  
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+VFR
+7 Note 1. AD aperto al traffico civile non commerciale autorizzato e coordinato PPR da
+Aeroclub Varese. Gli aeromobili di Leonardo Company, dell'Aeroclub di Varese e gli
+aeromobili di base non sono soggetti ad autorizzazioni (vedi tabella 20.6).
+2. AEROCLUB di Varese
+Tel +39 0331 864128; fax +39 0331 868104
+e-mail: info@aeroclubvarese.it
+ Remarks 1. AD open to non-commercial civil air traffic authorized and coordinated PPR by
+Aeroclub Varese. Leonardo Company, Aeroclub di Varese and ACFT belonging to
+base operators are not subject to authorization (see table 20.6).
+2. AEROCLUB di Varese
+Tel +39 0331 864128; fax +39 0331 868104
+e-mail: info@aeroclubvarese.it
+LILN AD 2.3 ORARIO DEI SERVIZI
+LILN AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0800-1200 (0700-1100)
+1300-1600 (1200-1500)
+ Aerodrome Administration  
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+
+=== Page 2 ===
+AD 2 LILN 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+ Health and sanitation  
+4 AIS Briefing Office NIL
+   
+5 ARO NIL
+   
+6 METEO Briefing Office NIL
+   
+7 ATS NIL
+   
+8 Rifornimento NIL
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza NIL
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. Rif. 1 - Orari Aeroclub di Varese
+2. ARO CBO MILANO: vedi GEN 3.1
+ Remarks 1. Ref. 1 - Operating time Aeroclub di Varese
+2. ARO CBO MILANO: see GEN 3.1
+LILN AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LILN AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio NIL / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento NIL
+ Fuelling capacity  
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+LILN AD 2.5 SERVIZI PER I PASSEGGERI
+LILN AD 2.5 PASSENGER FACILITIES
+1 Alberghi In città
+ Hotels In town
+2 Ristoranti NIL
+ Restaurants  
+3 Trasporti NIL
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LILN 1 - 3
+AIRAC effective date 03 OCT 2024
+ENAV - Roma (A10/24)
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note NIL
+ Remarks  
+LILN AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LILN AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale Il presidio antincendio è garantito, in categoria adeguata alle esigenze di traffico
+preventivamente autorizzato, come segue;
+- MON-FRI da Leonardo SPA, contattabile al numero telefonico 
+  +39  0331813353 per richiedere informazioni specifiche
+- SAT-SUN da Aeroclub Varese.
+ Aerodrome category for fire fighting Fire fighting support assured, in CAT suitable for the needs of traffic previously
+authorized, as FLW:
+- MON-FRI by Leonardo SPA, contactable to phone number 
+  +39 0331813353 for requesting specific information
+- SAT-SUN by Aeroclub Varese.
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Operazioni di volo non consentite in assenza di conferma di Aeroclub Varese dell'
+effettiva disponibilità del presidio antincendio.
+ Remarks 1. FLT OPS not allowed without confirmation by Aeroclub Varese of the actual
+availability of fire-fighting support.
+LILN AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LILN AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura NIL
+ Types of clearing equipment  
+2 Priorità NIL
+ Clearance priorities  
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LILN AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LILN AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron EAST NIL NIL
+Apron GdL NIL NIL
+Apron WEST
+– Stands
+1-2-3-4-5-6
+CONC PCN 120/R/C/W/T
+
+=== Page 4 ===
+AD 2 LILN 1 - 4
+AIRAC effective date 03 OCT 2024 AIP - Italia
+(A10/24) ENAV - Roma
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 13.0 M ASPH PCN 83/F/B/W/T
+B 10.0 M ASPH NIL
+C 13.0 M ASPH PCN 83/F/B/W/T
+N 12.0 M ASPH PCN 79/F/B/W/T
+P 14.0 M ASPH PCN 83/F/B/W/T
+S 12.0 M ASPH PCN 44/F/B/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LILN 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LILN AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LILN AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LILN AD 2.10 OSTACOLI AEROPORTUALI
+LILN AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+Vedi AOC in vigore - See AOC in force
+LILN AD 2.11 INFORMAZIONI METEOROLOGICHE
+LILN AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita NIL
+ Briefing and consultation provided  
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+NIL
+ Charts and other information available for
+briefing or consultation
+ 
+
+=== Page 6 ===
+AD 2 LILN 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+NIL
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+NIL
+10 Informazioni climatologiche ed informazioni
+supplementari
+NIL
+ Climatological information and additional
+information
+ 
+LILN AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LILN AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+17 NIL 1422 x 40
+PCN 41/F/C/W/T
+BITUMCONG
+45°44'52.46''N
+008°53'14.51''E
+1102.7 FT / NIL
+35 NIL 1422 x 40
+PCN 41/F/C/W/T
+BITUMCONG
+45°44'11.91''N
+008°53'19.29''E
+1068.3 FT / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+17 NIL 58 x 40 24 x 150 1637 x 150 NIL
+35 NIL 37 x 40 12 x 150 1637 x 150 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+17 NIL
+1) DTHR 83 m
+2) STRIP non pienamente conforme all' annesso 14 ICAO a causa di ostacoli (cabina tecnica)/
+RWY STRIP not fully compliant with ICAO annex 14 due to obstacole (technical cabin)
+35 NIL
+1) DTHR 83 m
+2) STRIP non pienamente conforme all' annesso 14 ICAO a causa di ostacoli (cabina tecnica)/
+RWY STRIP not fully compliant with ICAO annex 14 due to obstacole (technical cabin)
+LILN AD 2.13 DISTANZE DICHIARATE
+LILN AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+17 1422 1446 1480 1339
+35 1422 1434 1459 1339
+NOTE
+REMARKS
+NIL
+LILN AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LILN 1 - 7
+AIRAC effective date 16 MAY 2024
+ENAV - Roma (A05/24)
+LILN AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+17 NIL NIL NIL NIL NIL NIL NIL NIL
+35 NIL NIL NIL NIL NIL 3°
+wing bar
+lato sinistro/
+left side
+11.6 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+17 NIL NIL NIL NIL
+35 NIL NIL NIL NIL
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+17 NIL NIL NIL NIL NIL NIL
+35 NIL NIL NIL NIL NIL NIL
+LILN AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LILN AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: Anemometro sonico in prossimità THR RWY 35/illuminato
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: Sonic anemometer vicinity of THR RWY 35/lighted
+3 Illuminazione bordo e asse centrale TWY NIL
+ TWY edge and center line lighting  
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+
+=== Page 8 ===
+AD 2 LILN 1 - 8
+AIRAC effective date 16 MAY 2024 AIP - Italia
+(A05/24) ENAV - Roma
+LILN AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LILN AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+LILN AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LILN AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Venegono ATZ
+Circular area centered on
+45°44'26"N 008°53'13"E
+within a 1.2 NM radius.
+1500
+FT AGL
+G NIL NIL
+1) WI Milano FIR
+2500 ft AMSL su QNH
+Malpensa / on Malpensa QNH
+LILN AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LILN AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+NIL NIL NIL NIL NIL
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LILN 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LILN AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LILN AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+LILN AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LILN AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure speciali applicabili agli aeromobili in condizioni di
+bassa visibilità
+4 Aircraft special procedures in low visibility conditions
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Attività locali permesse solo dopo il “briefing” sulle procedure
+locali
+6.1. Local activity allowed only after “briefing” on local procedures
+6.2. Le operazioni devono essere coordinate con l’Aeroclub Varese per
+gli ACFT civili e con Leonardo Company per gli ACFT militari e civili di
+interesse Leonardo Company
+6.2. Operations must be coordinated with Aeroclub Varese for civil
+ACFT and with Leonardo Company for civil and military ACFT of
+Leonardo Company interest
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+LILN AD 2.21 PROCEDURE ANTIRUMORE
+LILN AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+
+=== Page 10 ===
+AD 2 LILN 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LILN AD 2.22 PROCEDURE DI VOLO
+LILN AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+In caso di indisponibilità del DME MMP o del VOR MMP l’attività su
+VARESE/Venegono AD sarà temporaneamente sospesa dal Gestore
+aeroportuale in caso di partenze da LIMC che seguono le SID
+convenzionali dopo il decollo da RWY 35L/R.
+In case of MMP DME or MMP VOR unavailability, activity on VARESE/
+Venegono AD shall be temporarily suspended by the Aerodrome
+Operator in case of departure from LIMC following convetionally SID
+after take off from RWY 35L/R.
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+NIL NIL
+3 Procedure radar 3 Radar procedures
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+NIL NIL
+4.2 Attività di circuito 4.2 Circuit activity
+Tutti i voli del Leonardo Company e di Stato avranno la precedenza
+sull’altro traffico. Non potranno operare più di quattro aeromobili in
+circuito e dovranno dichiarare di essere in vista l'uno dell'altro.
+Leonardo Company and State aircraft have priority over other traffic.
+The activity within the air traffic circuit must be carried out with no
+more than four aircraft and they all have to be in sight of each other.
+Ogni altro traffico non appartenente all' Aeroclub di Varese e in attività
+addestrativa sul campo dovrà, preventivamente, coordinare orari e
+modalità con lo stesso Aeroclub.
+I piloti dovranno mantenersi in continuo ascolto sulla frequenza di
+Venegono radio, trasmettendo il riporto sulle posizioni  critiche  in
+circuito: inizio sottovento, sottovento, virata base, finale, nonché i
+riporti sulle posizioni critiche sull'area di manovra posizione attesa,
+decollo, eventuale contro pista.
+Any other traffic not belonging to the Aeroclub di Varese performing
+training activity is subject to previous coordination with the Aeroclub.
+ 
+Pilots shall maintain two-way radio contact  on  Venegono  radio
+frequency, reporting circuit positions down wind leg, base leg and final;
+pilots should also report positions on the manoeuvring area as holding
+point, take off and eventually runway back-track.
+II circuito di traffico è sempre ad ovest del campo alle seguenti quote ft
+a. getto non al di sopra di 2500 ft QNH/1400 AGL
+b. convenzionali ed elicotteri non al di sopra di 2000 ft QNH/ 900 AGL
+The traffic circuit is always west of the field at following heights ft:
+a. jet not above 2500 ft QNH/1400 AGL
+b. propeller and helicopters not above 2000 ft QNH/900 AGL
+Percorrendo il tratto di sottovento a Ovest dell'aeroporto di VARESE/
+Venegono si segua il Fiume Olona, quale riferimento al suolo, e non
+lo si oltrepassi verso Ovest.
+Proceeding on the western downwind of VARESE/Venegono Airport,
+follow Olona River, as a ground reference, and don't overshoot to the
+West.
+4.3 Arrivi 4.3 Arrivals
+Agli  aeromobili  diretti  a  Venegono  è  fatto  obbligo  di  riportare a
+Venegono radio o in assenza del servizio con chiamate all'aria prima
+di interessare la LI-R81 (vedi ENR 5.1.2) e l’ATZ di VARESE/Venegono
+e di proseguire secondo quanto previsto al punto 4.2 di cui sopra
+Arriving traffic is required to contact Venegono radio frequency or if the
+service is not available, transmit on the air its position before entering
+ LI-R81  (see  ENR  5.1.2)  and  VARESE/Venegono  ATZ  and then
+follow the instructions stated in point 4.2 above
+4.4 Partenze 4.4 Departures
+Vedi item 20.6 See item 20.6
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LILN AD 2.23 INFORMAZIONI AGGIUNTIVE
+LILN AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LILN AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LILN AD 2.24 CHARTS RELATED TO THE AERODROME
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LILN 1 - 11
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+Carte - Charts Pagine - Pages
+AERODROME LANDING CHART  AD 2 LILN 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 17/35  AD 2 LILN 3 - 1
+ICAO VISUAL APPROACH CHART  AD 2 LILN 5 - 1
+ Carte - Charts Pagine - Pages
+ Aerodrome Obstacole Chart - Tipe B ICAO Vedi/See GEN 3.2
+LILN AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LILN AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 12 ===
+AD 2 LILN 1 - 12
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+

@@ -1,0 +1,243 @@
+=== Page 1 ===
+EIRT AD 2 - 1AIP IRELAND
+Irish Aviation Authority
+EIRT AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+EIRT - RATHCOOL
+EIRT AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+EIRT AD 2.3 OPERATIONAL HOURS
+1 ARP and its site 520620N 0085900W
+-
+2 Direction and distance from (city) 13NM W of Mallow
+3 AD Elevation, Reference Temperature & Mean 
+Low Temperature
+281ft / 20.5°C (Max Temp) 0.4°C (MNM Temp)
+4 Geoid undulation at AD ELEV PSN 190ft
+5 MAG VAR/Annual Change 5° (2014)/11’ decreasing
+6 AD Operator, address, telephone, telefax, 
+email, AFS, Website
+Post: Mr. Dennis Crowley
+Rathcool Flying Club
+Rathcool
+Mallow
+Co. Cork
+Phone:+353 83 829 9938
+Email: dcrowley045@gmail.com
+7 Types of traffic permitted (IFR/VFR) VFR
+8 Remarks Nil
+1A D  O p e r a t o r HX PPR
+2 Customs and immigration Nil
+3 Health and sanitation Nil
+4 AIS Briefing Office See remarks
+5 ATS Reporting Office (ARO) See remarks
+6 MET Briefing Office See remarks
+7A T S Nil
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks For HR of operation contact AD ADMIN
+PIB AVBL from AIS, Shannon, See Section GEN 3.1.5
+,
+ARO service is AVBL H24 from AIS Shannon See Section 
+GEN 3.1.5
+Met briefing AVBL from Central Aviation Office, Shannon 
+Airport, See Section GEN 3.5.4
+16 JUN 2022
+AIRAC Amdt 006/22
+16 JUN 2022               
+
+=== Page 2 ===
+EIRT AD 2 - 2 AIP IRELAND
+Irish Aviation Authority
+EIRT AD 2.4 HANDLING SERVICES AND FACILITIES
+EIRT AD 2.5 PASSENGER FACILITIES
+NIL
+EIRT AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+EIRT AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING AND 
+SNOW PLAN
+NIL
+EIRT AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Cargo-handling facilities Nil
+2 Fuel/oil types Nil
+3 Fuelling facilities/capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft PPR
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 AD category for fire fighting Helicopter H2
+2 Rescue equipment Appropriate to Cat Special
+3 Capability for removal of disabled aircraft Nil
+4 Remarks Nil
+1 Apron surface and strength Surface: Nil
+Strength:
+2 Taxiway width, surface and strength TAXIWAY WIDTH (M) SURFACE STRENGTH
+A 7.5 Grass -
+3 Altimeter checkpoint location and elevation Location: Nil
+Elevation: Nil
+4 VOR checkpoint Nil
+5 INS checkpoint Nil
+6 Remarks Nil
+16 JUN 2022
+16 JUN 2022               
+AIRAC Amdt 006/22
+
+=== Page 3 ===
+EIRT AD 2 - 3AIP IRELAND
+Irish Aviation Authority
+EIRT AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND 
+MARKINGS
+EIRT AD 2.10 AERODROME OBSTACLES
+NIL
+EIRT AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+EIRT AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+1 Use of aircraft stand ID signs, TWY guide lines 
+and visual docking/parking guidance system at 
+aircraft stands
+Nil
+2 RWY and TWY markings and LGT RWY 09/27
+3 Stop bars and RWY Guard Lights Nil
+4 Other RWY Protection measures -
+5 Remarks Nil
+1 Associated MET Office See Section GEN 3.5 for Information
+2 Hours of service H24
+3 Office responsible for TAF preparation 
+Periods of validity 
+Interval of issuance
+Nil
+4 Type of landing forecast
+Interval of issuance
+Nil
+5 Briefing/consultation provided Computer-based self-briefing facility
+URL: https://briefing.met.ie/
+Personal briefing by telephone from Central Aviation Office, 
+Shannon
+6 Flight documentation
+Language(s) used
+English
+7 Charts and other information available for 
+briefing or consultation
+Nil
+8 Supplementary equipment available for 
+providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information (limitation of service, etc.) Nil
+Designations
+RWY
+NR
+TRUE BRG Dimensions of
+RWY
+Strength (PCN) 
+and surface of 
+RWY and SWY
+THR coordinates 
+RWY end 
+coordinates THR 
+geoid undulation
+THR elevation 
+and highest 
+elevation of TDZ 
+of precision APP 
+RWY
+1 2345 6
+27 - 450M X 18M Grass - -
+09 - 450M X 18M Grass - -
+16 JUN 2022
+16 JUN 2022               
+AIRAC Amdt 006/22
+
+=== Page 4 ===
+EIRT AD 2 - 4 AIP IRELAND
+Irish Aviation Authority
+EIRT AD 2.13 DECLARED DISTANCES
+EIRT AD 2.14 APPROACH AND RUNWAY LIGHTING
+NIL
+EIRT AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+NIL
+EIRT AD 2.16 HELICOPTER LANDING AREA
+NIL
+EIRT AD 2.17 ATS AIRSPACE
+NIL
+EIRT AD 2.18 ATS COMMUNICATION FACILITIES
+EIRT AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+NIL
+Slope of 
+RWY-SWY
+SWY 
+dimensions 
+(M)
+CWY 
+dimensions 
+(M)
+Strip 
+dimensions 
+(M)
+RWY End 
+Safety Area 
+dimensions
+Location and 
+description 
+of Arresting 
+System
+OFZ Remarks
+7 8 9 10 11 12 13 14
+Nil Nil Nil Nil - - Nil Nil
+Nil Nil Nil Nil - - Nil Nil
+RWY 
+Designator
+TORA TODA ASDA LDA Remarks
+12345 6
+27 450 450 450 450 Nil
+09 450 450 450 450 Nil
+Service 
+Designation
+Call sign Channel SATVOICE 
+No.
+Logon 
+Address
+Hours of 
+Operation
+Remarks
+1234567
+OTHER Heli Med 
+Ground
+132.505
+A/G Channel
+- - HX - Non 
+Specific 
+Expect 
+increased 
+short notice 
+helicopter 
+activity due to 
+Air Ambulance 
+Operations
+16 JUN 2022
+16 JUN 2022               
+AIRAC Amdt 006/22
+
+=== Page 5 ===
+EIRT AD 2 - 5AIP IRELAND
+Irish Aviation Authority
+EIRT AD 2.20 LOCAL TRAFFIC REGULATIONS
+NIL
+EIRT AD 2.21NOISE ABATEMENT PROCEDURES
+NIL
+EIRT AD 2.22 FLIGHT PROCEDURES
+Very low utilisation, Standard overhead join left hand circuits is very normal and advisable as this is the only licensed 
+aerodrome with no radio.
+EIRT AD 2.23 ADDITIONAL INFORMATION
+Expect intense Air Ambulance activity at EIRT
+EIRT AD 2.24 CHARTS RELATED TO AN AERODROME
+NIL
+16 JUN 2022
+16 JUN 2022               
+AIRAC Amdt 006/22
+
+=== Page 6 ===
+THIS PAGE INTENTIONALLY LEFT BLANK
+Irish Aviation Authority
+EIRT AD 2 - 6 AIP IRELAND
+16 JUN 2022
+16 JUN 2022   
+AIRAC Amdt 006/22

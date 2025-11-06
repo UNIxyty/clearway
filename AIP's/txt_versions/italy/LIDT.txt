@@ -1,0 +1,1067 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIDT 1 - 1
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+LIDT AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIDT AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+L'indicatore di località non può essere usato nel gruppo Indirizzo
+dei Messaggi trasmessi sulla rete del servizio fisso delle
+Telecomunicazioni Aeronautiche (AFTN)
+Location indicator cannot be used in the address component of
+messages transmitted over Aeronautical Fixed Telecommunication
+Network (AFTN)
+ATTENZIONE: Vedi limitazioni di cui alla pagina AD 1.4-1 WARNING: See limitations detailed in AD 1.4-1
+LIDT - TRENTO/Mattarello
+LIDT AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIDT AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+46°01'24''N 011°07'30''E
+2 Direzione e distanza dalla città 2.70 NM S Trento
+ Direction and distance from city  
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+610 FT / NIL
+4 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+1° E (2005.0) / 5'E
+5 Autorità amministrativa aeroportuale ENAC - DT Nord-Est
+Aeroporto "Marco Polo"
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+Ufficio di Verona
+Aeroporto “Valerio Catullo”
+37066, Caselle di Sommacampagna (VR)
+Tel +39 045 8095647
+ e-mail: aero.verona@enac.gov.it
+ Aerodrome administration authority ENAC - DT Nord-Est
+"Marco Polo" Airport
+Viale Galileo Galilei 16/1
+30173 Venezia Tessera 
+Tel +39 041 2605701  
+e-mail: nordest.apt@enac.gov.it  
+pec: protocollo@pec.enac.gov.it  
+website: www.enac.gov.it
+Ufficio di Verona
+Aeroporto “Valerio Catullo”
+37066, Caselle di Sommacampagna (VR)
+Tel +39 045 8095647
+ e-mail: aero.verona@enac.gov.it
+ Gestore aeroportuale TRENTINO TRASPORTI S.p.A
+Tel +39 0461 944355 fax +39 0461 946665
+E-mail: airport@trentinotrasporti.it
+ Aerodrome operator  
+ Autorità ATS TRENTINO TRASPORTI S.p.A. cert. ANSP IT-ATM/ANS-008
+Tel +39 0461 944355
+ Fax +39 0461 945834
+E-mail: airport@trentinotrasporti.it
+ ATS authority  
+
+=== Page 2 ===
+AD 2 LIDT 1 - 2
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+6 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+7 Note 1. AD aperto al traffico turistico nazionale e comunitario
+ Remarks 1. AD open to domestic touristic and communitarian traffic
+LIDT AD 2.3 ORARIO DEI SERVIZI
+LIDT AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale H24
+ Aerodrome Administration  
+2 Dogana ed immigrazione NIL
+ Customs and immigration  
+3 Servizio sanitario NIL
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO MILANO
+   
+5 ARO H24 ARO CBO MILANO
+   
+6 METEO Briefing Office H24 ARO CBO MILANO
+   
+7 ATS H24
+   
+8 Rifornimento H24
+ Fuelling  
+9 Handling NIL
+   
+10 Servizi di sicurezza O/R
+ Security  
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO MILANO: vedi GEN 3.1
+ Remarks 1. ARO CBO MILANO: see GEN 3.1
+LIDT AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIDT AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci NIL
+ Cargo-handling facilities  
+2 Tipi di carburante/Olio JET A1, AVGAS 100LL, OCT91-98 / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento Jet A1: 15000 litri impianto fisso; Jet A1 "SAC": 70000 litri impianto fisso + 13000
+litri mobile AVGAS 100LL: 15000 litri impianto fisso OCTANE 91-98: 15000 litri
+impianto fisso
+ Fuelling capacity Jet A1: 15000 litres fixed pump; Jet A1 without excise tax: 70000 litres fixed pump
++ 13000 litres mobile pump AVGAS 100LL: 15000 litres fixed pump OCTANE 91-98:
+15000 litres fixed pump
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito O/R
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIDT 1 - 3
+AIRAC effective date 15 MAY 2025
+ENAV - Roma (A05/25)
+7 Note NIL
+ Remarks  
+LIDT AD 2.5 SERVIZI PER I PASSEGGERI
+LIDT AD 2.5 PASSENGER FACILITIES
+1 Alberghi Sì
+ Hotels Yes
+2 Ristoranti Sì
+ Restaurants Yes
+3 Trasporti Taxi O/R
+ Transportation  
+4 Servizio medico NIL
+ Medical facilities  
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Bar
+ Remarks 1. Bar
+LIDT AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIDT AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 1 ICAO (estensibile O/R di 7 giorni PN)
+ Aerodrome category for fire fighting CAT 1 ICAO (extensible O/R 7 days PN)
+2 Equipaggiamento per il soccorso NIL
+ Rescue equipment  
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note 1. Servizio antincendio disponibile durante l’orario di apertura dell’ aerodromo
+ Remarks 1. Fire fighting service available during AD hours of operation
+LIDT AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIDT AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Spazzatrice sgombero neve
+ Types of clearing equipment Snow sweeper
+2 Priorità Piazzale Nucleo elicotteri VVF - pista - raccordo - piazzale nord - piazzale Sud
+ Clearance priorities Apron VVF helicopters - runway - taxiway - north apron - south apron
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note NIL
+ Remarks  
+LIDT AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIDT AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+
+=== Page 4 ===
+AD 2 LIDT 1 - 4
+AIRAC effective date 15 MAY 2025 AIP - Italia
+(A05/25) ENAV - Roma
+ Apron surface and strength Identificativo Superficie Resistenza
+Designator Surface Strength
+NIL NIL NIL
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 21.0 M ASPH SIWL 16000 Kg
+B 18.0 M ASPH SIWL 9000 Kg
+C 18.0 M ASPH SIWL 16000 Kg
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIDT 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIDT AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIDT AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY NIL
+ RWY and TWY markings and lights  
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIDT AD 2.10 OSTACOLI AEROPORTUALI
+LIDT AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+LIDT AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIDT AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+NIL
+2 Orario di servizio
+ Hours of service
+NIL
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+NIL / NIL
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO MILANO Consultazione telefonica: NIL
+ Briefing and consultation provided Briefing: ARO CBO MILANO Telephone consultation: NIL
+6 Documentazione di volo e
+lingua usata
+NIL
+ Flight documentation and
+language used
+ 
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+
+=== Page 6 ===
+AD 2 LIDT 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Telefax, Internet
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Trento Flight Information Unit (AFIU)
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO MILANO: vedi GEN 3.1
+2. Disponibili solo i dati meteorologici strumentali di direzione e intensità del vento
+al suolo, pressione atmosferica (QFE, QNH), temperatura dell’aria e temperatura
+di rugiada, che saranno comunicati in frequenza agli aeromobili in contatto con
+Trento Flight Information Unit (AFIU).
+ Climatological information and additional
+information
+1. ARO CBO MILANO: see GEN 3.1
+2. Available only instrumental meteorological data values of surface wind direction
+and speed, atmospheric pressure (QFE, QNH), air temperature and dewpoint
+temperature provided by voice communications to aircraft in contact with Trento
+Flight Information Unit (AFIU).
+LIDT AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIDT AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e
+superficie di
+RWY
+Strength and surface of 
+RWY
+Coordinate THR
+THR coordinates
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+18 NIL 1130 x 30
+SIWL 16000 Kg
+ASPH
+46°01'38.17''N
+011°07'29.64''E
+611.3 FT / 611.3 FT
+36 NIL 1130 x 30
+SIWL 16000 Kg
+ASPH
+46°01'01.50''N
+011°07'29.64''E
+605.5 FT / 605.5 FT
+18GLD NIL 225 x 30
+Il valore di resistenza
+non è applicabile
+agli aeromobili civili
+The strength value is
+unreliable for civil aircraft
+Grass
+46°01'11.41''N
+011°07'31.20''E
+NIL / NIL
+36GLD NIL 225 x 30
+Il valore di resistenza
+non è applicabile
+agli aeromobili civili
+The strength value is
+unreliable for civil aircraft
+Grass
+46°01'04.13''N
+011°07'30.90''E
+NIL / NIL
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+18 NIL 28 x 30 208 x 150 1278 x 150 120 x 80
+36 NIL NIL 173 x 150 1278 x 150 120 x 80
+18GLD NIL NIL NIL 285 x 60 NIL
+36GLD NIL NIL NIL 285 x 60 NIL
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+18 NIL 1) GUND 161.5 FT
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIDT 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+36 NIL 1) GUND 161.4 FT
+18GLD NIL
+1) La pista erbosa è delimitata da coppie di piramidi bianche e rosse
+1) The grass RWY is bounded by double white and red pyramids
+36GLD NIL
+1) La pista erbosa è delimitata da coppie di piramidi bianche e rosse
+1) The grass RWY is bounded by double white and red pyramids
+LIDT AD 2.13 DISTANZE DICHIARATE
+LIDT AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+18 1130 1338 1158 1130
+36 1130 1303 1130 1130
+18GLD 225 225 225 225
+36GLD 225 225 225 225
+NOTE
+REMARKS
+NIL
+LIDT AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIDT AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+18 NIL NIL NIL G NIL 5.7°
+lato sinistro
+left side
+25.3 NIL
+36 NIL NIL NIL G NIL NIL NIL NIL
+18GLD NIL NIL NIL NIL NIL NIL NIL NIL
+36GLD NIL NIL NIL NIL NIL NIL NIL NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+18 NIL NIL NIL NIL NIL 60 W NIL
+36 NIL NIL NIL NIL NIL 60 W NIL
+18GLD NIL NIL NIL NIL NIL NIL NIL NIL
+36GLD NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 8 ===
+AD 2 LIDT 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+18 R NIL NIL NIL NIL 1) PAPI 18: Ad uso esclusivo degli
+elicotteri/for the exclusive use of
+helicopters
+36 R NIL NIL NIL NIL NIL
+18GLD NIL NIL NIL NIL NIL NIL
+36GLD NIL NIL NIL NIL NIL NIL
+LIDT AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIDT AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+ABN/IBN: NIL/NIL
+NIL
+Orario: NIL
+ ABN/IBN location, characteristics and hours
+of operation
+ABN/IBN: NIL/NIL
+NIL
+Hours: NIL
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro: NIL
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer: NIL
+3 Illuminazione bordo e asse centrale TWY Solo bordo: blu
+ TWY edge and center line lighting Only edge: blue
+4 Alimentatore secondario/Tempo di 
+intervento
+NIL
+ Secondary power supply/Switch over time  
+5 Note NIL
+ Remarks  
+LIDT AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIDT AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIDT 1 - 9
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+LIDT AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIDT AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Trento ATZ
+Circular area centered on
+46°01'17"N 011°07'30"E
+within a 5.0 NM radius.
+7500 FT
+AMSL
+G
+Trento
+Aerodrome INFO
+EN/IT
+10000 FT
+1) WI Milano FIR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+(RMZ)
+LIDT AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIDT AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 H24
+NIL
+AFIS Trento Aerodrome INFO 119.650 H24 NIL
+LIDT AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIDT AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(3° E-2020.0)
+OZE
+117.05
+MHZ
+CH 117Y
+VOR H24
+DME H24
+VOR
+46°24'18.7''N
+011°17'32.3''E
+DME
+46°24'18.9''N
+011°17'32.9''E
+651 M
+AMSL
+Settore/sector
+225°/150°: 40 NM/25000
+FT
+Settore/sector
+150°/225°: 50 NM/25000
+FT
+ 
+1) MAINT:
+VOR: il primo WED del
+mese / first WED of
+the month: 1000-1100
+(0900-1000)
+2) Limitazioni /
+limitations:
+usabile solo per le
+procedure pubblicate
+/ available only for
+published procedures
+
+=== Page 10 ===
+AD 2 LIDT 1 - 10
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated
+operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VOR/DME
+(2° E-2010.0)
+TNT
+115.35
+MHZ
+CH 100Y
+VOR H24
+DME H24
+VOR
+46°01'12.9''N
+011°08'24.0''E
+DME
+46°01'12.9''N
+011°08'23.4''E
+312 M
+AMSL
+25 NM/25000 FT
+ 
+1) Usabile solo per i
+settori di avvicinamento/
+Usable only for approach
+sectors (RDL 347) e di
+mancato avvicinamento/
+and  missed approach
+(RDL 199)
+2) Settori utilizzabili/
+Usable sectors
+005°/020° 195°/225° e/
+and 335°/360° con
+COV ridotta a/with COV
+reduced to FL 140
+VOR/DME
+(3° E-2020.0)
+VIC
+113.40
+MHZ
+CH 81X
+VOR H24
+DME H24
+VOR
+45°38'14.3''N
+011°40'34.9''E
+DME
+45°38'14.3''N
+011°40'34.3''E
+65 M
+AMSL
+80 NM/50000 FT
+limitazioni a/limitations at
+40 NM
+030°/060° MRA 10000 FT
+060°/230° MRA 5000 FT
+230°/270° MRA 7000 FT
+270°/030° MRA 16000 FT
+ 
+1) MAINT:
+VOR
+Primo MON di ogni
+mese / first MON each
+  month: 0900-1100
+(0800-1000)
+DME
+Primo MON di APR e
+OCT/first MON of APR
+and OCT: 0900-1100
+(0800-1000)
+LIDT AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIDT AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+1.1. Pista 36GLD/18GLD riservata agli alianti e agli elicotteri, solo su
+richiesta agli aeromobili
+1.1. RWY 36GLD/18GLD reserved to gliders and helicopters’ activity
+and O/R to aircraft
+1.2. Le due piste non possono essere utilizzate contemporaneamente 1.2. Both runways cannot be used at the same time
+2 Servizio apron 2 Servizio apron
+NIL NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+NIL NIL
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+6.1. Ogni sabato e domenica intensa attività di alianti sull’aerodromo 6.1. Every SAT and SUN heavy gliders activity on the aerodrome
+6.2. L’attività  aerea  è proibita quando il servizio antincendio non è
+disponibile ad eccezione degli elicotteri della Provincia Autonoma di
+Trento per i compiti d’istituto
+6.2. Activity is forbidden when fire fighting service is not available,
+except for institutional flights of helicopters of Provincia Autonoma
+Trento
+6.3. Priorità atterraggio/decollo elicotteri HEMS della Provincia
+Autonoma di Trento
+6.3. Landing/Take off priority to HEMS helicopters of Provincia
+Autonoma Trento
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIDT 1 - 11
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+NIL NIL
+LIDT AD 2.21 PROCEDURE ANTIRUMORE
+LIDT AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Use of RWY
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+NIL NIL
+4 Attività addestrativa 4 Training activity
+NIL NIL
+LIDT AD 2.22 PROCEDURE DI VOLO
+LIDT AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+2.1.1. Le procedure IFR VOR RWY 18, RNP Y164, RNP Z164, TEXXA
+5A Departure, AVCOL 5A Departure, SID e STAR sono disponibili solo
+per gli elicotteri.
+2.1.1. The IFR procedures VOR RWY 18, RNP Y164, RNP Z164, TEXXA
+5A Departure, AVCOL 5A Departure, SID and STAR are available only
+for helicopters.
+2.1.2. Le operazioni IFR sono limitate ad un aeromobile per volta da/
+per gli aeroporti di Bolzano e , Trento/Mattarello e da/per le elisuperfici
+Ospedale di Cles (LIKC), Fiemme (LIKB) e ospedale Arco (LIKA), per
+qualsiasi combinazione di arrivi e/o partenze strumentali. Altri traffici
+attenderanno al suolo o nei circuiti di attesa, fino a che l’operazione
+IFR in atto non sia stata completata.
+2.1.2. IFR operations are limited to one aircraft at time to/from Bolzano
+and Trento/Mattarello airport and Cles Hospital (LIKC), Fiemme (LIKB)
+and Arco Hospital (LIKA) helipads, for any instrumental arrival and
+departure. Other traffic shall wait on the ground or hold over
+the designated holding pattern until the instrumental procedures is
+completed.
+2.1.3. Le procedure RNP Y164, RNP Z164, TEXXA 5A Departure,
+AVCOL 5A Departure, SID e STAR sono disponibili solo per elicotteri
+HEMS autorizzati. L’autorizzazione deve essere preventivamente
+richiesta tramite l’apposito modulo reperibile sul sito http://
+www.trentinotrasporti.it/aeroporto.
+2.1.3. The IFR procedures RNP Y164, RNP Z164, TEXXA 5A Departure,
+AVCOL 5A Departure, SID and STAR are available only for allowed
+HEMS helicopters. The authorization must be previously requested
+through the appropriate form available on the website http://
+www.trentinotrasporti.it/aeroporto.
+2.1.4. Le procedure VOR RWY 18, RNP Y164, RNP Z164, TEXXA  5A
+Departure, AVCOL 5A Departure, SID e STAR sono utilizzabili solo con
+il servizio AFIS disponibile.
+2.1.4. The IFR procedures VOR RWY 18, RNP Y164, RNP Z164, TEXXA
+5A Departure, AVCOL 5A Departure, SID e STAR are available only
+with AFIS service available.
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione della STAR: vedi tabella 24 STAR description: see table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+Vedi tabella 24 See table 24
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIL NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio failure
+2.2.4.1. In caso di avaria radio, la radioassistenza designata su cui
+iniziare la discesa per l’atterraggio è “TNT” VOR
+2.2.4.1. In the event of radio failure, the radio aid designated to
+descend for landing is “TNT” VOR
+2.2.4.2. In caso di avaria radio durante le procedure RNP Y 164, RNP
+Z 164, il traffico che vola le procedure dovrà effettuare delle “blind
+transmission” sull’appropriata frequenza al fine di notificare la propria
+posizione ad eventuale traffico sconosciuto presente nell’area.
+2.2.4.2. In the event of radio failure during RNP Y 164, RNP Z 164
+procedures, the traffic that flown the procedures will have to carry out
+“blind transmissions” on the appropriate frequency in order to notify
+its position to any unknown traffic in the area.
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+
+=== Page 12 ===
+AD 2 LIDT 1 - 12
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+Vedi tabella 24 See table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+2.3.5 Procedure di radio-avaria 2.3.5 Radar failure
+In caso di avaria radio durante l’effettuazione delle procedure TEXXA
+5A Departure, AVCOL 5A Departure e STAR il traffico che vola le
+procedure dovrà effettuare delle “blind transmissions” sull’appropriata
+frequenza al fine di notificare la propria posizione ad eventuale traffico
+in attesa.
+In the event of radio failure during TEXXA 5A Departure, AVCOL 5A
+Departure and STAR procedures, the traffic flying the procedures will
+have to carry out “blind transmissions” on the appropriate frequency
+in order to notify its position to any unknown traffic in the area.
+3 Procedure radar 3 Radar procedures
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristics
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General Information
+4.1.1. Vedi ENR 2.1.1.1.4.3 Norme per il traffico VFR, paragrafo 3) Voli
+che operano nell’area di Bolzano e Trento.
+4.1.1. See ENR 2.1.1.1.4.3 Rules for VFR traffic, paragraph 3) Flights
+operating within Bolzano and Trento area.
+4.1.2. Punti di riporto: LAVIS (DTN1) – TRENTO (DTN2) – CIVEZZANO
+(DTNE1) – LIDO DI BRENTA (DTE1) – VIGOLO VATTARO (DTE2) –
+CALLIANO (DTS1) (Vedi ENR 6.3 Carta d’area VFR)
+4.1.2. Reporting points: LAVIS (DTN1) – TRENTO (DTN2) –
+CIVEZZANO (DTNE1) – LIDO DI BRENTA (DTE1) – VIGOLO VATTARO
+(DTE2) – CALLIANO (DTS1) (See ENR 6.3 VFR Area Charts)
+4.2 Attività di circuito 4.2 Circuit activity
+4.2.1. Circuito di traffico standard pista 18, quota 1600ft AMSL/1000ft
+AGL
+4.2.1. Standard traffic pattern RWY18, 1600ft AMSL/1000ft AGL
+4.2.2. Circuito di traffico standard pista 36, quota 1400ft
+AMSL/800ftAGL
+4.2.2. Standard traffic pattern RWY36, 1400ft AMSL/800ft AGL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 Night VFR
+1. Aeroporto aperto agli elicotteri in VFR/N solo con servizio AFIS
+garantito, ad eccezione del servizio elicotteri della 'Provincia
+Autonoma di Trento' che può operare sotto la responsabilità del
+pilota anche quando il servizio AFIS non è garantito
+1. Aerodrome open to helicopters in VFR/N only with AFIS service
+guaranteed with exception of the 'Provincia Autonoma di Trento'
+helicopters service that can operate under the pilot's responsibility
+even if AFIS service is not guaranteed
+2. Punti di riporto VFR/N: LAVIS (DTN1)- TRENTO (DTN2) -
+CIVEZZANO (DTNE1) - VIGOLO VATTARO (DTE2) - LIDO DI BRENTA
+(DTE1) - CALLIANO (DTS1) (vedi ENR 6.3 Carte d’Area VFR), circuito
+2. VFR/N reporting points: LAVIS (DTN1)- TRENTO (DTN2) -
+CIVEZZANO (DTNE1) - VIGOLO VATTARO (DTE2) - LIDO DI BRENTA
+(DTE1) - CALLIANO (DTS1) (see ENR 6.3 VFR Area Charts), standard
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIDT 1 - 13
+AIRAC effective date 28 NOV 2024
+ENAV - Roma (A12/24)
+di traffico standard RWY 18 1600ft AMSL/1000ft AGL, RWY 36 1500ft
+AMSL/900ft AGL
+traffic pattern RWY 18 1600ft AMSL/1000ft AGL, RWY 36 1500ft
+AMSL/900ft AGL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+LIDT AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIDT AD 2.23 ADDITIONAL INFORMATION
+NIL NIL
+LIDT AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIDT AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIDT 2 - 1
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 18/36  AD 2 LIDT 3 - 1
+STAR CAT H  AD 2 LIDT 4 - 1
+STAR CAT H DESCRIPTION TABLES  AD 2 LIDT 4 - 3
+STAR PEWOC 1E PEWOC 1F  AD 2 LIDT 4 - 5
+STAR PEWOC 1E PEWOC 1F DESCRIPTION TABLES  AD 2 LIDT 4 - 7
+ICAO VISUAL APPROACH CHART  AD 2 LIDT 5 - 1
+ICAO INSTRUMENT APPROACH CHART VOR RWY 18 CAT H
+INSTRUMENT GUIDED CLOUD BREAKING PROCEDURE
+ AD 2 LIDT 5 - 3
+ICAO INSTRUMENT APPROACH CHART RNP Z 164  AD 2 LIDT 5 - 5
+ICAO INSTRUMENT APPROACH CHART RNP Z 164 DESCRIPTION
+TABLES
+ AD 2 LIDT 5 - 7
+ICAO INSTRUMENT APPROACH CHART RNP Y 164  AD 2 LIDT 5 - 11
+ICAO INSTRUMENT APPROACH CHART RNP Y 164
+DESCRIPTION TABLES
+ AD 2 LIDT 5 - 13
+INITIAL CLIMB PROCEDURES AND SID RWY 18/36 CAT H  AD 2 LIDT 6 - 1
+INITIAL CLIMB PROCEDURES AND SID RWY 18/36 CAT H
+DESCRIPTION TABLES
+ AD 2 LIDT 6 - 3
+ICAO STANDARD INSTRUMENT DEPARTURE CHART RNP
+DEPARTURE AVCOL 5A
+ AD 2 LIDT 6 - 5
+ICAO STANDARD INSTRUMENT DEPARTURE CHART RNP
+DEPARTURE AVCOL 5A DESCRIPTION TABLES
+ AD 2 LIDT 6 - 7
+ICAO STANDARD INSTRUMENT DEPARTURE CHART RNP
+DEPARTURE TEXXA 5A
+ AD 2 LIDT 6 - 9
+ICAO STANDARD INSTRUMENT DEPARTURE CHART RNP
+DEPARTURE TEXXA 5A DESCRIPTION TABLES
+ AD 2 LIDT 6 - 11
+ICAO STANDARD INSTRUMENT DEPARTURE CHART PEWOC 1T  AD 2 LIDT 6 - 13
+ICAO STANDARD INSTRUMENT DEPARTURE CHART PEWOC 1T
+DESCRIPTION TABLES
+ AD 2 LIDT 6 - 15
+ Carte - Charts Pagine - Pages
+ Aerodrome Obstacle Chart Type B ICAO Vedi/See GEN 3.2
+LIDT AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIDT AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 14 ===
+AD 2 LIDT 1 - 14
+AIRAC effective date 28 NOV 2024 AIP - Italia
+(A12/24) ENAV - Roma
+

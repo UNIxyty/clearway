@@ -1,0 +1,3280 @@
+=== Page 1 ===
+AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD2-1
+AD 2 AERODROMES
+RJCM AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJCM - MEMANBETSU
+RJCM AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJCM AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 435250N / 1440951E
+175° / 1.25km from RWY 18 THR
+2 Direction and distance from (city) 9.7nm SSW ABASHIRI
+3 Elevation/ Reference temperature 109FT / 26°C (2004-2008)
+4 Geoid undulation at AD ELEV PSN 99FT
+5 MAG VAR/ Annual change 9 ° W(2009) / 2.1’E
+6 AD Administration, address, 
+telephone, telefax, telex, AFS, 
+e-mail and/or Web-site addresses
+Hokkaido Airports Co.,Ltd. Memanbetsu Airport Office
+256-3, Chuo, Memanbetsu, Ozora-cho Abashiri-gun, Hokkaido
+TEL: 0152-74-2222 FAX: 0152-74-3674
+e-MAIL: hap-mmb-unjyo@hokkaido-airports.co.jp
+7 Types of traffic permitted(IFR/VFR) IFR/VFR
+8 Remarks Memanbetsu Airport Branch (CAB)
+256, Chuo, Memanbetsu, Ozora-cho Abashiri-gun, Hokkaido
+TEL:0152-74-2673
+1 AD Administration 2300-1200
+2 Customs and immigration On request
+Customs: 0154-22-3730
+Immigration: 0154-22-2430
+3 Health and sanitation Quaranti ne(human): On request(0154-23-3340)
+Quarantine(animal, plant): Nil
+4 AIS Briefing Office Nil
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24 (NEW CHITOSE)
+7 ATS 2300-1200
+8 Fuelling 2300-1200
+9 Handling 2300-1200
+10 Security 2300-1200
+11 De-icing Nil
+12 Remarks Nil
+(EFF:25 MAR 2021) 25/3/21
+
+
+=== Page 2 ===
+RJCM AD2-2 AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD 2.4 HANDLING SERVICES AND FACILITIES
+RJCM AD 2.5 PASSENGER FACILITIES
+RJCM AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJCM AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities All the modern institutions that deal with the weight thing to a A306 type freighter
+2 Fuel/ oil types JET A-1
+3 Fuelling facilities/ capacity F uel truck refueling, 22L/sec
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants At airport
+3 Transportation Buses and taxies
+4 Medical facilities Hospital in Ozora-town, 5km from AP
+5 Bank and Post Office Nil
+6 Tourist Office At airport
+7 Remarks Nil
+1 AD category for fire fighting CAT 8
+2 Rescue equipment Chemical fire fighting truck x 3
+Emergency medical equipments conveyance truck x 1
+3 Capability for removal of disabled 
+aircraft
+Nil
+4 Remarks Nil
+1 Types of clearing equipment Snow removal equipment: 42
+2 Clearance priorities
+1) RWY 18/36, T1, T6, P1-P6, Apron A
+2) T2-T5, TB, Apron B
+3 Remarks Nil
+(EFF:30 APR 2015) 2/4/15
+
+
+=== Page 3 ===
+AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD2-3
+RJCM AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJCM AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Apron surface and strength Apron A : Surface:Cement-concrete, Strength:PCR 1132/R/B/W/T
+Apron B : Surface:Cement-concrete, Strength:PCR 257/R/B/W/T
+2 Taxiway width, surface and 
+strength
+T1-T6, P1-P6 : Surface:Asphalt-concrete, Width:30m, 
+                         Strength:PCR 1170/F/C/X/T
+TB : Surface:Asphalt-concrete, Width:9m, Strength:PCR 273/F/C/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints (Spot NR)
+1 : 435257.24N/1440933.47E
+2 : 435255.56N/1440933.89E
+3 : 435253.47N/1440934.16E
+4 : 435251.21N/1440934.53E
+5 : 435248.95N/1440934.82E
+6 : 435246.85N/1440935.01E
+6 Remarks Nil
+1 Use of aircraft stand ID signs, 
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Aircraft stand ID sign : Nil
+ACFT stand taxi lane marking : See AD2.24. AD chart
+Visual docking guidance system : Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY18/36
+(Marking) RWY designation, RWY CL, RWY THR, Aiming point, TDZ, RWY 
+side stripe
+(LGT) RCLL, REDL, RTHL, RENL, RTZL, RWY DIST marker LGT, WBAR
+TWY: ALL
+(Marking) TWY CL, TWY side stripe
+(LGT) TWY edge LGT
+TWY: T1-T6
+(Marking) RWY HLDG PSN, Mandatory instruction
+(LGT) TWY CL LGT, RWY guard LGT, Taxiing guidance sign
+TWY: P1-P6
+(LGT) TWY CL LGT
+TWY: TB
+(Marking) RWY HLDG PSN, Mandatory instruction
+(LGT) RWY guard LGT, Taxiing guidance sign
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT) Apron flood LGT
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 4 ===
+RJCM AD2-4 AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD 2.10 AERODROME OBSTACLES
+RJCM AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+In Area2 See Obstacle data
+In Area3 To be developed
+1 Associated MET Office NEW CHITOSE
+2 Hours of service
+MET Office outside hours
+H24 (NEW CHITOSE)
+3 Office responsible for TAF preparation
+Periods of validity
+NEW CHITOSE
+30 Hours
+4 Trend forecast
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefing is  available upon inquiry at NEW CHITOSE
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U85, U7, U5, U3, U25, U2/Tr, Ps, P5, P3, P25, PSWE, PSWF, PSWG, PSWI, 
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Nil
+9 ATS units provided with information TWR
+10 Additional information(limitation of ser-
+vice, etc.)
+Nil
+(EFF:14 JUL 2022) 14/7/22
+
+
+=== Page 5 ===
+AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD2-5
+RJCM AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJCM AD 2.13 DECLARED DISTANCES
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+Surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+18
+36
+174.66°
+354.66°
+2500x45
+2500x45
+PCR 1027/F/D/X/T
+Asphalt-concrete
+435330.51N/1440945.38E
+98.8FT
+435209.85N/1440955.80E
+98.8FT
+THR ELEV: 102.0FT
+TDZ ELEV: 108FT
+THR ELEV: 135.2FT
+TDZ ELEV: 131FT
+Slope of RWY
+Strip
+Dimensions(M)
+RESA (Overrun)
+Dimensions (M) Remarks
+71 0 1 1 1 4
+See below figure 2620x300
+2620x300
+190×(MNM:140 MAX:300)*
+90×(MNM:90 MAX:300)*
+*For detail, ask airport administrator
+RWY Grooving 2500m x 45m
+RWY 
+Designator
+TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+12 3 4 5 6
+18
+36
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+Nil
+Nil
+LONGITUDINAL  PROFILE  OF  RWY
+49;
+HV
+
+O HV
+
+O
+HV
+
+O
+HV
+
+O
+HV
+
+O
+.'8'.
+
+O O O O O O
+49;
+HV
+
+O
+O
+
+
+
+(EFF:28 NOV 2024) 3/10/24
+
+
+=== Page 6 ===
+RJCM AD2-6 AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD 2.14 APPROACH AND RUNWAY LIGHTING
+RJCM AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJCM AD 2.16 HELICOPTER LANDING AREA
+RJCM AD 2.17 ATS AIRSPACE
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 345 6 7 8 9
+18 PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+404.5m
+65.6ft
+900m 2500m
+30m
+Coded color 
+(White/Red)
+LIH
+2500m
+60m
+Coded color 
+(White/Yellow)
+LIH
+Red Nil(*1)
+36 PALS
+(CAT I)
+900m
+LIH
+Green
+Green
+PAPI
+3.0°/Left
+499.2m
+65.6ft
+900m 2500m
+30m
+Coded color 
+(White/Red)
+LIH
+2500m
+60m
+Coded color 
+(White/Yellow)
+LIH
+Red Nil(*1)
+Remarks
+10
+Overrun area edge LGT(LEN:60m, Color:Red)(*1)
+1 ABN/IBN location, characteristics 
+and hours of operation ABN: 435259N /1440926E , ALTN FLG(2)WG EV 4.3SEC, HO
+2 LDI location and LGT 
+Anemometer location and LGT
+LDI : Nil
+Anemometer : RWY 18: 285m from RWY 18 THR
+RWY 36: 289m from RWY 36 THR
+3 TWY edge and center line lighting TWY edge and center line lights installed, see AD2.9
+4 Secondary power supply / 
+switch-over time
+Within 1sec : REDL, RENL, RTHL, WBAR, RCLL, Overrun area edge LGT
+Within 15sec : Other LGT
+5 Remarks WDI LGT
+Nil
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+Memanbetsu 
+CTR
+Area within a radius of 5nm(9km) of 
+Memanbetsu ARP(4353N/14410E) 3000
+or below D
+Memanbetsu 
+TWR
+En
+Hidaka
+ACA
+See RJEC attached chart E Hidaka APP
+En
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 7 ===
+AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD2-7
+RJCM AD 2.18 ATS COMMUNICATION FACILITIES
+RJCM AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 34 5
+APP Hidaka Approach 128.325MHz
+246.1MHz
+134.55MHz
+121.5MHz (E)
+243.0MHz (E)
+2230 - 1200
+TWR Memanbetsu tower 118.85MHz(1)
+126.2MHz
+2300 - 1200 (1)Primary
+Type of aid
+(VOR declination) ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+VOR
+(9°W/2010)
+TBE 110.85MHz H24 435305.67N/
+1440958.26E
+DME TBE 1132MHz
+(CH-45Y)
+H24 435305.67N/
+1440958.26E
+132ft
+ILS-LOC 18 ITB 110.1MHz 2300 - 1200 435202.26N/
+1440956.74E
+LOC: 235m (771ft) away FM RWY 
+36 THR, BRG (MAG) 184°
+ILS-GP 18 - 334.4MHz 2300 - 1200 435320.20N/
+1440952.07E
+GP: 329m (1079ft) inside FM RWY 
+18 THR,120m (394ft) E of RCL.
+Angle 3.0°, HGT of ILS reference 
+datum 16.5m (54ft)
+ILS-DME 18 ITB 999MHz
+(CH-38X)
+2300 - 1200 435320.16N/
+1440952.39E
+119ft DME: 331m (1086ft) inside FM RWY 
+18 THR, 130m(427ft) E of RCL.
+ILS-LOC 36 IHM 110.3MHz 2300 - 1200 435316.40N/
+1440950.98E
+LOC: 445m(1460ft) inside FM RWY 
+18 THR, 85m(279ft) E of RCL. LOC 
+offset angle 1.74° BRG(MAG) 5.90°
+LOC unusable: beyond 17nm from 
+LOC antenna
+ILS-GP 36 - 335MHz 2300 - 1200 435221.40N/
+1440948.65E
+GP: 370m(1214ft) inside FM RWY 36 
+THR, 125m(410ft) W of RCL. HGT 
+of ILS REF datum: 16.5m(54ft). GP 
+angle 3.0°.
+ILS-DME 36 IHM 1001MHz
+(CH-40X)
+2300 - 1200 435221.65N/
+1440948.07E
+137ft DME: 379m(1243ft) inside FM RWY 
+36, 136m(446ft) W of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are satellite 
+based.(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 8 ===
+RJCM AD2-8 AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+ILS for RWY18
+ILS for RWY36
+2500m
+329m
+331m
+120m
+130m
+235m
+18
+RWY
+REMARKS : 1.  LOC beam BRG(MAG) 184 ˃
+2.  HGT of ILS REF datum 16.5m(54ft)
+3.  GP  Angle 3.0 ˃ 
+4.  ELEV of ILS-DME 36.2m(119ft)
+36
+ILS-GP  ANTENNA
+ILS-DME  ANTENNA
+ILS-LOC
+ANTENNA
+445m
+10NM8NM
+7NM
+2500m735m
+379m
+136m
+125m
+85m
+18
+RWY
+REMARKS : 1.  LOC OFFSET ANGLE 1.74˚
+2. LOC beam BRG(MAG) 5.90˚
+3. HGT of ILS REF datum 16.5m(54ft)
+4. GP  Angle   3.0˚ 
+5. ELEV of ILS-DME 41.7m (137ft)
+36
+ILS-LOC
+ANTENNA
+1. 74˚
+ILS-DME ANTENNA
+ILS-GP ANTENNA
+35˚
+10˚
+10˚
+35˚
+LOC COURSE
+LOC  unusable in the following area : BEY 17NM FM LOC ANT.
+UNUSABLE AREA
+LOC ANTENNA
+370m
+(EFF:1 DEC 2022) 3/11/22
+
+
+=== Page 9 ===
+AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD2-9
+RJCM AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJCM AD 2.21 NOISE ABATEMENT PROCEDURES
+PPR
+Prior permission is required for transient aircraft due to parking congestion except scheduled and/or emergency flight.
+Tel: Hokkaido Airports Co.,Ltd. Memanbetsu Airport Office 0152-74-2222
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:25 MAR 2021) 25/3/21
+
+
+=== Page 10 ===
+RJCM AD2-10 AIP Japan
+MEMANBETSU
+Civil Aviation Bureau,Japan
+RJCM AD 2.22 FLIGHT PROCEDURES
+RJCM AD 2.23 ADDITIONAL INFORMATION
+RJCM AD 2.24 CHARTS RELATED TO AN AERODROME
+1.TAKE OFF MINIMA
+RWY
+REDL & RCLL REDL or RCLL or RCL 
+Marking
+NIL
+(DAY ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine ACFT with 
+TKOF ALTN AP Filed 18/36 400m 400m 400m - 500m
+OTHER 18/36 AVBL LDG MINIMA
+2. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Hidaka Approach are lost for 1 minute, squawk Mode A/3 Code 7600 and;
+(I) 1. Contact Memanbetsu Tower.
+2. If unable, proceed in accordance with visual flight rules.
+3. If unable, proceed to MEMANBETSU VOR/DME at last  assigned altitude or 4,000 feet whichever is higher, 
+and execute instrument approach.
+(II) Procedures other than above will be issued when situation requires.
+双方向に設置されている ILS の輻射について
+ILS 18/36
+RWY18 および 36 ILS は同時に輻射する。
+Two separate ILS radiate at opposite ends of a single runway
+ILS 18/36
+RWY18 and 36 ILS radiate simultaneously.
+Aerodrome/Heliport Chart
+ 
+ 
+Standard Departure Chart (MEMANBETSU REVERSAL)
+Standard Departure Chart (MENIB-RNAV)
+Standard Departure Chart (NICOL-RNAV)
+Standard Departure Chart (NULKI-RNAV)
+ 
+Instrument Approach Chart (ILS Z or LOC Z RWY18)
+Instrument Approach Chart (ILS Y or LOC Y RWY18)
+Instrument Approach Chart (ILS X RWY18)
+Instrument Approach Chart (ILS or LOC RWY36)
+Instrument Approach Chart (VOR RWY18)
+Instrument Approach Chart (VOR RWY36)
+Instrument Approach Chart (RNP Z RWY18)
+Instrument Approach Chart (RNP Y RWY18 (AR))
+Instrument Approach Chart (RNP RWY36)
+Other Chart (Visual REP)
+Other Chart (LDG CHART)
+Other Chart (MVA CHART)
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 11 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJCM / MEMANBETSU AD  CHART
+Y
+WR  FO  ELIFORP  LANIDUTIGNOL
+36
+18
+SEQUENCED  FLASHING  LGT (SFL-V) SEQUENCED  FLASHING  LGT (SFL-V)
+PALS
+900 m
+PALS
+900 m
+RWY  18
+102.0ft
+(31.1m) 105.5ft
+(32.2m)
+105.8ft
+(32.3m)
+109.3ft
+(33.1m)
+109.3ft
+(33.1m)
+LEVEL
+0.198%
+m0002m0541m0001m595m515m0
+RWY  36
+135.2ft
+(41.2m)
+2500m
+0.233%
+0.125%
+0.779%
+INS CK point
+435257.24N 1440933.47E435255.56N 1440933.89E435253.47N 1440934.16E435251.21N 1440934.53E435248.95N 1440934.82E435246.85N 1440935.01E
+1
+2
+3
+4
+5
+6
+DA  USTEBNA
+ME
+M
+tf901  VELE
+R
+WT
+2.621 - 58.811
+12
+34
+56
+16 17 18
+13 12 11
+OVERRUN AREA
+EDGE LGT
+1伽72伽6
+1佇72佇6
+3伽5
+3佇5
+4伽4
+4佇4
+5伽3
+5佇3
+6伽2
+6佇2
+7伽1
+7佇1
+VOR/DME(TBE)
+18
+RWY  DIST
+MARKER  LGT
+RTHL
+36
+499.2m
+VAR 9˚W(2009)Annual change 2.1´E
+GP HOLD LINE
+PAPI Angle 3.0°
+MEHT 20.0 m(66ft)
+PAPI Angle 3.0°
+MEHT 20.0 m(66ft)
+RWY GUARD LGT
+ARP
+ 435250N/1440951E
+435209.85N/1440955.80E
+TAXIING GUIDANCE SIGN
+APRON  AAPRON  B
+TOWER TERMINAL
+APRON  FLOOD LGT
+P6P5P4P3P2P1
+RVR T-6T-5T-3T-1 T-2 4-TBT
+WDI
+RVR
+WDI
+404.5m
+ABN
+15
+20 19
+14435330.51N/1440945.38E
+18-36 18-36
+RWY Guard LGT and RWY HLDG PSN markings
+and MANDATORY INSTRUCTION Marking
+Installed on TWY  T-1到 T-6, T-B.
+DIMENSIONS OF RWY 2500m × 45m(RWY grooving:2500m × 45m)
+STRENGTH OF SURFACE RWY PCR  1027/F/D/X/T ASPHALT CONCRETE
+MAGNETIC BRG 184˚/004˚
+tf8.89 : 63YWR  tf8.89 : 81YWRDNUG RHT
+WIDTH & STRENGTH  OF  TWY
+   T-1到T-6, P1到P6 30m PCR  1170/F/C/X/T
+   T-B   9m PCR  273/F/C/X/T
+STRENGTH  OF  APRON
+ R 1132/R/B/W/TCPA   
+ CR 257/R/B/W/TPB   
+佘
+佘WIND SPEED METER CEILO METER
+WIND SPEED
+     METER CEILO METER
+CHANGE : Description of strength of pavement.
+(EFF:28 NOV 2024) 3/10/24
+RJCM AD2.24-ADC-1
+MEMANBETSU
+
+
+=== Page 12 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+4000
+D5.0 TBE
+D5.0 TBE
+187°
+001°
+R001
+781R
+RJCM / MEMANBETSU
+MEMANBETSU REVERSAL THREE DEPARTURE
+    RWY 18 :    Climb via TBE R187 to TBE 5.0DME, turn left....  
+    RWY 36 :    Climb via TBE R001 to TBE 5.0DME, turn right,.... 
+    ....Proceed to TBE VOR/DME. Cross TBE VOR/DME at or above 4000FT.
+SID
+VOR/DME
+110.85
+CH–45Y
+ÛÝ1ÛÝ(
+TBE
+MEMANBETSU
+100FT
+CHANGE : Description of PROC name. 
+(EFF:18 APR 2024) 21/3/24
+RJCM AD2.24-SID-1
+MEMANBETSU
+
+
+=== Page 13 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RNAV SID
+VAR 10° W 
+1PNR MENIB ONE DEPARTURE 
+Note GNSS required.
+RWY18 :  Climb on HDG184°  at or above 600FT, turn left direct to OSPIB, to MENIBat or above 6000FT. 
+RWY36 :  Climb on HDG004°  at or above 800FT, turn right direct to BUTUS, to MENIB at or above 6000FT. 
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+Course Turn
+Direction
+Distance Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
++600
+–
+–
+–
+–
+–
+17.8
+-9.6
+-9.6
+-9.6
+001
+002
+003
+–
+–
+–
+–
+OSPIB
+MENIB
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(174.7)
+(162.3)
+184
+172
+RWY18
+°M(°T)
+Magnetic
+(NM)
+L
++6000
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+Course Turn
+Direction
+Distance Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
++800
+–
+–
+–
+–
+–
+24.7
+-9.6
+-9.6
+-9.6
+001
+002
+003
+–
+–
+–
+–
+MENIB
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(354.7)
+(162.3)
+004
+172
+RWY36
+BUTUS
+°M(°T)
+Magnetic
+(NM)
+R
++6000
+CHANGE : Description of latitude and longitude. –
+–
+RJCM / MEMANBETSU
+BUTUS
+OSPIB
+MENIB
+6000
+800
+600
+004˚
+184˚
+172° / 24.7
+172° / 17.8
+Note RWY18 : 5.0% climb gradient required up to 2300FT.
+OBST ALT 3314FT located at 12.2NM 153˚ FM end of RWY18.
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-SID-2
+MEMANBETSU
+
+
+=== Page 14 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCM AD2.24-SID-3
+STANDARD DEPARTURE CHART-INSTRUMENT
+RNAV SIDRJCM / MEMANBETSU
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+OSPIB
+BUTUS
+MENIB
+434628.5N / 1442055.9E
+435301.9N / 1441802.1E
+432929.4N / 1442822.9E
+CHANGE : Waypoint Coordinates added. 
+MEMANBETSU
+(EFF:17 APR 2025) 20/3/25
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RNAV SID and TRANSITION
+1PNR NICOL ONE DEPARTURE 
+VAR 10° W 
+Note GNSS required.
+RWY18 :  Climb on HDG184°  at or above 600FT, turn right direct to NICOL at or above 7000FT. 
+RWY36 :  Climb on HDG004°  at or above 600FT, turn left direct to NICOL at or above 7000FT. 
+RJCM / MEMANBETSU
+Note RWY36 : 5.0% climb gradient required up to 600FT.
+OBST ALT 1181FT located at 6.3NM 312˚ FM end of RWY36.
+OLSIM TRANSITION / OLDUS TRANSITION 
+600
+600
+004˚ 184˚
+10000
+OLDUS
+7000
+NICOL
+10000
+OLSIM
+232˚
+16.5
+257˚
+16.5
+OLSIM TRANSITION
+OLDUS TRANSITION 
+NICOL ONE DEPARTURE
+NICOL ONE DEPARTURE
+OLSIM TRANSITION
+From NICOL at or above 7000FT, to OLSIM at or above 10000FT. 
+OLDUS TRANSITION 
+From NICOL at or above 7000FT, to OLDUS at or above 10000FT. 
+CHANGE : Description of latitude and longitude. 
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-SID-4
+MEMANBETSU
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCM AD2.24-SID-5
+STANDARD DEPARTURE CHART-INSTRUMENT
+RWY18
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 184
+(174.7) -9.6 - - +600 - - RNP1
+002 DF NICOL -- - 9 . 6- R +7000 - - RNP1
+RWY36
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 VA - - 004
+(354.7) -9.6 - - +600 - - RNP1
+002 DF NICOL -- - 9 . 6- L +7000 - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF NICOL - - -9.6 - - +7000 - - RNP1
+002 TF OLSIM - 257
+(247.6) -9.6 16.5 - +10000 - - RNP1
+Serial
+Number
+Path
+Descriptor
+Waypoint
+Identifier
+Fly
+Over
+Course
+°M(°T)
+Magnetic
+Variation
+Distance
+(NM)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF NICOL - - -9.6 - - +7000 - - RNP1
+002 TF OLDUS - 232
+(222.9) -9.6 16.5 - +10000 - - RNP1
+NOITISNART dna DIS VANRUSTEBNAMEM / MCJR
+NICOL ONE DEPARTURE
+OLSIM TRANSITION
+OLDUS TRANSITION
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+NICOL
+OLSIM
+OLDUS
+433912.0N / 1434158.7E
+433251.7N / 1432055.3E
+432703.7N / 1432629.1E
+ CHANGE : Waypoint Coordinates added. 
+MEMANBETSU
+(EFF:17 APR 2025) 20/3/25
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART-INSTRUMENT
+RNAV SIDRJCM / MEMANBETSU
+VAR 10°  W 
+1PNR NULKI ONE DEPARTURE 
+Note GNSS required.
+ 
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+Course Turn
+Direction
+Distance Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
++600
+–
+–
+–
+–
+–
+19.6
+-9.6
+-9.6
+-9.6
+001
+002
+003
+–
+Y
+–
+–
+BISAK
+NULKI
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(174.7)
+(219.6)
+184
+229
+RWY18
+°M(°T)
+Magnetic
+(NM)
+–
++7000
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+Course Turn
+Direction
+Distance Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNP1
+RNP1
+RNP1
+–
+–
+–
+–
+–
+–
++1000
+–
+–
+–
+–
+–
+16.5
+-9.6
+-9.6
+-9.6
+001
+002
+003
+–
+–
+–
+–
+NULKI
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(354.7)
+(194.9)
+004
+205
+RWY36
+AKNEP
+°M(°T)
+Magnetic
+(NM)
+L
++7000
+–
+–
+600
+1000
+7000
+NULKI
+AKNEP
+BISAK
+229˚
+19.6
+205˚16.5
+184˚
+004˚
+RWY18 :  Climb on HDG184°  at or above 600FT, direct to BISAK, to NULKI at or above 7000FT. 
+RWY36 :  Climb on HDG004°  at or above 1000FT, turn left direct to AKNEP, to NULKI at or above 7000FT. 
+Note RWY36 : 3.9% climb gradient required up to 1500FT.
+OBST ALT 1673FT located at 8.2NM 320˚ FM end of RWY36.
+CHANGE : Description of latitude and longitude. 
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-SID-6
+MEMANBETSU
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MEMANBETSU
+STANDARD DEPARTURE CHART-INSTRUMENT
+RNAV SID
+ 
+RJCM / MEMANBETSU
+Waypoint Coordinates
+Waypoint Identifier Coordinates
+BISAK
+AKNEP
+NULKI
+434808.9N / 1441026.9E
+434859.1N / 1435906.4E
+433301.6N / 1435313.7E
+ CHANGE : Waypoint Coordinates added. 
+RJCM AD2.24-SID-7
+(EFF:17 APR 2025) 20/3/25
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+TEBES(FAF)
+D5.0 ITB
+MAPt (LOC)
+D0.6 ITB
+10NM
+184˚
+046˚
+R046
+090˚
+360˚
+270˚
+HDG001˚
+HDG184˚
+EQPT REQUIRED
+DME
+VOR
+NM to ITB
+ALT (3.0˚ APCH Path)
+FAF
+1675
+2
+731
+3
+1049
+4
+1368
+MAPt
+–
+RJCM / MEMANBETSU ILS Z or LOC Z RWY18
+          HIDAKA APP
+128.325 - 246.1 - 134.55
+ILS - LOC
+ILS - DME CH-38X
+110.1  ITB
+ILS–GP  334.4
+MEMANBETSU  TOWER
+118.85 – 126.2 RADAR AVBL
+MISSED APPROACH
+Climb to 700FT on HDG184˚,
+turn left HDG001˚ to intercept and
+proceed via TBE R046 to RAUSU
+and hold at 3100FT.
+Contact HIDAKA APP.
+1578
+1700
+1675(LOC)
+MDA
+PONTO
+(IF)
+GP3.0˚
+RDH54 Timing not authorized for defining the MAPt.
+DME to ITB
+NM to THR
+9.4
+9.2
+5.0
+4.8
+1.1
+1.0
+0.6
+0.5
+0.2
+0
+2300
+184˚
+184˚
+(FAF)
+MAPt
+(LOC)
+VDP
+(LOC)
+TBE
+KITAMI
+   CITY
+TEBES(FAF) : 435816.30N / 1440908.38E
+VOR/DME
+MEMANBETSU
+110.85 TBE
+ÛÝ1ÛÝ(
+CH-45Y
+971
+502
+944
+524
+352
+837
+538
+1061
+090˚ 270˚
+360˚
+180˚
+26003900
+62005600
+MSA 25NM
+TBE
+VAR 10˚W 
+ 
+MINIMA 
+CAT
+CAT
+DA(H)
+302 (200) 450 (341)
+760 (651)
+640 (531)
+750 (641)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 102 AD elev. 109
+A
+B
+C
+D
+ 䱶 
+MHA 7000
+MAX 230KIAS
+OZORA
+1MIN
+NOT TO SCALE
+RNAV HLDG
+˚681
+˚600
+ 
+RAUSU 1MIN
+MHA 3100
+MAX 230KIAS
+NOT TO SCALE
+RNAV HLDG
+227˚
+047˚
+Using NAVAID
+MHA 3100
+MAX 230KIAS
+NOT TO SCALE
+RAUSU
+D13.0 TBE D19.0
+TBE
+TBE 
+VOR/DME
+046˚
+226˚
+R046
+184˚ 274°
+8.9
+(264.8°T)094°
+5.1
+(084.5°T)
+004°15.2(354.6°T)
+017°24.7
+(007.3°T)
+351°18.9(341.4°T)
+GINGA
+(IAF)
+5000
+OZORA
+(IAF)
+7000
+KIMUA
+4200
+NEPPU
+2700
+RAUSU
+(IAF/MAHF)
+3100
+1394
+NOTE : For Initial approach segment
+ (1) RNP1
+ (2) GNSS required.
+TEBES
+1100
+(991)
+1122
+MHA 5400
+MAX 230KIAS
+GINGA
+1MIN
+NOT TO SCALE
+RNAV HLDG
+040˚
+220˚
+PONTO(IF)
+D9.4 ITB
+MAX190KIAS
+   RAUSU
+(IAF/MAHF)
+440327.6N
+1442052.4E
+GINGA
+  (IAF)
+433738.7N
+1435710.9E
+OZORA
+  (IAF)
+432908.2N
+1441153.2E
+KIMUA 434701.4N
+1440331.4E
+NEPPU 440209.5N
+1440132.1E
+PONTO
+    (IF)
+440238.3N
+1440834.4E
+CHANGE :  VAR. Description of latitude and longitude. 
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-IAC-1
+MEMANBETSU
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+POSID
+(FAF)
+NM to ITB
+ALT (3.0˚ APCH Path)
+FAF
+2449
+4
+1368
+5
+1686
+6
+2005
+7
+2323
+3
+1049
+2
+731
+MAPt
+–
+HDG001˚
+046˚
+R046
+2500
+2449(LOC)
+2400(LOC)
+RAUSU
+D13.0 TBE
+226˚
+046˚
+MHA 3100
+MAX 230KIAS
+D19.0 TBE
+81YWR Y COL ro Y SLIUSTEBNAMEM / MCJR
+ILS - LOC
+110.1  ITB
+ILS–GP  334.4
+ILS - DME CH-38X 118.85 – 126.2
+MISSED APPROACH
+GP 3.0˚
+1394
+971
+502
+944
+524
+352
+335
+460
+837
+1122
+1394
+538
+1575
+1061
+2500
+4000
+10NM
+019˚
+184˚
+184˚
+HDG184˚
+184˚
+184˚
+019˚
+090°
+TBE
+KITAMI
+   CITY
+MAX turning
+speed 200KIAS
+Turn initiation
+within D11.0 TBE
+VOR/DME
+MEMANBETSU
+110.85 TBE
+ÛÝ1ÛÝ(
+CH-45Y
+270°
+360
+°
+MEMANBETSU  TOWER
+Timing not authorized for defining the MAPt.MDA RDH54
+Climb to 700FT on HDG184˚,
+turn left HDG001˚ to intercept and
+proceed via TBE R046 to RAUSU
+and hold at 3100FT.
+Contact HIDAKA APP.
+EQPT REQUIRED
+DME
+VOR
+DME to ITB
+NM to THR
+7.4
+7.2
+1.1
+1.0
+0.6
+0.5
+0.2
+0
+POSID(FAF) : 1(
+POSID(FAF)
+D7.4 ITB
+MAPt (LOC)
+D0.6 ITB
+Turn initiation within 
+D11.0 TBE
+MAPt
+(LOC)
+VDP
+(LOC)
+090˚ 270˚
+360˚
+180˚
+26003900
+62005600
+MSA 25NM
+TBE
+ 
+MINIMA 
+CAT
+CAT
+DA(H)
+302 (200) 450 (341)
+760 (651)
+640 (531)
+750 (641)550
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 102 AD elev. 109
+A
+B
+C
+D
+VAR 10˚W 
+269
+ 䱶 
+         HIDAKA APP
+128.325 - 246.1 - 134.55 RADAR AVBL
+MAX 230KIAS
+TBE VOR/DME (IAF)
+MHA 4000
+034˚214˚
+NOT TO SCALE
+CHANGE : VAR. POSID established. TANNO abolished.   
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-IAC-2
+MEMANBETSU
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ILS X RWY18RJCM / MEMANBETSU
+TEBES
+(FAF)
+1700
+DME to ITB
+RDH54
+5.0
+04.8 NM to THR6.3
+6.5 0.2
+CM855
+CM853
+(IF)
+1700
+184°
+OZORA(IAF)
+7000
+GINGA(IAF)
+5000
+TEBES(FAF)
+D5.0 ITB
+CM855
+D6.5 ITB
+KILOX
+DME
+EQPT REQUIRED
+RNP1
+RF required.
+VAR 10°W
+2700
+CM854
+2200
+TEBES(FAF) : 
+RAUSU 1MIN
+MHA 3100
+MAX 230KIAS
+RNAV HLDG
+RAUSU
+(MAHF)CM854
+CM853(IF)
+MAX 200KIAS
+KIMUA
+4200
+184°
+700
+ARP
+6200
+MSA 25NM
+ARP 435250N/1440951E
+MHA 5400
+MAX 230KIAS
+GINGA
+1MIN
+NOT TO SCALE
+RNAV HLDG
+MHA 7000
+MAX 230KIAS
+OZORA
+1MIN
+NOT TO SCALE
+RNAV HLDG
+681
+600
+ 435816.30N / 1440908.38E
+ILS - LOC
+ILS - DME CH-38X
+110.1  ITB
+ILS–GP  334.4
+MEMANBETSU  TOWER
+118.85 – 126.2
+2290
+1396
+1578
+944
+1061
+3281
+MINIMA
+CAT
+CAT
+DA(H)
+302 (200)
+760 (651)
+640 (531)
+750 (641)550
+1600
+2400
+3200
+RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 102 AD elev. 109
+A
+B
+C
+D
+3.8
+3.8
+180°
+360°
+090°
+10NM
+009°5.0
+002°7.6
+021°17.2
+351°18.9
+GP3.0°
+CHANGE : VAR.
+MISSED APPROACH
+Climb on course 184°, 
+at or above 700FT turn left, direct to 
+RAUSU and hold at 3100FT.
+Contact HIDAKA APP.
+NOT TO SCALE
+184°
+184°
+040°
+220°
+227°
+047°
+184°
+         HIDAKA APP
+128.325 - 246.1 - 134.55 RADAR AVBL
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-IAC-3
+MEMANBETSU
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJCM AD2.24-IAC-4
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+001 IF - -9.6 - - - RNP1
+002 TF - -9.6 - - - RNP1
+003 TF - -9.6 - -200 - RNP1
+001 IF - -9.6 - - - RNP1
+002 TF - -9.6 - - - RNP1
+003 TF - -9.6 - - - RNP1
+004 TF - -9.6 - -200 - RNP1
+001 IF - -9.6 - -200 - RNP1
+002
+RF
+Center:
+CMRF2
+r=2.51NM
+- -9.6 R - - RNP1
+003
+RF
+Center:
+CMRF2
+r=2.51NM
+- -9.6 R - - RNP1
+001 CA - -9.6 - - - RNP1
+002 DF - -9.6 L - - RNP1
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+Navigation
+Specification
+Hold GINGA R FL140 -230
+(-14000) RNP1
+Hold OZORA R FL140 -230
+(-14000) RNP1
+Hold RAUSU L FL140 -230
+(-14000) RNP1
+435931.80N / 1440529.11E
+435929.83N / 1440200.57E
+433738.73N / 1435710.93E
+432908.24N / 1441153.19E
+RF Arc Center Identifier
+440202.15N / 1440517.96E
+440327.56N / 1442052.43E
+KILOX
+CM853
+CM855
+OZORA
+CM854
+RAUSU
+Coordinates
+5400
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+Waypoint Coordinates
+006
+(356.7) -9.5 1.0 (-14000) 7000
+-
+3.8
+KILOX
+CM853
+CM854
+002
+(352.2)
+-
+-
+GINGA - - +5000
+7.6
+KILOX 021
+(011.9) 17.2 -
+KIMUA 351
+(341.4) 18.9 +4200
+OZORA - -
+RJCM / MEMANBETSU ILS X RWY18
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+ CHANGE : Navigation Specification(Basic RNP1 ĺ RNP1).
+435945.90N / 1440856.76E
+040
+(030.8) -9.5 1.0 (-14000)
+KIMUA 434701.35N / 1440331.41E
+435429.92N / 1440206.12E
+Waypoint Identifier Coordinates
+CMRF2GINGA
+-
++2700
++2200
+CM853 009
+(359.2) 5.0 +2700
+CM853 009
+(359.2) 5.0 +2700
++7000
+CM855 - 3.8 1700
+227
+(217.0) -9.5 1.0 (-14000) 3100
+- 184
+(174.7) - +700
+RAUSU - - 3100
+MEMANBETSU
+(EFF:18 APR 2024) 21/3/24
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+089˚
+269˚
+TSUKA(IAF) 
+D18.0 TBE
+MHA 5000
+MAX 230KIAS 
+MAX 230KIAS
+MAX 230KIAS
+D16.0
+ TBE ARC
+D24.0 TBE
+090˚ 270˚
+360˚
+180˚
+26003900
+62005600
+MSA 25NM
+TBE
+VAR 10˚W 
+VOR/DME
+MEMANBETSU
+110.85 TBE
+ÛÝ1ÛÝ(
+CH-45Y
+ROMNY(FAF)
+ : 1(
+NM to IHM
+ALT (3.0˚ APCH Path)
+FAF
+3402
+4
+1393
+5
+1712
+10
+3304
+9
+2986
+8
+2667
+7
+2349
+6
+2030
+3
+1075
+2
+756
+MAPt
+–
+ 
+MINIMA 
+Missed APCH climb gradient MNM 3.0%
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+CAT
+CAT 䱶 
+DA(H)
+382 (247) 540 (431)
+760 (651)
+640 (531)
+750 (641)600
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 135 AD elev. 109
+A
+B
+C
+D
+63YWR  COL ro SLIUSTEBNAMEM / MCJR
+ILS - LOC
+110.3
+ILS - GP 335
+ILS - DME  CH-40X
+IHM
+118.85 – 126.2
+3000
+(2891)
+(LOC)
+
+
+
+1370
+(1261)910
+(801)MDARDH54
+GP3.0˚
+MAPt
+(LOC)
+VDP
+(LOC)
+SDF
+(LOC)
+SDF
+(LOC)
+ROMNY
+(FAF)
+MOHEA
+(IF)
+971HDG224˚
+502
+3278
+837
+863
+MOHEA(IF)
+R186/D16.0 TBE
+D15.3
+ IHM
+OZORA (IAF)
+R186/D24.0 TBE
+OZORA (IAF)
+D24.0 TBE
+TBE
+VOR/DME
+GINGA (IAF)
+D18.0 TBE
+1394
+538
+1575
+1061
+4300
+7000
+5000
+5000
+10NM
+006˚
+006˚
+006˚
+HDG006˚
+R269
+R220
+R193
+269˚
+006˚
+006˚
+090°
+˚681
+˚600
+R186
+TBE
+KITAMI
+   CITY
+270°
+360°
+944
+524
+439
+ROMNY(FAF)
+D10.3 IHM
+352
+MAPt(LOC) D0.8 IHM
+LOC OFFSET 1.7˚
+335
+460
+GINGA(IAF)
+D18.0 TBE
+040˚220˚
+R220
+MHA 5400
+TBE
+VOR/DME
+MHA 7000
+MEMANBETSU  TOWER
+MISSED APPROACH
+Climb to 1000FT on HDG006°, 
+turn left HDG224˚ to intercept and
+proceed via TBE R269 to TSUKA
+and hold at 5000FT.
+Contact HIDAKA APP.
+Timing not authorized for defining the MAPt.
+EQPT REQUIRED
+DME
+VOR
+D29.0
+TBE
+D24.0
+TBE
+DME to IHM
+NM to THR
+0.8
+0.6
+1.4
+1.2
+0.2
+0
+3.0
+2.8
+7.0
+6.8
+10.3
+10.1
+15.3
+15.1
+269
+CHANGE : ATC call sign and FREQ. Description of RADAR Service. Missed APCH PROC.
+         HIDAKA APP
+128.325 - 246.1 - 134.55 RADAR AVBL
+(EFF:18 APR 2024) 21/3/24
+RJCM AD2.24-IAC-5
+MEMANBETSU
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+ABASI(FAF) : 440001.15N / 1440833.90E
+090˚ 270˚
+360˚
+180˚
+26003900
+62005600
+MSA 25NM
+TBE
+VAR 10˚W 
+046˚
+R046
+MAX turning
+speed 200KIAS
+Turn initiation
+within 
+D11.0 TBE
+ABASI(FAF)
+D7.0 TBE
+HDG001˚
+181˚
+EQPT REQUIRED
+DME
+MAPt
+TBE
+RAUSU
+D13.0 TBE
+226˚
+046˚
+MHA 3100
+MAX 230KIAS
+D19.0 TBE
+81YWR ROVUSTEBNAMEM / MCJR
+MEMANBETSU  VOR/DME
+110.85
+CH-45Y
+TBE
+118.85 – 126.2
+1394
+971
+502
+3278
+837
+863
+1122
+1394
+538
+1575
+1061
+2500
+4000
+2244
+1607
+811
+600
+(491)
+1100
+(991)
+1400
+(1291)
+VDP3.0˚ SDF
+DME to TBE
+NM to THR
+1.4
+1.0
+0.4
+0
+2.5
+2.1
+5.0
+4.6
+7.0
+6.6
+MDA
+SDF
+ABASI
+(FAF)
+MAPt
+10NM
+017˚181˚
+181˚
+181˚
+017˚
+090°
+TBE
+KITAMI
+   CITY
+270°
+360°
+ÛÝ1ÛÝ(
+180°
+944
+524
+352
+269335
+460
+MEMANBETSU  TOWER
+NM to TBE
+ALT (3.0˚ APCH Path)
+FAF
+2244
+4
+1289
+5
+1607
+2
+652
+6
+1926
+3
+970
+MAPt
+–
+MAX 230KIAS
+TBE VOR/DME (IAF)
+MHA 4000
+034˚ 214˚
+MISSED APPROACH
+Climb to 900FT via TBE R181,
+turn left HDG001˚ to intercept and
+proceed via TBE R046 to RAUSU
+and hold at 3100FT.
+Contact HIDAKA APP.
+Timing not authorized for defining the MAPt.
+181 ˚
+MINIMA 
+CAT
+480 (371)
+640 (531)
+750 (641)
+760 (651)
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 102 AD elev. 109
+A
+B
+C
+D
+CHANGE : VAR. 
+         HIDAKA APP
+128.325 - 246.1 - 134.55 RADAR AVBL
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-IAC-6
+MEMANBETSU
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+KITAMI
+   CITY
+090˚ 270˚
+360˚
+180˚
+26003900
+62005600
+MSA 25NM
+TBE
+VAR 10˚W 
+OSPOX(FAF)  
+ : 434406.65N/1441041.60E
+NM to TBE
+ALT (3.0˚ APCH Path)
+FAF
+2756
+5
+1482
+8
+2438
+7
+2119
+6
+1801
+4
+1164
+3
+846
+MAPt
+–
+ 
+MINIMA 
+CAT
+690 (581)
+760 (651)
+690 (581)
+750 (641)
+1000
+1200
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 135 AD elev. 109
+A
+B
+C
+D
+D16.0
+ TBE ARC
+089˚
+269˚
+TSUKA(IAF) 
+D18.0 TBE
+MHA 5000
+MAX 230KIAS 
+D24.0 TBE
+MAX 230KIAS
+OZORA (IAF)
+D24.0 TBE
+TBE
+VOR/DME
+˚681
+˚600
+R186
+MHA 7000 D29.0
+TBE
+MAX 230KIAS
+GINGA(IAF)
+D18.0  TBE
+040˚220˚
+R220
+MHA 5400
+TBE VOR/DME
+D24.0
+TBE
+63YWR  ROVUSTEBNAMEM / MCJR
+118.85 – 126.2
+3000
+(2891)1900
+(1791)
+1164
+2756
+1040
+(931)MDA
+DME to TBE
+NM to THR
+0.9
+0
+2.6
+1.7
+4.0
+3.1
+9.0
+8.1
+13.0
+12.1
+16.0
+15.1
+MAPt
+VDP
+SDF
+3.0˚
+SDF
+OSPOX
+(FAF)
+MOHEA
+(IF)
+971
+HDG224˚
+502
+3278
+837
+863
+MOHEA(IF)
+D16.0 TBE
+1394
+538
+1575
+1061
+4300
+7000
+5000
+5000
+10NM
+006˚
+006˚
+006˚
+R269
+R220
+R193
+269˚
+006˚
+006˚
+090°
+TBE
+270°
+360°
+944
+524
+439
+OSPOX(FAF)
+D9.0 TBE
+352
+MAPt D0.9 TBE
+335
+460
+MEMANBETSU  TOWER
+EQPT REQUIRED
+DME
+MISSED APPROACH
+Climb to 1000FT via TBE R006, 
+turn left HDG224˚ to intercept 
+and proceed via TBE R269 to 
+TSUKA and hold at 5000FT.
+Contact HIDAKA APP.
+Timing not authorized for defining the MAPt.
+MEMANBETSU  VOR/DME
+110.85
+CH-45Y
+TBE
+ÛÝ1ÛÝ(
+OZORA (IAF)
+D24.0 TBE
+GINGA (IAF)
+D18.0 TBE
+269
+         HIDAKA APP
+128.325 - 246.1 - 134.55 RADAR AVBL
+NOT TO SCALE NOT TO SCALE
+CHANGE : VAR. OSPOX established. JACOB abolished.   
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-IAC-7
+MEMANBETSU
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MINIMA
+CAT
+A
+B
+THR elev.102 AD elev.109
+CIRCLING
+640(531)
+Missed APCH climb gradient MNM 5.0%
+C
+D 3200
+LPV
+DA(H) RVR/
+CMV
+800
+0.9 0
+2300
+VAR 10°W 
+NM to THR
+Direct to CM852, turn left direct to RAUSU 
+and hold at 3100FT.
+Contact HIDAKA APP.
+MISSED APPROACH
+RNP Z RWY18RJCM / MEMANBETSU
+1700
+Baro-VNAV not authorized below -25°C
+RAUSU 
+(IAF/MAHF)
+3100MSA 25NM
+ARP
+6200
+ARP 435250N/1440951E
+NM to Next Fix 14
+ALT (3.0° APCH Path)
+MAPt
+-1111 475
+2
+793
+4.99.2
+PONTO
+(IF)
+YOBIT
+(FAF)
+VDP
+(LNAV)
+RW18
+(MAPt)
+800
+(691) RDH54MDA
+LNAV/VNAV
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+LNAV
+352(250)
+1200
+900
+1000
+MDA(H) VIS
+1600
+2400
+GINGA
+(IAF)
+5000
+OZORA
+(IAF)
+7000
+NEPPU
+2700
+YOBIT
+(FAF)
+RW18
+(MAPt)
+3
+1430
+RAUSU    440327.56N
+(IAF/MAHF) 1442052.43E
+OZORA     432908.24N(IAF) 1441153.19E
+KIMUA      434701.35N1440331.41E
+NEPPU      440209.51N1440132.13E
+GINGA      433738.73N(IAF) 1435710.93E
+PONTO     440238.29N(IF) 1440834.36E
+YOBIT      435820.17N(FAF) 1440907.90E
+  RW18      435330.51N(MAPt) 1440945.38E
+CM852      435031.32N(MATF) 1441008.52E
+MHA 5400
+MAX 230KIAS
+GINGA
+1MIN
+NOT TO SCALE
+ 
+MHA 7000
+MAX 230KIAS
+OZORA
+1MIN
+NOT TO SCALE
+ 
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+440(338)
+1400
+440(331)
+900
+1000
+1400
+750(641)
+760(651)
+ 
+PONTO(IF)
+MAX230KIAS
+CM852
+(MATF)
+KIMUA
+4200
+FAF
+1700
+360(258)
+369(267)
+379(277)
+RNP APCH
+MSAS CH83687
+M18A
+MEMANBETSU TOWER
+118.85 – 126.2
+CHANGE : ATC call sign and FREQ. Description of RADAR Service. Missed APCH PROC.
+094˚
+5.1
+(084.5˚T)
+274˚
+8.9
+(264.8˚T)
+184˚4.3
+(174.7˚T)
+184˚4.9
+(174.7˚T)
+004˚15.2
+(354.6˚T)
+017˚24.7
+(007.3˚T)
+10NM
+090˚
+220˚
+040˚
+186˚006˚
+184˚
+184˚
+3.00˚
+MHA 3100
+MAX 230KIAS
+NOT TO SCALE
+RAUSU
+ 
+1MIN
+047˚
+227˚
+1394
+1578
+351˚18.9(341.4˚T)
+         HIDAKA APP
+128.325 - 246.1 - 134.55 RADAR AVBL
+(EFF:18 APR 2024) 21/3/24
+RJCM AD2.24-IAC-8
+MEMANBETSU
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCM AD2.24-IAC-9
+INSTRUMENT APPROACH CHART
+RNP Z RWY18RJCM / MEMANBETSU
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00618
+SBAS service provider identifier 2 FPAP latitude 435209.8350N
+Airport identifier RJCM FPAP longitude 1440955.7670E
+Runway 18 Threshold crossing height 00016.5
+Approach performance designator 0 TCH units selector 1
+Route indicator Z Glide path angle 03.00
+Reference path data selecto
+r 0 Course width at threshold 105.00
+Reference path ID M18A 䶩 length offset 0000
+LTP/FTP latitude 435330.4920N HAL 40.0
+LTP/FTP longitude 1440945.3395E VAL 50.0
+CRC remainder
+Required additional data
+LTP/FTP orthometric height
+257C1F8B
+31.0
+p( )
+MEMANBETSU
+(EFF:5 OCT 2023) 7/9/23
+→
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+1578
+3197
+3263
+3281
+2812
+1396
+2290
+1048
+10NM
+184°/1.6184°/1.6
+14.1
+019°
+12.0
+019°
+184° 600
+5.7
+4.6
+RAUSU
+(MAHF)
+CM850
+      MAX 185KIASRW18
+TENTO
+(FAF)
+MAX 165KIAS
+OZORA
+(IAF)
+SHARO
+(IF)
+CM851
+䢳䢶䢶䤑䢷䢲䢩䣇䢳䢶䢶䤑䢶䢲䢩䣇䢳䢶䢶䤑䢵䢲䢩䣇䢳䢶䢶䤑䢴䢲䢩䣇䢳䢶䢶䤑䢳䢲䢩䣇䢳䢶䢶䤑䢲䢩䣇䢳䢶䢵䤑䢷䢲䢩䣇
+䢶䢶䤑䢲䢩䣐
+䢶䢵䤑䢷䢲䢩䣐
+䢶䢵䤑䢶䢲䢩䣐
+䢶䢵䤑䢵䢲䢩䣐
+Contour
+Intervals
+AD elev.109
+2100
+1600
+1100
+ 600
+HIDAKA APP
+128.325 - 246.1 - 134.55
+RNP AR
+RF required
+MEMANBETSU TOWER
+118.85 - 126.2 RADAR AVBL
+For uncompensated Baro-VNAV systems, procedure not authorized below -25°C / above 45°C
+VAR 10°W
+RNP Y RWY18(AR)RJCM / MEMANBETSUCHANGE : ATC call sign and FREQ. Description of RADAR Service. Missed APCH PROC.
+TENTO(FAF) :435822.66N/1441439.66E
+1012345
+NM
+10123456789 1 0
+KM
+MSA  RW18  25NM
+62005600
+3900 2300
+l
+180
+°
+270°
+36
+0°
+090°
+NOT TO SCALE
+MHA 3100
+MAX 230KIAS
+RAUSU
+1MIN
+NOT TO SCALE
+MHA 7000
+MAX 230KIAS
+OZORA
+1MIN
+Missed APCH climb gradient MNM 3.0%
+DA(H) RVR/CMV
+A
+B
+C1 0 0 0
+D1 4 0 0
+MINIMA       THR elev. 102       AD elev. 109
+Authorization Required
+402(300)
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+-
+CAT RNP 0.30
+-
+RDH 54
+NM to THR
+Þ
+7000
+MISSED APPROACH
+From RW18 on track 184, at or 
+above 600FT turn left, direct to
+RAUSU and hold at 3100FT .
+Contact HIDAKA APP.
+675
+1.6
+CM851
+OZORA
+(IAF)
+38.1
+RW18
+7.3
+TENTO
+(FAF)
+3000
+0 11.9
+CM850
+2500
+SHARO
+(IF)
+23.9
+4300
+(EFF:18 APR 2024) 21/3/24
+RJCM AD2.24-IAC-10
+MEMANBETSU
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MEMANBETSU
+INSTRUMENT APPROACH CHART
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -9.5 - - - -
+002 TF - -9.5 - - - 1.0
+003 TF - -9.5 - -185 - 1.0
+004
+RF
+Center:
+CMRF1
+r=3.04NM
+- -9.5 L -165 - 1.0
+005
+RF
+Center:
+CMRF1
+r=3.04NM
+- -9.5 L - -3.00 0.3
+006 TF Y -9.5 - - -3.00/54 0.3
+007 FA - -9.5 - - - 1.0
+008 DF - -9.5 L - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold OZORA R FL140 -230
+(-14000) 1.0
+Hold RAUSU L FL140 -230
+(-14000) 1.0
+435330.51N / 1440945.38E
+006
+(356.7) -9.5 1.0 (-14000)
+CM850 435454.27N / 1441753.05E
+435822.66N / 1441439.66E
+Waypoint Identifier Coordinates
+CMRF1OZORA
+675
+156
++600
+RJCM / MEMANBETSU RNP Y RWY18(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+OZORA - - +7000
+5.7
+SHARO 019
+(009.5) 14.1 +4300
+TENTO - 4.6 2500
+CM850 019
+(009.6) 12.0 +3000
+3100RAUSU - -
+1.6
+-
+CM851
+RW18
+-
+-
+184
+(174.7)
+184
+(174.7)
+Coordinates
+7000
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Minimum
+Altitude
+(FT)
+Outbound
+Time
+(MIN)
+Waypoint Coordinates
+227
+(217.0) -9.5 1.0 (-14000) 3100
+440327.56N / 1442052.43E
+RF Arc Center Identifier
+TENTO
+CM851
+RW18
+RAUSU
+SHARO
+435524.66N / 1441344.15E
+435507.75N / 1440932.81E
+432908.24N / 1441153.19E
+434301.91N / 1441506.66E
+RJCM AD2.24-IAC-11
+(EFF:5 OCT 2023) 7/9/23
+→
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+MINIMA
+CAT
+A
+B
+THR elev.135 AD elev.109
+CIRCLING
+640(531)
+Missed APCH climb gradient MNM 3.0%
+C
+D 3200
+LPV
+DA(H) RVR/
+CMV
+800
+1.20
+2600
+VAR 10°W 
+NM to THR
+Direct to CM651, turn left direct to TSUKA 
+and hold at 5000FT.
+Contact HIDAKA APP.
+MISSED APPROACH
+RNP RWY36 RJCM /MEMANBETSU
+1800
+Baro-VNAV not authorized below -25°C
+TSUKA 
+(IAF/MAHF)
+5000
+MSA 25NM
+ARP
+6200
+ARP 435250N/1440951E
+NM to Next Fix 2 FAF
+ALT (3.0° APCH Path)
+MAPt
+- 1463826
+3
+1145
+1.011.50.2
+SALON
+(IF)
+PIPOL
+(FAF)
+VDP
+(LNAV)
+CM650
+(LNAV)
+RW36
+(MAPt) 826
+710
+(601)
+1600
+(1491)RDH54 MDA
+LNAV/VNAV
+DA(H) RVR/
+CMV MDA(H) RVR/
+CMV
+LNAV
+385(250)
+1200
+900
+1000
+MDA(H) VIS
+1600
+2400
+GINGA(IAF)
+5000
+OZORA
+(IAF)
+7000
+FUKJU
+MOKOT
+4300
+SALON(IF)
+PIPOL
+(FAF)
+CM650
+RW36
+(MAPt)
+2.0
+004°
+(354.7°T)
+4 5
+18001781
+CM651
+(MATF)
+ 
+MHA 5000
+MAX 230KIAS
+TSUKA
+1MIN
+NOT TO SCALE
+ 
+ 
+TSUKA    434958.12N
+(IAF/MAHF) 1434523.20E
+FUKJU      434140.46N1440413.26E
+GINGA      433738.73N(IAF) 1435710.93E
+OZORA     432908.24N(IAF) 1441153.19E
+MOKOT  433709.26N1441128.56E
+SALON     434209.02N(IF) 1441113.12E
+PIPOL    434707.65N(FAF)   1441034.77E
+CM650    435010.39N  1441011.22E
+ RW36    435209.85N(MAPt)  1440955.80E
+ CM651    435509.04N(MATF)    1440932.64E
+MHA 5400
+MAX 230KIAS
+GINGA
+1MIN
+NOT TO SCALE
+ 
+MHA 7000
+MAX 230KIAS
+OZORA
+1MIN
+NOT TO SCALE
+ 
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+540(405)
+1400
+540(431)
+900
+1000
+1400
+750(641)
+760(651)
+RNP APCH
+MSAS CH81751
+M36A
+MEMANBETSU TOWER
+118.85 – 126.2
+004˚3.1
+(354.7˚T)
+004˚5.0
+(354.7˚T)
+007˚
+0.5
+)T˚9.753(
+007˚
+0.8
+)T˚9.753(
+075˚
+11.1
+(066.0˚T)
+094˚
+5.1
+(084.6˚T)
+131˚
+15.9
+(121.3˚T)
+089˚
+269˚
+040˚
+220˚
+˚681
+˚600
+10NM
+004˚
+004˚
+3.00˚
+004˚
+1578
+2290
+3281
+         HIDAKA APP
+128.325 - 246.1 - 134.55 RADAR AVBL
+CHANGE : Description of SDF, HLDG pattern.
+(EFF:17 APR 2025) 20/3/25
+RJCM AD2.24-IAC-12
+MEMANBETSU
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJCM AD2.24-IAC-13
+INSTRUMENT APPROACH CHART
+RNP RWY36RJCM / MEMANBETSU
+FAS DATA BLOCK
+Operation type 0 LTP/FTP ellipsoidal height +00719
+SBAS service provider identifier 2 FPAP latitude 435330.4920N
+Airport identifier RJCM FPAP longitude 1440945.3395E
+Runway 36 Threshold crossing height 00016.5
+Approach performance designator 0 TCH units selector 1
+Route indicator Glide path angle 03.00
+Reference path data selector 0 Course width at threshold 105.00
+Reference path ID M36A 䶩 length offset 0000
+LTP/FTP latitude 435209.8350N HAL 40.0
+LTP/FTP longitude 1440955.7670E VAL 50.0
+CRC remainder
+Required additional data
+LTP/FTP orthometric height
+28C6AB24
+41.1
+p( )
+MEMANBETSU
+(EFF:5 OCT 2023) 7/9/23
+→
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+RJCM / MEMANBETSU Visual REP
+䈜ᅗ୰䛻ᶆ㧗䜢♧䛩ᩘᏐ䛜䛒䜛ሙྜ䚸༢఩䛿䝯䞊䝖䝹(m)䛷䛒䜛䚹 The unit of measurement used to express elevation is meter(m).
+⥙㉮ 㻶㻾㥐
+Abashiri Station
+䚷ᾧἛ† †
+Tofutsuko Lake
+ᑠΎỈ Ꮫᰯ
+Koshimizu School
+ᮾ⸴⍆ ᕷ⾤ᆅ
+Higashimokoto Town
+⨾ᖠᓘ ᓘ
+Bihoro Toge Pass
+ὠู ᕷ⾤ᆅ
+Tsubetsu Town
+⨾ᖠ䝇䝔䞊䝅䝵䞁 㻶㻾㥐
+Bihoro Station Station
+໭ぢ 㻶㻾㥐
+Kitami Station
+὾బ࿅㛫 బ࿅㛫኱ᶫ
+Hamasaroma Bridge
+/
+321°T / 15.5NM
+165°T / 14.4NM
+/ 12.4NM248°T
+210°T / 12.2NM
+223°T / 3.7NM
+CHANGE : Map updated. BRG/DIST from ARP.
+Call sign BRG / DIST from ARP Remarks
+110°T / 6.1NM
+025°T 9.2NM/
+097°T / 13.3NM
+10.5NM074°T
+MEMANBETSU CONTROL ZONE
+At or below 3000FT
+5NM from ARP
+MEMANBETSU TOWER
+118.85 - 126.2
+VAR 9W(2009) / 2.1’E
+㼃㼑㼎䝯䝹䜹䝖䝹ᅗἲ䠄⌫య⿵ṇ䠅 / Web Mercator projection
+HIGASHIMOKOTO
+ABASHIRI
+BIHORO TOGE
+TSUBETSU
+KOSHIMIZU
+TOFUTSUKO
+BIHORO STATION
+KITAMI
+HAMASAROMA
+(EFF:31 DEC 2020) 31/12/20
+RJCM AD2.24-OTHER-1
+MEMANBETSU
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+   VOR/DME
+  MEMANBETSU
+110.85 TBE
+    CH- 45 Y
+43˚53´06˝N/144˚09´58˝E
+LDG  CHARTRJCM / MEMANBETSU
+55´
+43˚51´
+144˚07´ 09´ 11´ 13´
+57´
+PAPI  ANGLE 3.0˃
+.&)5N	GU
+
+N'.5)3
+PAPI  ANGLE 3.0˃
+.&)5N	GU
+
+N'.5)3
+&-&7"5*0/4"/%
+)&*()54*/'&&5
+.&"/4&"-&7&-
+36
+18
+330
+330
+330
+330
+330
+SCALE
+MEMANBETSU
+TOWER
+118.85 - 126.2 ABN
+PALS
+ELEV 109ft
+3000  ft
+1000 m500500 0
+1000 0
+VAR  9˚W
+(2008)
+PALS
+(EFF:26 APR 2018) 29/3/18
+RJCM AD2.24-OTHER-2
+MEMANBETSU
+←
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+5NM
+13NM
+20NM
+30NM
+3100
+7500
+5300
+5600
+5000
+7000
+5000
+3600
+6000
+350˚
+300˚
+269˚
+305˚
+220˚
+187˚
+110˚
+127˚
+140˚
+080˚
+442152N
+1435926E
+440325N
+1433332E
+433457N
+1442135E
+CENTER : 435306N/1440958E (TBE VOR/DME)
+VAR 9˚W (2010)
+TBE
+TRAHC edutitlA gnirotceV muminiMUSTEBNAMEM / MCJR
+432344N
+1441823E
+CHANGE : Bearing of KSE deleted.
+(EFF:23 MAR 2023) 23/2/23
+RJCM AD2.24-OTHER-3
+MEMANBETSU
+

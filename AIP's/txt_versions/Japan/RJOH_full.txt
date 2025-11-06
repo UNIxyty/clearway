@@ -1,0 +1,3756 @@
+=== Page 1 ===
+AIP Japan
+MIHO
+Civil Aviation Bureau,Japan
+RJOH AD2-1
+AD 2 AERODROMES
+RJOH AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+RJOH - MIHO
+RJOH AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+RJOH AD 2.3 OPERATIONAL HOURS
+1 ARP coordinates and site at AD 352936N/1331421E
+2 Direction and distance from (city) 7.5nm NW YONAGO
+3 Elevation/ Reference temperature 13ft / -
+4 Geoid undulation at AD ELEV 
+PSN
+Nil
+5 MAG VAR/ Annual change Nil
+6 AD Administration, address,
+telephone, telefax, telex, AFS,
+e-mail and/or Web-site addresses
+Japan Air Self Defense Force. PUBLIC AD.
+7 Types of traffic permitted(IFR/
+VFR)
+IFR/VFR
+8 Remarks Miho Airport Office(CAB)
+ 2064-Sainokami-cho, Sakaiminato-city, Tottori, 684-0055 Japan 
+ Tel: 0859(45)6114, Fax: 0859(47)2050
+1 AD Administration H24
+2 Customs and immigration INTL SKED FLT hours only
+3 Health and sanitation
+Quarantine (human): INTL SKED FLT hours only
+Quarantine (animal): 2330-0800 EXC FRI 2330-SUN 0800 and HOL
+Quarantine (plant): INTL SKED FLT hours only
+4 AIS Briefing Office H24(CAB:Nil)
+5 ATS Reporting Office(ARO) Nil
+6 MET Briefing Office H24(KANSAI)
+7A T S H 2 4
+8 Fuelling 2200-1300
+9 Handling 2200-1300
+10 Security Scheduled flight only
+11 De-icing Nil
+12 Remarks HR of service at CAB OPS section 2200 - 1300(Daily)
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 2 ===
+RJOH AD2-2  AIP Japan
+   MIHO
+Civil Aviation Bureau,Japan
+RJOH AD 2.4 HANDLING SERVICES AND FACILITIES
+RJOH AD 2.5 PASSENGER FACILITIES
+RJOH AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+RJOH AD 2.7 SEASONAL AVAILABILITY-CLEARING
+1 Cargo-handling facilities Deal with the weight thing to a Boeing 767-300 type
+2 Fuel/ oil types Fuel Grades: (CIV) JET A-1, (JSDF) JET A-1, JET A-1 PLUS
+3 Fuelling facilities/ capaci ty Fuel truck refueling(CIV)
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities fo r visiting aircraft Nil
+7 Remarks Nil
+1 Hotels Nil
+2 Restaurants AVBL
+3 Transportation Railways, Buses and Taxis
+4 Medical facilities Nil
+5 Bank and Post Office Nil
+6 Tourist Office Information desk
+7 Remarks Nil
+1 AD category for fire fighting To be issued later
+2 Rescue equipment (CAB)
+Emergency medical equipments conveyance truck x 1
+Lighting power supply truck x 1
+3 Capability for removal of disabled 
+aircraft
+To be issued later
+4 Remarks Nil
+1 Types of clearing equipment
+Snow remove equipments
+(JSDF):To be issued later
+*(CAB): Sprinkler equipment x 1 , Snow plow X 2, Tractor shovel X 1
+2 Clearance priorities To be issued later
+3 Remarks *For B1, B2 TWY and CIVIL APRON
+TWY/APN to measure the coefficient of friction:
+TWY B1, B2 and CIVIL APN(CAB)
+TWY MAIN, A1-A5, B5(JSDF)
+(EFF:7 SEP 2023) 7/9/23
+
+
+=== Page 3 ===
+AIP Japan
+MIHO
+Civil Aviation Bureau,Japan
+RJOH AD2-3
+RJOH AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS DATA
+RJOH AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Apron surface and strength Civil apron : 
+Surface : Cement concrete
+Strength : PCR 845/R/B/W/T
+2 Taxiway width, surface and
+strength
+MAIN TWY
+Width : 23m Strength : PCR 747/F/A/X/T
+A1, A5
+Width : 28.5m Strength : PCR 747/F/A/X/T
+A2, A3, A4
+Width : 34m Strength : PCR 747/F/A/X/T
+B1, B2
+Width : 34m
+Surface : Asphalt concrete
+Strength : PCR 773/F/A/X/T
+3 ACL and elevation Not available
+4 VOR checkpoints Not available
+5 INS checkpoints Spot NR
+1   352958.57N 1331438.72E
+2   352959.40N 1331440.76E
+3   353000.23N 1331443.09E
+4   353001.25N 1331445.59E
+5   353002.09N 1331447.56E
+6 Remarks Nil
+1 Use of aircraft stand ID signs,
+TWY guide lines and Visual dock-
+ing/ parking guidance system of 
+aircraft stands
+Nil
+2 RWY and TWY markings and 
+LGT
+RWY: RWY 07/25
+(Marking) RWY designation, RWY CL, RWY THR, TDZ, RWY side stripe
+(LGT) REDL, RTHL, RENL, RWY DIST marker LGT
+TWY: 
+(Marking) TWY side stripe, RWY HLDG PSN, 
+Mandatory instruction(A1-A5 TWY), TWY CL(B1, B2 TWY)
+(LGT): TWY edge LGT, TWY CL LGT (B1, B2 TWY), 
+Taxiing guidance sign(A1-A5 TWY and B1, B2 TWY)
+3 Stop bars Nil
+4 Remarks (Marking) Overrun area
+(LGT) APN flood LGT
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 4 ===
+RJOH AD2-4  AIP Japan
+   MIHO
+Civil Aviation Bureau,Japan
+RJOH AD 2.10 AERODROME OBSTACLES
+RJOH AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+RWY/Area affected Obstacle type  Coordinates Elevation Markings/ LGT Remarks
+Nil
+1 Associated MET Office KANSAI
+2 Hours of service
+MET Office outside hours
+H24(KANSAI)
+3 Office responsible for TAF preparation
+Periods of validity
+KANSAI
+30 Hours
+4 Trend forecast 
+Interval of issuance
+Nil
+5 Briefing/ consultation provided Briefi ng is available upon inquiry at KANSAI
+6 Flight documentation
+Language(s) used
+C
+En
+7 Charts and other information available 
+for briefing or consultation
+S6, U 7, U 85, U 5, U 3, U 25, U 2/Tr, P S, P 5, P 3, P 25, P SWE, P SWF, P SWG, P SWI,
+PSWM, PSW(domestic), E, C, WE, WF, WG, WI, W, N
+8 Supplementary equipment
+available for providing information
+Doppler Radar for Airport Weather (See below figure)
+9 ATS units provided with information TWR, APP
+10 Additional information (limitation of 
+service, etc.)
+Observation is made by the Ministry of Defense.
+(EFF:17 OCT 2013) 19/9/13
+
+
+=== Page 5 ===
+AIP Japan
+MIHO
+Civil Aviation Bureau,Japan
+RJOH AD2-5
+UPPER  LIMIT   :  1600ft  above  FIELD  ELEV  LEVEL
+LOWER  LIMIT  :  FIELD  ELEV  LEVEL
+07
+25
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+1NM
+Airspace for the advisory service
+concerning low level wind shear
+Detection  Area  for  Arriving  Aircraft
+Detection  Area  for  Departing  Aircraft
+(EFF:11 MAR 2010) 11/3/10
+
+
+=== Page 6 ===
+RJOH AD2-6  AIP Japan
+   MIHO
+Civil Aviation Bureau,Japan
+RJOH AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+RJOH AD 2.13 DECLARED DISTANCES
+RJOH AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designations
+RWY NR TRUE BRG Dimensions of
+RWY(M)
+Strength(PCR) and
+surface of RWY
+THR coordinates
+THR geoid undulation
+THR elevation and
+highest elevation of TDZ
+of precision APP RWY
+12 3 4 5 6
+07 063.74° 2500×45 PCR 875/F/B/X/T
+SW 82000kg
+(180779lbs)
+DW 89000kg
+(196211lbs)
+DTW 175000kg
+(385809lbs)
+TTTW 217000kg
+(478403lbs)
+Asphalt Concrete
+Nil THR ELEV: 9.3ft
+TDZ ELEV: 10.8ft
+25 243.74° 2500×45 Nil THR ELEV: 20.4ft
+TDZ ELEV: 20.4ft
+   Slope of RWY 
+Strip
+ Dimensions(M)
+Remarks
+71 0 1 2
+See AD2.24 AD CHART 2620×300
+2620×300
+RWY Grooving:2500×30m
+RWY Designator TORA
+(m)
+TODA
+(m)
+ASDA
+(m)
+LDA
+(m) Remarks
+123456
+07
+25
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+2500
+Nil
+Nil
+RWY
+Designator
+APCH
+LGT
+type
+LEN
+INTST
+RTHL
+Color
+WBAR
+PAPI
+(VASIS)
+Angle
+DIST FM 
+THR
+MEHT
+RTZL
+LEN
+RCLL
+LEN
+Spacing
+Color
+INTST
+REDL
+LEN
+Spacing
+Color
+INTST
+RENL
+Color
+WBAR
+STWL
+LEN
+Color
+12 34 5 6 7 8 9
+07 SALS
+(*1)
+420m
+GREEN
+Nil
+PAPI
+3.0°/LEFT
+422m
+65.6ft
+Nil Nil 2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+RED
+Nil
+Nil
+(*2)
+25 PALS
+(CAT I)
+900m
+GREEN
+GREEN
+PAPI
+3.0°/LEFT
+419m
+66.0ft
+Nil Nil 2500m
+60m
+Coded color
+(White/Yellow)
+LIH
+RED
+Nil
+Nil
+(*2)
+Remarks
+10
+SALS with APCH LGT beacon(600m and 900m FM RWY 07 THR)(*1) 
+Overrun area edge LGT(LEN:60M, Color:Red)(*2)
+CGL for RWY 07
+(EFF:28 NOV 2024) 31/10/24
+
+
+=== Page 7 ===
+AIP Japan
+MIHO
+Civil Aviation Bureau,Japan
+RJOH AD2-7
+RJOH AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+RJOH AD 2.16 HELICOPTER LANDING AREA
+1 ABN/IBN location, characteristics and 
+hours of operation
+ABN: 352959N/1331354E, White/Green EV10sec, HO
+2 LDI location and LGT 
+Anemometer location and LGT Nil
+3 TWY edge and center line lighting TWY edge LGT: Blue(B1, B2 TWY)
+TWY CL LGT: Green(B1, B2 TWY)
+4 Secondary power supply/    switch-
+over time 10 sec :TWY edge LGT(B1, B2 TWY), TWY CL LGT(B1, B2 TWY)
+5 Remarks WDI LGT, OBST LGT
+Nil
+(EFF:17 AUG 2017) 17/8/17
+
+
+=== Page 8 ===
+RJOH AD2-8  AIP Japan
+   MIHO
+Civil Aviation Bureau,Japan
+RJOH AD 2.17 ATS AIRSPACE
+Designation and lateral limits
+Vertical
+limits
+(ft)
+Airspace
+classification
+ATS unit call
+sign Language Remarks
+12 3 4 6
+MIHO
+CTR
+Area within radius of 5nm of MIHO 
+ARP(35°30'N133°14'E)
+3500 or below D  MIHO TOWER
+En
+MIHO
+ACA
+See attached chart E  MIHO APP
+ MIHO DEP
+ MIHO RADAR
+En
+⨾ಖ㐍ධ⟶ไ༊
+Miho Approach Control Area
+Point list
+352053N1334353E
+350734N1330203E
+352311N1333110E
+351212N1330506E
+353507N1334527E
+355055N1324226E
+345939N1325649E
+353546N1331150E
+354209N1334218E
+  360049N1333325E
+  354745N1335107E
+  360244N1330336E
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)  
+(8)  
+(9) 
+(10)  
+(11)  
+(12) 
+(1)
+(2)
+(3)
+(4)
+(7)
+(6)
+(8) (5)
+(9)
+(10)
+(11)
+(12) 15NM
+OIE
+YGE
+34NM
+FL150
+25NM
+34NM
+8000
+10000
+(EFF:31 DEC 2020) 5/11/20
+
+
+=== Page 9 ===
+AIP Japan
+MIHO
+Civil Aviation Bureau,Japan
+RJOH AD2-9
+RJOH AD 2.18 ATS COMMUNICATION FACILITIES
+Service
+designation Call sign Frequency Hours of
+operation Remarks
+12 3 4 5
+APP/ASR Miho Approach/
+Miho Radar
+120.1MHz
+125.4MHz
+258.2MHz
+317.8MHz
+121.5MHz(E)
+243.0MHz(E)
+H24 ASR SERVICE
+2200-1200 Other time 1HR PN
+DEP Miho Departure 120.1MHz
+125.4MHz
+258.2MHz
+317.8MHz
+121.5MHz(E)
+243.0MHz(E)
+2200 - 1200
+Other time
+1HR PN
+TWR Miho Tower 236.8MHz
+126.2MHz
+302.4MHz
+247.0MHz(1)(2)
+123.1MHz(1)(2)
+118.0MHz
+243.0MHz(E)
+121.5MHz(E)
+H24 (1) For Rescue only.
+(2) AVBL on request.
+GND Miho Ground 275.8MHz
+118.0MHz
+H24
+MET Miho Metro 344.6MHz 2030 - 1130 DLY
+except
+2030 FRI - 1130 SAT,
+2030 SAT - 1130 SUN,
+and HOL
+Pilot forecaster SER(MIL)
+GCA-ASR
+PAR
+Miho Radar 335.6MHz
+270.8MHz
+134.1MHz
+125.3MHz
+228.2MHz
+250.4MHz
+289.4MHz
+316.0MHz
+141.8MHz
+243.0MHz(E)
+121.5MHz(E)
+2200 - 1200
+Other time
+1HR PN
+ASR RWY 07/25
+PAR RWY 07/25
+Glide path 3.0°
+ 
+(EFF:30 MAR 2017) 30/3/17
+
+
+=== Page 10 ===
+RJOH AD2-10  AIP Japan
+   MIHO
+Civil Aviation Bureau,Japan
+RJOH AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Type of aid
+(VOR 
+declination)
+ID Frequency Hours of
+operation
+Position of
+transmitting
+antenna
+coordinates
+Elevation of
+DME
+transmitting
+antenna
+Remarks
+12 3 4 5 6 7
+TACAN JET 1201MHz
+(CH-114X)
+H24 353151.77N/
+1330538.72E
+1696ft TACAN AZM unusable
+010° BTN 10nm and 20nm BLW
+12000ft.
+167° BTN 10nm and 20nm BLW
+12000ft.
+VOR
+(8°W / 2020)
+YGE 117.3MHz H24 353004.96N/
+1331525.94E
+VOR unusable:
+360°-020° beyond 35nm BLW 4000ft.
+120°-130° beyond 25nm BLW 8000ft.
+290°-310° beyond 35nm BLW 4000ft.
+330°-340° beyond 35nm BLW 4000ft.
+DME YGE 1207MHz
+(CH-120X)
+H24 353004.96N/
+1331525.94E
+43ft DME unusable:
+360°-040° beyond 35nm BLW 4000ft.
+040°-060° beyond 30nm BLW 3000ft.
+110°-120° beyond 35nm BLW 7000ft.
+120°-130° beyond 25nm BLW 8000ft.
+280°-310° beyond 25nm BLW 4000ft.
+320°-330° beyond 25nm BLW 4000ft.
+330°-340° beyond 30nm BLW 4000ft.
+340°-350° beyond 25nm BLW 4000ft.
+350°-360° beyond 20nm BLW 4000ft.
+ILS-LOC 25 IYV 108.95MHz 2200 - 1300 352915.00N/
+1331328.21E
+LOC: 235m away FM RWY 07
+THR, BRG (MAG) 251°.
+ILS-GP 25 - 329.15MHz 2200 - 1300 352952.93N/
+1331452.43E
+GP:315m(1033ft) inside
+FM RWY 25 THR.
+120m(394ft) N of RCL 
+HGT of ILS Ref Datum
+16.5m(54ft).
+Angle 3.0°
+ILS-DME 25 IYV 1113MHz
+(CH-26Y)
+2200 - 1300 352952.79N/
+1331452.07E
+32ft DME:325m(1066ft) inside FM
+RWY 25 THR.
+120m(394ft) N of RCL.
+MSAS 1575.42MHz H24 Transmitting antennas are 
+satellite based.
+ILS-DME ANTENNA
+ILS-GP ANTENNA
+ILS-LOC
+ANTENNA
+REMARKS : 1. LOC beam BRG (MAG) 251˚
+2. HGT of ILS REF datum 16.5m(54ft)
+3. GP Angle 3.0˚
+4. ELEV of ILS-DME 9.6m(32ft)
+315m
+325m
+120m
+235m
+25
+07
+2500m
+(EFF:31 DEC 2020) 5/11/20
+
+
+=== Page 11 ===
+AIP Japan
+MIHO
+Civil Aviation Bureau,Japan
+RJOH AD2-11
+RJOH AD 2.20 LOCAL TRAFFIC REGULATIONS
+1. Airport regulations
+2. Taxiing to and from stands
+3. Parking area for small aircraft(General aviation)
+4. Parking area for helicopters
+5. Apron - taxiing during winter conditions
+6. Taxiing - limitations
+7. School and training flights - technical test flights - use of runways
+8. Helicopter traffic - limitation
+9. Removal of disabled aircraft from runways
+RJOH AD 2.21 NOISE ABATEMENT PROCEDURES
+Civil transient aircraft:
+1) PPR to CAB Miho Airport Office(0859-45-6114) for parking.
+2) 2weeks PPR to 3rd Tactical Air Lift Wing Defense Division(0859-45-0211 EXT 232 or 236) for landing.
+MON - FRI 2300-0800(except holiday)
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+(EFF:27 AUG 2009) 27/8/09
+
+
+=== Page 12 ===
+RJOH AD2-12  AIP Japan
+   MIHO
+Civil Aviation Bureau,Japan
+RJOH AD 2.22 FLIGHT PROCEDURES
+1. TAKE OFF MINIMA
+RWY ACFT
+CAT
+REDL & RCLL REDL or RCLL
+or RCL Marking
+NIL
+(DAYTIME ONLY)
+RVR VIS RVR VIS RVR VIS
+Multi-Engine 
+ACFT with 
+TKOF ALTN 
+AP FILED
+07 A,B,C,D
+- - 400m 400m - 500m
+25 A,B,C,D
+OTHER
+07 A,B,C,D
+AVBL LDG MINIMA
+25 A,B,C,D
+2. WX MINIMA CONCERNING PAR/ASR APCH PROCEDURE
+PAR RWY 07 PAR RWY 25
+MINIMA THR ELEV:9 AD ELEV: 13 MINIMA THR ELEV:20 AD ELEV: 13
+CAT
+CIRCLING
+CAT
+CIRCLING
+DA(H) RVR/
+CMV MDA(H) VIS DA(H) RVR/
+CMV MDA(H) VIS
+A
+210(201) 750
+460(447)
+1600
+A
+231(211) 750
+460(447)
+1600
+B
+530(517)
+B
+530(517)
+C 2400 C 2400
+D 570(557) 3200 D 570(557) 3200
+ASR RWY 07 ASR RWY 25
+MINIMA THR ELEV:9 AD ELEV: 13 MINIMA THR ELEV:20 AD ELEV: 13
+CAT
+CIRCLING
+CAT
+CIRCLING
+MDA(H) RVR/
+CMV MDA(H) VIS MDA(H) RVR/
+CMV MDA(H) VIS
+A
+910(897)
+1500
+910(897)
+1600
+A
+600(587)
+1000
+600(587)
+1600
+BB
+1200
+C 1800 2400 C 2400
+D 2000 3200 D 1600 3200
+3. Lost communication procedures for arrival aircraft under radar navigational guidance
+If radio communications with Miho Radar/GCA are lost for 1 minute or 5 seconds(PAR)/ 15 seconds(ASR) on final approach,
+squawk Mode A/3 Code 7600 and;
+(I) 1. Contact Miho Tower.
+2. If unable, proceed in accordance with Visual Flight Rules.
+3. If unable, proceed to YGE VOR/DME at last assigned altitude or 4,000ft whichever is higher, and execute instrument
+approach
+(II) Procedures other than above will  be issued when situation required.
+(EFF:12 JUN 2025) 15/5/25
+
+
+=== Page 13 ===
+AIP Japan
+MIHO
+Civil Aviation Bureau,Japan
+RJOH AD2-13
+RJOH AD 2.23 ADDITIONAL INFORMATION
+RJOH AD 2.24 CHARTS RELATED TO AN AERODROME
+Nil
+Aerodrome/Heliport Chart
+Standard Departure Chart - Instrument (MIHO)
+Standard Departure Chart - Instrument (YONAGO)
+Standard Departure Chart - Instrument (INABA)
+Standard Departure Chart - Instrument (SOUTH) 
+Standard Departure Chart - Instrument (DOZEN)
+Standard Departure Chart - Instrument (STAGE-RNAV)
+Standard Departure Chart - Instrument (USAGI-RNAV)
+Standard Departure Chart - Instrument (KITARO-RNAV)
+Standard Arrival Chart - Instrument (GAINA, KYURI-RNAV)
+Instrument Approach Chart (ILS Z or LOC Z RWY25)
+Instrument Approach Chart (ILS Y or LOC Y RWY25)
+Instrument Approach Chart (ILS X or LOC X RWY25)
+Instrument Approach Chart (VOR RWY25)
+Instrument Approach Chart (VOR RWY07)
+Instrument Approach Chart (TACAN A)
+Instrument Approach Chart (RNP Z RWY07)
+Instrument Approach Chart (RNP Y RWY07(AR))
+Other Chart (MVA CHART)
+(EFF:7 SEP 2023) 10/8/23
+
+
+=== Page 14 ===
+INTENTIONALLY LEFT BLANK
+
+
+=== Page 15 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC DAOHIM / HOJR
+600m 
+ 300m 
+ 
+25  
+420m 180m 300m 
+NO1 NO2 
+07  
+REMARKS  :  RWY GROOVING 2500m x 30m
+WIDTH OF TWY
+MAIN TWY 23m
+m43 4A-2A
+A1, A5 28.5m
+B1, B2 34m
+LONGITUDINAL PROFILE OF RWY
+SEQUENCED FLASHING LGT
+ALS
+SALSAPCH LGT BCN
+LOC
+MIHO AD
+25-07 25-07
+Example for MANDATORY INSTRUCTION MARKING
+RWY SIDE
+Installed on A1 TWY  THRU A5 TWY
+1234 5
+PAPI Angle 3.0
+MEHT 20.0m(65.6ft) PAPI Angle 3.0
+MEHT 20.1m(66.0ft)
+WDI
+RWY  25
+20.4ft
+(6.2m)
+2500m
+20ft
+(6.1m)
+0.3%
+2000m
+15.2ft
+(4.6m)
+1530m
+13.4ft
+(4.1m)
+0.2%
+1250m
+8.2ft
+(2.5m)
+0.1%
+470m
+9.3ft
+(2.8m)
+RWY 07
+CHANGE : TWY B7 established.
+0m
+TRUE NORTH
+CGL
+MAIN TWY B4
+TWY B3
+TWY
+B5
+TWY
+B6
+TWY
+CIVIL APRON
+GP HOLD LINE
+APRON FLOOD LGT
+TAXIING
+GUIDANCE SIGN
+TAXIING
+GUIDANCE SIGN
+B2
+TWYB8
+TWY
+No.3No.4
+A4 TWY A2 TWY YWT 1AYWT 3A
+B1 TWY
+EAST TWY
+PAR
+ILS-GP
+WDIRVR
+ILS-DME
+A5 TWY
+422m 419m
+No.2 No.1
+RVR
+07
+25
+JSDF APRON
+B7 TWY
+(EFF:27 JAN 2022) 30/12/21
+RJOH AD2.24-ADC-1
+MIHO
+
+
+=== Page 16 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJOH / MIHO SID
+ RWY 07 :   Climb RWY HDG to 900FT, ...
+ RWY 25 :   Climb RWY HDG to 500FT, ...
+WXUQOHIW+'*ÛWRLQWHUFHSWDQGSURFHHGYLD-(75WR-(7'0(
+WXUQOHIWGLUHFWWR-(77$&$1
+&URVV-(75'0(DWRUEHORZ)7
+1RWH5:<FOLPEJUDGLHQWUHTXLUHGXSWR)7
+2%67$/7)7ORFDWHGDW10Û)0HQGRI5:<
+MIHO5(9(56$/ FI9('(3$5TUR(
+T$&$1
+MIHO
+-(7
+)7
+&+±;
+ÛÝ1ÛÝ(
+900
+Û
+5
+500
+HDGÛ
+
+'-(7
+&+$1*('HVFULSWLRQRI352&QDPH
+'-(7
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-SID-1
+MIHO
+
+
+=== Page 17 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJOH / MIHO SID
+YONAGO REVERSAL SEVEN DEPARTURE
+500
+900
++'*Û
+Û
+10000
+D18.0 YGE
+ RWY 07 :   Climb RWY HDG to 900FT, turn left ...
+5:<&OLPE5:<+'*WR)7WXUQOHIW+'*Û
+... to intercept and proceed via YGE R060 to YGE 18.0DME, turn left direct to 
+YGE VOR/DME.
+Cross YGE R060/18.0DME at or below 10000FT.
+Note  RWY25 : 5.0% climb gradient required up to 700FT.
+2%67$/7)7ORFDWHGDW10Û)0HQGRI5:<
+  
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+ÛÝ1ÛÝ(
+R060
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-SID-2
+MIHO
+
+
+=== Page 18 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART -INSTRUMENT
+RJOH / MIHO SID and TRANSITION
+MIYAZU TRANSITION
+From over INABA, proceed via YME R296 to YME VOR/DME.
+INABA
+TOZAN
+10000
+900
+500
+142˚116˚
+142˚
+060˚
+8000
+INABA FIVE DEPARTURE
+RWY07 : Climb RWY HDG to 900FT, turn left ...
+RWY25 : Climb RWY HDG to 500FT, turn left HDG015˚ ...
+TOZAN TRANSITION
+    From over INABA, proceed via TRE R322 to TRE VOR/DME, via TRE R142 
+to TOZAN.
+TRE R295
+HDG015˚
+D18.0 YGE
+D32.2 YGE
+D26.4 TRE
+D69.7 YME
+D21.9 TRE
+... to intercept and proceed via YGE R060 to INABA.
+Cross YGE R060/18.0DME (TRE R295) at or below 10000FT.
+Cross INABA at or above 8000FT.
+Note  RWY25 : 5.0% climb gradient required up to 700FT.
+OBST ALT 1116FT located at 6.1NM 213˚ FM end of RWY25.
+TOZAN  TRANSITION
+MIYAZU TRANSITION
+INABA FIVE DEPARTURE
+VOR/DME
+TOTTORI
+110.2   TRE
+100FT
+CH–39X
+ÛÝ1ÛÝ(
+ÛÝ1ÛÝ(
+VOR/DME
+MIYAZU
+112.6   YME
+2400FT
+CH–73X
+R060
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+ÛÝ1ÛÝ(
+CHANGE : SID. Note RWY25(OBST). YONAGO VOR/DME.
+(EFF:31 DEC 2020) 5/11/20
+RJOH AD2.24-SID-3
+MIHO
+
+
+=== Page 19 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+TACAN
+MIHO
+1201   JET
+1700FT
+CH–114X
+ÛÝ1ÛÝ(
+NOTISNART dna DISOHIM / HOJR
+SOUTH EIGHT DEPARTURE
+MIYOS TRANSITION
+    From over NIIMI, proceed via YGE 20.4DME clockwise ARC to intercept 
+and proceed via YGE R218 to MIYOS.
+SOUTH EIGHT DEPARTURE
+D20.4 YGE ARC 
+218˚
+YGE R218
+D12.5 YGE
+D20.4 YGE
+10000
+NIIMI
+D42.0 YGE
+MIYOS
+6000
+500500
+HDG220˚
+HDG130˚
+175˚
+RWY07 : Climb RWY HDG to 500FT, turn right HDG220˚ ...
+RWY25 : Climb RWY HDG to 500FT, turn left HDG130˚ ...
+... to intercept and proceed via YGE R175 to NIIMI.
+Cross YGE R175/12.5DME at or below 10000FT,
+Cross NIIMI at or above 6000FT.
+Note  RWY25 : 5.0% climb gradient required up to 700FT.
+OBST ALT 1116FT located at 6.1NM 213˚ FM end of RWY25.
+MIYOS TRANSITION
+R175
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+ÛÝ1ÛÝ(
+CHANGE : SID. Note RWY25(OBST). TRANSITION. YONAGO VOR/DME.
+(EFF:31 DEC 2020) 5/11/20
+RJOH AD2.24-SID-4
+MIHO
+
+
+=== Page 20 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RJOH / MIHO SID
+DOZEN SIX DEPARTURE
+1000
++'*Û
+Û
+500
+DOZEN
+D11.0 YGE
+D32.0 YGE
+10000
+6000
+5:<&OLPE5:<+'*WR)7WXUQOHIW+'*Û
+ RWY 25 :  Climb RWY HDG to 500FT, turn left ...
+... to intercept and proceed via YGE R007 to DOZEN.
+Cross YGE R007/11.0DME between 6000FT and 10000FT.
+Note  RWY25 : 5.0% climb gradient required up to 1000FT.
+2%67$/7)7ORFDWHGDW10Û)0HQGRI5:<
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+ÛÝ1ÛÝ(
+R007
+CHANGE : Description of PROC name.
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-SID-5
+MIHO
+
+
+=== Page 21 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+OH501
+352731.3N
+1332246.9E
+OH701
+353532.4N
+1332443.9E
+OH703
+354038.6N
+1331939.2E
+STAGE
+353451.7N
+1324135.7E
+RNAV SIDRJOH / MIHO
+6.6329˚
+31.5
+268˚
+8.2019˚
+500
+072˚
+252˚
+500
+10000
+VAR 8˚W 
+NOTE RWY25 : 5.0% climb gradient required up to 700FT. 
+ OBST ALT 1182FT located at 6.2NM 214˚ FM end of RWY25.
+RWY07 : Climb on HDG072˚ at or above 500FT, direct to OH701, to OH703 at or below 10000FT, 
+     to STAGE.
+RWY25 : Climb on HDG252˚ at or above 500FT, turn left direct to OH501, to OH 701, to OH703 
+     at or below 10000FT, to STAGE.
+1VANRERUTRAPED TWO EGATS
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME
+RWY07 :
+OIE : 12.6NM to STAGE - STAGE
+JET : 10.0NM to OH501 - 6.0NM to OH501 
+OIE :  6.0NM to OH501 -4.0NM to OH501 
+          OH501 - OH701 
+          12.6NM to STAGE - STAGE
+DER - 10.0NM to OH501
+RWY25 :
+RWY25 :
+DER - 8.7NM to OH701RWY07 :
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU 
+must be able to update its position without delay 
+at the starting point of take-off roll.
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+ÛÝ1ÛÝ(
+CHANGE : Description of VAR and PROC name.
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-SID-6
+MIHO
+
+
+=== Page 22 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MIHO
+STANDARD DEPARTURE CHART - INSTRUMENT
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++500
+凟
+-10000
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+6.6
+31.5
+-8.3
+-8.3
+-8.3
+-8.3
+001
+002
+003
+004
+凟
+凟
+凟
+凟
+凟
+OH701
+OH703
+STAGE
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(063.9)
+(321.1)
+(259.6)
+凟
+072
+329
+268
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+TF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++500
+凟
+凟
+-10000
+凟
+凟
+L
+凟
+凟
+凟
+凟
+凟
+8.2
+6.6
+31.5
+-8.3
+-8.3
+-8.3
+-8.3
+-8.3
+001
+002
+003
+004
+005
+凟
+凟
+凟
+凟
+凟
+凟
+OH501
+OH701
+OH703
+STAGE
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(243.9)
+(011.2)
+(321.1)
+(259.6)
+凟
+252
+019
+329
+268
+RNAV SIDRJOH / MIHO
+STAGE TWO DEPARTURE
+RWY07
+RWY25
+CHANGE :  VAR. PROC renamed.PROC course. 
+RJOH AD2.24-SID-7
+(EFF:31 DEC 2020) 5/11/20
+
+
+=== Page 23 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RNAV SIDRJOH / MIHO
+15.1
+059˚
+15.0039˚
+7.7
+059˚
+500
+072˚
+252˚
+500
+10000
+8000
+OH501
+352731.3N
+1332246.9E
+YAPPA
+354024.5N
+1333205.2E
+INABA
+354956.1N
+1334633.2E
+OH701
+353532.4N
+1332443.9E
+VAR 8˚W 
+NOTE RWY25 : 5.0% climb gradient required up to 700FT. 
+ OBST ALT 1182FT located at 6.2NM 214˚ FM end of RWY25.
+RWY07 : Climb on HDG072˚ at or above 500FT, direct to OH701, to YAPPA at or below 10000FT, 
+     to INABA at or above 8000FT.
+RWY25 : Climb on HDG252˚ at or above 500FT, turn left direct to OH501, to YAPPA at or below 10000FT,  
+     to INABA at or above 8000FT.
+1VANRERUTRAPED TWO IGASU
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME JET : 10.0NM to OH501 - 6.0NM to OH501 
+OIE :  6.0NM to OH501 -4.0NM to OH501 
+          OH501 - 6.0NM to YAPPA
+DER - 10.0NM to OH501
+RWY25 :
+RWY25 :
+DER - 8.7NM to OH701RWY07 :
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU 
+must be able to update its position without delay 
+at the starting point of take-off roll.
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+ÛÝ1ÛÝ(
+CHANGE : Description of VAR and PROC name.
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-SID-8
+MIHO
+
+
+=== Page 24 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOH AD2.24-SID-9
+STANDARD DEPARTURE CHART - INSTRUMENT
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++500
+凟
+-10000
++8000
+凟
+凟
+凟
+凟
+凟
+凟
+7.7
+15.1
+-8.3
+-8.3
+-8.3
+-8.3
+001
+002
+003
+004
+凟
+凟
+凟
+凟
+凟
+OH701
+YAPPA
+INABA
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(063.9)
+(050.8)
+(050.9)
+凟
+072
+059
+059
+Path
+Descriptor
+Serial
+Number
+VA
+DF
+TF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++500
+凟
+-10000
++8000
+凟
+L
+凟
+凟
+凟
+凟
+15.0
+15.1
+-8.3
+-8.3
+-8.3
+-8.3
+001
+002
+003
+004
+凟
+凟
+凟
+凟
+凟
+OH501
+YAPPA
+INABA
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(243.9)
+(030.4)
+(050.9)
+凟
+252
+039
+059
+RNAV SIDRJOH / MIHO
+USAGI TWO DEPARTURE
+RWY07
+RWY25
+CHANGE :  VAR. PROC renamed.PROC course. 
+MIHO
+(EFF:31 DEC 2020) 5/11/20
+
+
+=== Page 25 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOH AD2.24-SID-10
+STANDARD DEPARTURE CHART - INSTRUMENT
+RNAV TRANSITIONRJOH / MIHO
+69.7
+115˚
+MIYAZU(YME)
+ 352850.5N
+1350813.3E
+INABA
+ 354956.1N
+1334633.2E
+VOR/DME
+MIYAZU
+112.6  YME
+CH-73X            
+2400FT
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV169.7
+-8.3
+-8.3
+001
+002
+INABA
+YME
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(107.2)
+115
+VAR 8˚W 
+1VANRNOITISNART  ONIBLA
+Note 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+PAG EMD
+Critical DME TRE : 42.0NM to YME - 40.0NM to YME
+STD : 5.0NM to YME - 1.0NM to YME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+From INABA, to YME.
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+CHANGE : Critical DME. DME GAP.
+26.0NM to YME - 25.0NM to YME
+ÛÝ1ÛÝ( ÛÝ1ÛÝ(
+MIHO
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 26 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOH AD2.24-SID-11
+STANDARD DEPARTURE CHART - INSTRUMENT
+RNAV TRANSITIONRJOH / MIHO
+KOMATSU(KMC)
+362347.3N
+1362415.3E
+INABA
+ 354956.1N
+1334633.2E
+From INABA at or above 8000FT, to KUMIK at or above FL160, to KMC. 
+8000
+KUMIK
+VAR 8˚W 
+IF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++8000
++FL160
+–
+–
+15.1
+117.4
+INABA
+KUMIK
+KMC
+(089.7)
+(072.6)
+098
+081
+Path
+Descriptor
+001
+002
+003
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+–
+081˚
+117.4
+098˚
+15.1
+FL160
+354959.9N
+1340510.3E
+VORTAC
+KOMATSU
+112.0     KMC
+CH-57X
+1VANR NOITISNART USTAMOK
+NOTE 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+–PAG EMD
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+CHANGE : Critical DME deleted.
+–
+ÛÝ1ÛÝ(
+MIHO
+(EFF:21 MAR 2024) 22/2/24
+
+
+=== Page 27 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD DEPARTURE CHART - INSTRUMENT
+RNAV SIDRJOH / MIHO
+VAR 8˚W 
+RWY07 : Climb on HDG072˚ at or above 500FT, direct to OH701, to OH703 at or below 10000FT, 
+to MIHOU at or above 8000FT. 
+RWY25 : Climb on HDG252˚ at or above 500FT, turn left direct to OH501, to OH701, to OH703  
+at or below 10000FT, to MIHOU at or above 8000FT. 
+NOTE RWY25 : 5.0% climb gradient required up to 700FT. 
+OBST ALT 1182FT located at 6.2NM 214˚ FM end of RWY25. 
+252˚
+5008000
+072˚
+500
+329˚6.6
+019˚8.2
+241˚
+14.4
+OH701
+353532.4N
+1332443.9E
+ 
+OH501
+OH703
+10000
+MIHOU
+352731.3N
+1332246.9E
+354038.6N
+1331939.2E
+353152.0N
+1330538.1E
+1VANRERUTRAPED TWO ORATIK
+NOTE 1 ) DME/DME/IRU or GNSS required.
+Inappropriate Navaids
+DME GAP
+Critical DME
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+2 ) RADAR service required.
+䯲The aircraft equipped with only DME/DME/IRU
+must be able to update its position without delay
+at the starting point of take-off roll.
+RWY07 
+TRE : 1.0NM to OH703 – 7.0NM to MIHOU 
+RWY25 
+JET : 10.0NM to OH501 – 6.0NM to OH501
+OIE : 6.0NM to OH501 – 4.0NM to OH501
+ OH501 – OH701
+TRE : 1.0NM to OH703 – 7.0NM to MIHOU 
+RWY07 : DER – 8.7NM to OH701
+RWY25 : DER – 10.0NM to OH501
+MIHO
+1700FT
+TACAN
+1201       JET  
+CH-114X
+ÛÝ1ÛÝ(
+VOR/DME
+YONAGO
+117.3   YGE
+0FT
+CH–120X
+ÛÝ1ÛÝ(
+CHANGE : Description of VAR and PROC name.
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-SID-12
+MIHO
+
+
+=== Page 28 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOH AD2.24-SID-13
+STANDARD DEPARTURE CHART - INSTRUMENT
+–
+OH701
+OH703
+MIHOU
+RNAV SIDRJOH / MIHO
+VA
+DF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++500
+–
+-10000
++8000
+–
+–
+6.6
+14.4
+(063.9)
+(321.1)
+(232.5)
+072
+329
+241
+Path
+Descriptor
+001
+002
+003
+004
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+-8.3
+–
+–
+OH501
+OH701
+OH703
+MIHOU
+VA
+DF
+TF
+TF
+TF
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+L
+–
+–
+–
+–
+–
+–
+–
+–
++500
+–
+–
+-10000
++8000
+–
+–
+8.2
+6.6
+14.4
+(243.9)
+(011.2)
+(321.1)
+(232.5)
+252
+019
+329
+241
+Path
+Descriptor
+001
+002
+003
+004
+005
+Serial
+Number
+Course
+˚M(˚T)
+Turn
+Direction
+Altitude
+(FT)
+Speed
+(KIAS)
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+Distance
+(NM)
+-8.3
+-8.3
+-8.3
+-8.3
+-8.3
+–
+KITARO TWO DEPARTURE
+RWY07
+RWY25
+CHANGE :  VAR. PROC renamed. Course FM OH703 to MIHOU.  
+MIHO
+(EFF:31 DEC 2020) 5/11/20
+
+
+=== Page 29 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+STANDARD ARRIVAL CHART - INSTRUMENT
+RNAV1GAINA EAST ARRIVAL
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+GAINA
+353623.5N
+1333126.6E
+RAKDA
+ 353110.1N
+1333824.3E
+4000 7.7321˚
+From RAKDA, to GAINA at or above 4000FT.
+Critical DME
+DME GAP
+Inappropriate Navaids
+–
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+OIE : RAKDA - 5.7NM to GAINA  3.7NM to GAINA - 1.7NM to GAINA
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
++4000
+凟
+凟
+凟
+7.7
+-8.3
+-8.3
+001
+002
+凟
+凟
+RAKDA
+GAINA
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(312.7)
+凟
+321
+RNAV STAR RWY25RJOH / MIHO
+VOR/DME
+0FT
+YONAGO
+117.3  YGE
+CH-120X
+ÛÝ1ÛÝ(
+VAR 8˚W 
+CHANGE : HLDG pattern abolished. 
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-STAR-1
+MIHO
+
+
+=== Page 30 ===
+Civil Aviation Bureau,Japan
+AIP JapanRJOH AD2.24-STAR-2
+STANDARD ARRIVAL CHART - INSTRUMENT
+RNAV1GAINA WEST ARRIVAL
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+GAINA
+ 353623.5N
+1333126.6E
+PEPOS
+ 354302.5N
+1324348.1E
+OH561
+ 354032.3N
+1332858.9E
+4000
+From PEPOS, to OH561, to GAINA at or above 4000FT.
+Critical DME
+DME GAP
+Inappropriate Navaids
+–
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+OIE : PEPOS - 32NM to OH561
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+TF
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++4000
+凟
+凟
+凟
+凟
+36.8
+4.6
+-8.3
+-8.3
+-8.3
+001
+002
+003
+凟
+凟
+凟
+PEPOS
+OH561
+GAINA
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(093.7)
+(154.2)
+凟
+102
+162
+RNAV STAR RWY25RJOH / MIHO
+162˚
+36.8
+102˚
+Course
+˚M(˚T)
+VAR 8˚W 
+VOR/DME
+0FT
+YONAGO
+117.3  YGE
+CH-120X
+ÛÝ1ÛÝ(
+CHANGE : HLDG pattern abolished. 
+4.6
+MIHO
+(EFF:7 SEP 2023) 10/8/23
+
+
+=== Page 31 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOH AD2.24-STAR-3
+STANDARD ARRIVAL CHART - INSTRUMENT
+RNAV1KYURI  EAST ARRIVAL
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+From RAKDA, to OH762 at or above 5500FT, to OH761 at or above 4000FT, to KYURI
+at or above 3500FT.
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+TF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++5500
++4000
++3500
+凟
+凟
+凟
+凟
+凟
+7.4
+24.4
+5.4
+-8.3
+-8.3
+-8.3
+-8.3
+001
+002
+003
+004
+凟
+凟
+凟
+凟
+RAKDA
+OH762
+OH761
+KYURI
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(247.3)
+(247.2)
+(334.0)
+凟
+256
+255
+342
+RNAV STAR RWY07RJOH / MIHO
+7.4
+5500
+OH762
+ 352817.6N
+1332958.6E
+RAKDA
+ 353110.1N
+1333824.3E
+256˚
+24.4
+255˚5.4342˚
+3500
+KYURI
+ 352339.5N
+1325930.6E
+4000
+OH761
+ 351848.1N
+1330225.1E
+VAR 8˚W 
+VOR/DME
+0FT
+YONAGO
+117.3  YGE
+CH-120X
+ÛÝ1ÛÝ(
+Critical DME
+DME GAP
+Inappropriate Navaids See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+凟
+凟
+CHANGE : HLDG pattern abolished. 
+MIHO
+(EFF:7 SEP 2023) 10/8/23
+
+
+=== Page 32 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+MIHO
+STANDARD ARRIVAL CHART - INSTRUMENT
+RNAV1KYURI  WEST ARRIVAL
+Note 1 ) DME/DME/IRU or GNSS required.
+2 ) RADAR service required.
+PEPOS
+ 354302.5N
+1324348.1E
+OH763
+ 353230.5N
+1325221.5E
+From PEPOS, to OH763 at or above 4000FT, to KYURI at or above 3500FT.
+Critical DME
+DME GAP
+Inappropriate Navaids
+–
+See AD1.1.6.10.3. Inappropriate NAVAIDs for RNAV1
+OIE : 3NM to KYURI - 2NM to KYURI
+Path
+Descriptor
+Serial
+Number
+IF
+TF
+TF
+Course
+˚M(˚T)
+Turn
+Direction
+Distance
+(NM)
+Altitude
+(FT)
+Speed
+(KIAS)
+Vertical
+Angle
+Navigation
+Specification
+RNAV1
+RNAV1
+RNAV1
+凟
+凟
+凟
+凟
+凟
+凟
+凟
++4000
++3500
+凟
+凟
+凟
+凟
+12.6
+10.6
+-8.3
+-8.3
+-8.3
+001
+002
+003
+凟
+凟
+凟
+PEPOS
+OH763
+KYURI
+Magnetic
+Variation
+Waypoint
+Identifier
+Fly
+Over
+(146.5)
+(146.6)
+凟
+155
+155
+RNAV STAR RWY07RJOH / MIHO
+10.6155˚
+12.6155˚
+3500
+4000
+KYURI
+ 352339.5N
+1325930.6E
+VAR 8˚W 
+VOR/DME
+0FT
+YONAGO
+117.3  YGE
+CH-120X
+ÛÝ1ÛÝ(
+CHANGE : HLDG pattern abolished. 
+RJOH AD2.24-STAR-4
+(EFF:7 SEP 2023) 10/8/23
+
+
+=== Page 33 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+Û
+Û
+Û
+Û
+270°
+180°
+360°
+090°
+EQPT REQUIRED
+DME
+VOR
+MHA 3000
+MAX 230KIAS
+MHA 4000
+MAX 230KIAS
+YGE
+VOR/DME
+GAINA
+D15.0 IYV
+D21.0 IYV
+RJOH / MIHO
+ILS-LOC
+108.95       IYV
+ILS-GP      329.15   
+ILS-DME   CH-26Y
+MIHO  TWR GCA  AVBL
+CALL
+ILS Z or LOC Z RWY25
+10NM
+236.8 - 126.2 
+275.8G MIHO   APP
+MISSED APPROACH
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+GP3.0°
+RDH54Timing not authorized for defining the MAPt.
+DME to IYV
+NM to THR
+0.6
+0.40
+1.0
+0.9
+6.1
+5.9
+15.0
+14.8
+YGE
+MAPt
+(LOC)
+VDP
+(LOC)
+GAINA
+(IF)(FAF)
+700
+(687)MDA
+Û
+Û
+2000
+1962
+2000
+7000
+3000
+6000 8000
+D21.8 YGE ARC
+VOR/DME
+YONAGO
+117.3  YGE
+CH-120X
+5491089
+1759
+161
+MATSUE
+CITY
+1552
+2014
+YONAGO
+MHA 6000
+MAX 230KIAS
+HDGÛ
+HDGÛ
+MHA 8000
+MAX 230KIAS
+CITY
+2464
+5673
+MAPt(LOC)
+Û
+ATMIK(IAF)
+ATMIK
+(IAF)
+R111/
+D21.8 YGE
+ 
+R111
+Û
+Û
+DAIEI(IAF)
+R097/
+D21.8 YGE
+GAINA(IF)
+D15.0 IYV
+DAIEI
+(IAF)
+R097
+R078
+Û
+Û
+ARC
+D21.8
+YGE
+  tfel nrut ,TF005 ot  Û152GDH no bmilC
++'*ÛWRLQWHUFHSWDQGSURFHHG
+via YGE R076 to 3000FT, turn left, 
+direct to YGE VOR/DME within YGE
+10.0
+DME and hold.
+Contact MIHO APP.
+D0.6 IYV
+YUMII(FAF)
+D6.1 IYV
+D27.0
+YGE
+D27.0
+YGE
+Û Û
+Û
+Û
+31002900
+68005400
+MSA 25NM
+YGE
+ 
+MIHO  APP
+120.1 – 125.4
+258.2 – 317.8
+Û
+251Û
+Û
+Û
+(LOC)
+NM to IYV
+$/7Û$3&+3DWK
+FAF
+1962
+4
+1289
+5
+1607
+3
+970
+2
+652
+MAPt
+–
+V$5Û:
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+220 (200) 750
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 20 AD elev. 13
+A
+B
+C
+D
+ÛÝ1ÛÝ(
+350 (337)
+570 (557)
+460 (447)
+530 (517)
+YUMII(FAF): 1(
+YUMII
+0.2
+CHANGE : OBST HGT(141ˠ161).
+NOT TO SCALE
+NOT TO SCALE
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-1
+MIHO
+
+
+=== Page 34 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+10NM
+Max Turning speed
+200KIAS
+Turn initiation within 
+D11.0 YGE
+Turn initiation within 
+D11.0 YGE
++'*Û
+HDGÛ
+RDH54
+Û
+RJOH / MIHO
+ILS-LOC
+108.95       IYV                
+ILS-GP      329.15   
+ILS-DME   CH-26Y
+MIHO   TWR GCA  AVBL
+CALL
+ILS Y or LOC Y RWY25
+236.8 - 126.2 
+275.8G MIHO   APP
+MISSED APPROACH
+1759
+1089 549
+161
+1552
+MATSUE  CITY 
+YONAGO
+CITY  
+Û
+076ÛÛ
+ 
+2464
+5673
+YGE
+MDA
+700
+(687)
+2000MAPt
+(LOC)
+VDP
+(LOC)
+(FAF)
+*3Û
+3000
+Û
+251Û
+251Û
+Û
+D0.6 IYV
+MAPt(LOC)
+D6.1 IYV
+YUMII(FAF)
+2000
+1962
+(LOC)
+NM to IYV
+$/7Û$3&+3DWK
+FAF
+1962
+4
+1289
+5
+1607
+3
+970
+2
+652
+MAPt
+–
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+Timing not authorized for defining the MAPt.
+&OLPERQ+'*Ûto 500FT, turn left  
++'*ÛWRLQWHUFHSWDQGSURFHHG
+via YGE R076 to 3000FT, turn left, 
+direct to YGE VOR/DME within YGE
+10.0
+DME and hold.
+Contact MIHO APP.
+090°
+270°
+180
+°
+360°
+2014
+YUMII(FAF): 353230.28N/1332138.45E
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+220 (200) 750
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 20 AD elev. 13
+A
+B
+C
+D
+350 (337)
+570 (557)
+460 (447)
+530 (517)
+EQPT REQUIRED
+DME
+VOR
+Û Û
+Û
+Û
+31002900
+68005400
+MSA 25NM
+YGE
+V$5Û:
+MIHO  APP
+120.1 – 125.4
+258.2 – 317.8
+DME to IYV
+NM to THR
+0.6
+0.4
+6.1
+5.9
+1.0
+0.90
+VOR/DME
+YONAGO
+117.3  YGE
+CH-120X
+ÛÝ1ÛÝ(
+YUMII
+0.2
+Û
+Û
+MHA 3000
+MAX 230KIAS
+YGE
+VOR/DME
+NOT TO SCALE
+CHANGE : OBST HGT(141ˠ161).
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-2
+MIHO
+
+
+=== Page 35 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+YGE
+Û
+270°
+180
+°
+360°
+090°
+270°
+180
+°
+360°
+090°
++'*Û
+D6.1 IYV
+10NM
+RJOH / MIHO
+ILS-LOC
+108.95       IYV                
+ILS-GP      329.15   
+ILS-DME   CH-26Y
+MIHO   TWR GCA  AVBL
+CALL
+ILS X or LOC X RWY25
+236.8 - 126.2 
+275.8G MIHO  APP
+MISSED APPROACH
+Û
+3000
+7000
+2000
+SEKYY
+(IAF)
+D15.9 YGE
+ ARC 
+1089
+1759
+549
+161
+MATSUE CITY
+Û
+Û
+MHA 4000
+MAX 230KIAS
+GAINA
+D15.0 IYV
+D21.0 IYV
+1552
+YONAGO
+MAPt(LOC)
+MHA 3000
+MAX 230KIAS
+CITY
+Û
+Û
+SEKYY(IAF) 
+            R048/D15.9 YGE 
+GAINA(IF)
+D15.0 IYV 
+Û
+Û
+R048
+R065
+5673
+2014
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 3.0%
+ 
+MINIMA 
+CAT
+CAT䢢䱶䢢
+DA(H)
+220 (200)
+460 (447)
+750
+900
+1000
+1600
+350 (337)
+570 (557)
+530 (517) 2400
+32001400
+MDA(H) RVR/
+CMV
+RVR/
+CMV MDA(H) VIS
+LOC CIRCLING
+THR elev. 20 AD elev. 13
+A
+B
+C
+D
+D0.6 IYV
+RDH 54
+D22.0 YGE
+ARC
+D15.9
+YGE
+MIHO  APP
+120.1 – 125.4
+258.2 – 317.8
+DME to IYV
+NM to THR
+0.6
+0.40
+1.0
+0.9
+6.1
+5.9
+15.0
+14.8
+MAPt(LOC)
+MDA 700
+(687)
+VDP
+(LOC)
+GAINA
+(IF)
+*3Û
+2000
+1962
+(LOC)
+Timing not authorized for defining the MAPt.
+&OLPERQ+'*Ûto 500FT, turn left  
++'*ÛWRLQWHUFHSWDQGSURFHHG
+via YGE R076 to 3000FT, turn left, 
+direct to YGE VOR/DME within YGE
+10.0
+DME and hold.
+Contact MIHO APP.
+HDGÛ
+251Û
+EQPT REQUIRED
+DME
+VOR
+V$5Û:
+NM to IYV
+$/7Û$3&+3DWK
+FAF
+1962
+4
+1289
+5
+1607
+3
+970
+2
+652
+MAPt
+–
+353230.28N/1332138.45E
+Û Û
+Û
+Û
+31002900
+68005400
+MSA 25NM
+YGE
+YUMII(FAF)
+VOR/DME
+YONAGO
+117.3  YGE
+CH-120X
+ÛÝ1ÛÝ(
+(FAF)
+YUMII
+0.2
+YUMII(FAF): 
+Û
+Û
+MHA 3000
+MAX 230KIAS
+YGE
+VOR/DME
+NOT TO SCALE
+NOT TO SCALE
+CHANGE : OBST HGT(141ˠ161).
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-3
+MIHO
+
+
+=== Page 36 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+10NM
+270°
+180
+°
+°
+090°
+360
+MATSUE CITY
+YONAGO
+MAPt
+YGE
+CITY
+1759
+2464
+5673
+MAPt
+MDA 700
+(687)
+VDP
++'*Û
+1766
+VOR RWY25
+YONAGO  VOR/DME
+117.3     YGE 
+CH-120X  
+ÛÝ1ÛÝ(
+MIHO   TWR
+236.8 - 126.2  
+275.8G  
+GCA  AVBL
+CALL
+MIHO  APP 
+161
+Û
+Û Û
+Û
+Û
+Û
+ÛÛ
+RJOH / MIHO
+ 
+MINIMA 
+CAT
+420 (407)
+570 (557)
+460 (447)
+530 (517)
+900
+1000
+1600
+2400
+32001400
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 20 AD elev. 13
+A
+B
+C
+D
+EQPT REQUIRED
+DME
+V$5Û:
+MIHO  APP
+120.1 – 125.4
+258.2 – 317.8
+Û Û
+Û
+Û
+31002900
+68005400
+MSA 25NM
+YGE
+Max Turning speed
+200KIAS
+Turn initiation within 
+D11.0 YGE
+Turn initiation within 
+D11.0 YGE
+D5.0 YGE
+KOREI(FAF)
+KOREI(FAF): 1(
+NM to YGE
+$/7Û$3&+3DWK
+FAF
+1766
+4
+1447
+3
+1129
+MAPt
+–
+DME to/ from YGE
+NM to THR
+0.8
+1.1
+5.0
+5.3
+0
+0.3
+MISSED APPROACH 
+Timing not authorized for defining the MAPt.
+7XUQOHIW+'*ÛWRLQWHUFHSWDQG
+SURFHHGYLD<*(5WR)7
+WXUQOHIWGLUHFWWR<*(925'0(
+within YGE 10.0
+DME and hold.
+&RQWDFW0,+2$33
+2014
+1552
+1089
+549
+3000 YGE
+1800
+12
+492 810
+(FAF)
+KOREI
+0.3
+0
+Û
+Û
+MHA 3000
+MAX 230KIAS
+YGE
+VOR/DME
+NOT TO SCALE
+CHANGE : OBST HGT(141ˠ161).
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-4
+MIHO
+
+
+=== Page 37 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+VOR RWY07
+10NM
+MIHO  TWR GCA  AVBL
+CALL236.8 – 126.2 
+275.8G MIHO  APP
+YGE
+4000
+3000
+RJOH / MIHO
+ 
+MINIMA 
+CAT
+350 (337)
+570 (557)
+530 (517)
+460 (447)1200
+1300
+1400
+1600
+2400
+32001600
+MDA(H) RVR/
+CMV MDA(H) VIS
+CIRCLING
+THR elev. 9 AD elev. 13
+A
+B
+C
+D
+EQPT REQUIRED
+DME
+V$5Û:
+MIHO  APP
+120.1 – 125.4
+258.2 – 317.8
+Û Û
+Û
+Û
+31002900
+68005400
+MSA 25NM
+YGE
+D7.3 YGE
+Û
+Û
+MHA 4000
+MAX 230KIAS
+YGE
+VOR/DME
+NM to YGE
+$/7Û$3&+3DWK
+FAF
+1853
+4
+1116
+3
+479
+5
+1435
+6
+1753
+MAPt
+–
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+Û
+MAPt
+VDP
+SDF
+2200
+(2187) 1200
+(1187) 750
+(737) MDA
+0D[7XUQLQJVSHHG
+200KIAS
+7XUQLQLWLDWLRQZLWKLQ
+D13.0 YGE
+7XUQLQLWLDWLRQZLWKLQ
+D13.0 YGE
+MISSED APPROACH
+&OLPEYLD<*(5WR)7
+WXUQOHIWZLWKLQ<*('0(
+GLUHFWWR<*(925'0(DQG
+KROGDW)7
+&RQWDFW0,+2$33
+7LPLQJQRWDXWKRULzHGIRUGHILQLQJWKH0$3W
+CUPIE(FAF): 352644.84N/1330727.66E
+SDF
+DME to YGE
+NM to THR
+5.3
+3.6
+7.3
+5.6
+10.2
+8.5
+1.7
+0
+1853
+1209
+1089
+1759
+549
+161
+MATSUE CITY
+1552
+YONAGO
+CITY
+2464
+5673
+YONAGO  VOR/DME
+117.3     YGE 
+CH-120X  
+ÛÝ1ÛÝ(
+MAPt
+D1.7 YGE
+CUPIE(FAF)
+7
+798
+2.6
+0.9
+CUPIE
+(FAF)
+NOT TO SCALE
+CHANGE : OBST HGT(141ˠ161).
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-5
+MIHO
+
+
+=== Page 38 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART
+TACAN A
+MIHO  TACAN
+1201       JET
+CH-114X
+ÛÝ1ÛÝ(
+MIHO  TWR
+236.8 - 126.2          
+275.8G
+GCA  AVBL
+CALL     
+MIHO  APP      
+EMERG SAFE ALT 100NM 7700 
+MISSED APPROACH
+Timing not authorized for defining the MAPt.
+Turn left climb to 4000FT on 
++'*ÛWRLQWHUFHSWDQG
+SURFHHGYLD-(75WR
+MINAT and hold.
+Contact MIHO APP.
+      CITY
+MATSUE
+YONAGO
++'*Û
+CITY
+1759
+1089
+161
+1552
+2014
+542
+IF
+FAF
+MAPt
+5673
+Û R107
+R099
+2464
+D17.0 JET ARC 
+MINAT(IAF)
+MHA 4000
+MAX 230KIAS Û
+Û
+D22.0 JET
+D17.0
+JET
+D12.0
+JET
+D9.0 JET
+R081
+1000
+(987)MDA D17.0 JET ARC
+4000
+3300
+MINAT(IAF)
+R081/
+D17.0
+JET
+IF
+FAF
+MAPt Û
+Û
+JET
+RJOH / MIHO
+MINIMA 
+CAT
+780 (767)
+1600
+2400
+3200
+MDA(H) VIS
+CIRCLING
+$'HOHY13
+A
+B
+C
+D
+EQPT REQUIRED
+–
+V$5Û:
+Û Û
+Û
+2900
+68005400
+MSA 25NM
+JET
+MIHO  APP
+120.1 – 125.4
+258.2 – 317.8
+MINIMA with Missed APCH climb gradient of 2.5% are not established.
+Missed APCH climb gradient MNM 5.0%
+FAF: 1(
+Û
+Û
+Û
+10NM
+0.9TEJ ot EMD0 .710.210
+CHANGE : OBST HGT(141ˠ161).
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-6
+MIHO
+
+
+=== Page 39 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+072˚
+3.6
+(063.8˚T)
+072˚
+3.1
+(063.8˚T)
+072˚
+6.1
+(063.7˚T)
+252˚
+072˚
+238˚
+058˚
+MHA 3500
+MAX 230KIAS
+MHA 4000
+MAX 230KIAS
+OH752
+(MATF)YONAGO(YGE)
+(MAHF)
+OH751
+(FAF)
+OH750
+RW07
+(MAPt)
+KYURI
+(IF)
+352339.46N
+1325930.61E
+OH751
+(FAF)
+352620.83N
+1330612.69E
+OH750 352743.38N
+1330938.92E
+RW07
+(MAPt)
+352918.33N
+1331336.57E
+OH752
+(MATF)
+353223.66N
+1332121.76E
+YGE
+(MAHF)
+353004.96N
+1331525.94E
+180˚
+090˚
+360˚
+VAR 8˚W 
+Baro-VNAV not authorized below -10˚C
+MATSUE CITY
+YONAGO CITY
+10NM
+RDH50
+3.00˚
+MIHO  APP
+120.1 – 125.4
+258.2 – 317.8
+MIHO  TOWER GCA  AVBL
+CALL
+MIHO APP
+KYURI
+KYURI
+(IF)
+RNP Z RWY07RJOH / MIHO
+236.8 – 126.2
+275.8G
+1MIN
+(YGE)
+NM to Next Fix
+ALT (3.0˚ APCH Path)
+FAF
+2200
+4
+1332
+5
+1651
+6
+1969
+3
+1014
+NM to THR12.8 6.7 3.6 1.0 0
+2
+695
+1
+–
+MAPt
+–
+6800
+ARP : 352936N/1331421E
+MSA 25NM
+ARP
+OH751
+(FAF)
+KYURI
+(IF)
+072˚
+072˚
+RW07
+(MAPt)
+VDP
+(LNAV)
+OH750
+MDA
+780
+(767)
+2200
+(2187)
+2200
+1205
+3500
+MISSED APPROACH
+Climb to OH752, turn left, direct to 
+YGE and hold at 4000FT.
+Contact MIHO APP.
+MINIMA 
+CAT
+LNAV/VNAV
+DA(H)
+380 (367)380 (371)
+570 (557)
+460 (447)
+530 (517)
+1200
+1400
+1300
+1600
+2400
+32001600
+1200
+1400
+1300
+1600
+MDA(H) RVR/CMVRVR/CMV MDA(H) VIS
+GNILCRICVANL
+THR elev. 9 AD elev. 13
+A
+B
+C
+D
+(SDF)
+(LNAV)
+(SDF)
+   RNP APCH
+1078
+1684
+923
+1552
+2003
+161NOT TO SCALE
+YONAGO
+1MIN
+NOT TO SCALE
+CHANGE : PROC renamed. MNM temperature for Baro-VNAV . Missed APCH for using NAVAID abolished.
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-7
+MIHO
+
+
+=== Page 40 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+INSTRUMENT APPROACH CHART 
+1758
+2465
+814
+1552
+1278
+1480
+596
+5673
+159
+10NM
+072°/1.6
+7.0
+072°
+18.8
+256°
+4.4 297°/2.1
+297°/2.2
+OH752
+(MATF)
+RW07
+RAKDA
+(IAF)
+OH754
+MAX 155KIAS
+UGEPA
+(IF)
+YONAGO(YGE)
+(MAHF)
+OH755
+OH753
+(FAF)
+䢳䢵䢵䤑䢶䢲䢩䣇䢳䢵䢵䤑䢵䢲䢩䣇䢳䢵䢵䤑䢴䢲䢩䣇䢳䢵䢵䤑䢳䢲䢩䣇
+䢵䢷䤑䢶䢲䢩䣐
+䢵䢷䤑䢵䢲䢩䣐
+䢵䢷䤑䢴䢲䢩䣐
+Contour
+Intervals
+AD elev.13
+2000
+1500
+1000
+ 500
+MIHO   APP
+120.1 - 125.4
+258.2 - 317.8
+RNP AR
+RF required.
+MIHO   TOWER
+236.8 - 126.2
+275.8G          
+GCA  AVBL
+CALL
+MIHO  APP
+For uncompensated Baro-VNAV systems, procedure not authorized below -10°C / above 45°C
+VAR 8°W
+RNP Y RWY07(AR)RJOH / MIHOCHANGE : New PROC.
+NOT TO SCALE
+1MIN
+MHA 7000
+MAX 210KIAS RAKDA
+NOT TO SCALE
+MHA 4000
+MAX 230KIAS(YGE)
+YONAGO
+1MIN
+DA(H) RVR/CMV
+A
+B
+C 309(300) 1400
+D- -
+MINIMA       THR elev. 9         AD elev. 13   
+Authorization Required-
+CAT RNP 0.30
+-
+1 0123456789 1 0
+KM
+1012345
+NM OH753(FAF) : 352434.73N/1331435.50E
+090°
+360°
+270°
+180°
+l
+5400 6800
+37002900
+MSA  RW07  25NM
+Þ
+1.6
+RDH 50
+NM to THR
+OH755
+MISSED APPROACH
+T o OH752 on course 072, 
+turn left direct to YGE and 
+hold at 4000FT .
+Contact MIHO APP.
+554
+RAKDA
+(IAF)
+29.0
+RW07
+5.9
+OH754
+8.0 0
+OH753
+(FAF)
+1941
+2600
+UGEPA
+(IF)
+10.2
+3100
+(EFF:7 SEP 2023) 10/8/23
+RJOH AD2.24-IAC-8
+MIHO
+
+
+=== Page 41 ===
+Civil Aviation Bureau,Japan
+AIP Japan RJOH AD2.24-IAC-9
+INSTRUMENT APPROACH CHART 
+Serial
+Number
+Path
+Descriptor
+Fly
+Over
+Magnetic
+Variation
+Turn
+Direction
+Speed
+(KIAS)
+VPA/
+RDH
+(°/FT)
+RNP
+Value
+001 IF - -8.5 - - - -
+002 TF - -8.5 - - - 0.3
+003 TF - -8.5 - - - 0.3
+004 TF - -8.5 - -155 -3.00 0.3
+005
+RF
+Center:
+OHRF1
+r=1.84NM
+- -8.5 R - -3.00 0.3
+006 TF Y -8.5 - - -3.00/50 0.3
+007 CF Y -8.5 - - - 1.0
+008 DF - -8.5 L - - 1.0
+Path Waypoint
+Identifier
+Turn
+Direction
+Maximum
+Altitude
+(FT)
+Speed
+(KIAS)
+RNP
+Value
+Hold RAKDA R FL140 -210
+(-14000) 1.0
+Hold YGE R FL140 -230
+(-14000) 1.0238
+(229.7) -8.5 1.0 (-14000) 4000
+Inbound
+Course
+°M(°T)
+Magnetic
+Variation
+Outbound
+Time
+(MIN)
+Minimum
+Altitude
+(FT)
+208
+(199.9) -8.5 1.0 (-14000) 7000
+YGE 353004.96N / 1331525.94E
+1.6 59
+OH752 072
+(063.9) 7.0 -
+352658.12N / 1331252.91E
+OH752
+353110.12N / 1333824.27E
+352353.68N / 1331709.24E
+OH755
+RW07
+352837.26N / 1331153.73E
+352918.33N / 1331336.57E
+CHANGE : New PROC.
+353223.66N / 1332121.76E
+RF Arc Center Identifier
+OHRF1RAKDA
+UGEPA
+OH753 352434.73N / 1331435.50E
+352513.21N / 1331211.18E
+4.4
+-
+RJOH / MIHO RNP Y RWY07(AR)
+Coding Table
+Waypoint
+Identifier
+Course
+°M(°T)
+Distance
+(NM)
+Altitude
+(FT)
+-
+OH755 -
+UGEPA 256
+(247.3) 18.8 +3100
+OH754 297
+(288.1) 2.1 1941
+OH753 297
+(288.2)
+RW07 072
+(063.9)
+RAKDA - -
+OH754
+2.2 2600
+Waypoint Identifier Coordinates
+Waypoint Coordinates
+Coordinates
+554
+4000YGE -
+MIHO
+(EFF:7 SEP 2023) 10/8/23
+
+
+=== Page 42 ===
+Civil Aviation Bureau,Japan
+AIP Japan
+TRAHC edutitlA gnirotceV muminiMOHIM / HOJR
+VAR 8˚W (2023)
+CENTER凬 353003N/1331413E (RADAR SITE)
+11000
+7000
+5500
+5500
+3500
+4000
+4000
+4000
+5000
+9000
+2500
+3200
+2600
+7000
+4000
+2000
+1500
+4000
+3000
+6000
+30003000
+5000
+11000 7000
+360˚
+335˚ 020˚
+035˚
+050˚
+100˚
+087˚
+110˚
+125˚
+145˚
+205˚
+225˚
+235˚
+242˚
+250˚
+268˚
+290˚
+35NM
+30NM
+40NM
+50NM
+25NM
+15NM
+15NM15NM
+7NM
+3NM
+18NM 10NM
+9NM
+13NM
+30NM
+13NM
+18NM
+8000
+10000
+13000
+16000
+210˚
+CHANGE : VAR. Update	BTN 205°and 210°).
+(EFF:10 AUG 2023) 13/7/23
+RJOH AD2.24-OTHER-1
+MIHO
+

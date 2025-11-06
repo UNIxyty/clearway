@@ -1,0 +1,1453 @@
+=== Page 1 ===
+AIP - Italia
+AD 2 LIBC 1 - 1
+AIRAC effective date 26 DEC 2024
+ENAV - Roma (A13/24)
+LIBC AD 2.1 INDICATORE DI LOCALITÀ E NOME DELL'AEROPORTO
+LIBC AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+LIBC - CROTONE
+LIBC AD 2.2 DATI AMMINISTRATIVI E GEOGRAFICI DELL'AEROPORTO
+LIBC AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordinate ARP
+ ARP coordinates
+38°59'48''N 017°04'45''E
+2 Direzione e distanza dalla città 8.09 NM Sud di Crotone
+ Direction and distance from city 8.09 NM South of Crotone
+3 Elevazione/Temperatura di riferimento
+ Elevation/Reference temperature
+522 FT / 31.8° C
+4 Ondulazione del geoide
+ Geoid undulation
+117.6 FT
+5 Declinazione magnetica/Variazione annuale
+ Magnetic variation/Annual change
+3° E (2010.0) / 4'E
+6 Autorità amministrativa aeroportuale ENAC - DT Calabria
+Aeroporto di Lamezia Terme
+88046 - Lamezia Terme (Catanzaro)
+ Tel: +39 0968 414345/300
+ E-mail: calabria.apt@enac.gov.it
+ Aerodrome administration authority  
+ Gestore aeroportuale S.A.C.A.L. S.P.A. 
+S.S. 106-88841 ISOLA DI CAPO RIZZUTO (KR)
+tel + 39 0962 794801
+e-mail aoc.crv@sacal.it
+ Aerodrome operator  
+ Autorità ATS ENAV S.p.A.
+Centro Aeroportuale Crotone
+Tel: +39 0962 7978010;
+AFIU: tel: +39 0962 7978009; fax +39 0962 791810
+e-mail: ci-crotone@enav.it
+ ATS authority  
+7 Tipo di traffico consentito (IFR/VFR)
+ Types of traffic permitted (IFR/VFR)
+IFR/VFR
+8 Note 1. Codice di riferimento ANNESSO 14 per infrastrutture di volo: 4C
+ Remarks 1. Ref code ANNEX 14 flight infrastructure: 4C
+
+=== Page 2 ===
+AD 2 LIBC 1 - 2
+AIRAC effective date 26 DEC 2024 AIP - Italia
+(A13/24) ENAV - Roma
+LIBC AD 2.3 ORARIO DEI SERVIZI
+LIBC AD 2.3 OPERATIONAL HOURS
+1 Amministrazione aeroportuale 0700-1900 (0600-1800)
+ Aerodrome Administration  
+2 Dogana ed immigrazione Su richiesta con 24 ore di preavviso
+ Customs and immigration On request 24 HR prior notice
+3 Servizio sanitario 0700-1900 (0600-1800)
+ Health and sanitation  
+4 AIS Briefing Office H24 ARO CBO ROMA
+   
+5 ARO H24 ARO CBO ROMA
+   
+6 METEO Briefing Office H24 ARO CBO ROMA
+   
+7 ATS 0700-1900 (0600-1800)
+   
+8 Rifornimento NIL
+ Fuelling  
+9 Handling 0700-1900 (0600-1800)  Aviapartner 0700-1900 (0600-1800)
+ Handling  
+10 Servizi di sicurezza Su richiesta con 24 ore di preavviso
+ Security On request 24 HR prior notice
+11 De-icing NIL
+ De-icing  
+12 Note 1. ARO CBO ROMA: vedi GEN 3.1
+2. AVIAPARTNER HANDLING:
+- Mobile +39348472813
+- Email: crv.handling.ops@aviapartner.aero
+- Voli non schedulati su richiesta 3HR prima
+ Remarks 1. ARO CBO ROMA: see GEN 3.1
+2. AVIAPARTNER HANDLING:
+- Mobile +39348472813
+- Email: crv.handling.ops@aviapartner.aero
+- No scheduled flight on request 3HR before
+LIBC AD 2.4 SERVIZI DI SUPPORTO E ATTREZZATURE
+LIBC AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Attrezzatura di carico e scarico merci Nastro trasportatore, trattorini elettrici
+ Cargo-handling facilities Conveyor belt, electrical tractors
+2 Tipi di carburante/Olio JET A1 / NIL
+ Fuel/Oil types  
+3 Capacità di rifornimento MAX 60000 litri
+ Fuelling capacity MAX 60000 litres
+4 Sistema de-icing NIL
+ De-icing facilities  
+5 Hangar per aeromobili in transito NIL
+ Hangar space for visiting aircraft  
+6 Servizio riparazioni per aeromobili in 
+transito
+NIL
+ Repair facilities for visiting aircraft  
+7 Note NIL
+ Remarks  
+
+=== Page 3 ===
+AIP - Italia
+AD 2 LIBC 1 - 3
+AIRAC effective date 04 SEP 2025
+ENAV - Roma (A09/25)
+LIBC AD 2.5 SERVIZI PER I PASSEGGERI
+LIBC AD 2.5 PASSENGER FACILITIES
+1 Alberghi In prossimità dell'aeroporto ed in città
+ Hotels In the vicinity of the airport and in town
+2 Ristoranti In prossimità dell'aeroporto ed in città
+ Restaurants In the vicinity of the airport and in town
+3 Trasporti Taxi e bus in concomitanza con i voli di linea
+ Transportation Taxi and bus to coincide with scheduled flights
+4 Servizio medico Pronto soccorso, assistenza medica e ambulanza,
+ospedale in Crotone a circa 12 km
+ Medical facilities First aid treatment, medical assistance and ambulance,
+hospital in Crotone town at about 12 km
+5 Banca e ufficio postale NIL
+ Bank and Post office  
+6 Ufficio turistico NIL
+ Tourist office  
+7 Note 1. Bar, tabacchi e rivendita giornali in aeroporto
+ Remarks 1. Bar, tobacconist and newspapers in the airport
+LIBC AD 2.6 SERVIZI DI SOCCORSO E ANTINCENDIO
+LIBC AD 2.6 RESCUE AND FIREFIGHTING SERVICES
+1 Categoria servizio antincendio aeroportuale CAT 7 ICAO
+ Aerodrome category for fire fighting  
+2 Equipaggiamento per il soccorso Conforme CAT 7 ICAO
+ Rescue equipment Compliant with CAT 7 ICAO
+3 Rimozione aeromobili in difficoltà NIL
+ Capability for removal of disabled aircraft  
+4 Note NIL
+ Remarks  
+LIBC AD 2.7 VALUTAZIONE E SEGNALAZIONE DELLE CONDIZIONI DELLA SUPERFICIE DELLA PISTA E PIANO SGOMBERO NEVE
+LIBC AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING, AND SNOW PLAN
+1 Equipaggiamenti di pulitura Aeroporto funzionale in tutte le stagioni dell’anno. Equipaggiamenti per la rimozione
+della neve: non applicabile.
+ Types of clearing equipment Aerodrome serviceable during all seasons of the year. Snow removal equipment: not
+applicable.
+2 Priorità Piste, vie di rullaggio e parcheggio aeromobili
+ Clearance priorities Runway, taxiways and aircraft stands
+3 Uso di materiale per il trattamento della
+superficie dell'area di movimento
+NIL
+ Use of material for movement area surface
+treatment
+NIL
+4 Piste invernali appositamente preparate NIL
+ Specially prepared winter runways NIL
+5 Note 1. Uso di materiali per il trattamento della superficie dell'area di movimento: non
+applicabile.
+2. Piste appositamente preparate per l'inverno: non applicabile.
+3. Rif. AIP AD 1.2.2 e AIC 2/21.
+ Remarks 1. Use of material for movement area surface treatment: not applicable.
+2. Specially prepared winter runways: not applicable.
+3. Ref. AIP AD 1.2.2 and AIC 2/21.
+
+=== Page 4 ===
+AD 2 LIBC 1 - 4
+AIRAC effective date 04 SEP 2025 AIP - Italia
+(A09/25) ENAV - Roma
+LIBC AD 2.8 DATI RELATIVI AI PIAZZALI, ALLE VIE DI RULLAGGIO E ALLA POSIZIONE DEI PUNTI DI CONTROLLO
+LIBC AD 2.8 APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+1 Superficie e resistenza dell'area di
+stazionamento
+ Apron surface and strength
+Identificativo Superficie Resistenza
+Designator Surface Strength
+Apron N - Stands 4-7 CONC PCN 60/R/A/X/T
+Apron S - Stands 1-3 CONC/ASPH PCN 53/R/B/X/T
+2 Larghezza, superficie e resistenza delle
+TWY
+ TWY width, surface and strength
+Identificativo
+della TWY
+Larghezza
+(M)
+Superficie Resistenza
+Designator of
+TWY
+Width (M) Surface Strength
+A 23 M ASPH PCN 53/F/B/W/T
+B 23 M ASPH PCN 53/F/A/W/T
+3 Localizzazione/Elevazione ACL NIL / NIL
+ ACL location/Elevation  
+4 Punto di controllo VOR /INS NIL / NIL
+ VOR/INS checkpoints  
+5 Note NIL
+ Remarks  
+LIBC AD 2.9 GUIDA AI MOVIMENTI A TERRA, SISTEMA DI CONTROLLO E SEGNALETICA
+LIBC AD 2.9 SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND MARKINGS
+1 Segnale di identificazione stand aeromobili,
+linee guida per TWY e sistemi di guida
+per parcheggio a vista negli stand degli
+aeromobili
+NIL
+ 
+ Use of aircraft stand identification sign,
+TWY guide lines and visual docking/parking
+guidance system at aircraft stands
+ 
+2 Illuminazione e segnaletica per RWY e TWY Sono disponibili sulle TWY e sull'Apron segnali con istruzioni d'obbligo e segnali di
+informazione.
+Vedi anche la carta AD in vigore.
+ RWY and TWY markings and lights Mandatory instructions signals and information signals available on TWY and Apron.
+See also AD chart in force.
+3 Barre d'arresto NIL
+ Stop bars  
+4 Note NIL
+ Remarks  
+LIBC AD 2.10 OSTACOLI AEROPORTUALI
+LIBC AD 2.10 AERODROME OBSTACLES
+Nella aree di avvicinamento e decollo
+In approach and take off areas
+Nell’area di circuitazione e all’interno
+dell’aeroporto
+In circling area and at aerodrome
+Note
+Remarks
+1 2 3
+RWY e Area
+interessata
+RWY and
+Area affected
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Markings and Lights
+Coordinate
+Coordinates
+Tipo di ostacolo
+Elevazione
+Segnaletica e Luci
+Obstacle type
+Elevation
+Marking and Lights
+Coordinate
+Coordinates
+ 
+a b c a b  
+NIL NIL NIL NIL NIL NIL
+Vedi AOC in vigore - See AOC in force
+
+=== Page 5 ===
+AIP - Italia
+AD 2 LIBC 1 - 5
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIBC AD 2.11 INFORMAZIONI METEOROLOGICHE
+LIBC AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Ufficio METEO associato
+ Associated MET Office
+ITALY MFU
+2 Orario di servizio
+ Hours of service
+H24
+3 Ufficio responsabile preparazione TAF /
+Periodo di validità
+ Office responsible for TAF preparation /
+Period of validity
+ITALY MFU / 24H
+4 Tipo di previsione per l'atterraggio /
+Intervallo di emissione
+NIL / NIL
+ Type of landing forecast /
+Interval of issuance
+ 
+5 Briefing e consultazione fornita Briefing: ARO CBO ROMA, telefono
+Consultazione: ITALY MFU, telefono
+ Briefing and consultation provided Briefing: ARO CBO ROMA, telephone
+Consultation: ITALY MFU, telephone
+6 Documentazione di volo e
+lingua usata
+Carte, testi in linguaggio chiaro abbreviato / IT/EN
+ Flight documentation and
+language used
+Abbreviated plain language texts, charts / IT/EN
+7 Carte e documentazione disponibili per 
+consultazione
+P, W, SWL
+ Charts and other information available for
+briefing or consultation
+ 
+8 Mezzi aggiuntivi disponibili per 
+l'informazione
+Fax
+ Supplementary equipment available for 
+providing information
+ 
+9 Enti ATS destinatari delle informazioni
+ ATS units provided with information
+Crotone AFIU, Roma ACC
+10 Informazioni climatologiche ed informazioni
+supplementari
+1. ARO CBO ROMA: vedi GEN 3.1
+2. ITALY MFU: vedi GEN 3.5
+3. Nubi operativamente significative: sono ritenute operativamente significative
+le  nubi con altezza della base al di sotto di 8500ft e cumulonembi o cumuli
+torreggianti con base di qualsiasi altezza
+ Climatological information and additional
+information
+1. ARO CBO ROMA: see GEN 3.1
+2. ITALY MFU: see GEN 3.5
+3. Clouds of operational significance: clouds with base height below 8500ft and
+cumulonimbus or towering cumulus with any base height are considered of
+operational significance
+
+=== Page 6 ===
+AD 2 LIBC 1 - 6
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIBC AD 2.12 CARATTERISTICHE FISICHE DELLE PISTE
+LIBC AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Coordinate THR
+THR coordinates
+Coordinate RWY END
+RWY END Coordinates
+Designazione
+RWY
+Designation
+QTE
+Rilevamento
+Vero
+True Bearing
+Dimensioni RWY
+Dimension of RWY
+(M)
+Resistenza e superficie di
+RWY
+Strength and surface of 
+RWY
+Ondulazione
+Geoide THR
+THR Geoid Undulation
+THR ELEV /
+MAX TDZ ELEV
+della RWY per APCH di
+precisione
+THR ELEV /
+MAX TDZ ELEV 
+of precision APCH RWY
+1 2 3 4 5 6
+17 NIL 2000 x 45
+PCN 53/F/B/W/T
+ASPH
+39°00'16.55''N
+017°04'41.91''E
+38°59'18.19''N
+017°04'56.63''E
+117.6  FT
+520.5  FT / 521.0 FT
+35 NIL 2000 x 45
+PCN 53/F/B/W/T
+ASPH
+38°59'18.19''N
+017°04'56.63''E
+39°00'21.82''N
+017°04'40.58''E
+117.7  FT
+514.0  FT / 518.0 FT
+Designazione
+RWY
+Designation
+Pendenza di 
+RWY-SWY 
+Slope
+Dimensioni SWY
+SWY dimension
+(M)
+Dimensioni CWY
+CWY dimension 
+(M)
+Dimensioni strip
+strip dimension
+(M)
+Dimensioni RESA
+RESA dimension
+(M)
+1 7 8 9 10 11
+17 - 0.11% NIL 85 x 150 2120 x 280 90 x 90
+35 + 0.11% NIL 110 x 150 2120 x 280 90 x 90
+Designazione
+RWY
+Designation
+OFZ
+Obstacle free zone
+Note
+Remarks
+1 12 13
+17 NIL
+1) DTHR 166 m
+2) Recinzione aeroportuale situata al margine Sud-ovest della RWY strip/CWY /
+ Aerodrome fence located at the southwest edge of RWY strip/CWY
+35 NIL
+1) Recinzione aeroportuale situata al margine Sud-ovest della RWY strip /
+ Aerodrome fence located at the southwest edge of RWY strip
+LIBC AD 2.13 DISTANZE DICHIARATE
+LIBC AD 2.13 DECLARED DISTANCES
+Designazione RWY
+RWY Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+1 2 3 4 5
+17 2000 2085 2000 1834
+35 2000 2110 2000 2000
+NOTE NIL
+REMARKS  
+
+=== Page 7 ===
+AIP - Italia
+AD 2 LIBC 1 - 7
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIBC AD 2.14 LUCI DI AVVICINAMENTO E DI PISTA
+LIBC AD 2.14 APPROACH AND RUNWAY LIGHTING
+AVVICINAMENTO
+APPROACH
+THR VASIS PAPI MEHT
+(M)
+TDZRWY
+ID
+Tipo
+Type
+Lunghezza
+Length
+(M)
+Intensità
+Intensity
+Colore
+Colour
+Lunghezza
+Length
+(M)
+1 2.1 2.2 2.3 3 4.1 4.2 4.3 5
+17 NIL NIL NIL Wing bar
+ G
+NIL 3°
+lato sinistro
+left side
+18.0 NIL
+35 NIL NIL NIL THR
+ G
+NIL 3° 
+lato sinistro
+left side
+18.0 NIL
+ASSE CENTRALE PISTA
+RCL
+BORDO PISTA
+RWY EDGE
+RWY
+ID
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+Lunghezza
+Length
+(M)
+Spaziatura
+Spacing
+(M)
+Colore
+Colour
+Intensità
+Intensity
+1 6.1 6.2 6.3 6.4 7.1 7.2 7.3 7.4
+17 NIL NIL NIL NIL 180
+420
+780
+600
+60
+60
+60
+60
+Y/R
+W/Y
+W
+W/Y
+VRB
+VRB
+VRB
+VRB
+35 NIL NIL NIL NIL 600
+780
+420
+180
+60
+60
+60
+60
+W/Y
+W
+W/Y
+Y/R
+VRB
+VRB
+VRB
+VRB
+FINE PISTA
+RWY END
+SWYRWY
+ID
+Colore
+Colour
+Lunghezza
+Length
+(M)
+Colore
+Colour
+RTIL CGL Note
+Remarks
+1 8 9.1 9.2 10 11 12
+17 R NIL NIL NIL Flash bianco
+in linea con
+le ali di soglia
+white flash
+lined up with
+wing bars
+NIL
+35 R NIL NIL NIL Flash bianco in
+linea con soglia
+35/fine pista 17
+white flash
+lined up with
+THR 35/
+RWY 17 end
+NIL
+
+=== Page 8 ===
+AD 2 LIBC 1 - 8
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIBC AD 2.15 ILLUMINAZIONE AGGIUNTIVA, ALIMENTAZIONE SECONDARIA
+LIBC AD 2.15 OTHER LIGHTING AND SECONDARY POWER SUPPLY
+1 Localizzazione ABN/IBN, caratteristiche e
+orari
+Coordinate ABN: 38°59'44''N   017°04'34''E
+Caratteristiche: ABN ubicazione: sulla TWR ruotante con luci alternate bianco/verde
+ ABN/IBN location, characteristics and hours
+of operation
+ABN Coordinates: 38°59'44''N   017°04'34''E
+Characteristics: ABN location: on the TWR revolving with white/green alternate
+lights
+2 Localizzazione LDI e luci
+Localizzazione anemometro e luci
+LDI: NIL
+Anemometro:
+1) 323 m dopo THR 17, 165 m lato sinistro RCL. Illuminato
+2)  330 m dopo THR 35, 165 m lato destro RCL. Illuminato
+ LDI location and lights 
+Anamometer location and lights
+LDI: NIL
+Anemometer:
+1) 323 m after THR 17, 165 m left side RCL. Lighted
+2) 330 m after THR35, 165 m right side RCL. Lighted
+3 Illuminazione bordo e asse centrale TWY Bordo TWY
+ TWY edge and center line lighting TWY edge
+4 Alimentatore secondario/Tempo di 
+intervento
+GEIA/8 sec
+ Secondary power supply/Switch over time  
+5 Note 1. Manica a vento illuminata
+2. HR ABN/IBN: come le altre luci di aerodromo
+ Remarks 1. Lighted wind direction indicator 
+2. HR ABN/IBN:as the other aerodrome lights
+LIBC AD 2.16 AREA DI ATTERRAGGIO ELICOTTERI
+LIBC AD 2.16 HELICOPTER LANDING AREA
+1 Posizione NIL
+ Position  
+2 Elevazione NIL
+ Elevation  
+3 Dimensioni, superficie, resistenza, 
+segnaletica
+NIL
+ Dimensions, surface, strength, marking  
+4 Orientamento NIL
+ Bearing  
+5 Distanze dichiarate NIL
+ Declared distances  
+6 Luci NIL
+ Lighting  
+7 Note NIL
+ Remarks  
+
+=== Page 9 ===
+AIP - Italia
+AD 2 LIBC 1 - 9
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIBC AD 2.17 SPAZIO AEREO PER I SERVIZI DI TRAFFICO AEREO
+LIBC AD 2.17 AIR TRAFFIC SERVICES AIRSPACE
+Designatore e limiti laterali
+Designation and
+lateral limits
+Limiti
+verticali
+Vertical
+limits
+Classificazione
+dello spazio aereo
+Airspace 
+classification
+Nominativo
+dell'unità ATS
+Lingua
+ATS unit call sign 
+Language
+Altitudine di
+transizione
+Transition
+altitude
+Note
+Remarks
+1 2 3 4 5 6
+Crotone ATZ
+Circular area centered on
+38°59'48"N 017°04'45"E
+within a 6.0 NM radius.
+2000 FT
+AMSL
+G
+Crotone
+Aerodrome INFO
+EN/IT
+6000 FT
+1) WI Crotone CTR
+2) Zona radio obbligatoria.
+Vedi ENR 2.2/Radio
+mandatory zone. See ENR 2.2
+  (RMZ)
+LIBC AD 2.18 SERVIZI DI COMUNICAZIONE PER I SERVIZI DI TRAFFICO AEREO
+LIBC AD 2.18 AIR TRAFFIC SERVICES COMMUNICATION FACILITIES
+Servizio
+Service
+Nominativo
+Call sign
+Frequenza (MHZ)
+Frequency (MHZ)
+Orario
+Operational hours
+Note
+Remarks
+1 2 3 4 5
+Emergenza
+Emergency
+NIL 121.500 H24
+NIL
+APP Roma Radar 118.800 H24 NIL
+APP Roma Radar 133.250 Vedi note/see remarks 1) A discrezione ATC/ATC discretion
+AFIS Crotone Aerodrome INFO CH 119.105 0700-1900 (0600-1800)
+1) Spaziatura 8.33 KHz/8.33 KHz
+channel spacing
+
+=== Page 10 ===
+AD 2 LIBC 1 - 10
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+LIBC AD 2.19 RADIOASSISTENZE ALLA NAVIGAZIONE E ALL'ATTERRAGGIO
+LIBC AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo di 
+radioassistenza
+Type of aid
+CAT di/of ILS
+(VAR ILS/
+VOR)
+ID FREQ Orario
+Operational
+hours
+Coordinate
+antenna
+Antenna site
+coordinates
+(WGS84)
+Elevazione 
+antenna 
+DME
+Elevation 
+of DME 
+antenna
+Copertura operativa
+nominale
+Limitazioni
+Designated operational 
+coverage
+Limitations
+Note
+Remarks
+1 2 3 4 5 6 7 8
+VDF
+ 
+Crotone
+Gonio
+Homer
+NIL
+0500-2100
+(0400-2000)
+38°59'35.8''N
+017°04'59.8''E
+NIL
+limitazioni a/limitations at 30
+NM
+260°/320° MRA 6000 FT
+320°/260° MRA 2000 FT
+Disponibile su richiesta
+sulla frequenza di
+emergenza e sulla
+frequenza AFIS./
+Available on request on
+emergency and AFIS
+frequency.
+VORTAC
+(3° E-2010.0)
+CDC
+117.30
+MHZ
+CH 120X
+VOR H24
+TACAN H24
+VOR
+38°45'21.1''N
+016°22'08.9''E
+TACAN
+38°45'21.1''N
+016°22'08.9''E
+998 M
+AMSL
+200 NM/60000 FT
+limitazioni a/limitations at 40
+NM
+060°/150° MRA 4500 FT
+150°/220° MRA 9500 FT
+220°/330° MRA 4500 FT
+330°/060° MRA 7500 FT
+1) MAINT:
+Primo e terzo FRI di ogni
+mese / first and third FRI
+each month: 0700-0900
+(0600-0800)
+VOR/DME
+(4° E-2020.0)
+CRN
+117.10
+MHZ
+CH 118X
+VOR H24
+DME H24
+VOR
+38°59'46.0''N
+017°04'59.0''E
+DME
+38°59'46.0''N
+017°04'59.4''E
+167 M
+AMSL
+150 NM/60000 FT
+limitazioni a/limitations at 40
+NM
+120°/270° MRA 6000 FT
+270°/350° MRA 10000 FT
+350°/120° MRA 3000 FT
+1) MAINT:
+Primo MON di ogni
+mese / first MON
+each month: 0800-0900
+(0700-0800)
+DVOR/DME
+(3° E-2010.0)
+LMT
+112.50
+MHZ
+CH 72X
+DVOR H24
+DME H24
+DVOR
+38°54'16.0''N
+016°15'56.0''E
+DME
+38°54'16.4''N
+016°15'56.1''E
+24 M
+AMSL
+25 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+100°/180° MRA 8000 FT
+180°/230° MRA 4000 FT
+230°/300° MRA 2000 FT
+300°/100° MRA 12000 FT
+1) MAINT: terzo THU di
+ogni mese / third THU
+each month 0800-0930
+(0700-0830)
+DVOR/DME
+(4° E-2020.0)
+RCA
+111.00
+MHZ
+CH 47X
+DVOR H24
+DME H24
+DVOR
+38°04'35.7''N
+015°38'43.0''E
+DME
+38°04'35.7''N
+015°38'42.5''E
+26 M
+AMSL
+Settore/sector 000°/315°:
+40 NM/25000 FT
+Settore/sector 315°/360°:
+80 NM/25000 FT
+limitazioni a/limitations at 25
+NM
+060°/170° MRA 15000 FT
+170°/230° MRA 5000 FT
+230°/060° MRA 9000 FT
+1) MAINT:
+Primo THU di ogni mese/
+first THU each month:
+1300-1600 (1200-1500)
+
+=== Page 11 ===
+AIP - Italia
+AD 2 LIBC 1 - 11
+AIRAC effective date 18 APR 2024
+ENAV - Roma (A04/24)
+LIBC AD 2.20 REGOLAMENTI LOCALI DI AEROPORTO
+LIBC AD 2.20 LOCAL AERODROME REGULATIONS
+1 Uso preferenziale delle piste 1 Runway preferential use
+NIL NIL
+2 Apron 2 Apron
+Ordinato movimento degli aeromobili sui piazzali
+L’ordinato movimento degli aeromobili sui piazzali è assicurato in
+collaborazione con ENAV S.p.A. e il gestore aeroportuale, in accordo
+alle disposizioni del Codice della Navigazione (Articolo 691bis e 705)
+con le seguenti modalità:
+Orderly movement of aircraft on aprons
+Orderly movement of aircraft on the aprons is assured in cooperation
+with ENAV S.p.A. and the aerodrome operator, according to Italian Air
+Navigation Law provisions (Articles 691bis and 705) as follows:
+1. Orario di servizio
+secondo l'orario di servizio ATS
+2. Nominativo di chiamata e frequenza
+• Crotone Information 119.105 MHz
+3. Area di applicazione
+Apron N e Apron S
+1. Operational hours
+in accordance with ATS service hours
+2. Call sign and frequency
+• Crotone Information 119.105 MHz
+3. Application area
+Apron N and Apron S
+4. Servizi forniti
+a. aeromobili in partenza:
+• istruzioni per il push-back e/o il rullaggio
+b. aeromobili in arrivo:
+• istruzioni per il rullaggio
+• assegnazione degli stand
+c. follow-me:
+l'assistenza al follow-me è fornita in caso di necessità o su
+richiesta del pilota
+d. marshalling:
+il servizio di marshalling è obbligatorio per tutti gli aerei in arrivo
+e in partenza
+4. Services provided
+a. departing aircraft:
+• Push-back and/or taxiing instructions
+b. arriving aircraft:
+• taxiing instructions
+• stands allocation
+c. follow-me:
+follow-me assistance is provided in case of necessity or on pilot’s
+request
+d. marshalling:
+marshalling service is mandatory for all arriving and departing
+aircraft
+5. Limitazioni/regolamentazioni sui piazzali
+Aerei di stato e militari e voli ospedalieri operati da aerei
+militari, voli di stato, voli BAT e controlli in volo sono esentati
+dalla comunicazione da parte del gestore aeroportuale e possono
+autonomamente dichiarare di essere pronti a Crotone Informazioni.
+5. Limitations/regulations on aprons
+State and military aircraft and hospital flights operated by military
+aircraft, state flights, BAT flights and flight checks are exempted
+from the ‘Aircraft ready’ communication by aerodrome operator and
+may autonomously declare to be ready to Crotone Information.
+NOTA
+Lo stato ‘aircraft ready’ significa:
+• porte e stive sono chiuse
+• documentazione obbligatoria consegnata all’handler
+•  Aircraft Safe Area è libera da ostacoli,
+veicoli, equipaggiamenti e persone
+• aeromobile completamente pronto al rullaggio
+REMARK
+‘Aircraft ready’ status means:
+• aircraft doors and holds closed
+• compulsory documentation provided to handler
+• Aircraft Safe Area clear from obstacles, vehicles, equipment,
+and ground personnel;
+• aircraft fully ready to taxi
+6. Movimentazione degli aeromobili sui piazzali
+NIL
+7. Piazzale a regolamentazione speciale
+NIL
+6. Aircraft movement on aprons
+NIL
+7. Apron subject to special regulation
+NIL
+3 Norme per l’utilizzo delle vie di rullaggio 3 Special rules for taxiway use
+NIL NIL
+4 Procedure applicabili agli aeromobili in condizioni di visibilità
+ridotta (AWO)
+4 Aircraft procedures in reduced visibility conditions (AWO)
+1. Criteri per l’attivazione delle LVP
+Le procedure di bassa visibilità (LVP) non sono disponibili
+2. Utilizzo delle piste
+NIL
+1. Criteria for initiation of LVP
+Low Visibility Procedures (LVP) are not available
+2. Runway operations
+NIL
+3. Minime operative di aeroporto
+Non sono consentite operazioni di avvicinamento e atterraggio IFR
+con valori di visibilità inferiori a 1500m.
+3. Aerodrome operating minima
+IFR approach and landing operations are not allowed with visibilty
+values less than 1500m.
+
+=== Page 12 ===
+AD 2 LIBC 1 - 12
+AIRAC effective date 18 APR 2024 AIP - Italia
+(A04/24) ENAV - Roma
+Non sono permesse operazioni di decollo IFR con valori di visibilità
+inferiori a 1500m.
+Atterraggio e decollo per operazioni VFR in conformità con le
+disposizioni ENAC.
+IFR take-off operations are not allowed with visibilty values less than
+1500m.
+Landing and take-off for VFR operation in compliance with ENAC
+provisions.
+4. Attività di addestramento
+Le attività di addestramento non sono consentite durante le AWO
+5. Movimentazione al suolo
+Durante le AWO nell'area di movimento è consentita una sola
+operazione di aeromobile alla volta
+6. Contingencies
+NIL
+4. Training activities
+Training activities are not allowed during AWO
+5. Ground Movement
+During AWO in movement area only one aircraft operation at a time
+is allowed
+6. Contingencies
+NIL
+7. Avaria radio in area di manovra
+Ogni qualvolta un aeromobile o veicolo che operi sull'area di
+manovra si trovi in una situazione di avaria radio dovrà operare
+come segue:
+• aeromobili in partenza:
+l’aeromobile procederà lungo la via di rullaggio concordata fino
+alla posizione di attesa in pista e aspetterà che l'auto del follow-
+me lo riporti allo stand
+• aeromobili in arrivo:
+l’aeromobile libererà la pista e aspetterà l'auto del follow-me per
+raggiungere lo stand.
+7. Radio failure in the manoeuvring area
+whenever an aircraft, moving in the movement area, suffers a radio
+failure it shall do the following:
+• departing aircraft:
+the aircraft will proceed along the agreed taxiway up to runway
+holding position and will wait for the follow-me car to return back
+to the stand
+• arriving aircraft:
+the aircraft will clear the runway and will wait the follow-me car
+to reach the stand.
+5 Operazioni per l’utilizzo della pista nel tempo strettamente
+necessario
+5 Special operational practice for minimum RWY occupancy
+NIL NIL
+6 Restrizioni locali ai voli 6 Local flight restrictions
+Le manovre di turn-back sono consentite solo in corrispondenza delle
+THR 17/35
+Turn-back manoeuvres allowed only on THR 17/35
+7 Disposizioni per gli aeromobili dell’aviazione generale 7 Provisions for general aviation aircraft
+NIL NIL
+8 Avaria radio sull’area di manovra 8 Radio failure on manoeuvring area
+NIL NIL
+LIBC AD 2.21 PROCEDURE ANTIRUMORE
+LIBC AD 2.21 NOISE ABATEMENT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Uso delle piste 2 Uso delle piste
+NIL NIL
+2.1 Partenze 2.1 Departures
+NIL NIL
+2.2 Arrivi 2.2 Arrivals
+NIL NIL
+2.3 Restrizioni notturne 2.3 Night restrictions
+NIL NIL
+3 Restrizioni al suolo 3 Ground restrictions
+3.1 Spinta inversa 3.1 Reverse
+NIL NIL
+3.2 APU 3.2 APU
+NIL NIL
+3.3 Prove Motori 3.3 Engine run ups
+NIL NIL
+4 Attività addestrativa 4 Training activity
+
+=== Page 13 ===
+AIP - Italia
+AD 2 LIBC 1 - 13
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+NIL NIL
+LIBC AD 2.22 PROCEDURE DI VOLO
+LIBC AD 2.22 FLIGHT PROCEDURES
+1 Generalità 1 General
+NIL NIL
+2 Procedure per i voli IFR 2 Procedures for IFR flights
+2.1 Informazioni generali 2.1 General information
+A causa delle Deviazioni esistenti (vedi Tabella 23.2), come misure di
+mitigazione dei rischi, vigono i seguenti limiti operativi:
+Due to the existing deviations (see table 23.2), the following
+operational limits apply as risk mitigation measures:
+2.1.1. minime operative aeroportuali per avvicinamenti strumentali
+RWY 17 e RWY 35: le relative minime verranno incrementate del 20
+per cento.
+2.1.1. AD operating minima for instrument approach RWY 17 and RWY
+35: related minima will be increased by 20 percent.
+2.1.2. minime operative aeroportuali per il circling di avvicinamento:
+minime di visibilità pubblicate incrementate del 20 per cento. Ceiling
+1000 ft o ceiling pubblicato, se superiore. I valori sopra indicati
+dovranno essere superiori a qualsiasi altro valore pubblicato
+2.1.2. AD operating minima for circling approach: published visibility
+minima increased by 20 percent. Ceiling 1000 ft or published ceiling
+if higher.
+The above values shall be higher than any other published value
+2.1.3. limitazioni di vento: sarà applicata una riduzione del 30 per
+cento rispetto alla massima componente dimostrata di vento al
+traverso pubblicata sul Manuale di Volo dell’Aeromobile (AFM) per ogni
+tipo di aeromobile. I valori sopra indicati dovranno essere inferiori
+rispetto al più basso valore pubblicato sulle tavole di avvicinamento e/
+o ogni altro valore pubblicato
+2.1.3. wind limitations: it shall be applied a 30 percent reduction to
+the maximum demonstrated crosswind component published on the
+Aircraft Flight Manual (AFM) for each type of aircraft. The above values
+shall be lower than the lowest value published on the approach plates
+and/or any other published value
+2.1.4. minime operative aeroportuali per il decollo: visibilità non
+inferiore a 1500 m
+2.1.4. AD operation minima for take-off: visibility not less 1500 m
+NOTA
+I dati pubblicati si riferiscono al Manuale Operativo adottato
+dai vettori o dal comandante
+REMARK
+Published data are referred to Operations Manual adopted by
+aircraft operators or used by the pilot in command
+2.2 Arrivi 2.2 Arrivals
+2.2.1 Procedure di entrata 2.2.1 Entry procedures
+Descrizione delle STAR: Vedi Tabella 24 STAR description: See Table 24
+2.2.2 Procedure di attesa/discesa/mancato avvicinamento 2.2.2 Holding/approach/missed approach procedures
+NIL NIL
+2.2.3 Controllo delle velocità 2.2.3 Speed control
+NIl NIL
+2.2.4 Procedure di radio-avaria 2.2.4 Radio-failure
+NIL NIL
+2.3 Partenze 2.3 Departures
+2.3.1 Informazioni generali 2.3.1 General information
+NIL NIL
+2.3.2 Procedure per la messa in moto 2.3.2 Start-up procedures
+NIL NIL
+2.3.3 Procedure di uscita 2.3.3 Exit procedures
+Procedure di salita iniziale e SID: Vedi Tabella 24 Initial Climb procedures and SID: See Table 24
+2.3.4 Controllo delle velocità 2.3.4 Speed control
+NIL NIL
+3 Procedure radar 3 Radar procedures
+3.1 Informazioni generali 3.1 General information
+NIL NIL
+
+=== Page 14 ===
+AD 2 LIBC 1 - 14
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+3.2 Caratteristiche operative 3.2 Operational characteristics
+3.2.1 Uso del radar nel Servizio di Controllo di Aerodromo 3.2.1 Use of radar in Aerodrome Control Service
+NIL NIL
+3.2.2 Uso del radar per i movimenti di superficie (SMR) 3.2.2 Use of radar for surface movements (SMR)
+NIL NIL
+3.3 Caratteristiche tecniche 3.3 Technical characteristic
+NIL NIL
+3.4 Radar avaria 3.4 Radar failure
+NIL NIL
+4 Procedure per i voli VFR 4 Procedures for VFR flights
+4.1 Informazioni generali 4.1 General information
+Vedere ENR 6.3-13 See ENR 6.3-13
+4.2 Attività di circuito 4.2 Circuit activity
+NIL NIL
+4.3 Arrivi 4.3 Arrivals
+NIL NIL
+4.4 Partenze 4.4 Departures
+NIL NIL
+4.5 Sorvoli 4.5 Overflying
+NIL NIL
+4.6 VFR Speciale 4.6 Special VFR
+NIL NIL
+4.7 VFR notturno 4.7 VFR/N
+NIL NIL
+4.8 Attività addestrativa 4.8 Training activity
+NIL NIL
+5 LVP 5 LVP
+NIL NIL
+LIBC AD 2.23 INFORMAZIONI AGGIUNTIVE
+LIBC AD 2.23 ADDITIONAL INFORMATION
+1 PROCEDURE CONTINGENCY PER LE OPERAZIONI DI VOLO
+IN PRESENZA DI NUBE DI CENERE VULCANICA STROMBOLI
+1 FLIGHT CONTINGENCY PROCEDURES IN CASE OF
+STROMBOLI VOLCANIC ASH CLOUD
+(Riferimento Circolare ENAC GEN-09)
+Allo scopo di prevenire gli effetti pregiudizievoli alla sicurezza delle
+operazioni degli aeromobili da e per l'aeroporto di Crotone, derivanti
+dalla presenza della nube di cenere vulcanica che fuoriesce da
+Stromboli in fase eruttiva, sono state implementate le procedure
+operative di contingency di seguito riportate.
+Tali procedure rispettano i principi fissati dalla circolare ENAC in
+riferimento.L'attivazione di queste procedure, quando applicabile viene
+effettuata a mezzo NOTAM.
+(Ref. ENAC Circular GEN-09)
+In order to prevent dangerous effects on the safety of operations of
+aircraft to/from Crotone aerodrome, due to the presence of
+volcanic ash cloud during the eruption of Stromboli , the following
+contingency procedure have been implemented.
+These procedures are mainly based with due respect of principles
+established in the referred ENAC circular.
+Such procedures, when applicable, are activated by NOTAM..
+1.1 SUDDIVISIONE DELLO SPAZIO AEREO 1.1 DIVISION OF AIRSPACE
+SUDDIVISIONE DELLO SPAZIO AEREO
+Lo spazio aereo all'interno del quale verranno effettuate le analisi dei
+fenomeni vulcanici ai fini della fornitura dei Servizi del Traffico Aereo
+viene descritto in ENR 2.1.1.4.3 ROMA CTA
+The airspace within which the vulcanic phenomena will be analysed
+for the provision of Air Traffic Services is described in ENR 2.1.1.4.3
+ROMA CTA
+1.2 LIMITAZIONI OPERATIVE 1.2 OPERATIONAL LIMITATIONS
+Qualora la nube interessi i settori identificati e permanga all'interno
+di essi:
+If the ash cloud affects and remains within the identified sector:
+
+=== Page 15 ===
+AIP - Italia
+AD 2 LIBC 1 - 15
+AIRAC effective date 07 AUG 2025
+ENAV - Roma (A08/25)
+a. Nube nel SETTORE SC1    
+SOSPENDERE LE SEGUENTI PROCEDURE:
+a. Ash cloud in SECTOR SC1
+FOLLOWING PROCEDURE SUSPENDED:
+LINK ROUTES RWY 17/35: TUTTE LINK ROUTES RWY 17/35: ALL
+STAR RWY 17/35
+LMT 4A
+LMT 4B
+CDC 4A
+CDC 3E
+STAR RWY 17/35
+LMT 4A
+LMT 4B
+CDC 4A
+CDC 3E
+STAR RNP1/RNAV1 RWY 17
+ARBUM 1V
+BAGIX 1V
+CDC 1V
+STAR RNP1/RNAV1 RWY 17
+ARBUM 1V
+BAGIX 1V
+CDC 1V
+STAR RNP1/RNAV1 RWY 35
+ARBUM 1T
+BAGIX 1T
+CDC 1T
+STAR RNP1/RNAV1 RWY 35
+ARBUM 1T
+BAGIX 1T
+CDC 1T
+SID RWY 17
+APVAR 9G
+CDC 7G
+SID RWY 17
+APVAR 9G
+CDC 7G
+SID RWY 35
+APVAR 9D
+CDC 7D
+SID RWY 35
+APVAR 9D
+CDC 7D
+Holding
+LMT VOR/DME
+Holding
+LMT VOR/DME
+b. Nube nel SETTORE SC2:
+Tutte le ICP/SID, IAC, Holding e STAR SOSPESE
+b. Ash cloud in SECTOR SC2:
+All ICP/SID, IAP, Holding and STAR SUSPENDED
+2 DOCUMENTI DI AZIONE E ACCETTAZIONE DELLA
+DEVIAZIONE (DAAD), CONDIZIONI SPECIALI (SC) E LIVELLI
+DI SICUREZZA EQUIVALENTE (ELOS)
+2 DEVIATION ACCEPTANCE AND ACTION DOCUMENTS
+(DAAD), SPECIAL CONDITIONS (SC) AND EQUIVALENT LEVEL
+OF SAFETY (ELOS)
+Numero di riferimento Descrizione
+DAAD.LIBC.001
+La configurazione di entrambi i
+RWY turn pad, il marking d'asse
+dei turn pad e le corrispondenti
+luci di bordo non sono pienamente
+conformi ai
+requisiti di norma.
+Rif. CS ADR-DSN.B.095 - Runway
+turn pad .
+Rif. CS ADR-DSN.L.565 Runway
+turn pad marking
+Rif. CS ADR-DSN.M.720 -Taxiway
+edge lights
+DAAD.LIBC.002
+Nella RWY Strip sono presenti
+pozzetti chiusini non pienamente
+conformi ai requisiti di norma.
+Rif. CS ADR-DSN.B.140 - Strength
+of runway shoulders.
+Rif. CS ADR-DSN.B.190 - Strength
+of runway strip
+DAAD.LIBC.003
+Sul lato ovest in testata 35, una
+porzione limitata della strip di
+pista risulta esterna al sedime
+aeroportuale.
+La recinzione aeroportuale
+costituisce un oggetto interno alla
+Strip / clearway.
+Rif. CS ADR-DSN.B.160 Width of
+runway strip.
+Rif. CS ADR-DSN.B.165 Objects on
+runway strips.
+Rif. CS ADR-DSN.B.195 Clearways
+Reference number Description
+DAAD.LIBC.001
+Runway Both turn pads
+configuration, the axis marking
+of the turn pad and the
+corresponding edge lights do not
+fully comply with the standard
+requirements.
+Ref. CS ADR-DSN.B.095 - Runway
+turn pad.
+Ref. CS ADR-DSN.L.565 - Runway
+turn pad marking
+Ref. CS ADR-DSN.M.720 -Taxiway
+edge lights
+DAAD.LIBC.002
+Manhole covers in the RWY strip do
+not fully comply with the standard
+requirements.
+Ref. CS ADR-DSN.B.140 -
+Strength of runway shoulders.
+Ref. CS ADR-DSN.B.190 -
+Strength of runway strip.
+DAAD.LIBC.003
+On the west side at RWY head 35,
+a limited portion of the runway
+strip is external to the perimeter
+of the airport.
+The aerodrome fence is an object
+in-side the Strip / clearway.
+Ref. CS ADR-DSN.B.160 Width of
+runway strip.
+Ref. CS ADR-DSN.B.165 Objects
+on runway strips.
+Ref. CS ADR-DSN.B.195
+Clearways
+
+=== Page 16 ===
+AD 2 LIBC 1 - 16
+AIRAC effective date 07 AUG 2025 AIP - Italia
+(A08/25) ENAV - Roma
+Numero di riferimento Descrizione
+DAAD.LIBC.004
+La configurazione degli stands
+e la segnaletica dell'Apron Sud
+non sono conformi ai requisiti di
+norma.
+Gli Information Marking non sono
+conformi alla normativa.
+Rif. CS ADR-DSN.E.365 Clearance
+distances on air-craft stands (a)
+(b)
+Rif. CS ADR-DSN.L.590 Aircraft
+stand marking
+(c)(d)
+Rif. CS ADR-DSN.L.595 Apron
+safety lines (b)
+Rif. CS ADR-DSN.L.610
+Information marking
+DAAD.LIBC.005
+E' presente un'unica manica a
+vento in posizione quasi centrale
+all'area di sedime aeroportuale
+(la norma ne prevede una per
+ciascuna soglia).
+Rif. CS ADR-DSN.K.490 Wind
+direction indicators
+DAAD.LIBC.006
+I Mandatory instruction marking
+sui raccordi A e B non sono
+conformi ai requisiti di norma.
+Rif. CS ADR-DSN.L.605 Mandatory
+instruction
+marking
+DAAD.LIBC.007
+La segnaletica diurna di ostacolo
+delle torri faro non è conforme ai
+requisiti di norma.
+Rif. CS ADR-DSN.Q.845 Marking of
+fixed objects
+DAAD.LIBC.008
+La recinzione aeroportuale non è
+conforme ai requisiti di norma.
+Rif. CS ADR-DSN.T.920 Fencing
+SC.LIBC.001
+La pendenza della superficie
+d'avvicinamento di pista 17 è
+superiore al limite regolamentare.
+Rif. CS ADR-DSN.J.475 - Non
+precision approach runways
+Reference number Description
+DAAD.LIBC.004
+Stands layout and markings on
+South Apron do not comply with
+the standard requirements.
+Information markings do not
+comply with the standard
+requirements.
+Ref. CS ADR-DSN. E.365
+Clearance distances on aircraft
+stands (a)(b)
+Ref. CS ADR-DSN.L.590 Aircraft
+stand marking (c)(d)
+Ref. CS ADR-DSN.L.595 Apron
+safety lines (b)
+Ref. CS ADR-DSN.L.610
+Information marking
+DAAD.LIBC.005
+There is a single wind direction
+indicator in an almost central
+position of the aerodrome (two are
+required by standard regulations).
+Ref. CS ADR-DSN.K.490 Wind
+direction indicators
+DAAD.LIBC.006
+Mandatory instruction marking on
+TWY A and TWY B do not comply
+with the standard requirements.
+Ref. CS ADR-DSN.L.605
+Mandatory instruction marking
+DAAD.LIBC.007
+Apron floodlighting poles -
+Obstacle markings not compliant
+with regulatory requirements.
+Ref. CS ADR-DSN.Q.845 Marking
+of fixed objects
+DAAD.LIBC.008
+Aerodrome fence does not comply
+with the stand-ard requirements.
+Ref. CS ADR-DSN.T.920 Fencing
+SC.LIBC.001
+Slope of RWY 17 approach surface
+is higher than regulatory limit.
+Ref. CS ADR-DSN.J.475 - Non
+precision approach runways
+LIBC AD 2.24 CARTE AERONAUTICHE RELATIVE ALL’AEROPORTO
+LIBC AD 2.24 CHARTS RELATED TO THE AERODROME
+Carte - Charts Pagine - Pages
+AERODROME CHART ICAO  AD 2 LIBC 2 - 1
+AIRCRAFT PARKING DOCKING CHART  AD 2 LIBC 2 - 3
+AERODROME OBSTACLE CHART ICAO TYPE A - RWY 17/35  AD 2 LIBC 3 - 1
+AERODROME OBSTACLE CHART - TYPE B ICAO  AD 2 LIBC 3 - 3
+LINK ROUTES RWY 17/35  AD 2 LIBC 4 - 1
+LINK ROUTES RWY 17/35 DESCRIPTION TABLES  AD 2 LIBC 4 - 3
+STAR RWY 17/35  AD 2 LIBC 4 - 5
+STAR RWY 17/35 DESCRIPTION TABLES  AD 2 LIBC 4 - 7
+STAR RNP1/RNAV1 RWY 17  AD 2 LIBC 4 - 9
+STAR RNP1/RNAV1 RWY 17 DESCRIPTION TABLES  AD 2 LIBC 4 - 11
+
+=== Page 17 ===
+AIP - Italia
+AD 2 LIBC 1 - 17
+AIRAC effective date 17 APR 2025
+ENAV - Roma (A04/25)
+Carte - Charts Pagine - Pages
+STAR RNP1/RNAV1 RWY 35  AD 2 LIBC 4 - 13
+STAR RNP1/RNAV1 RWY 35 DESCRIPTION TABLES  AD 2 LIBC 4 - 15
+ICAO VISUAL APPROACH CHART  AD 2 LIBC 5 - 1
+ICAO INSTRUMENT APPROACH CHART VOR Z RWY 17  AD 2 LIBC 5 - 3
+ICAO INSTRUMENT APPROACH CHART VOR-Y RWY 17  AD 2 LIBC 5 - 5
+ICAO INSTRUMENT APPROACH CHART VOR Z RWY 35  AD 2 LIBC 5 - 7
+ICAO INSTRUMENT APPROACH CHART VOR Y RWY 35  AD 2 LIBC 5 - 9
+ICAO INSTRUMENT APPROACH CHART VOR Y RWY 35
+DESCRIPTION TABLES
+ AD 2 LIBC 5 - 11
+ICAO INSTRUMENT APPROACH CHART VOR X RWY 35  AD 2 LIBC 5 - 13
+ICAO INSTRUMENT APPROACH CHART RNP RWY 17  AD 2 LIBC 5 - 15
+ICAO INSTRUMENT APPROACH CHART RNP RWY 17
+DESCRIPTION TABLES
+ AD 2 LIBC 5 - 17
+ICAO INSTRUMENT APPROACH CHART RNP RWY 35  AD 2 LIBC 5 - 21
+ICAO INSTRUMENT APPROACH CHART RNP RWY 35
+DESCRIPTION TABLES
+ AD 2 LIBC 5 - 23
+SID RWY 17  AD 2 LIBC 6 - 1
+SID RWY 17 DESCRIPTION TABLES  AD 2 LIBC 6 - 3
+SID RWY 35  AD 2 LIBC 6 - 5
+SID RWY 35 DESCRIPTION TABLES  AD 2 LIBC 6 - 7
+SID RNAV1 RWY 17 AND RWY 35  AD 2 LIBC 6 - 9
+SID RNAV1 RWY 17 AND RWY 35 DESCRIPTION TABLES  AD 2 LIBC 6 - 11
+Carte - Charts Pagine - Pages
+ATC Surveillance Minimum Altitude Chart ICAO NIL
+LIBC AD 2.25 Penetrazione della VSS (Visual Segment Surface)
+LIBC AD 2.25 Visual segment surface (VSS) penetration
+
+=== Page 18 ===
+AD 2 LIBC 1 - 18
+AIRAC effective date 17 APR 2025 AIP - Italia
+(A04/25) ENAV - Roma
+

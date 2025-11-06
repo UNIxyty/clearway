@@ -1,0 +1,303 @@
+=== Page 1 ===
+EICN AD 2 - 1AIP IRELAND
+AIRNAV IRELAND
+EICN AD 2.1  AERODROME LOCATION INDICATOR AND NAME
+EICN - COONAGH
+EICN AD 2.2  AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+EICN AD 2.3  OPERATIONAL HOURS
+1 ARP and its site 523959N 0084055W 
+Mid-point RWY 09/27
+2 Direction and distance from (city) 2NM W of Limerick
+3 AD Elevation, Reference Temperature & Mean 
+Low Temperature
+6ft / 19.9°C (Max Temp) -0.5°C (MNM Temp) 
+4 Geoid undulation at AD ELEV PSN 189ft
+5 MAG VAR/Annual Change 2°W (2025)/11’ decreasing
+6 AD Operator, address, telephone, telefax, 
+email, AFS, Website
+Post: Limerick Flying Club (Coonagh) Ltd. 
+Coonagh Airfield, 
+Coonagh, 
+Limerick City
+Phone:+353 87 202 6868 (Chief Flying Instructor).
+Phone:+353 61 326600
+URL: http://www.limerickflyingclub.com
+7 Types of traffic permitted (IFR/VFR) VFR
+8 Remarks Nil
+1A D  O p e r a t o r HX PPR
+2 Customs and immigration 48HR PN (Outwards Only)
+3 Health and sanitation Nil
+4 AIS Briefing Office See Remarks
+5 ATS Reporting Office (ARO) See Remarks
+6 MET Briefing Office See Remarks
+7A T S Nil
+8 Fuelling Nil
+9 Handling Nil
+10 Security Nil
+11 De-icing Nil
+12 Remarks PIB AVBL from AIS, Shannon, See Section GEN 3.1.5
+, 
+ARO service is AVBL H24 from AIS Shannon See Section 
+GEN 3.1.5 
+Met briefing AVBL from Central Aviation Office, Shannon 
+Airport, See Section GEN 3.5.4
+30 OCT 2025
+AIRAC Amdt 010/25
+30 OCT 2025                      
+
+=== Page 2 ===
+EICN AD 2 - 2 AIP IRELAND
+AIRNAV IRELAND
+EICN AD 2.4 HANDLING SERVICES AND FACILITIES
+EICN AD 2.5 PASSENGER FACILITIES
+EICN AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+EICN AD 2.7 RUNWAY SURFACE CONDITION ASSESSMENT AND REPORTING AND 
+SNOW PLAN
+NIL
+1 Cargo-handling facilities Nil
+2 Fuel/oil types FUEL: MOGAS
+3 Fuelling facilities/capacity Nil
+4 De-icing facilities Nil
+5 Hangar space for visiting aircraft Nil
+6 Repair facilities for visiting aircraft Nil
+7 Remarks Nil
+1 Hotel(s) at or in the vicinity of AD Coonagh
+2 Restaurant(s) at or in the vicinity of AD Coonagh
+3 Transportation possibilities AVBL Locally
+4 Medical facilities Limerick
+5 Bank and Post Office at or in the vicinity of AD Limerick
+6 Tourist Office Limerick
+7 Remarks Nil
+1 AD category for fire fighting CAT 1
+2 Rescue equipment Appropriate to CAT 1
+3 Capability for removal of disabled aircraft Nil
+4 Remarks Nil
+30 OCT 2025
+30 OCT 2025                      
+AIRAC Amdt 010/25
+
+=== Page 3 ===
+EICN AD 2 - 3AIP IRELAND
+AIRNAV IRELAND
+EICN AD 2.8  APRONS, TAXIWAYS AND CHECK LOCATIONS/POSITIONS DATA
+EICN AD 2.9  SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM AND 
+MARKINGS
+EICN AD 2.10 AERODROME OBSTACLES
+EICN AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Apron surface and strength Surface: ASPHALT 
+Strength: -
+2 Taxiway width, surface and strength TAXIWAY WIDTH (M) SURFACE STRENGTH
+A 5 Bituminous -
+B 5 Bituminous -
+3 Altimeter checkpoint location and elevation Location: Nil 
+Elevation: Nil
+4 VOR checkpoint Nil
+5 INS checkpoint Nil
+6 Remarks Nil
+1 Use of aircraft stand ID signs, TWY guide lines 
+and visual docking/parking guidance system at 
+aircraft stands
+Nil
+2 RWY and TWY markings and LGT RWY 09/27 Threshold, Designator, Centreline
+3 Stop bars and RWY Guard Lights Nil
+4 Other RWY Protection measures Nil
+5 Remarks Nil
+In Area 2
+OBST ID/ 
+Designation
+OBST Type OBST Position ELEV/HGT Marking/Type 
+Colour
+Remarks
+abcde f
+Contact Info@LimerickFlyingClub.com
+In Area 3
+OBST ID/
+Designation
+OBST Type OBST Position ELEV/HGT Marking/Type 
+Colour
+Remarks
+abcde f
+Contact Info@LimerickFlyingClub.com
+1 Associated MET Office See Section GEN 3.5 for Information
+2 Hours of service H24
+3 Office responsible for TAF preparation 
+Periods of validity 
+Interval of issuance
+Nil
+30 OCT 2025
+30 OCT 2025                      
+AIRAC Amdt 010/25
+
+=== Page 4 ===
+EICN AD 2 - 4 AIP IRELAND
+AIRNAV IRELAND
+EICN AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+EICN AD 2.13 DECLARED DISTANCES
+4 Type of landing forecast 
+Interval of issuance
+Nil
+5 Briefing/consultation provided Computer-based self-briefing facility
+URL: https://briefing.met.ie/
+Personal briefing by telephone from Central Aviation Office, 
+Shannon
+6 Flight documentation
+Language(s) used
+Charts and tabular 
+English
+7 Charts and other information available for 
+briefing or consultation
+See Section GEN 3.5 for Information
+8 Supplementary equipment available for 
+providing information
+Nil
+9 ATS units provided with information Nil
+10 Additional information (limitation of service, 
+etc.)
+Nil
+Designations 
+RWY NR
+TRUE BRG Dimensions of 
+RWY
+(M)
+Strength (PCN) 
+and surface of 
+RWY and SWY
+THR coordinates 
+RWY end 
+coordinates THR 
+geoid undulation
+THR elevation 
+and highest 
+elevation of TDZ 
+of precision APP 
+RWY
+1 2345 6
+09 Nil 416 X 9 Bituminous 523959.04N 
+0084105.65W
+523959.85N 
+0084043.53W
+189ft
+Nil
+27 Nil 416  X 9 Bituminous 523959.85N 
+0084043.53 W
+523959.04 N 
+0084105.65 W
+189ft
+Nil
+Slope of 
+RWY-SWY
+SWY 
+dimensions 
+(M)
+CWY 
+dimensions 
+(M)
+Strip 
+dimensions 
+(M)
+RWY End 
+Safety Area 
+dimensions
+Location and 
+description 
+of Arresting 
+System
+OFZ Remarks
+7 8 9 10 11 12 13 14
+Nil Nil Nil Nil Nil Nil Nil Nil
+Nil Nil Nil Nil Nil Nil Nil Nil
+RWY 
+Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+Remarks
+12345 6
+09 416 416 416 416 Nil
+30 OCT 2025
+30 OCT 2025                      
+AIRAC Amdt 010/25
+
+=== Page 5 ===
+EICN AD 2 - 5AIP IRELAND
+AIRNAV IRELAND
+EICN AD 2.14 APPROACH AND RUNWAY LIGHTING
+NIL
+EICN AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+NIL
+EICN AD 2.16 HELICOPTER LANDING AREA
+NIL
+EICN AD 2.17 ATS AIRSPACE
+NIL
+EICN AD 2.18 ATS COMMUNICATION FACILITIES
+EICN AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+NIL
+EICN AD 2.20 LOCAL AERODROME REGULATIONS
+Circuits to the South.
+EICN AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL
+EICN AD 2.22 FLIGHT PROCEDURES
+NIL
+EICN AD 2.23 ADDITIONAL INFORMATION
+1. Only experienced licensed pilots with recent short field tech niques will be granted permission to use the 
+airfield.
+27 416 416 416 416 Nil
+Service 
+Designation
+Call sign Channel SATVOICE 
+No.
+Logon 
+Address
+Hours of 
+Operation
+Remarks
+1234567
+Information Coonagh 
+Radio
+129.900MHz Nil Nil HX Nil
+RWY 
+Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M)
+Remarks
+12345 6
+30 OCT 2025
+30 OCT 2025                      
+AIRAC Amdt 010/25
+
+=== Page 6 ===
+EICN AD 2 - 6 AIP IRELAND
+AIRNAV IRELAND
+2. Prior to use pilots intending to use Coonagh aerodrome should  seek a local briefing from a flying club 
+instructor through
+URL: http://www.limerickflyingclub.com
+3. Aircraft must enter and vacate the runway via a paved taxiway .
+4. Caution: Narrow runway width may give the illusion of longer runway length and the runway may appear 
+further away than it really is. Due to narrow runway, pilots should exercise caution in actual or forecast 
+crosswind conditions.
+5. Obstacles penetrating the 09/27 approaches and the transition al surface for RWY 09/27 including a mobile 
+object on the public road.
+6. All circuits should be flown to the south of the Shannon Rive r at 800Ft avoiding built up areas. Pilots are 
+reminded of the proximity of the P9 and the Shannon Control Zone.
+7. Local quarry blasting activity takes place every Thursday at 1500 Local time in the vicinity of Coonagh Airfield 
+by Irish Cement.
+Irish Cement request that pilots do not overfly the quarry/cement factory from 1350 to 1410 (summertime) 
+and 1450 to 1510 (Wintertime)
+EICN AD 2.24 CHARTS RELATED TO AN AERODROME
+NIL
+EICN AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+NIL
+30 OCT 2025
+30 OCT 2025                      
+AIRAC Amdt 010/25

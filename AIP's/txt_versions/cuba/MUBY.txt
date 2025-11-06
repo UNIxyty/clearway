@@ -1,0 +1,1032 @@
+=== Page 1 ===
+AIP-CUBA AD 2 MUBY 1 - 1
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+AD 2 AERODROMOS AD 2 AERODROMES
+MUBY AD 2.1 INDICADOR DE LUGAR Y NOMBRE DEL AERODROMO
+MUBY AD 2.1 AERODROME LOCATION INDICATOR AND NAME
+MUBY - BAYAMO / Carlos Manuel de Céspedes
+MUBY AD 2.2 DATOS GEOGRAFICOS Y ADMINISTRATIVOS DEL AERODROMO
+MUBY AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE DATA
+1 Coordenadas del ARP y
+emplazamiento en el AD
+  ARP coordinates and site at AD
+202347N 0763717W
+Punto centro de
+Mid point of RWY 08/26
+2 Dirección y distancia desde (ciudad)
+  Direction and distance from (city) 046°, 3 KM FM Bayamo
+3 Elevación/temperatura de referencia
+  Elevation / Reference temperature
+(Mean Low temperature)
+Elev: 203 FT (62 M) / T: 33.5° C (Mean Low T: NIL)
+4 Ondulación geoidal en AD ELEV PSN
+  Geoid undulation at AD ELEV PSN -69 FT (-21 M)
+5 MAG VAR/Cambio anual
+  MAG VAR / Annual change 9° W (2025) / -0.10°
+6 Administración, dirección, teléfono,
+telefax, télex, AFS del AD
+  AD Administration, address, telephone,
+telefax, telex, AFS
+ECASA
+Aeropuerto “Carlos Manuel de Céspedes”.
+Carretera Central vía Holguín, km 2 1/2, Bayamo
+Granma, Cuba 
+  
+Tel: (53-23) 42 7272
+email: marcos.oro@hog.ecasa.avianet.cu
+7 Tipos de tránsito permitidos (IFR/VFR)
+  Types of traffic permitted (IFR/VFR) VFR
+8 Observaciones
+  Remarks NIL
+MUBY AD 2.3 HORAS DE FUNCIONAMIENTO
+MUBY AD 2.3 OPERATIONAL HOURS
+1 Administración del AD
+  AD Administration
+MON/FRI 1200/2000 UTC. 
+Horario de verano /Summer Time: MON/FRI 1100/1900 UTC.
+ 
+2 Aduanas e inmigración
+  Customs and immigration NIL
+3 Dependencias de sanidad
+  Health and sanitation NIL
+4 Oficina de notificación AIS
+  AIS Briefing Office NIL
+5 Oficina de notificación ATS (ARO)
+  ATS Reporting Office (ARO) NIL
+6 Oficina de notificación MET
+  MET Briefing Office NIL
+
+=== Page 2 ===
+AD 2 MUBY 1 - 2
+05 FEB 2025
+AIP-CUBA
+AIP AMDT 01/25 AIS-CUBA
+7 ATS
+  ATS
+MON/FRI 1200/2000 UTC. 
+Horario de Verano / Summer Time: MON/FRI 1100/1900 UTC
+8 Abastecimiento de combustible
+  Fuelling
+MON/FRI 1200/2000 UTC.
+Horario de verano / Summer time: MON/FRI 1100/1900 UTC.
+9 Servicios de escala
+  Handling
+MON/FRI 1200/2000 UTC.
+Horario de verano / Summer time: MON/FRI 1100/1900 UTC.
+10 Seguridad
+  Security H24
+11 Descongelamiento
+  De-icing NIL
+12 Observaciones
+  Remarks
+Fuera de estas horas O/R 24 HR BFR.
+Out of these hours O/R 24 HR BFR.
+MUBY AD 2.4 INSTALACIONES Y SERVICIOS DE ESCALA
+MUBY AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Instalaciones de manipulación de la
+carga
+  Cargo-handling facilities
+Carretillas a granel
+Load wagons
+2 Tipos de combustible/lubricante
+  Fuel / oil types
+Combustible: NIL
+Lubricante: NIL
+Fuel: NIL
+Oil: NIL
+3 Instalaciones/capacidad de
+reabastecimiento
+  Fuelling facilities/capacity
+NIL
+4 Instalaciones de descongelamiento
+  De-icing facilities NIL
+5 Espacio de hangar para aeronaves
+visitantes
+  Hangar space for visiting aircraft
+NIL
+6 Instalaciones para reparaciones de
+aeronaves visitantes
+  Repair facilities for visiting aircraft
+NIL
+7 Observaciones
+  Remarks
+Instalaciones y equipos para la asistencia en tierra
+GPU: 115v CA/ 90Kva.
+GPU: 28v CD.
+Facilities and equipment for ground handling.
+GPU: 115v AC/ 90Kva.
+GPU: 28v DC.
+MUBY AD 2.5 INSTALACIONES Y SERVICIOS PARA LOS PASAJEROS
+MUBY AD 2.5 PASSENGER FACILITIES
+1 Hoteles
+  Hotels
+En la ciudad.
+In the city.
+2 Restaurantes
+  Restaurants
+En la ciudad.
+In the city.
+3 Transporte
+  Transportation
+Autobuses, taxis y alquiler de autos desde el AD.
+Buses, taxis and car hire from the AD.
+
+=== Page 3 ===
+AIP-CUBA AD 2 MUBY 1 - 3
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+4 Instalaciones y servicios médicos
+  Medical facilities
+Primeros auxilios en el AD, hospitales en la ciudad.
+First aids at AD, hospitals in the city.
+5 Oficinas bancarias y de correos
+  Bank and Post Office
+Banco: NIL
+Oficinas de correos: NIL
+Bank: NIL
+Post: NIL
+6 Oficina de turismo
+  Tourist Office NIL
+7 Observaciones
+  Remarks NIL
+MUBY AD 2.6 SERVICIOS DE SALVAMENTO Y DE EXTINCIÓN DE INCENDIOS
+MUBY AD 2.6 RESCUE AND FIRE FIGHTING SERVICES
+1 Categoría del AD para la extinción de
+incendios
+  AD category for fire fighting
+NIL
+2 Equipo de salvamento
+  Rescue equipment NIL
+3 Capacidad para retirar aeronaves
+inutilizadas
+  Capability for removal of disabled
+aircraft
+NIL
+4 Observaciones
+  Remarks NIL
+MUBY AD 2.7 DISPONIBILIDAD SEGÚN LA ESTACIÓN DEL
+AÑO – REMOCIÓN DE OBSTACULOS EN LA SUPERFICIE
+MUBY AD 2.7 SEASONAL AVAILABILITY — CLEARING
+No se aplica / Not applicable
+MUBY AD 2.8 DATOS SOBRE LA PLATAFORMA,
+CALLES DE RODAJE Y EMPLAZAMIENTOS /
+POSICIONES DE VERIFICACIÓN DE EQUIPO /
+MUBY AD 2.8 APRONS, TAXIWAYS AND
+EMPLACEMENT / EQUIPMENT CHECK LOCATIONS DATA
+1 superficie y resistencia de la
+plataforma
+  Apron surface and strength
+Designación Superficie Resistencia
+Designator Surface Strength
+1 Asfalto
+Asphalt PCN 20/F/B/W/U
+2 Anchura, superficie y resistencia de las
+calles de rodaje
+  Taxiway width, surface and strength
+Designación Anchura Superficie Resistencia
+Designator
+of TWY
+Width Surface Strength
+A 23 M Asfalto
+Asphalt PCN 20/F/B/W/U
+B 23 M Asfalto
+Asphalt PCN 20/F/B/W/U
+C 23 M Asfalto
+Asphalt PCN 20/F/B/W/U
+
+=== Page 4 ===
+AD 2 MUBY 1 - 4
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+3 Emplazamiento y elevación ACL
+  Altimeter checkpoint location and
+elevation
+NIL
+4 Puntos de verificación VOR
+  VOR checkpoints NIL
+5 Puntos de verificación INS
+  INS checkpoints NIL
+6 Observaciones
+  Remarks NIL
+MUBY AD 2.9 SISTEMA DE GUIA Y CONTROL DEL
+MOVIMIENTO EN LA SUPERFICIE Y SEÑALES
+MUBY AD 2.9 SURFACE MOVEMENT GUIDANCE
+AND CONTROL SYSTEM AND MARKINGS
+1 Uso de signos ID en los puestos de
+aeronaves Líneas de guía TWY y
+sistemas de guía visual de atraque
+y estacionamiento de los puestos de
+aeronaves
+  Use of aircraft stand ID signs, TWY
+guide lines and visual docking/parking
+guidance system of aircraft stands
+NIL
+2 Señales y LGT de RWY y TWY
+  RWY and TWY markings and LGT
+RWY: Designación, THR, TDZ y eje señalados / Designation, THR,
+TDZ and center line marked.
+TWY: Eje y puntos de espera señalados / Center line and holding
+positions marked.
+3 Barras de parada
+  Stop bars and runway guard lights No disponible/Not available.
+4 Otra protección de pista
+  Other runway protection measures NIL
+5 Observaciones
+  Remarks NIL
+MUBY AD 2.10 OBSTÁCULOS DEL AERÓDROMO
+MUBY AD 2.10 AERODROME OBSTACLES
+En el Área 2 / In Area 2
+OBST ID / Designación Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+
+=== Page 5 ===
+AIP-CUBA AD 2 MUBY 1 - 5
+22 FEB 2024
+AIS-CUBA AMDT 103-24
+En el Área 3 / In Area 3
+OBST ID / Designación
+Tipo de obstáculo OBST posición Elevación
+Señales/
+Tipo,
+color
+Observaciones
+OBST ID / Designation
+OBST type OBST position ELEV/
+HGT
+Markings/
+Type,
+colour
+Remarks
+a b c d e f
+NIL
+MUBY AD 2.11 INFORMACION METEOROLÓGICA PROPORCIONADA
+MUBY AD 2.11 METEOROLOGICAL INFORMATION PROVIDED
+1 Oficina MET asociada
+  Associated MET Office Holguín
+2 Horas de servicio
+Oficina MET fuera de horario
+  Hours of service
+MET Office outside hours
+MON/FRI 1200/2000 UTC.
+Horario de verano /Summer Time: MON/FRI 1100/1900 UTC.
+3 Oficina responsable de la preparación
+TAF
+Períodos de validez
+  Office responsible for TAF preparation
+Period of validity
+NIL
+4 Tipo de pronóstico de aterrizaje
+Intervalo de emisión
+  Trend forecast
+Interval of issuance
+NIL
+5 Aleccionamiento/consulta
+proporcionados
+  Briefing/consultation provided
+NIL
+6 Documentación de vuelo
+Idioma(s) utilizado(s)
+  Flight documentation
+Language(s) used
+METAR
+7 Cartas y demás información disponible
+para aleccionamiento o consulta
+  Charts and other information available
+for briefing or consultation
+NIL
+8 Equipo suplementario disponible para
+proporcionar información
+  Supplementary equipment available for
+providing information
+NIL
+9 Dependencias ATS que reciben
+información
+  ATS units provided with information
+TWR Bayamo
+10 Información adicional (limitación de
+servicio, etc.)
+  Additional information (limitation of
+service, etc.)
+NIL
+MUBY AD 2.12 CARACTERÍSTICAS FÍSICAS DE LAS PISTAS
+
+=== Page 6 ===
+AD 2 MUBY 1 - 6
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+MUBY AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS
+Designadores
+RWY
+BRG GEO
+y MAG
+Dimensiones
+de RWY
+Resistencia (PCN)
+y superficie de
+RWY y SWY
+Coordenadas THR
+Coordenadas
+RWY end
+ondulación
+geoidal THR
+Elevación THR
+y elevación
+máxima de
+TDZ de RWY
+APP precisión
+RWY
+Designator
+TRUE &
+MAG BRG
+Dimension
+of RWY (M)
+Strength (PCN)
+and surface of
+RWY and SWY
+THR coordinates
+RWY end coordinates
+THR geoid undulation
+THR elevation
+and highest
+elevation of
+TDZ of precision
+APP RWY
+1 2 3 4 5 6
+08 068.00° GEO
+077.00° MAG 2099 x 30
+PCN 20/F/B/W/U
+Asfalto
+Asphalt
+SWY: NIL
+202335.86N
+0763747.70W
+END: NIL
+GUND: -21 M
+THR 52 M
+TDZ: NIL
+26 248.00° GEO
+257.00° MAG 2099 x 30
+PCN 20/F/B/W/U
+Asfalto
+Asphalt
+SWY: NIL
+202359.22N
+0763645.36W
+END: NIL
+GUND: -21 M
+THR 62 M
+TDZ: NIL
+Designadores
+RWY
+Pendiente
+de RWY-
+SWY
+Dimensiones
+SWY
+Dimensiones
+CWY
+Dimensiones
+de franja
+Dimensiones
+del RESA
+Localización/
+descripción
+del sistema
+de retención
+OFZ
+RWY
+Designator
+Slope of
+RWY-SWY
+SWY
+dimensions
+(M)
+CWY
+dimensions
+(M)
+Strip
+dimensions
+(M)
+RESA
+dimensions
+(M)
+Location/
+description
+of arresting
+system
+OFZ
+1 7 8 9 10 11 12 13
+08 +0.48% NIL NIL 2219 x 150 NIL NIL NIL
+26 -0.48% NIL NIL 2219 x 150 NIL NIL NIL
+Designadores
+RWY
+Observaciones
+RWY
+Designator Remarks
+1 14
+08
+DTHR
+104 M
+202335.86N
+0763747.70W
+26
+DTHR
+50 M
+202359.22N
+0763645.36W
+MUBY AD 2.13 DISTANCIAS DECLARADAS
+MUBY AD 2.13 DECLARED DISTANCES
+
+=== Page 7 ===
+AIP-CUBA AD 2 MUBY 1 - 7
+11 DEC 2024
+AIS-CUBA AMDT 106-24
+Designador
+RWY
+Observaciones
+RWY
+Designator
+TORA
+(M)
+TODA
+(M)
+ASDA
+(M)
+LDA
+(M) Remarks
+1 2 3 4 5 6
+08 2099 2099 2099 1995 NIL
+26 2099 2099 2099 2049 NIL
+MUBY AD 2.14 LUCES DE APROXIMACIÓN Y DE PISTA
+MUBY AD 2.14 APPROACH AND RUNWAY LIGHTING
+Designador
+RWY
+Tipo LGT APCH
+y LEN INTST
+Color LGT
+THR WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN Longitud,
+espaciado,
+color, INTST
+LGT eje RWY
+RWY
+Designator
+APCH LGT type
+LEN INTST
+THR LGT
+colour WBAR
+VASIS
+(MEHT) PAPI
+TDZ, LGT LEN RWY Centre
+Line LGT
+Length, spacing,
+colour, INTST
+1 2 3 4 5 6
+08 NIL NIL NIL NIL NIL
+26 NIL NIL NIL NIL NIL
+Designador
+RWY
+Longitud, espaciado,
+color, INTST
+LGT borde RWY
+Color LGT extremo
+RWY WBAR
+LEN (M) LGT SWY
+color
+Observaciones
+RWY
+Designator
+RWY edge LGT LEN,
+spacing colour INTST
+RWY End LGT
+colour WBAR
+SWY LGT LEN
+colour
+Remarks
+1 7 8 9 10
+08 NIL NIL NIL NIL
+26 NIL NIL NIL NIL
+MUBY AD 2.15 OTRAS LUCES, FUENTE SECUNDARIA DE ENERGÍA
+MUBY AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+1 Emplazamiento, características y horas
+de funcionamiento ABN/IBN
+  ABN/IBN location, characteristics and
+hours of operation
+NIL
+2 Emplazamiento LDI Y LGT y
+Anemómetro y LGT
+  LDI location and LGT Anemometer
+location and LGT
+NIL
+
+=== Page 8 ===
+AD 2 MUBY 1 - 8
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+3 Luces de borde y eje de TWY
+  TWY edge and centre line lighting
+Borde de TWY/Taxiway edge:
+A No disponible.
+Not available.
+B No disponible.
+Not available.
+C No disponible.
+Not available.
+  
+Eje de TWY/Taxiway centre line:
+A No disponible.
+Not available.
+B No disponible.
+Not available.
+C No disponible.
+Not available.
+4 Fuente auxiliar de energía/tiempo de
+conmutación
+  Secondary power supply/switch-over
+time
+NIL
+5 Observaciones
+  Remarks NIL
+MUBY AD 2.16 ÁREA DE ATERRIZAJE DE HELICÓPTEROS
+MUBY AD 2.16 HELICOPTER LANDING AREA
+No se aplica / Not applicable
+MUBY AD 2.17 ESPACIO AÉREO ATS
+MUBY AD 2.17 ATS AIRSPACE
+Designación y
+límites laterales
+Límites
+verticales
+Clasificación
+del espacio
+aéreo
+Distintivo de
+llamada de la
+dependencia
+ATS Idioma (s)
+Altitud de
+transición
+Horas de
+aplicabilidad
+Observaciones
+Designation
+and lateral limits
+Vertical limits Airspace
+classification
+ATS unit
+call sign
+Language(s)
+Transition
+altitude
+Hours of
+applicability
+Remarks
+1 2 3 4 5 6 7
+ATZ
+Circulo centrado
+en / Circular
+area centered on
+202347N 0763717W
+(ARP MUBY) en un
+radio de / withing a
+radius 3 NM.
+  1500
+FT AGL
+  
+  GND   
+D Bayamo TWR
+Español
+Spanish
+3000 FT
+AMSL
+MON/FRI
+1200/2000
+UTC. Horario
+de verano/
+Summer Time:
+MON/FRI
+1100/1900
+UTC.
+NIL
+CTR
+Circulo centrado
+en / Circular
+area centered on
+202347N 0763717W
+(ARP MUBY) en un
+radio de / withing a
+radius 10 NM.
+  FL055   
+  GND   
+D Bayamo TWR
+Español
+Spanish
+3000 FT
+AMSL
+MON/FRI
+1200/2000
+UTC. Horario
+de verano/
+Summer Time:
+MON/FRI
+1100/1900
+UTC.
+NIL
+
+=== Page 9 ===
+AIP-CUBA AD 2 MUBY 1 - 9
+24 OCT 2024
+AIS-CUBA AMDT 105-24
+MUBY AD 2.18 INSTALACIONES DE COMUNICACIONES ATS
+MUBY AD 2.18 ATS COMMUNICATION FACILITIES
+Designación
+del servicio
+Distintivo de llamada Frecuencia SATVOICE Dirección
+de
+conexión
+Horas de
+funcionamiento
+Observaciones
+Service
+designation
+Callsign Frequency SATVOICE Logon
+address
+Hours of operation Remarks
+1 2 3 4 5 6 7
+126.900 MHZ H24
+5562.000 KHZ H24
+A/G MUBY Radio Boyeros
+8876.000 MHZ
+NIL NIL
+H24
+NIL
+119.400 MHZ H24APP Terminal Santiago
+120.400 MHZ
+NIL NIL
+H24
+Primaria /
+Primary
+frequency
+120.400 MHZ
+121.500 MHZ MON-FRI
+1200-2000
+UTC. Horario de
+Verano/Summer
+Time: MONFRI
+1100-1900 UTC.
+Fuera de este
+horario/Out of
+these hours O/
+R 24 HR BFR.
+TWR Bayamo TWR
+123.600 MHZ
+NIL NIL
+MON-FRI
+1200-2000
+(UTC) Horario de
+Verano / Summer
+Time: MON-FRI
+1100-1900 (UTC)
+Fuera de este
+horario / Out of
+these hours O/
+R 24 HR BFR
+Para
+emergencia 
+solamente. /
+For emergency
+only 121.500
+MHZ.
+Fuera de este
+HR/Out 
+of this HR, AD
+no 
+controlado/
+uncontroled.
+ENSA VFR FLT
+FM HJ.
+ENSA CTC
+CRCPV
+para todo tipo
+de/for all 
+kind of INFO.
+MUBY AD 2.19 RADIOAYUDAS PARA LA NAVEGACIÓN Y EL ATERRIZAJE
+MUBY AD 2.19 RADIO NAVIGATION AND LANDING AIDS
+Tipo de ayuda
+MAG VAR
+Tipo de
+ILS/MLS
+ID Frecuencia Horas de
+funcionamiento
+Coordenadas
+del
+emplazamiento
+de la antena
+transmisora
+Elevación
+de la antena
+transmisora
+del DME
+Servicio
+volume
+radio
+de GBAS
+referencia
+Punto
+Observ.
+Type of aid
+MAG VAR
+CAT of
+ILS/MLS
+ID Frequency Hours of
+operation
+Site of
+transmitting
+antenna
+coordinates
+Elevation
+of DME
+transmitting
+antenna
+Service
+volume
+radius
+from GBAS
+reference
+Point
+Remarks
+1 2 3 4 5 6 7 8
+NIL NIL NIL NIL NIL NIL NIL NIL
+
+=== Page 10 ===
+AD 2 MUBY 1 - 10
+24 OCT 2024
+AIP-CUBA
+AMDT 105-24 AIS-CUBA
+MUBY AD 2.20 REGLAMENTO LOCAL DEL AERODROMO
+MUBY AD 2.20 LOCAL AERODROME REGULATIONS
+Aeródromo operando solo para aeronaves AN2, PZL/M18
+y Helicópteros.
+Aerodrome only operating for Aircraft AN2, PZL/M18 and
+Helicopters.
+MUBY AD 2.21 PROCEDIMIENTOS DE ATENUACION DEL RUIDO
+MUBY AD 2.21 NOISE ABATEMENT PROCEDURES
+NIL NIL
+MUBY AD 2.22 PROCEDIMIENTOS DE VUELO
+MUBY AD 2.22 FLIGHT PROCEDURES
+NIL NIL
+MUBY AD 2.23 INFORMACION ADICIONAL
+MUBY AD 2.23 ADDITIONAL INFORMATION
+No se aplica / Not applicable
+MUBY AD 2.24 CARTAS RELATIVAS AL AERODROMO
+MUBY AD 2.24 CHARTS RELATED TO AN AERODROME
+Charts Pages
+AD 2 MUBY ADC.pdf AD 2 MUBY 2 - 1
+AD 2 MUBY VAC.pdf AD 2 MUBY 9 - 1
+MUBY AD 2.25 PENETRACIÓN DE LA SUPERFICIE DEL SEGMENTO VISUAL (VSS)
+MUBY AD 2.25 VISUAL SEGMENT SURFACE (VSS) PENETRATION
+No se aplica / Not applicable
+
+=== Page 11 ===
+TWR 123.600
+VAR 9º W - 2025REGIMEN V
+ARIACION
+ANUAL
+ /
+ANNUAL
+ RA
+TE
+OF CHANGE 06’
+ W
+SEÑALES Y AYUDAS LUMINOSAS RWY 08 / 26 Y CALLES DE RODAJE DE SALIDA / MARKING AND LIGHTING AIDS RWY 08 / 26 AND EXIT TAXIWAYS
+AIP-CUBA AD 2 MUBY 2 - 1
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25
+
+=== Page 13 ===
+Presa
+Cauto 
+del
+Paso
+1310
+330
+1970
+1310
+980
+330
+660
+330
+660
+1310
+184
+3652
+2620
+1310
+1970
+Las Támaras
+3 NM
+Cauto
+Cauto
+BAYAMO
+BUEY
+ARRIBA
+CAUTO
+CRISTO
+CHARCO
+REDONDO
+GUISA
+JIGUANÍ
+JULIA MABAY
+10 NM
+Caunao
+El Salvial
+Cautillo
+Tres Macios
+Santa María
+Las Espinas
+Babiney
+Las Mangas
+Santa Rita
+El Horno
+Pinalito
+El Caobal
+San
+José
+Mabay Seco
+Santa Isabel
+Molino Rojo
+Santa Rafael
+El SieteCuatro
+Caminos
+El Datil
+Monte Carlos
+Bueycito
+Punta
+de Cana
+Becerra
+La Piñuela
+Canabacoa
+Habana de
+Buenavista
+ArenaArena
+Pedregales
+Batalla
+de Guisa
+Cautillo
+Corojo
+Bueycito
+17,8
+0
+292
+226
+446
+420 179,1
+1151
+1969
+987,7
+3615 2835
+1146,7
+138
+71,9
+427
+0
+1486
+2175
+2418
+4373
+1555
+330
+660
+660
+660
+980
+980
+980
+980
+1310
+1640
+1640
+1970
+3280 3280
+2950 3610
+581
+348
+(145)
+523
+(320)
+355
+(152)
+583
+(380)
+Mabay
+Vegueta
+Arro yón
+Arroyo
+Blanco
+El Sala d o
+Guajacabo
+Solis
+Jiguaní
+Manacal
+Bayamo
+Mabay
+Babatuaba
+M
+acanocum
+Hicotea
+Montero
+Aguacate
+Buey
+Cimborrio
+Los Ne gros
+Manacan
+Palmarito
+Cautillo
+Magaicito
+ElSalado
+Guajacabo
+Jiguaní
+Bueydel Yao
+Jarico
+ElAguacate
+Bayamo
+Cupeini cú
+Mabay
+Seco
+Arroyón
+Manigua
+Guamá
+Guisa
+CARTA DE APROXIMACION VISUAL / 
+VISUAL APPROACH CHART 
+BAYAMO / Carlos Manuel de CéspedesELEV 203
+OCH REF TO AD ELEV TWR 123.600
+BRG MAG
+ALT, ELEV Y / AND HGT EN / IN FT
+DIST EN / IN NM
+2025
+VAR 9°W
+H
+45'
+35'
+20°
+40'
+N
+20°
+30'
+N
+25'
+20°
+20'
+N
+15'
+20°
+10'
+N
+45' 35'
+35' 25'
+35'
+25'
+20°
+30'
+N
+20°
+20'
+N
+15'
+20°
+10'
+N
+76°30'W76°40'W
+76°40'W 76°30'W
+0 2 4 6 81
+NM
+0 2 4 6 8 10 121
+KM
+ESCALA / SCALE 1:250 000
+1500 FT
+GNDD
+ATZ
+FL 055
+GND
+D
+CTR
+AIP-CUBA AD 2 MUBY 9 - 1
+04 SEP 2025
+AIS-CUBA AIRAC AIP AMDT 1/25

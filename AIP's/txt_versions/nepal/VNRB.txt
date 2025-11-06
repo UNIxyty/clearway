@@ -1,0 +1,666 @@
+=== Page 1 ===
+AIP 
+NEPAL 
+VNRB AD 2-1 
+01 JULY 2022
+AD 2. AERODROME 
+VNRB AD 2.1 AERODROME LOCATION INDICATOR AND NAME 
+VNRB – Rajbiraj/Domestic 
+VNRB AD 2.2 AERODROME GEOGRAPHICAL AND ADMINISTRATIVE 
+DATA 
+1. ARP Coordinates and site at AD 263038N 0864417E 
+2. Direction and Distance from (city) 
+3. Elevation/Reference Temperature 249 ft. (76m) 
+4. MAG VAR/Annual Change 
+5. AD Administration, address 
+Telephone, Telefax, AFS  
+Civil Aviation Authority of Nepal 
+Rajbiraj Civil Aviation Office, Rajbiraj, Saptari 
+Te1-977- 031-522458 (TWR) 
+Fax - 
+AFS - VNRBYDYX 
+6. Types of traffic permitted (IFR/VFR) VFR 
+7. Remarks - 
+VNRB AD 2.3 OPERATIONAL HOURS 
+1. AD Administration 
+2. Customs and immigration - 
+3. Health and sanitation - 
+4. AIS Briefing Office NIL
+5. ATS Reporting Office (ARO) NIL 
+6. MET Briefing - 
+7. ATS
+8. Fuelling -
+9. Handling (Cargo) - 
+10. Security H-24 
+11. Remarks - 
+* WGS 84 Coordinates
+CIVIL AVIATION AUTHORITY OF NEPAL 
+1) From 30 Jan - 01 Nov (0415 - 1115) UTC
+2) From 02 Nov - 29 Jan ( 0415 - 1015) UTC
+4Km, South of Rajbiraj City
+SUN-T
+HU 10:00 -17:00 LT (SUMMER), 
+10:00-1600 LT (WINTER), 
+FRI 10:00-1500 LT 
+8th EDITION  
+
+=== Page 2 ===
+VNRB AD 2.4 HANDLING SERVICES AND FACILITIES
+1 Cargo-handling facilities - 
+- 
+VNRB AD 2.5 PASSENGER FACILITIES 
+1. Hotels In the city 
+2. Restaurants In the city 
+3. Transportation Taxi 
+4. Medical Facilities Hospital in the city 
+5. Bank and Post Office Bank and Post Office in the city 
+6. Tourist Office - 
+7. Remarks - 
+VNRB AD 2.6 RESCUE AND FIRE FIGHTING SERVICE 
+VNRB AD 2.7 SEASONAL AVAILABILITY 
+Aerodrome available throughout the year 
+. VNRB 2.8 APRONS, TAXIWAYS AND CHECK LOCATION DATA
+1. Apron surface and strength Asphalt Concrete 
+2. Taxiway width, surface and 
+strength  
+Width – 30m 
+Surface – Asphalt Concrete, 
+3. Altimeter check point location 
+and elevation  - 
+4. VOR/INS checkpoints - 
+5. Remarks - 
+CIVIL AVIATION AUTHORITY OF NEPAL 
+AIP VNRB AD 2-2 
+30 April 2025  N E P A L  
+2. Fuel/Oil Types - 
+3. Fuelling facilities/capacity - 
+4. De-icing facilities - 
+5. Hanga r space for visiting aircraft -
+6. Repair facilities for visiting aircraft -
+7. Remarks 
+1. Nil 
+2.
+3. 
+4. Wheel Type of Fire Extinguishers available. 
+Nil
+Nil
+AD category for fire fighting
+Rescue equipment
+Capability for removal of disabled aircraft
+Remarks
+AMDT 03/2025
+
+
+=== Page 3 ===
+VNRB AD 2.9      SURFACE MOVEMENT GUIDANCE AND CONTROL 
+SYSTEM AND MARKINGS
+1. Use of aircraft stand ID signs, TWY 
+guide lines and visual docking/parking 
+guidance system of aircraft stands 
+- 
+2. RWY and TWY markings and LGT - 
+3. Stop bars - 
+4. Remarks - 
+VNRB AD 2.10 AERODROME OBSTACLES 
+S. No. Obstacle Name Obstacle ID 
+WGS-84 Coordinates 
+Elevation (m) 
+Latitude Longitude 
+1 ATC Middle Antenna RB0001 26°30'38.6"N 86°44'16.6"E 86.8
+2 ATC Tall Antenna RB0002 26°30'38.6"N 86°44'16.7"E 92.4
+3 NDB RB0003 26°30'40.1"N 86°44'12.6"E 97 
+4 NDB RB0004 26°30'41"N 86°44'10.1"E 97.
+5 Meteorological Antenna RB0005 26°30'38.0"N 86°44'8.4"E 85.1
+6 Wind Shock RB0006 26°30'36.6"N 86°44'8.1"E 80.2
+7 Tree RB0011 26°30'41.3"N 86°43'38.2"E 83.9
+8 House Top RB0012 26°30'43.4"N 86°43'41.5"E 80.1
+9 House Top RB0013 26°30'44.2"N 86°43'41.8"E 82.4
+10 Tree RB0014 26°30'43.7"N 86°43'40.9"E 83.2
+11 Tree RB0015 26°30'44"N 86°43'42.9"E 83.3
+12 Bamboo RB0017 26°30'44.5"N 86°43'45.4"E 84.5
+13 Tree RB0020 26°30'34.1"N 86°43'44.4"E 85.1
+14 Tree RB0025 26°30'12.2"N 86°44'39.6"E 89.5
+15 Tree RB0028 26°30'13.5"N 86°44'41.8"E 86.6
+16 Tree RB0029 26°30'17.8"N 86°44'41.3"E 78.8
+17 Tree RB0030 26°30'17.9"N 86°44'42.5"E 80.5
+18 Tree RB0031 26°30'13.4"N 86°44'45.7"E 83.7
+19 Tree RB0032 26°30'17.7"N 86°44'43.5"E 81.5
+20 Tree RB0033 26°30'12.3"N 86°44'44.1"E 84.2
+21 Tree RB0034 26°30'18.7"N 86°44'46.2"E 82.4
+22 Electric Pole RB0035 26°30'18.2"N 86°44'50.3"E 81.1
+23 Tree RB0036 26°30'21.1"N 86°44'56.0"E 82.2
+24 Tree RB0037 26°30'23.9"N 86°44'46.2"E 87.6
+25 Bamboo RB0041 26°30'25.1"N 86°44'42.4"E 89.5
+26 Tree RB0045 26°30'23.8"N 86°44'40.2"E 78 
+27 Brick Chimney RB0049 26°30'2.4"N 86°44'59.0"E 101.2
+28 Brick Chimney RB0050 26°29'55.8"N 86°45'2.6"E 99.5
+29 Brick Chimney RB0051 26°29'47.6"N 86°45'14.9"E 90.4
+30 Brick Chimney RB0052 26°29'55"N 86°45'9.0"E 101.2
+31 Brick Chimney RB0053 26°30'6.1"N 86°45'4.5"E 96.8
+32 Brick Chimney RB0054 26°30'4.9"N 86°45'14.5"E 95.5
+33 Brick Chimney RB0055 26°30'9.6"N 86°45'12.4"E 94.8
+34 Brick Chimney RB0056 26°29'37.2"N 86°45'11"E 100
+AIP 
+NEPAL 
+VNRB AD 2-3 
+01 JULY 2022 
+      C I V I L  A V I A T I O N  A U T H O R I T Y  O F  N E P A L  8th EDITION 
+
+=== Page 4 ===
+35 Brick Chimney RB0057 26°30'39.9"N 86°45'20.0"E 88.1
+36 Brick Chimney RB0058 26°30'39"N 86°45'23.4"E 96.1
+37 Brick Chimney RB0059 26°30'37.4"N 86°45'33.2"E 96.1
+38 Brick Chimney RB0060 26°30'49.9"N 86°45'52.2"E 103.4
+39 Brick Chimney RB0061 26°30'42.5"N 86°45'44.1"E 102.2
+40 Telecom Tower RB0062 26°30'27.5"N 86°45'59.5"E 99.9
+41 Telecom Tower RB0063 26°30'11.3"N 86°43'32.3"E 96.0
+42 WIFI Antenna RB0064 26°30'11.6"N 86°43'34.3"E 90.5
+43 Tree RB0065 26°30'42.6"N 86°43'31.5"E 88.0
+44 Tree RB0066 26°30'43.8"N 86°43'32.5"E 88.9
+45 Tree RB0067 26°30'43.8"N 86°43'32.5"E 89.5
+46 Tree RB0068 26°30'44.6"N 86°43'32.2"E 88.5
+47 Tree RB0069 26°30'44.4"N 86°43'37.2"E 84.5
+48 Tree RB0070 26°30'46.2"N 86°43'39.3"E 90.4
+49 Tree RB0071 26°30'50"N 86°43'38.4"E 98.1
+50 Tree RB0072 26°30'45.8"N 86°43'40.1"E 87.4
+51 Tree RB0073 26°30'48.7"N 86°43'40.1"E 94.3
+52 Tree RB0074 26°30'50"N 86°43'38.4"E 97.7
+53 Tree RB0075 26°30'47.5"N 86°43'40.6"E 88.7
+54 Tree RB0076 26°30'52.1"N 86°43'39.9"E 98.9
+55 Tree RB0077 26°30'53.4"N 86°43'38.3"E 90.9
+56 Tree RB0078 26°30'43.5"N 86°43'25.9"E 94.0
+57 Tree RB0079 26°30'50"N 86°43'26.7"E 86.9
+58 Telecom Tower RB0080 26°32'18.7"N 86°44'53.6"E 110.9
+59 Telecom Tower RB0081 26°32'18.7"N 86°44'53"E 117.9
+60 Telecom Tower RB0082 26°32'11.4"N 86°44'50.6"E 121.3
+61 Telecom Tower RB0083 26°31'2.7"N 86°44'57.4"E 100.8
+62 Telecom Tower RB0084 26°31'30.3"N 86°44'1.7"E 106.8
+63 Telecom Tower RB0085 26°31'42.4"N 86°43'42.9"E 116.1
+64 Telecom Tower RB0086 26°32'42.8"N 86°44'55.5"E 219.0
+65 Telecom Tower RB0087 26°32'44.4"N 86°44'55.3"E 165.3
+66 Telecom Tower RB0088 26°32'42.8"N 86°44'55.5"E 159.3
+VNRB AD 2.11 METEOROLOGICAL INFORMATION PROVIDED 
+1 Associated MET Office - 
+2 Hours of service MET office outside hours - 
+3 Office responsible for TAF preparation periods of validity - 
+4 Type of landing forecast interval of issuance - 
+5 Briefing/Consultation provided -
+6 Flight documentation language(s) used - 
+7 Charts and other information available for briefing or consultation -
+8 Supplementary equipment available for providing information -
+9 ATS units provided with information - 
+10 Additional information (limitation of service, etc.) -
+* WGS 84 Coordinates
+_______________________ 
+ A I P  VNRB AD 2-4 
+01 JULY 2022              NEPAL 
+CIVIL  AVIATION  AUTHORITY  OF  NEPAL 8th EDITION 
+
+=== Page 5 ===
+         
+VNRB AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS 
+Designation 
+RWY 
+NR
+TRUE BRG Dimensions 
+of RWY (M) 
+Strength(PCN) 
+and surface of 
+RWY and 
+SWY
+THR 
+Coordinates 
+THR elevation and 
+Highest elevation of 
+TDZ of Precision APP 
+RWY 
+1 2 3 4 5 6 
+11 1590 ×30 Asphalt 
+Concrete 
+263040.90N
+0864349.88E 
+75.9m (249 ft.) 
+AMSL 
+29 1590 ×30 Asphalt 
+Concrete 
+263022.02N
+0864439.85E 
+73.4m (241 ft.) 
+AMSL 
+Slope of 
+RWY-SWY 
+SWY 
+Dimensions (M) 
+CWY 
+Dimensions (M) 
+Strip 
+Dimensions (M) 
+OFZ Remarks 
+7 8 9 10 11 12 
+………. ………. ………. ………. ………. ………. 
+VNRB AD 2.13 DECLARED DISTANCES
+RWY Designator TORA 
+(m) 
+TODA 
+(m) 
+ASDA 
+(m) 
+LDA 
+(m) 
+Remarks 
+1 2 3 4 5 6 
+11 1590 1590 1590 1590
+29 1590 1590 1590 1500 
+VNRB AD 2.14 APPROACH AND RUNWAY LIGHTING
+VNRB AD 2.15 OTHER LIGHTING, SECONDARY POWER SUPPLY
+113°
+293°
+AIP 
+NEPAL 
+V  NRB  AD    2-  5 
+26 January 2025
+ CIVIL  AVIATION  AUTHORIT Y  OF  NEPALAMDT 01/2025
+RWY 
+Designator 
+APCH 
+LGT 
+type 
+LEN 
+INTST 
+THR 
+LGT 
+color 
+WBAR 
+VASIS 
+PAPI 
+TDZ 
+LGT 
+LEN 
+RWY 
+Center 
+Line 
+LGT 
+Length, 
+spacing 
+color, 
+INTST 
+RWY edge LGT 
+LEN, spacing color 
+INTST 
+RWY 
+End 
+LGT 
+color 
+SWY 
+LG T 
+LEN 
+(M) 
+color 
+Remarks 
+1 2 3 4 5 6 7 8 9 10 
+11 NIL Green PAPI 
+3.00° NIL NIL 
+1590m, 60m, 
+variable white, 
+white- yellow, LIH
+Red NIL 
+29 NIL Green APAPI 
+3.00° NIL NIL 
+1590m, 60m, 
+variable white, 
+white- yellow, LIH
+Red NIL 
+1. ABN Location, characteristics and 
+hours of oper
+ation 
+ABN: Above Aerodrome Control Tower, Green flashes 
+alternating with white flashes, 28 flashes per minute 
+normally after Sunset. 
+2. LDI Location and LGT Anemometer 
+Location and LGT
+ 
+3. TWY edge and Centre line lighting Edge: All T WY 
+ Centre Line : NIL 
+4. Secondary power supply / switch over 
+time 
+Stand-by Diesel Generator to all lighting and Uninterrupted 
+Power Supply to Airfield Ground Lighting (AGL) System 
+at AD. Switch overtime : Automatic (within 15 Sec.)
+5. Runway Threshold Identification Light 
+(RTIL) Locat
+ion and Characteristics 
+Location: RWY Threshold 11, Flashing white light with 
+flash frequency 120 per minute. 
+
+
+=== Page 6 ===
+VNRB AD 2.16 HELICOPTER LANDING AREA 
+Not specified 
+VNRB AD 2.17 ATS AIRSPACE
+1. Design
+ation and lateral limits
+2. Vertical Limits
+3. Airspace classification C 
+4. ATS units call sign/languages(s)
+5. Transition Altitude
+6. Remarks
+VNRB AD 2.18 ATS COMMUNIOCATION FACILITIES 
+Service 
+Designation Call Sign Frequency 
+Hours of 
+Operation Remarks 
+1 2 3 4 5 
+TWR Rajbiraj Tower VHF 
+122.5 MHZ 
+VNRB AD 2.19 RADIO NAVIGATION AND LANDING AID 
+Type of Aid 
+Identification Frequency 
+OPR 
+Hours Coordinates Remarks 
+1 2 3 4 5 6 
+VOR/DME 
+- - - - - 
+* WGS 84 Coordinates
+CIVIL AVIATION AUTHORITY OF NEPAL
+Rajbiraj Tower/English
+13500 ft. AMSL
+As ATS
+Rajbiraj CTR : An  a r ea   b ounded  b y    Kathmandu 
+FIR(VNSM)  b oundary  from point  263554N  0862245E 
+to  262726N  0865246E  then  a long clockwise arc 20NM
+radius centered at  point 262858N 0871458E (BRT VOR)
+to point 263747N 0865458E, 26 42 19N  0864459 E , 
+265031N,  0864109E  then  a long  a nti-clockwise  ar c  of 
+20  NM radius  centered  at    263038N  0864417E  (ARP) 
+to  263554N 0862245E.
+7000’ AMSL
+GND
+CTR: ATZ:
+ A I P  VNRB AD 2-6 
+01 JULY 2022           NEPAL 
+8th EDITION 
+
+=== Page 7 ===
+VNRB AD 2.20 LOCAL TRAFFIC REGULATIONS
+To be developed 
+VNRB AD 2.21 NOISE ABATEMENT PROCEDURES 
+NIL  
+CIVIL AVIATION AUTHORITY OF NEPAL 
+         
+AIP 
+NEPAL
+ 
+V  NRB AD     2-  7 
+01 JULY 2022 
+8th EDITION 
+
+=== Page 8 ===
+VNRB AD 2.22 FLIGHT PROCEDURES 
+NIL 
+CIVIL AVIATION AUTHORITY OF NEPAL
+ A I P  VNRB AD 2-8 
+01 JULY 2022         NEPAL 
+8th EDITION 
+
+=== Page 9 ===
+VNRB AD 2.23 ADDITIONAL INFORMATION
+1. Bird Activity
+a) Sometimes cases of bird concentrations in the vicinity of aerodrome may be encountered.
+b) No Special procedures have been adopted to control these bird concentrations except
+driving them through guards and security personnel.
+     CIVIL AVIATION AUTHORITY OF NEPAL 
+         
+AIP 
+NEPAL
+ 
+V  NRB AD     2-  9 
+01 JULY 2022 
+8th EDITION 
+
+=== Page 10 ===
+CIVIL AVIATION AUTHORITY OF NEPAL
+VNRB AD 2.24  CHARTS RELATED TO  RAJBIRAJ AIRPORT 
+VNRB AD 2-11Control Zone (CTR)  
+RNAV GNSS approach procedure 
+at Rajbiraj Airport  
+VNRB AD 2-12     -      VNRB AD 2-16 
+ A I P  VNRB AD 2-10 
+01 JULY 2022
+          NEPAL 
+Rajbiraj Airport Runway Chart VNRB AD 2-17
+8th EDITION 
+
+=== Page 11 ===
+B
+20NMARP
+Co
+ntrolZo
+ne
+ARP
+Kathmandu
+FIR(VNSM
+)
+Kolkota FIR(VECF)
+26 42 19 N 86 44 59 E
+26 37 47 N 86 54 58 E
+26 27 26 N 86 52 46 E
+26 35 54 N 86 22 45 E
+26 30 38 N 86 44 17 E
+26 50 31 N 86 41 09 E
+1:400,000
+.
+Control Zone(CTR) Rajbiraj Airport
+AIRSPACE IDENT. LATERAL LIMIT VERTICAL LIMIT 
+Control 
+Zone 
+CTR An area bounded by  Kathmandu FIR(VNSM) boundary from 
+point 26 3554N 0862245E to 262726N 0865246E then along 
+clockwise arc 20NM radius centered at point 262858.2N 0871458.2E 
+(BRT VOR) to point 263747N 0865458E, 26 42 19N  0864459 E 
+, 265031N, 0864109E then along anti-clockwise arc of 20 NM 
+radius centered at  263038N 0864417E (ARP) to 263554N 
+0862245E  
+7000 ft AMSL 
+GND 
+AIP VNRB AD 2-11
+NEPAL     01 JULY 2022
+           CIVIL AVIATION AUTHORITY OF NEPAL8th EDITION 
+
+=== Page 12 ===
+RNAV GNSS flight procedures at Rajbiraj Airport (VNRB) 
+RWY SIDs STARs APPROACH 
+29 KHOPU 1B 
+2. RNP CAPABILITY LOST
+If the RNP Approach capability is lost, ATC shall be informed as soon as possible the alternate
+course of action from the pilots of the concerned aircraft.
+3. LIST OF WAYPOINTS:
+Waypoint Identifier Coordinates 
+AHALE 27°11'48.0''N 086°07'05.0"E 
+HAPTE 27°03'52.6"N 086°06'41.5"E 
+MUKAR 26°49'59.6"N 086°25'24.7"E 
+LANOB 26°43'23.4"N 086°28'53.7"E 
+BHANA 26°40'04.6"N 086°39'54.9"E 
+KHOPU 26°42'04.8"N 086°39'31.1"E 
+SASRA 27°01'48.9"N 086°23'07.4"E 
+RB101 26°34'56.8"N 086°32'30.8"E 
+RB102 26°32'37.9"N 086°38'39.5"E 
+MAPt 26°30'40.9"N 086°43'49.9"E 
+4. CODING TABLE: AHALE 1A ARRIVAL
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier 
+Fly-
+over 
+Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 IF AHALE - - - - - +11500 - - RNP-1 
+002 TF HAPTE - 183°  - 7.9 L +9500 - - RNP-1 
+004 TF LANOB - 155°  - 7.3 - +4500 - - RNP-1 
+C IVIL AVIATION AUTHORITY OF NEPAL 
+003 TF MUKAR - 130° - 21.7 R +7000 - - RNP-1 
+AIP VNRB AD 2-12
+NEPAL   01 JULY 2022 
+1. NAMING OF PROCEDURES
+There are one RNP1 STAR, two RNP1 SIDs and one RNP APCH procedures to Rajbiraj  
+Runway 11/29   and are named in accordance with the ICAO naming convention as tabulated 
+below. 
+11 KHOPU 1A 
+AHALE 1A RNP RWY 11 
+8th EDITION 
+
+=== Page 13 ===
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier 
+Fly-
+over 
+Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 IF LANOB 
+(IAF) - - - - - +4500 - - RNP APCH 
+002 TF RB101 
+(IF) - 159°  - 9.0 L @2500 - - RNP APCH 
+003 TF RB102 (FAF) - 113° - 5.9 - +1900 - - RNP APCH 
+004 TF RW11 
+(MAPt) Y  113° - 5.0 - @570 - 3.00/50 RNP APCH 
+005 CA RW11 (MAPt) - 113° - - L @ 700 - - RNP APCH 
+006 DF BHANA 
+(MAHF) - - - - - +2300 - - RNP APCH 
+007 MH BHANA 
+(MAHF) - - - - R -5000 
++3000 -160 - - 
+6 . CODING TABLE:  SID KHOPU 1A RWY 11 
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier Flyover Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 CA - - 113° - - L @700 - - RNP-1 
+002 DF KHOPU - - - - - +3200 - - RNP-1 
+003 TF SASRA - 323° - 24.5 - +12500 - - RNP-1 
+7 . CODING TABLE:  SID KHOPU 1B RWY 29 
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier Flyover Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 CA - - 293° - - R @700 - - RNP-1 
+002 DF KHOPU - - - - - +3200 - - RNP-1 
+003 TF   SASRA - 323° - 24.5 - +12500 - - RNP-1 
+AIP VNRB AD 2-13 
+NEPAL 01 JULY 2022 
+C IVIL AVIATION AUTHORITY OF NEPAL 
+5. CODING TABLE:  RNP RWY 11
+8th EDITION 
+
+=== Page 14 ===
+AIP 
+NEPAL 
+VNRB AD 2-14 
+01 JULY 2022 
+CIVIL AVIATION AUTHORITY OF NEPAL 8th EDITION 
+
+=== Page 15 ===
+AIP 
+NEPAL 
+VNRB AD 2-15 
+01 JULY 2022
+ 
+C IVIL AVIATION AUTHORITY OF NEPAL 8th EDITION 
+
+=== Page 16 ===
+C IVIL AVIATION AUTHORITY OF NEPAL 
+AIP 
+NEPAL 
+VNRB AD 2-16 
+01 JULY 2022 
+8th EDITION 
+
+=== Page 17 ===
+Civil Aviation Authority Of Nepal
+       Rajbiraj Airport
+Rajbiraj Airport Runway Chart
+N
+90.00
+1500.00
+160.00
+160.00
+30.00
+50.00
+S
+E W
+122.00
+70.00
+All Diamentions are in Meter
+VNRB  AD 2-17 
+01 JULY 2022 
+AIP
+NEAPL
+8th EDITIONCIVIL AVIATION AUTHORITY OF NEPAL
+

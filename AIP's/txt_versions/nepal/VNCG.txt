@@ -1,0 +1,1517 @@
+=== Page 1 ===
+AIP 
+NEPAL 
+AD 2. AERODROME 
+VNCG AD 2-1 
+1 January 2024
+VNCG AD 2.1 AERODROME LOCATION INDICATOR AND NAME 
+VNCG – CHANDRAGADHI/Domestic 
+VNCG AD 2.2 AERODROME GEOGRAPHICAL AND 
+ADMINISTRATIVE DATA 
+1. ARP Coordinates and site at AD 263411 N 0880438 E * 
+2. Direction and Distance from (city) Adjoining to the North of Bhadrapur City 
+3. Elevation/Reference Temperature 96.4m. (316.2 ft.)/-
+4. MAG VAR/Annual Change 0 ° W 
+5. AD Administration, address 
+Telephone, Telefax, Telex AFS 
+Civil Aviation Authority of Nepal 
+Chandragadhi Civil Aviation Office, 
+Chandragadhi, Jhapa 
+Te1- 977-23-452075 
+Fax - 977-23-453801 
+AFS - VNCGYDYX 
+6. Types of traffic permitted (IFR/VFR) IFR/VFR 
+7. Remarks - 
+VNCG AD 2.3 OPERATIONAL HOURS 
+1. AD Administration 
+2. Customs and immigration NIL 
+3. Health and sanitation NIL 
+4. AIS Briefing Office NIL 
+5. ATS Reporting Office (ARO) NIL 
+6. MET Briefing NIL 
+7. ATS
+8. Fuelling Jet A1 During Operation Hours 
+9. Handling (Cargo) NIL 
+10. Security H-24
+11. Remarks Any change will be notified by NOTAM 
+* WGS  84 Coordinates
+CIVIL AVIATION AUTHORITY OF NEPAL 
+1)From 16 Feb - 15 Nov (0015 - 1815) UTC
+2 2)) ) From 16 Nov - 15 Feb (0045 - 1815) UTC
+SUN-THU 10:00 -17:00 LT (SUMMER), 
+10:00-1600 LT (WINTER), 
+FRI 10:00-1500 LT 
+AMDT 01/2024
+
+=== Page 2 ===
+VNCG AD 2.4      HANDLING SERVICES AND FACILITIES
+1 Cargo-handling facilities Available with local airlines operator  
+2. Fuel/Oil Types Jet A1/Not Available 
+3. Fuelling facilities/capacity Storage Capacity (KL):  
+Physical -76, Mobile-23 
+Storage Type: 
+Physical and Refueling 
+Refueller Details: 
+AR22 (12 KL), AR29 (11 KL) 
+4. De-icing facilities NIL 
+5. Hangar space for visiting aircraft NIL 
+6. Repair facilities for visiting aircraft NIL 
+7. Remarks - 
+VNCG AD 2.5  PASSENGER FACILITIES
+1. Hotels in the city 
+2. Restaurants in the city 
+3. Transportation Taxi Service, Rickshaw from AD  
+4. Medical Facilities First Aid at AD, Hospitals in the city.  
+5. Bank and Post Office NIL 
+6. Tourist Office - 
+7. Remarks - 
+VNCG AD 2.6  RESCUE AND FIRE FIGHTING SERVICE
+VNCG AD 2.7  SEASONAL AVAILABILITY
+Aerodrome is available throughout the year. 
+VNCG AD 2.8   APRONS, TAXIWAYS AND CHECK LOCATION DATA
+1. Apron surface and strength Surface - Asphalt Concrete, 
+Strength - … 
+2. Taxiway width, surface and strength Width -   22m        Surface – Asphalt, 
+Strength - 27/F/C/Y/T
+ 
+3. Altimeter check point location
+and elevation
+CIVIL AVIATION AUTHORITY OF NEPAL
+ AIPVNCG AD 2-2   
+30 April 2025 NEPAL
+1. Category – 5
+2.
+3. 
+4. Ambulance Service and wheel type of fire 
+extinguishers available. 
+Available as per RFF Category 
+AD category for fire fighting
+Rescue equipment
+Capability for removal of disabled aircraft
+Remarks
+Nil
+AMDT 03/2025
+
+
+=== Page 3 ===
+P. 
+No. Obs. ID Latitude 
+WGS84 
+Longitude 
+WGS84 
+MSL 
+Height Remarks 
+1 CG001 26°34'5.331"N 88°5'18.566"E 104.241 TREE 
+2 CG002 26°34'11.163"N 88°4'38.268"E 108.153 APRON LIGHTING 
+3 CG003 26°34'10.311"N 88°4'38.392"E 110.325 WIFI ANTENNA 
+4 CG004 26°34'10.694"N 88°4'36.127"E 107.443 APRON LIGHTING 
+5 CG005 26°34'10.942"N 88°4'34.403"E 107.384 APRON LIGHTING 
+6 CG006 26°34'16.081"N 88°4'14.706"E 109.833 TEMPLE PINNACLE 
+7 CG007 26°34'16.595"N 88°4'12.704"E 112.756 HOUSE TOP CDO Office 
+8 CG008 26°34'14.352"N 88°4'13.895"E 114.662 HOUSE TOP 
+9 CG009 26°34'13.685"N 88°4'14.010"E 116.591 TREE 
+10 CG010 26°34'15.336"N 88°4'15.798"E 111.779 TREE 
+11 CG011 26°34'13.474"N 88°4'16.072"E 116.794 TREE 
+12 CG012 26°34'15.719"N 88°4'15.724"E 108.371 HOUSE TOP 
+13 CG013 26°34'16.380"N 88°4'14.896"E 108.088 HOUSE CORNER TEMPLE PINNACLE 
+14 CG014 26°34'15.995"N 88°4'14.982"E 108.080 HOUSE CORNER 
+15 CG015 26°34'16.461"N 88°4'12.902"E 108.548 HOUSE TOP 
+16 CG016 26°34'25.846"N 88°4'14.189"E 114.161 TREE 
+17 CG017 26°34'12.427"N 88°4'23.063"E 119.681 TREE 
+18 CG018 26°34'19.743"N 88°4'23.429"E 103.503 WIND SHOCK 
+19 CG019 26°34'3.818"N 88°5'11.605"E 115.776 TREE 
+20 CG020 26°34'14.327"N 88°5'12.764"E 107.044 BAMBOO TREE TOP 
+21 CG021 26°34'14.272"N 88°5'13.559"E 103.073 BAMBOO TREE TOP 
+22 CG022 26°34'15.139"N 88°5'13.081"E 113.799 TREE 
+23 CG023 26°34'10.484"N 88°4'39.567"E 112.584 ATC TOP 
+24 CG024 26°34'8.184"N 88°4'48.345"E 120.405 TREE 
+25 CG025 26°34'9.649"N 88°4'51.032"E 117.169 TREE 
+26 CG026 26°34'8.222"N 88°4'49.404"E 118.397 TREE 
+27 CG027 26°34'6.988"N 88°4'5.718"E 119.545 TELECOMMUNICATIONS TOWER 
+28 CG028 26°34'6.611"N 88°4'3.909"E 117.226 WIFI ANTENNA 
+29 CG029 26°34'7.449"N 88°3'59.234"E 122.587 TELECOMMUNICATIONS TOWER 
+AIP   
+NEPAL     
+VNCG AD 2-3
+20 April 2023
+VNCG AD 2.10        AERODROME OBSTACLES
+VNCG AD 2.9          SURFACE MOVEMENT GUIDANCE AND CONTROL SYSTEM 
+AND MARKINGS 
+Taxiing guidance signs at TWY and RWY 
+ THR, RWY edge have lights. 
+TWY:  Center line, holding positions at TWY/RWY 
+2. RWY and TWY markings and LGT RWY: RWY10/28, TH R ,  T D Z,  C en te r  lin e ,
+R WY edge marked and R W Y end,
+1. Use of aircraft stand ID signs, TWY guide 
+lines  and  visual  docking/parking  guidance 
+system of aircraft stands 
+intersection marked and TWY edge with 
+blue lights. 
+3. Stop bars 
+4. Remarks NIL 
+NIL 
+CIVIL AVIATION AUTHORITY  OF NEPALAMDT 04/2023
+
+
+=== Page 4 ===
+30 CG030 26°34'13.567"N 88°3'54.312"E 123.693 WATER TANK 
+31 CG031 26°34'30.847"N 88°4'4.578"E 117.285 TELECOMMUNICATIONS TOWER 
+32 CG032 26°34'6.509"N 88°4'9.145"E 121.661 TELECOMMUNICATIONS TOWER 
+33 CG033 26°34'28.902"N 88°3'50.403"E 122.783 TREE 
+34 CG034 26°34'28.134"N 88°3'38.847"E 113.803 HOTEL TOP 
+35 CG035 26°34'29.534"N 88°3'48.799"E 110.518 TREE 
+36 CG036 26°34'46.571"N 88°3'16.844"E 118.452 TELECOMMUNICATIONS TOWER 
+37 CG037 26°34'59.329"N 88°3'25.006"E 127.775 WATER TANK 
+38 CG038 26°35'41.828"N 88°2'24.237"E 138.084 FACTORY CHIMNEY 
+39 CG039 26°35'41.115"N 88°2'11.871"E 126.763 TELECOMMUNICATIONS TOWER 
+40 CG040 26°36'5.501"N 88°1'34.879"E 130.911 TELECOMMUNICATIONS TOWER 
+41 CG041 26°36'38.167"N 88°1'30.383"E 132.037 WATER TANK 
+42 CG042 26°32'40.997"N 88°5'47.090"E 121.300 FACTORY CHIMNEY 
+43 CG043 26°32'55.504"N 88°5'18.835"E 140.928 TELECOMMUNICATIONS TOWER 
+44 CG044 26°33'7.063"N 88°5'28.508"E 123.102 CHIMNEY 
+45 CG045 26°33'19.426"N 88°5'21.357"E 125.737 FM TOWER 
+46 CG046 26°33'59.084"N 88°4'15.830"E 121.383 TELECOMMUNICATIONS TOWER 
+47 CG047 26°34'4.165"N 88°5'1.507"E 124.170 TELECOMMUNICATIONS TOWER 
+48 CG048 26°33'37.436"N 88°4'58.320"E 114.139 WATER TANK 
+49 CG049 26°38'57.130"N 88°3'18.263"E 174.267 TELECOMMUNICATIONS TOWER 
+50 CG050 26°39'7.028"N 88°3'22.144"E 156.294 TELECOMMUNICATIONS TOWER 
+51 CG051 26°37'54.157"N 88°3'43.269"E 150.774 FACTORY CHIMNEY 
+52 CG052 26°37'42.093"N 88°3'46.873"E 154.085 CEMENT FACTORY TOP 
+53 CG053 26°38'0.417"N 88°3'48.438"E 152.120 FACTORY CHIMNEY 
+54 CG054 26°37'17.664"N 88°4'3.282"E 144.834 FACTORY CHIMNEY 
+55 CG055 26°36'23.259"N 88°4'45.649"E 130.476 TELECOMMUNICATIONS TOWER 
+56 CG056 26°35'15.231"N 88°4'13.325"E 126.238 WATER TANK 
+57 CG057 26°35'54.155"N 88°4'31.856"E 137.771 TREE 
+58 CG058 26°35'54.875"N 88°4'29.896"E 140.068 TREE 
+59 CG059 26°35'52.530"N 88°4'25.923"E 134.435 TREE 
+60 CG060 26°35'24.950"N 88°5'13.296"E 130.107 BRICK CHIMNEY 
+61 CG061 26°34'15.455"N 88°5'37.820"E 114.113 FACTORY CHIMNEY CTC TEA 
+62 CG062 26°34'13.384"N 88°5'49.521"E 113.262 FACTORY CHIMNEY 
+63 CG063 26°33'55.682"N 88°5'37.809"E 114.937 FACTORY CHIMNEY 
+64 CG064 26°32'2.424"N 88°6'39.191"E 130.841 
+TELECOMMUNICATIONS TOWER 
+(INDIA) 
+65 CG065 26°32'16.050"N 88°6'12.112"E 109.331 STADIUM LIGHT (INDIA) 
+CIVIL AVIATION AUTHORITY  OF NEPAL AMDT 04/2023
+VNCG AD 2-4 
+20 April 2023
+AIP   
+NEPAL     
+
+
+=== Page 5 ===
+VNCG AD 2.11 METEOROLOGICAL INFORMATION PROVIDED 
+1. Associated MET Office --- 
+2. Hours of service MET office outside hours As ATS 
+3. Office responsible for TAF preparation periods of validity NIL
+4. Type of landing forecast interval of issuance NIL
+5. Briefing/Consultation provided NIL
+6. Flight documentation language(s) used NIL
+7. Charts and other information available for briefing or consultation NIL
+8. Supplementary equipment available for providing information NIL
+9. ATS units provided with information Chandragadhi TWR
+10. Additional information (limitation of service, etc.) NIL
+VNCG AD 2.12 RUNWAY PHYSICAL CHARACTERISTICS 
+Designation
+RWY NR 
+TRUE & MAG
+BRG 
+Dimensions
+of RWY (M) 
+Strength(PCN) and 
+surface of RWY 
+and SWY 
+THR
+Coordinates THR elevation 
+1 2 3 4 5 6
+10 1000 1500x 30
+Bitumen 
+28 2800 1500x30
+Bitumen 
+Slope of 
+RWY-SWY
+SWY 
+Dimensions (M)
+CWY 
+Dimensions 
+(M) 
+Strip Dimensions 
+(M) OFZ Remarks 
+7 8 9 10 11 12 
+………. ………. ………. . .. .... ………. ………. 
+263419.18N* 
+0880417.77E
+263410.58N* 
+0880511.11E
+96.4 m
+(316.2 ft.)
+16/F/D/Y/T
+16/F/D/Y/T 93.1m 
+(305.4 ft.)
+AIP   
+NEPAL     
+VNCG AD 2-5 
+1 January 2024
+CIVIL AVIATION AUTHORITY   OF NEPALAMDT 01/2024
+
+=== Page 6 ===
+VNCG AD 2.13  DECLARED DISTANCES 
+RWY Designator TORA (m) TODA (m) ASDA (m) LDA (m) Remarks 
+1 2 3 4 5 6 
+10 
+28 
+1500 
+1500 
+1500 
+1500 
+1500 
+1500 
+1500 
+1500 
+VNCG AD 2.14  APPROACH AND RUNWAY LIGHTING 
+RWY 
+Designator 
+APCH 
+LGT 
+type 
+LEN 
+INTST 
+THR LGT 
+color 
+WBAR 
+VASIS 
+PAPI 
+TDZ 
+LGT 
+LEN
+ 
+RWY Center 
+Line LGT 
+Length, spacing 
+color, INTST 
+RWY edge 
+LGT LEN, 
+spacing 
+color 
+INTST
+ 
+RWY 
+End 
+LGT 
+color 
+WBAR
+SWY 
+LGT 
+LEN M 
+color Remarks 
+1 2 3 4 5 6 7 8 9 10 
+10 NIL Green PAPI 
+3.00° 
+NIL NIL 1500m, 60m, 
+White, LIM
+Red NIL 
+28 NIL Green PAPI 
+3.00° 
+NIL NIL 1500m, 60m, 
+White, LIM Red NIL 
+VNCG AD 2.15       OTHER LIGHTING, SECONDARY POWER SUPPLY 
+1. ABN Location, characteristics and hours 
+of operation 
+ABN: at above Aerodrome Control Tower, Green flashes alternating 
+with white flashes, 28 flashes per minute normally after Sunset.  
+2. LDI Location and LGT Anemometer 
+Location and LGT 
+3. TWY edge and Centre line lighting Edge: All TWY 
+Centre Line : NIL 
+4. Secondary power supply / switch over 
+time 
+Stand-by Diesel Generator to all lighting and Uninterrupted Power 
+Supply to Airfield Ground Lighting (AGL) System at AD. with 30 
+minutes back up. 
+5. Runway Threshold Identification Light 
+(RTIL) Location and Characteristics  
+Location: RWY Threshold 10/28, Flashing white light with flash 
+frequency 120 per minute. 
+VNCG AD 2.16  HELICOPTER LANDING AREA 
+Not specified 
+VNCG AD 2.17  ATS AIRSPACE  
+1. Designation and lateral limits Chandragadhi ATZ: 
+An area of a circle of 5 NM radius centered at Chandragadhi ARP and to 
+the East up to VNSM FIR. 
+Chandragadhi CTR: 
+An area bounded by (262617N; 0875024E) then along an arc of a 
+circle of 15 NM radius centered at Chandragadhi ARP to (264810N; 
+0881049E) and along Kathmandu FIR (VNSM) to (262617N; 
+0875024E). 
+2. Vertical Limits ATZ:     2000' AGL CTR :        9500' AMSL 
+GND        GND 
+3. Airspace classification C 
+4. ATS units call sign/languages(s) Chandragadhi TWR/English 
+5. Transition Altitude 13500' AMSL 
+6. Remarks - 
+VNCG AD 2-6 
+20 April 2023
+AIP   
+NEPAL     
+CIVIL AVIATION AUTHORITY  OF NEPAL AMDT 04/2023
+
+=== Page 7 ===
+VNCG AD 2.18 ATS COMMUNICATION FACILITIES 
+Service 
+Designation 
+Call 
+Sign 
+Frequency Hours of 
+Operation 
+Remarks 
+1 2 3 4 5 
+TWR Chandragadhi 
+Tower 
+122.5 MHZ 
+VNCG AD 2.20 LOCAL TRAFFIC  REGULATIONS 
+To be Developed 
+VNCG AD 2.21 NOISE ABATEMEN T PROCEDURES 
+NIL 
+As ATS
+CIVIL AVIATION AUTHORITY  OF NEPALAMDT 03/2025
+AIP   
+NEPAL     
+VNCG AD 2-7  
+30 April 2025
+VNCG AD 2.19 RADIO NAV NAVIGATION AND LANDING AID 
+Type of Aid 
+MAG VAR 
+Type of supported 
+OP (for 
+VOR/ILS/MLS give 
+declinations) ID Frequency 
+OPR 
+Hours 
+Position of 
+Transmitting
+Antenna 
+Coordinates 
+Elevation of 
+DME 
+Transmitting 
+Antenna Remarks 
+1 2 3 4 5 6 7 
+DVOR/DME 0.50 E BDP 115.6 MHz 
+CHN 103X 
+H24 263406.8N 
+0880532.9E 
+105m DVOR/DME coverage classification as 
+restricted due to mountainous terrain as 
+following. 
+a. DVOR/DME coverage signal is available
+on radials till:
+- 41 nm. on R263 at altitude 2,000 ft. (MSL)
+- 40 nm. on R295 at altitude 12,500 ft. (MSL)
+- 40 nm. on R313 at altitude 13,000 ft. (MSL)
+b. DVOR/DME coverage signal in orbit is
+available till:
+- 40 nm. on R263 – R283 at altitude should 
+not below 3,000 feet (MSL)
+- 40 nm. on R284 – R311 at altitude should 
+not below 10,000 feet (MSL)
+- 40 nm. on R312 – R345 at altitude should 
+not below 13,000 feet (MSL)
+
+=== Page 8 ===
+VNCG AD 2.22  FLIGHT PROCEDURES 
+VNCG AD 2-8  
+20 April 2023
+AIP   
+NEPAL     
+TO BE DEVELOPED 
+VNCG AD 2.23  ADDITIONAL INFORMATION 
+TO BE DEVELOPED 
+CIVIL AVIATION AUTHORITY  OF NEPAL AMDT 04/2023
+
+=== Page 9 ===
+VNCG AD 2.24  CHARTS & PROCEDURES RELATED TO CHANDRAGADHI AIRPORT
+Aerodrome Chart VNCG AD 2-10 
+VFR Holdings VNCG AD 2-12 
+AIP 
+NEPAL 
+VNCG AD 2-9 
+20 April 2023
+CIVIL AVIATION AUTHORITY OF NEPAL 
+RNAV GNSS approach procedure at Chandragadhi Airport VNCG  AD 2-13 - VNCG  AD 2-18
+Control Zone (CTR) and Aerodrome Traffic Zone (ATZ) VNCG AD 2-11 
+AMDT 04/2023 
+Standart Departure Chart - Instrument (SID) - ICAO (RWY 10)   VNCG  AD 2-19
+Standart Arrival Chart - Instrument (STAR) - ICAO   VNCG  AD 2-20
+Instrument Approach Chart - ICAO  (VOR RWY 10)    VNCG  AD 2-21
+
+=== Page 10 ===
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+X
+X
+XXX
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X X X X X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+RUNWAY (1500X30m)
+APRON
+X X X
+X
+X
+X
+Threshold
+Threshold
+Turn Pad
+Taxiway
+Touchdown Marking
+Turn Pad
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Threshold
+Turn Pad
+APRON
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X X X X X X X X X X X X X X X X X X X X X X X X X X X
+Threshold
+Turn Pad
+AERODROME CHART OF
+CHANDRAGADHI AIRPORT
+DECLARED DISTANCES
+RWY
+RWY 10
+RWY 28
+TORA TODA ASDA LDA
+1500 m
+1500m 1500m 1500m 1500m
+1500 m1500 m 1500 m
+AMDT 01/2024 CIVIL AVIATION AUTHORITY OF NEPAL
+1 January 2024 
+AIP   VNCG AD 2- 10
+NEPAL
+
+=== Page 11 ===
+A
+26°26'17''N
+087°50'24''E
+ARP
+26°34'11"N
+088°04'38"E
+26°48'10''N
+088°10'49''E
+mandu FIR (VNSM)
+Kath
+Kolkata FIR (VECF)
+Control Zone
+Aerodrome Traffic Zone
+88°15'0"E
+88°15'0"E
+88°0'0"E
+88°0'0"E
+87°45'0"E
+87°45'0"E
+26°45'0"N
+26°45'0"N
+26°30'0"N
+26°30'0"N
+Control Zone (CTR) and Aerodrome Traffic Zone (ATZ)
+Chandragadhi Airport
+AIRSPACE IDENT Lateral Limit Vertical Limit
+Aerodrome Traffic Zone ATZ An area of a circle of 5 NM radius centered at Chandragadhi ARP and to
+GND
+Control Zone CTR    
+An area bounded by (26°26'17''N; 087°50'24''E) then along an 
+arc of a circle of       NM radius centered at Chandragadhi ARP 
+to (26°48'10''N;
+ 088°10'49''E) and  along Kathmandu FIR 
+(VNSM) to
+ (26°26'17'N; 087°50'24''E).
+9500 ft AMSL 
+GND
+.
+1:300,000Scale -
+2000 ft AGL 
+the East up to VNSM FIR.
+CIVIL AVIATION AUTHORITY OF NEPAL 
+AIP
+NEPAL     
+ VNCG AD 2-11  
+01 JULY 2022
+8th EDITION 
+
+=== Page 12 ===
+#
+# #
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+!
+A> >
+Kolkata
+FIR
+(VECF)
+(INDIA)
+ARP26°34’
+088° 04’38”E
+T 294°o Kathmandu
+263°
+To Biratnagar
+Kathmandu
+FIR
+(VNSM)
+(Nepal)
+335°
+Me
+chi
+Rive
+r
+10NMARP
+ATZ 5NM ARP (GND-2000' AGL)
+CHARA
+26° 38' 46'' N
+088° 02' 11'' E
+DURGA
+26° 38' 17'' N
+087° 54' 21'' E
+HALDI
+26° 33' 36'' N
+087° 59' 01'' E
+MNM
+HOLDING
+ALT
+2000
+FT
+MNM
+HOLDING ALT
+3000
+FT
+MNM HOLDING ALT
+2000 FT
+155°
+114°
+083°
+1000
+500
+200030001000
+500
+Jhapa
+Charali
+Kechana
+Saldubi
+Birtamod
+Budhabare
+T opgachhi
+Bhadrapur
+Kakarbhitta
+200
+88°10'0"E
+88°10'0"E
+88°5'0"E
+88°5'0"E
+88°0'0"E
+88°0'0"E
+87°55'0"E
+87°55'0"E87°50'0"E
+26°50'0"N26°45'0"N
+26°45'0"N
+26°40'0"N
+26°40'0"N
+26°35'0"N
+26°35'0"N
+26°30'0"N
+26°30'0"N
+26°25'0"N
+26°25'0"N26°20'0"N1:250,000Scale 
+Visual Holdings 
+µ
+Var0°W
+KANKAIRIVER
+AIP
+NEPAL
+CIVIL AVIATION AUTHORITY OF NEPAL
+87°50'0"E  
+04
+11”N
+   VNCG  AD 2-12 
+01 JULY 2022
+8th EDITION 
+
+=== Page 13 ===
+RNAV GNSS approach procedures at Chandragadhi Airport (VNCG) 
+1. INTRODUCTION
+1.1 The following RNP1 SIDs/STARs and RNP APCH and associated Missed Approach 
+Procedures are designed for VNCG in accordance with the criteria as stipulated in the ICAO 
+PANS-OPS (DOC 8168 Vol. II). 
+1.2 The RNP1 SIDs/STARs and RNP APCH Procedures at VNCG is designed to enhance the 
+safety and efficiency of the aircraft operations to materialize the National PBN Implementation 
+Plan of Nepal. 
+1.3 One RNAV (GNSS) approach procedure with LNAV Specification only along with two RNP1 
+STARs and two RNP1 SIDs have been designed utilizes GNSS as a navigation system as 
+stipulated in ICAO PBN Manual DOC 9613. 
+1.4 A full arrival, approach and missed approach trajectories along with associated holding have 
+been designed. 
+2. APPROVED USERS, EQUIPMENT AND OPERATIONS
+2.1 For the RNP1 SIDs/STARs, RNP APCH and associated Missed Approach, the operators shall 
+ensure that they hold the all necessary operational approvals from Civil Aviation Authority of 
+Nepal (CAAN). 
+2.2 The aircraft shall be equipped with GNSS as specified in Nepalese Flight Operations 
+Requirements (FOR) and governed by the AIC 001/2011 dated 01 August 2011 (ATS 
+Requirements for PBN in Nepalese Airspace). 
+2.3 All necessary navigation system are to installed onboard so as to keep the track keeping 
+accuracy while commencing RNP1, RNP APCH and associated Missed Approach. 
+2.4 Before commencing the procedure, pilot in command must ensure that the navigation database 
+is current and the aircraft's capability of conducting the procedure like GNSS availability, 
+system performance, etc. 
+CIVI L AVIATION AUTHORITY  OF NEPAL 
+AIP
+NEPAL     
+ VNCG AD 2-13    
+01 JULY 2022
+8th EDITION 
+
+=== Page 14 ===
+3. NAMING OF PROCEDURES
+There are two RNP1 STARs, two RNP1 SIDs and one RNP APCH (LNAV only) procedures to
+Chandragadhi Runway 10 and are named in accordance with the ICAO naming convention as
+tabulated below.
+RWY SIDs STARs APPROACH 
+10 
+DHARA 1A 
+MAHES 1A 
+CHURE 1R 
+RANGA 1R 
+RNP RWY 10 (LNAV Only) 
+4. RNP CAPABILITY LOST
+If the RNP Approach capability is lost, ATC shall be informed as soon as possible the alternate
+course of action from the pilots of the concerned aircraft.
+5. List of Significant points :
+Waypoint Identifier Coordinates 
+CHURE 26°51'48.0''N 086°39'07.0''E 
+RANGA 26°30'03.4''N 087°28'17.2''E 
+DHARA 26°52'11.0"N 087°14'56.1"E 
+DAMAK 26°41'15.7"N 087°40'04.7"E 
+TAHAR 26°32'27.9''N 087°36'53.0"E 
+MAHES 26°36'26.0"N 087°51'07.0"E 
+CG481 26°34'51.0''N 088°01'00.1''E 
+CG482 26°35'33.3"N 087°56'36.5"E 
+CG483 26°44'03.1"N 088°03'14.7"E 
+CG484 26°49'03.7"N 087°53'33.9"E 
+CG485 26°50'07.2"N 087°40'12.2"E 
+MAPt (RW10) 26°34'19.1"N 088°04'17.7"E 
+TH28 26°34'10.5"N 088°05'11.1"E 
+6. Coding Table: CHURE 1R Arrival
+Seria
+l No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier 
+Fly-
+over 
+Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+1 IF CHURE - - - - - +11500 - - RNP-1 
+2 TF DHARA - 089° - 32.1 R +9500 - - RNP-1 
+3 TF DAMAK - 116° - 25.0 - +8500 - - RNP-1 
+4 TF MAHES - 116° - 11.0 - +4000 - - RNP-1 
+CIVIL AVIATION AUTHORITY OF NEPAL 
+AIP VNCG AD 2-14
+NEPAL 01 JULY 2022
+8th EDITION  
+
+=== Page 15 ===
+7. Coding Table: RANGA 1R Arrival
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier 
+Fly-
+over 
+Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+1 IF RANGA - - - - - +4000 - - RNP-1 
+2 TF TAHAR - 073° - 8.1 - +4000 - - RNP-1 
+3 TF MAHES - 073° - 13.4 - +4000 - - RNP-1 
+9. Coding Table: SID DHARA 1A RWY 10
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier Flyover Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+1 CA - - 100° - - L @700 - - RNP-1 
+2 DF CG483 - - - - L +4500 -160 - RNP-1 
+3 TF CG484 - 300° - 10.0 L +7500 -180 - RNP-1 
+4 TF CG485 - 275° - 12.0 - +10500 - - RNP-1 
+5 TF DHARA - 275° - 22.7 - +12500 - - RNP-1 
+10. Coding Table: SID MAHES 1A RWY 10
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier Flyover Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Directio
+n 
+Altitud
+e (ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+1 CA - - 100° - - L @700 - - RNP-1 
+2 DF MAHES - - - - - +6000 -160 - RNP-1 
+CIVIL AVIATION AUTHORITY  OF NEPAL 
+AIP   
+NEPAL     
+8. Coding Table: RNP RWY 10 (LNAV Only)
+Serial 
+No. 
+Path 
+Descriptor 
+Waypoint 
+Identifier 
+Fly-
+over 
+Course/Track 
+(°M/°T) 
+Magnetic 
+Variation 
+Distance 
+(NM) 
+Turn 
+Direction 
+Altitude 
+(ft) 
+Speed 
+(kts) 
+VPA/ 
+TCH 
+Navigation 
+Specification 
+001 IF MAHES 
+(IAF) - - - - - +4000 - - RNP APCH 
+002 TF CG482 
+(IF) - 100°  - 5.0 - @2600 - RNP APCH 
+003 TF CG481 
+(FAF) - 100° - 4.0 - @1300 - - RNP APCH 
+004 TF RW10 
+(MAPt) Y  100° - 3.0 L @346 - 2.94/50 RNP APCH 
+005 DF MAHES - - - - - +4000 - 160 - RNP APCH 
+HM MAHES 
+(MAHF) - - - - L +4000 - 180 - RNP-1
+VNCG AD 2-15 
+01 JULY 2022
+8th EDITION  
+
+=== Page 16 ===
+{
+{{
+{ { {{
+{
+{
+{
+{
+269º
+32.1NM
+275º
+22.7NM 275º
+12 NM
+253º
+8.1NM
+296º
+25NM
+296º
+11NM
+300º
+10.0NM
+253º
+13.4 NM DER
+RW28
+CG483
+4500'
+CG484
+7500'
+DHARA
+12500'
+CHURE
+MAHES
+6000'
+RANGA
+3000’
+TAHAR
+4000’
+‘
+CG485
+10500'
+DAMAK
+8000'
+88°0'0"E
+88°0'0"E
+87°50'0"E
+87°50'0"E
+87°40'0"E
+87°40'0"E
+87°30'0"E
+87°30'0"E
+87°20'0"E
+87°20'0"E
+87°10'0"E
+87°10'0"E
+87°0'0"E
+87°0'0"E
+86°50'0"E
+86°50'0"E
+86°40'0"E
+86°40'0"E
+27°0'0"N
+27°0'0"N
+26°50'0"N
+26°50'0"N
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+26°20'0"N
+26°20'0"N
+26°10'0"N
+26°10'0"N1:815,000
+.
+(Maximum departure turn limited to 160 Kt ) 
+Climb on runway axis. At 700ft AMSL, turn left direct to CG483 at or above 4500ft AMSL. Then track 
+300º to CG484 at or above 7500ft AMSL. Then track 275º to CG485 at or above 10500ft AMSL. 
+Then to DHARA at or above 12500 ft AMSL. 
+Transition to R344
+Transition to R344 : From DHARA track 269º to join R344 at CHURE. 
+(Maximum departure turn limited to 160 Kt) 
+Climb on runway axis. At 700ft AMSL, turn left direct to MAHES at or above 6000ft AMSL. 
+Transition to RANGA :  From MAHES track 253º to TAHAR at or above 4000ft AMSL then RANGA 
+at or above 3000ft AMSL
+Transition to R344: From MAHES  track  296º to DAMAK at or above 8000ft AMSL then DHARA 
+at or above 12500ft AMSL then track 269 º  to CHURE. 
+- Elevation/Height in feet
+- Distance in Nautical Mile
+- Bearing and Track are Magnetic
+- Departure turn limited to 160 kt IAS MAX
+turning altitude 700ft AMSL
+- Remain within Kathmandu FIR during
+the departure turn due to the proximity 
+with Kolkota FIR
+Kathmandu
+ FIR(
+VNSM)Kolkota FIR
+(VECF)
+AIP 
+NEPAL
+VNCG AD 2-16
+CIVIL AVIATION AUTHORITY OF NEPAL
+STANDARD 
+DEPARTURE 
+CHART - 
+INSTRUMENT (SID)-
+ICAO
+AERODROME ELEV 317’ 
+TRANS LEVEL: FL150’
+TRANS ALT: 13500’ ft. 
+Mag Var. 0°W
+TWR 
+122.5
+CHANDRAGADI/CHANDRAGADI AIRPORT (VNCG) 
+RWY 10
+RNP 1 SID
+DHARA 1A, MAHES 1A
+DHARA 1A RWY 10 (PDG 6.5%)
+MAHES 1A RWY 10 (PDG 6.5%
+01 JULY 2022
+8th EDITION  
+
+=== Page 17 ===
+{ {
+{
+{
+{
+{
+DHARA
+9500'
+CHURE
+11500'
+DAMAK
+8500'
+MAHES
+4000'
+TAHAR
+4000'RANGA
+4000'
+MAX IAS 18
+0KT9000'
+4000'
+089º
+32.1NM
+116º25NM
+116º11NM
+073º
+8.1NM
+073º
+13.4NM
+280º
+100º
+59916076 7907
+5781
+7113
+7303
+65035108
+4984
+6293
+5978
+5003 6060
+6962
+88°0'0"E
+87°45'0"E
+87°45'0"E
+87°30'0"E
+87°30'0"E
+87°15'0"E
+87°15'0"E
+87°0'0"E
+87°0'0"E
+86°45'0"E
+86°45'0"E
+86°30'0"E
+86°30'0"E27°0'0"N
+27°0'0"N
+26°45'0"N
+26°45'0"N
+26°30'0"N
+26°30'0"N
+26°15'0"N
+26°15'0"N
+26°0'0"N
+26°0'0"N
+º 
+KOLKATA FIR(VECF)
+KATHMANDU FIR(VNSM)
+- Elevation/Height in feet
+- Distance in Nautical mile
+- Bearing and Tracks are magnetic
+CHURE 1R From CHURE track 089º to DHARA at or above 9500 ft. AMSL. Then track 116º to DAMAK 
+at or above 8500ft AMSL. Then to MAHES at or above 4000ft. AMSL
+RANGA 1R From RANGA track 073º to TAHAR at or above 4000ft AMSL. Then to MAHES at above 
+4000ft AMSL 
+.
+1:750,000
+AIP 
+NEPAL
+CIVIL AVIATION AUTHORITY OF NEPAL
+VNCG AD 2-17 
+01 JULY 2022
+STANDARD ARRIVAL 
+CHART - INSTRUMENT 
+(STAR) - ICAO
+AERODROME ELEV 317’
+TRANS LEVEL: FL150
+TRANS ALT: 13500 ft.
+Mag Var. 0°W
+TWR 
+122.5
+CHANDRAGADHI, NEPAL/
+CHANDRAGADHI AIRPORT 
+RNP 1 STAR
+CHURE 1R, RANGA 1R
+STAR ROUTING
+8th EDITION 
+
+=== Page 18 ===
+|
+{
+{
+{
+10
+NM
+ARP
+100°
+280°
+100°
+4 NM 100°
+3 NM
+100°
+5 NM
+MAX IAS 180 KTS9000'
+4000'
+RW10
+(MAPt)
+391
+MAHES
+4000'
+CG482
+2600'
+CG481
+1300'
+376
+363
+536
+367
+426
+2169
+INSTRUMENT 
+APPROACH
+CHART - ICAO
+AERODROME ELEV 317'
+TRANS LEVEL: FL150
+TRANS ALT: 13500 ft.
+Mag Var. 0°W
+TWR 122.5
+CHANDRAGADHI, NEPAL
+CHANDRAGADHI AIRPORT
+RNP RWY 10 (LNAV Only)
+.
+- Elevation/Height in feet
+- Distance in Nautical mile
+- Bearings and Tracks are magnetic.
+1500'
+(1184')
+MAHES
+(IAF)
+4000'
+3 NM
+1000'
+(684')
+680'
+(364')
+100°
+100°
+CG481
+(FAF)
+1300'
+CG482
+(IF)
+2600'
+100°
+4 NM5 NM
+VDP
+1.0 NM
+Threshold 10 Elevation: 316 ft
+10RW
+Pt) (MA
+RNP APCH 
+GNSS Required
+1:200,000Scale - 
+Due to close proximity of Kolkata FIR,
+take caution during Missed Approach
+to remain within Kathmandu FIR.
+0 5 102.5 NM
+OCA (OCH) Visibility OCA (OCH) Visibility OCA (OCH) Visibility
+840' (524') 3000 m 840' (524') 3000 m 940' (624') 3400 m
+Note: Circling Approach only from North of the airfield.
+Note: Approach Lighting System (ALS)  Not available at VNCG.
+Circling
+NOT AUTHORIZED AT NIGHT
+Aircraft Category
+C
+Straight-in 2200 m 680'       
+(364') 2200 m680'       
+(364') 2200 m 680'       
+(364')
+LNAV A B
+CIVIL AVIATION AUTHORITY  OF NEPAL 
+MISSED APPROACH:
+Missed Approach speed
+as instructed by A TC.
+Reach MAHES at or above 4000' or
+At MAPt, turn left direct to MAHES H.P .
+Missed Approach speed restriction160 kts.)
+(Minimum MA climb gradient is 3.5%.
+restriction160 kts
+(5.1%)
+2.9°
+AIP 
+ NEPAL 
+         VNCG  AD 2-18  
+01 JULY 2022
+8th EDITION  
+
+=== Page 19 ===
+"Q
+#
+#
+#
+ B  E  D  E  T
+ R  2  9  5  /  D  3  0
+ 1  0  5  0  0  '
+ B  E  S  V  O
+ R  2  6  3  /  D  3  0
+ 6  0  0  0  '
+MAHES
+R280/D13.1
+4000'
+HDG 250
+HDG 235 HDG 219
+10 28
+9000'
+4000'
+MAX IAS 180 KT
+1 MIN
+88°0'0"E
+88°0'0"E
+87°50'0"E
+87°50'0"E
+87°40'0"E
+87°40'0"E
+26°50'0"N
+26°50'0"N
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+ S  T  A  N  D  A  R  D
+ D  E  P  A  R  T  U  R  E
+ C  H  A  R  T    -
+ I  N  S  T  R  U  M  E  N  T
+   (  S  I  D  )    -    I  C  A  O
+Coordinates are in WGS-84 system
+Bearings, Tracks & Radials are magnetic
+Elevation and Heights in feet
+ -    F  o r    d  e  p a  r  t  u  r  e    t  u  r  n   M  A  X    I  A  S    1  6  0    k t    a  n d
+ t  u  r  n i  n g    a  l  t  i  t  u  d  e    7  0  0  f t    A  M  S  L
+ -    R  e  m a  i  n   w  i  t  h i  n   K  a  t  h m a  n d  u    F  I  R    d  u  r  i  n g
+ t  h e    d  e  p a  r  t  u  r  e    t  u  r  n   d  u  e    t  o   t  h e    p r  o x  i  m i  t  y
+ w  i  t  h   K  o l  k o t  a    F  I  R
+ A  E  R  O  D  R  O  M  E    E  L  E  V    3  1  7  
+ T  R  A  N  S    L  E  V  E  L  :    F  L  1  5  0  
+ T  R  A  N  S    A  L  T  :    1  3  5  0  0      f t  .
+ M  a  g    V  a  r  .    0  °  W
+ C  H  A  N  D  R  A  G  A  D  H  I  /  C  H  A  N  D  R  A  G  A  D  H  I    A  I  R  P  O  R  T
+   (  V  N  C  G  )
+ R  W  Y    1  0
+ B  E  D  E  T    1  D  ,    M  A  H  E  S    1  D  ,  B  E  S  V  O    1  D
+ T  W  R
+ 1  2  2  .  5
+KATHMANDU FIR(VNSM)
+KOLKATA FIR(VECF)
+ B  E  D  E  T    1  D    R  W  Y    1  0    (  P  D  G    6  .  5  %   U  P  T  O    8  5  0  0  f t    t  h e  n   3  .  3  % )
+MAXIMUM TURN IAS 160KT
+CLIMB STRAIGHT AHEAD TO 700'. TURN LEFT TO INTERCEPT R295 'BDP'  TO BEDET( R295/D30) AT OR ABOVE 10500'.
+ M  A  H  E  S    1  D    R  W  Y    1  0    (  P  D  G    6  .  5  %   U  P  T  O    2  0  0  0  f t    t  h e  n   3  .  3  % )
+MAXIMUM TURN IAS 160KT
+CLIMB STRAIGHT AHEAD TO 700'. TURN LEFT TO INTERCEPT R280 'BDP'  TO MAHES ( R280/D13.1) AT OR ABOVE 4000'.
+ B  E  S  V  O    1  D    R  W  Y    1  0    (  P  D  G    6  .  5    U  P  T  O    2  0  0  0  f t    t  h e  n   3  .  3  % )
+MAXIMUM TURN IAS 160KT
+CLIMB STRAIGHT AHEAD TO 700'. TURN LEFT TO INTERCEPT R263 BDP  TO BESVO ( R263/D30) AT OR ABOVE 6000'.
+100°
+280°
+ B  E  D  E  T    1  D
+ M  A  H  E  S    1  D
+ B  E  S  V  O    1  D
+DME REQUIRED
+CHANDRAGADHI
+VOR/DME 115.6
+BDP
+26° 34' 06.8"N
+088° 05' 32.9"E
+AIP 
+NEPAL
+VNCG AD 2-19
+20 April 2023
+CIVIL AVIATION AUTHORITY OF NEPALAMDT 04/2023
+
+=== Page 20 ===
+#
+#
+#
+# #
+#
+#
+BEDET
+R295/D30.0
+10500'
+ CG101
+R295/D25.0
+8000'
+CG102
+R295/D15.0
+5000'
+BESVO
+R263/D30.0
+6000'
+ CG103
+R263/D15.0
+ CG104
+R280/D15.0
+15 DME
+15 DME
+MAHES
+R280/D13.1
+4000'
+87°50'0"E
+87°50'0"E
+87°40'0"E
+87°40'0"E
+87°30'0"E
+87°30'0"E
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+- Coordinates are in WGS-84
+- Elevation/Height in feet
+- Distance in Nautical mile
+- Bearing and Tracks are magnetic
+ S  T  A  N  D  A  R  D    A  R  R  I  V  A  L
+ C  H  A  R  T    -    I  N  S  T  R  U  M  E  N  T
+ (  S  T  A  R  )    -    I  C  A  O
+ A  E  R  O  D  R  O  M  E    E  L  E  V    3  1  7  
+ T  R  A  N  S    L  E  V  E  L  :    F  L  1  5  0
+ T  R  A  N  S    A  L  T  :    1  3  5  0  0    f  t  .
+ M  a  g    V  a  r  .    0  °  W
+ T  W R
+ 1  2  2  .  5
+ C  H  A  N  D  R  A  G  A  D  H  I
+ C  H  A  N  D  R  A  G  A  D  H  I    A  I  R  P  O  R  T
+ (  V  N  C  G  )
+   B  E  D  E  T    1  A  ,    B  E  S  V  O    1  A
+From BEDET (R295/D30) track on R295 inbound to CG101 ( R295/D25) at or above 8000ft then  to 
+CG102( R295/D15) at or above 5000 ft then 15 DME arc to CG104( R280/D15) 
+ then track on R280 inbound to MAHES (R280/D13.1) at or above 4000ft. 
+Ü
+1:250,000
+0 2.5 51.25 Nautical Miles
+ B  E  D  E  T    1  A
+ B  E  S  V  O    1  A
+From BESVO (R263/D30) track on R263 inbound to CG103 (R263/D15) then 15 DME arc to CG104 
+( R280/D15) then track on R280 inbound to MAHES (R280/D13.1) at or above 4000ft. 
+DME REQUIRED
+ B  E  S  V  O    1  A
+ B  E  D  E  T    1  A
+AIP 
+NEPAL
+VNCG AD 2-20 
+20 April 2023
+CIVIL AVIATION AUTHORITY OF NEPALAMDT 04 /2023
+
+=== Page 21 ===
+MAPt/RW10
+KATHMANDU FIR(VNSM)
+KOLKATA FIR(VECF)
+88°10'0"E
+88°10'0"E
+88°0'0"E
+88°0'0"E
+87°50'0"E
+87°50'0"E
+26°40'0"N
+26°40'0"N
+26°30'0"N
+26°30'0"N
+VDP
+D2.1
+INSTRUMENT
+APPROACH
+CHART - ICAO
+AERODROME ELEV 317'
+TRANS LEVEL: FL150
+TRANS ALT: 13500 ft.
+Mag Var. 0°W
+CHANDRAGADHI
+CHANDRAGADHI AIRPORT
+(VNCG)
+VOR RWY 10
+TWR 122.5
+MAX IAS 180 KT
+9000'
+4000'
+1 MIN
+FAF
+IF
+ IAF
+ (MAHES)  
+R280/13.1 DME
+4000'
+R280
+8.1 DME
+2100'
+ R280
+4.1 DME
+1320'
+VOR/DME 115.6 
+BDP
+26°34' 06.8" N 
+088°05' 32.9" E 
+MISSED APPROACH : (Climb gradient 3.5 % and
+ Missed Approach speed restriction160 kts)
+ Climb straight on runway course turn left to intercept
+ R280 BDP  outbound to MAHES (R280/D13.1) 
+at or above 4000ft or as instructed by ATC.
+VOR/DME
+ 680'
+(363')
+1100'
+(783')
+ 1600'
+(1283')
+MAHES
+ (IAF)
+R280/D13.1
+ 4000'  IF
+R280/D8.1
+ 2100'  FAF
+R280/D4.1
+ 1320'
+100°
+100°
+100°
+5.24%
+ V  O  R    R  W  Y    1  0    C  A  T  -  A    C  A  T  -  B    C  A  T  -  C   
+   O  C  A   
+ (  O  C  H  )   
+ V  i  s  i  b  i  l  i  t  y     O  C  A   
+ (  O  C  H  )   
+ V  i  s  i  b  i  l  i  t  y   O  C  A   
+ (  O  C  H  )   
+ V  i  s  i  b  i  l  i  t  y  
+ S  t  r  a  i  g  h  t  -  i  n     6  8  0     
+ (  3  6  3    )   
+ 2200m    6  8  0     
+ (  3  6  3    )   
+ 2200m    6  8  0     
+ (  3  6  3    )   
+ 2200m
+ C  i  r  c  l  i  n g      8  4  0     
+ (  5  2  3    )   
+ 3000m    8  4  0     
+ (  5  2  3    )   
+3000m    9  4  0     
+ (  6  2  3    )   
+ 3400m
+ N  O  T    A  U  T  H  O  R  I  Z  E  D    A  T    N  I  G  H  T   
+ð· Circling Approach only from North of the airfield
+FAF TO MAPt: 3.0 NM 
+ K  n o t  s   6  0    9  0    1  2  0    1  5  0    1  8  0   
+ M  i  n :  S  e  c    3  :  0  0    2  :  0  0    1  :  3  0    1  :  1  2    1  :  0  0   
+ 7  8  0    9  4  8   
+MAPt
+D 1.1
+HDG235
+- Elevation/Height in feet
+- Distance in Nautical mile
+- Bearings and Tracks are magnetic
+1:250,000
+.
+0 2 41 Nautical Miles
+Due to close proximity of Kolkata FIR,
+take caution during Missed Approach
+to remain within Kathmandu FIR.
+1 NM4 NM 2 NM
+100°
+5 NM 100°
+4 NM 100°
+3 NM
+100°
+280°
+DME REQUIRED
+5NM 
+Ft./min@5.2% 316 474 632 
+AIP 
+NEPAL 
+VNCG AD 2-21  
+21 August 2023
+AMDT 06/2023 CIVIL AVIATION AUTHORITY OF NEPAL 
