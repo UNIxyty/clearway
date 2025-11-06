@@ -26,6 +26,10 @@ interface AirportInfo {
   airportCode: string
   airportName: string
   contacts: Contact[]
+  // Country info
+  country?: string
+  region?: string
+  flag?: string
   // AD 2.3 OPERATIONAL HOURS section
   adAdministration?: string
   adOperator?: string
@@ -113,17 +117,50 @@ export default function Home() {
     }
   }
 
-  const detectCountry = (code: string): string => {
+  const [detectedCountry, setDetectedCountry] = useState<string>('')
+
+  // Detect country from airport code using API
+  const detectCountry = async (code: string) => {
+    if (!code || code.length < 2) {
+      setDetectedCountry('')
+      return
+    }
+
+    try {
+      const apiUrl = 'https://web-production-e7af.up.railway.app'
+      const response = await fetch(`${apiUrl}/api/country`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ airportCode: code })
+      })
+
+      const data = await response.json()
+      
+      if (data.success && data.country) {
+        const countryDisplay = `${data.country} ${data.flag || ''}`
+        setDetectedCountry(countryDisplay)
+      } else {
+        setDetectedCountry('Unknown')
+      }
+    } catch (err) {
+      console.error('Failed to detect country:', err)
+      setDetectedCountry('Unknown')
+    }
+  }
+
+  // Get country display string
+  const getCountryDisplay = (code: string): string => {
+    if (detectedCountry) return detectedCountry
+    // Fallback for known prefixes
     if (code.startsWith('K')) return 'USA 🇺🇸'
     if (code.startsWith('LF')) return 'France 🇫🇷'
-    if (code.startsWith('LM')) return 'Malta 🇲🇹'
-    if (code.startsWith('LG')) return 'Greece 🇬🇷'
-    if (code.startsWith('EE')) return 'Estonia 🇪🇪'
-    if (code.startsWith('EF')) return 'Finland 🇫🇮'
-    if (code.startsWith('EY')) return 'Lithuania 🇱🇹'
-    if (code.startsWith('EV')) return 'Latvia 🇱🇻'
-    if (code.startsWith('OA')) return 'Afghanistan 🇦🇫'
-    if (code.startsWith('HA')) return 'Ethiopia 🇪🇹'
+    if (code.startsWith('LO')) return 'Austria 🇦🇹'
+    if (code.startsWith('LK')) return 'Czech Republic 🇨🇿'
+    if (code.startsWith('EK')) return 'Denmark 🇩🇰'
+    if (code.startsWith('EI')) return 'Ireland 🇮🇪'
+    if (code.startsWith('LI')) return 'Italy 🇮🇹'
     return 'Unknown'
   }
 
@@ -216,9 +253,17 @@ export default function Home() {
                 <Input
                   id="airport-code"
                   type="text"
-                  placeholder="e.g., KJFK, EVRA, EYVI, EFHK"
+                  placeholder="e.g., KJFK, LOWW, LKPR, EKCH"
                   value={airportCode}
-                  onChange={(e) => setAirportCode(e.target.value.toUpperCase())}
+                  onChange={(e) => {
+                    const code = e.target.value.toUpperCase()
+                    setAirportCode(code)
+                    if (code.length >= 3) {
+                      detectCountry(code)
+                    } else {
+                      setDetectedCountry('')
+                    }
+                  }}
                   onKeyPress={(e) => e.key === 'Enter' && searchAirport()}
                   className="flex-1 text-lg uppercase tracking-wider"
                   disabled={loading}
@@ -242,9 +287,9 @@ export default function Home() {
                   )}
                 </Button>
               </div>
-              {airportCode && (
+              {airportCode && detectedCountry && (
                 <p className="text-sm text-muted-foreground">
-                  Region: {detectCountry(airportCode)}
+                  Region: {detectedCountry}
                 </p>
               )}
             </div>
@@ -274,9 +319,11 @@ export default function Home() {
                     <Badge variant="secondary" className="text-lg px-3 py-1">
                       {airportInfo.airportCode}
                     </Badge>
-                    <Badge variant="outline" className="text-sm">
-                      {detectCountry(airportInfo.airportCode)}
-                    </Badge>
+                    {airportInfo.country && (
+                      <Badge variant="outline" className="text-sm">
+                        {airportInfo.country} {airportInfo.flag || ''}
+                      </Badge>
+                    )}
                   </div>
                 </div>
                 <CheckCircle2 className="h-8 w-8 text-green-500" />
