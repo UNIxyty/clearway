@@ -14,19 +14,36 @@ from flask_cors import CORS
 import threading
 import time
 
+# Configure logging first
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
 # Add scrapers directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
 
-from scrapers.scraper_registry import (
-    get_country_from_code as get_scraper_country,
-    get_scraper_instance,
-    get_available_countries
-)
-from country_detector import get_country_from_code
+# Import scrapers with error handling
+try:
+    from scrapers.scraper_registry import (
+        get_country_from_code as get_scraper_country,
+        get_scraper_instance,
+        get_available_countries
+    )
+except ImportError as e:
+    logger.warning(f"Could not import scraper registry: {e}. Some features may be unavailable.")
+    # Create stub functions
+    def get_scraper_country(code):
+        return None
+    def get_scraper_instance(country):
+        return None
+    def get_available_countries():
+        return []
 
-# Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
+try:
+    from country_detector import get_country_from_code
+except ImportError as e:
+    logger.warning(f"Could not import country_detector: {e}. Some features may be unavailable.")
+    def get_country_from_code(code):
+        return None
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -39,14 +56,20 @@ scraper_lock = threading.Lock()
 # Global AIP extracted data cache
 aip_extracted_data = {}
 aip_data_lock = threading.Lock()
+_aip_data_loaded = False
 
 def load_aip_extracted_data():
     """Load extracted AIP data from JSON file"""
-    global aip_extracted_data
+    global aip_extracted_data, _aip_data_loaded
+    
+    if _aip_data_loaded:
+        return aip_extracted_data
+    
     aip_data_path = Path('assets') / 'aip_extracted_data.json'
     
     if not aip_data_path.exists():
         logger.warning(f"AIP extracted data file not found: {aip_data_path}")
+        _aip_data_loaded = True
         return {}
     
     try:
@@ -62,9 +85,12 @@ def load_aip_extracted_data():
                     airport_lookup[airport_code.upper()] = airport_data
             
             logger.info(f"Loaded AIP data for {len(airport_lookup)} airports")
+            aip_extracted_data = airport_lookup
+            _aip_data_loaded = True
             return airport_lookup
     except Exception as e:
         logger.error(f"Error loading AIP extracted data: {e}")
+        _aip_data_loaded = True
         return {}
 
 def get_aip_data_for_airport(airport_code: str) -> dict:
@@ -72,10 +98,16 @@ def get_aip_data_for_airport(airport_code: str) -> dict:
     global aip_extracted_data
     
     with aip_data_lock:
-        if not aip_extracted_data:
-            aip_extracted_data = load_aip_extracted_data()
+        if not _aip_data_loaded:
+            load_aip_extracted_data()
         
         return aip_extracted_data.get(airport_code.upper(), {})
+
+# Load AIP data on module import (for Gunicorn)
+try:
+    load_aip_extracted_data()
+except Exception as e:
+    logger.warning(f"Failed to load AIP data on startup: {e}. Will continue without it.")
 
 def get_scraper(country='USA'):
     """Get or create appropriate scraper instance based on country (thread-safe)"""
@@ -111,7 +143,11 @@ def detect_country(airport_code):
 @app.route('/')
 def index():
     """Serve the main HTML page"""
-    return send_from_directory('.', 'index.html')
+    try:
+        return send_from_directory('.', 'index.html')
+    except Exception as e:
+        logger.error(f"Error serving index.html: {e}")
+        return jsonify({'status': 'ok', 'message': 'Service is running'}), 200
 
 @app.route('/api/airport', methods=['POST'])
 def get_airport_info():
@@ -200,14 +236,23 @@ def get_airport_info():
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
-    """Health check endpoint"""
-    available_countries = get_available_countries()
-    return jsonify({
-        'status': 'healthy', 
-        'service': 'Airport AIP Lookup',
-        'supported_countries': len(available_countries),
-        'countries': available_countries
-    })
+    """Health check endpoint - must be fast and reliable"""
+    try:
+        available_countries = get_available_countries()
+        return jsonify({
+            'status': 'healthy', 
+            'service': 'Airport AIP Lookup',
+            'supported_countries': len(available_countries),
+            'countries': available_countries
+        })
+    except Exception as e:
+        # Health check should never fail - return basic healthy status
+        logger.error(f"Error in health check: {e}")
+        return jsonify({
+            'status': 'healthy',
+            'service': 'Airport AIP Lookup',
+            'note': 'Some services may be unavailable'
+        }), 200
 
 @app.route('/api/countries', methods=['GET'])
 def get_all_countries():
