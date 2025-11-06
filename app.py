@@ -36,6 +36,47 @@ CORS(app)  # Enable CORS for all routes
 scraper_instances = {}
 scraper_lock = threading.Lock()
 
+# Global AIP extracted data cache
+aip_extracted_data = {}
+aip_data_lock = threading.Lock()
+
+def load_aip_extracted_data():
+    """Load extracted AIP data from JSON file"""
+    global aip_extracted_data
+    aip_data_path = Path('assets') / 'aip_extracted_data.json'
+    
+    if not aip_data_path.exists():
+        logger.warning(f"AIP extracted data file not found: {aip_data_path}")
+        return {}
+    
+    try:
+        with open(aip_data_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            countries_data = data.get('countries', {})
+            
+            # Create a lookup by airport code
+            airport_lookup = {}
+            for prefix, country_info in countries_data.items():
+                airports = country_info.get('airports', {})
+                for airport_code, airport_data in airports.items():
+                    airport_lookup[airport_code.upper()] = airport_data
+            
+            logger.info(f"Loaded AIP data for {len(airport_lookup)} airports")
+            return airport_lookup
+    except Exception as e:
+        logger.error(f"Error loading AIP extracted data: {e}")
+        return {}
+
+def get_aip_data_for_airport(airport_code: str) -> dict:
+    """Get extracted AIP data for a specific airport code"""
+    global aip_extracted_data
+    
+    with aip_data_lock:
+        if not aip_extracted_data:
+            aip_extracted_data = load_aip_extracted_data()
+        
+        return aip_extracted_data.get(airport_code.upper(), {})
+
 def get_scraper(country='USA'):
     """Get or create appropriate scraper instance based on country (thread-safe)"""
     global scraper_instances
@@ -96,18 +137,60 @@ def get_airport_info():
         # Get appropriate scraper instance
         scraper = get_scraper(country)
         
-        # Scrape airport information
+        # Try to get extracted AIP data first
+        aip_data = get_aip_data_for_airport(airport_code)
+        
+        # Scrape airport information (fallback or additional data)
         start_time = time.time()
-        airport_info = scraper.get_airport_info(airport_code)
+        try:
+            airport_info = scraper.get_airport_info(airport_code)
+        except Exception as e:
+            logger.warning(f"Scraper failed for {airport_code}: {e}")
+            airport_info = {}
+        
         end_time = time.time()
         
         logger.info(f"Scraped airport info for {airport_code} in {end_time - start_time:.2f} seconds")
+        
+        # Merge AIP extracted data with scraper data (AIP data takes precedence)
+        if aip_data:
+            # Map AIP data to expected format
+            ad22 = aip_data.get('ad22', {})
+            ad23 = aip_data.get('ad23', {})
+            ad26 = aip_data.get('ad26', {})
+            
+            # AD 2.2 data
+            if ad22.get('types_of_traffic_permitted'):
+                airport_info['trafficTypes'] = ad22['types_of_traffic_permitted']
+            if ad22.get('remarks'):
+                airport_info['administrativeRemarks'] = ad22['remarks']
+            
+            # AD 2.3 data
+            if ad23.get('ad_administrator'):
+                airport_info['adAdministration'] = ad23['ad_administrator']
+            if ad23.get('ad_operator'):
+                airport_info['adOperator'] = ad23['ad_operator']
+            if ad23.get('customs_and_immigration'):
+                airport_info['customsAndImmigration'] = ad23['customs_and_immigration']
+            if ad23.get('ats'):
+                airport_info['ats'] = ad23['ats']
+            if ad23.get('remarks'):
+                airport_info['operationalRemarks'] = ad23['remarks']
+            
+            # AD 2.6 data
+            if ad26.get('ad_category_fire_fighting'):
+                airport_info['fireFightingCategory'] = ad26['ad_category_fire_fighting']
         
         # Add country information to response
         country_info = get_country_from_code(airport_code)
         if country_info:
             airport_info['country'] = country_info.get('country')
             airport_info['region'] = country_info.get('region')
+            airport_info['flag'] = country_info.get('flag')
+        
+        # Ensure airport code is set
+        if 'airportCode' not in airport_info:
+            airport_info['airportCode'] = airport_code
         
         return jsonify(airport_info)
         
@@ -329,6 +412,11 @@ if __name__ == '__main__':
         logger.info("  POST /api/airport - Get airport information")
         logger.info("  GET  /api/health - Health check")
         logger.info("  GET  /api/airports/test - Test multiple airports")
+        
+        # Load AIP extracted data on startup
+        logger.info("Loading AIP extracted data...")
+        aip_extracted_data = load_aip_extracted_data()
+        logger.info(f"Loaded AIP data for {len(aip_extracted_data)} airports")
         
         # Log available countries
         available_countries = get_available_countries()
