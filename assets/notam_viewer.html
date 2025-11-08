@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>NOTAM Scraper Console</title>
+    <style>
+        :root {
+            color-scheme: light dark;
+            --bg: #0f172a;
+            --panel: #111c33;
+            --accent: #3b82f6;
+            --accent-soft: rgba(59, 130, 246, 0.15);
+            --success: #10b981;
+            --error: #ef4444;
+            --text: #f8fafc;
+            font-family: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+
+        body {
+            margin: 0;
+            padding: 2rem;
+            background: linear-gradient(135deg, #0b1120 0%, #1e293b 100%);
+            color: var(--text);
+            display: flex;
+            justify-content: center;
+        }
+
+        .app {
+            width: min(920px, 100%);
+            display: grid;
+            gap: 1.5rem;
+        }
+
+        header h1 {
+            margin: 0 0 0.25rem 0;
+            font-size: 2rem;
+            letter-spacing: 0.02em;
+        }
+
+        header p {
+            margin: 0;
+            color: rgba(241, 245, 249, 0.7);
+        }
+
+        form {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            background: var(--panel);
+            border-radius: 1rem;
+            padding: 1.25rem 1.5rem;
+            box-shadow: 0 18px 40px rgba(2, 132, 199, 0.2);
+            align-items: center;
+        }
+
+        label {
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: rgba(226, 232, 240, 0.75);
+        }
+
+        input[type="text"],
+        input[type="url"] {
+            flex: 1 1 12rem;
+            padding: 0.65rem 0.9rem;
+            border-radius: 0.75rem;
+            border: 2px solid transparent;
+            background: rgba(15, 23, 42, 0.6);
+            color: var(--text);
+            font-size: 1rem;
+            letter-spacing: 0.03em;
+            transition: border-color 150ms ease, box-shadow 150ms ease;
+        }
+
+        input[type="text"] {
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+        }
+
+        input[type="text"]:focus,
+        input[type="url"]:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-soft);
+        }
+
+        button {
+            background: var(--accent);
+            border: none;
+            border-radius: 0.75rem;
+            color: #0b1120;
+            font-weight: 700;
+            padding: 0.8rem 1.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            cursor: pointer;
+            box-shadow: 0 12px 30px rgba(59, 130, 246, 0.25);
+            transition: transform 120ms ease, box-shadow 120ms ease;
+        }
+
+        button:disabled {
+            cursor: progress;
+            opacity: 0.65;
+            box-shadow: none;
+        }
+
+        button:not(:disabled):hover {
+            transform: translateY(-2px);
+            box-shadow: 0 18px 36px rgba(59, 130, 246, 0.35);
+        }
+
+        section {
+            background: rgba(15, 23, 42, 0.55);
+            border-radius: 1rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid rgba(148, 163, 184, 0.12);
+        }
+
+        section h2 {
+            margin: 0 0 0.9rem 0;
+            font-size: 1.1rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: rgba(226, 232, 240, 0.78);
+        }
+
+        #logList {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: grid;
+            gap: 0.5rem;
+            max-height: 240px;
+            overflow-y: auto;
+        }
+
+        .log-entry {
+            font-family: "Fira Code", "Cascadia Code", Consolas, monospace;
+            font-size: 0.9rem;
+            padding: 0.55rem 0.65rem;
+            border-radius: 0.65rem;
+            background: rgba(15, 23, 42, 0.7);
+            border-left: 3px solid rgba(148, 163, 184, 0.25);
+        }
+
+        .log-entry[data-level="ERROR"] {
+            border-color: var(--error);
+            color: #fecaca;
+        }
+
+        .log-entry[data-level="INFO"] {
+            border-color: var(--accent);
+        }
+
+        .log-entry[data-level="SUCCESS"] {
+            border-color: var(--success);
+            color: #bbf7d0;
+        }
+
+        #resultPanel {
+            display: grid;
+            gap: 1rem;
+        }
+
+        .notam-card {
+            padding: 1rem 1.2rem;
+            border-radius: 0.9rem;
+            background: rgba(30, 41, 59, 0.55);
+            border: 1px solid rgba(148, 163, 184, 0.12);
+        }
+
+        .notam-card header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 0.75rem;
+        }
+
+        .notam-card h3 {
+            margin: 0;
+            font-size: 1.05rem;
+            letter-spacing: 0.04em;
+        }
+
+        .notam-card span {
+            font-size: 0.85rem;
+            color: rgba(226, 232, 240, 0.65);
+        }
+
+        .notam-body {
+            display: grid;
+            gap: 0.75rem;
+            margin-top: 0.75rem;
+        }
+
+        .notam-body table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .notam-body th,
+        .notam-body td {
+            text-align: left;
+            padding: 0.35rem 0.4rem;
+            border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+            font-size: 0.92rem;
+        }
+
+        .notam-body th {
+            width: 3rem;
+            color: rgba(226, 232, 240, 0.6);
+            font-weight: 600;
+        }
+
+        .notam-body td {
+            color: rgba(226, 232, 240, 0.85);
+        }
+
+        .notam-body .primary {
+            padding: 0.8rem 0.9rem;
+            border-radius: 0.75rem;
+            background: rgba(59, 130, 246, 0.12);
+            color: rgba(226, 232, 240, 0.95);
+            line-height: 1.5;
+        }
+
+        .empty-state {
+            padding: 1rem;
+            text-align: center;
+            border-radius: 0.75rem;
+            background: rgba(30, 41, 59, 0.5);
+            color: rgba(226, 232, 240, 0.6);
+        }
+
+        @media (max-width: 640px) {
+            form {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            button {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main class="app">
+        <header>
+            <h1>NOTAM Scraper Playground</h1>
+            <p>Enter an airport or FIR code to run the automated NOTAM workflow. Logs and parsed NOTAMs will appear below.</p>
+        </header>
+
+        <form id="notamForm" autocomplete="off">
+            <label for="airportInput">Airport / FIR Code</label>
+            <input id="airportInput" type="text" name="airport" maxlength="8" placeholder="e.g. KJFK" required />
+            <label for="webhookInput">Webhook URL (optional)</label>
+            <input id="webhookInput" type="url" name="webhook" placeholder="https://example.com/notam-hook" />
+            <button type="submit">Fetch NOTAMs</button>
+        </form>
+
+        <section>
+            <h2>Execution Log</h2>
+            <ul id="logList">
+                <li class="log-entry" data-level="INFO">Awaiting input…</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Extracted NOTAMs</h2>
+            <div id="resultPanel" class="empty-state">No request executed yet.</div>
+        </section>
+    </main>
+
+    <script>
+        const form = document.getElementById("notamForm");
+        const input = document.getElementById("airportInput");
+        const webhookInput = document.getElementById("webhookInput");
+        const logList = document.getElementById("logList");
+        const resultPanel = document.getElementById("resultPanel");
+
+        function clearLogs() {
+            logList.innerHTML = "";
+        }
+
+        function appendLog(message, level = "INFO") {
+            const item = document.createElement("li");
+            item.className = "log-entry";
+            item.dataset.level = level;
+            item.textContent = message;
+            logList.appendChild(item);
+            logList.scrollTop = logList.scrollHeight;
+        }
+
+        function renderNotams(notams) {
+            resultPanel.innerHTML = "";
+
+            if (!notams || notams.length === 0) {
+                resultPanel.className = "empty-state";
+                resultPanel.textContent = "No NOTAMs returned for the supplied code.";
+                return;
+            }
+
+            resultPanel.className = "";
+
+            notams.forEach((entry) => {
+                const card = document.createElement("article");
+                card.className = "notam-card";
+
+                const header = document.createElement("header");
+                const title = document.createElement("h3");
+                title.textContent = entry.header || entry["NOTAM #/LTA #"] || "NOTAM";
+                const metaSpan = document.createElement("span");
+                metaSpan.textContent = entry.Location ? `Location: ${entry.Location}` : "";
+                header.appendChild(title);
+                if (metaSpan.textContent) {
+                    header.appendChild(metaSpan);
+                }
+                card.appendChild(header);
+
+                const body = document.createElement("div");
+                body.className = "notam-body";
+
+                const primary = document.createElement("div");
+                primary.className = "primary";
+                const primaryText =
+                    entry["NOTAM Condition/LTA subject/Construction graphic title"] ||
+                    entry.Condition ||
+                    entry.Text ||
+                    entry.raw ||
+                    "No textual summary provided.";
+                primary.innerHTML = primaryText.replace(/\n/g, "<br />");
+                body.appendChild(primary);
+
+                const metaTable = document.createElement("table");
+                const tbody = document.createElement("tbody");
+                Object.entries(entry).forEach(([key, value]) => {
+                    if (["header", "raw", "NOTAM Condition/LTA subject/Construction graphic title", "Condition", "Text"].includes(key)) {
+                        return;
+                    }
+                    if (!value) {
+                        return;
+                    }
+                    const row = document.createElement("tr");
+                    const keyCell = document.createElement("th");
+                    keyCell.textContent = key;
+                    const valueCell = document.createElement("td");
+                    valueCell.textContent = value;
+                    row.appendChild(keyCell);
+                    row.appendChild(valueCell);
+                    tbody.appendChild(row);
+                });
+
+                if (entry.raw) {
+                    const rawRow = document.createElement("tr");
+                    const rawKey = document.createElement("th");
+                    rawKey.textContent = "RAW";
+                    const rawValue = document.createElement("td");
+                    rawValue.textContent = entry.raw;
+                    rawRow.appendChild(rawKey);
+                    rawRow.appendChild(rawValue);
+                    tbody.appendChild(rawRow);
+                }
+
+                if (tbody.children.length > 0) {
+                    metaTable.appendChild(tbody);
+                    body.appendChild(metaTable);
+                }
+
+                card.appendChild(body);
+                resultPanel.appendChild(card);
+            });
+        }
+
+        form.addEventListener("submit", async (event) => {
+            event.preventDefault();
+            const code = input.value.trim().toUpperCase();
+            const webhookUrl = webhookInput.value.trim();
+
+            if (!code) {
+                appendLog("Airport code is required.", "ERROR");
+                return;
+            }
+
+            form.querySelector("button").disabled = true;
+            clearLogs();
+            appendLog(`Submitting NOTAM request for ${code}…`);
+            if (webhookUrl) {
+                appendLog(`Webhook target set to ${webhookUrl}`);
+            }
+            resultPanel.className = "empty-state";
+            resultPanel.textContent = "Processing request…";
+
+            try {
+                const requestBody = { airportCode: code };
+                if (webhookUrl) {
+                    requestBody.webhookUrl = webhookUrl;
+                }
+
+                const response = await fetch("/api/notam", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(requestBody),
+                });
+
+                const payload = await response.json();
+
+                if (!response.ok || !payload.success) {
+                    const errorMessage = payload.error || `Request failed with status ${response.status}.`;
+                    appendLog(errorMessage, "ERROR");
+                    resultPanel.className = "empty-state";
+                    resultPanel.textContent = errorMessage;
+                    return;
+                }
+
+                appendLog(`NOTAM scrape complete for ${payload.airport}.`, "SUCCESS");
+                if (payload.webhook?.requested) {
+                    const webhookStatus = (payload.webhook.status || "queued").toUpperCase();
+                    const hookUrl = payload.webhook.url || webhookUrl || "provided URL";
+                    const level = webhookStatus === "FAILED" ? "ERROR" : "INFO";
+                    appendLog(`Webhook ${webhookStatus.toLowerCase()} for ${hookUrl}`, level);
+                }
+                (payload.logs || []).forEach((entry) => {
+                    const [timestamp, level, ...rest] = entry.split("|").map((part) => part.trim());
+                    const message = rest.join(" | ") || "";
+                    const displayLevel = level ? level.toUpperCase() : "INFO";
+                    appendLog(`${timestamp}${message ? " — " + message : ""}`, displayLevel);
+                });
+
+                renderNotams(payload.notams || []);
+            } catch (error) {
+                console.error(error);
+                appendLog(`Unexpected error: ${error.message}`, "ERROR");
+                resultPanel.className = "empty-state";
+                resultPanel.textContent = "An unexpected error occurred. Check the logs above.";
+            } finally {
+                form.querySelector("button").disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>
+

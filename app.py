@@ -8,11 +8,16 @@ import json
 import logging
 import os
 import sys
-from pathlib import Path
-from flask import Flask, request, jsonify, send_from_directory
-from flask_cors import CORS
 import threading
 import time
+import traceback
+from datetime import datetime
+from pathlib import Path
+
+import requests
+
+from flask import Flask, jsonify, request, send_from_directory
+from flask_cors import CORS
 
 # Configure logging first
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -26,24 +31,37 @@ try:
     from scrapers.scraper_registry import (
         get_country_from_code as get_scraper_country,
         get_scraper_instance,
-        get_available_countries
+        get_available_countries,
     )
 except ImportError as e:
     logger.warning(f"Could not import scraper registry: {e}. Some features may be unavailable.")
-    # Create stub functions
-    def get_scraper_country(code):
+
+    def get_scraper_country(code):  # type: ignore[override]
         return None
+
     def get_scraper_instance(country):
         return None
+
     def get_available_countries():
         return []
 
 try:
-    from country_detector import get_country_from_code
+    from country_detector import get_country_from_code as _get_country_from_code
 except ImportError as e:
     logger.warning(f"Could not import country_detector: {e}. Some features may be unavailable.")
-    def get_country_from_code(code):
+
+    def get_country_from_code(code):  # type: ignore[override]
         return None
+else:
+    get_country_from_code = _get_country_from_code
+
+try:
+    from notam_scraper import scrape_notams
+except ImportError as e:
+    logger.warning(f"Could not import NOTAM scraper: {e}. NOTAM endpoint will be unavailable.")
+
+    def scrape_notams(*args, **kwargs):  # type: ignore[override]
+        raise RuntimeError("NOTAM scraper is not available in this environment.")
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -57,6 +75,16 @@ scraper_lock = threading.Lock()
 aip_extracted_data = {}
 aip_data_lock = threading.Lock()
 _aip_data_loaded = False
+
+
+def _dispatch_notam_webhook(url: str, payload: dict) -> None:
+    """Send NOTAM results to a webhook URL in a background thread."""
+    try:
+        response = requests.post(url, json=payload, timeout=30)
+        response.raise_for_status()
+        logger.info("Delivered NOTAM payload to webhook %s (status %s)", url, response.status_code)
+    except requests.exceptions.RequestException as exc:
+        logger.error("Failed to deliver NOTAM payload to webhook %s: %s", url, exc)
 
 def load_aip_extracted_data():
     """Load extracted AIP data from JSON file"""
@@ -141,6 +169,12 @@ def index():
     except Exception as e:
         logger.error(f"Error serving index.html: {e}")
         return jsonify({'status': 'ok', 'message': 'Service is running'}), 200
+
+
+@app.route('/notam-viewer')
+def notam_viewer():
+    """Serve the NOTAM viewer demo page."""
+    return send_from_directory('assets', 'notam_viewer.html')
 
 @app.route('/api/airport', methods=['POST'])
 def get_airport_info():
@@ -234,6 +268,59 @@ def get_airport_info():
     except Exception as e:
         logger.error(f"Error processing airport request: {e}")
         return jsonify({'error': str(e)}), 500
+
+
+@app.route('/api/notam', methods=['POST'])
+def fetch_notam():
+    """API endpoint to scrape NOTAM information via the FAA portal."""
+    payload = request.get_json() or {}
+    airport_code = payload.get('airportCode', '').strip().upper()
+    webhook_url_raw = payload.get('webhookUrl') or payload.get('webhook_url')
+    webhook_url = webhook_url_raw.strip() if isinstance(webhook_url_raw, str) else ''
+
+    if not airport_code:
+        return jsonify({'success': False, 'error': 'Airport code is required.'}), 400
+
+    try:
+        result = scrape_notams(
+            airport_code,
+            output_dir=None,
+            save_artifacts=False,
+            verbose=False,
+        )
+
+        response_payload = {
+            'success': True,
+            'airport': result['airport'],
+            'logs': result['logs'],
+            'notams': result['notams'],
+        }
+
+        webhook_meta = {
+            'requested': bool(webhook_url),
+            'status': 'skipped',
+        }
+
+        if webhook_url:
+            webhook_meta.update({'status': 'queued', 'url': webhook_url})
+            hook_payload = {
+                'airport': result['airport'],
+                'notams': result['notams'],
+                'logs': result['logs'],
+                'generatedAt': datetime.utcnow().isoformat() + 'Z',
+            }
+            threading.Thread(
+                target=_dispatch_notam_webhook,
+                args=(webhook_url, hook_payload),
+                daemon=True,
+            ).start()
+
+        response_payload['webhook'] = webhook_meta
+        return jsonify(response_payload)
+    except Exception as exc:
+        tb = traceback.format_exc()
+        logger.error(f"Error scraping NOTAMs for {airport_code}: {exc}\n{tb}")
+        return jsonify({'success': False, 'error': str(exc), 'trace': tb}), 500
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
