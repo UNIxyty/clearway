@@ -17,6 +17,7 @@ import io
 import json
 import logging
 import os
+import sys
 import tempfile
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
@@ -37,6 +38,20 @@ _LOGGING_CONFIGURED = False
 
 # FAA NOTAM portal URL
 NOTAM_PORTAL_URL = "https://notams.aim.faa.gov/notamSearch/nsapp.html#/"
+
+
+def _should_launch_headless() -> bool:
+    """Determine whether Chromium should run in headless mode."""
+    env_value = os.getenv("NOTAM_SCRAPER_HEADLESS")
+    if env_value is not None:
+        return env_value.strip().lower() not in {"0", "false", "no"}
+
+    # If there is no display (common on Linux servers), fall back to headless.
+    if sys.platform.startswith("linux") and not os.getenv("DISPLAY"):
+        return True
+
+    # Default to headed mode to satisfy local UX requirements.
+    return False
 
 
 def configure_logging(verbose: bool = False) -> None:
@@ -434,8 +449,15 @@ def run_scraper(
     playwright: Playwright, airport_code: str, logs: List[str]
 ) -> Tuple[List[Dict[str, str]], bytes, str]:
     """Execute the automated NOTAM workflow and return structured NOTAMs and raw Excel bytes."""
-    launch_args = ["--disable-http2"]
-    browser = playwright.chromium.launch(headless=False, args=launch_args)
+    headless = _should_launch_headless()
+    launch_args = ["--disable-http2", "--disable-dev-shm-usage", "--disable-gpu"]
+    if headless:
+        launch_args.extend(
+            ["--disable-blink-features=AutomationControlled", "--disable-software-rasterizer"]
+        )
+
+    log_and_capture(logs, f"Launching Chromium (headless={headless}).")
+    browser = playwright.chromium.launch(headless=headless, args=launch_args)
     context = browser.new_context(
         ignore_https_errors=True,
         accept_downloads=True,
