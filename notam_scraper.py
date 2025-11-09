@@ -450,14 +450,26 @@ def run_scraper(
 ) -> Tuple[List[Dict[str, str]], bytes, str]:
     """Execute the automated NOTAM workflow and return structured NOTAMs and raw Excel bytes."""
     headless = _should_launch_headless()
-    launch_args = ["--disable-http2", "--disable-dev-shm-usage", "--disable-gpu"]
+    launch_args = [
+        "--disable-dev-shm-usage",
+        "--disable-gpu",
+        "--disable-http2",
+        "--disable-blink-features=AutomationControlled",
+        "--disable-software-rasterizer",
+        "--disable-background-networking",
+        "--disable-backgrounding-occluded-windows",
+    ]
+    headless_option: bool | str = headless
     if headless:
-        launch_args.extend(
-            ["--disable-blink-features=AutomationControlled", "--disable-software-rasterizer"]
-        )
+        # "shell" mode renders via Ozone/Wayland-less backend and is harder
+        # to fingerprint than classic headless.
+        headless_option = "shell"
+        launch_args.append("--use-gl=swiftshader")
+        if sys.platform.startswith("linux"):
+            launch_args.extend(["--window-size=1280,720", "--window-position=0,0"])
 
-    log_and_capture(logs, f"Launching Chromium (headless={headless}).")
-    browser = playwright.chromium.launch(headless=headless, args=launch_args)
+    log_and_capture(logs, f"Launching Chromium (headless={headless_option!r}).")
+    browser = playwright.chromium.launch(headless=headless_option, args=launch_args)
     context = browser.new_context(
         ignore_https_errors=True,
         accept_downloads=True,
