@@ -459,16 +459,16 @@ def run_scraper(
         "--disable-background-networking",
         "--disable-backgrounding-occluded-windows",
     ]
-    headless_option: bool | str = headless
+    headless_option = headless
     if headless:
-        # "shell" mode renders via Ozone/Wayland-less backend and is harder
-        # to fingerprint than classic headless.
-        headless_option = "shell"
+        # With no display available we still launch in browser mode but hide
+        # the window off-screen; classic headless can be blocked by the FAA.
+        headless_option = False
         launch_args.append("--use-gl=swiftshader")
         if sys.platform.startswith("linux"):
-            launch_args.extend(["--window-size=1280,720", "--window-position=0,0"])
+            launch_args.extend(["--window-size=1280,720", "--window-position=-32000,-32000"])
 
-    log_and_capture(logs, f"Launching Chromium (headless={headless_option!r}).")
+    log_and_capture(logs, f"Launching Chromium (headless={headless_option}).")
     browser = playwright.chromium.launch(headless=headless_option, args=launch_args)
     context = browser.new_context(
         ignore_https_errors=True,
