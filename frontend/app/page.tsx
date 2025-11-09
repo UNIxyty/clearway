@@ -7,6 +7,14 @@ import { Label } from '@/components/ui/label'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from '@/components/ui/dialog'
 import { Plane, Search, Loader2, Clock, Phone, Mail, AlertCircle, CheckCircle2, Flame, FileText, PlaneTakeoff } from 'lucide-react'
 import { WorldMapSelector } from '@/components/world-map-selector'
 
@@ -25,7 +33,7 @@ interface Contact {
 interface AirportInfo {
   airportCode: string
   airportName: string
-  contacts: Contact[]
+  contacts?: Contact[]
   // Country info
   country?: string
   region?: string
@@ -44,12 +52,35 @@ interface AirportInfo {
   error?: string
 }
 
+interface NotamEntry {
+  header?: string
+  raw?: string
+  [key: string]: string | undefined
+}
+
+interface NotamResult {
+  success: boolean
+  airport?: string
+  entries: NotamEntry[]
+  logs: string[]
+  error?: string
+}
+
+interface AirportApiResponse {
+  success: boolean
+  airport: AirportInfo
+  notams?: NotamResult
+  error?: string
+}
+
 export default function Home() {
   const [airportCode, setAirportCode] = useState('')
   const [loading, setLoading] = useState(false)
   const [progress, setProgress] = useState(0)
   const [airportInfo, setAirportInfo] = useState<AirportInfo | null>(null)
   const [error, setError] = useState<string | null>(null)
+  const [notamResult, setNotamResult] = useState<NotamResult | null>(null)
+  const [notamDialogOpen, setNotamDialogOpen] = useState(false)
 
   const searchAirport = async (code?: string) => {
     const codeToSearch = code || airportCode
@@ -67,6 +98,8 @@ export default function Home() {
     setProgress(0)
     setError(null)
     setAirportInfo(null)
+    setNotamResult(null)
+    setNotamDialogOpen(false)
     
     // Update airportCode state if code was provided
     if (code) {
@@ -92,17 +125,18 @@ export default function Home() {
         body: JSON.stringify({ airportCode: codeToSearch.toUpperCase() })
       })
 
-      const data: AirportInfo = await response.json()
+      const data: AirportApiResponse = await response.json()
 
       // Complete the progress bar
       clearInterval(progressInterval)
       setProgress(100)
 
-      if (!response.ok) {
+      if (!response.ok || !data.success) {
         throw new Error(data.error || 'Failed to fetch airport information')
       }
 
-      setAirportInfo(data)
+      setAirportInfo(data.airport)
+      setNotamResult(data.notams ?? null)
       
       // Small delay to show completion
       setTimeout(() => {
@@ -312,7 +346,7 @@ export default function Home() {
         {airportInfo && !error && (
           <Card className="shadow-lg border-0 bg-white/80 backdrop-blur-sm dark:bg-gray-800/80">
             <CardHeader>
-              <div className="flex items-center justify-between">
+              <div className="flex flex-wrap items-center justify-between gap-4">
                 <div>
                   <CardTitle className="text-3xl mb-2">{airportInfo.airportName}</CardTitle>
                   <div className="flex items-center gap-3">
@@ -326,7 +360,114 @@ export default function Home() {
                     )}
                   </div>
                 </div>
-                <CheckCircle2 className="h-8 w-8 text-green-500" />
+                <div className="flex items-center gap-3">
+                  {notamResult ? (
+                    notamResult.success ? (
+                      <Dialog open={notamDialogOpen} onOpenChange={setNotamDialogOpen}>
+                        <DialogTrigger asChild>
+                          <Button variant="outline" size="sm" className="gap-2">
+                            <FileText className="h-4 w-4" />
+                            {notamResult.entries.length > 0
+                              ? `View NOTAMs (${notamResult.entries.length})`
+                              : 'View NOTAM logs'}
+                          </Button>
+                        </DialogTrigger>
+                        <DialogContent className="max-w-3xl max-h-[85vh] overflow-y-auto space-y-6">
+                          <DialogHeader>
+                            <DialogTitle>NOTAMs for {airportInfo.airportCode}</DialogTitle>
+                            <DialogDescription>
+                              {notamResult.entries.length > 0
+                                ? `${notamResult.entries.length} NOTAM${notamResult.entries.length === 1 ? '' : 's'} fetched from the FAA portal.`
+                                : 'No NOTAMs were returned for this query. Review the logs below for additional context.'}
+                            </DialogDescription>
+                          </DialogHeader>
+                          <div className="space-y-4">
+                            {notamResult.entries.length > 0 ? (
+                              notamResult.entries.map((entry, idx) => {
+                                const detailEntries = Object.entries(entry).filter(
+                                  ([key, value]) =>
+                                    value &&
+                                    key !== 'header' &&
+                                    key !== 'raw'
+                                ) as [string, string][]
+
+                                return (
+                                  <div
+                                    key={`${entry.header || 'notam'}-${idx}`}
+                                    className="rounded-lg border bg-background p-4 shadow-sm space-y-3"
+                                  >
+                                    <div className="flex items-start justify-between gap-3">
+                                      <div>
+                                        <h4 className="text-lg font-semibold">
+                                          {entry.header || `NOTAM ${idx + 1}`}
+                                        </h4>
+                                        {entry.Location && (
+                                          <p className="text-sm text-muted-foreground">
+                                            Location: {entry.Location}
+                                          </p>
+                                        )}
+                                      </div>
+                                      {entry['Start Date/Time'] && (
+                                        <Badge variant="outline" className="text-xs">
+                                          Effective: {entry['Start Date/Time']}
+                                        </Badge>
+                                      )}
+                                    </div>
+                                    {entry.raw && (
+                                      <p className="whitespace-pre-wrap text-sm leading-relaxed text-muted-foreground">
+                                        {entry.raw}
+                                      </p>
+                                    )}
+                                    {detailEntries.length > 0 && (
+                                      <div className="grid gap-2 text-sm">
+                                        {detailEntries.map(([key, value]) => (
+                                          <div
+                                            key={key}
+                                            className="flex items-baseline gap-2"
+                                          >
+                                            <span className="w-48 font-medium text-muted-foreground">
+                                              {key}:
+                                            </span>
+                                            <span className="flex-1 text-foreground">
+                                              {value}
+                                            </span>
+                                          </div>
+                                        ))}
+                                      </div>
+                                    )}
+                                  </div>
+                                )
+                              })
+                            ) : (
+                              <p className="text-sm text-muted-foreground">
+                                No NOTAM entries were returned for this airport code.
+                              </p>
+                            )}
+                          </div>
+                          {notamResult.logs.length > 0 && (
+                            <div>
+                              <h4 className="text-sm font-semibold text-muted-foreground mb-2">
+                                Execution log
+                              </h4>
+                              <div className="max-h-48 overflow-y-auto rounded-md border bg-muted/30 p-3 text-xs font-mono space-y-1">
+                                {notamResult.logs.map((entry, idx) => (
+                                  <div key={idx} className="whitespace-pre-wrap">
+                                    {entry}
+                                  </div>
+                                ))}
+                              </div>
+                            </div>
+                          )}
+                        </DialogContent>
+                      </Dialog>
+                    ) : (
+                      <span className="text-sm text-red-500">
+                        NOTAM fetch failed{notamResult.error ? `: ${notamResult.error}` : ''}
+                      </span>
+                    )
+                  ) : null}
+                  <CheckCircle2 className="h-8 w-8 text-green-500" />
+                </div>
               </div>
             </CardHeader>
 

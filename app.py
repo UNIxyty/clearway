@@ -11,6 +11,7 @@ import sys
 import threading
 import time
 import traceback
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 from pathlib import Path
 
@@ -131,6 +132,93 @@ def get_aip_data_for_airport(airport_code: str) -> dict:
         
         return aip_extracted_data.get(airport_code.upper(), {})
 
+
+def _compile_airport_info(airport_code: str) -> dict:
+    """Aggregate airport data from scrapers and extracted AIP sources."""
+    country = detect_country(airport_code)
+    logger.info(f"Detected country: {country} for airport {airport_code}")
+
+    aip_data = get_aip_data_for_airport(airport_code)
+    airport_info: dict = {}
+
+    scraper = get_scraper(country)
+
+    if scraper:
+        start_time = time.time()
+        try:
+            airport_info = scraper.get_airport_info(airport_code) or {}
+            duration = time.time() - start_time
+            logger.info(f"Scraped airport info for {airport_code} in {duration:.2f} seconds")
+        except Exception as exc:
+            logger.warning(f"Scraper failed for {airport_code}: {exc}")
+            airport_info = {}
+    else:
+        logger.info(f"Using extracted AIP data only for {airport_code}")
+
+    if aip_data:
+        ad22 = aip_data.get('ad22', {})
+        ad23 = aip_data.get('ad23', {})
+        ad26 = aip_data.get('ad26', {})
+
+        if ad22.get('types_of_traffic_permitted'):
+            airport_info['trafficTypes'] = ad22['types_of_traffic_permitted']
+        if ad22.get('remarks'):
+            airport_info['administrativeRemarks'] = ad22['remarks']
+
+        if ad23.get('ad_administrator'):
+            airport_info['adAdministration'] = ad23['ad_administrator']
+        if ad23.get('ad_operator'):
+            airport_info['adOperator'] = ad23['ad_operator']
+        if ad23.get('customs_and_immigration'):
+            airport_info['customsAndImmigration'] = ad23['customs_and_immigration']
+        if ad23.get('ats'):
+            airport_info['ats'] = ad23['ats']
+        if ad23.get('remarks'):
+            airport_info['operationalRemarks'] = ad23['remarks']
+
+        if ad26.get('ad_category_fire_fighting'):
+            airport_info['fireFightingCategory'] = ad26['ad_category_fire_fighting']
+
+    country_info = get_country_from_code(airport_code)
+    if country_info:
+        airport_info['country'] = country_info.get('country')
+        airport_info['region'] = country_info.get('region')
+        airport_info['flag'] = country_info.get('flag')
+
+    if 'airportCode' not in airport_info:
+        airport_info['airportCode'] = airport_code
+
+    if not airport_info.get('airportName'):
+        airport_info['airportName'] = f"{airport_code} Airport"
+
+    return airport_info
+
+
+def _collect_notam_payload(airport_code: str) -> dict:
+    """Fetch NOTAM data for an airport, returning a payload suitable for the API response."""
+    try:
+        result = scrape_notams(
+            airport_code,
+            output_dir=None,
+            save_artifacts=False,
+            verbose=False,
+        )
+        return {
+            'success': True,
+            'airport': result['airport'],
+            'entries': result['notams'],
+            'logs': result['logs'],
+        }
+    except Exception as exc:
+        logger.error(f"NOTAM scraping failed for {airport_code}: {exc}")
+        return {
+            'success': False,
+            'airport': airport_code,
+            'entries': [],
+            'logs': [],
+            'error': str(exc),
+        }
+
 # Load AIP data on module import (for Gunicorn)
 try:
     load_aip_extracted_data()
@@ -183,91 +271,31 @@ def get_airport_info():
         # Get airport code from request
         data = request.get_json()
         if not data or 'airportCode' not in data:
-            return jsonify({'error': 'Airport code is required'}), 400
+            return jsonify({'success': False, 'error': 'Airport code is required'}), 400
         
         airport_code = data['airportCode'].strip().upper()
         
         # Validate airport code
         if not airport_code or len(airport_code) < 3:
-            return jsonify({'error': 'Invalid airport code'}), 400
+            return jsonify({'success': False, 'error': 'Invalid airport code'}), 400
         
         logger.info(f"Processing request for airport: {airport_code}")
-        
-        # Detect country and get appropriate scraper
-        country = detect_country(airport_code)
-        logger.info(f"Detected country: {country} for airport {airport_code}")
-        
-        # Try to get extracted AIP data first
-        aip_data = get_aip_data_for_airport(airport_code)
-        
-        # Initialize airport_info
-        airport_info = {}
-        
-        # Try to get scraper instance (may be None)
-        scraper = get_scraper(country)
-        
-        # If scraper is available, use it for additional data
-        if scraper:
-            start_time = time.time()
-            try:
-                airport_info = scraper.get_airport_info(airport_code)
-                end_time = time.time()
-                logger.info(f"Scraped airport info for {airport_code} in {end_time - start_time:.2f} seconds")
-            except Exception as e:
-                logger.warning(f"Scraper failed for {airport_code}: {e}")
-                airport_info = {}
-        else:
-            logger.info(f"Using extracted AIP data only for {airport_code}")
-        
-        # Merge AIP extracted data with scraper data (AIP data takes precedence)
-        if aip_data:
-            # Map AIP data to expected format
-            ad22 = aip_data.get('ad22', {})
-            ad23 = aip_data.get('ad23', {})
-            ad26 = aip_data.get('ad26', {})
-            
-            # AD 2.2 data
-            if ad22.get('types_of_traffic_permitted'):
-                airport_info['trafficTypes'] = ad22['types_of_traffic_permitted']
-            if ad22.get('remarks'):
-                airport_info['administrativeRemarks'] = ad22['remarks']
-            
-            # AD 2.3 data
-            if ad23.get('ad_administrator'):
-                airport_info['adAdministration'] = ad23['ad_administrator']
-            if ad23.get('ad_operator'):
-                airport_info['adOperator'] = ad23['ad_operator']
-            if ad23.get('customs_and_immigration'):
-                airport_info['customsAndImmigration'] = ad23['customs_and_immigration']
-            if ad23.get('ats'):
-                airport_info['ats'] = ad23['ats']
-            if ad23.get('remarks'):
-                airport_info['operationalRemarks'] = ad23['remarks']
-            
-            # AD 2.6 data
-            if ad26.get('ad_category_fire_fighting'):
-                airport_info['fireFightingCategory'] = ad26['ad_category_fire_fighting']
-        
-        # Add country information to response
-        country_info = get_country_from_code(airport_code)
-        if country_info:
-            airport_info['country'] = country_info.get('country')
-            airport_info['region'] = country_info.get('region')
-            airport_info['flag'] = country_info.get('flag')
-        
-        # Ensure airport code and name are set
-        if 'airportCode' not in airport_info:
-            airport_info['airportCode'] = airport_code
-        
-        if 'airportName' not in airport_info or not airport_info['airportName']:
-            # Use a generic name if we don't have one
-            airport_info['airportName'] = f"{airport_code} Airport"
-        
-        return jsonify(airport_info)
-        
+
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            airport_future = executor.submit(_compile_airport_info, airport_code)
+            notam_future = executor.submit(_collect_notam_payload, airport_code)
+
+            airport_info = airport_future.result()
+            notam_payload = notam_future.result()
+
+        return jsonify({
+            'success': True,
+            'airport': airport_info,
+            'notams': notam_payload,
+        })
     except Exception as e:
         logger.error(f"Error processing airport request: {e}")
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'success': False, 'error': str(e)}), 500
 
 
 @app.route('/api/notam', methods=['POST'])
