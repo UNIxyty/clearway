@@ -458,18 +458,22 @@ def run_scraper(
         "--disable-software-rasterizer",
         "--disable-background-networking",
         "--disable-backgrounding-occluded-windows",
+        "--no-sandbox",
+        "--disable-setuid-sandbox",
     ]
-    headless_option = headless
     if headless:
-        # With no display available we still launch in browser mode but hide
-        # the window off-screen; classic headless can be blocked by the FAA.
-        headless_option = False
-        launch_args.append("--use-gl=swiftshader")
-        if sys.platform.startswith("linux"):
-            launch_args.extend(["--window-size=1280,720", "--window-position=-32000,-32000"])
+        launch_args.extend(
+            [
+                "--use-gl=swiftshader",
+                "--single-process",
+                "--disable-features=TranslateUI",
+            ]
+        )
+    else:
+        launch_args.extend(["--window-size=1280,720", "--window-position=0,0"])
 
-    log_and_capture(logs, f"Launching Chromium (headless={headless_option}).")
-    browser = playwright.chromium.launch(headless=headless_option, args=launch_args)
+    log_and_capture(logs, f"Launching Chromium (headless={headless}).")
+    browser = playwright.chromium.launch(headless=headless, args=launch_args)
     context = browser.new_context(
         ignore_https_errors=True,
         accept_downloads=True,
